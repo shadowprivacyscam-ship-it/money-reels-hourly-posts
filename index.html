@@ -1,0 +1,185 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#0b0d12">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Money Reels">
+<title>Money Reels</title>
+<style>
+:root{--bg:#0b0d12;--card:#141824;--card2:#1b2133;--ink:#f3f5fa;--mute:#98a2b8;--line:#262d42;--gain:#34d399;--loss:#fb7185;--acc:#fbbf24;--blue:#60a5fa}
+*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+html,body{margin:0;height:100%;background:var(--bg);color:var(--ink);font:16px/1.4 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;overscroll-behavior:none}
+button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
+#top{position:fixed;top:0;left:0;right:0;z-index:20;padding:calc(env(safe-area-inset-top) + 8px) 0 6px;background:linear-gradient(var(--bg) 70%,transparent)}
+#brand{display:flex;justify-content:space-between;align-items:center;padding:0 14px 6px}
+#brand b{font-size:18px;letter-spacing:.2px}#brand b span{color:var(--gain)}
+#stamp{font-size:12px;color:var(--mute)}
+#chips{display:flex;gap:8px;overflow-x:auto;padding:0 14px 4px;scrollbar-width:none}
+#chips::-webkit-scrollbar{display:none}
+.chip{flex:none;padding:6px 12px;border-radius:99px;background:var(--card);border:1px solid var(--line);font-size:13px;color:var(--mute);white-space:nowrap}
+.chip.on{background:var(--ink);color:#0b0d12;border-color:var(--ink);font-weight:600}
+#feed{position:fixed;inset:0;overflow-y:scroll;scroll-snap-type:y mandatory;scrollbar-width:none}
+#feed::-webkit-scrollbar{display:none}
+.reel{height:100vh;height:100dvh;scroll-snap-align:start;scroll-snap-stop:always;padding:calc(env(safe-area-inset-top) + 92px) 14px calc(env(safe-area-inset-bottom) + 18px);display:flex;flex-direction:column;gap:10px;position:relative}
+.meta{display:flex;gap:8px;align-items:center;font-size:12px;color:var(--mute)}
+.tag{padding:2px 8px;border-radius:6px;background:var(--card2);color:var(--ink);font-weight:600;text-transform:uppercase;letter-spacing:.6px;font-size:11px}
+h2{margin:0;font-size:24px;line-height:1.15;letter-spacing:-.3px}
+.cap{margin:0;color:#c7cee0;font-size:15px}
+.viz{flex:1;min-height:0;background:var(--card);border:1px solid var(--line);border-radius:18px;padding:16px;overflow:auto}
+.vt{font-size:12px;text-transform:uppercase;letter-spacing:.8px;color:var(--mute);margin-bottom:12px}
+.gain{color:var(--gain)}.loss{color:var(--loss)}.acc{color:var(--acc)}
+.big{font-size:64px;font-weight:800;letter-spacing:-2px;line-height:1}
+.lbl{color:#c7cee0;margin:8px 0 14px}
+.fact{display:flex;justify-content:space-between;gap:10px;padding:10px 0;border-top:1px solid var(--line)}
+.fact small{display:block;color:var(--mute);font-size:12px}.fact b{white-space:nowrap}
+.row{display:flex;justify-content:space-between;align-items:center;gap:10px;padding:11px 0;border-top:1px solid var(--line)}
+.row:first-of-type{border-top:0}
+.row .k{font-weight:600}.row small{display:block;color:var(--mute);font-size:12px;font-weight:400}
+.row .v{text-align:right;font-weight:700;white-space:nowrap}.row .v small{font-weight:600}
+.foot{margin-top:10px;color:var(--mute);font-size:12px}
+.deal{padding:12px;border-radius:12px;background:var(--card2);margin-bottom:10px;display:flex;justify-content:space-between;gap:10px;border-left:4px solid var(--acc)}
+.deal.ok{border-color:var(--gain)}.deal.bad{border-color:var(--loss)}
+.deal small{display:block;color:var(--mute);font-size:12px;margin-top:2px}.deal .amt{font-size:20px;font-weight:800;white-space:nowrap}
+.tl{position:relative;padding-left:22px}.tl:before{content:"";position:absolute;left:5px;top:6px;bottom:6px;width:2px;background:var(--line)}
+.ti{position:relative;margin-bottom:16px}.ti:before{content:"";position:absolute;left:-22px;top:5px;width:12px;height:12px;border-radius:50%;background:var(--card2);border:2px solid var(--mute)}
+.ti.now:before{background:var(--acc);border-color:var(--acc)}
+.ti .d{font-size:11px;letter-spacing:.7px;color:var(--acc);font-weight:700}.ti small{display:block;color:var(--mute);font-size:13px}
+.vs{display:flex;gap:14px;align-items:flex-end;height:230px}
+.vs>div{flex:1;display:flex;flex-direction:column;justify-content:flex-end;height:100%}
+.vs .bar{border-radius:12px 12px 4px 4px;min-height:6px}.vs .n{font-size:28px;font-weight:800;margin:6px 0 0}.vs .l{color:var(--mute);font-size:12px}
+.sym{font-size:34px;font-weight:800}.ex{color:var(--mute);font-size:13px;margin-left:6px}
+.pts{margin:0;padding:0;list-style:none}.pts li{padding:12px 0 12px 26px;border-top:1px solid var(--line);position:relative}
+.pts li:first-child{border-top:0}.pts li:before{content:"";position:absolute;left:4px;top:19px;width:9px;height:9px;border-radius:50%;background:var(--gain)}
+.hint{text-align:center;color:var(--mute);font-size:12px}
+.more{align-self:center;padding:8px 18px;border-radius:99px;background:var(--card2);border:1px solid var(--line);font-size:14px}
+/* edu */
+.edu .scene{height:100%;display:none;flex-direction:column;justify-content:center;gap:12px;animation:in .45s ease}
+.edu .scene.on{display:flex}
+@keyframes in{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+.edu .k{color:var(--acc);font-size:12px;text-transform:uppercase;letter-spacing:1px;font-weight:700}
+.edu .t{font-size:30px;font-weight:800;line-height:1.1;letter-spacing:-.5px}.edu .s{color:#c7cee0;font-size:17px}
+.flow{display:flex;flex-direction:column;gap:6px}.flow div{padding:10px 14px;border-radius:10px;background:var(--card2)}
+.flow div:not(:last-child):after{content:"↓";display:block;text-align:center;color:var(--mute);margin-top:6px}
+.split{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.split div{padding:14px;border-radius:12px;background:var(--card2)}.split .wide{grid-column:1/-1}
+.split small{display:block;color:var(--mute);font-size:12px}.split b{font-size:24px}
+.dca{display:flex;align-items:flex-end;gap:8px;height:150px}
+.dca div{flex:1;background:var(--blue);border-radius:6px 6px 0 0;position:relative;min-height:6px}
+.dca span{position:absolute;top:-20px;left:0;right:0;text-align:center;font-size:12px;color:var(--mute)}
+.prog{display:flex;gap:4px;margin-bottom:8px}.prog i{flex:1;height:3px;border-radius:2px;background:var(--line);overflow:hidden}
+.prog i.on,.prog i.done{background:var(--ink)}.prog i.on{background:var(--acc)}
+.ctl{display:flex;gap:10px;justify-content:center}
+/* sheet */
+#sheet{position:fixed;inset:0;z-index:50;background:rgba(0,0,0,.6);display:none;align-items:flex-end}
+#sheet.on{display:flex}
+#sheet .in{width:100%;max-height:88vh;overflow:auto;background:var(--card);border-radius:22px 22px 0 0;padding:20px 18px calc(env(safe-area-inset-bottom) + 28px);animation:in .25s ease}
+#sheet h3{margin:18px 0 6px;font-size:13px;text-transform:uppercase;letter-spacing:.8px;color:var(--mute)}
+#sheet p,#sheet li{color:#dfe4f1}#sheet ul{padding-left:20px;margin:6px 0}
+#sheet a{color:var(--blue);word-break:break-all}
+#sheet .x{float:right;font-size:22px;color:var(--mute)}
+#msg{position:fixed;inset:0;display:flex;align-items:center;justify-content:center;text-align:center;color:var(--mute);padding:30px}
+</style>
+</head>
+<body>
+<div id="top"><div id="brand"><b>Money<span>Reels</span></b><span id="stamp"></span></div><div id="chips"></div></div>
+<div id="feed"></div>
+<div id="msg">Loading…</div>
+<div id="sheet"><div class="in" id="sin"></div></div>
+<script>
+// Everything comes from the money-reels-hourly-posts repo: this page and posts.json live side by side.
+const RAW="https://raw.githubusercontent.com/shadowprivacyscam-ship-it/money-reels-hourly-posts/main/posts.json";
+const CATS=[["all","All"],["markets","Markets"],["ai","AI"],["taxes","Taxes"],["benefits","Benefits"],["states","States"],["california","California"],["business","Business"],["immigration","Immigration"],["crypto","Crypto"],["politics","Politics"],["world","World"],["learn","Learn"]];
+const $=s=>document.querySelector(s);
+function h(tag,attrs,...kids){const e=document.createElement(tag);for(const k in(attrs||{})){const v=attrs[k];if(v==null||v===false)continue;if(k==="class")e.className=v;else if(k==="style")e.style.cssText=v;else if(k.startsWith("on"))e[k]=v;else e.setAttribute(k,v)}
+ for(const c of kids.flat()){if(c==null||c===false)continue;e.append(c.nodeType?c:document.createTextNode(String(c)))}return e}
+const toneCls=t=>t==="gain"||t==="loss"||t==="acc"?t:"";
+const chCls=n=>n>0?"gain":n<0?"loss":"";
+const fmtCh=n=>(n>0?"+":n<0?"−":"")+Math.abs(n).toFixed(1).replace(/\.0$/,"")+"%";
+const safeUrl=u=>/^https?:\/\//i.test(u||"")?u:"#";
+let LAST=null,ITEMS=[],cat="all",speaking=null;
+
+function viz(v){
+ if(!v)return null;const T=v.title?h("div",{class:"vt"},v.title):null;
+ switch(v.type){
+ case"stat":return h("div",{class:"viz"},T,h("div",{class:"big "+toneCls(v.tone)},v.num),h("div",{class:"lbl"},v.label),
+   (v.facts||[]).map(f=>h("div",{class:"fact"},h("div",{},f[0],f[2]&&h("small",{},f[2])),h("b",{},f[1]))),
+   (v.rows||[]).map(r=>h("div",{class:"row"},h("span",{class:"k"},r[0]),h("span",{class:"v "+chCls(r[1])},fmtCh(r[1])))));
+ case"board":return h("div",{class:"viz"},T,(v.rows||[]).map(r=>h("div",{class:"row"},h("div",{class:"k"},r.k,r.s&&h("small",{},r.s)),
+   h("div",{class:"v "+toneCls(r.tone)},r.v,r.ch!=null&&h("small",{class:chCls(r.ch)},fmtCh(r.ch))))),v.foot&&h("div",{class:"foot"},v.foot));
+ case"deals":return h("div",{class:"viz"},T,(v.items||[]).map(i=>h("div",{class:"deal "+(i.c||"")},h("div",{},h("b",{},i.a+" · "+i.b),h("small",{},i.st)),h("div",{class:"amt"},i.amt))));
+ case"timeline":return h("div",{class:"viz"},T,h("div",{class:"tl"},(v.items||[]).map(i=>h("div",{class:"ti"+(i.now?" now":"")},h("div",{class:"d"},i.d),h("div",{},i.t),i.s&&h("small",{},i.s)))));
+ case"vs":{const col=(x)=>h("div",{},h("div",{class:"bar",style:`height:${Math.max(3,Math.min(1,+x[2]||0)*100)}%;background:var(--${x[3]==="gain"?"gain":x[3]==="loss"?"loss":"acc"})`}),h("div",{class:"n"},x[1]),h("div",{class:"l"},x[0]));
+   return h("div",{class:"viz"},T,h("div",{class:"vs"},col(v.a),col(v.b)),v.foot&&h("div",{class:"foot"},v.foot))}
+ case"ticker":return h("div",{class:"viz"},h("div",{},h("span",{class:"sym"},v.sym),h("span",{class:"ex"},v.ex)),h("div",{style:"margin-top:8px"},(v.rows||[]).map(r=>h("div",{class:"row"},h("div",{class:"k"},r.k,r.s&&h("small",{},r.s)),h("div",{class:"v"},r.v)))));
+ case"points":return h("div",{class:"viz"},T,h("ul",{class:"pts"},(v.items||[]).map(x=>h("li",{},x))));
+ }return null}
+
+function sceneViz(v){
+ if(!v)return null;
+ if(v.type==="flow")return h("div",{class:"flow"},v.items.map(x=>h("div",{},x)));
+ if(v.type==="split")return h("div",{class:"split"},v.items.map(x=>h("div",{class:x[2]||""},h("small",{},x[0]),h("b",{},x[1]))));
+ if(v.type==="dca"){const m=Math.max(...v.cols.map(c=>c[0]))||1;return h("div",{class:"dca"},v.cols.map(c=>h("div",{style:`height:${c[0]/m*100}%`},h("span",{},c[1]))))}
+ return null}
+
+function openSheet(it){
+ const s=$("#sin");s.replaceChildren(h("button",{class:"x",onclick:closeSheet},"✕"),h("h2",{style:"font-size:21px"},it.headline),
+  (it.detail||[]).map(p=>h("p",{},p)),
+  it.money&&it.money.length?[h("h3",{},"Money angles"),h("ul",{},it.money.map(x=>h("li",{},x)))]:null,
+  it.risk&&it.risk.length?[h("h3",{},"Watch out"),h("ul",{},it.risk.map(x=>h("li",{},x)))]:null,
+  it.sources&&it.sources.length?[h("h3",{},"Sources"),h("ul",{},it.sources.map(x=>h("li",{},h("a",{href:safeUrl(x.u),target:"_blank",rel:"noopener noreferrer"},x.t||x.d),x.d?" ("+x.d+")":"")))]:null,
+  h("p",{class:"foot"},"General ideas, not personal financial advice."));
+ $("#sheet").classList.add("on")}
+function closeSheet(){$("#sheet").classList.remove("on")}
+$("#sheet").addEventListener("click",e=>{if(e.target.id==="sheet")closeSheet()});
+
+function newsReel(it){
+ return h("section",{class:"reel","data-id":it.id},
+  h("div",{class:"meta"},h("span",{class:"tag"},it.cat),h("span",{},it.date||"")),
+  h("h2",{},it.headline),h("p",{class:"cap"},it.caption),viz(it.visual),
+  h("button",{class:"more",onclick:()=>openSheet(it)},"Details · money angles · sources"))}
+
+function eduReel(it){
+ const sc=it.scenes||[];let i=0,timer=null,paused=false;
+ const prog=h("div",{class:"prog"},sc.map(()=>h("i")));
+ const scenes=sc.map(x=>h("div",{class:"scene"},h("div",{class:"k"},x.k),h("div",{class:"t"},x.t),x.s&&h("div",{class:"s"},x.s),sceneViz(x.viz)));
+ const box=h("div",{class:"viz edu"},prog,h("div",{style:"height:calc(100% - 14px)"},scenes));
+ function show(n){i=(n+sc.length)%sc.length;scenes.forEach((e,j)=>e.classList.toggle("on",j===i));[...prog.children].forEach((e,j)=>e.className=j<i?"done":j===i?"on":"")}
+ function say(){if(!("speechSynthesis"in window))return;speechSynthesis.cancel();const x=sc[i];const u=new SpeechSynthesisUtterance(x.say||[x.t,x.s].filter(Boolean).join(". "));speechSynthesis.speak(u)}
+ const play=()=>{stop();timer=setInterval(()=>{if(!paused)show(i+1)},5000)};const stop=()=>{clearInterval(timer);timer=null};
+ const pb=h("button",{class:"more",onclick:()=>{paused=!paused;pb.textContent=paused?"▶ Play":"❚❚ Pause"}},"❚❚ Pause");
+ const ctl=h("div",{class:"ctl"},h("button",{class:"more",onclick:()=>{show(i-1)}},"‹"),pb,h("button",{class:"more",onclick:()=>show(i+1)},"›"),h("button",{class:"more",onclick:say},"🔊"));
+ const r=h("section",{class:"reel","data-id":it.id},h("div",{class:"meta"},h("span",{class:"tag"},"Explainer")),h("h2",{},it.headline),h("p",{class:"cap"},it.caption),box,ctl);
+ show(0);r._start=()=>{show(0);paused=false;pb.textContent="❚❚ Pause";play()};r._stop=()=>{stop();if("speechSynthesis"in window)speechSynthesis.cancel()};return r}
+
+let io;
+function render(){
+ const feed=$("#feed");feed.querySelectorAll(".reel").forEach(r=>r._stop&&r._stop());
+ const list=ITEMS.filter(x=>cat==="all"||x.cat===cat||(x.tags||[]).includes(cat));
+ feed.replaceChildren(...list.map(x=>x.type==="edu"?eduReel(x):newsReel(x)));
+ if(!list.length)feed.append(h("section",{class:"reel",style:"justify-content:center;text-align:center;color:var(--mute)"},"Nothing here yet."));
+ feed.scrollTop=0;if(io)io.disconnect();
+ io=new IntersectionObserver(es=>es.forEach(e=>{const r=e.target;if(!r._start)return;e.isIntersecting?r._start():r._stop()}),{root:feed,threshold:.6});
+ feed.querySelectorAll(".reel").forEach(r=>r._start&&io.observe(r))}
+
+function chips(){
+ const have=new Set(ITEMS.flatMap(x=>[x.cat,...(x.tags||[])]));
+ $("#chips").replaceChildren(...CATS.filter(c=>c[0]==="all"||have.has(c[0])).map(c=>h("button",{class:"chip"+(c[0]===cat?" on":""),onclick:()=>{cat=c[0];chips();render()}},c[1])))}
+
+function ago(t){const m=Math.round((Date.now()-new Date(t))/60000);if(isNaN(m))return"";return m<2?"just now":m<90?m+" min ago":m<2880?Math.round(m/60)+" h ago":Math.round(m/1440)+" d ago"}
+
+async function load(){
+ let data=null,err;
+ for(const u of[RAW+"?t="+Math.floor(Date.now()/60000),"posts.json?t="+Date.now()]){
+  try{const r=await fetch(u,{cache:"no-store"});if(r.ok){data=await r.json();break}err=r.status}catch(e){err=e}}
+ if(!data||!Array.isArray(data.items)){$("#msg").textContent="Couldn't load posts. Pull down to retry.";return}
+ const m=$("#msg");if(m)m.remove();
+ $("#stamp").textContent="Updated "+ago(data.updated);
+ if(data.updated===LAST)return;LAST=data.updated;
+ ITEMS=data.items.filter(x=>x&&x.id&&x.headline);chips();render()}
+load();
+setInterval(()=>{if(document.visibilityState==="visible"&&!$("#sheet").classList.contains("on"))load()},15*60*1000);
+</script>
+</body>
+</html>
