@@ -1,6 +1,1024 @@
 {
- "updated": "2026-11-15T20:19:00Z",
+ "updated": "2026-11-15T21:18:00Z",
  "items": [
+  {
+   "id": "gold-below-4000-2026111521",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets"
+   ],
+   "date": "This week",
+   "ts": "2026-11-15T21:18:00Z",
+   "headline": "Gold breaks below $4,000 and hits a 13-month low as rate-hike bets grow",
+   "caption": "Gold fell about 4% this week to near $3,890. Hot inflation, a 5% 10-year yield and a strong dollar pushed it down.",
+   "visual": {
+    "type": "board",
+    "title": "Gold's rough week",
+    "rows": [
+     {
+      "k": "Mon Nov 9",
+      "v": "$4,140",
+      "ch": 1.7,
+      "tone": "gain"
+     },
+     {
+      "k": "Tue Nov 10",
+      "s": "Hot CPI",
+      "v": "$4,032",
+      "ch": -2.6,
+      "tone": "loss"
+     },
+     {
+      "k": "Wed Nov 11",
+      "s": "Dollar up",
+      "v": "$3,983",
+      "ch": -1.2,
+      "tone": "loss"
+     },
+     {
+      "k": "Thu Nov 12",
+      "s": "13-month low",
+      "v": "$3,876",
+      "ch": -2.7,
+      "tone": "loss"
+     },
+     {
+      "k": "Fri Nov 13",
+      "s": "Open",
+      "v": "$3,892",
+      "ch": 0.4,
+      "tone": "gain"
+     }
+    ],
+    "foot": "Silver fell about 3.7% to near $50"
+   },
+   "detail": [
+    "Gold started the week above $4,100 but slid after October inflation came in hotter than expected. By Thursday it closed near $3,876, its lowest in about 13 months. Last week we noted UBS called $4,000 a floor; that level has now broken.",
+    "Higher rates hurt gold because it pays no interest. Markets now price a December Fed hike as very likely. TD Securities sees a retest near $3,900, and central banks have still bought 675 tonnes this year."
+   ],
+   "money": [
+    "If you own gold, check that it's a small, planned slice of your portfolio, not a bet that has grown or shrunk past your target.",
+    "When rates rise, savings accounts and Treasury bills pay more; compare those yields before chasing a gold dip.",
+    "If you buy coins or bars, compare dealer markups; they can wipe out a small price drop."
+   ],
+   "risk": [
+    "Gold could keep falling if the Fed hikes more than expected.",
+    "A sudden Mideast flare-up could send it sharply back up."
+   ],
+   "sources": [
+    {
+     "t": "Gold Lost $4,000 as Inflation Ran Hot and the Dollar Surged",
+     "d": "gsiexchange.com",
+     "u": "https://gsiexchange.com/gold-lost-4-000-as-inflation-ran-hot-and-the-dollar-surged/"
+    },
+    {
+     "t": "Gold prices fall below $4,000 as analysts warn of further losses toward $3,900",
+     "d": "kitco.com",
+     "u": "https://www.kitco.com/news/article/2026-11-11/gold-prices-fall-below-4000-analysts-warn-further-losses-toward-3900"
+    }
+   ]
+  },
+  {
+   "id": "warsh-ai-forum-fomc-week-2026111521",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets",
+    "ai"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-15T21:18:00Z",
+   "headline": "Fed Chair Warsh hosts an AI forum Monday; Fed minutes land Wednesday",
+   "caption": "Warsh leads a San Francisco forum on whether AI lowers prices or costs jobs. Wednesday's minutes show how split the Fed was in October.",
+   "visual": {
+    "type": "timeline",
+    "title": "Fed week ahead",
+    "items": [
+     {
+      "d": "NOV 16",
+      "t": "Warsh AI forum",
+      "s": "San Francisco",
+      "now": true
+     },
+     {
+      "d": "NOV 17",
+      "t": "Retail sales + Hammack",
+      "s": "8:30 a.m. ET data"
+     },
+     {
+      "d": "NOV 18",
+      "t": "Fed minutes",
+      "s": "2:00 p.m. ET"
+     },
+     {
+      "d": "NOV 19",
+      "t": "Goolsbee, Paulson speak"
+     },
+     {
+      "d": "DEC 9",
+      "t": "Next rate decision"
+     }
+    ]
+   },
+   "detail": [
+    "Fed Chair Kevin Warsh will lead a public forum in San Francisco on Monday. Tech leaders, economists and employers will discuss whether AI will cut costs, push prices up, or replace workers. Warsh has argued AI could help ease inflation.",
+    "Other Fed officials disagree. Governor Lisa Cook warned AI spending is adding to price pressure, and Governor Michael Barr flagged possible job disruptions. The forum isn't expected to set policy, but traders will listen for hints before the Dec. 9 decision."
+   ],
+   "money": [
+    "If a December hike comes, rates on new credit card balances and HELOCs usually rise soon after; paying down variable debt now helps.",
+    "Savers can lock in today's high CD or Treasury yields before any later shift.",
+    "Big Fed-week swings are a reason to stick to automatic investing, not to trade on headlines."
+   ],
+   "risk": [
+    "Comments from Warsh could move stocks, bonds and bitcoin sharply on Monday."
+   ],
+   "sources": [
+    {
+     "t": "Fed Chair Warsh Wants Answers on AI Inflation, and Bitcoin May Feel the Impact",
+     "d": "decrypt.co",
+     "u": "https://decrypt.co/383259/fed-chair-warsh-wants-answers-ai-inflation-bitcoin"
+    },
+    {
+     "t": "Gold Lost $4,000 as Inflation Ran Hot and the Dollar Surged",
+     "d": "gsiexchange.com",
+     "u": "https://gsiexchange.com/gold-lost-4-000-as-inflation-ran-hot-and-the-dollar-surged/"
+    }
+   ]
+  },
+  {
+   "id": "eth-etf-outflows-2026111521",
+   "type": "news",
+   "cat": "crypto",
+   "tags": [
+    "crypto",
+    "markets"
+   ],
+   "date": "This week",
+   "ts": "2026-11-15T21:18:00Z",
+   "headline": "Ether sinks 18% in a week as bitcoin funds bleed $1.07 billion",
+   "caption": "Ether fell to about $1,837 and crypto lost over $300B in value this week. Bitcoin ETFs saw outflows every trading day.",
+   "visual": {
+    "type": "stat",
+    "title": "Crypto's week",
+    "num": "-18%",
+    "tone": "loss",
+    "label": "Ether's drop over the past week.",
+    "facts": [
+     [
+      "Bitcoin",
+      "$65,821",
+      "-13.3% on week"
+     ],
+     [
+      "Total crypto",
+      "$2.27T",
+      "from $2.59T"
+     ],
+     [
+      "Fear & Greed",
+      "10",
+      "Extreme Fear"
+     ]
+    ]
+   },
+   "detail": [
+    "Ether fell from about $2,240 to $1,837 this week, touching $1,711, its lowest since early July. Bitcoin fell about 13% and broke below its 200-week average. The fear index dropped to 10, deep in 'extreme fear.'",
+    "Spot bitcoin ETFs lost about $1.07 billion this week, with outflows on all five days and roughly $3 billion since Oct. 30. Ether ETFs lost about $399 million. Stablecoin supply also shrank at the fastest pace since 2022."
+   ],
+   "money": [
+    "Selling after a big drop can lock in losses; decide on a plan before acting on fear.",
+    "Losses in a taxable account may offset gains at tax time; ask a tax pro how that works for you.",
+    "Avoid borrowed money in crypto; about $2 billion in leveraged bets were wiped out in one day."
+   ],
+   "risk": [
+    "Crypto can fall much further, and quickly.",
+    "ETF outflows can keep pressure on prices for weeks."
+   ],
+   "sources": [
+    {
+     "t": "The Sunday Crypto Desk, 15 November 2026",
+     "d": "thecryptodesk.substack.com",
+     "u": "https://thecryptodesk.substack.com/p/the-sunday-crypto-desk-15-november"
+    }
+   ]
+  },
+  {
+   "id": "nebraska-medicaid-work-rules-2026111521",
+   "type": "news",
+   "cat": "benefits",
+   "tags": [
+    "benefits",
+    "states"
+   ],
+   "date": "Sun Nov 15",
+   "ts": "2026-11-15T21:18:00Z",
+   "headline": "Nebraska's early Medicaid work rules: 1,100 denied, call waits doubled",
+   "caption": "Nebraska started work rules eight months early. The state calls it a success, but call waits doubled and some lost coverage over paperwork.",
+   "visual": {
+    "type": "board",
+    "title": "Nebraska, May to August",
+    "rows": [
+     {
+      "k": "Adults covered by rule",
+      "v": "~70,000"
+     },
+     {
+      "k": "Denied over work rule",
+      "s": "Mostly unanswered paperwork",
+      "v": "~1,100",
+      "tone": "loss"
+     },
+     {
+      "k": "Enrollment change",
+      "v": "-4,600",
+      "ch": -1.4,
+      "tone": "loss"
+     },
+     {
+      "k": "Avg call wait",
+      "s": "May to July",
+      "v": "13 to 26 min",
+      "tone": "loss"
+     },
+     {
+      "k": "Existing enrollees kept coverage",
+      "v": "93%",
+      "tone": "gain"
+     }
+    ],
+    "foot": "Most states start the rules next year"
+   },
+   "detail": [
+    "Nebraska began Medicaid work requirements on May 1, months ahead of most states. Adults must log 80 hours a month of work or similar activity unless exempt. The state says 93% of existing enrollees kept coverage.",
+    "Fortune reports about 1,100 people were denied, mostly for not answering requests for information. Calls jumped 66% and wait times doubled. More than 40 states start similar rules next year, and the CBO expects 5.3 million more uninsured by 2034."
+   ],
+   "money": [
+    "If you're on Medicaid, open and answer every state letter fast; most denials came from missed paperwork.",
+    "Ask whether you qualify for an exemption, such as for health or caregiving, before a deadline hits.",
+    "If you lose Medicaid, ACA open enrollment is running now and may offer subsidized plans."
+   ],
+   "risk": [
+    "Rules and dates differ by state; some states delayed enforcement to mid-2027."
+   ],
+   "sources": [
+    {
+     "t": "Nebraska rushed Medicaid work rules. Then a cancer patient was told he'd lost coverage",
+     "d": "fortune.com",
+     "u": "https://fortune.com/2026/11/15/medicaid-work-requirements-lost-coverage-nebraska-early-rollout"
+    }
+   ]
+  },
+  {
+   "id": "payroll-tax-cap-6700-2026111521",
+   "type": "news",
+   "cat": "taxes",
+   "tags": [
+    "taxes",
+    "politics",
+    "benefits"
+   ],
+   "date": "Sun Nov 15",
+   "ts": "2026-11-15T21:18:00Z",
+   "headline": "Democrats eye the Social Security tax cap: high earners could pay $6,700 more",
+   "caption": "Sanders wants to lift the payroll tax cap, now $184,500. Raising it to $300,000 would cost someone earning that much about $6,700 a year.",
+   "visual": {
+    "type": "vs",
+    "title": "Max employee Social Security tax",
+    "a": [
+     "2027 cap",
+     "$11,923",
+     0.64,
+     "acc"
+    ],
+    "b": [
+     "If cap were $300K",
+     "$18,600",
+     1,
+     "loss"
+    ],
+    "foot": "Employee share at 6.2%. Not law; Congress hasn't voted."
+   },
+   "detail": [
+    "Social Security tax is 6.2% for workers, matched by employers, but only on wages up to a cap. The cap is $184,500 this year and $192,300 in 2027. Sen. Bernie Sanders says lifting it and raising benefits $2,400 a year are top goals now that Democrats will control Congress.",
+    "A Tax Policy Center economist estimated a $300,000 cap would cost a worker at that pay about $6,700 more a year. People earning $150,000 would see no change. Removing the cap would close about 58% of the program's long-term gap."
+   ],
+   "money": [
+    "If you earn above the cap, watch this debate when planning bonuses, raises or job offers.",
+    "Self-employed high earners pay both halves, so a change would hit them twice as hard; plan estimated taxes accordingly.",
+    "Retirement income like IRA withdrawals isn't hit by payroll tax, so this mainly affects wages."
+   ],
+   "risk": [
+    "Nothing has passed, and the president could veto changes."
+   ],
+   "sources": [
+    {
+     "t": "After Democrats Sweep Congress, Your Social Security Taxes Could Rise by $6,700",
+     "d": "247wallst.com",
+     "u": "https://247wallst.com/personal-finance/social-security/2026/11/15/after-democrats-sweep-congress-your-social-security-taxes-could-rise-by-6700/"
+    }
+   ]
+  },
+  {
+   "id": "irs-ai-tax-pro-complaints-2026111521",
+   "type": "news",
+   "cat": "taxes",
+   "tags": [
+    "taxes",
+    "ai"
+   ],
+   "date": "Sun Nov 15",
+   "ts": "2026-11-15T21:18:00Z",
+   "headline": "IRS sees more complaints about tax preparers misusing AI",
+   "caption": "The IRS ethics office says AI-related referrals are starting to rise. It plans new AI guidance for tax pros within a couple of months.",
+   "visual": {
+    "type": "points",
+    "title": "IRS and AI tax prep",
+    "items": [
+     "AI cases are rising, but still under 5 of ~200 open cases",
+     "Rules for tax pros already apply to AI use (June alert)",
+     "More guidance due in the next couple of months",
+     "The ethics office has just 15 staff"
+    ]
+   },
+   "detail": [
+    "The IRS Office of Professional Responsibility polices tax preparers. Its director says referrals involving questionable AI use are starting to tick up. Fewer than five of its roughly 200 cases involve AI so far.",
+    "In June the office said its existing rules for preparers, known as Circular 230, cover AI tools. It plans more guidance soon, though it has only 15 workers."
+   ],
+   "money": [
+    "Ask your preparer how they use AI and who checks the final return.",
+    "Review your return line by line before you sign; you're liable for errors even if a pro filed it.",
+    "Keep your own records of income and deductions so you can catch mistakes."
+   ],
+   "risk": [
+    "An AI error on your return can still bring penalties and interest for you."
+   ],
+   "sources": [
+    {
+     "t": "IRS: Tax Pro AI Complaints Are on the Rise",
+     "d": "taxprofblog.aals.org",
+     "u": "https://taxprofblog.aals.org/2026/11/15/irs-tax-pro-ai-complaints-are-on-the-rise"
+    }
+   ]
+  },
+  {
+   "id": "cassidy-social-security-fund-2026111521",
+   "type": "news",
+   "cat": "politics",
+   "tags": [
+    "politics",
+    "benefits"
+   ],
+   "date": "Sun Nov 15",
+   "ts": "2026-11-15T21:18:00Z",
+   "headline": "Sen. Cassidy pitches borrowing $1.5 trillion to invest for Social Security",
+   "caption": "On Face the Nation, Cassidy said a $1.5 trillion investment fund could cover up to 70% of the shortfall. He said Sen. Wyden opposes it.",
+   "visual": {
+    "type": "stat",
+    "title": "Cassidy's Social Security idea",
+    "num": "$1.5T",
+    "tone": "acc",
+    "label": "Borrowed money that would be invested in markets.",
+    "facts": [
+     [
+      "Shortfall covered",
+      "Up to 70%",
+      "Cassidy's estimate"
+     ],
+     [
+      "Insolvency",
+      "~6 years",
+      "per CBS"
+     ],
+     [
+      "Status",
+      "Proposal",
+      "not a bill vote"
+     ]
+    ]
+   },
+   "detail": [
+    "Sen. Bill Cassidy (R-La.) described a plan to borrow $1.5 trillion and put it in investment funds. He said the returns could cover up to 70% of Social Security's funding gap. He said Sen. Ron Wyden opposes the idea.",
+    "Host Margaret Brennan noted Social Security is about six years from insolvency. This is one of several plans as Democrats, who take Congress in January, push to tax more wages instead."
+   ],
+   "money": [
+    "Plans are moving in two directions, more taxes or new investing; check your own Social Security estimate at ssa.gov.",
+    "If you're close to claiming, base plans on current law, but keep a cushion in case benefits change.",
+    "Building your own savings in a 401(k) or IRA lowers how much a change would hurt."
+   ],
+   "risk": [
+    "Investing borrowed money in markets carries the risk of losses."
+   ],
+   "sources": [
+    {
+     "t": "Full transcript of Face the Nation, Nov. 15, 2026",
+     "d": "cbsnews.com",
+     "u": "https://cbsnews.com/news/face-the-nation-full-transcript-11-15-2026"
+    }
+   ]
+  },
+  {
+   "id": "faa-funding-fight-2026111521",
+   "type": "news",
+   "cat": "politics",
+   "tags": [
+    "politics",
+    "business"
+   ],
+   "date": "Sun Nov 15",
+   "ts": "2026-11-15T21:18:00Z",
+   "headline": "After flight chaos, Duffy wants $50B for air traffic control; Democrats balk",
+   "caption": "Transportation Secretary Duffy said the FAA has $12.5B but needs $50B. Rep. Himes said spend what's there first.",
+   "visual": {
+    "type": "vs",
+    "title": "Air traffic control money",
+    "a": [
+     "Already approved",
+     "$12.5B",
+     0.25,
+     "acc"
+    ],
+    "b": [
+     "Duffy's total ask",
+     "$50B",
+     1,
+     "loss"
+    ],
+    "foot": "Democrats say much of $25B approved in 2021 is unspent"
+   },
+   "detail": [
+    "On Face the Nation, Transportation Secretary Sean Duffy said Congress gave the FAA $12.5 billion in this year's big budget law. He said he has asked for $50 billion in total and still lacks funds for new networks and software.",
+    "Rep. Jim Himes (D-Conn.) called it a priorities problem, not a money problem, and said the $12.5 billion should be spent first. The fight follows last week's nationwide ground stop that canceled thousands of flights."
+   ],
+   "money": [
+    "Book holiday flights early in the day; early flights are less likely to face rolling delays.",
+    "Know your refund rights: if a US airline cancels, you can get cash back instead of a voucher.",
+    "Travel credit cards with delay coverage can pay for hotels and meals when flights slip."
+   ],
+   "risk": [
+    "More outages could hit during the busy holiday season."
+   ],
+   "sources": [
+    {
+     "t": "Full transcript of Face the Nation, Nov. 15, 2026",
+     "d": "cbsnews.com",
+     "u": "https://cbsnews.com/news/face-the-nation-full-transcript-11-15-2026"
+    }
+   ]
+  },
+  {
+   "id": "microsoft-h1b-scrutiny-2026111521",
+   "type": "news",
+   "cat": "immigration",
+   "tags": [
+    "immigration",
+    "business",
+    "ai"
+   ],
+   "date": "Fri Nov 13",
+   "ts": "2026-11-15T21:18:00Z",
+   "headline": "Labor Dept. watchdog ties Microsoft outage jab to its H-1B use; Microsoft pushes back",
+   "caption": "The Labor Department's inspector general said layoffs while seeking H-1B visas raise red flags. Microsoft says the outage had nothing to do with visas.",
+   "visual": {
+    "type": "board",
+    "title": "Microsoft and H-1B",
+    "rows": [
+     {
+      "k": "H-1B approvals FY2025",
+      "s": "Includes renewals",
+      "v": "6,258"
+     },
+     {
+      "k": "H-1B approvals FY2024",
+      "v": "~4,700"
+     },
+     {
+      "k": "Global layoffs 2025",
+      "v": "~16,000",
+      "tone": "loss"
+     },
+     {
+      "k": "IG probe",
+      "v": "Active",
+      "tone": "acc"
+     }
+    ]
+   },
+   "detail": [
+    "After Microsoft's global outage, Labor Department Inspector General Anthony D'Esposito criticized the company's H-1B use online. He said layoffs while pursuing H-1B visas raise serious red flags and that an investigation remains active.",
+    "Microsoft said the outage was not related in any way to its immigration program and blamed a technical issue. It was approved for 6,258 H-1B petitions in fiscal 2025. A September executive order lets agencies weigh an employer's layoffs when reviewing H-1B sponsorship."
+   ],
+   "money": [
+    "Visa workers at firms that recently cut jobs may face more review; keep your paperwork and timelines current.",
+    "Tech workers can track which employers are under scrutiny when weighing job offers.",
+    "If you hire, keep clear records of layoffs and hiring decisions in case of an audit."
+   ],
+   "risk": [
+    "Rules here are changing fast and are being challenged in court."
+   ],
+   "sources": [
+    {
+     "t": "Trump admin questions Microsoft's H-1B applications after outage",
+     "d": "yahoo.com",
+     "u": "https://yahoo.com/news/politics/articles/trump-admin-questions-microsofts-h-200425556.html"
+    },
+    {
+     "t": "New Executive Order and PERM Suspensions Tie H-1B and Green Card Sponsorship to Layoff History",
+     "d": "natlawreview.com",
+     "u": "https://natlawreview.com/article/new-executive-order-and-perm-suspensions-tie-h-1b-and-green-card-sponsorship-layoff"
+    }
+   ]
+  },
+  {
+   "id": "ice-arrest-target-polls-2026111521",
+   "type": "news",
+   "cat": "immigration",
+   "tags": [
+    "immigration",
+    "politics"
+   ],
+   "date": "Sun Nov 15",
+   "ts": "2026-11-15T21:18:00Z",
+   "headline": "CBS: ICE told to aim for 19,000 arrests a week as 58% of voters say it's gone too far",
+   "caption": "After a record 483,000 deportations, CBS reported a weekly arrest goal. Its exit polls found most voters think enforcement went too far.",
+   "visual": {
+    "type": "stat",
+    "title": "Enforcement by the numbers",
+    "num": "19,000",
+    "tone": "acc",
+    "label": "Weekly arrest goal ICE officials were told to aim for, per CBS.",
+    "facts": [
+     [
+      "FY2026 deportations",
+      "~483,000",
+      "record"
+     ],
+     [
+      "Voters: 'too far'",
+      "58%",
+      "CBS exit poll"
+     ],
+     [
+      "Arrests w/o record",
+      "Over half",
+      "CBS July analysis"
+     ]
+    ]
+   },
+   "detail": [
+    "On Face the Nation, CBS said ICE officials have been told to aim for about 19,000 arrests a week. ICE deported just over 483,000 people in fiscal 2026, a record.",
+    "CBS exit polling found 58% of midterm voters said enforcement had gone too far. A July CBS analysis found more than half of ICE arrests involved people with no criminal convictions or pending charges. The administration says the effort targets people in the country illegally."
+   ],
+   "money": [
+    "Employers in construction, farming and food service may face labor shortages; that can raise prices and wages locally.",
+    "Mixed-status families should keep key documents and an emergency money plan ready.",
+    "Use only licensed immigration attorneys or accredited reps to avoid costly scams."
+   ],
+   "risk": [
+    "Policy may shift as Democrats take Congress in January."
+   ],
+   "sources": [
+    {
+     "t": "Full transcript of Face the Nation, Nov. 15, 2026",
+     "d": "cbsnews.com",
+     "u": "https://cbsnews.com/news/face-the-nation-full-transcript-11-15-2026"
+    }
+   ]
+  },
+  {
+   "id": "deal-watch-tesla-spacex-2026111521",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business",
+    "markets"
+   ],
+   "date": "This week",
+   "ts": "2026-11-15T21:18:00Z",
+   "headline": "Deal watch: Tesla–SpaceX talks advance, Samsung eyes Modine, PE drops Global Payments",
+   "caption": "Bloomberg reports Tesla and SpaceX merger talks are progressing. Samsung is in talks for a data center cooling maker.",
+   "visual": {
+    "type": "deals",
+    "title": "Deals in motion",
+    "items": [
+     {
+      "a": "Tesla",
+      "b": "SpaceX merger",
+      "amt": "Talks",
+      "st": "Could come by December",
+      "c": "pend"
+     },
+     {
+      "a": "Samsung",
+      "b": "Modine (cooling)",
+      "amt": "Talks",
+      "st": "Deal possible in weeks",
+      "c": "pend"
+     },
+     {
+      "a": "CD&R, GTCR",
+      "b": "Global Payments",
+      "amt": "Dropped",
+      "st": "Take-private talks end",
+      "c": "bad"
+     },
+     {
+      "a": "Jacobs PE",
+      "b": "CKX Lands",
+      "amt": "$1B",
+      "st": "Investment agreed",
+      "c": "ok"
+     }
+    ]
+   },
+   "detail": [
+    "Bloomberg reported that Tesla and SpaceX merger talks are moving forward, with an announcement possible as soon as December, or early 2027. One hurdle is how to wall off Tesla's China business.",
+    "Samsung Electronics is in talks to buy Modine, which makes cooling gear for data centers, per Bloomberg. Separately, private equity firms CD&R and GTCR dropped early talks to take Global Payments private, per Reuters."
+   ],
+   "money": [
+    "Rumored deals can fall apart; buying a stock on takeover talk is a gamble, not a sure gain.",
+    "If you own a target company, a deal usually pays a premium; know whether it's cash or stock.",
+    "Broad index funds give you exposure to deals without betting on one outcome."
+   ],
+   "risk": [
+    "None of the rumored deals is final."
+   ],
+   "sources": [
+    {
+     "t": "The Special Situation Report #240: November 15 Roundup",
+     "d": "thespecialsituationreport.com",
+     "u": "https://www.thespecialsituationreport.com/p/the-special-situation-report-240"
+    }
+   ]
+  },
+  {
+   "id": "freight-layoffs-bankruptcies-2026111521",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business"
+   ],
+   "date": "This week",
+   "ts": "2026-11-15T21:18:00Z",
+   "headline": "Freight slump: 1,000+ logistics layoffs and 15 trucking bankruptcies since mid-September",
+   "caption": "At least 10 logistics firms announced 1,021 cuts, including Amazon in La Puente, CA. Many small carriers have filed for bankruptcy.",
+   "visual": {
+    "type": "board",
+    "title": "Logistics job cuts",
+    "rows": [
+     {
+      "k": "National Distribution Centers",
+      "s": "Perris CA, Groveport OH",
+      "v": "293"
+     },
+     {
+      "k": "DSV",
+      "s": "Edwardsville IL",
+      "v": "175"
+     },
+     {
+      "k": "CEVA",
+      "s": "Lockbourne OH",
+      "v": "120"
+     },
+     {
+      "k": "Amazon",
+      "s": "La Puente CA",
+      "v": "94"
+     },
+     {
+      "k": "Kenco",
+      "s": "Pennsylvania",
+      "v": "81"
+     }
+    ],
+    "foot": "1,021 total from 10+ companies (FreightWaves)"
+   },
+   "detail": [
+    "FreightWaves counts at least 1,021 logistics job cuts announced from late October to Nov. 11, many taking effect in early 2027. Amazon is cutting 94 jobs at its La Puente, California, fulfillment center.",
+    "Fifteen freight businesses filed for bankruptcy between Sept. 14 and Nov. 10, mostly small trucking firms. Several, like Bruin Logistics and Winners Trucking, chose Chapter 7 liquidation."
+   ],
+   "money": [
+    "Warehouse and trucking workers should check WARN notices for their employer and update resumes early.",
+    "Laid-off workers can file for unemployment the first week after a job ends.",
+    "Holiday seasonal jobs can bridge a gap; retailers plan 325,000 to 375,000 hires."
+   ],
+   "risk": [
+    "More cuts could follow if freight demand stays weak into 2027."
+   ],
+   "sources": [
+    {
+     "t": "Freight distress persists as logistics layoffs top 1,000, bankruptcies mount",
+     "d": "freightwaves.com",
+     "u": "https://www.freightwaves.com/news/freight-distress-persists-as-logistics-layoffs-top-1000-bankruptcies-mount"
+    }
+   ]
+  },
+  {
+   "id": "biotech-cuts-milestone-crinetics-2026111521",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business"
+   ],
+   "date": "This week",
+   "ts": "2026-11-15T21:18:00Z",
+   "headline": "Biotech cuts: Milestone trims 20% of HQ; Crinetics lays off 78 after Vertex deal",
+   "caption": "Milestone Pharmaceuticals is cutting staff to stretch its cash to 2028. Crinetics cuts 13% of workers after its $10B sale to Vertex.",
+   "visual": {
+    "type": "board",
+    "title": "Biotech layoffs",
+    "rows": [
+     {
+      "k": "Milestone Pharma",
+      "s": "HQ staff; CMO let go",
+      "v": "~20%",
+      "tone": "loss"
+     },
+     {
+      "k": "Crinetics",
+      "s": "Effective Jan 4",
+      "v": "78 jobs",
+      "tone": "loss"
+     },
+     {
+      "k": "Vertex–Crinetics deal",
+      "v": "~$10B"
+     }
+    ]
+   },
+   "detail": [
+    "Milestone Pharmaceuticals said on Nov. 13 it will cut about 20% of its headquarters staff to extend its cash into late 2028. It expects operating costs to fall 30%. Its chief medical officer was let go and its CFO resigned.",
+    "Crinetics will lay off 78 workers, about 13% of staff, effective Jan. 4, 2027. The cuts, mostly in corporate roles, come about two months after Vertex closed its roughly $10 billion purchase of the company."
+   ],
+   "money": [
+    "After an acquisition, overlapping corporate roles are most at risk; build skills and contacts early.",
+    "Read severance terms carefully before signing, especially health coverage and stock vesting.",
+    "Unvested stock may be cashed out or cancelled in a takeover; check your plan documents."
+   ],
+   "risk": [
+    "Small biotechs with short cash runways may keep cutting."
+   ],
+   "sources": [
+    {
+     "t": "BioSpace Layoff Tracker",
+     "d": "biospace.com",
+     "u": "https://www.biospace.com/biospace-layoff-tracker"
+    }
+   ]
+  },
+  {
+   "id": "jane-kim-disaster-insurance-2026111521",
+   "type": "news",
+   "cat": "california",
+   "tags": [
+    "california",
+    "business"
+   ],
+   "date": "Sat Nov 14",
+   "ts": "2026-11-15T21:18:00Z",
+   "headline": "California's next insurance chief pitches state-run disaster coverage",
+   "caption": "Commissioner-elect Jane Kim wants a single-payer natural disaster policy for homeowners. Republicans warn taxpayers could be on the hook.",
+   "visual": {
+    "type": "stat",
+    "title": "California home insurance",
+    "num": "$18B",
+    "tone": "acc",
+    "label": "What Californians spend a year to insure homes.",
+    "facts": [
+     [
+      "Wildfire share",
+      "$3B–$6B",
+      "per year"
+     ],
+     [
+      "Kim takes office",
+      "Jan 4",
+      "replaces Lara"
+     ],
+     [
+      "Status",
+      "Proposal",
+      "needs lawmakers"
+     ]
+    ]
+   },
+   "detail": [
+    "Jane Kim, California's newly elected insurance commissioner, wants a state-run, single-payer natural disaster policy for homeowners. It would go beyond the FAIR Plan. She points to models in Spain, France and New Zealand.",
+    "She says it would cost taxpayers nothing by investing premiums and using profits for wildfire and flood prevention. Republican leader Roger Niello opposes taxpayer guarantees. Kim takes office Jan. 4."
+   ],
+   "money": [
+    "Shop your homeowners policy now; compare FAIR Plan plus a 'wraparound' policy against private options.",
+    "Home-hardening upgrades can earn insurance discounts in California.",
+    "Document your belongings with photos and video today to speed any future claim."
+   ],
+   "risk": [
+    "Any new program would need the Legislature and could take years."
+   ],
+   "sources": [
+    {
+     "t": "Insurance commissioner-elect pushes plan for homeowners",
+     "d": "timesofsandiego.com",
+     "u": "https://timesofsandiego.com/housing/2026/11/14/insurance-commissioner-elect-pushes-plan-for-homeowners/"
+    }
+   ]
+  },
+  {
+   "id": "tech-layoffs-206k-grok-2026111521",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "business"
+   ],
+   "date": "This week",
+   "ts": "2026-11-15T21:18:00Z",
+   "headline": "Tech layoffs top 206,000 this year as SpaceX's AI unit cuts Grok's video team",
+   "caption": "TrueUp counts 206,817 tech workers laid off in 2026, about 652 a day. SpaceX's AI group cut about 60 jobs from Grok Imagine.",
+   "visual": {
+    "type": "stat",
+    "title": "Tech layoffs in 2026",
+    "num": "206,817",
+    "tone": "loss",
+    "label": "Tech workers hit by layoffs so far this year (TrueUp).",
+    "facts": [
+     [
+      "Per day",
+      "~652",
+      "vs 579 in 2025"
+     ],
+     [
+      "2025 total",
+      "~211,000",
+      ""
+     ],
+     [
+      "Year-end pace",
+      "~238,000",
+      "estimate"
+     ]
+    ]
+   },
+   "detail": [
+    "TrueUp's tracker counts 206,817 tech workers affected by 712 layoffs this year, nearly matching 2025's total. At this pace, 2026 could reach about 238,000. Not every cut is due to AI; restructuring and cost-cutting play a part.",
+    "The Information reports SpaceX's AI division cut about 60 roles from Grok Imagine, its video tool, leaving a small crew. Video AI is costly to run, and the company is shifting to coding tools and agents."
+   ],
+   "money": [
+    "Tech workers should keep an emergency fund of several months of expenses.",
+    "Skills in AI coding tools and agents are where companies are still hiring.",
+    "If laid off, roll your 401(k) to an IRA rather than cashing out to avoid taxes and penalties."
+   ],
+   "risk": [
+    "Trackers count differently, so totals vary by source."
+   ],
+   "sources": [
+    {
+     "t": "2026 Tech Layoffs Exceed 206,000 as AI Investments Rise",
+     "d": "kucoin.com",
+     "u": "https://www.kucoin.com/news/flash/2026-tech-layoffs-exceed-206-000-as-ai-investments-rise"
+    },
+    {
+     "t": "Musk's AI group lays off 60 staffers from Grok video unit, The Information reports",
+     "d": "investing.com",
+     "u": "https://www.investing.com/news/stock-market-news/musks-ai-group-lays-off-60-staffers-from-grok-video-unit-the-information-reports-5025776"
+    }
+   ]
+  },
+  {
+   "id": "edu-gold-rates-2026111521",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "markets"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-15T21:18:00Z",
+   "headline": "Why gold falls when interest rates rise",
+   "caption": "Gold just broke below $4,000 as rate-hike bets grew. Here's the simple reason the two move apart.",
+   "scenes": [
+    {
+     "k": "This week",
+     "t": "Gold fell below $4,000.",
+     "s": "It hit a 13-month low near $3,876."
+    },
+    {
+     "k": "The catch",
+     "t": "Gold pays you nothing.",
+     "s": "No interest, no dividends. Its only return is price."
+    },
+    {
+     "k": "The swap",
+     "t": "Higher rates make cash pay more.",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "Inflation runs hot",
+       "Fed may hike",
+       "Bond yields rise",
+       "Gold looks less attractive"
+      ]
+     }
+    },
+    {
+     "k": "This week's numbers",
+     "t": "Gold vs. a safe yield",
+     "viz": {
+      "type": "split",
+      "items": [
+       [
+        "Gold Mon",
+        "$4,140"
+       ],
+       [
+        "Gold Thu",
+        "$3,876"
+       ],
+       [
+        "10-year yield",
+        "Above 5%",
+        "wide"
+       ]
+      ]
+     },
+     "say": "Gold fell from about 4,140 dollars Monday to 3,876 Thursday, as the 10-year Treasury yield climbed above 5 percent."
+    },
+    {
+     "k": "The dollar",
+     "t": "A strong dollar adds pressure.",
+     "s": "Gold is priced in dollars, so it costs more for foreign buyers."
+    },
+    {
+     "k": "Your move",
+     "t": "Keep gold a small, steady slice.",
+     "s": "Rebalance on a schedule instead of reacting to each swing."
+    }
+   ]
+  },
+  {
+   "id": "edu-payroll-cap-2026111521",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "taxes",
+    "benefits"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-15T21:18:00Z",
+   "headline": "The Social Security tax cap, explained",
+   "caption": "Congress may raise the cap on wages taxed for Social Security. Here's how it works and who would pay.",
+   "scenes": [
+    {
+     "k": "In the news",
+     "t": "Democrats eye the payroll tax cap.",
+     "s": "It could cost high earners thousands more a year."
+    },
+    {
+     "k": "The basics",
+     "t": "You pay 6.2% on your wages.",
+     "s": "Your employer pays another 6.2%."
+    },
+    {
+     "k": "The cap",
+     "t": "But only up to a limit.",
+     "viz": {
+      "type": "split",
+      "items": [
+       [
+        "2026 cap",
+        "$184,500"
+       ],
+       [
+        "2027 cap",
+        "$192,300"
+       ],
+       [
+        "Above the cap",
+        "No Social Security tax",
+        "wide"
+       ]
+      ]
+     },
+     "say": "The cap is 184,500 dollars this year and 192,300 dollars in 2027. Wages above that aren't taxed for Social Security."
+    },
+    {
+     "k": "The proposal",
+     "t": "Raise it, and top pay gets taxed.",
+     "s": "A $300,000 cap would cost someone earning that about $6,700 a year."
+    },
+    {
+     "k": "Who's not affected",
+     "t": "Most workers see no change.",
+     "s": "Someone earning $150,000 would pay the same as today."
+    },
+    {
+     "k": "Your move",
+     "t": "Know where your pay falls.",
+     "s": "Check your pay stub and Social Security statement each year."
+    }
+   ]
+  },
   {
    "id": "huang-return-talk-2026111520",
    "type": "news",
