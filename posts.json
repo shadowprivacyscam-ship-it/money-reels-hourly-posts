@@ -1,6 +1,1090 @@
 {
- "updated": "2026-11-15T21:18:00Z",
+ "updated": "2026-11-15T22:30:00Z",
  "items": [
+  {
+   "id": "market-mood-check-2026111522",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets"
+   ],
+   "date": "Fri Nov 13",
+   "ts": "2026-11-15T22:30:00Z",
+   "headline": "Stocks rallied 2.5% last week, but half of small investors still feel bearish",
+   "caption": "The S&P 500 snapped a four-week losing streak, yet the AAII survey shows 51% bears. The fear gauge eased to 39 from 22.",
+   "visual": {
+    "type": "board",
+    "title": "Mood check after last week",
+    "rows": [
+     {
+      "k": "S&P 500",
+      "s": "first weekly gain in 5",
+      "v": "7,561.67",
+      "ch": 2.51,
+      "tone": "gain"
+     },
+     {
+      "k": "AAII bears",
+      "s": "share of investors",
+      "v": "51.4%",
+      "tone": "loss"
+     },
+     {
+      "k": "Fear & Greed",
+      "s": "up from 22",
+      "v": "39",
+      "tone": "acc"
+     },
+     {
+      "k": "VIX",
+      "s": "volatility gauge",
+      "v": "19.30",
+      "ch": -24.7,
+      "tone": "gain"
+     },
+     {
+      "k": "10-year yield",
+      "s": "up ~28 bps",
+      "v": "5.14%",
+      "tone": "loss"
+     }
+    ],
+    "foot": "Week ending Fri Nov 13"
+   },
+   "detail": [
+    "All 11 S&P sectors rose last week, led by chip stocks, which jumped 8.1%. The S&P 500 is still about 3.3% below its Oct. 6 record, and the Nasdaq is about 8.9% below its own.",
+    "Under the surface, moods stayed sour. In the AAII survey, 51.4% of individual investors called themselves bearish and only 30.8% bullish. On the Nasdaq, new 52-week lows beat new highs for the 55th straight session.",
+    "Bond yields kept climbing. The 10-year Treasury hit 5.14%, and futures fully price a Fed rate hike in December."
+   ],
+   "money": [
+    "Heavy bearish readings have often come near short-term bottoms, so steady monthly investing can make sense when moods are bad.",
+    "With the 10-year near 5.1%, Treasury bills and high-yield savings may pay more than they have in years.",
+    "Check that your stock/bond mix still matches your plan after a volatile month."
+   ],
+   "risk": [
+    "Sentiment is not a timing tool; stocks can keep falling while people are gloomy.",
+    "Rising yields can pressure stock prices and raise borrowing costs."
+   ],
+   "sources": [
+    {
+     "t": "Sunday Post - Recap & Week Ahead 11/15/2026",
+     "d": "palmafutures.substack.com",
+     "u": "https://palmafutures.substack.com/p/sunday-post-recap-and-week-ahead-e67"
+    }
+   ]
+  },
+  {
+   "id": "earnings-beyond-nvidia-2026111522",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets",
+    "business"
+   ],
+   "date": "This week",
+   "ts": "2026-11-15T22:30:00Z",
+   "headline": "Beyond Nvidia: Disney, Alibaba, Intuit and TJX also report this week",
+   "caption": "84 companies worth $2 billion or more report Nov. 16-20. Here is what Wall Street expects from some of the big names.",
+   "visual": {
+    "type": "board",
+    "title": "Earnings week: EPS estimates",
+    "rows": [
+     {
+      "k": "Baidu",
+      "s": "Mon, before open",
+      "v": "$0.57"
+     },
+     {
+      "k": "Disney",
+      "s": "Tue, before open",
+      "v": "$1.67"
+     },
+     {
+      "k": "Nvidia",
+      "s": "Tue, after close",
+      "v": "$2.49"
+     },
+     {
+      "k": "TJX",
+      "s": "Wed, before open",
+      "v": "$1.33"
+     },
+     {
+      "k": "Alibaba",
+      "s": "Thu, before open",
+      "v": "$1.56"
+     },
+     {
+      "k": "Intuit",
+      "s": "Thu, after close",
+      "v": "$2.47"
+     }
+    ],
+    "foot": "Consensus EPS per Nasdaq, as of Nov 13"
+   },
+   "detail": [
+    "Nvidia's Tuesday report gets most of the attention, but the week is packed. Chinese giants Baidu, JD.com, Alibaba, PDD and NetEase all report, giving a read on China's shoppers.",
+    "Disney reports Tuesday morning. Discount retailers TJX and Ross Stores report Wednesday and Thursday, alongside Target, Lowe's and Walmart.",
+    "Intuit, which makes TurboTax, and cybersecurity firm Palo Alto Networks round out the tech list."
+   ],
+   "money": [
+    "Off-price retailers like TJX and Ross can show whether shoppers are trading down, a clue for retail stock holders.",
+    "Earnings weeks bring big price swings; avoid buying right before a report if you can't handle a sharp drop.",
+    "Index funds spread earnings risk across hundreds of companies instead of one."
+   ],
+   "risk": [
+    "Estimates can change before reports, and guidance often matters more than the headline number."
+   ],
+   "sources": [
+    {
+     "t": "Nvidia, Walmart and Home Depot Lead the Earnings Week of November 16",
+     "d": "stocktitan.net",
+     "u": "https://www.stocktitan.net/articles/earnings-calendar-week-of-november-16-2026"
+    }
+   ]
+  },
+  {
+   "id": "nvidia-ceo-search-2026111522",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets",
+    "ai",
+    "politics"
+   ],
+   "date": "Sun Nov 15",
+   "ts": "2026-11-15T22:30:00Z",
+   "headline": "Nvidia CEO race: Lisa Su and Rene Haas named as outside options; Bessent wants a shakeup",
+   "caption": "Bessent said Sunday Nvidia's board should look outside for a CEO. A House panel says Nvidia agreed to a closed-door interview Dec. 1.",
+   "visual": {
+    "type": "points",
+    "title": "Who could run Nvidia?",
+    "items": [
+     "Interim CEO: CFO Colette Kress",
+     "Inside option: engineer Ian Buck",
+     "Outside names: AMD's Lisa Su, Arm's Rene Haas",
+     "Harvey Jones named first board chair",
+     "Congress interview set for Dec 1"
+    ]
+   },
+   "detail": [
+    "Treasury Secretary Scott Bessent told Fox's Sunday Morning Futures that Nvidia needs a dramatic shakeup and should pick an outsider. He said a bank with similar compliance failures would likely see executives removed by regulators.",
+    "Fortune reports internal candidates include Kress and Ian Buck, with AMD CEO Lisa Su and Arm CEO Rene Haas mentioned as outside options. Nvidia also named Harvey Jones as its first-ever board chair.",
+    "On CBS's Face the Nation, Rep. John Moolenaar said Nvidia agreed to a closed-door interview with his committee on Dec. 1."
+   ],
+   "money": [
+    "Leadership fights can move a stock fast; if you own Nvidia, decide your plan before Tuesday's earnings.",
+    "Many index and tech funds hold a lot of Nvidia, so check how much you own indirectly.",
+    "Spreading money across sectors limits damage from one company's scandal."
+   ],
+   "risk": [
+    "A surprise CEO pick or new probe findings could swing shares sharply either way.",
+    "Names in reports are candidates, not confirmed choices."
+   ],
+   "sources": [
+    {
+     "t": "Treasury Secretary Scott Bessent says if Nvidia was a bank, 'a lot of the executives would be removed'",
+     "d": "fortune.com",
+     "u": "https://fortune.com/2026/11/15/treasury-secretary-scott-bessent-nvidia-jensen-huang-nvidia-china-spy-scandal/"
+    },
+    {
+     "t": "Full transcript of Face the Nation, Nov. 15, 2026",
+     "d": "cbsnews.com",
+     "u": "https://cbsnews.com/news/face-the-nation-full-transcript-11-15-2026"
+    }
+   ]
+  },
+  {
+   "id": "ai-quick-hits-2026111522",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "business"
+   ],
+   "date": "This weekend",
+   "ts": "2026-11-15T22:30:00Z",
+   "headline": "AI quick hits: Malaysia targets chip smuggling, Meta opens a Chicago glasses store",
+   "caption": "Malaysia plans rules to track AI chip imports at data centers. Tesla says outside Optimus robot deliveries could start around late 2027.",
+   "visual": {
+    "type": "points",
+    "title": "AI this weekend",
+    "items": [
+     "Malaysia: data centers must disclose AI chip imports",
+     "Meta Lab opens 13th store, in Chicago",
+     "Meta Ray-Ban glasses: $799",
+     "Tesla Optimus to outside buyers ~end of 2027",
+     "AT&T: ~500 AI agent workflows live"
+    ]
+   },
+   "detail": [
+    "Malaysia plans a law making data center operators disclose AI accelerator imports and power use, to deter smuggling. Imported chips would have to be used in the country, and operators would pay for reserved power even if unused.",
+    "Meta opened its first Midwest store on Chicago's Rush Street, its 13th overall, selling AI glasses and VR headsets. Elon Musk said Tesla expects to deliver Optimus humanoid robots to outside customers around the end of 2027.",
+    "AT&T says it has nearly 500 AI agent workflows running and plans to triple that next year."
+   ],
+   "money": [
+    "Chip export crackdowns can hit chipmaker sales in Asia; watch how Nvidia addresses it Tuesday.",
+    "AI glasses are a pricey new gadget category; compare return policies before buying a $799 pair.",
+    "Big firms automating whole processes is a signal to build AI skills that keep you valuable at work."
+   ],
+   "risk": [
+    "Robot delivery dates are company targets and often slip."
+   ],
+   "sources": [
+    {
+     "t": "AI News - Nov 15, 2026",
+     "d": "riorundown.substack.com",
+     "u": "https://riorundown.substack.com/p/ai-news-nov-15-2026-ai-infrastructure"
+    }
+   ]
+  },
+  {
+   "id": "crypto-extreme-fear-2026111522",
+   "type": "news",
+   "cat": "crypto",
+   "tags": [
+    "crypto",
+    "markets"
+   ],
+   "date": "This week",
+   "ts": "2026-11-15T22:30:00Z",
+   "headline": "Crypto fear gauge hits 10 as $2 billion in bets get wiped out in a day",
+   "caption": "About $2 billion in leveraged crypto positions were liquidated in 24 hours to Sunday. Stablecoin supply shrank at its fastest pace since 2022.",
+   "visual": {
+    "type": "stat",
+    "title": "Crypto week in numbers",
+    "num": "10",
+    "tone": "loss",
+    "label": "Fear & Greed index, down from 28: extreme fear",
+    "rows": [
+     [
+      "Bitcoin",
+      -13.3
+     ],
+     [
+      "Ether",
+      -18.0
+     ],
+     [
+      "Total market",
+      -12.3
+     ]
+    ]
+   },
+   "detail": [
+    "Exchanges tracked by CoinGlass saw about $2 billion in liquidations in the 24 hours to Sunday morning, after about $1.3 billion on Friday. Liquidations happen when borrowed bets lose too much and get closed automatically.",
+    "Stablecoin supply fell $14.2 billion in the 30 days to Nov. 9, its fastest drop since June 2022, per Glassnode. That can mean cash leaving crypto.",
+    "Total crypto market value fell from about $2.59 trillion to $2.27 trillion over the week."
+   ],
+   "money": [
+    "Avoid leverage; it is what turns a bad day into a total loss.",
+    "If you buy crypto, small regular buys reduce the risk of going all in at the wrong time.",
+    "Losses in a taxable account can offset gains at tax time."
+   ],
+   "risk": [
+    "Crypto can keep falling after extreme fear readings.",
+    "Some analysts warn bitcoin could test its yearly low near $58,000."
+   ],
+   "sources": [
+    {
+     "t": "The Sunday Crypto Desk — 15 November 2026",
+     "d": "thecryptodesk.substack.com",
+     "u": "https://thecryptodesk.substack.com/p/the-sunday-crypto-desk-15-november"
+    }
+   ]
+  },
+  {
+   "id": "crypto-security-wave-2026111522",
+   "type": "news",
+   "cat": "crypto",
+   "tags": [
+    "crypto",
+    "world"
+   ],
+   "date": "This week",
+   "ts": "2026-11-15T22:30:00Z",
+   "headline": "Crypto security alert: tampered Trezor wallets, a kidnapping wave and an exchange hack",
+   "caption": "Trezor found spy boards in three resold wallets. France has logged 77 crypto-linked kidnappings and home invasions this year.",
+   "visual": {
+    "type": "points",
+    "title": "Security week",
+    "items": [
+     "3 Trezor Safe 5 units had hidden spy boards",
+     "Firmware from Nov 11 blocks them",
+     "France: 77 crypto kidnappings/extortions in 2026",
+     "Unocoin hot wallets hit, ~$200K loss",
+     "LNbits rushed a patch after thefts"
+    ]
+   },
+   "detail": [
+    "Trezor confirmed three Safe 5 hardware wallets bought from a former Southeast Asian reseller had hidden spy boards. Firmware released Nov. 11 blocks them.",
+    "French authorities have recorded 77 crypto-linked kidnappings, extortion cases and home invasions this year, more than all of 2025.",
+    "Indian exchange Unocoin said three hot wallets were breached through old printed backup keys. It puts the loss near $200,000 and says it will cover it."
+   ],
+   "money": [
+    "Buy hardware wallets only straight from the maker, never from resellers or marketplaces.",
+    "Update wallet firmware and apps right away when security patches come out.",
+    "Don't post about your crypto holdings; publicity makes you a target."
+   ],
+   "risk": [
+    "Exchange hacks can freeze withdrawals, so don't keep long-term coins on an exchange."
+   ],
+   "sources": [
+    {
+     "t": "The Sunday Crypto Desk — 15 November 2026",
+     "d": "thecryptodesk.substack.com",
+     "u": "https://thecryptodesk.substack.com/p/the-sunday-crypto-desk-15-november"
+    }
+   ]
+  },
+  {
+   "id": "ss-wage-base-2027-2026111522",
+   "type": "news",
+   "cat": "taxes",
+   "tags": [
+    "taxes",
+    "benefits"
+   ],
+   "date": "2027",
+   "ts": "2026-11-15T22:30:00Z",
+   "headline": "Social Security tax will apply to the first $192,300 of pay in 2027",
+   "caption": "The wage cap rises $7,800 from $184,500. Top earners will pay up to $11,922.60 in Social Security tax.",
+   "visual": {
+    "type": "vs",
+    "title": "Social Security wage cap",
+    "a": [
+     "2026",
+     "$184,500",
+     0.96,
+     "acc"
+    ],
+    "b": [
+     "2027",
+     "$192,300",
+     1,
+     "loss"
+    ],
+    "foot": "Max employee tax in 2027: $11,922.60; self-employed: $23,845.20"
+   },
+   "detail": [
+    "Social Security tax is 12.4% of pay, split evenly between workers and employers. It only applies up to a yearly wage cap.",
+    "That cap rises to $192,300 in 2027, up $7,800. A worker at or above the cap will pay $11,922.60, with the employer paying the same.",
+    "Self-employed people pay both halves, so their maximum is $23,845.20."
+   ],
+   "money": [
+    "If you earn over $184,500, expect slightly smaller take-home pay next year until you pass the cap.",
+    "Self-employed? Raise your quarterly estimated payments to cover the bigger maximum.",
+    "If you change jobs mid-year and overpay, you can claim the extra back on your tax return."
+   ],
+   "risk": [
+    "Congress is debating lifting the cap further, which could raise taxes on high earners more."
+   ],
+   "sources": [
+    {
+     "t": "Some Workers Will Pay $11,922.60 in Social Security Tax in 2027",
+     "d": "247wallst.com",
+     "u": "https://247wallst.com/personal-finance/2026/11/15/some-workers-will-pay-11922-60-in-social-security-tax-in-2027-will-you-be-one-of-them/"
+    }
+   ]
+  },
+  {
+   "id": "alabama-opportunity-zones-2026111522",
+   "type": "news",
+   "cat": "states",
+   "tags": [
+    "states",
+    "taxes"
+   ],
+   "date": "Sun Nov 15",
+   "ts": "2026-11-15T22:30:00Z",
+   "headline": "Alabama gets 141 new Opportunity Zones for tax-break investing starting Jan. 1",
+   "caption": "Treasury and the IRS approved Alabama's picks across 66 counties. The zones last 10 years.",
+   "visual": {
+    "type": "stat",
+    "title": "Alabama Opportunity Zones 2.0",
+    "num": "141",
+    "tone": "acc",
+    "label": "New tax-advantaged zones approved by Treasury and IRS",
+    "facts": [
+     [
+      "Rural tracts",
+      "65",
+      "census tracts"
+     ],
+     [
+      "Counties",
+      "66",
+      "statewide"
+     ],
+     [
+      "Start",
+      "Jan 1, 2027",
+      "10-year designation"
+     ]
+    ]
+   },
+   "detail": [
+    "Gov. Kay Ivey said Treasury and the IRS approved 141 new Opportunity Zones in Alabama: 65 rural and 76 non-rural census tracts across 66 counties.",
+    "The zones take effect Jan. 1, 2027, and keep the status for 10 years. The 2025 tax law made the program permanent after it began in 2017.",
+    "Opportunity Zones give tax breaks to investors who put capital gains into businesses and property in these areas."
+   ],
+   "money": [
+    "Investors with capital gains may defer or cut taxes by investing in qualified Opportunity Zone funds.",
+    "Business owners in a new zone may find it easier to raise money from investors.",
+    "Property in new zones may draw investment, which can lift values over time."
+   ],
+   "risk": [
+    "Zone investments are often long-term and hard to sell early; read fund terms closely."
+   ],
+   "sources": [
+    {
+     "t": "Governor Ivey Announces Alabama's Opportunity Zones 2.0 Nominations Approved",
+     "d": "bibbvoice.com",
+     "u": "https://www.bibbvoice.com/2026/11/15/governor-ivey-announces-alabamas-opportunity-zones-2-0-nominations-approved-by-u-s-treasury-irs/"
+    }
+   ]
+  },
+  {
+   "id": "ss-payment-nov18-2026111522",
+   "type": "news",
+   "cat": "benefits",
+   "tags": [
+    "benefits"
+   ],
+   "date": "Wed Nov 18",
+   "ts": "2026-11-15T22:30:00Z",
+   "headline": "Next Social Security payments land Wednesday for birthdays on the 11th to 20th",
+   "caption": "Retirees born between the 11th and 20th of the month get paid Nov. 18. The maximum check is $5,181.",
+   "visual": {
+    "type": "timeline",
+    "title": "November Social Security",
+    "items": [
+     {
+      "d": "NOV 18",
+      "t": "Birthdays 11th-20th",
+      "s": "second Wednesday round",
+      "now": true
+     },
+     {
+      "d": "NOV 25",
+      "t": "Birthdays 21st-31st",
+      "s": "fourth Wednesday"
+     },
+     {
+      "d": "DEC 1",
+      "t": "SSI checks",
+      "s": "December payment"
+     }
+    ]
+   },
+   "detail": [
+    "Social Security pays most retirees on Wednesdays based on birth date. The second November round goes out Wednesday, Nov. 18, for people born on the 11th through the 20th.",
+    "The page notes payments top out at $5,181 a month, the maximum benefit. Most people get far less."
+   ],
+   "money": [
+    "Set up direct deposit so payments arrive on time without mail delays.",
+    "Know your date so you can time bills right after the deposit and avoid overdraft fees.",
+    "Your 3.6% raise starts with January checks; plan your budget around it."
+   ],
+   "risk": [
+    "If a payment doesn't arrive, wait three mail days before contacting SSA."
+   ],
+   "sources": [
+    {
+     "t": "Second round of November Social Security payments goes out in 4 days",
+     "d": "newsbeep.com",
+     "u": "https://www.newsbeep.com/us/917966/"
+    }
+   ]
+  },
+  {
+   "id": "stelco-recall-2026111522",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business",
+    "world"
+   ],
+   "date": "Fri Nov 13",
+   "ts": "2026-11-15T22:30:00Z",
+   "headline": "Stelco reverses layoffs: 175 steelworkers recalled with back pay after Canada pressure",
+   "caption": "Cleveland-Cliffs-owned Stelco will bring back laid-off Hamilton workers on Dec. 1. Canada had threatened a court-ordered sale.",
+   "visual": {
+    "type": "timeline",
+    "title": "Stelco standoff",
+    "items": [
+     {
+      "d": "2024",
+      "t": "Cleveland-Cliffs buys Stelco"
+     },
+     {
+      "d": "SEPT",
+      "t": "Up to 500 layoffs announced",
+      "s": "blames tariffs, cheap imports"
+     },
+     {
+      "d": "NOV 13",
+      "t": "Recall announced after court threat",
+      "now": true
+     },
+     {
+      "d": "DEC 1",
+      "t": "175 workers return",
+      "s": "with back pay"
+     }
+    ]
+   },
+   "detail": [
+    "Stelco, owned by US-based Cleveland-Cliffs, will recall all 175 workers laid off at its Hamilton, Ontario plant and pay them back wages.",
+    "The move came after Industry Minister Melanie Joly said she would seek a court order forcing a sale unless she heard from management. Ottawa said the layoffs broke promises to keep union jobs through 2029.",
+    "Stelco said it signed enough customer deals to restart its finishing lines but gave no details."
+   ],
+   "money": [
+    "Tariff fights hit steel users and buyers; expect steel-heavy goods like appliances and cars to stay pricey.",
+    "Steel stocks can swing on trade news, so size any position small.",
+    "If you face a layoff, check what promises your employer made; contracts and deals can matter."
+   ],
+   "risk": [
+    "US tariffs on Canadian steel remain, so more cuts are possible."
+   ],
+   "sources": [
+    {
+     "t": "Canada's Stelco to recall 175 workers after government pressure",
+     "d": "aljazeera.com",
+     "u": "https://www.aljazeera.com/economy/2026/11/14/canadas-stelco-to-recall-175-workers-after-government-pressure"
+    }
+   ]
+  },
+  {
+   "id": "car-price-record-2026111522",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business"
+   ],
+   "date": "This week",
+   "ts": "2026-11-15T22:30:00Z",
+   "headline": "New cars hit a record $51,109 average, and a quarter of buyers take 7-year loans",
+   "caption": "Kelley Blue Book says new-car prices set a record. Edmunds says new-car loans run over 7% and used loans about 11%.",
+   "visual": {
+    "type": "board",
+    "title": "What cars cost now",
+    "rows": [
+     {
+      "k": "New car avg price",
+      "s": "record, KBB",
+      "v": "$51,109",
+      "ch": 2.1,
+      "tone": "loss"
+     },
+     {
+      "k": "Used car avg",
+      "s": "Cox Automotive",
+      "v": "~$27,000",
+      "ch": 6.0,
+      "tone": "loss"
+     },
+     {
+      "k": "Avg amount financed",
+      "s": "Edmunds",
+      "v": "$44,664"
+     },
+     {
+      "k": "New-car loan rate",
+      "v": "7%+",
+      "tone": "acc"
+     },
+     {
+      "k": "Used-car loan rate",
+      "v": "~11%",
+      "tone": "loss"
+     }
+    ],
+    "foot": "Over 1 in 4 buyers took loans of 84+ months"
+   },
+   "detail": [
+    "The average new vehicle sold for a record $51,109, about $500 above the prior record from December 2025, per Kelley Blue Book. Prices rose 2.1% from a year ago.",
+    "Used vehicles averaged close to $27,000, up 6%. A full-size pickup's sticker price averages nearly $72,000.",
+    "Edmunds says buyers financed an average of $44,664, and more than a quarter took loans of 84 months or longer."
+   ],
+   "money": [
+    "Get a loan quote from a credit union before visiting the dealer, then make them beat it.",
+    "A shorter loan means higher payments but can save thousands in interest.",
+    "Year-end is often a good time to find dealer discounts on outgoing model years."
+   ],
+   "risk": [
+    "Long loans can leave you owing more than the car is worth for years."
+   ],
+   "sources": [
+    {
+     "t": "The average cost for a new vehicle in the U.S. hits a record high: over $51,000",
+     "d": "tpr.org",
+     "u": "https://www.tpr.org/economy-and-labor/2026-11-10/the-average-cost-for-a-new-vehicle-in-the-u-s-hits-a-record-high-over-51-000"
+    }
+   ]
+  },
+  {
+   "id": "black-friday-early-2026111522",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business"
+   ],
+   "date": "This week",
+   "ts": "2026-11-15T22:30:00Z",
+   "headline": "Black Friday came early: retailers push deals now as holiday sales near $1 trillion",
+   "caption": "Target, Walmart, Gap and Old Navy already started Black Friday sales. The NRF expects $1 trillion in holiday spending, up 4.2%.",
+   "visual": {
+    "type": "stat",
+    "title": "Holiday shopping 2026",
+    "num": "$1T",
+    "tone": "gain",
+    "label": "NRF's Nov-Dec retail sales forecast, up 4.2%",
+    "facts": [
+     [
+      "2025 holiday sales",
+      "$972B",
+      "up 3.1%"
+     ],
+     [
+      "Consumer sentiment",
+      "48",
+      "Oct, near record low"
+     ],
+     [
+      "Early deals",
+      "Up to 50%",
+      "Old Navy, Ulta"
+     ]
+    ]
+   },
+   "detail": [
+    "Retailers are launching Black Friday deals weeks early. Target ran a three-day early sale, and Gap, Old Navy and Walmart also started theirs, the Chicago Sun-Times reports.",
+    "The National Retail Federation projects $1 trillion in November-December retail spending, up 4.2%. A local retail leader said affordability worries and tariff uncertainty are pushing stores to move sooner.",
+    "Consumer sentiment was 48 in October, close to May's record low of 44.8."
+   ],
+   "money": [
+    "Use price trackers to see if an early deal is truly the lowest price.",
+    "Many stores offer price adjustments; ask if the price drops after you buy.",
+    "Set a holiday budget now; about a quarter of Chicago shoppers said theirs ran out by October."
+   ],
+   "risk": [
+    "Buy-now-pay-later and card debt can make holiday deals cost more in the end."
+   ],
+   "sources": [
+    {
+     "t": "It's true: Black Friday deals are starting even earlier than previous years",
+     "d": "chicago.suntimes.com",
+     "u": "https://chicago.suntimes.com/small-business/2026/11/14/black-friday-deals-holiday-shopping-starting-earlier-previous-years"
+    }
+   ]
+  },
+  {
+   "id": "papa-johns-franchisee-ch11-2026111522",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business"
+   ],
+   "date": "This week",
+   "ts": "2026-11-15T22:30:00Z",
+   "headline": "A 15-store Papa Johns franchisee files for bankruptcy as pizza sales slide",
+   "caption": "Papa ZHS runs 11 stores in Pennsylvania and four in Ohio. Papa Johns' same-store sales fell 8.3% last quarter.",
+   "visual": {
+    "type": "stat",
+    "title": "Franchise squeeze",
+    "num": "-8.3%",
+    "tone": "loss",
+    "label": "Papa Johns same-store sales, Q3 2026",
+    "facts": [
+     [
+      "Papa ZHS stores",
+      "15",
+      "PA and OH"
+     ],
+     [
+      "Filing",
+      "Chapter 11",
+      "this week"
+     ],
+     [
+      "Other 2026 filers",
+      "6+ brands",
+      "Wendy's, Denny's, more"
+     ]
+    ]
+   },
+   "detail": [
+    "Papa ZHS, a Papa Johns franchisee with 11 stores in Pennsylvania and four in Ohio, filed for Chapter 11 bankruptcy protection, Restaurant Dive reports. No reason was given yet.",
+    "Papa Johns has posted falling same-store sales for several quarters, including an 8.3% drop in the third quarter, and has closed hundreds of weak locations.",
+    "Large franchisees of Carl's Jr, Hardee's, Wendy's, Denny's, Outback and Applebee's also filed this year."
+   ],
+   "money": [
+    "Struggling chains often run deep discounts; use app deals while they last.",
+    "Gift cards for a chain in trouble are risky; spend them soon.",
+    "Thinking of buying a franchise? Study the brand's same-store sales trend first."
+   ],
+   "risk": [
+    "Chapter 11 stores often stay open, but some may close with little notice."
+   ],
+   "sources": [
+    {
+     "t": "Papa Johns franchisee declares bankruptcy",
+     "d": "restaurantdive.com",
+     "u": "https://www.restaurantdive.com/news/papa-johns-franchisee-papazhs-files-chapter-11-bankruptcy/874612/"
+    }
+   ]
+  },
+  {
+   "id": "ca-coinflip-refund-2026111522",
+   "type": "news",
+   "cat": "california",
+   "tags": [
+    "california",
+    "crypto"
+   ],
+   "date": "This month",
+   "ts": "2026-11-15T22:30:00Z",
+   "headline": "California wins $4.8 million for scam victims from crypto ATM firm CoinFlip",
+   "caption": "California's financial regulator says CoinFlip must pay victims. A new law also lets LA fire victims pause mortgages for up to 24 months.",
+   "visual": {
+    "type": "deals",
+    "title": "California consumer moves",
+    "items": [
+     {
+      "a": "CoinFlip",
+      "b": "crypto ATM scam victims",
+      "amt": "$4.8M",
+      "st": "recovered for victims",
+      "c": "ok"
+     },
+     {
+      "a": "AB 1847",
+      "b": "LA wildfire mortgage forbearance",
+      "amt": "24 mo",
+      "st": "up from 12 months",
+      "c": "ok"
+     },
+     {
+      "a": "Holiday fraud webinar",
+      "b": "DFPI",
+      "amt": "Free",
+      "st": "Nov 30 (Eng), Dec 2 (Span)",
+      "c": "pend"
+     }
+    ]
+   },
+   "detail": [
+    "The California Department of Financial Protection and Innovation says crypto ATM operator CoinFlip must pay $4.8 million to California scam victims.",
+    "The DFPI's November bulletin also notes AB 1847, which extends forbearance for 2025 LA wildfire mortgages from 12 to 24 months. Requests are due by Jan. 7, 2029.",
+    "The agency is holding free webinars on avoiding holiday fraud on Nov. 30 in English and Dec. 2 in Spanish."
+   ],
+   "money": [
+    "Never pay anyone through a crypto ATM; real agencies and businesses don't ask for that.",
+    "LA fire victims struggling with payments can ask their servicer about the longer forbearance.",
+    "Report scams to the DFPI quickly; early reports help recover money."
+   ],
+   "risk": [
+    "Forbearance pauses payments but doesn't erase them; ask how the missed amount will be repaid."
+   ],
+   "sources": [
+    {
+     "t": "Monthly Bulletin - November 2026",
+     "d": "dfpi.ca.gov",
+     "u": "https://dfpi.ca.gov/news/monthly-bulletins/monthly-bulletin-november-2026/"
+    }
+   ]
+  },
+  {
+   "id": "shutdown-deadline-dec11-2026111522",
+   "type": "news",
+   "cat": "politics",
+   "tags": [
+    "politics",
+    "benefits"
+   ],
+   "date": "Dec 11",
+   "ts": "2026-11-15T22:30:00Z",
+   "headline": "Shutdown clock: government money runs out Dec. 11, and a deal looks far off",
+   "caption": "The stopgap signed in September lasts through Dec. 11. A top House appropriator says there's no time for full-year bills.",
+   "visual": {
+    "type": "timeline",
+    "title": "Lame-duck calendar",
+    "items": [
+     {
+      "d": "NOV 9",
+      "t": "Congress returns",
+      "s": "5-week session"
+     },
+     {
+      "d": "NOV 23-27",
+      "t": "Senate Thanksgiving break"
+     },
+     {
+      "d": "DEC 11",
+      "t": "Funding runs out",
+      "s": "shutdown at 12:01 a.m. Dec 12",
+      "now": true
+     },
+     {
+      "d": "JAN 3",
+      "t": "New Congress",
+      "s": "unpassed bills die"
+     }
+    ]
+   },
+   "detail": [
+    "Federal agencies are funded through Friday, Dec. 11, under a stopgap signed Sept. 2. Without new money, unfunded agencies start shutting down at 12:01 a.m. Dec. 12.",
+    "ABC News reported lawmakers were far from a deal. House Appropriations Chairman Tom Cole said there isn't enough time for full-year bills, which raises the odds of another stopgap.",
+    "The Senate is out for Thanksgiving Nov. 23-27, leaving few working days."
+   ],
+   "money": [
+    "Federal workers and contractors: build a cash cushion now in case paychecks pause.",
+    "Need a passport or federal loan paperwork? Try to finish it before Dec. 11.",
+    "If you rely on federal benefits, watch for agency notices in early December."
+   ],
+   "risk": [
+    "A shutdown could delay some services and data reports.",
+    "A last-minute stopgap is possible."
+   ],
+   "sources": [
+    {
+     "t": "Government Shutdown Deadline Dec. 11, 2026: Lame-Duck Calendar",
+     "d": "freshcalendars.com",
+     "u": "https://freshcalendars.com/news/government-funding-deadline-december-11-2026-shutdown/"
+    }
+   ]
+  },
+  {
+   "id": "h1b-fee-appeal-2026111522",
+   "type": "news",
+   "cat": "immigration",
+   "tags": [
+    "immigration",
+    "business"
+   ],
+   "date": "This week",
+   "ts": "2026-11-15T22:30:00Z",
+   "headline": "The $100,000 H-1B fee fight reaches a federal appeals court",
+   "caption": "Two lower courts struck down the fee. Now the First Circuit is hearing the appeal, and a libertarian group filed a brief backing the states.",
+   "visual": {
+    "type": "timeline",
+    "title": "H-1B fee in court",
+    "items": [
+     {
+      "d": "JUN 8",
+      "t": "First court strikes fee",
+      "s": "says it's a tax only Congress can set"
+     },
+     {
+      "d": "OCT 1",
+      "t": "Second court rules against it"
+     },
+     {
+      "d": "NOV 12",
+      "t": "Cato files appeal brief",
+      "s": "1st Circuit",
+      "now": true
+     }
+    ]
+   },
+   "detail": [
+    "A $100,000 fee on H-1B visa applications is now before the US Court of Appeals for the First Circuit. California and other states are challenging it.",
+    "A federal district court struck down the fee in June, ruling the executive branch took Congress's taxing power. A second court ruled against it on other grounds in October.",
+    "The Cato Institute and law professor Ilya Somin filed a brief supporting the states. The administration is appealing."
+   ],
+   "money": [
+    "Employers hiring foreign tech workers should budget for both outcomes until the appeal is decided.",
+    "Workers on H-1B visas may want to talk with an immigration lawyer about timing any job change.",
+    "Tech firms with heavy H-1B use could face higher costs if the fee survives."
+   ],
+   "risk": [
+    "The appeals court could reinstate the fee, and the case may reach the Supreme Court."
+   ],
+   "sources": [
+    {
+     "t": "Our Amicus Brief in the First Circuit $100,000 H-1B Visa Fee Case",
+     "d": "reason.com",
+     "u": "https://reason.com/volokh/2026/11/14/our-amicus-brief-in-the-first-circuit-100000-h-1b-visa-fee-case/"
+    }
+   ]
+  },
+  {
+   "id": "iran-seven-conditions-2026111522",
+   "type": "news",
+   "cat": "world",
+   "tags": [
+    "world",
+    "markets"
+   ],
+   "date": "Sun Nov 15",
+   "ts": "2026-11-15T22:30:00Z",
+   "headline": "Iran says Hormuz stays closed, lists 7 conditions for a deal; Bahrain downs more drones",
+   "caption": "Iran's parliament speaker said Iran won't accept 'neither war nor peace.' Bahrain says it destroyed Iranian drones on Sunday.",
+   "visual": {
+    "type": "points",
+    "title": "Iran on Sunday",
+    "items": [
+     "Revolutionary Guards: strait remains closed",
+     "Speaker Ghalibaf: deal if US accepts 7 conditions",
+     "Iran to seek reparations from neighbors",
+     "Bahrain says it shot down drones Sunday",
+     "Brent oil near $96 at Friday close"
+    ]
+   },
+   "detail": [
+    "Iran's Revolutionary Guards said the Strait of Hormuz remains closed, a day after Iran's navy said a tanker caught fire after hitting a mine.",
+    "Parliament Speaker Mohammad Bagher Ghalibaf said Iran will not stay in a state of 'neither war nor peace' and laid out a path to a deal if the US accepts seven Iranian conditions. A foreign ministry spokesman said Iran will seek reparations from regional countries.",
+    "Bahrain said its air defenses destroyed Iranian drones on Sunday."
+   ],
+   "money": [
+    "Oil shocks show up fast at the pump; fill up when prices dip.",
+    "Energy funds can hedge fuel costs, but they swing hard on headlines.",
+    "Airline and shipping costs may stay high while the strait is disputed."
+   ],
+   "risk": [
+    "Talks or new attacks could move oil prices sharply either way.",
+    "Iran's claims are not independently confirmed."
+   ],
+   "sources": [
+    {
+     "t": "Live - Iran International liveblog, Nov. 15, 2026",
+     "d": "iranintl.com",
+     "u": "https://www.iranintl.com/en/liveblog/202611143682"
+    },
+    {
+     "t": "Sunday Post - Recap & Week Ahead 11/15/2026",
+     "d": "palmafutures.substack.com",
+     "u": "https://palmafutures.substack.com/p/sunday-post-recap-and-week-ahead-e67"
+    }
+   ]
+  },
+  {
+   "id": "edu-long-car-loans-2026111522",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "business"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-15T22:30:00Z",
+   "headline": "The 7-year car loan trap, in numbers",
+   "caption": "A longer loan lowers your payment but raises your total cost. Here's what stretching $44,664 over 84 months really costs.",
+   "scenes": [
+    {
+     "k": "RECORD PRICES",
+     "t": "New cars now average $51,109",
+     "s": "So more buyers stretch loans to keep payments low."
+    },
+    {
+     "k": "THE TREND",
+     "t": "1 in 4 buyers take 84+ month loans",
+     "s": "That's seven years of payments."
+    },
+    {
+     "k": "THE MATH",
+     "t": "Same loan, three lengths",
+     "s": "$44,664 borrowed at 7%.",
+     "viz": {
+      "type": "split",
+      "items": [
+       [
+        "5 years",
+        "$884/mo"
+       ],
+       [
+        "6 years",
+        "$761/mo"
+       ],
+       [
+        "7 years",
+        "$674/mo",
+        "wide"
+       ]
+      ]
+     },
+     "say": "Borrow 44,664 dollars at 7 percent. Five years costs about 884 a month. Seven years drops it to about 674."
+    },
+    {
+     "k": "THE CATCH",
+     "t": "7 years costs ~$3,560 more interest",
+     "s": "About $11,960 in interest vs. $8,400 on a 5-year loan.",
+     "say": "The seven-year loan costs about 11,960 dollars in interest, versus 8,400 for five years."
+    },
+    {
+     "k": "UPSIDE DOWN",
+     "t": "You can owe more than the car is worth",
+     "s": "Cars lose value fast, and long loans pay down slowly."
+    },
+    {
+     "k": "SMART MOVES",
+     "t": "Shop the loan before the car",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "Get a credit union quote",
+       "Set a total price cap",
+       "Pick the shortest term you can afford",
+       "Make the dealer beat your rate"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "edu-shutdown-wallet-2026111522",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "politics"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-15T22:30:00Z",
+   "headline": "Government shutdown: what it can and can't do to your money",
+   "caption": "Funding runs out Dec. 11. Here's how a shutdown usually works and how to prepare.",
+   "scenes": [
+    {
+     "k": "THE DEADLINE",
+     "t": "Funding runs out Friday, Dec. 11",
+     "s": "Unless Congress passes a new spending bill."
+    },
+    {
+     "k": "WHAT STOPS",
+     "t": "Unfunded agencies pause non-essential work",
+     "s": "Some services, permits and reports can be delayed."
+    },
+    {
+     "k": "WHAT KEEPS GOING",
+     "t": "Social Security checks keep coming",
+     "s": "In past shutdowns, benefit payments continued."
+    },
+    {
+     "k": "WHO'S HIT",
+     "t": "Federal workers may miss paychecks",
+     "s": "By law, furloughed federal workers get back pay after it ends. Contractors may not."
+    },
+    {
+     "k": "PAST LESSON",
+     "t": "Food aid can get disrupted",
+     "s": "Long shutdowns have strained programs like SNAP."
+    },
+    {
+     "k": "GET READY",
+     "t": "A simple prep plan",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "Build a 1-month cash cushion",
+       "Finish federal paperwork early",
+       "Call lenders if pay stops",
+       "Watch agency notices"
+      ]
+     }
+    }
+   ]
+  },
   {
    "id": "gold-below-4000-2026111521",
    "type": "news",
