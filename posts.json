@@ -1,6 +1,939 @@
 {
- "updated": "2026-11-15T19:18:00Z",
+ "updated": "2026-11-15T20:19:00Z",
  "items": [
+  {
+   "id": "huang-return-talk-2026111520",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "markets"
+   ],
+   "date": "Sun Nov 15",
+   "ts": "2026-11-15T20:19:00Z",
+   "headline": "Report: Jensen Huang has talked about returning to Nvidia, days after quitting",
+   "caption": "The FT says Huang has discussed a comeback with confidants. Treasury's Bessent instead wants an outside CEO and a 'dramatic shakeup.'",
+   "visual": {
+    "type": "board",
+    "title": "Who could run Nvidia",
+    "rows": [
+     {
+      "k": "Colette Kress",
+      "s": "CFO, now interim CEO",
+      "v": "Interim",
+      "tone": "acc"
+     },
+     {
+      "k": "Ian Buck",
+      "s": "Nvidia engineer",
+      "v": "Inside pick"
+     },
+     {
+      "k": "Lisa Su",
+      "s": "AMD CEO",
+      "v": "Outside pick"
+     },
+     {
+      "k": "Rene Haas",
+      "s": "Arm CEO",
+      "v": "Outside pick"
+     },
+     {
+      "k": "Jensen Huang",
+      "s": "Allies lobbying for return",
+      "v": "Comeback?",
+      "tone": "loss"
+     }
+    ],
+    "foot": "Harvey Jones was named Nvidia's first-ever board chair"
+   },
+   "detail": [
+    "The Financial Times reports that Jensen Huang has talked with confidants about coming back to Nvidia. One ally described a 'war room' of tech executives forming to push for his return. Huang stepped down as CEO on Thursday.",
+    "On Sunday, Treasury Secretary Scott Bessent said the board should look outside the company for its next leader. CFO Colette Kress is interim CEO. Nvidia did not immediately comment, and nothing says Huang has agreed to return."
+   ],
+   "money": [
+    "CEO uncertainty can keep a stock volatile; size any single-stock position so a big swing won't hurt your plan.",
+    "Many index funds hold a lot of Nvidia, so check how much of your portfolio already rides on it.",
+    "If you trade around earnings this week, consider limit orders instead of market orders."
+   ],
+   "risk": [
+    "A comeback is only reported talk, not a decision; the board could go a very different way."
+   ],
+   "sources": [
+    {
+     "t": "Treasury Secretary Scott Bessent says if Nvidia was a bank, 'a lot of the executives would be removed' — while Huang reportedly eyes return",
+     "d": "fortune.com",
+     "u": "https://fortune.com/2026/11/15/treasury-secretary-scott-bessent-nvidia-jensen-huang-nvidia-china-spy-scandal/"
+    }
+   ]
+  },
+  {
+   "id": "lutnick-bitdeer-2026111520",
+   "type": "news",
+   "cat": "politics",
+   "tags": [
+    "politics",
+    "ai",
+    "crypto"
+   ],
+   "date": "Sun Nov 15",
+   "ts": "2026-11-15T20:19:00Z",
+   "headline": "NYT: Lutnick backed a narrower chip rule that spared a Cantor-linked data center",
+   "caption": "The scaled-back rule covered seven countries and would spare Bitdeer's Malaysia site. Cantor, now run by Lutnick's sons, has done deals with Bitdeer.",
+   "visual": {
+    "type": "points",
+    "title": "What the NYT reported",
+    "items": [
+     "Rule narrowed to 7 countries, future shipments only",
+     "Bitdeer's Malaysia data center would be spared",
+     "Site seen earning $1.7B over five years",
+     "Cantor was a sales agent on a $1B Bitdeer offering",
+     "No evidence found that Cantor swayed policy"
+    ]
+   },
+   "detail": [
+    "The New York Times reports Commerce Secretary Howard Lutnick supported a scaled-back chip-control rule for Singapore, Malaysia, Thailand, Indonesia, Brazil, South Africa and Norway. It would apply only to future shipments and require notice, not a license, when Chinese customers train AI in overseas data centers.",
+    "That version would spare Bitdeer's A201 center in Malaysia, expected to serve Tencent. Cantor Fitzgerald, which Lutnick led for decades and his sons now run, was a sales agent for an up-to-$1 billion Bitdeer stock offering. The Times found no evidence Cantor influenced his decisions, and ethics officials say he followed the rules. Sen. Ruben Gallego wants Lutnick to testify."
+   ],
+   "money": [
+    "Tighter chip rules could hit chip stocks and data-center plays; watch for a final rule before you add exposure.",
+    "Crypto miners pivoting to AI hosting carry policy risk as well as crypto risk.",
+    "Policy headlines can move stocks fast; avoid chasing a one-day spike."
+   ],
+   "risk": [
+    "The rule is not final and could change after hearings in Congress."
+   ],
+   "sources": [
+    {
+     "t": "Lutnick Pushed Narrower Chip Rule Sparing Cantor-Linked Bitdeer",
+     "d": "aiweekly.co",
+     "u": "https://aiweekly.co/alerts/lutnick-pushed-narrower-chip-rule-sparing-cantor-linked-bitdeer"
+    }
+   ]
+  },
+  {
+   "id": "bessent-chip-laws-2026111520",
+   "type": "news",
+   "cat": "politics",
+   "tags": [
+    "politics",
+    "ai",
+    "world"
+   ],
+   "date": "Sun Nov 15",
+   "ts": "2026-11-15T20:19:00Z",
+   "headline": "Bessent says no new chip laws are needed, just enforcement, as Congress eyes curbs",
+   "caption": "Lawmakers from both parties want tighter China chip limits in the year-end defense bill. Bessent says the rules exist and Commerce 'had the pen.'",
+   "visual": {
+    "type": "points",
+    "title": "Chip curbs in the Senate defense bill",
+    "items": [
+     "Tracking tech on high-end chips",
+     "A say for Congress on export licenses",
+     "Tighter limits on chipmaking tools",
+     "Pressure on allies to do the same"
+    ]
+   },
+   "detail": [
+    "On Fox News Sunday, Treasury Secretary Scott Bessent said the US has the rules it needs and the problem is enforcement. He said Commerce Secretary Howard Lutnick resisted calls to crack down on Megaspeed, the Singapore firm suspected of moving chips to China.",
+    "Sens. Jim Banks and Elizabeth Warren back adding stricter export limits to the year-end defense bill. Bessent gave Nvidia's board 10 days to say whether it knew chips were reaching Chinese buyers. Lutnick is flying with Trump to China this week."
+   ],
+   "money": [
+    "New export limits could trim chipmakers' sales; check how much your funds hold in semiconductors.",
+    "Defense-bill deadlines often land in December, so expect more chip-stock swings.",
+    "Diversified funds can soften the hit if one policy fight goes badly."
+   ],
+   "risk": [
+    "The defense bill text could change a lot before it passes."
+   ],
+   "sources": [
+    {
+     "t": "Bessent pushes back on need for tighter chip sale legislation",
+     "d": "yahoo.com",
+     "u": "https://www.yahoo.com/news/politics/articles/bessent-pushes-back-tighter-chip-170900656.html"
+    },
+    {
+     "t": "Lutnick joins Trump's China trip after Bessent chip clash",
+     "d": "aiweekly.co",
+     "u": "https://aiweekly.co/alerts/lutnick-joins-trumps-china-trip-after-bessent-chip-clash"
+    }
+   ]
+  },
+  {
+   "id": "hsbc-nvda-hold-2026111520",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets",
+    "ai"
+   ],
+   "date": "Fri Nov 13",
+   "ts": "2026-11-15T20:19:00Z",
+   "headline": "HSBC cuts Nvidia to Hold and slashes its target to $170 from about $370",
+   "caption": "HSBC cited the CEO exit and export-rule risk. Nvidia closed Friday at $162.85 after its sixth straight weekly loss.",
+   "visual": {
+    "type": "ticker",
+    "sym": "NVDA",
+    "ex": "NASDAQ",
+    "rows": [
+     {
+      "k": "Friday close",
+      "s": "down 2.01%",
+      "v": "$162.85"
+     },
+     {
+      "k": "Week",
+      "s": "6th weekly loss in a row",
+      "v": "-12.75%"
+     },
+     {
+      "k": "HSBC target",
+      "s": "was about $370",
+      "v": "$170"
+     },
+     {
+      "k": "Street average",
+      "s": "61 analysts, still Buy",
+      "v": "$279.63"
+     },
+     {
+      "k": "Forward P/E",
+      "s": "lowest in 15 years",
+      "v": "~11x"
+     }
+    ]
+   },
+   "detail": [
+    "HSBC analyst Frank Lee downgraded Nvidia to Hold and cut his price target by about 54%. He expects pressure until a permanent CEO is named after Jensen Huang's resignation.",
+    "He also flagged that about 11% of recent revenue came from countries that could face tighter chip export rules. In HSBC's bear case, fiscal 2028 earnings per share fall 13%, to $13.57. Nvidia reports earnings Tuesday after the close."
+   ],
+   "money": [
+    "One analyst call is not a buy or sell signal; compare it with the wider range of targets.",
+    "A low P/E can mean value or real risk; read the export-rule details before buying a dip.",
+    "Big earnings-week moves are common, so avoid using money you need soon."
+   ],
+   "risk": [
+    "Shares could swing sharply either way on Tuesday's earnings and any CEO news."
+   ],
+   "sources": [
+    {
+     "t": "HSBC Just Downgraded Nvidia and Cut Its Target to $170",
+     "d": "247wallst.com",
+     "u": "https://247wallst.com/investing/2026/11/14/hsbc-just-downgraded-nvidia-and-cut-its-target-to-170/"
+    }
+   ]
+  },
+  {
+   "id": "lovable-leak-2026111520",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "business"
+   ],
+   "date": "This week",
+   "ts": "2026-11-15T20:19:00Z",
+   "headline": "Thousands of apps built with AI tool Lovable left user data open to anyone",
+   "caption": "Researchers found 24,664 Lovable-built sites returning database records with no login. Leaks included passports and 200,000 chat messages.",
+   "visual": {
+    "type": "board",
+    "title": "What researchers found",
+    "rows": [
+     {
+      "k": "Projects scanned",
+      "v": "159,041"
+     },
+     {
+      "k": "Open without login",
+      "s": "of 34,545 on Supabase",
+      "v": "24,664",
+      "tone": "loss"
+     },
+     {
+      "k": "Sites exposing emails",
+      "v": "7,403"
+     },
+     {
+      "k": "Chat messages leaked",
+      "s": "one lifestyle forum",
+      "v": "200K+"
+     },
+     {
+      "k": "Passport records",
+      "s": "one service provider",
+      "v": "1,000+"
+     }
+    ],
+    "foot": "Source: German security firm Crissy Field via Cybernews"
+   },
+   "detail": [
+    "German security firm Crissy Field scanned 159,041 projects built with Lovable, a 'vibe coding' tool that writes apps from plain-language prompts. Of 34,545 projects using Supabase databases, 24,664 returned records with no authentication.",
+    "The leaks were blamed on missing database security rules set by app builders, not a breach of Lovable itself. Exposed data included emails, orders, invoices, passport details and private messages."
+   ],
+   "money": [
+    "Be careful giving ID documents or payment details to small, new apps you don't know.",
+    "If you build apps with AI tools, turn on database access rules before launch; a leak can bring legal costs.",
+    "Use a password manager and unique passwords so one leak doesn't open other accounts."
+   ],
+   "risk": [
+    "Leaked passport and email data can fuel identity theft and phishing for months."
+   ],
+   "sources": [
+    {
+     "t": "Apps built on Lovable AI expose passport details and 200,000 chat messages",
+     "d": "cybernews.com",
+     "u": "https://cybernews.com/security/lovable-ai-apps-expose-personal-information/"
+    }
+   ]
+  },
+  {
+   "id": "facestealer-binance-2026111520",
+   "type": "news",
+   "cat": "crypto",
+   "tags": [
+    "crypto",
+    "world"
+   ],
+   "date": "Thu Nov 12",
+   "ts": "2026-11-15T20:19:00Z",
+   "headline": "DOJ moves to seize $1.2B from the Binance hack and shuts down a deepfake theft ring",
+   "caption": "The FBI says North Korean hackers used fake video calls to steal over $400 million in crypto. Separately, the DOJ won approval to seize $1.2 billion from the Binance hack.",
+   "visual": {
+    "type": "board",
+    "title": "The crackdown",
+    "rows": [
+     {
+      "k": "Binance hack",
+      "s": "blamed on North Korea, ~Oct 29",
+      "v": "$6B+",
+      "tone": "loss"
+     },
+     {
+      "k": "Frozen so far",
+      "s": "by authorities and firms",
+      "v": "$2.7B+"
+     },
+     {
+      "k": "DOJ seizure OK'd",
+      "v": "$1.2B+",
+      "tone": "gain"
+     },
+     {
+      "k": "FaceStealer thefts",
+      "s": "over 18 months",
+      "v": "$400M+",
+      "tone": "loss"
+     }
+    ]
+   },
+   "detail": [
+    "The Justice Department won court approval to seize or restrain more than $1.2 billion stolen from Binance. It blames North Korean military hackers known as TraderTraitor. Binance says it has covered affected customers' assets.",
+    "The DOJ also seized servers behind 'FaceStealer.' Hackers took over accounts, invited victims' contacts to video calls with recordings or deepfakes of people they knew, then faked a tech glitch to get them to install malware. The FBI recovered more than 900 webcam videos of victims."
+   ],
+   "money": [
+    "Never install software someone asks you to during a video call, even if you know them.",
+    "Keep long-term crypto in a hardware wallet, not on an exchange or a hot wallet on your laptop.",
+    "Confirm unusual requests through a second channel, like a phone call to a known number."
+   ],
+   "risk": [
+    "Deepfakes keep getting better, so a familiar face on screen is no longer proof."
+   ],
+   "sources": [
+    {
+     "t": "DOJ moves to seize $1.2 billion from Binance hack, disrupts North Korean deepfake scheme",
+     "d": "theblock.co",
+     "u": "https://www.theblock.co/news/business/2026-11-12-doj-seize-1-2-billion-binance-hack-north-korea-facestealer-439065"
+    }
+   ]
+  },
+  {
+   "id": "ny-power-rebate-2026111520",
+   "type": "news",
+   "cat": "states",
+   "tags": [
+    "states",
+    "taxes"
+   ],
+   "date": "Through December",
+   "ts": "2026-11-15T20:19:00Z",
+   "headline": "New York's $100–$200 POWER rebate checks keep mailing through December",
+   "caption": "About 8.2 million New Yorkers get the one-time check automatically. No application is needed if you filed a 2024 state return.",
+   "visual": {
+    "type": "board",
+    "title": "NY POWER rebate amounts",
+    "rows": [
+     {
+      "k": "Single / head of household",
+      "s": "income up to $150K",
+      "v": "$100"
+     },
+     {
+      "k": "Married filing jointly",
+      "s": "income up to $150K",
+      "v": "$200",
+      "tone": "gain"
+     },
+     {
+      "k": "Married filing jointly",
+      "s": "$150K–$300K",
+      "v": "$150"
+     }
+    ],
+    "foot": "About $1 billion to roughly 8.2 million people"
+   },
+   "detail": [
+    "New York is mailing one-time POWER energy rebate checks through December. Amounts are based on 2024 New York adjusted gross income. You must have filed a full-year resident return for 2024 and not be claimed as a dependent.",
+    "Checks go by mail, even to people who got refunds by direct deposit, to the latest address on file. Mailings aren't sorted by ZIP code, so neighbors may get checks at different times. This is separate from the 2025 inflation refund checks."
+   ],
+   "money": [
+    "If you moved, update your address with the NY tax department so the check finds you.",
+    "Use the check to pay down a high-interest card or pad your winter energy budget.",
+    "Watch for scams: the state won't ask for fees or bank details to send it."
+   ],
+   "risk": [
+    "The call center can't give individual check status or dates."
+   ],
+   "sources": [
+    {
+     "t": "Still waiting for a check? New York's power rebate payments continuing through December",
+     "d": "fingerlakes1.com",
+     "u": "https://www.fingerlakes1.com/2026/11/06/still-waiting-for-a-check-new-yorks-power-rebate-payments-continuing-through-december/"
+    }
+   ]
+  },
+  {
+   "id": "snap-store-extension-2026111520",
+   "type": "news",
+   "cat": "benefits",
+   "tags": [
+    "benefits",
+    "business",
+    "politics"
+   ],
+   "date": "Sat Nov 14",
+   "ts": "2026-11-15T20:19:00Z",
+   "headline": "SNAP stores get at least 90 more days to meet new USDA stocking rules",
+   "caption": "NYC Mayor Mamdani says Trump agreed to the extension. Without it, many bodegas and corner stores risked losing SNAP.",
+   "visual": {
+    "type": "timeline",
+    "title": "SNAP store stocking rule",
+    "items": [
+     {
+      "d": "SEP 4",
+      "t": "USDA issues rule",
+      "s": "7 varieties in 4 food groups"
+     },
+     {
+      "d": "NOV 4",
+      "t": "Original deadline"
+     },
+     {
+      "d": "NOV 14",
+      "t": "90-day extension announced",
+      "now": true
+     },
+     {
+      "d": "FEB",
+      "t": "New compliance window ends",
+      "s": "about three months out"
+     }
+    ]
+   },
+   "detail": [
+    "New York City Mayor Zohran Mamdani said President Trump agreed to give small stores 'at least a 90-day extension' to meet a USDA rule. The rule requires SNAP retailers to stock at least seven varieties across dairy, grains, proteins, and fruits and vegetables.",
+    "Stores that missed the Nov. 4 deadline could have lost the right to accept SNAP. Mamdani said SNAP can be up to 30% of a Bronx bodega's sales. He said he spoke with Trump and USDA Secretary Brooke Rollins."
+   ],
+   "money": [
+    "If you use SNAP, your usual corner store should keep taking EBT for now.",
+    "Small-store owners can use the extra time to add the required items and avoid losing SNAP sales.",
+    "Compare prices at stores that take EBT; larger stores often cost less per item."
+   ],
+   "risk": [
+    "Stores that still miss the new deadline could lose SNAP access."
+   ],
+   "sources": [
+    {
+     "t": "Mamdani thanks Trump in securing 90-day SNAP extension for small businesses",
+     "d": "foxbusiness.com",
+     "u": "https://www.foxbusiness.com/politics/mamdani-thanks-trump-helping-small-businesses-nyc-nationwide-president-delivered-relief"
+    }
+   ]
+  },
+  {
+   "id": "retail-earnings-week-2026111520",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business",
+    "markets"
+   ],
+   "date": "Nov 17–19",
+   "ts": "2026-11-15T20:19:00Z",
+   "headline": "Home Depot, Target, Lowe's and Walmart report this week as holiday shopping starts",
+   "caption": "The reports will show how shoppers are holding up. Several retailers' guidance includes tariff refunds.",
+   "visual": {
+    "type": "timeline",
+    "title": "Retail earnings this week",
+    "items": [
+     {
+      "d": "NOV 17",
+      "t": "Home Depot",
+      "s": "9 a.m. ET"
+     },
+     {
+      "d": "NOV 18",
+      "t": "Target, Lowe's",
+      "s": "Lowe's date tentative"
+     },
+     {
+      "d": "NOV 19",
+      "t": "Walmart, Ross",
+      "s": "Walmart 8 a.m. ET"
+     },
+     {
+      "d": "NOV 24",
+      "t": "Best Buy"
+     }
+    ]
+   },
+   "detail": [
+    "Big retailers report this week. Walmart raised its yearly outlook and guided to 3% to 3.75% sales growth for the quarter. Target expects full-year EPS of $9.90 to $10.90, including about $1.65 from tariff refunds.",
+    "Home Depot's outlook calls for 2.5% to 4.5% sales growth. Lowe's moved to the low end of its ranges, about $92 billion in sales. Ross expects comparable sales up 6% to 7%."
+   ],
+   "money": [
+    "Retailers' holiday comments can hint at deals; watch for early-discount plans before you shop.",
+    "If you own retail stocks, know that one-time tariff refunds inflate some 2026 profits.",
+    "Big-box earnings move consumer stock funds, so avoid trading on headlines alone."
+   ],
+   "risk": [
+    "Results may differ from guidance; dates like Lowe's are tentative."
+   ],
+   "sources": [
+    {
+     "t": "Retail earnings preview: Walmart, Home Depot, Target",
+     "d": "news.ifyouspent.com",
+     "u": "https://news.ifyouspent.com/en/news/retail-earnings-preview-walmart-home-depot-target-november-2026"
+    }
+   ]
+  },
+  {
+   "id": "mortgage-711-2026111520",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business",
+    "markets"
+   ],
+   "date": "Thu Nov 12",
+   "ts": "2026-11-15T20:19:00Z",
+   "headline": "Mortgage rates fall a fourth straight week to 7.11%, a seven-week low",
+   "caption": "Freddie Mac's 30-year average dipped from 7.18%. It is still well above 6.24% a year ago.",
+   "visual": {
+    "type": "board",
+    "title": "Freddie Mac rates",
+    "rows": [
+     {
+      "k": "30-year fixed",
+      "s": "last week 7.18%",
+      "v": "7.11%",
+      "tone": "gain"
+     },
+     {
+      "k": "15-year fixed",
+      "s": "last week 6.57%",
+      "v": "6.45%",
+      "tone": "gain"
+     },
+     {
+      "k": "30-year, a year ago",
+      "v": "6.24%"
+     },
+     {
+      "k": "15-year, a year ago",
+      "v": "5.49%"
+     }
+    ]
+   },
+   "detail": [
+    "Freddie Mac says the average 30-year fixed rate fell to 7.11%, its fourth weekly drop in a row. The 15-year rate fell to 6.45%.",
+    "Chief economist Sam Khater called it the lowest level in seven weeks. Rates are still roughly a point higher than a year ago, and a Fed rate hike is widely expected in December."
+   ],
+   "money": [
+    "Get quotes from at least three lenders; offers can differ more than this week's drop.",
+    "If you're buying soon, ask about a rate lock with a float-down option.",
+    "Paying points can lower your rate if you plan to keep the loan for years."
+   ],
+   "risk": [
+    "Hot inflation data could push mortgage rates back up quickly."
+   ],
+   "sources": [
+    {
+     "t": "Mortgage Rates Decline for Fourth Consecutive Week to 7.11%",
+     "d": "globenewswire.com",
+     "u": "https://www.globenewswire.com/news-release/2026/11/12/3402013/0/en/mortgage-rates-decline-for-fourth-consecutive-week-to-7-11.html"
+    }
+   ]
+  },
+  {
+   "id": "adams-county-ice-2026111520",
+   "type": "news",
+   "cat": "immigration",
+   "tags": [
+    "immigration",
+    "states"
+   ],
+   "date": "Fri Nov 13",
+   "ts": "2026-11-15T20:19:00Z",
+   "headline": "Judge rules a Washington county broke state law by working with ICE",
+   "caption": "A Spokane County judge found Adams County violated the Keep Washington Working Act. The sheriff plans to appeal.",
+   "visual": {
+    "type": "points",
+    "title": "The ruling",
+    "items": [
+     "Law bars local police from holding people for ICE",
+     "County handed a man to ICE after charges were dropped",
+     "Also sent daily custody lists to immigration officials",
+     "AG had flagged 200+ instances from 2019–2021",
+     "Sheriff says he will appeal"
+    ]
+   },
+   "detail": [
+    "Spokane County Superior Court Judge Marla Polin ruled that Adams County violated Washington's 2019 Keep Washington Working Act. The law bars local officers from asking about immigration status or holding people for federal agents.",
+    "The case began when a man without legal status was booked on charges later dropped. Instead of releasing him, officials connected him with ICE, which arrested him. Sheriff Wagner called the law a 'misguided political agenda' and plans to appeal."
+   ],
+   "money": [
+    "Local rules on ICE cooperation vary by state; know your state's law if it affects your family or workers.",
+    "Employers can review their state's rules on sharing worker data to avoid legal costs.",
+    "Free legal clinics can explain rights before a problem arises."
+   ],
+   "risk": [
+    "An appeal could change or delay the outcome."
+   ],
+   "sources": [
+    {
+     "t": "Judge rules Adams County violated WA state law by working with ICE",
+     "d": "kuow.org",
+     "u": "https://kuow.org/immigration/2026-11-13/judge-rules-adams-county-violated-wa-state-law-by-working-with-ice"
+    }
+   ]
+  },
+  {
+   "id": "ice-phone-search-2026111520",
+   "type": "news",
+   "cat": "immigration",
+   "tags": [
+    "immigration",
+    "politics"
+   ],
+   "date": "Thu Nov 12",
+   "ts": "2026-11-15T20:19:00Z",
+   "headline": "Judge bars agents from searching an immigration lawyer's copied phone data",
+   "caption": "A federal judge found the airport phone seizure was likely retaliation for the lawyer's speech. The government denies it.",
+   "visual": {
+    "type": "timeline",
+    "title": "The case",
+    "items": [
+     {
+      "d": "SEP 2025",
+      "t": "Phone seized at Boston Logan",
+      "s": "data copied, returned 8 days later"
+     },
+     {
+      "d": "NOV 12",
+      "t": "Injunction granted",
+      "s": "Judge Allison Burroughs",
+      "now": true
+     },
+     {
+      "d": "NEXT",
+      "t": "Data stays locked until case ends"
+     }
+    ]
+   },
+   "detail": [
+    "US District Judge Allison Burroughs granted immigration attorney Andrew Lattarulo a preliminary injunction. It bars federal authorities from searching data copied from his phone, which border agents seized without a warrant at Boston Logan airport in September 2025.",
+    "The judge found he would likely show the search happened because of his protected speech. The government says it was tied to a probe of whether his firm employed unauthorized workers. The judge did not rule on the Fourth Amendment question."
+   ],
+   "money": [
+    "Lawyers and business travelers may want a separate travel phone with less data on it.",
+    "Back up your phone before travel so a seizure doesn't cost you work or files.",
+    "Know that border searches follow different rules than searches inside the country."
+   ],
+   "risk": [
+    "This is a preliminary ruling; the final result could differ."
+   ],
+   "sources": [
+    {
+     "t": "Judge Blocks ICE From Searching Immigration Lawyer's Phone",
+     "d": "newsweek.com",
+     "u": "https://www.newsweek.com/judge-blocks-ice-from-searching-immigration-lawyers-phone-12715119"
+    }
+   ]
+  },
+  {
+   "id": "bahrain-drones-2026111520",
+   "type": "news",
+   "cat": "world",
+   "tags": [
+    "world",
+    "markets"
+   ],
+   "date": "Sun Nov 15",
+   "ts": "2026-11-15T20:19:00Z",
+   "headline": "Iran fires drones at a US base in Bahrain, its second attack there this week",
+   "caption": "Bahrain says it shot the drones down. Gulf stocks fell as Hormuz shipping stays heavily limited.",
+   "visual": {
+    "type": "board",
+    "title": "Sunday in the Gulf",
+    "rows": [
+     {
+      "k": "IRGC drones fired",
+      "s": "at Riffa airbase radar",
+      "v": "6"
+     },
+     {
+      "k": "Saudi stocks",
+      "v": "-0.7%",
+      "ch": -0.7,
+      "tone": "loss"
+     },
+     {
+      "k": "Qatar stocks",
+      "v": "-1.8%",
+      "ch": -1.8,
+      "tone": "loss"
+     },
+     {
+      "k": "Next talks",
+      "s": "Araghchi in Muscat",
+      "v": "Tuesday"
+     }
+    ]
+   },
+   "detail": [
+    "Iran's Revolutionary Guard said it fired six drones at a US air-defense radar at Bahrain's Riffa airbase early Sunday. Bahrain said the drones were destroyed before reaching targets. The Gulf Cooperation Council called it a 'blatant challenge' to peace efforts.",
+    "Shipping through Hormuz remains heavily curtailed. Iran's foreign minister is due in Muscat on Tuesday. Gulf-backed Yemeni forces also pulled back from an area overlooking the Bab al-Mandeb strait, another key oil route."
+   ],
+   "money": [
+    "Oil can jump on Gulf attacks; avoid filling up with premium fuel you don't need.",
+    "Energy funds can swing hard on war news; keep them a small slice of a portfolio.",
+    "Lock in fixed heating-oil or propane prices if your supplier offers them."
+   ],
+   "risk": [
+    "Claims from both sides are hard to verify quickly."
+   ],
+   "sources": [
+    {
+     "t": "Iran attacks Bahrain in 'blatant challenge' to peace push",
+     "d": "thenationalnews.com",
+     "u": "https://www.thenationalnews.com/news/mena/2026/11/15/iran-attacks-bahrain-in-blatant-challenge-to-peace-push/"
+    }
+   ]
+  },
+  {
+   "id": "ca-gas-drop-2026111520",
+   "type": "news",
+   "cat": "california",
+   "tags": [
+    "california",
+    "markets"
+   ],
+   "date": "Fri Nov 13",
+   "ts": "2026-11-15T20:19:00Z",
+   "headline": "California gas falls 20 cents in a week to about $5.63 a gallon",
+   "caption": "Prices are down about 67 cents from a month ago. They're still almost $1 above last year.",
+   "visual": {
+    "type": "board",
+    "title": "California regular gas (AAA)",
+    "rows": [
+     {
+      "k": "Now",
+      "v": "$5.63",
+      "tone": "gain"
+     },
+     {
+      "k": "Week ago",
+      "v": "$5.84"
+     },
+     {
+      "k": "Month ago",
+      "v": "$6.31"
+     },
+     {
+      "k": "Year ago",
+      "v": "$4.69",
+      "tone": "loss"
+     },
+     {
+      "k": "Diesel now",
+      "s": "was $5.17 a year ago",
+      "v": "$8.04"
+     }
+    ],
+    "foot": "California ties Hawaii for the priciest gas in the US"
+   },
+   "detail": [
+    "AAA data show California's average for regular gas fell to about $5.63, down from $5.84 a week earlier and $6.31 a month ago. Diesel is just over $8.",
+    "California and Hawaii are tied for the most expensive gas in the country. The national average recently fell below $4 a gallon for the first time since July."
+   ],
+   "money": [
+    "Use a gas price app; prices vary a lot between nearby stations.",
+    "Warehouse-club and grocery fuel rewards can save 10 to 30 cents a gallon.",
+    "If prices keep falling, don't prepay or stock up yet."
+   ],
+   "risk": [
+    "New Gulf attacks could push prices back up."
+   ],
+   "sources": [
+    {
+     "t": "AAA: California Gas Prices Fall 20 Cents in a Week",
+     "d": "contracosta.news",
+     "u": "https://contracosta.news/2026/11/13/aaa-california-gas-prices-fall-20-cents-in-a-week/"
+    }
+   ]
+  },
+  {
+   "id": "edu-price-target-2026111520",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "markets"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-15T20:19:00Z",
+   "headline": "What an analyst 'price target' really means",
+   "caption": "HSBC just cut Nvidia's target to $170. Here's what targets and downgrades tell you, and what they don't.",
+   "scenes": [
+    {
+     "k": "This week",
+     "t": "HSBC cut Nvidia to Hold.",
+     "s": "Its target fell from about $370 to $170."
+    },
+    {
+     "k": "The basics",
+     "t": "A target is one analyst's guess.",
+     "s": "It's where they think a stock trades in about a year."
+    },
+    {
+     "k": "Nvidia now",
+     "t": "Targets can be far apart.",
+     "viz": {
+      "type": "split",
+      "items": [
+       [
+        "Friday close",
+        "$162.85"
+       ],
+       [
+        "HSBC target",
+        "$170"
+       ],
+       [
+        "Street average",
+        "$279.63",
+        "wide"
+       ]
+      ]
+     },
+     "say": "Nvidia closed Friday at about 163 dollars. HSBC's new target is 170, while the average Wall Street target is about 280."
+    },
+    {
+     "k": "Ratings",
+     "t": "Buy, Hold, Sell.",
+     "s": "A downgrade means the analyst sees less upside than before."
+    },
+    {
+     "k": "How it flows",
+     "t": "Why downgrades move stocks.",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "New risk spotted",
+       "Target cut",
+       "Funds rethink",
+       "Price swings"
+      ]
+     }
+    },
+    {
+     "k": "Your move",
+     "t": "Use targets as one clue, not a plan.",
+     "s": "Look at the range of views and your own time horizon."
+    }
+   ]
+  },
+  {
+   "id": "edu-mortgage-math-2026111520",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "business"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-15T20:19:00Z",
+   "headline": "A small rate drop, real money: mortgage math",
+   "caption": "Mortgage rates slipped to 7.11%. Here's what tiny rate changes do to a monthly payment.",
+   "scenes": [
+    {
+     "k": "This week",
+     "t": "30-year rates hit 7.11%.",
+     "s": "Down from 7.18%, a seven-week low."
+    },
+    {
+     "k": "Try it",
+     "t": "Picture a $400,000 loan.",
+     "s": "30 years, fixed rate, principal and interest only."
+    },
+    {
+     "k": "The payment",
+     "t": "Each rate means a different bill.",
+     "viz": {
+      "type": "split",
+      "items": [
+       [
+        "At 7.18%",
+        "$2,710/mo"
+       ],
+       [
+        "At 7.11%",
+        "$2,691/mo"
+       ],
+       [
+        "At 6.24% (a year ago)",
+        "$2,460/mo",
+        "wide"
+       ]
+      ]
+     },
+     "say": "At 7.18 percent, the monthly payment is about 2,710 dollars. At 7.11 percent, it's about 2,691. At last year's 6.24 percent, it would be about 2,460."
+    },
+    {
+     "k": "Add it up",
+     "t": "About $19 a month saved.",
+     "s": "That's roughly $6,800 over 30 years."
+    },
+    {
+     "k": "Bigger levers",
+     "t": "Shopping lenders can matter more.",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "Get 3+ quotes",
+       "Compare APR",
+       "Ask about points",
+       "Lock your rate"
+      ]
+     }
+    },
+    {
+     "k": "Your move",
+     "t": "Shop around before you lock.",
+     "s": "Offers can differ more than a week's rate move."
+    }
+   ]
+  },
   {
    "id": "ai-job-cuts-121k-2026111519",
    "type": "news",
