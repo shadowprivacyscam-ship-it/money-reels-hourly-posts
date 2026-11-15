@@ -1,6 +1,1192 @@
 {
- "updated": "2026-11-09T07:11:26Z",
+ "updated": "2026-11-15T04:23:09Z",
  "items": [
+  {
+   "id": "week-close-2026111504",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets",
+    "ai"
+   ],
+   "date": "Fri Nov 13",
+   "headline": "Stocks end a wild week higher, but chips and Nvidia drag the Nasdaq down Friday",
+   "caption": "The Dow inched up Friday while the Nasdaq fell almost 1% as chip stocks sold off. All three big indexes still finished the week up about 2%.",
+   "visual": {
+    "type": "board",
+    "title": "Friday close, Nov 13",
+    "rows": [
+     {
+      "k": "Dow",
+      "v": "52,348",
+      "ch": 0.1,
+      "tone": "gain"
+     },
+     {
+      "k": "S&P 500",
+      "v": "7,562",
+      "ch": -0.4,
+      "tone": "loss"
+     },
+     {
+      "k": "Nasdaq",
+      "v": "25,136",
+      "ch": -0.91,
+      "tone": "loss"
+     },
+     {
+      "k": "Russell 2000",
+      "v": "2,790",
+      "ch": -0.31,
+      "tone": "loss"
+     },
+     {
+      "k": "AMD",
+      "s": "chip sell-off",
+      "v": "Down",
+      "ch": -10.95,
+      "tone": "loss"
+     }
+    ],
+    "foot": "Each index still gained roughly 2% to 2.5% for the week."
+   },
+   "detail": [
+    "Wall Street ended a choppy week on a mixed note. The Dow rose 0.1% to about 52,348, while the S&P 500 lost 0.4% and the Nasdaq dropped 0.9%.",
+    "Chip stocks led the selling. AMD fell about 11%, and Broadcom, Micron, Intel and Sandisk all slid sharply during the day. Nvidia lost 2% and is down about 12% for the week after its CEO resigned.",
+    "Airline stocks also dipped late in the day after the FAA paused flights nationwide. Despite Friday, the major indexes still finished the week up around 2%."
+   ],
+   "money": [
+    "If you own an S&P 500 index fund, the week was a small gain. Big single-day chip drops matter less when you are spread out.",
+    "Check how much of your portfolio sits in a handful of chip and AI names. Concentration is what made this week painful for some.",
+    "Volatile weeks are when automatic monthly investing does its job. You buy more shares when prices dip."
+   ],
+   "risk": [
+    "Nvidia reports earnings Tuesday, and chip stocks could swing hard either way.",
+    "Higher bond yields keep pressure on pricey tech stocks."
+   ],
+   "sources": [
+    {
+     "t": "Stock market today: Dow rises, S&P 500 and Nasdaq slip to cap volatile week, Nvidia stock plunge deepens",
+     "d": "finance.yahoo.com",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
+    },
+    {
+     "t": "Weekly Stock Market Summary: November 13, 2026",
+     "d": "vistapglobal.com",
+     "u": "https://vistapglobal.com/weekly-stock-market-summary-november-13-2026-nasdaq-slides-as-inflation-and-ai-risks-shape-wall-street-ant-eprx-googl-gs-modd-msft-nvda-ser-spcx/"
+    }
+   ],
+   "ts": "2026-11-15T04:23:09Z"
+  },
+  {
+   "id": "nvidia-ceo-2026111504",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets",
+    "ai",
+    "business"
+   ],
+   "date": "Thu Nov 12",
+   "headline": "Jensen Huang quits as Nvidia CEO; CFO Colette Kress takes over for now",
+   "caption": "Nvidia's founder resigned effective immediately, and its CFO is interim CEO. The stock fell about 12% this week and dipped below a $4 trillion value.",
+   "visual": {
+    "type": "timeline",
+    "title": "Nvidia's week",
+    "items": [
+     {
+      "d": "NOV 12",
+      "t": "Huang resigns as CEO and director",
+      "s": "Kress named interim CEO"
+     },
+     {
+      "d": "NOV 12",
+      "t": "Harvey Jones becomes first board chair"
+     },
+     {
+      "d": "NOV 13",
+      "t": "HSBC cuts to Hold, target $170",
+      "s": "from $365"
+     },
+     {
+      "d": "NOV 17",
+      "t": "Q3 earnings after the close",
+      "now": true
+     }
+    ]
+   },
+   "detail": [
+    "Nvidia said Jensen Huang stepped down as president, CEO and board member, effective right away. CFO Colette Kress is interim CEO and will keep her finance job while the board searches inside and outside the company.",
+    "The company's filing gave no reason. News reports tied the exit to an investigation into reports that Huang was targeted by a foreign intelligence effort. The board said it had no reason to think company secrets or national security were compromised.",
+    "Nvidia closed Friday near $163, down about 12% for the week. Earnings are still set for Tuesday, Nov. 17."
+   ],
+   "money": [
+    "Nvidia is one of the biggest holdings in most S&P 500 and Nasdaq funds, so this hits index investors too. Know your exposure.",
+    "Avoid panic-selling on headlines. Decide in advance what would make you sell, like a change in the business itself.",
+    "If you hold Nvidia in a taxable account at a loss, selling to harvest the loss can offset gains. Watch the 30-day wash-sale rule."
+   ],
+   "risk": [
+    "A leadership gap right before earnings adds uncertainty.",
+    "Congress is also looking at chip export rules, which could affect sales."
+   ],
+   "sources": [
+    {
+     "t": "NVIDIA Announces CEO Transition (Form 8-K)",
+     "d": "sec.gov",
+     "u": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm"
+    },
+    {
+     "t": "Stock market today: Dow rises, S&P 500 and Nasdaq slip to cap volatile week, Nvidia stock plunge deepens",
+     "d": "finance.yahoo.com",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
+    },
+    {
+     "t": "Weekly Stock Market Summary: November 13, 2026",
+     "d": "vistapglobal.com",
+     "u": "https://vistapglobal.com/weekly-stock-market-summary-november-13-2026-nasdaq-slides-as-inflation-and-ai-risks-shape-wall-street-ant-eprx-googl-gs-modd-msft-nvda-ser-spcx/"
+    }
+   ],
+   "ts": "2026-11-15T04:23:09Z"
+  },
+  {
+   "id": "fed-hike-ppi-2026111504",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets",
+    "politics"
+   ],
+   "date": "Nov 10–13",
+   "headline": "Hot inflation data puts a December Fed rate hike near-certain; 10-year yield hits 5.15%",
+   "caption": "Wholesale prices are up 6.5% from a year ago, the most since 2022. Traders now see about a 90% chance of a quarter-point hike in December.",
+   "visual": {
+    "type": "stat",
+    "title": "Inflation check",
+    "num": "6.5%",
+    "tone": "loss",
+    "label": "Producer prices vs. a year ago, the highest since November 2022.",
+    "facts": [
+     [
+      "October CPI",
+      "+0.4%",
+      "month over month"
+     ],
+     [
+      "10-year Treasury",
+      "5.15%",
+      "Fri close"
+     ],
+     [
+      "Dec hike odds",
+      "~91% for 0.25",
+      "CME FedWatch, Nov 10"
+     ]
+    ]
+   },
+   "detail": [
+    "October consumer prices rose 0.4% in a month, and core prices rose 0.3% for a third month in a row. Wholesale prices rose 0.3% in October and are 6.5% higher than a year ago.",
+    "Fed officials sounded tougher. Governor Christopher Waller argued for a half-point hike, while others backed slower, quarter-point moves. Markets priced about a 91% chance of a quarter-point hike at the Dec. 8–9 meeting.",
+    "The 10-year Treasury yield closed Friday at 5.15%, after touching 5.17%. That rate feeds into mortgages and other loans."
+   ],
+   "money": [
+    "Savers win: high-yield savings, CDs and Treasury bills should keep paying more. Shop around for the best rate.",
+    "If you carry a credit card balance, your rate likely rises after a hike. Paying it down is a guaranteed return.",
+    "Shopping for a home or car? Higher yields push loan rates up, so get a rate lock or preapproval early."
+   ],
+   "risk": [
+    "A bigger half-point hike would likely jolt stocks and bonds.",
+    "Rates may keep rising into 2027 if inflation stays hot."
+   ],
+   "sources": [
+    {
+     "t": "Markets Are Bracing For Another Fed Rate Hike In December",
+     "d": "finance.yahoo.com",
+     "u": "https://finance.yahoo.com/economy/policy/articles/markets-bracing-another-fed-rate-015247271.html"
+    },
+    {
+     "t": "Weekly Stock Market Summary: November 13, 2026",
+     "d": "vistapglobal.com",
+     "u": "https://vistapglobal.com/weekly-stock-market-summary-november-13-2026-nasdaq-slides-as-inflation-and-ai-risks-shape-wall-street-ant-eprx-googl-gs-modd-msft-nvda-ser-spcx/"
+    },
+    {
+     "t": "Stock market today: Dow rises, S&P 500 and Nasdaq slip to cap volatile week, Nvidia stock plunge deepens",
+     "d": "finance.yahoo.com",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
+    }
+   ],
+   "ts": "2026-11-15T04:23:09Z"
+  },
+  {
+   "id": "week-ahead-2026111504",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets",
+    "business",
+    "ai"
+   ],
+   "date": "Nov 16–20",
+   "headline": "Big week ahead: Nvidia, Walmart and Home Depot report as Anthropic prices its IPO",
+   "caption": "Nvidia reports Tuesday under an interim CEO, and the big retailers show how shoppers are holding up. Anthropic plans to price its IPO Wednesday.",
+   "visual": {
+    "type": "timeline",
+    "title": "Dates to watch",
+    "items": [
+     {
+      "d": "NOV 17",
+      "t": "Home Depot, Disney before open"
+     },
+     {
+      "d": "NOV 17",
+      "t": "Nvidia after the close",
+      "now": true
+     },
+     {
+      "d": "NOV 18",
+      "t": "TJX, Lowe's; Palo Alto after close",
+      "s": "Anthropic IPO pricing"
+     },
+     {
+      "d": "NOV 19",
+      "t": "Walmart before open",
+      "s": "Anthropic starts trading"
+     }
+    ]
+   },
+   "detail": [
+    "Seven companies worth over $100 billion report next week. Home Depot and Disney go Tuesday morning, with Nvidia after the close. TJX and Lowe's report Wednesday, and Walmart reports Thursday.",
+    "Retail results will show how shoppers are coping with high prices and rising rates, heading into the holidays.",
+    "Anthropic plans to price its IPO Wednesday and start trading Thursday, which could pull a lot of money toward one stock."
+   ],
+   "money": [
+    "Retail earnings hint at holiday sales. Stores that see weak demand often discount more, which can mean better deals for you.",
+    "Don't rush to buy a stock right before earnings. Moves of 5% to 10% in a day are common.",
+    "If you want IPO exposure, decide your max price before trading starts. First-day pops can fade."
+   ],
+   "risk": [
+    "Earnings misses can drag whole sectors down.",
+    "Dates can shift; check before you trade."
+   ],
+   "sources": [
+    {
+     "t": "Stock market week ahead: 4 big retailers report earnings",
+     "d": "openingbelldailynews.com",
+     "u": "https://www.openingbelldailynews.com/p/stock-market-week-ahead-retail-earnings-nov-14-2026"
+    },
+    {
+     "t": "Everything you need to know ahead of Anthropic's IPO",
+     "d": "finance.yahoo.com",
+     "u": "https://finance.yahoo.com/technology/ai/article/anthropic-ipo-what-we-know-143321078.html"
+    }
+   ],
+   "ts": "2026-11-15T04:23:09Z"
+  },
+  {
+   "id": "anthropic-ipo-set-2026111504",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "markets"
+   ],
+   "date": "Prices Wed Nov 18",
+   "headline": "Anthropic sets IPO terms: $70–$78 a share, trading Thursday as ANT",
+   "caption": "New: the Claude maker plans to price on Nov. 18 and list on Nasdaq Nov. 19. The range values it around $1.4 trillion.",
+   "visual": {
+    "type": "ticker",
+    "sym": "ANT",
+    "ex": "NASDAQ",
+    "rows": [
+     {
+      "k": "Price range",
+      "s": "per share",
+      "v": "$70–$78"
+     },
+     {
+      "k": "Shares offered",
+      "s": "public offering",
+      "v": "825M"
+     },
+     {
+      "k": "Valuation",
+      "s": "approx.",
+      "v": "$1.4T"
+     },
+     {
+      "k": "Pricing / trading",
+      "s": "if cleared",
+      "v": "Nov 18 / 19"
+     }
+    ]
+   },
+   "detail": [
+    "This updates last week's post. Anthropic now has terms: 825 million Class A shares at $70 to $78 each, with pricing set for Wednesday, Nov. 18, and trading on Nasdaq Thursday under the ticker ANT. The dates depend on regulatory clearance.",
+    "At that range, the deal would raise roughly $58 billion to $64 billion and value the company near $1.4 trillion. Separately, big tech partners including Nvidia, Microsoft and Google are committing about $26 billion through non-voting shares.",
+    "CEO Dario Amodei said the market's recent swings had not changed the plan."
+   ],
+   "money": [
+    "Most people buy IPO stocks once they start trading. Set a limit order so you don't pay a spike price at the open.",
+    "Index funds may add the stock later, so many investors will own a slice without buying it directly.",
+    "If you buy, keep it to a small slice of your portfolio. New listings can swing wildly in the first months."
+   ],
+   "risk": [
+    "Huge IPOs can fall below their offer price.",
+    "Tech stocks are under pressure from rising rates."
+   ],
+   "sources": [
+    {
+     "t": "Everything you need to know ahead of Anthropic's IPO",
+     "d": "finance.yahoo.com",
+     "u": "https://finance.yahoo.com/technology/ai/article/anthropic-ipo-what-we-know-143321078.html"
+    },
+    {
+     "t": "Weekly Stock Market Summary: November 13, 2026",
+     "d": "vistapglobal.com",
+     "u": "https://vistapglobal.com/weekly-stock-market-summary-november-13-2026-nasdaq-slides-as-inflation-and-ai-risks-shape-wall-street-ant-eprx-googl-gs-modd-msft-nvda-ser-spcx/"
+    }
+   ],
+   "ts": "2026-11-15T04:23:09Z"
+  },
+  {
+   "id": "ai-funding-2026111504",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "business"
+   ],
+   "date": "Nov 13–14",
+   "headline": "AI money keeps flowing: Mercor hits $20B, LangChain $3B, CrowdStrike buys two startups",
+   "caption": "Even with tech stocks shaky, private AI deals kept coming this week. Hiring platforms, agent tools and AI security drew the biggest checks.",
+   "visual": {
+    "type": "deals",
+    "title": "AI deals this week",
+    "items": [
+     {
+      "a": "Mercor",
+      "b": "funding round",
+      "amt": "$750M",
+      "st": "$20B valuation",
+      "c": "ok"
+     },
+     {
+      "a": "LangChain",
+      "b": "Series C",
+      "amt": "$300M",
+      "st": "$3B valuation",
+      "c": "ok"
+     },
+     {
+      "a": "CrowdStrike",
+      "b": "2 AI agent security startups",
+      "amt": "$495M",
+      "st": "reported",
+      "c": "pend"
+     },
+     {
+      "a": "OpenAI + Databricks",
+      "b": "enterprise partnership",
+      "amt": "n/a",
+      "st": "announced",
+      "c": "ok"
+     }
+    ]
+   },
+   "detail": [
+    "Staffing platform Mercor raised $750 million at a $20 billion value. LangChain, which makes tools to build and govern AI agents, raised $300 million at a $3 billion value.",
+    "CrowdStrike reportedly paid $495 million for two startups that secure AI agents. OpenAI and Databricks teamed up so companies can run ChatGPT and Codex on their own data.",
+    "Google also unveiled a new Gemini 4 Hydrogen model focused on faster agent tasks."
+   ],
+   "money": [
+    "AI agent skills are in demand. Learning tools like these can raise your value at work.",
+    "Most of these firms are private. Public ways in include cloud and security stocks, or broad tech funds.",
+    "Be wary of anyone selling 'pre-IPO' shares of hot AI startups. Those offers are often scams."
+   ],
+   "risk": [
+    "Sky-high private valuations can drop fast if the AI boom cools."
+   ],
+   "sources": [
+    {
+     "t": "AI Agents News Brief: Cloudflare, CrowdStrike, OpenAI, and more - November 14, 2026",
+     "d": "aiagentsdirectory.com",
+     "u": "https://aiagentsdirectory.com/news/ai-agents-news-brief-2026-11-14"
+    }
+   ],
+   "ts": "2026-11-15T04:23:09Z"
+  },
+  {
+   "id": "limits-final-2026111504",
+   "type": "news",
+   "cat": "taxes",
+   "tags": [
+    "taxes",
+    "learn"
+   ],
+   "date": "Thu Nov 12",
+   "headline": "It's official: 401(k) limit rises to $25,500 in 2027; IRA limit stays $7,500",
+   "caption": "New: the IRS confirmed 2027 retirement limits in Notice 2026-66. Workers 60 to 63 can put in up to $37,250.",
+   "visual": {
+    "type": "board",
+    "title": "2027 retirement limits",
+    "rows": [
+     {
+      "k": "401(k) / 403(b) / TSP",
+      "v": "$25,500",
+      "tone": "gain"
+     },
+     {
+      "k": "Catch-up, age 50+",
+      "v": "$8,500"
+     },
+     {
+      "k": "Super catch-up, 60–63",
+      "s": "total $37,250",
+      "v": "$11,750",
+      "tone": "gain"
+     },
+     {
+      "k": "IRA",
+      "s": "unchanged",
+      "v": "$7,500"
+     },
+     {
+      "k": "SIMPLE IRA",
+      "v": "$17,500"
+     }
+    ],
+    "foot": "Source: IRS Notice 2026-66"
+   },
+   "detail": [
+    "Last week we said the 401(k) limit was expected to hit $25,500. The IRS has now made it official. The regular catch-up for people 50 and older is $8,500, and people aged 60 to 63 get an $11,750 catch-up.",
+    "IRA limits stay at $7,500, plus $1,100 extra at 50 and older. The Roth IRA income phase-out for singles is $158,000 to $173,000, and $250,000 to $260,000 for married couples.",
+    "High earners take note: if you made over $155,000 in FICA wages the prior year, your catch-up must go in as Roth."
+   ],
+   "money": [
+    "Raise your 401(k) percentage in January so you spread the new limit over the year.",
+    "Turning 60 to 63 in 2027? The super catch-up lets you save much more, tax-advantaged.",
+    "Low or moderate income? The Saver's Credit can cut your tax bill for contributing. Singles qualify up to $41,500."
+   ],
+   "risk": [
+    "Check your plan's rules; not all employers allow catch-ups or Roth options."
+   ],
+   "sources": [
+    {
+     "t": "Technical Analysis of IRS Notice 2026-66",
+     "d": "currentfederaltaxdevelopments.com",
+     "u": "https://www.currentfederaltaxdevelopments.com/blog/2026/11/12/technical-analysis-of-irs-notice-2026-66-statutory-mechanics-and-practice-implications-of-the-2027-cost-of-living-adjustments-for-qualified-plans-and-iras"
+    }
+   ],
+   "ts": "2026-11-15T04:23:09Z"
+  },
+  {
+   "id": "medicare-notices-2026111504",
+   "type": "news",
+   "cat": "benefits",
+   "tags": [
+    "benefits",
+    "immigration"
+   ],
+   "date": "Notices since Nov 10",
+   "headline": "About 32,000 people could lose Medicare Feb. 1 unless they prove eligible status",
+   "caption": "Social Security is mailing notices to enrollees whose status it can't confirm. Coverage could end Feb. 1, 2027, under the 2025 tax-and-spending law.",
+   "visual": {
+    "type": "stat",
+    "title": "Medicare status checks",
+    "num": "32,000",
+    "tone": "loss",
+    "label": "Enrollees who may lose coverage, per a CMS estimate.",
+    "facts": [
+     [
+      "Coverage may end",
+      "Feb 1, 2027",
+      "unless status is proven"
+     ],
+     [
+      "Who gets notices",
+      "Enrolled before Jul 4, 2025",
+      ""
+     ],
+     [
+      "Citizens",
+      "Not affected",
+      ""
+     ]
+    ]
+   },
+   "detail": [
+    "The July 2025 law narrowed Medicare eligibility for some legal non-citizens. Refugees, asylum grantees and people with Temporary Protected Status no longer qualify. Green card holders, Cuban-Haitian entrants and certain Compact residents still do.",
+    "The Social Security Administration told providers on Nov. 10 that it is sending notices to about 32,000 people whose status it cannot confirm. Those people enrolled before July 4, 2025.",
+    "People can keep coverage by sending proof of citizenship or an eligible status, online through my Social Security or at a local office."
+   ],
+   "money": [
+    "If you or a relative gets a notice, respond fast. Missing the deadline could mean losing coverage Feb. 1.",
+    "Upload documents online to avoid long office waits.",
+    "If coverage ends, check employer or spouse plans, state programs, or community health centers for low-cost care."
+   ],
+   "risk": [
+    "Mail mix-ups could hit eligible people; keep copies of everything you send."
+   ],
+   "sources": [
+    {
+     "t": "32,000 To Lose Medicare As 2027 Deadline Approaches",
+     "d": "newsweek.com",
+     "u": "https://www.newsweek.com/32000-lose-medicare-2027-deadline-approaches-12705589"
+    }
+   ],
+   "ts": "2026-11-15T04:23:09Z"
+  },
+  {
+   "id": "snap-rule-2026111504",
+   "type": "news",
+   "cat": "benefits",
+   "tags": [
+    "benefits",
+    "states"
+   ],
+   "date": "Proposed Tue Nov 10",
+   "headline": "New SNAP rule could cut 6.3 million people from food aid by 2029",
+   "caption": "USDA wants to end automatic SNAP eligibility tied to some TANF services. Public comments are open until December.",
+   "visual": {
+    "type": "stat",
+    "title": "Proposed SNAP rule",
+    "num": "6.3M",
+    "tone": "loss",
+    "label": "People who could lose SNAP eligibility by fiscal 2029, per USDA.",
+    "facts": [
+     [
+      "Already lost SNAP",
+      "5.5M",
+      "over the past year"
+     ],
+     [
+      "States affected",
+      "41 + DC",
+      "use broad eligibility"
+     ],
+     [
+      "Comments due",
+      "December",
+      "full effect ~2 years out"
+     ]
+    ]
+   },
+   "detail": [
+    "The USDA proposed ending 'broad-based categorical eligibility,' which lets 41 states and D.C. qualify people for SNAP because they get TANF-funded help like job counseling. The administration calls it a loophole.",
+    "USDA estimates 6.3 million people could lose SNAP by fiscal 2029, on top of 5.5 million who lost benefits over the past year. About 1.8 million kids could lose automatic free school meals, though most would still qualify another way.",
+    "Supporters call it a reasonable fix. Critics say it removes flexibility Congress gave states. If finalized, it would take about two years to fully kick in."
+   ],
+   "money": [
+    "Nothing changes yet. Keep using your benefits and renewing on time.",
+    "If you might be affected, check whether you qualify under your state's standard income and asset rules.",
+    "Anyone can submit a public comment on the rule before the December deadline."
+   ],
+   "risk": [
+    "Final rules can be stricter or looser than the proposal.",
+    "States may face higher costs and error-rate penalties."
+   ],
+   "sources": [
+    {
+     "t": "Trump administration plans to make it harder to get grocery assistance",
+     "d": "pbs.org",
+     "u": "https://pbs.org/newshour/politics/trump-administration-plans-to-make-it-harder-to-get-grocery-assistance"
+    },
+    {
+     "t": "Off the news: New rules put isle SNAP benefits at risk",
+     "d": "staradvertiser.com",
+     "u": "https://www.staradvertiser.com/2026/11/12/editorial/off-the-news/off-the-news-new-rules-put-isle-snap-benefits-at-risk/"
+    }
+   ],
+   "ts": "2026-11-15T04:23:09Z"
+  },
+  {
+   "id": "minwage-vt-tx-2026111504",
+   "type": "news",
+   "cat": "states",
+   "tags": [
+    "states",
+    "politics"
+   ],
+   "date": "Nov 10–13",
+   "headline": "Minimum wage moves: Vermont to $14.91, a Texas bill filed, Kirkland eyes a raise",
+   "caption": "Vermont's automatic raise lands Jan. 1. In Texas, still at $7.25, a Houston Democrat filed a bill to lift the state minimum.",
+   "visual": {
+    "type": "board",
+    "title": "Minimum wage watch",
+    "rows": [
+     {
+      "k": "Vermont",
+      "s": "Jan 1, from $14.42",
+      "v": "$14.91",
+      "tone": "gain"
+     },
+     {
+      "k": "Vermont tipped",
+      "s": "from $7.21",
+      "v": "$7.46",
+      "tone": "gain"
+     },
+     {
+      "k": "Texas",
+      "s": "HB 132 filed Nov 10",
+      "v": "$7.25"
+     },
+     {
+      "k": "Washington state",
+      "s": "Kirkland weighs more",
+      "v": "$17.13"
+     }
+    ]
+   },
+   "detail": [
+    "Vermont's minimum wage rises 49 cents to $14.91 on Jan. 1. The raise is automatic, tied to inflation and capped at 5%. For a full-time worker that is about $1,000 more a year.",
+    "In Texas, Rep. Armando Walle of Houston filed HB 132 on the first day of bill filing to raise the state's $7.25 minimum. The session starts Jan. 12.",
+    "In Washington, Kirkland is gathering feedback on a local wage above the state's $17.13, with a draft ordinance planned by late June."
+   ],
+   "money": [
+    "Paid hourly in Vermont? Check your January paycheck reflects $14.91.",
+    "A raise can push income over limits for some benefits. Check how it affects SNAP or health subsidies.",
+    "Small business owners: budget for higher payroll costs starting in January."
+   ],
+   "risk": [
+    "The Texas bill faces an uncertain path, and no amount was reported."
+   ],
+   "sources": [
+    {
+     "t": "Vermont to raise minimum wage by 49 cents in January",
+     "d": "vtdigger.org",
+     "u": "https://vtdigger.org/2026/11/12/vermont-to-raise-minimum-wage-by-49-cents-in-january"
+    },
+    {
+     "t": "Bill filed in Democrat-controlled Texas House would raise state's minimum wage",
+     "d": "sacurrent.com",
+     "u": "https://sacurrent.com/news/texas-news/bill-filed-in-democrat-controlled-texas-house-would-raise-states-minimum-wage"
+    },
+    {
+     "t": "Kirkland takes step to raise minimum wage",
+     "d": "kuow.org",
+     "u": "https://kuow.org/governing/2026-11-13/kirkland-takes-step-to-raise-minimum-wage"
+    }
+   ],
+   "ts": "2026-11-15T04:23:09Z"
+  },
+  {
+   "id": "ice-record-2026111504",
+   "type": "news",
+   "cat": "immigration",
+   "tags": [
+    "immigration",
+    "politics"
+   ],
+   "date": "Released Nov 12",
+   "headline": "ICE sets records in fiscal 2026: 483,200 deportations and 491,000 arrests",
+   "caption": "Both numbers are the highest in the agency's history. Supporters cite the totals as success, while critics point to how many people had no criminal record.",
+   "visual": {
+    "type": "vs",
+    "title": "ICE deportations by fiscal year",
+    "a": [
+     "FY2025",
+     "442,640",
+     0.92,
+     "acc"
+    ],
+    "b": [
+     "FY2026",
+     "483,200",
+     1,
+     "loss"
+    ],
+    "foot": "Fiscal 2026 ended Sept. 30. FY2024 was 271,484."
+   },
+   "detail": [
+    "ICE deported 483,200 people in the fiscal year that ended Sept. 30, beating the prior record of 442,640. It made more than 491,000 arrests, with August the busiest month at nearly 51,000.",
+    "DHS leaders praised the results. A CBS analysis found more than half of July arrests involved people with no convictions or pending charges. CBS exit polls showed 58% of midterm voters felt enforcement had gone too far.",
+    "A 2025 law set aside about $75 billion for ICE, including $45 billion for detention."
+   ],
+   "money": [
+    "Employers: keep I-9 paperwork current to avoid fines during audits.",
+    "Mixed-status families should keep key documents and a plan for bills and childcare in one place.",
+    "Watch for scams: real immigration agencies don't demand payment by gift card or wire."
+   ],
+   "risk": [
+    "Labor shortages in farming, building and care work can push up prices."
+   ],
+   "sources": [
+    {
+     "t": "ICE deportations and arrests hit record high as Trump faces reckoning over immigration crackdown",
+     "d": "cbsnews.com",
+     "u": "https://www.cbsnews.com/news/ice-deportations-arrests-hit-record-high/"
+    }
+   ],
+   "ts": "2026-11-15T04:23:09Z"
+  },
+  {
+   "id": "layoffs-wk-2026111504",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business",
+    "ai"
+   ],
+   "date": "Nov 9–13",
+   "headline": "Layoff watch: Qualcomm, Coursera, Polymarket and Cumulus Media cut jobs",
+   "caption": "Qualcomm began cuts in India, and Coursera plans to trim about 10% of staff. Cumulus started a new round after leaving bankruptcy.",
+   "visual": {
+    "type": "board",
+    "title": "Job cuts this week",
+    "rows": [
+     {
+      "k": "Qualcomm",
+      "s": "India now; California expected",
+      "v": "~1,000?",
+      "tone": "loss"
+     },
+     {
+      "k": "Coursera",
+      "s": "Nov–Dec",
+      "v": "~10%",
+      "tone": "loss"
+     },
+     {
+      "k": "Polymarket",
+      "s": "streamlining",
+      "v": "Undisclosed",
+      "tone": "loss"
+     },
+     {
+      "k": "Cumulus Media",
+      "s": "2nd round this year",
+      "v": "Undisclosed",
+      "tone": "loss"
+     }
+    ],
+    "foot": "Qualcomm's India figure is unconfirmed."
+   },
+   "detail": [
+    "Qualcomm staff in Bengaluru and Hyderabad began getting notices around Nov. 9. Reports put the India cuts near 1,000, but that is unconfirmed, and more cuts are expected in California.",
+    "Coursera plans to cut about 10% of its workers. Prediction market Polymarket and insurer Allstate also trimmed staff.",
+    "Radio company Cumulus Media started its second round of layoffs this year, weeks after exiting Chapter 11 in October."
+   ],
+   "money": [
+    "Keep an emergency fund of 3 to 6 months of costs, especially in tech or media.",
+    "If you're laid off, ask about severance terms, health coverage options and when your last paycheck arrives.",
+    "File for unemployment right away. Benefits usually start from your filing date, not your last day."
+   ],
+   "risk": [
+    "More year-end cuts are common as companies set 2027 budgets."
+   ],
+   "sources": [
+    {
+     "t": "Layoff News Digest — November 13, 2026",
+     "d": "everhint.com",
+     "u": "https://www.everhint.com/layoff-news-digest-november-13-2026/"
+    },
+    {
+     "t": "Qualcomm Layoffs November 2026: Job Cuts Begin",
+     "d": "stlawyers.ca",
+     "u": "https://stlawyers.ca/blog-news/qualcomm-november-2026-job-cuts/"
+    },
+    {
+     "t": "Cumulus Media Begins Another Round of Layoffs Following Bankruptcy Restructuring",
+     "d": "barrettmedia.com",
+     "u": "https://barrettmedia.com/2026/11/13/cumulus-media-layoffs-bankruptcy-restructuring/"
+    }
+   ],
+   "ts": "2026-11-15T04:23:09Z"
+  },
+  {
+   "id": "gas-under4-2026111504",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business",
+    "world"
+   ],
+   "date": "Tue Nov 10",
+   "headline": "Gas drops below $4 a gallon nationally for the first time since July",
+   "caption": "AAA's national average hit $3.98. Demand eased after summer, but refinery repairs could push prices back up.",
+   "visual": {
+    "type": "stat",
+    "title": "National gas average",
+    "num": "$3.98",
+    "tone": "gain",
+    "label": "AAA's average for regular, the first reading under $4 since July.",
+    "facts": [
+     [
+      "Why it fell",
+      "Lower demand",
+      "after summer driving"
+     ],
+     [
+      "Watch out",
+      "Refinery maintenance",
+      "deferred work coming"
+     ]
+    ]
+   },
+   "detail": [
+    "The average price of regular gas fell to $3.98 a gallon, according to AAA. It is the first time under $4 since July.",
+    "Demand usually drops after summer and the switch back to standard time. Oil prices have also fallen in recent weeks.",
+    "Risks remain. War has damaged refineries in Russia and the Middle East, and many U.S. refineries plan maintenance soon after putting it off this year."
+   ],
+   "money": [
+    "Use a gas price app to find the cheapest station nearby; prices vary a lot within a few miles.",
+    "Grocery store and warehouse club fuel rewards can cut costs further.",
+    "Planning holiday road trips? Lower prices now are a chance to fill up before any rebound."
+   ],
+   "risk": [
+    "Refinery outages or Middle East supply shocks could reverse the drop quickly."
+   ],
+   "sources": [
+    {
+     "t": "Average price of gas falls below $4 a gallon across the US",
+     "d": "fox10tv.com",
+     "u": "https://www.fox10tv.com/2026/11/10/average-price-gas-falls-below-4-gallon-across-us/"
+    }
+   ],
+   "ts": "2026-11-15T04:23:09Z"
+  },
+  {
+   "id": "btc-66k-2026111504",
+   "type": "news",
+   "cat": "crypto",
+   "tags": [
+    "crypto",
+    "markets"
+   ],
+   "date": "Sat Nov 14",
+   "headline": "Bitcoin slides toward $66,000, down 12% in a week and 47% from its peak",
+   "caption": "ETF outflows, a 5% 10-year yield and forced selling of leveraged bets hit crypto. Over $1.6 billion in positions were liquidated in a day.",
+   "visual": {
+    "type": "stat",
+    "title": "Bitcoin",
+    "num": "$66,485",
+    "tone": "loss",
+    "label": "Saturday price, down about 4% in 24 hours.",
+    "rows": [
+     [
+      "7 days",
+      -12.26
+     ],
+     [
+      "Year to date",
+      -24.08
+     ],
+     [
+      "From Oct 2025 peak",
+      -47.27
+     ]
+    ]
+   },
+   "detail": [
+    "Bitcoin traded near $66,500 on Saturday, down about 12% in a week. It was above $70,000 earlier in the week and about $84,000 in late October.",
+    "Spot bitcoin ETFs saw outflows for three straight sessions. Rising Treasury yields make non-yielding assets like bitcoin less appealing, and about $1.64 billion of crypto futures were liquidated on Nov. 13.",
+    "Bitcoin is now about 47% below its record of $126,080 from October 2025."
+   ],
+   "money": [
+    "Only invest money in crypto you could leave alone for years. Drops of 40% or more have happened many times.",
+    "Avoid leverage. Forced liquidations are what turned this dip into a crash for many traders.",
+    "Crypto losses in a taxable account can be sold to offset gains elsewhere."
+   ],
+   "risk": [
+    "The June low near $58,600 is the next level traders are watching.",
+    "A Fed rate hike could add more pressure."
+   ],
+   "sources": [
+    {
+     "t": "Bitcoin Just Crashed Toward $66,000. History Says the Worst May Not Be Over",
+     "d": "finance.yahoo.com",
+     "u": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-just-crashed-toward-66-161047479.html"
+    }
+   ],
+   "ts": "2026-11-15T04:23:09Z"
+  },
+  {
+   "id": "oil-blockade-2026111504",
+   "type": "news",
+   "cat": "world",
+   "tags": [
+    "world",
+    "markets"
+   ],
+   "date": "Fri Nov 13",
+   "headline": "Oil heads for a second weekly drop as the US sticks with an Iran blockade",
+   "caption": "Brent settled near $96 and US crude near $89, both down about 2% for the week. Fears of renewed direct war eased, though tanker attacks were reported.",
+   "visual": {
+    "type": "board",
+    "title": "Oil, week of Nov 9",
+    "rows": [
+     {
+      "k": "Brent",
+      "v": "$95.84",
+      "ch": -2.5,
+      "tone": "loss"
+     },
+     {
+      "k": "WTI (US)",
+      "v": "$88.56",
+      "ch": -2.5,
+      "tone": "loss"
+     },
+     {
+      "k": "Last week, Brent",
+      "s": "prior week",
+      "v": "-16%",
+      "tone": "loss"
+     }
+    ],
+    "foot": "Weekly changes approximate."
+   },
+   "detail": [
+    "Oil prices were set for a second weekly decline. Brent settled near $96 a barrel and US crude near $89, after a 16% drop for Brent the week before.",
+    "Washington is focusing on a blockade and economic pressure on Iran. President Trump said a deal with Iran was not needed to end the war, which eased fears of new direct fighting.",
+    "Risks remain. Iran said four tankers were hit by explosions in the Strait of Hormuz, and the Houthis claimed an attack on Saudi oil sites. US crude and fuel inventories also rose last week."
+   ],
+   "money": [
+    "Lower oil helps at the pump and with heating bills this winter.",
+    "Airline and shipping costs often follow oil down, so watch for cheaper fares.",
+    "Energy stocks swing with oil. Keep them as a small part of a diversified portfolio."
+   ],
+   "risk": [
+    "Attacks near Hormuz could spike prices overnight."
+   ],
+   "sources": [
+    {
+     "t": "Oil prices set for second weekly decline in a row",
+     "d": "rte.ie",
+     "u": "https://www.rte.ie/news/business/2026/1113/1599081-world-oil-prices/"
+    },
+    {
+     "t": "Weekly Stock Market Summary: November 13, 2026",
+     "d": "vistapglobal.com",
+     "u": "https://vistapglobal.com/weekly-stock-market-summary-november-13-2026-nasdaq-slides-as-inflation-and-ai-risks-shape-wall-street-ant-eprx-googl-gs-modd-msft-nvda-ser-spcx/"
+    }
+   ],
+   "ts": "2026-11-15T04:23:09Z"
+  },
+  {
+   "id": "sanders-ss-2026111504",
+   "type": "news",
+   "cat": "politics",
+   "tags": [
+    "politics",
+    "benefits",
+    "taxes"
+   ],
+   "date": "This week",
+   "headline": "Sanders pushes a $2,400-a-year Social Security boost, paid for by taxing top earners",
+   "caption": "Sanders expects to lead the Senate's Social Security subcommittee in January. He would fund bigger checks by applying payroll tax above $250,000.",
+   "visual": {
+    "type": "points",
+    "title": "The Sanders plan",
+    "items": [
+     "+$2,400 a year, about $200 a month",
+     "Payroll tax on income over $250,000",
+     "Would include investment income",
+     "COLA tied to CPI-E, a seniors' index",
+     "Trust fund faces 22% cut risk in 2032"
+    ]
+   },
+   "detail": [
+    "Sen. Bernie Sanders says expanding Social Security by at least $2,400 a year is a top goal. He expects to chair the Senate Finance subcommittee on Social Security when the new Congress starts in January.",
+    "His bill would apply Social Security tax to income above $250,000, including capital gains and dividends. Today the tax stops at $184,500, rising to $192,300 in 2027. It would also switch raises to an index based on seniors' spending.",
+    "The trust fund is projected to pay only 78% of benefits in late 2032 without changes. Republicans oppose the tax hikes, and some experts say it would not be a permanent fix."
+   ],
+   "money": [
+    "Nothing changes yet. Plan using today's benefit rules, not proposals.",
+    "High earners: a plan like this could raise your payroll taxes. Watch how it develops.",
+    "Check your benefit estimate at ssa.gov to see what you are on track to get."
+   ],
+   "risk": [
+    "The bill needs to pass both chambers and be signed, which is far from certain."
+   ],
+   "sources": [
+    {
+     "t": "Bernie Sanders Proposes $2,400 Social Security Boost in New Leadership Role",
+     "d": "newsweek.com",
+     "u": "https://newsweek.com/bernie-sanders-proposes-2400-social-security-boost-in-new-leadership-role-12714000"
+    }
+   ],
+   "ts": "2026-11-15T04:23:09Z"
+  },
+  {
+   "id": "us-china-council-2026111504",
+   "type": "news",
+   "cat": "politics",
+   "tags": [
+    "politics",
+    "world",
+    "business"
+   ],
+   "date": "Fri Nov 13",
+   "headline": "US and China discuss cutting tariffs on about $60 billion in goods",
+   "caption": "The first meeting of a new US–China trade council talked tariff cuts on roughly $30 billion of goods from each side. Farm trade was also on the table.",
+   "visual": {
+    "type": "timeline",
+    "title": "US–China trade truce",
+    "items": [
+     {
+      "d": "NOV 9",
+      "t": "Truce extended; China delays rare earth curbs"
+     },
+     {
+      "d": "NOV 9",
+      "t": "US extends exclusions on 178 Chinese products"
+     },
+     {
+      "d": "NOV 13",
+      "t": "First trade council meeting",
+      "s": "~$60B in tariff cuts discussed",
+      "now": true
+     },
+     {
+      "d": "JAN 10",
+      "t": "US port-fee pause on Chinese ships ends"
+     }
+    ]
+   },
+   "detail": [
+    "China and the US held the first meeting of their joint trade council by video on Nov. 13. They discussed cutting tariffs on about $60 billion in goods, roughly $30 billion each way, plus farm trade.",
+    "No specific tariff decisions were announced. China's commerce ministry said both sides will keep using the council to settle disputes.",
+    "Earlier, on Nov. 9, China delayed rare earth export controls and the US extended tariff exclusions on 178 Chinese products and paused port fees on Chinese ships to Jan. 10."
+   ],
+   "money": [
+    "Lower tariffs could ease prices on some imported goods over time.",
+    "Farmers and ag stocks could benefit if China buys more US crops.",
+    "Big purchases like electronics may not get cheaper right away; don't delay needed buys on hopes alone."
+   ],
+   "risk": [
+    "Talks could stall, and the truce has short deadlines."
+   ],
+   "sources": [
+    {
+     "t": "China and the U.S. discussed tariff reductions at the first trade council meeting",
+     "d": "1news.az",
+     "u": "https://1news.az/en/news/20261114115505365-China-and-the-U-S-discussed-tariff-reductions-at-the-first-trade-council-meeting"
+    },
+    {
+     "t": "China Extends Suspension of Rare Earth Export Controls",
+     "d": "thompsonhinesmartrade.com",
+     "u": "https://www.thompsonhinesmartrade.com/2026/11/china-extends-suspension-of-rare-earth-export-controls/"
+    }
+   ],
+   "ts": "2026-11-15T04:23:09Z"
+  },
+  {
+   "id": "edu-ratehike-2026111504",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "markets"
+   ],
+   "date": "Explainer",
+   "headline": "A Fed rate hike is coming. Here's how it hits your wallet",
+   "caption": "Why the Fed raising rates changes your card, savings and loan costs.",
+   "scenes": [
+    {
+     "k": "Rates 101",
+     "t": "The Fed is likely to hike in December.",
+     "s": "Traders see about a 91% chance of a quarter-point move."
+    },
+    {
+     "k": "Why",
+     "t": "Inflation is running hot.",
+     "s": "Wholesale prices are up 6.5% from a year ago."
+    },
+    {
+     "k": "The chain",
+     "t": "One move, many ripples.",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "Fed raises rate",
+       "Banks' costs rise",
+       "Loan and card rates rise",
+       "Savings rates rise too"
+      ]
+     }
+    },
+    {
+     "k": "Who loses",
+     "t": "Borrowers with variable rates.",
+     "s": "Credit cards and HELOCs usually adjust within a billing cycle or two."
+    },
+    {
+     "k": "Who wins",
+     "t": "Savers.",
+     "s": "High-yield savings, CDs and T-bills tend to pay more after hikes."
+    },
+    {
+     "k": "Your move",
+     "t": "Pay down cards, park cash smartly.",
+     "s": "Wiping out card debt beats almost any savings rate."
+    }
+   ],
+   "ts": "2026-11-15T04:23:09Z"
+  },
+  {
+   "id": "edu-catchup-2026111504",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "taxes"
+   ],
+   "date": "Explainer",
+   "headline": "The age 60–63 'super catch-up': how to save $37,250 in a 401(k)",
+   "caption": "The new 2027 limits explained in under a minute.",
+   "scenes": [
+    {
+     "k": "401(k) basics",
+     "t": "Everyone gets a yearly limit.",
+     "s": "For 2027, that's $25,500."
+    },
+    {
+     "k": "Age 50+",
+     "t": "You can add a catch-up.",
+     "s": "It's $8,500 extra in 2027."
+    },
+    {
+     "k": "Ages 60 to 63",
+     "t": "The catch-up gets bigger.",
+     "s": "It's $11,750 in 2027."
+    },
+    {
+     "k": "Add it up",
+     "t": "Up to $37,250 a year.",
+     "viz": {
+      "type": "split",
+      "items": [
+       [
+        "Base limit",
+        "$25,500"
+       ],
+       [
+        "Super catch-up",
+        "$11,750"
+       ],
+       [
+        "Total, ages 60–63",
+        "$37,250",
+        "wide"
+       ]
+      ]
+     },
+     "say": "Twenty-five thousand five hundred plus eleven thousand seven fifty equals thirty-seven thousand two hundred fifty dollars."
+    },
+    {
+     "k": "The catch",
+     "t": "High earners must go Roth.",
+     "s": "Over $155,000 in prior-year FICA wages? Catch-ups go in after tax."
+    },
+    {
+     "k": "Your move",
+     "t": "Update your contribution in January.",
+     "s": "Spread the higher amount across every paycheck."
+    }
+   ],
+   "ts": "2026-11-15T04:23:09Z"
+  },
   {
    "id": "cola-2027",
    "type": "news",
