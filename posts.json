@@ -1,6 +1,929 @@
 {
- "updated": "2026-11-15T19:00:00Z",
+ "updated": "2026-11-15T19:18:00Z",
  "items": [
+  {
+   "id": "ai-job-cuts-121k-2026111519",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "business"
+   ],
+   "date": "Sun Nov 15",
+   "headline": "AI-linked job cuts top 121,000 this year, more than double all of 2025",
+   "caption": "Employers blamed AI for 121,401 announced US job cuts from January through October. That's about one in five cuts this year.",
+   "visual": {
+    "type": "vs",
+    "title": "AI-linked US job cuts",
+    "a": [
+     "All of 2025",
+     "54,836",
+     0.45,
+     "acc"
+    ],
+    "b": [
+     "Jan–Oct 2026",
+     "121,401",
+     1,
+     "loss"
+    ],
+    "foot": "Source: Challenger, Gray & Christmas"
+   },
+   "detail": [
+    "Challenger, Gray & Christmas counted 121,401 announced US job cuts tied to AI in the first 10 months of 2026. That is about 20% of all cuts and more than twice the 54,836 for all of 2025.",
+    "October was the quietest month of the year for AI-linked cuts, at 1,265. Cuts blamed on market and economic conditions, 130,531 so far, now lead AI as the top stated reason.",
+    "Hiring for easy-to-automate roles has fallen by about a third since 2021. The next Challenger report, with November data, is due Dec. 3."
+   ],
+   "money": [
+    "If your role is routine and screen-based, build skills that pair with AI tools rather than compete with them.",
+    "Keep three to six months of expenses in an emergency fund if your industry is cutting.",
+    "Know your severance and unemployment rights before a layoff, not after."
+   ],
+   "risk": [
+    "Company-stated reasons for layoffs can be fuzzy, so the AI count may be over- or under-stated."
+   ],
+   "sources": [
+    {
+     "t": "Challenger Data Shows AI-Linked Job Cuts More Than Double in 2026",
+     "d": "time.news",
+     "u": "https://time.news/challenger-data-shows-ai-linked-job-cuts-more-than-double-in-2026/"
+    }
+   ],
+   "ts": "2026-11-15T19:18:00Z"
+  },
+  {
+   "id": "huang-misled-counsel-2026111519",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "markets"
+   ],
+   "date": "Sat Nov 14",
+   "headline": "Reuters: Huang told Nvidia's top lawyer his Megaspeed ties were routine business",
+   "caption": "Messages show ex-CEO Jensen Huang called his dealings with a Megaspeed executive normal customer business. It lands days before Nvidia reports earnings.",
+   "visual": {
+    "type": "timeline",
+    "title": "The Nvidia leadership saga",
+    "items": [
+     {
+      "d": "OCT",
+      "t": "Huang messages top lawyer",
+      "s": "Calls Megaspeed ties routine"
+     },
+     {
+      "d": "OCT",
+      "t": "NYT reports on meetings",
+      "s": "US probe already 1+ year old"
+     },
+     {
+      "d": "NOV 8",
+      "t": "Board opens investigation"
+     },
+     {
+      "d": "NOV 14",
+      "t": "Reuters reports the messages",
+      "now": true
+     },
+     {
+      "d": "THIS WEEK",
+      "t": "Nvidia earnings"
+     }
+    ]
+   },
+   "detail": [
+    "Reuters reported that in October messages, Jensen Huang told Nvidia general counsel Tim Teter and marketing chief Alison Wagonfeld that his dealings with Alice Huang and her Singapore company Megaspeed were normal customer business. The two are not related.",
+    "US officials had been looking into Alice Huang and Megaspeed for more than a year before The New York Times reported on the meetings in October. Nvidia's board opened an investigation on Nov. 8, and Huang stepped down as CEO that week.",
+    "The report adds pressure as Nvidia prepares its first earnings report without Huang in charge."
+   ],
+   "money": [
+    "Leadership scandals can add volatility around earnings, so avoid big all-in bets right before the report.",
+    "If you own Nvidia through index funds, your exposure is spread out; check how large it is in your S&P 500 or Nasdaq funds.",
+    "Options get pricier before earnings; buying them now means paying for that expected swing."
+   ],
+   "risk": [
+    "The report relies on unnamed sources and reviewed messages; more facts may emerge.",
+    "Regulatory or legal fallout could still widen."
+   ],
+   "sources": [
+    {
+     "t": "Huang misled Nvidia's top lawyer on Megaspeed affair (Reuters)",
+     "d": "aiweekly.co",
+     "u": "https://aiweekly.co/alerts/huang-misled-nvidias-top-lawyer-on-megaspeed-affair-reuters"
+    }
+   ],
+   "ts": "2026-11-15T19:18:00Z"
+  },
+  {
+   "id": "mirendil-1b-2026111519",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "business"
+   ],
+   "date": "This week",
+   "headline": "Mirendil raises $1B at a $5B value to automate AI research",
+   "caption": "A startup founded by ex-Anthropic, OpenAI, DeepMind and xAI researchers landed a $1 billion Series A. It came just months after its seed round.",
+   "visual": {
+    "type": "board",
+    "title": "Mirendil's Series A",
+    "rows": [
+     {
+      "k": "Raised",
+      "v": "$1B",
+      "tone": "gain"
+     },
+     {
+      "k": "Valuation",
+      "s": "post-money, reported",
+      "v": "~$5B"
+     },
+     {
+      "k": "Step-up",
+      "s": "vs seed months ago",
+      "v": "~5x",
+      "tone": "gain"
+     },
+     {
+      "k": "Leads",
+      "v": "Kleiner, Clearlake"
+     },
+     {
+      "k": "Also in",
+      "v": "Google, Battery, Pear VC"
+     }
+    ]
+   },
+   "detail": [
+    "Mirendil raised a $1 billion Series A led by Kleiner Perkins and Clearlake Capital, with Google, Battery Ventures, Pear VC and others joining. Reports put its value near $5 billion.",
+    "The founders previously worked at Anthropic, OpenAI, Google DeepMind and xAI. The company sells tools that run many autonomous coding and experiment agents, plus a model with a 10-million-token context window.",
+    "The round came about five months after a $200 million seed, showing how fast money is still moving into AI startups."
+   ],
+   "money": [
+    "Most people can't buy private AI startups; public AI ETFs and big-tech stocks are the usual access points.",
+    "Huge private rounds can signal a crowded trade, so keep AI to a set slice of your portfolio.",
+    "Workers in AI research tools may see strong hiring demand from well-funded startups."
+   ],
+   "risk": [
+    "Startup valuations can fall sharply if growth slows or funding dries up."
+   ],
+   "sources": [
+    {
+     "t": "Mirendil raises $1B Series A at $5B",
+     "d": "aiweekly.co",
+     "u": "https://aiweekly.co/alerts/mirendil-raises-1b-series-a-at-5b-from-kleiner-perkins-and-clearlake-to"
+    },
+    {
+     "t": "Mirendil Raises $1B to Democratize Frontier AI R&D",
+     "d": "prnewswire.com",
+     "u": "https://www.prnewswire.com/news-releases/mirendil-raises-1b-to-democratize-frontier-ai-rd-302937248.html"
+    }
+   ],
+   "ts": "2026-11-15T19:18:00Z"
+  },
+  {
+   "id": "nvda-estimates-2026111519",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets",
+    "ai"
+   ],
+   "date": "This week",
+   "headline": "Wall Street expects $108.7B in sales from Nvidia's first post-Huang report",
+   "caption": "Analysts see Nvidia earning $2.47 a share. Stock ETFs slipped in Friday's late trading ahead of a packed week.",
+   "visual": {
+    "type": "ticker",
+    "sym": "NVDA",
+    "ex": "NASDAQ",
+    "rows": [
+     {
+      "k": "Revenue est.",
+      "s": "Jul–Sep quarter",
+      "v": "$108.73B"
+     },
+     {
+      "k": "EPS est.",
+      "s": "per share",
+      "v": "$2.47"
+     },
+     {
+      "k": "SPY late Fri",
+      "s": "after hours",
+      "v": "-0.63%"
+     },
+     {
+      "k": "QQQ late Fri",
+      "s": "after hours",
+      "v": "-0.83%"
+     }
+    ]
+   },
+   "detail": [
+    "Analysts expect Nvidia to report $2.47 a share in profit on $108.73 billion in revenue for the July–September quarter, based on Fiscal.ai data. It's the first report since Jensen Huang stepped down as CEO.",
+    "Palo Alto Networks is expected to post 97 cents a share on $3.31 billion in sales, and Disney $1.68 on $25.15 billion. Walmart, Target and Home Depot also report.",
+    "Minutes from the Fed's October meeting come out Wednesday. Chair Kevin Warsh and several other Fed officials are set to speak during the week."
+   ],
+   "money": [
+    "Big index funds hold a lot of Nvidia, so its report can move your 401(k) even if you don't own it directly.",
+    "If you plan to buy, consider splitting the purchase before and after earnings to avoid timing risk.",
+    "Retail earnings from Walmart and Target can hint at holiday deals and consumer health."
+   ],
+   "risk": [
+    "A miss or weak guidance could hit chip stocks broadly.",
+    "Fed speakers could push rate-hike odds higher."
+   ],
+   "sources": [
+    {
+     "t": "What To Expect In Markets This Week: NVDA, PANW, DIS, HD, TGT, WMT Earnings, Kevin Warsh Speech And More",
+     "d": "stocktwits.com",
+     "u": "https://stocktwits.com/news-articles/markets/equity/what-to-expect-markets-this-week-nov-15-2026/cNbEXadR9Qu"
+    }
+   ],
+   "ts": "2026-11-15T19:18:00Z"
+  },
+  {
+   "id": "pce-nov25-2026111519",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets",
+    "politics"
+   ],
+   "date": "Coming up",
+   "headline": "The Nov. 25 inflation report could decide a half-point Fed hike",
+   "caption": "October's PCE price data lands the day before Thanksgiving. A hot number could push the Fed to a bigger December hike.",
+   "visual": {
+    "type": "timeline",
+    "title": "Road to the December Fed meeting",
+    "items": [
+     {
+      "d": "OCT",
+      "t": "CPI up 0.4%",
+      "s": "vs 0.3% expected"
+     },
+     {
+      "d": "NOV 18",
+      "t": "Fed minutes out"
+     },
+     {
+      "d": "NOV 25",
+      "t": "PCE inflation report",
+      "s": "Fed's preferred gauge",
+      "now": true
+     },
+     {
+      "d": "DEC 8–9",
+      "t": "Fed decision",
+      "s": "Quarter or half point?"
+     }
+    ]
+   },
+   "detail": [
+    "The government releases October personal income and spending data on Wednesday, Nov. 25, before the market opens. It includes the PCE price index, the Fed's favorite inflation measure.",
+    "The Fed raised rates in September and paused in October. October consumer prices then rose 0.4% for the month, above the 0.3% expected.",
+    "Governor Christopher Waller has said a half-point hike would fit if core inflation hit 3% or more. A hot PCE reading could bring more Fed officials around to that view."
+   ],
+   "money": [
+    "If you have a variable-rate card or HELOC, a bigger hike means higher interest; paying it down now helps.",
+    "Savers can lock in high-yield CDs or Treasury bills while rates are elevated.",
+    "If you're shopping for a mortgage, compare locking now versus waiting; rates can jump on hot data."
+   ],
+   "risk": [
+    "The Fed could still choose a smaller move if other data cools.",
+    "Markets may swing sharply on report day."
+   ],
+   "sources": [
+    {
+     "t": "Nov. 25 Will Be a Critical Day for the Stock Market",
+     "d": "fool.com",
+     "u": "https://www.fool.com/investing/2026/11/14/november-25-will-be-a-critical-day-for-the-stock-market/"
+    }
+   ],
+   "ts": "2026-11-15T19:18:00Z"
+  },
+  {
+   "id": "mara-msci-crypto-2026111519",
+   "type": "news",
+   "cat": "crypto",
+   "tags": [
+    "crypto",
+    "markets"
+   ],
+   "date": "This week",
+   "headline": "Crypto treasury firms buckle: MARA sells 40% of its bitcoin; MSCI drops Strategy",
+   "caption": "Miner MARA sold 13,597 bitcoin for $1.1 billion. MSCI will remove Strategy from its main global indexes on Nov. 30.",
+   "visual": {
+    "type": "deals",
+    "title": "Pressure on bitcoin-holding companies",
+    "items": [
+     {
+      "a": "MARA",
+      "b": "Sold 13,597 BTC",
+      "amt": "$1.1B",
+      "st": "~40% of its stack",
+      "c": "bad"
+     },
+     {
+      "a": "MSCI",
+      "b": "Removes Strategy",
+      "amt": "Nov 30",
+      "st": "Global standard indexes",
+      "c": "pend"
+     },
+     {
+      "a": "MSCI",
+      "b": "Removes Metaplanet",
+      "amt": "Nov 30",
+      "st": "Small-cap indexes",
+      "c": "pend"
+     },
+     {
+      "a": "Strategy",
+      "b": "Holds 850,364 BTC",
+      "amt": "$75,456",
+      "st": "Avg cost; ~13% under water",
+      "c": "bad"
+     }
+    ]
+   },
+   "detail": [
+    "Bitcoin miner MARA sold 13,597 bitcoin, raising about $1.1 billion. That's roughly 40% of what it held at the end of September.",
+    "Index provider MSCI will remove Strategy from its global standard indexes and Metaplanet from its small-cap indexes at the close on Nov. 30. Funds that track those indexes will have to sell.",
+    "Strategy still bought 1,036 bitcoin in the week to Nov. 8 and holds 850,364 coins at an average cost of $75,456, leaving it about 13% below cost. Ether hit $1,711 this week, its lowest since July."
+   ],
+   "money": [
+    "Stocks that hold bitcoin can fall faster than bitcoin itself; know what you own.",
+    "Index deletions often bring forced selling near the effective date; avoid chasing those stocks right before it.",
+    "If you hold crypto at a loss, tax-loss harvesting before year end may offset gains; check the rules."
+   ],
+   "risk": [
+    "Crypto can keep falling; the Fear & Greed index sits at extreme fear.",
+    "Forced sales by big holders can deepen drops."
+   ],
+   "sources": [
+    {
+     "t": "The Sunday Crypto Desk — 15 November 2026",
+     "d": "thecryptodesk.substack.com",
+     "u": "https://thecryptodesk.substack.com/p/the-sunday-crypto-desk-15-november"
+    }
+   ],
+   "ts": "2026-11-15T19:18:00Z"
+  },
+  {
+   "id": "tokenized-stocks-2026111519",
+   "type": "news",
+   "cat": "crypto",
+   "tags": [
+    "crypto",
+    "markets"
+   ],
+   "date": "This week",
+   "headline": "Wall Street goes on-chain: NYSE picks Avalanche tech, DTCC plans Solana link",
+   "caption": "The NYSE chose Avalanche technology for its planned tokenized-stock venue. DTCC plans to connect its tokenization service to Solana in late 2027.",
+   "visual": {
+    "type": "points",
+    "title": "Tokenized stocks are coming",
+    "items": [
+     "NYSE picks Avalanche tech for its clearing ledger",
+     "It will run its own chain, not Avalanche's public one",
+     "DTCC service went live Oct. 28",
+     "Solana link planned for 2H 2027",
+     "Stellar and Circle's Arc also due next year"
+    ]
+   },
+   "detail": [
+    "The New York Stock Exchange chose technology from Avalanche for the ledger behind its planned tokenized-stock trading venue. It will run its own private chain rather than Avalanche's public network.",
+    "DTCC, which settles most US stock trades, launched its tokenization service on Oct. 28 using the Canton Network and its own chain. It plans to connect to Solana in the second half of 2027, with Stellar and Circle's Arc also coming next year.",
+    "The moves come even as crypto prices slump, showing big institutions still building on blockchain tools."
+   ],
+   "money": [
+    "Tokenized stocks may eventually allow faster settlement and longer trading hours; watch for broker offerings.",
+    "Don't buy a crypto token just because a big firm uses its technology; private chains may not need the public coin.",
+    "Stick to regulated brokers for any tokenized-stock products."
+   ],
+   "risk": [
+    "Timelines for new market plumbing often slip.",
+    "Rules for tokenized securities are still being written."
+   ],
+   "sources": [
+    {
+     "t": "The Sunday Crypto Desk — 15 November 2026",
+     "d": "thecryptodesk.substack.com",
+     "u": "https://thecryptodesk.substack.com/p/the-sunday-crypto-desk-15-november"
+    }
+   ],
+   "ts": "2026-11-15T19:18:00Z"
+  },
+  {
+   "id": "pa-min-wage-15-2026111519",
+   "type": "news",
+   "cat": "states",
+   "tags": [
+    "states",
+    "politics"
+   ],
+   "date": "Sat Nov 14",
+   "headline": "Shapiro says a $15 minimum wage will be his first bill with a Democratic Pennsylvania",
+   "caption": "Pennsylvania's governor wants to lift the wage from $7.25 to $15 after Democrats flipped the state Senate. Seattle's rate rises to $22.14 in January.",
+   "visual": {
+    "type": "board",
+    "title": "Minimum wage moves",
+    "rows": [
+     {
+      "k": "Pennsylvania now",
+      "s": "same as federal",
+      "v": "$7.25"
+     },
+     {
+      "k": "PA proposed",
+      "s": "Shapiro plan",
+      "v": "$15.00",
+      "ch": 107,
+      "tone": "gain"
+     },
+     {
+      "k": "Illinois",
+      "s": "reached in 2025",
+      "v": "$15.00"
+     },
+     {
+      "k": "Seattle",
+      "s": "from January",
+      "v": "$22.14",
+      "tone": "gain"
+     },
+     {
+      "k": "Federal",
+      "v": "$7.25"
+     }
+    ],
+    "foot": "About 500,000 Pennsylvanians earn under $15, Shapiro says."
+   },
+   "detail": [
+    "Pennsylvania Gov. Josh Shapiro says raising the minimum wage from $7.25 to $15 an hour will be the first bill he signs in January. Democrats won full control of state government in the midterms by flipping the state Senate.",
+    "Shapiro says about half a million Pennsylvania workers make less than $15. Seattle's minimum wage, now $21.30, rises to $22.14 in January.",
+    "House Democratic leader Hakeem Jeffries says he will discuss raising the federal $7.25 minimum with both chambers. Economists disagree on effects; some studies found fewer hours for newer workers, others found no job losses."
+   ],
+   "money": [
+    "Low-wage workers in Pennsylvania could see big raises if the bill passes; watch the start date.",
+    "Small businesses should start budgeting for higher labor costs now.",
+    "A higher wage can change eligibility for benefits like SNAP or Medicaid; check before raises hit."
+   ],
+   "risk": [
+    "The final bill could phase in more slowly or at a lower rate.",
+    "Some employers may cut hours."
+   ],
+   "sources": [
+    {
+     "t": "Democrats seize midterm wins to push massive minimum wage hikes as economists see trouble ahead",
+     "d": "foxnews.com",
+     "u": "https://foxnews.com/politics/democrats-seize-midterm-wins-push-massive-minimum-wage-hikes-economists-see-trouble-ahead"
+    }
+   ],
+   "ts": "2026-11-15T19:18:00Z"
+  },
+  {
+   "id": "senior-deduction-2027-2026111519",
+   "type": "news",
+   "cat": "taxes",
+   "tags": [
+    "taxes",
+    "benefits"
+   ],
+   "date": "This week",
+   "headline": "65 or older? Your extra standard deduction rises to $2,100 in 2027",
+   "caption": "Seniors also keep the temporary $6,000 bonus deduction. Together they can shield a lot of income from tax.",
+   "visual": {
+    "type": "board",
+    "title": "2027 deductions for age 65+",
+    "rows": [
+     {
+      "k": "Extra, single/HOH",
+      "s": "was $2,050",
+      "v": "$2,100",
+      "tone": "gain"
+     },
+     {
+      "k": "Extra, married",
+      "s": "per person; was $1,650",
+      "v": "$1,700",
+      "tone": "gain"
+     },
+     {
+      "k": "Senior bonus",
+      "s": "through 2028",
+      "v": "$6,000"
+     },
+     {
+      "k": "Standard, single",
+      "v": "$16,600"
+     },
+     {
+      "k": "Standard, joint",
+      "v": "$33,200"
+     }
+    ],
+    "foot": "Bonus phases out above $75K single / $150K joint income."
+   },
+   "detail": [
+    "For 2027, the extra standard deduction for people 65 and older rises $50, to $2,100 for single and head-of-household filers and $1,700 per qualifying person for married couples. Those who are also blind get double.",
+    "The base standard deduction rises to $16,600 for singles and $33,200 for married couples filing jointly.",
+    "The separate $6,000 senior bonus deduction runs through 2028. It applies whether you itemize or not, but phases out above $75,000 of income for singles and $150,000 for couples."
+   ],
+   "money": [
+    "A single 65+ filer under the income limit could deduct $16,600 + $2,100 + $6,000 in 2027.",
+    "Keep income below the bonus phase-out by timing IRA withdrawals or capital gains.",
+    "Qualified charitable distributions from an IRA can also lower taxable income for those 70½+."
+   ],
+   "risk": [
+    "The $6,000 bonus is temporary and ends after 2028.",
+    "State taxes may not follow these federal amounts."
+   ],
+   "sources": [
+    {
+     "t": "IRS Updates Tax Deduction for People Age 65 and Older",
+     "d": "kiplinger.com",
+     "u": "https://www.kiplinger.com/taxes/irs-updates-2027-tax-deduction-for-people-age-65-and-older"
+    }
+   ],
+   "ts": "2026-11-15T19:18:00Z"
+  },
+  {
+   "id": "cola-beats-partb-2026111519",
+   "type": "news",
+   "cat": "benefits",
+   "tags": [
+    "benefits"
+   ],
+   "date": "Sun Nov 15",
+   "headline": "Retirees may keep more of their raise: COLA set to outpace Part B premium jump",
+   "caption": "The 3.6% Social Security raise beats a projected 3.25% Part B increase. It would be the first time since 2023 the COLA wins.",
+   "visual": {
+    "type": "stat",
+    "title": "COLA vs Part B premium",
+    "num": "3.6%",
+    "tone": "gain",
+    "label": "2027 COLA vs a projected 3.25% Part B premium rise.",
+    "rows": [
+     [
+      "COLA 2024",
+      3.2
+     ],
+     [
+      "Part B 2024",
+      5.9
+     ],
+     [
+      "COLA 2026",
+      2.8
+     ],
+     [
+      "Part B 2026",
+      9.7
+     ],
+     [
+      "COLA 2027",
+      3.6
+     ],
+     [
+      "Part B 2027 est.",
+      3.25
+     ]
+    ]
+   },
+   "detail": [
+    "Social Security's 3.6% cost-of-living raise for 2027 adds about $75 a month for the average retired worker. Medicare Part B premiums, usually taken from those checks, are projected to rise 3.25%, or $6.60 a month, from $202.90.",
+    "If that holds, it would be the first time since 2023 that the COLA outpaces the Part B increase. About 29 million people in original Medicare would benefit.",
+    "In 2024 through 2026, Part B premiums rose faster than COLAs, eating into raises. The 2027 premium figure is still a projection."
+   ],
+   "money": [
+    "Watch for your 2027 benefit notice to see your actual net raise after Part B.",
+    "Medicare open enrollment ends Dec. 7; comparing drug and Advantage plans can save more than the COLA adds.",
+    "Higher earners should check IRMAA brackets, which can add surcharges to Part B."
+   ],
+   "risk": [
+    "The final Part B premium could come in higher than projected."
+   ],
+   "sources": [
+    {
+     "t": "Social Security's 2027 COLA Has a Rare Bonus for 29 Million Retirees",
+     "d": "fool.com",
+     "u": "https://fool.com/retirement/2026/11/15/social-security-trump-bump-driven-2027-cola-has-a-rare-bonus-for-29-million-retirees"
+    }
+   ],
+   "ts": "2026-11-15T19:18:00Z"
+  },
+  {
+   "id": "scotus-asylum-2026111519",
+   "type": "news",
+   "cat": "immigration",
+   "tags": [
+    "immigration",
+    "politics"
+   ],
+   "date": "Fri Nov 13",
+   "headline": "Supreme Court agrees to decide if Trump can suspend asylum at the border",
+   "caption": "The justices took up the administration's appeal over its border asylum ban. Arguments are likely next spring, and the limits stay in place for now.",
+   "visual": {
+    "type": "timeline",
+    "title": "The asylum ban case",
+    "items": [
+     {
+      "d": "JAN 2025",
+      "t": "Proclamation suspends asylum",
+      "s": "Cites border 'invasion'"
+     },
+     {
+      "d": "LOWER COURT",
+      "t": "Judge Moss rules guidance unlawful"
+     },
+     {
+      "d": "D.C. CIRCUIT",
+      "t": "Largely upheld, then paused",
+      "s": "Limits stay for now"
+     },
+     {
+      "d": "NOV 13",
+      "t": "Supreme Court takes case",
+      "now": true
+     },
+     {
+      "d": "SPRING 2027",
+      "t": "Arguments likely"
+     }
+    ]
+   },
+   "detail": [
+    "The Supreme Court agreed on Nov. 13 to decide whether the administration can bar migrants at the US-Mexico border from seeking asylum. A January 2025 proclamation suspended entry and blocked asylum claims, and DHS guidance allowed fast removals.",
+    "A federal judge ruled the guidance unlawful for a class of migrants. An appeals court largely agreed but paused its ruling during the appeal, so the restrictions remain in effect.",
+    "The challengers include 13 people who say they faced persecution or torture and three nonprofits. The court declined to separately review whether lower courts can grant class-wide relief. Arguments are expected in spring 2027."
+   ],
+   "money": [
+    "Immigration lawyers and nonprofits may see higher demand; legal costs for families can rise.",
+    "Businesses that rely on immigrant workers should plan for policy uncertainty through 2027.",
+    "Beware of scams promising asylum help; use accredited legal providers."
+   ],
+   "risk": [
+    "The ruling could expand or limit executive power over the border."
+   ],
+   "sources": [
+    {
+     "t": "Supreme Court agrees to hear case on Trump administration's suspension of asylum",
+     "d": "scotusblog.com",
+     "u": "https://www.scotusblog.com/2026/11/supreme-court-agrees-to-hear-case-on-trump-administrations-suspension-of-asylum/"
+    }
+   ],
+   "ts": "2026-11-15T19:18:00Z"
+  },
+  {
+   "id": "retail-oct-13th-2026111519",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business",
+    "markets"
+   ],
+   "date": "This week",
+   "headline": "Retail sales rise for a 13th straight month as shoppers chase early deals",
+   "caption": "October sales rose 0.15% from September and 3.6% from a year ago. Electronics led while furniture slipped.",
+   "visual": {
+    "type": "stat",
+    "title": "October retail (CNBC/NRF)",
+    "num": "+3.6%",
+    "tone": "gain",
+    "label": "Sales vs a year ago, excluding autos and gas.",
+    "facts": [
+     [
+      "Monthly",
+      "+0.15%",
+      "vs September"
+     ],
+     [
+      "Electronics",
+      "+9.3%",
+      "year over year"
+     ],
+     [
+      "Furniture",
+      "-2.6%",
+      "year over year"
+     ]
+    ]
+   },
+   "detail": [
+    "Retail sales, excluding auto dealers and gas stations, reached $561.7 billion in October, according to the CNBC/NRF Retail Monitor. That's up 0.15% from September and 3.57% from a year earlier, the 13th monthly gain in a row.",
+    "Electronics and appliance stores grew 9.3% from a year ago, the fastest of any category. Furniture fell 2.62% and sporting goods dipped 0.44%.",
+    "NRF's CEO said Halloween and early holiday promotions pulled spending forward, and families are timing purchases around deals."
+   ],
+   "money": [
+    "Early holiday sales are already here; compare prices now rather than waiting for Black Friday.",
+    "Price-tracking tools can alert you when an item drops.",
+    "Retail stocks report this week; strong sales trends can support them."
+   ],
+   "risk": [
+    "Spending pulled forward can mean a weaker December."
+   ],
+   "sources": [
+    {
+     "t": "Retail Sales Extend Winning Streak To 13 Months",
+     "d": "massmarketretailers.com",
+     "u": "https://massmarketretailers.com/retail-sales-extend-winning-streak-to-13-months/"
+    }
+   ],
+   "ts": "2026-11-15T19:18:00Z"
+  },
+  {
+   "id": "wbd-contractor-cuts-2026111519",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business",
+    "california"
+   ],
+   "date": "Sun Nov 15",
+   "headline": "Warner Bros. contractor says hidden cuts put 10,000 jobs at risk",
+   "caption": "A former contractor says expiring contracts keep job losses out of official layoff counts. He estimates 4,500 of the jobs are in Los Angeles.",
+   "visual": {
+    "type": "board",
+    "title": "The claim, by the numbers",
+    "rows": [
+     {
+      "k": "Jobs at risk",
+      "s": "contractor estimate",
+      "v": "10,000+",
+      "tone": "loss"
+     },
+     {
+      "k": "In Los Angeles",
+      "v": "4,500",
+      "tone": "loss"
+     },
+     {
+      "k": "Savings target",
+      "s": "over three years",
+      "v": "$6B+"
+     }
+    ],
+    "foot": "Estimates come from a former contractor's video, not the company."
+   },
+   "detail": [
+    "A former Warner Bros. Discovery contractor says at least 10,000 jobs are at risk, including 4,500 in Los Angeles. He argues official layoff totals miss contractors whose deals simply aren't renewed.",
+    "New executives are aiming for more than $6 billion in savings over three years from technology, combined marketing and labor, according to the report.",
+    "The claims come from a video shared by the group More Perfect Union. The company's own figures were not given."
+   ],
+   "money": [
+    "Contract workers should track renewal dates and line up backup clients early.",
+    "California contractors may qualify for unemployment if misclassified; check with the state EDD.",
+    "Keep a lean budget in industries facing merger cost-cutting."
+   ],
+   "risk": [
+    "The job estimate is unverified and comes from one person."
+   ],
+   "sources": [
+    {
+     "t": "Warner Bros. Discovery contractor says expiring contracts hide job cuts from official layoff counts",
+     "d": "finance.yahoo.com",
+     "u": "https://finance.yahoo.com/media-advertising/articles/warner-bros-discovery-contractor-says-085900544.html"
+    }
+   ],
+   "ts": "2026-11-15T19:18:00Z"
+  },
+  {
+   "id": "edu-pce-vs-cpi-2026111519",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "markets"
+   ],
+   "date": "Explainer",
+   "headline": "PCE vs CPI: the inflation number the Fed really watches",
+   "caption": "The Nov. 25 PCE report could tip the Fed toward a half-point hike. Here's why it matters for your loans and savings.",
+   "scenes": [
+    {
+     "k": "Coming Nov. 25",
+     "t": "One report could move the Fed.",
+     "s": "October's PCE price data lands the day before Thanksgiving."
+    },
+    {
+     "k": "Two gauges",
+     "t": "CPI and PCE both track prices.",
+     "s": "CPI comes first; PCE is the Fed's preferred measure."
+    },
+    {
+     "k": "Where we are",
+     "t": "October CPI ran hot.",
+     "viz": {
+      "type": "split",
+      "items": [
+       [
+        "Expected",
+        "0.3%"
+       ],
+       [
+        "Actual",
+        "0.4%"
+       ],
+       [
+        "Fed comfort",
+        "~0.2% a month",
+        "wide"
+       ]
+      ]
+     },
+     "say": "Economists expected prices to rise three tenths of a percent in October. They rose four tenths, well above the roughly two tenths a month the Fed wants."
+    },
+    {
+     "k": "How it flows",
+     "t": "Hot data, higher rates.",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "Hot PCE",
+       "Bigger Fed hike",
+       "Higher card & loan rates",
+       "Better savings yields"
+      ]
+     }
+    },
+    {
+     "k": "The stakes",
+     "t": "Quarter point or half point?",
+     "s": "The Fed meets Dec. 8–9. Waller has said a half-point hike could fit."
+    },
+    {
+     "k": "Your move",
+     "t": "Pay down variable debt. Lock savings.",
+     "s": "Card and HELOC rates follow the Fed; CDs let you lock today's yields."
+    }
+   ],
+   "ts": "2026-11-15T19:18:00Z"
+  },
+  {
+   "id": "edu-senior-stack-2026111519",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "taxes"
+   ],
+   "date": "Explainer",
+   "headline": "Stacking senior tax breaks: how 65+ filers shield $24,700",
+   "caption": "The standard deduction, the age-65 extra and the $6,000 bonus add up. Here's how a single senior stacks them in 2027.",
+   "scenes": [
+    {
+     "k": "New for 2027",
+     "t": "Seniors get bigger deductions.",
+     "s": "The IRS raised the extra deduction for people 65 and older."
+    },
+    {
+     "k": "Layer one",
+     "t": "Everyone gets the standard deduction.",
+     "s": "For a single filer in 2027, it's $16,600."
+    },
+    {
+     "k": "Layers two and three",
+     "t": "Add the 65+ extra and the bonus.",
+     "viz": {
+      "type": "split",
+      "items": [
+       [
+        "Standard",
+        "$16,600"
+       ],
+       [
+        "65+ extra",
+        "$2,100"
+       ],
+       [
+        "Senior bonus",
+        "$6,000",
+        "wide"
+       ]
+      ]
+     },
+     "say": "A single senior can stack a sixteen thousand six hundred dollar standard deduction, a twenty-one hundred dollar age sixty-five extra, and a six thousand dollar bonus."
+    },
+    {
+     "k": "The total",
+     "t": "$24,700 of income untaxed.",
+     "s": "That's before any other credits or deductions."
+    },
+    {
+     "k": "The catch",
+     "t": "The bonus fades at higher income.",
+     "s": "It phases out above $75,000 for singles and $150,000 for couples, and ends after 2028."
+    },
+    {
+     "k": "Your move",
+     "t": "Time withdrawals to stay under the limit.",
+     "s": "Spreading IRA withdrawals or gains across years can keep the bonus intact."
+    }
+   ],
+   "ts": "2026-11-15T19:18:00Z"
+  },
   {
    "id": "btc-62k-2026111519",
    "type": "news",
