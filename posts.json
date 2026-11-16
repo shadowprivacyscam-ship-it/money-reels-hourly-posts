@@ -1,6 +1,1070 @@
 {
- "updated": "2026-11-16T15:20:00Z",
+ "updated": "2026-11-16T16:20:00Z",
  "items": [
+  {
+   "id": "empire-state-drop-2026111616",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets",
+    "business"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T16:20:00Z",
+   "headline": "New York factory index plunges 18 points to 7.8, far below the 16.7 forecast",
+   "caption": "The Empire State survey still shows growth, but much slower growth than expected. Factory hiring in New York grew at its fastest pace in over four years.",
+   "visual": {
+    "type": "vs",
+    "title": "Empire State index, November",
+    "a": [
+     "Forecast",
+     "16.7",
+     1,
+     "acc"
+    ],
+    "b": [
+     "Actual",
+     "7.8",
+     0.47,
+     "loss"
+    ],
+    "foot": "Above zero still means growth; it fell 18 points from October"
+   },
+   "detail": [
+    "The New York Fed's Empire State manufacturing index fell 18 points to 7.8 in November. Economists had expected 16.7.",
+    "The details were mixed. New orders and shipments still rose, price increases slowed but stayed high, and factory jobs grew at the fastest pace in more than four years.",
+    "The report landed as tech stocks slid ahead of Nvidia's results. Retail sales data comes Tuesday at 8:30 a.m. ET."
+   ],
+   "money": [
+    "Slower factory growth plus easing price gains can cool rate-hike fears; watch bond yields for a buying window in CDs or Treasuries.",
+    "Firms still hiring is a good sign for job seekers in manufacturing regions.",
+    "Don't trade on one survey; wait for Tuesday's retail sales to see the bigger picture."
+   ],
+   "risk": [
+    "One regional survey can swing a lot month to month.",
+    "Sticky prices could still push the Fed to raise rates."
+   ],
+   "sources": [
+    {
+     "t": "Stock Market Today Live, November 16, 2026",
+     "d": "stocktitan.net",
+     "u": "https://www.stocktitan.net/articles/stock-market-today-live-november-16-2026"
+    }
+   ]
+  },
+  {
+   "id": "biotech-xpeng-gainers-2026111616",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets",
+    "business"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T16:20:00Z",
+   "headline": "Monday's gainers: Lexeo jumps 28% on heart data; CG Oncology +12%; XPeng +6%",
+   "caption": "Gene therapy and bladder cancer trial wins led the market's top gainers as chip stocks sank. XPeng rose after a 19% sales jump.",
+   "visual": {
+    "type": "board",
+    "title": "Monday movers, 10 a.m. ET",
+    "rows": [
+     {
+      "k": "Lexeo Therapeutics",
+      "s": "heart gene therapy data",
+      "v": "LXEO",
+      "ch": 28.2,
+      "tone": "gain"
+     },
+     {
+      "k": "CG Oncology",
+      "s": "bladder cancer trial hit goal",
+      "v": "CGON",
+      "ch": 11.7,
+      "tone": "gain"
+     },
+     {
+      "k": "XPeng",
+      "s": "Q3 revenue +19.1%",
+      "v": "XPEV",
+      "ch": 5.7,
+      "tone": "gain"
+     },
+     {
+      "k": "Micron",
+      "s": "chip sell-off",
+      "v": "MU",
+      "ch": -6.4,
+      "tone": "loss"
+     },
+     {
+      "k": "Intel",
+      "s": "chip sell-off",
+      "v": "INTC",
+      "ch": -6.0,
+      "tone": "loss"
+     }
+    ],
+    "foot": "Moves vs. Friday's close"
+   },
+   "detail": [
+    "Lexeo Therapeutics rose about 28% after early data for its heart gene therapy. The FDA is open to using a heart rhythm measure as the main goal of a trial.",
+    "CG Oncology gained about 12% after its PIVOT-006 bladder cancer trial met its main goal, cutting recurrence risk by 68% versus monitoring. Chinese EV maker XPeng rose almost 6% as third-quarter revenue grew 19.1%, though its loss widened.",
+    "On the other side, Micron and Intel each fell about 6% as chip stocks slid before Nvidia's report."
+   ],
+   "money": [
+    "Biotech pops on trial news are hard to time; if you want exposure, a diversified biotech fund spreads the risk.",
+    "Early gains often fade by the close; avoid chasing a stock that's already up 28%.",
+    "If you own chip stocks, check your position size before Nvidia reports Tuesday."
+   ],
+   "risk": [
+    "Early-stage trial results often don't hold up in later trials.",
+    "XPeng is still losing money."
+   ],
+   "sources": [
+    {
+     "t": "Stock Market Today Live, November 16, 2026",
+     "d": "stocktitan.net",
+     "u": "https://www.stocktitan.net/articles/stock-market-today-live-november-16-2026"
+    }
+   ]
+  },
+  {
+   "id": "commerce-remote-chip-rule-2026111616",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "world",
+    "politics"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T16:20:00Z",
+   "headline": "US moves to stop China from renting AI chips abroad; new licenses for five countries",
+   "caption": "A new Commerce rule targets remote access to advanced AI chips in third-country data centers. Shipping them to Singapore, Malaysia, Thailand, Indonesia and Brazil now needs extra licenses.",
+   "visual": {
+    "type": "points",
+    "title": "The remote-access chip rule",
+    "items": [
+     "Interim rule issued Mon Nov 16",
+     "Targets renting chip power in third-country data centers",
+     "Extra licenses for Brazil, Indonesia, Malaysia, Singapore, Thailand",
+     "Follows Jensen Huang's exit from Nvidia last week"
+    ]
+   },
+   "detail": [
+    "The Commerce Department issued an interim rule on Monday that limits remote access to advanced AI chips. It aims to stop restricted buyers, such as Chinese firms, from renting computing power in data centers outside China.",
+    "The rule adds license requirements to export, re-export or transfer advanced chips to Brazil, Indonesia, Malaysia, Singapore and Thailand. It treats remote access more like physical shipments.",
+    "It comes days after Jensen Huang resigned as Nvidia CEO and ahead of Trump's meeting with China's Xi this week."
+   ],
+   "money": [
+    "Chip and cloud stocks with big Southeast Asia sales could see guidance changes; listen for comments on Nvidia's call Tuesday.",
+    "If you own a broad chip fund, rules like this hit many names at once; diversification beyond one sector helps.",
+    "Volatility around policy news can create entry points for long-term buyers, but go in slowly."
+   ],
+   "risk": [
+    "Rules can tighten further or be eased in a trade deal.",
+    "Lost sales in covered countries could hurt chipmakers' revenue."
+   ],
+   "sources": [
+    {
+     "t": "After Nvidia scandal, Commerce Department moves to curb remote access to AI chips",
+     "d": "cbsnews.com",
+     "u": "https://www.cbsnews.com/news/nvidia-jensen-huang-commerce-department-limit-remote-access-ai-chips/"
+    },
+    {
+     "t": "US Closes Loophole That Allowed China To Remotely Access Nvidia Chips",
+     "d": "forbes.com",
+     "u": "https://www.forbes.com/sites/zacharyfolk/2026/11/16/us-closes-loophole-that-allowed-china-to-remotely-access-nvidia-chips/"
+    }
+   ]
+  },
+  {
+   "id": "amd-world-labs-closes-2026111616",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "business",
+    "markets"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T16:20:00Z",
+   "headline": "AMD closes its $8.2B all-stock buy of World Labs; Fei-Fei Li becomes chief scientist",
+   "caption": "AMD now owns the spatial-intelligence AI startup. Li joins as executive VP and chief scientist, reporting to Lisa Su.",
+   "visual": {
+    "type": "deals",
+    "title": "AMD + World Labs",
+    "items": [
+     {
+      "a": "AMD",
+      "b": "World Labs (AI startup)",
+      "amt": "$8.2B",
+      "st": "Closed Nov 16, all stock",
+      "c": "ok"
+     }
+    ]
+   },
+   "detail": [
+    "AMD finished its purchase of AI startup World Labs on Monday in an all-stock deal valued at about $8.2 billion.",
+    "World Labs builds spatial-intelligence models and works on robot learning. Its co-founder Fei-Fei Li joins AMD as executive vice president and chief scientist, reporting to CEO Lisa Su.",
+    "AMD says the research team will join its engineering group to speed up future AI products. The deal closed on a day AMD shares fell with other chip stocks."
+   ],
+   "money": [
+    "All-stock deals add new shares, which can dilute existing holders; check AMD's share count in its next report.",
+    "Buying talent is a common AI strategy; watch whether the deal shows up in new products before paying up for the story.",
+    "If you want AI exposure without single-stock risk, a broad tech index holds AMD and its rivals."
+   ],
+   "risk": [
+    "Big acquisitions can take years to pay off.",
+    "AMD stock is volatile during the chip sell-off."
+   ],
+   "sources": [
+    {
+     "t": "AMD Completes $8.2B Acquisition of AI Startup World Labs, Adding AI Pioneer Fei-Fei Li",
+     "d": "gurufocus.com",
+     "u": "https://www.gurufocus.com/news/9201676/amd-completes-82b-acquisition-of-ai-startup-world-labs-adding-ai-pioneer-feifei-li-amd"
+    }
+   ]
+  },
+  {
+   "id": "barr-ai-bank-runs-2026111616",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "markets"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T16:20:00Z",
+   "headline": "Fed's Barr: AI agents moving money on their own could turn bank runs into minutes",
+   "caption": "Fed Governor Michael Barr warned that many AI agents reacting to the same signal could pull deposits at once. He urged strict consent and limits on what agents can do.",
+   "visual": {
+    "type": "stat",
+    "title": "How fast runs can be",
+    "num": "$42B",
+    "tone": "loss",
+    "label": "Silicon Valley Bank lost about $42 billion in one day in March 2023, with humans clicking.",
+    "facts": [
+     [
+      "Speaker",
+      "Gov. Michael Barr",
+      "Milan, Nov 16"
+     ],
+     [
+      "Risk",
+      "Agents acting in sync",
+      "same models, same data"
+     ],
+     [
+      "Fix",
+      "Consent + limits",
+      "authentication per action"
+     ]
+    ]
+   },
+   "detail": [
+    "Speaking in Milan on Monday, Fed Governor Michael Barr said autonomous AI agents could speed up bank runs by moving deposits automatically when they spot yield gaps or stress.",
+    "His biggest worry is herd behavior: many agents built on similar models could react to the same signal in seconds. He also said bad actors could feed false information to many systems at once, and that banks already see agents trying actions in accounts without verified consent.",
+    "Barr suggested strict authentication, consent tied to each action, and technical limits on agents. He did not propose a new rule."
+   ],
+   "money": [
+    "Keep deposits under the $250,000 FDIC limit per bank, per ownership category, so a run doesn't put your cash at risk.",
+    "Before giving any AI tool access to your bank account, check what it can do without asking you.",
+    "Turn on account alerts so you see any money movement right away."
+   ],
+   "risk": [
+    "Rules for AI agents in banking are still unsettled.",
+    "Scammers may pose as AI assistants to get account access."
+   ],
+   "sources": [
+    {
+     "t": "Fed's Barr warns AI agents could turn bank runs into minutes-long events",
+     "d": "startupfortune.com",
+     "u": "https://startupfortune.com/feds-barr-warns-ai-agents-could-turn-bank-runs-into-minutes-long-events/"
+    },
+    {
+     "t": "Fed's Barr Says AI Agents Could Fuel Future Bank Runs",
+     "d": "bloomberg.com",
+     "u": "https://bloomberg.com/news/articles/2026-11-16/fed-s-barr-says-ai-agents-could-fuel-future-bank-runs"
+    }
+   ]
+  },
+  {
+   "id": "yamaha-disguise-2026111616",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business"
+   ],
+   "date": "Fri Nov 13",
+   "ts": "2026-11-16T16:20:00Z",
+   "headline": "Yamaha agrees to buy Disguise, the tech behind big concert visuals, for about $285M",
+   "caption": "Yamaha will pay £215 million for the London visual-tech firm used on major tours. It wants to grow beyond instruments into live entertainment.",
+   "visual": {
+    "type": "deals",
+    "title": "Yamaha buys Disguise",
+    "items": [
+     {
+      "a": "Yamaha",
+      "b": "Disguise (London)",
+      "amt": "$285M",
+      "st": "Closing Dec 2026, needs approvals",
+      "c": "pend"
+     },
+     {
+      "a": "Seller",
+      "b": "Carlyle-linked funds",
+      "amt": "58% stake",
+      "st": "Majority holder",
+      "c": "ok"
+     }
+    ]
+   },
+   "detail": [
+    "Japan's Yamaha agreed to buy Disguise, a London visual technology company, for £215 million, about $285 million. Disguise's tools have powered big concert tours.",
+    "Carlyle-linked funds hold the majority. The deal should close in December 2026, subject to approvals. Disguise's sales fell 10.8% to £60 million in 2025, and it posted a £36.4 million loss.",
+    "Yamaha says it wants to expand from instruments and audio into entertainment and live experiences, with more plans due in 2027."
+   ],
+   "money": [
+    "Live events are a growing spend category; companies selling the tech behind them can be a quieter way to invest in the trend.",
+    "Buyers sometimes pay up for shrinking firms; watch whether Yamaha can turn Disguise's losses around.",
+    "If you work in live production, consolidation can mean new job openings at bigger owners."
+   ],
+   "risk": [
+    "Disguise is losing money and sales fell in 2025.",
+    "Regulators must still approve the deal."
+   ],
+   "sources": [
+    {
+     "t": "Yamaha strikes $285M deal to acquire Disguise",
+     "d": "musicbusinessworldwide.com",
+     "u": "https://www.musicbusinessworldwide.com/yamaha-strikes-285m-deal-to-acquire-disguise-whose-visual-tech-has-powered-tours-by-bad-bunny-beyonce-and-taylor-swift/"
+    }
+   ]
+  },
+  {
+   "id": "november-store-closings-2026111616",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business"
+   ],
+   "date": "This month",
+   "ts": "2026-11-16T16:20:00Z",
+   "headline": "Closing this month: IKEA Fairfax, most Grunt Style stores, and more Big Lots and Wendy's",
+   "caption": "A wave of store and restaurant closures hits before the holidays. Grunt Style is shutting all but three shops by Nov. 30.",
+   "visual": {
+    "type": "board",
+    "title": "November closures",
+    "rows": [
+     {
+      "k": "Grunt Style",
+      "s": "all but 3 stores",
+      "v": "Nov 30"
+     },
+     {
+      "k": "IKEA Fairfax, VA",
+      "s": "after San Marcos, TX",
+      "v": "Nov 30"
+     },
+     {
+      "k": "Big Lots",
+      "s": "3 NC + 1 GA",
+      "v": "4 more"
+     },
+     {
+      "k": "Wendy's franchisee",
+      "s": "Meritage, in bankruptcy",
+      "v": "up to 60"
+     },
+     {
+      "k": "99 Ranch Pleasanton, CA",
+      "s": "Chino closed Nov 15",
+      "v": "Dec 5"
+     }
+    ]
+   },
+   "detail": [
+    "Apparel brand Grunt Style is closing all but three stores by Nov. 30, keeping locations in Nashville, Sevierville and Tulsa. About 100 jobs are affected.",
+    "IKEA's Fairfax, Virginia store closes Nov. 30 after San Marcos, Texas closed Nov. 1. Big Lots is reportedly closing four more stores, and Wendy's franchisee Meritage, in bankruptcy, planned up to 60 more closures.",
+    "In California, 99 Ranch Market closed its Chino store Nov. 15, and its Pleasanton store closes Dec. 5. KFC, Taco Bell and Pizza Hut locations in Puerto Rico shut after their franchisee lost its deal with Yum."
+   ],
+   "money": [
+    "Use gift cards and store credit at closing chains now; they can become worthless after a shutdown.",
+    "Liquidation sales can be deals, but compare prices online first; early markdowns are often small.",
+    "Final sales are usually no-return, so check items before you pay."
+   ],
+   "risk": [
+    "Warranties and returns may end when a store closes.",
+    "More closures could follow after the holidays."
+   ],
+   "sources": [
+    {
+     "t": "IKEA and 9 Other Major Stores That Are Closing in November",
+     "d": "financebuzz.com",
+     "u": "https://financebuzz.com/news/major-stores-closing-november-2026"
+    }
+   ]
+  },
+  {
+   "id": "taketwo-jefferies-gta-2026111616",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business",
+    "markets"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T16:20:00Z",
+   "headline": "New: Jefferies sees strong GTA VI pre-orders, eyes the top of 40M-50M first-run sales",
+   "caption": "Take-Two rose about 4% early on the call before Thursday's launch, then turned lower with the market. Jefferies expects bookings above the company's guidance.",
+   "visual": {
+    "type": "ticker",
+    "sym": "TTWO",
+    "ex": "NASDAQ",
+    "rows": [
+     {
+      "k": "Premarket",
+      "s": "after Jefferies note",
+      "v": "+4%"
+     },
+     {
+      "k": "GTA VI units",
+      "s": "Jefferies range",
+      "v": "40-50M"
+     },
+     {
+      "k": "FY28 live service",
+      "s": "bookings estimate",
+      "v": "$1-2B"
+     },
+     {
+      "k": "Launch",
+      "s": "",
+      "v": "Thu Nov 19"
+     }
+    ]
+   },
+   "detail": [
+    "What's new: Jefferies said pre-orders for GTA VI look strong and moved its estimate to the high end of a 40 million to 50 million unit range. The game launches Thursday.",
+    "The firm expects fiscal 2027 bookings above the high end of Take-Two's guidance, and $1 billion to $2 billion in live-service bookings in fiscal 2028. It assumes players need the game to play GTA VI Online, which Take-Two hasn't confirmed.",
+    "Take-Two rose about 4% before the open but later traded lower as tech stocks fell."
+   ],
+   "money": [
+    "Big launches often trigger 'sell the news' drops; if you're buying, consider waiting until after launch-week numbers.",
+    "Gamers: compare digital and physical prices; retailers often discount launch-week bundles.",
+    "Analyst upgrades are opinions, not guarantees; size any bet accordingly."
+   ],
+   "risk": [
+    "High expectations leave room for disappointment.",
+    "Other Take-Two games like NBA 2K showed softness."
+   ],
+   "sources": [
+    {
+     "t": "Take-Two shares rise premarket as Jefferies sees strong GTA VI pre-orders",
+     "d": "investing.com",
+     "u": "https://www.investing.com/news/stock-market-news/taketwo-shares-rise-premarket-as-jefferies-sees-strong-gta-vi-preorders-5029955"
+    }
+   ]
+  },
+  {
+   "id": "custodia-scotus-denied-2026111616",
+   "type": "news",
+   "cat": "crypto",
+   "tags": [
+    "crypto",
+    "politics"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T16:20:00Z",
+   "headline": "Supreme Court ends crypto bank Custodia's fight for a Fed master account",
+   "caption": "The justices declined to hear the case, leaving a ruling that Fed banks can reject even eligible applicants. It's a setback for crypto banks seeking direct Fed access.",
+   "visual": {
+    "type": "timeline",
+    "title": "Custodia vs. the Fed",
+    "items": [
+     {
+      "d": "OCT 2020",
+      "t": "Applies for master account"
+     },
+     {
+      "d": "JAN 2023",
+      "t": "Kansas City Fed says no"
+     },
+     {
+      "d": "OCT 2025",
+      "t": "10th Circuit sides with Fed, 2-1"
+     },
+     {
+      "d": "NOV 16",
+      "t": "Supreme Court won't hear it",
+      "now": true
+     }
+    ]
+   },
+   "detail": [
+    "The Supreme Court on Monday denied Custodia Bank's petition, leaving in place a Tenth Circuit ruling that Federal Reserve banks have discretion to reject master account applications, even from legally eligible banks.",
+    "Custodia, a Wyoming-chartered crypto bank, applied in October 2020 and was denied in January 2023. Lower courts sided with the Fed in 2024 and 2025.",
+    "A master account lets a bank plug straight into the Fed's payment system. Kraken got a limited master account in March 2026."
+   ],
+   "money": [
+    "If you hold cash at a crypto firm, check whether it's FDIC-insured through a partner bank; most crypto balances are not.",
+    "Crypto banks without Fed access rely on other banks, which can mean higher fees or slower transfers.",
+    "Keep emergency cash at a regular insured bank or credit union."
+   ],
+   "risk": [
+    "Crypto banks may face more limits on payment access.",
+    "Policy could change under a new Fed or law from Congress."
+   ],
+   "sources": [
+    {
+     "t": "Supreme Court Ends Custodia's Fight For A Fed Account",
+     "d": "bitcoinmagazine.com",
+     "u": "https://bitcoinmagazine.com/news/supreme-court-ends-custodia-fed-master"
+    },
+    {
+     "t": "Justices Reject Custodia's Fight For Fed Master Account",
+     "d": "law360.com",
+     "u": "https://www.law360.com/compliance/articles/2549938"
+    }
+   ]
+  },
+  {
+   "id": "strategy-buys-485-2026111616",
+   "type": "news",
+   "cat": "crypto",
+   "tags": [
+    "crypto",
+    "markets"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T16:20:00Z",
+   "headline": "Update: Strategy buys 485 BTC for $33.4M but spends $228M buying back its preferred",
+   "caption": "After hinting at more buying, Saylor's firm added a small amount of bitcoin. Most new money went to buy back STRC preferred shares, now under $100 par.",
+   "visual": {
+    "type": "board",
+    "title": "Strategy's latest week",
+    "rows": [
+     {
+      "k": "Bitcoin bought",
+      "v": "485 BTC"
+     },
+     {
+      "k": "Cost",
+      "v": "$33.4M"
+     },
+     {
+      "k": "STRC buybacks",
+      "s": "preferred stock",
+      "v": "$228.1M"
+     },
+     {
+      "k": "Funding",
+      "s": "mostly new common stock",
+      "v": "dilutive"
+     }
+    ]
+   },
+   "detail": [
+    "What's new: Strategy said it bought 485 bitcoin for about $33.4 million. It spent far more, $228.1 million, buying back its STRC preferred shares, which have fallen below their $100 par value.",
+    "Most of the money came from selling new common stock. Strive, another bitcoin treasury firm, bought 251 BTC for $17.5 million, and its shares fell about 10% before the open.",
+    "Bitcoin fell to about $62,100 on Sunday, its lowest since July, before trading near $64,000."
+   ],
+   "money": [
+    "Selling new shares to fund purchases dilutes existing holders; check how much a company issues before buying its stock.",
+    "Owning bitcoin directly or through a spot ETF avoids company-level debt and preferred stock risk.",
+    "Preferred shares trading under par can signal stress; high yields come with that risk."
+   ],
+   "risk": [
+    "Bitcoin treasury stocks swing harder than bitcoin itself.",
+    "Further price drops deepen paper losses."
+   ],
+   "sources": [
+    {
+     "t": "Crypto industry digest - November 16, 2026",
+     "d": "gtokentool.com",
+     "u": "https://www.gtokentool.com/en/news/digest/2026-11-16"
+    }
+   ]
+  },
+  {
+   "id": "pennsylvania-min-wage-15-2026111616",
+   "type": "news",
+   "cat": "states",
+   "tags": [
+    "states",
+    "politics",
+    "business"
+   ],
+   "date": "Sat Nov 14",
+   "ts": "2026-11-16T16:20:00Z",
+   "headline": "Pennsylvania's Shapiro wants $15 minimum wage as his first bill in January",
+   "caption": "With a new Democratic trifecta, the governor aims to more than double the $7.25 rate. About half a million workers earn under $15.",
+   "visual": {
+    "type": "vs",
+    "title": "Pennsylvania minimum wage",
+    "a": [
+     "Now",
+     "$7.25",
+     0.48,
+     "acc"
+    ],
+    "b": [
+     "Proposed",
+     "$15",
+     1,
+     "gain"
+    ],
+    "foot": "About a 107% raise; vote expected after January 2027"
+   },
+   "detail": [
+    "Pennsylvania Gov. Josh Shapiro wants to raise the state minimum wage from $7.25 to $15 an hour, about a 107% jump. He says it will be the first bill he signs in January 2027, after Democrats flipped the state Senate.",
+    "About half a million Pennsylvania workers earn less than $15. Illinois Gov. JB Pritzker is pushing Congress to raise the federal $7.25 rate.",
+    "Some economists warn steep raises can lead to price hikes, fewer hours or slower hiring, especially for entry-level workers. Other research has found little job loss in restaurants after past increases."
+   ],
+   "money": [
+    "Pennsylvania workers under $15: a raise could mean thousands more a year; recheck benefit eligibility, since higher pay can change aid.",
+    "Small businesses can plan now for higher payroll costs and possible phase-in schedules.",
+    "Watch for local price increases at restaurants and stores if the bill passes."
+   ],
+   "risk": [
+    "Lawmakers haven't agreed on a final number or timeline.",
+    "Hours could be cut at some employers."
+   ],
+   "sources": [
+    {
+     "t": "Democrats seize on midterm wins to push massive minimum wage hikes",
+     "d": "foxnews.com",
+     "u": "https://www.foxnews.com/politics/democrats-seize-midterm-wins-push-massive-minimum-wage-hikes-economists-see-trouble-ahead"
+    }
+   ]
+  },
+  {
+   "id": "nj-ice-arrests-data-2026111616",
+   "type": "news",
+   "cat": "immigration",
+   "tags": [
+    "immigration",
+    "states"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T16:20:00Z",
+   "headline": "ICE made nearly 18,000 arrests in New Jersey since 2025; fewer had convictions",
+   "caption": "ICE data shows arrests in 324 New Jersey towns from January 2025 to July 2026. The share with criminal convictions fell from 36% to 13%.",
+   "visual": {
+    "type": "stat",
+    "title": "ICE arrests in New Jersey",
+    "num": "~18,000",
+    "tone": "acc",
+    "label": "Arrests from January 2025 through July 2026, per ICE records.",
+    "facts": [
+     [
+      "Newark",
+      "~4,400",
+      "most of any city"
+     ],
+     [
+      "With convictions",
+      "36% to 13%",
+      "Jan 2025 vs Jul 2026"
+     ],
+     [
+      "2026 so far",
+      "~8,700",
+      "first 7 months"
+     ]
+    ]
+   },
+   "detail": [
+    "ICE made nearly 18,000 arrests across 324 New Jersey municipalities between January 2025 and July 2026, according to federal records obtained by the Deportation Data Project and analyzed by NorthJersey.com.",
+    "There were 9,103 arrests in 2025 and about 8,700 in the first seven months of 2026. Newark led with nearly 4,400, followed by Elizabeth and Mount Laurel.",
+    "The share of people arrested with criminal convictions fell from 36% in January 2025 to 13% in July 2026. Nationally, ICE made over half a million arrests in the same period."
+   ],
+   "money": [
+    "Employers in heavy-arrest areas may face worker shortages; plan staffing and keep I-9 records in order.",
+    "Families can keep key documents and contacts organized and find a licensed immigration attorney in advance.",
+    "Avoid 'notario' services that charge for legal help they can't legally give."
+   ],
+   "risk": [
+    "ICE data may contain administrative errors.",
+    "Enforcement levels can shift quickly with policy."
+   ],
+   "sources": [
+    {
+     "t": "Nearly 18K in NJ arrested by ICE since 2025, most with no convictions",
+     "d": "yahoo.com",
+     "u": "https://www.yahoo.com/news/us/articles/nearly-18k-nj-arrested-ice-110340827.html"
+    }
+   ]
+  },
+  {
+   "id": "eu-joins-ukraine-talks-2026111616",
+   "type": "news",
+   "cat": "world",
+   "tags": [
+    "world",
+    "politics"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T16:20:00Z",
+   "headline": "EU will join the next Ukraine peace talks, focused on security guarantees and rebuilding",
+   "caption": "The EU team includes Germany, France, the UK, Italy and Poland. Its foreign policy chief wants a Russian ceasefire before talks on Kremlin demands.",
+   "visual": {
+    "type": "points",
+    "title": "EU at the table",
+    "items": [
+     "E5: Germany, France, UK, Italy, Poland",
+     "Plus European Commission and Council",
+     "Topics: security guarantees and a prosperity package",
+     "No venue set yet",
+     "Kallas: ceasefire first"
+    ]
+   },
+   "detail": [
+    "The European Commission said Monday that the EU will take part in the next round of talks on ending Russia's war in Ukraine, moving to a multilateral format. No venue has been set.",
+    "The team will include Germany, France, the UK, Italy and Poland, plus EU Commission and Council officials. Leaders agreed on the format at a Dublin summit on Nov. 13.",
+    "Talks will focus on security guarantees for Ukraine and a post-war prosperity package. EU foreign policy chief Kaja Kallas said Russia should agree to a ceasefire before its demands are discussed."
+   ],
+   "money": [
+    "Peace progress can lower oil and gas prices over time; watch energy bills and fuel costs.",
+    "European defense and rebuilding firms could benefit from a prosperity package; a broad international fund gives exposure.",
+    "Headline-driven market moves often reverse; avoid trading on talks alone."
+   ],
+   "risk": [
+    "Talks have stalled before with no deal.",
+    "Fighting and strikes are ongoing."
+   ],
+   "sources": [
+    {
+     "t": "EU to take part in next round of talks on ending Russia's war against Ukraine",
+     "d": "yahoo.com",
+     "u": "https://www.yahoo.com/news/world/articles/eu-part-next-round-talks-131800226.html"
+    }
+   ]
+  },
+  {
+   "id": "part-b-2027-pending-2026111616",
+   "type": "news",
+   "cat": "benefits",
+   "tags": [
+    "benefits"
+   ],
+   "date": "This week",
+   "ts": "2026-11-16T16:20:00Z",
+   "headline": "2027 Medicare Part B premium still not out; trustees project $209.50, up $6.60",
+   "caption": "CMS usually posts the new premium in mid-November. Open enrollment ends Dec. 7, so compare plans now.",
+   "visual": {
+    "type": "board",
+    "title": "Medicare Part B",
+    "rows": [
+     {
+      "k": "2026 premium",
+      "s": "official",
+      "v": "$202.90"
+     },
+     {
+      "k": "2027 premium",
+      "s": "trustees' projection",
+      "v": "$209.50",
+      "tone": "loss"
+     },
+     {
+      "k": "2026 deductible",
+      "s": "official",
+      "v": "$283"
+     },
+     {
+      "k": "2027 deductible",
+      "s": "projection",
+      "v": "$292",
+      "tone": "loss"
+     },
+     {
+      "k": "Part D 2027 cap",
+      "s": "official",
+      "v": "$2,400"
+     }
+    ],
+    "foot": "Open enrollment ends Dec 7"
+   },
+   "detail": [
+    "The 2027 Medicare Part B premium had not been announced as of last week. The Medicare trustees project $209.50 a month, up $6.60 from $202.90, with the deductible rising to about $292 from $283.",
+    "Last year the trustees projected $206.50 and the final number came in lower, at $202.90. CMS posted past premiums on Nov. 8, 2024 and Nov. 14, 2025.",
+    "Some 2027 Part D numbers are final: a $700 deductible and a $2,400 out-of-pocket cap. Medicare open enrollment ends Dec. 7."
+   ],
+   "money": [
+    "Compare Part D and Medicare Advantage plans on Medicare.gov before Dec. 7; drug lists and costs change every year.",
+    "Higher earners should check IRMAA brackets, since a small income change can mean a big premium jump.",
+    "Budget for about $7 more a month for Part B until the official number is out."
+   ],
+   "risk": [
+    "Projections can differ from the final premium.",
+    "Missing Dec. 7 locks you into your current plan."
+   ],
+   "sources": [
+    {
+     "t": "Medicare Part B Premium 2027: Final CMS Announcement Is Due Soon",
+     "d": "govtschemes.org",
+     "u": "https://govtschemes.org/medicare-part-b-premium-2027-final-announcement/"
+    }
+   ]
+  },
+  {
+   "id": "ca-jane-kim-disaster-insurance-2026111616",
+   "type": "news",
+   "cat": "california",
+   "tags": [
+    "california",
+    "benefits",
+    "politics"
+   ],
+   "date": "Sat Nov 14",
+   "ts": "2026-11-16T16:20:00Z",
+   "headline": "California's next insurance chief pitches state-run disaster coverage for homeowners",
+   "caption": "Commissioner-elect Jane Kim wants a public catastrophe insurance plan beyond the FAIR Plan. Republicans worry taxpayers would carry the risk.",
+   "visual": {
+    "type": "stat",
+    "title": "Home insurance in California",
+    "num": "$18B",
+    "tone": "acc",
+    "label": "What homeowners pay each year to insure their homes.",
+    "facts": [
+     [
+      "Wildfire share",
+      "$3B-$6B",
+      "of that total"
+     ],
+     [
+      "Takes office",
+      "Jan 4",
+      "replaces Ricardo Lara"
+     ],
+     [
+      "Models",
+      "Spain, France, NZ",
+      "public catastrophe plans"
+     ]
+    ]
+   },
+   "detail": [
+    "Jane Kim, a former San Francisco supervisor elected California insurance commissioner, proposes a single-payer natural disaster insurance plan for homeowners that goes beyond the state's FAIR Plan.",
+    "Under her idea, the state would replace private insurers on catastrophe claims, invest premiums, and send extra profits into fire and flood prevention. She says it is modeled on Spain, France and New Zealand and would cost taxpayers nothing.",
+    "Homeowners pay about $18 billion a year for coverage, with $3 billion to $6 billion going to wildfire risk. Republican leader Roger Niello called a taxpayer guarantee too risky. Kim takes office Jan. 4."
+   ],
+   "money": [
+    "Shop your homeowners policy now; prices and options may shift as the new commissioner sets policy.",
+    "Home-hardening steps like vents and defensible space can lower premiums with some insurers.",
+    "If you're on the FAIR Plan, look at a 'difference in conditions' policy to fill coverage gaps."
+   ],
+   "risk": [
+    "The plan needs lawmakers' approval and could change a lot.",
+    "A state-backed fund could face big losses after a major disaster."
+   ],
+   "sources": [
+    {
+     "t": "Insurance commissioner-elect pushes plan for homeowners",
+     "d": "timesofsandiego.com",
+     "u": "https://timesofsandiego.com/housing/2026/11/14/insurance-commissioner-elect-pushes-plan-for-homeowners/"
+    }
+   ]
+  },
+  {
+   "id": "payroll-tax-deadlines-nov-2026111616",
+   "type": "news",
+   "cat": "taxes",
+   "tags": [
+    "taxes",
+    "business"
+   ],
+   "date": "This week",
+   "ts": "2026-11-16T16:20:00Z",
+   "headline": "Employers: payroll tax deposits due Nov. 17, 18 and 20; heavy-vehicle tax due Nov. 30",
+   "caption": "Monthly depositors owe October payroll taxes Tuesday. EFTPS payments must be set by 8 p.m. ET a day before the due date.",
+   "visual": {
+    "type": "timeline",
+    "title": "IRS dates for businesses",
+    "items": [
+     {
+      "d": "NOV 17",
+      "t": "October payroll taxes",
+      "s": "monthly depositors",
+      "now": true
+     },
+     {
+      "d": "NOV 18",
+      "t": "Deposits for wages paid Nov 11-13"
+     },
+     {
+      "d": "NOV 20",
+      "t": "Deposits for wages paid Nov 14-17"
+     },
+     {
+      "d": "NOV 30",
+      "t": "Form 2290 and Form 730",
+      "s": "heavy vehicles, wagers"
+     }
+    ]
+   },
+   "detail": [
+    "Small businesses have several IRS payroll deadlines this week. Monthly depositors must deposit October Social Security, Medicare and withholding taxes by Nov. 17.",
+    "Semiweekly depositors owe deposits on Nov. 18 for wages paid Nov. 11 to 13, and on Nov. 20 for wages paid Nov. 14 to 17. Form 2290 for heavy vehicles first used in October and Form 730 for wagering tax are due Nov. 30.",
+    "Payments through EFTPS must be scheduled before 8 p.m. Eastern at least one calendar day before the due date."
+   ],
+   "money": [
+    "Schedule EFTPS payments a few days early to avoid late-deposit penalties.",
+    "Set calendar reminders for your deposit schedule; penalties add up fast on payroll taxes.",
+    "If you're a 1099 filer, the IRS's old FIRE system closes Nov. 19, so switch to IRIS now."
+   ],
+   "risk": [
+    "Late payroll deposits carry penalties plus interest.",
+    "Check your exact deposit schedule with the IRS or a tax pro."
+   ],
+   "sources": [
+    {
+     "t": "The IRS sets November deadlines: who must file returns and pay taxes by month's end",
+     "d": "cronista.com",
+     "u": "https://www.cronista.com/en/finance/confirmed-the-irs-sets-november-deadlines-who-must-file-returns-and-pay-taxes-by-months-end/"
+    }
+   ]
+  },
+  {
+   "id": "edu-ai-bank-run-fdic-2026111616",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "ai"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-16T16:20:00Z",
+   "headline": "Bank runs at AI speed: how to keep your cash safe",
+   "caption": "The Fed's Barr warned AI agents could speed up bank runs. Here's how deposit insurance protects you.",
+   "scenes": [
+    {
+     "k": "TODAY'S NEWS",
+     "t": "AI agents could speed up bank runs",
+     "s": "Fed Governor Barr warned agents moving money on their own could act in seconds."
+    },
+    {
+     "k": "WHAT'S A RUN",
+     "t": "Everyone pulls cash at once",
+     "s": "Banks lend most deposits out, so a rush of withdrawals can sink one.",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "Fear spreads",
+       "Withdrawals spike",
+       "Bank sells assets",
+       "Bank fails"
+      ]
+     }
+    },
+    {
+     "k": "THE BENCHMARK",
+     "t": "SVB lost $42B in one day",
+     "s": "That was in March 2023, with humans clicking buttons.",
+     "say": "Silicon Valley Bank lost about forty-two billion dollars in a single day in 2023."
+    },
+    {
+     "k": "YOUR SHIELD",
+     "t": "FDIC covers $250,000",
+     "s": "Per depositor, per insured bank, per ownership category.",
+     "viz": {
+      "type": "split",
+      "items": [
+       [
+        "Single account",
+        "$250K"
+       ],
+       [
+        "Joint account",
+        "$500K"
+       ],
+       [
+        "Insured bank + categories",
+        "more coverage",
+        "wide"
+       ]
+      ]
+     },
+     "say": "FDIC insurance covers two hundred fifty thousand dollars per depositor, per bank, per ownership category."
+    },
+    {
+     "k": "STAY SAFE",
+     "t": "Spread big balances out",
+     "s": "Use more than one bank or ownership type if you hold more than the limit."
+    },
+    {
+     "k": "AI TOOLS",
+     "t": "Know what an agent can do",
+     "s": "Before linking an AI app to your bank, limit its powers and turn on alerts."
+    }
+   ]
+  },
+  {
+   "id": "edu-cola-vs-partb-2026111616",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "benefits"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-16T16:20:00Z",
+   "headline": "Your 3.6% raise vs. Medicare: what you'll really net",
+   "caption": "Social Security's 2027 raise averages about $75 a month. A higher Part B premium takes a bite first.",
+   "scenes": [
+    {
+     "k": "THE RAISE",
+     "t": "Social Security rises 3.6% in 2027",
+     "s": "The biggest cost-of-living raise since 2023."
+    },
+    {
+     "k": "AVERAGE CHECK",
+     "t": "About $75 more a month",
+     "s": "The typical retired worker got $2,092 as of October 2026.",
+     "say": "The typical retiree check of about two thousand ninety-two dollars rises by roughly seventy-five dollars."
+    },
+    {
+     "k": "THE CATCH",
+     "t": "Part B comes out first",
+     "s": "Medicare premiums are taken from your check before it lands."
+    },
+    {
+     "k": "THE MATH",
+     "t": "Raise minus premium hike",
+     "viz": {
+      "type": "split",
+      "items": [
+       [
+        "COLA raise",
+        "+$75"
+       ],
+       [
+        "Part B hike (projected)",
+        "-$6.60"
+       ],
+       [
+        "Net gain (estimate)",
+        "about +$68",
+        "wide"
+       ]
+      ]
+     },
+     "say": "Seventy-five dollars minus a projected six dollars sixty cents leaves about sixty-eight dollars."
+    },
+    {
+     "k": "WATCH THE MAIL",
+     "t": "Your exact notice comes in December",
+     "s": "Social Security mails personalized COLA notices in early December."
+    },
+    {
+     "k": "PAY DAYS",
+     "t": "First bigger checks: Jan. 13, 20, 27",
+     "s": "SSI recipients get theirs Dec. 31. Use open enrollment, ending Dec. 7, to cut Part D costs."
+    }
+   ]
+  },
   {
    "id": "open-nasdaq-slides-2026111615",
    "type": "news",
@@ -11177,1095 +12241,6 @@
      "t": "European leaders agree on joint team for Ukraine peace negotiations, Costa says",
      "d": "kyivindependent.com",
      "u": "https://kyivindependent.com/european-leaders-agree-on-joint-team-for-ukraine-peace-negotiations-costa-says/"
-    }
-   ]
-  },
-  {
-   "id": "edu-fda-crl-2026111603",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "markets"
-   ],
-   "date": "Explainer",
-   "ts": "2026-11-16T03:40:00Z",
-   "headline": "What an FDA rejection letter does to a biotech stock",
-   "caption": "Summit just got one. Here's what a Complete Response Letter means and why the stock can drop a fifth overnight.",
-   "scenes": [
-    {
-     "k": "TODAY'S NEWS",
-     "t": "Summit fell about 20% overnight",
-     "s": "The FDA sent a Complete Response Letter on its lung cancer drug."
-    },
-    {
-     "k": "WHAT IT IS",
-     "t": "A CRL means 'not approved as filed'",
-     "s": "The FDA explains what's missing. The company can fix it and refile."
-    },
-    {
-     "k": "THE PATH",
-     "t": "Drug approval has steps",
-     "viz": {
-      "type": "flow",
-      "items": [
-       "Trials",
-       "Application",
-       "FDA review",
-       "Decision date",
-       "Approve or CRL"
-      ]
-     }
-    },
-    {
-     "k": "WHY IT HURTS",
-     "t": "Fixes can take years and cost a lot",
-     "s": "Often that means a new trial, which delays any sales."
-    },
-    {
-     "k": "THE LESSON",
-     "t": "Small biotechs are binary bets",
-     "s": "One decision can swing a stock up or down by huge amounts."
-    },
-    {
-     "k": "YOUR MOVE",
-     "t": "Keep single-stock bets small",
-     "s": "A diversified health fund spreads the risk across many drugs."
-    }
-   ]
-  },
-  {
-   "id": "edu-ip-pin-2026111603",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "taxes"
-   ],
-   "date": "Explainer",
-   "ts": "2026-11-16T03:40:00Z",
-   "headline": "How a 6-digit IRS PIN stops tax refund theft",
-   "caption": "The IRS online tool goes offline in mid-November. Here's why an IP PIN is worth two minutes now.",
-   "scenes": [
-    {
-     "k": "THE THREAT",
-     "t": "Thieves file fake returns with your SSN",
-     "s": "They grab the refund before you file."
-    },
-    {
-     "k": "THE FIX",
-     "t": "An Identity Protection PIN",
-     "s": "A 6-digit code the IRS requires on any return with your number."
-    },
-    {
-     "k": "HOW IT WORKS",
-     "t": "No PIN, no return",
-     "viz": {
-      "type": "flow",
-      "items": [
-       "Return filed",
-       "IRS checks PIN",
-       "Wrong or missing",
-       "Rejected"
-      ]
-     }
-    },
-    {
-     "k": "WHO CAN GET ONE",
-     "t": "Anyone with an SSN or ITIN",
-     "s": "You don't need to be a fraud victim, or even required to file."
-    },
-    {
-     "k": "TIMING",
-     "t": "Online tool pauses mid-Nov to mid-Jan",
-     "s": "Get it now if you file early. It changes every year."
-    },
-    {
-     "k": "YOUR MOVE",
-     "t": "Sign in at IRS.gov and request it",
-     "s": "Then guard your IRS account with a strong password."
-    }
-   ]
-  },
-  {
-   "id": "futures-open-asia-2026111602",
-   "type": "news",
-   "cat": "markets",
-   "tags": [
-    "markets",
-    "ai"
-   ],
-   "date": "Sun Nov 15 night",
-   "ts": "2026-11-16T02:26:00Z",
-   "headline": "Futures tick up as a huge week opens, but Tokyo stocks slip about 1%",
-   "caption": "Nasdaq futures rose about 0.6% Sunday night ahead of Nvidia's report and Anthropic's IPO. Japan's Nikkei fell about 1% after weak GDP.",
-   "visual": {
-    "type": "board",
-    "title": "Sunday night / Monday Asia open",
-    "rows": [
-     {
-      "k": "S&P 500 futures",
-      "s": "near 7,603",
-      "v": "+0.3%",
-      "ch": 0.3,
-      "tone": "gain"
-     },
-     {
-      "k": "Nasdaq 100 futures",
-      "s": "near 28,200",
-      "v": "+0.6%",
-      "ch": 0.6,
-      "tone": "gain"
-     },
-     {
-      "k": "Nikkei 225",
-      "v": "-0.99%",
-      "ch": -0.99,
-      "tone": "loss"
-     },
-     {
-      "k": "Kospi",
-      "v": "-0.33%",
-      "ch": -0.33,
-      "tone": "loss"
-     },
-     {
-      "k": "Yen per dollar",
-      "v": "159.67",
-      "tone": "acc"
-     }
-    ],
-    "foot": "Early quotes; they can change before the US open"
-   },
-   "detail": [
-    "US stock futures opened higher Sunday evening. S&P 500 futures rose about 0.3% and Nasdaq 100 futures about 0.6%. Nvidia reports Tuesday under an interim CEO, and Anthropic is set to price its IPO midweek.",
-    "Asia was weaker. Japan's Nikkei fell about 1% and Korea's Kospi dipped 0.33% after Japan said its economy shrank in the third quarter. The yen sat near 160 per dollar.",
-    "Last week left scars. Nvidia had its worst week since the April 2025 tariff sell-off, losing more than $500 billion in value. October producer prices rose 6.5% from a year earlier, the fastest pace in four years, and traders widely expect a quarter-point Fed hike Dec. 8-9."
-   ],
-   "money": [
-    "Big event weeks bring big swings. If you invest monthly, sticking to your schedule beats guessing the bottom.",
-    "With a Fed hike expected, high-yield savings and short-term Treasury yields may stay attractive for cash you need soon.",
-    "Check how much of your portfolio sits in a few AI names. One earnings report can move them a lot."
-   ],
-   "risk": [
-    "Futures moves overnight often reverse by the open.",
-    "A hot inflation reading on Nov. 25 could add to rate-hike fears."
-   ],
-   "sources": [
-    {
-     "t": "US futures open firmer as Nasdaq leads, oil slips despite Iran tanker claims: 5 things",
-     "d": "investinglive.com",
-     "u": "https://investinglive.com/stocks/us-futures-open-firmer-as-nasdaq-leads-oil-slips-despite-iran-tanker-claims-5-things/"
-    },
-    {
-     "t": "CNBC TV18 market update, Nov. 16, 2026",
-     "d": "tradingview.com",
-     "u": "https://www.tradingview.com/news/cnbctv:665b94606094b:0/"
-    }
-   ]
-  },
-  {
-   "id": "china-oct-slowdown-2026111602",
-   "type": "news",
-   "cat": "world",
-   "tags": [
-    "world",
-    "markets"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T02:26:00Z",
-   "headline": "China's economy cools in October: retail sales grow just 0.4%",
-   "caption": "Chinese shoppers barely spent more than a year ago, and factory growth slowed too. Both numbers missed forecasts as investment kept falling.",
-   "visual": {
-    "type": "board",
-    "title": "China, October data (year over year)",
-    "rows": [
-     {
-      "k": "Retail sales",
-      "s": "forecast 0.8%, Sept. 1.1%",
-      "v": "+0.4%",
-      "tone": "loss"
-     },
-     {
-      "k": "Industrial output",
-      "s": "forecast 5.3%, Sept. 5.5%",
-      "v": "+4.8%",
-      "tone": "loss"
-     },
-     {
-      "k": "Fixed-asset investment",
-      "s": "Jan-Oct; Jan-Sept was -7.2%",
-      "v": "-8.1%",
-      "tone": "loss"
-     }
-    ],
-    "foot": "Source: China's statistics bureau, via news reports"
-   },
-   "detail": [
-    "China's retail sales rose only 0.4% in October from a year earlier, below the roughly 0.8% economists expected and down from 1.1% in September.",
-    "Industrial output grew 4.8%, slower than September's 5.5% and short of a 5.3% forecast. Fixed-asset investment fell 8.1% in the first ten months, a deeper drop than through September. Home prices in big cities fell less sharply than before.",
-    "The data lands days before President Trump meets Xi Jinping at the APEC summit in Shenzhen, where trade and tariffs are on the table."
-   ],
-   "money": [
-    "A weak Chinese consumer can hurt US companies that sell a lot there, like some luxury, auto and chip firms. Check your fund's China exposure.",
-    "Soft demand in China tends to weigh on oil and metals prices, which can help ease costs at the pump over time.",
-    "Weak data often brings Beijing stimulus talk. Chinese stocks can jump on that, but those rallies have often faded."
-   ],
-   "risk": [
-    "Official Chinese data is sometimes questioned by outside economists."
-   ],
-   "sources": [
-    {
-     "t": "China's economy slows in October as retail weakens and investment falls",
-     "d": "dimsumdaily.hk",
-     "u": "https://www.dimsumdaily.hk/chinas-economy-slows-in-october-as-retail-weakens-and-investment-falls/"
-    },
-    {
-     "t": "US futures open firmer as Nasdaq leads, oil slips despite Iran tanker claims: 5 things",
-     "d": "investinglive.com",
-     "u": "https://investinglive.com/stocks/us-futures-open-firmer-as-nasdaq-leads-oil-slips-despite-iran-tanker-claims-5-things/"
-    }
-   ]
-  },
-  {
-   "id": "hormuz-sunday-fire-2026111602",
-   "type": "news",
-   "cat": "world",
-   "tags": [
-    "world",
-    "markets"
-   ],
-   "date": "Sun Nov 15 night",
-   "ts": "2026-11-16T02:26:00Z",
-   "headline": "Iran says another tanker caught fire east of Hormuz; oil still slips",
-   "caption": "Iran's navy claimed a new mine strike Sunday night that Reuters couldn't verify. Brent crude eased to about $95 as markets reopened.",
-   "visual": {
-    "type": "board",
-    "title": "Oil as markets reopen",
-    "rows": [
-     {
-      "k": "Brent crude",
-      "s": "per barrel",
-      "v": "~$95.40",
-      "ch": -0.7,
-      "tone": "loss"
-     },
-     {
-      "k": "WTI crude",
-      "s": "per barrel",
-      "v": "~$88",
-      "tone": "acc"
-     },
-     {
-      "k": "US carrier groups in region",
-      "v": "3",
-      "tone": "acc"
-     }
-    ],
-    "foot": "Iran's tanker claims have not been independently confirmed"
-   },
-   "detail": [
-    "Iranian state media said an oil tanker caught fire Sunday night after hitting a naval mine east of the Strait of Hormuz. Reuters said it could not verify the report. It follows Saturday's claim that two tankers caught fire in the same area.",
-    "Iran's navy has said ships hit were sailing in restricted waters with tracking turned off. It gave no names or flags. The US now has three carrier strike groups in the region.",
-    "Oil barely reacted. Brent slipped about 0.7% to near $95.40 and US crude held near $88, as traders treated the claims with caution."
-   ],
-   "money": [
-    "Oil near $95 still feeds into gas, airfare and shipping costs. Lock in holiday travel prices early if you can.",
-    "If you heat with oil or propane, compare suppliers and ask about fixed-price or budget plans before the cold sets in.",
-    "Energy stocks tend to swing on Middle East headlines. Avoid chasing one-day spikes."
-   ],
-   "risk": [
-    "A confirmed attack on shipping could send prices sharply higher.",
-    "Unverified claims can move markets before facts are clear."
-   ],
-   "sources": [
-    {
-     "t": "Iran's navy says oil tanker on fire after hitting mine east of Hormuz",
-     "d": "arabnews.com",
-     "u": "https://www.arabnews.com/middle-east/irans-navy-says-oil-tanker-on-fire-after-hitting-mine-east-of-hormuz-3012121"
-    },
-    {
-     "t": "2 tankers caught fire after hitting naval mine in Hormuz, Iranian navy says",
-     "d": "middleeastmonitor.com",
-     "u": "https://www.middleeastmonitor.com/20261114-2-tankers-caught-fire-after-hitting-naval-mine-in-hormuz-iranian-navy-says/"
-    },
-    {
-     "t": "US futures open firmer as Nasdaq leads, oil slips despite Iran tanker claims: 5 things",
-     "d": "investinglive.com",
-     "u": "https://investinglive.com/stocks/us-futures-open-firmer-as-nasdaq-leads-oil-slips-despite-iran-tanker-claims-5-things/"
-    }
-   ]
-  },
-  {
-   "id": "china-farm-buys-2026111602",
-   "type": "news",
-   "cat": "world",
-   "tags": [
-    "world",
-    "business",
-    "politics"
-   ],
-   "date": "Sat Nov 14",
-   "ts": "2026-11-16T02:26:00Z",
-   "headline": "China ties more US farm buying to a $60B tariff-cut deal before Trump meets Xi",
-   "caption": "After the first US-China trade council meeting, Beijing called talks constructive. But it wants a $60 billion tariff deal done before it buys more US crops.",
-   "visual": {
-    "type": "stat",
-    "title": "US farm goods China pledged to buy",
-    "num": "$17B",
-    "tone": "acc",
-    "label": "A yearly pledge through 2028, but purchases are lagging.",
-    "facts": [
-     [
-      "Proposed tariff-cut package",
-      "$60B",
-      "not final"
-     ],
-     [
-      "Reciprocal step discussed",
-      "$30B each",
-      "tariff cuts"
-     ],
-     [
-      "Trump-Xi meeting",
-      "Thursday",
-      "APEC, Shenzhen"
-     ]
-    ]
-   },
-   "detail": [
-    "The US and China held their first trade council meeting Friday. China's Commerce Ministry said Saturday the talks were candid and constructive and covered tariff cuts and farm trade. It did not say if anything was agreed.",
-    "A $60 billion package of mutual tariff cuts was proposed after a September summit but is not final. A $30 billion-for-$30 billion step was also discussed. Beijing says the package must be in place before it steps up US farm purchases.",
-    "China agreed to buy $17 billion of US farm goods a year through 2028. A Reuters review of customs data shows non-soybean purchases are on track for a seven-year low. Trump is set to meet Xi on Thursday at APEC."
-   ],
-   "money": [
-    "Tariff cuts on Chinese goods could ease prices on some imports. Big purchases may get cheaper if a deal lands, so watch before buying.",
-    "Farm-state economies and ag equipment makers are sensitive to Chinese buying. That matters if you work in or invest in those areas.",
-    "Trade headlines can swing markets this week. Keep long-term plans steady."
-   ],
-   "risk": [
-    "Talks could stall, and tariffs could stay where they are."
-   ],
-   "sources": [
-    {
-     "t": "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting",
-     "d": "brecorder.com",
-     "u": "https://www.brecorder.com/news/40448985/china-us-discuss-tariffs-farm-trade-ahead-of-xi-trump-meeting"
-    }
-   ]
-  },
-  {
-   "id": "gop-tariff-shift-2026111602",
-   "type": "news",
-   "cat": "politics",
-   "tags": [
-    "politics",
-    "business"
-   ],
-   "date": "Sun Nov 15",
-   "ts": "2026-11-16T02:26:00Z",
-   "headline": "After midterm losses, some Republicans start to question Trump's tariffs",
-   "caption": "Ted Cruz now says tariffs made things too expensive. Democrats plan repeal votes, but they would need many Republicans to beat a veto.",
-   "visual": {
-    "type": "points",
-    "title": "The tariff math in Congress",
-    "items": [
-     "Democrats and allies: 55 Senate, 255 House seats",
-     "Veto override needs 2/3 of each chamber",
-     "That means at least 12 GOP senators and 35 GOP House members",
-     "NY Fed: about 26% of tariff hikes reach consumers",
-     "Two-thirds of voters said tariffs hurt the economy (CNN poll)"
-    ]
-   },
-   "detail": [
-    "After big Democratic midterm wins, some Republicans are shifting tone on tariffs. Sen. Ted Cruz, who voted against all five 2025 repeal resolutions, posted that tariffs have made everything too expensive.",
-    "Hakeem Jeffries, expected to be the next House Speaker, wants tariff repeal in the first 100 days. Sen. Ron Wyden is focusing on the 50% duties on Canadian goods. Trump has called himself 'Mr. Veto,' and the White House says it won't change course.",
-    "Overriding a veto would take two-thirds of both chambers. Some labor-aligned Democrats may resist repealing steel and aluminum tariffs, which unions support."
-   ],
-   "money": [
-    "If tariffs on Canadian goods ease, prices on lumber, autos and other imports could drop over time. Delaying a big purchase may pay off, but nothing is certain.",
-    "Trump has threatened to double tariffs on Canadian cars to 50% on Jan. 1. If you're car shopping, prices could move either way.",
-    "Companies that rely on imports could benefit from repeal. Watch earnings calls for tariff comments."
-   ],
-   "risk": [
-    "A veto could keep tariffs in place for years.",
-    "Court rulings on the tariffs could change things suddenly."
-   ],
-   "sources": [
-    {
-     "t": "Trump's tariffs face a new threat: Republicans",
-     "d": "wxow.com",
-     "u": "https://www.wxow.com/news/national-politics/trump-s-tariffs-face-a-new-threat-republicans/article_44b967a4-7b71-5e81-b339-44fa0ccdcff4.html"
-    }
-   ]
-  },
-  {
-   "id": "thanksgiving-90-2026111602",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business"
-   ],
-   "date": "This week",
-   "ts": "2026-11-16T02:26:00Z",
-   "headline": "Thanksgiving dinner costs about $90 this year; cranberry sauce is up 15%",
-   "caption": "PwC puts a typical family's feast at about $90, up from $88. Turkey and cranberries cost more, but butter and cream got cheaper.",
-   "visual": {
-    "type": "board",
-    "title": "Price changes over 52 weeks (NielsenIQ)",
-    "rows": [
-     {
-      "k": "Cranberry sauce",
-      "v": "+15%",
-      "ch": 15,
-      "tone": "loss"
-     },
-     {
-      "k": "Turkey breast",
-      "v": "+12%",
-      "ch": 12,
-      "tone": "loss"
-     },
-     {
-      "k": "Whole turkey",
-      "v": "~+8%",
-      "ch": 8,
-      "tone": "loss"
-     },
-     {
-      "k": "Butter",
-      "v": "-10%",
-      "ch": -10,
-      "tone": "gain"
-     },
-     {
-      "k": "Cream",
-      "v": "-6%",
-      "ch": -6,
-      "tone": "gain"
-     }
-    ],
-    "foot": "Typical dinner: ~$90 vs $88 in 2025 (PwC)"
-   },
-   "detail": [
-    "A typical American family's Thanksgiving dinner will cost about $90 this year, up from $88 in 2025, according to PwC. NielsenIQ data shows cranberry sauce up 15% and turkey breast up 12%, while butter fell 10%.",
-    "Most hosts are adapting, not cutting back. NielsenIQ found 77% are adjusting their shopping lists. Retailers are pushing meal bundles, like Aldi's party-of-10 package with a 16-pound turkey for under $39 and Kroger's store-brand feast for 10 under $50.",
-    "Overall holiday retail sales are projected to grow 5.5%, but about half of that is higher prices, not more stuff."
-   ],
-   "money": [
-    "Price out a store bundle against buying items one by one. Bundles can come to about $4 per person.",
-    "Ibotta offers new users up to $22.99 cash back on qualifying items, including turkeys, through Nov. 23.",
-    "Stacking new-member coupons on sale prices can save up to 25%, and some grocery rewards convert to gas discounts."
-   ],
-   "risk": [
-    "Bundle deals sell out; supplies are limited."
-   ],
-   "sources": [
-    {
-     "t": "Thanksgiving 2026 Costs More, But Smart Shoppers Are Fighting Back With Deals and Loyalty Programs",
-     "d": "latintimes.com",
-     "u": "https://latintimes.com/thanksgiving-dinner-costs-rise-2026-shopping-deals-601313"
-    }
-   ]
-  },
-  {
-   "id": "starship-catch-2026111602",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business"
-   ],
-   "date": "Sat Nov 14",
-   "ts": "2026-11-16T02:26:00Z",
-   "headline": "SpaceX catches a Starship from orbit for the first time, but loses the booster",
-   "caption": "The tower arms caught Starship after more than 21 hours in orbit and a Starlink deployment. The Super Heavy booster exploded offshore after a glitch.",
-   "visual": {
-    "type": "timeline",
-    "title": "Starship's orbital flight",
-    "items": [
-     {
-      "d": "NOV 13",
-      "t": "Launch from Starbase, 4:47 p.m. CST"
-     },
-     {
-      "d": "NOV 13",
-      "t": "Booster burn cut short",
-      "s": "diverted offshore, exploded"
-     },
-     {
-      "d": "IN ORBIT",
-      "t": "26 Starlink V3 satellites deployed",
-      "s": "21+ hours in space"
-     },
-     {
-      "d": "NOV 14",
-      "t": "Ship caught by tower arms, 3:20 p.m. CST",
-      "now": true
-     }
-    ]
-   },
-   "detail": [
-    "SpaceX caught its Starship upper stage with launch-tower arms on Saturday after an orbital flight, a first for the program. The ship had spent more than 21 hours in orbit and released 26 Starlink V3 satellites.",
-    "The Super Heavy booster did not fare as well. Its boostback burn ended early because of an anomaly, so it was sent to an offshore landing and was seen exploding at splashdown. A double catch of both stages has still not happened.",
-    "SpaceX has caught the booster on three earlier flights. Catching the ship too is key to its plan to reuse the whole rocket and cut launch costs."
-   ],
-   "money": [
-    "Cheaper launches could, over time, lower costs for satellite internet like Starlink. Compare plans if you're in a rural area.",
-    "If you own SpaceX shares or space funds, test flights can move prices. Size those bets so a failure won't hurt.",
-    "Space hype draws scams. Be wary of pitches for 'pre-IPO' space shares or crypto tokens."
-   ],
-   "risk": [
-    "The booster loss shows the system is still being tested.",
-    "Reuse savings are still a projection, not proven at scale."
-   ],
-   "sources": [
-    {
-     "t": "SpaceX Catches Starship In Landing After Orbital Flight for First Time",
-     "d": "satellitetoday.com",
-     "u": "https://www.satellitetoday.com/launch/2026/11/15/spacex-catches-starship-in-landing-after-orbital-flight-for-first-time/"
-    }
-   ]
-  },
-  {
-   "id": "aca-dec15-2026111602",
-   "type": "news",
-   "cat": "benefits",
-   "tags": [
-    "benefits",
-    "taxes",
-    "politics"
-   ],
-   "date": "Sun Nov 15",
-   "ts": "2026-11-16T02:26:00Z",
-   "headline": "ACA shoppers: enroll by Dec. 15 for Jan. 1, and don't wait for a subsidy fix",
-   "caption": "The new Congress isn't sworn in until Jan. 3, so it can't restore bigger ACA subsidies before the deadline. The 400% income cutoff is back for 2027.",
-   "visual": {
-    "type": "timeline",
-    "title": "Key ACA dates",
-    "items": [
-     {
-      "d": "NOW",
-      "t": "Open enrollment underway",
-      "now": true
-     },
-     {
-      "d": "DEC 15",
-      "t": "Enroll for coverage starting Jan. 1"
-     },
-     {
-      "d": "JAN 3",
-      "t": "New Congress sworn in"
-     },
-     {
-      "d": "JAN 15",
-      "t": "Enroll for coverage starting Feb. 1",
-      "s": "HealthCare.gov; some states differ"
-     }
-    ]
-   },
-   "detail": [
-    "The extra ACA premium tax credits from 2021 to 2025 expired at the end of 2025. For 2027, the old rules apply, including an income cutoff at 400% of the poverty line. For a single person in the lower 48 states, that is $63,840.",
-    "Shoppers on HealthCare.gov have until Dec. 15 to pick a plan for Jan. 1. Enrolling by Jan. 15 gets coverage from Feb. 1. Some state marketplaces use other dates.",
-    "House Democrats call restoring the subsidies an early priority, but the new Congress starts Jan. 3. Passage would need 60 Senate votes, and no bill text exists yet. Nothing says a fix would be retroactive."
-   ],
-   "money": [
-    "Don't count on a later fix. Pick a plan you can afford at today's prices.",
-    "If your income is near the cutoff, pretax 401(k) or HSA contributions can lower the income the marketplace counts.",
-    "Compare bronze, silver and gold plans on total yearly cost, not just the monthly premium."
-   ],
-   "risk": [
-    "Missing Dec. 15 can leave a gap in coverage.",
-    "Underestimating income can mean paying back credits at tax time."
-   ],
-   "sources": [
-    {
-     "t": "ACA Subsidies Deadline: Dec 15 Enrollment Beats New Congress",
-     "d": "polialert.com",
-     "u": "https://www.polialert.com/political-news/aca-subsidies-december-15-deadline-new-congress/"
-    }
-   ]
-  },
-  {
-   "id": "btc-rebound-mon-2026111602",
-   "type": "news",
-   "cat": "crypto",
-   "tags": [
-    "crypto"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T02:26:00Z",
-   "headline": "Bitcoin bounces 4% to about $64,900 after its worst week since June",
-   "caption": "Crypto rebounded early Monday in Asia after a week that started near $74,800. Ether jumped over 5%, but the fear gauge was still at extreme lows.",
-   "visual": {
-    "type": "board",
-    "title": "24-hour moves, Mon. 10:30 a.m. Seoul",
-    "rows": [
-     {
-      "k": "Bitcoin",
-      "v": "$64,873",
-      "ch": 3.98,
-      "tone": "gain"
-     },
-     {
-      "k": "Ether",
-      "v": "$1,812",
-      "ch": 5.27,
-      "tone": "gain"
-     },
-     {
-      "k": "Solana",
-      "v": "$71.36",
-      "ch": 4.06,
-      "tone": "gain"
-     },
-     {
-      "k": "XRP",
-      "v": "$0.959",
-      "ch": 5.23,
-      "tone": "gain"
-     }
-    ],
-    "foot": "Bitcoin opened the week at $74,757"
-   },
-   "detail": [
-    "Bitcoin rose about 4% in 24 hours to roughly $64,870 early Monday in Asia, per CoinMarketCap data. Ether gained 5.3% and XRP 5.2%.",
-    "The bounce follows a brutal week. Bitcoin opened it at $74,757, and holding near $64,800 means a weekly loss of about 13%, the steepest since early June. Over $2 billion in leveraged bets were wiped out in a day, and US bitcoin funds lost about $1.91 billion over seven trading days.",
-    "CME bitcoin futures closed Friday near $68,200, leaving a gap of over 5% when they reopened. Analysts called the rebound a flush of leverage, not yet a trend change."
-   ],
-   "money": [
-    "After a crash, small fixed buys over time can lower your average price without guessing the bottom.",
-    "Skip leverage. Most of last week's losses came from forced selling of borrowed bets.",
-    "If you sold crypto at a loss this year, that loss may offset gains on your 2026 taxes."
-   ],
-   "risk": [
-    "Relief bounces in crypto often fade.",
-    "The yearly low of $57,718 is a level traders watch."
-   ],
-   "sources": [
-    {
-     "t": "Crypto Prices on Nov. 16: BTC Rises 3.98%",
-     "d": "ittimes.com",
-     "u": "https://www.ittimes.com/news/articleView.html?idxno=88015"
-    },
-    {
-     "t": "Bitcoin price: overnight low and the weekly close",
-     "d": "cryptoticker.io",
-     "u": "https://cryptoticker.io/en/bitcoin-price-overnight-low-weekly-close-november-15-2026/"
-    }
-   ]
-  },
-  {
-   "id": "gilroy-ice-datacenter-2026111602",
-   "type": "news",
-   "cat": "california",
-   "tags": [
-    "california",
-    "immigration",
-    "ai"
-   ],
-   "date": "This week",
-   "ts": "2026-11-16T02:26:00Z",
-   "headline": "Gilroy weighs a paused ICE site and a $2B Amazon data center",
-   "caption": "A planned ICE facility near Gilroy is stalled by a court order. A $2 billion Amazon data center nearby is moving ahead, exempt from the city's pause.",
-   "visual": {
-    "type": "deals",
-    "title": "Two big projects in Gilroy",
-    "items": [
-     {
-      "a": "ICE / Elmwood Capital",
-      "b": "Holsclaw Rd. detention site, 20-yr lease",
-      "amt": "$35.2M",
-      "st": "Construction halted by judge",
-      "c": "pend"
-     },
-     {
-      "a": "Amazon",
-      "b": "56-acre data center",
-      "amt": "$2B",
-      "st": "Approved; exempt from moratorium",
-      "c": "ok"
-     }
-    ]
-   },
-   "detail": [
-    "Near Gilroy, south of San Jose, a federal ICE detention site on Holsclaw Road could pay its landlord up to $35.2 million over 20 years, including construction costs. The state and Santa Clara County sued over a missing environmental review, and a judge halted construction.",
-    "ICE estimates about 10 detainees on a typical day, while plans show room for up to 150. The site sits outside city limits, so Gilroy's detention moratorium doesn't cover it.",
-    "Separately, Amazon's reported $2 billion data center on 56 acres was approved by city staff in 2025. It could need up to 98 megawatts of power. The city projects $40 million in revenue over ten years, mostly from an electricity tax, and up to 125 jobs at full buildout."
-   ],
-   "money": [
-    "Data centers can bring local tax money but also pressure on power demand. Watch PG&E rate filings that could affect your bill.",
-    "Big projects can lift nearby land and home values, or raise concerns that weigh on them. Local planning meetings are worth following if you own nearby.",
-    "Construction and operations jobs often go to local contractors. Check postings if you work in the trades."
-   ],
-   "risk": [
-    "Court rulings could restart or end the ICE project.",
-    "Power and water use estimates may change as plans develop."
-   ],
-   "sources": [
-    {
-     "t": "Residents in CA Agricultural Town Face Down ICE Facility and Amazon Data Center",
-     "d": "truthout.org",
-     "u": "https://truthout.org/articles/residents-in-ca-agricultural-town-face-down-ice-facility-and-amazon-data-center/"
-    }
-   ]
-  },
-  {
-   "id": "sa-ice-memo-2026111602",
-   "type": "news",
-   "cat": "immigration",
-   "tags": [
-    "immigration",
-    "states"
-   ],
-   "date": "Fri Nov 13",
-   "ts": "2026-11-16T02:26:00Z",
-   "headline": "San Antonio council members pull a plan to limit police contact with ICE",
-   "caption": "Three council members withdrew a memo seeking a vote on curbing police cooperation with ICE. Two said the wording needs work and they'll bring it back.",
-   "visual": {
-    "type": "timeline",
-    "title": "Texas cities and ICE, after the election",
-    "items": [
-     {
-      "d": "NOV 3",
-      "t": "Election results shift Texas politics"
-     },
-     {
-      "d": "NOV 6",
-      "t": "Houston mayor limits police contact with ICE"
-     },
-     {
-      "d": "NOV 6",
-      "t": "San Antonio memo filed for special meeting"
-     },
-     {
-      "d": "NOV 13",
-      "t": "San Antonio memo withdrawn",
-      "now": true
-     }
-    ]
-   },
-   "detail": [
-    "Three San Antonio council members filed a memo Nov. 6 asking for a special meeting on limiting police cooperation with ICE. On Friday the request was withdrawn. Two of them said the wording needed revision and they plan to bring the issue to the full council.",
-    "The draft would have let police contact ICE only when someone was already jailed on new charges and had an ICE administrative warrant. Suspected immigration status alone would not be enough.",
-    "Houston Mayor John Whitmire issued a similar directive the same day. Texas law requires local cooperation with ICE, and the memo said that could be affected by the election results."
-   ],
-   "money": [
-    "City policy fights can bring lawsuits and state funding threats. Local budgets, and services, can be affected.",
-    "Workers in immigrant-heavy industries like construction and food service may see labor shifts as rules change.",
-    "If you or family face immigration questions, a licensed attorney or accredited representative is worth the cost over notarios."
-   ],
-   "risk": [
-    "State law could override local limits.",
-    "It's unclear when, or if, the plan returns."
-   ],
-   "sources": [
-    {
-     "t": "Councilmembers withdraw request for meeting on SAPD cooperation with ICE",
-     "d": "ksat.com",
-     "u": "https://www.ksat.com/news/local/2026/11/14/councilmembers-withdraw-request-for-meeting-on-sapd-cooperation-with-ice/"
-    },
-    {
-     "t": "Whitmire limits Houston police cooperation with ICE",
-     "d": "axios.com",
-     "u": "https://www.axios.com/local/houston/2026/11/06/houston-mayor-whitmire-executive-order-ice-police"
-    }
-   ]
-  },
-  {
-   "id": "anthropic-compute-2026111602",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "markets"
-   ],
-   "date": "Fri Nov 13",
-   "ts": "2026-11-16T02:26:00Z",
-   "headline": "Amodei calls compute Anthropic's deepest dilemma as its IPO filing shows $900B in deals",
-   "caption": "Anthropic's filing lists $900.9 billion in compute commitments through 2045. Its CEO says it buys cautiously and fills gaps on the spot market.",
-   "visual": {
-    "type": "stat",
-    "title": "Anthropic's compute commitments",
-    "num": "$900.9B",
-    "tone": "acc",
-    "label": "Long-term compute deals listed in its IPO filing, running through 2045.",
-    "facts": [
-     [
-      "Due before 2030",
-      "$451.6B",
-      "about half"
-     ],
-     [
-      "Due by Sept. 30, 2027",
-      "$70.7B",
-      "near term"
-     ],
-     [
-      "Compute as share of revenue",
-      "48%",
-      "one 2026 quarter"
-     ]
-    ]
-   },
-   "detail": [
-    "Speaking with JPMorgan's Jamie Dimon, Anthropic CEO Dario Amodei said buying computing power is the company's deepest business dilemma. He said Anthropic plans conservatively, around a low-growth case, and covers extra demand on the spot market.",
-    "Anthropic's IPO filing lists $900.9 billion in long-term compute commitments through 2045. About $451.6 billion falls before 2030, and $70.7 billion is due by September 2027. Compute costs hit 48% of revenue in one 2026 quarter, per Bloomberg's reporting.",
-    "The IPO is expected to price Wednesday at $70 to $78 a share and start trading Thursday, valuing the company at up to $1.4 trillion."
-   ],
-   "money": [
-    "Read the risk section of any IPO before buying. Big fixed costs like these can squeeze profits if growth slows.",
-    "If you want AI exposure without one stock, broad index funds will likely add Anthropic over time.",
-    "First-day IPO pops are common but not guaranteed. Set a price limit if you place an order."
-   ],
-   "risk": [
-    "Falling AI demand could leave costly commitments.",
-    "Figures come via AI Weekly's summary of Bloomberg's report."
-   ],
-   "sources": [
-    {
-     "t": "Amodei calls compute Anthropic's 'deepest business dilemma'",
-     "d": "aiweekly.co",
-     "u": "https://aiweekly.co/alerts/amodei-calls-compute-anthropics-deepest-business-dilemma"
-    }
-   ]
-  },
-  {
-   "id": "nvidia-vc-gap-2026111602",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "business"
-   ],
-   "date": "Fri Nov 13",
-   "ts": "2026-11-16T02:26:00Z",
-   "headline": "VCs fear Huang's exit leaves a hole in AI startup funding",
-   "caption": "Nvidia joined 105 funding rounds this year, often as the top investor. Investors expect interim CEO Colette Kress to write fewer and smaller checks.",
-   "visual": {
-    "type": "points",
-    "title": "Nvidia as AI's backer",
-    "items": [
-     "105 funding rounds joined in 2026 (PitchBook)",
-     "Often about half of GPU money for infra startups",
-     "$800M check into Reflection AI's $2B round",
-     "$13B Hugging Face deal, set to close in 2027",
-     "Kress seen as 'much more conservative'"
-    ]
-   },
-   "detail": [
-    "Nvidia joined 105 startup funding rounds this year, often as the largest investor, according to PitchBook. Infrastructure startups needing $100 million to $500 million for chips often raised about half from Nvidia at valuations of $1 billion or more.",
-    "VCs and founders told TechCrunch that Jensen Huang's departure could change that. Interim CEO Colette Kress is expected to be pickier with new bets and write smaller follow-on checks, which could push valuations down.",
-    "Neoclouds like CoreWeave, Crusoe and Lambda, open-model makers like Mistral and Reflection AI, and European AI startups lean most on Nvidia's support."
-   ],
-   "money": [
-    "If you hold neocloud or AI infrastructure stocks, a funding slowdown could hit them. Review how concentrated you are.",
-    "Job seekers at AI startups should ask about runway. Less Nvidia money may mean tighter budgets.",
-    "Lower startup valuations can ripple into AI-themed funds. Check what your ETFs actually own."
-   ],
-   "risk": [
-    "Nvidia's board hasn't announced any policy change.",
-    "A new permanent CEO could change direction again."
-   ],
-   "sources": [
-    {
-     "t": "Jensen Huang's departure blasts big hole in AI startup funding, VCs and founders say",
-     "d": "techcrunch.com",
-     "u": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
-    }
-   ]
-  },
-  {
-   "id": "fl-voucher-cap-2026111602",
-   "type": "news",
-   "cat": "states",
-   "tags": [
-    "states",
-    "taxes"
-   ],
-   "date": "Sun Nov 15",
-   "ts": "2026-11-16T02:26:00Z",
-   "headline": "Florida's education chief wants to lift a cap on its $4.5B voucher program",
-   "caption": "Commissioner Henry Mack wants to drop a limit tying vouchers to each district's state funding. Some districts could end up with no required state money.",
-   "visual": {
-    "type": "stat",
-    "title": "Florida school vouchers",
-    "num": "$4.5B",
-    "tone": "acc",
-    "label": "Yearly cost of the nation's largest voucher program.",
-    "facts": [
-     [
-      "Miami-Dade share to vouchers",
-      "$766M",
-      "of $1.5B"
-     ],
-     [
-      "Projected students by 2031",
-      "618,040",
-      "state forecast"
-     ],
-     [
-      "Over original allocation",
-      "$398M",
-      "Auditor General"
-     ]
-    ]
-   },
-   "detail": [
-    "Florida Education Commissioner Henry Mack wants lawmakers to remove a cap that stops vouchers in a district once they exceed 99% of its state funding share. The program costs about $4.5 billion a year.",
-    "In Miami-Dade, $766 million of the district's $1.5 billion state allocation goes to vouchers. Monroe and Charlotte counties top 71%. Without the cap, some districts could get no required state funding, though they'd still get discretionary money.",
-    "The state Auditor General found the program got $398 million more than first allocated. No bill has been filed yet; the 2027 session's meetings start later this month."
-   ],
-   "money": [
-    "Florida families: voucher amounts and eligibility can shift each year. Apply early and keep records of approved expenses.",
-    "Changes in district funding can affect local property tax debates. Watch your school board's budget hearings.",
-    "If you use a voucher, track reimbursement timing so out-of-pocket costs don't pile up."
-   ],
-   "risk": [
-    "Lawmakers may reject or change the plan.",
-    "District budgets could face cuts if funding shifts."
-   ],
-   "sources": [
-    {
-     "t": "Florida school vouchers could expand even more as Education Commissioner pushes to remove cap",
-     "d": "wusf.org",
-     "u": "https://wusf.org/education/2026-11-15/florida-school-vouchers-could-expand-even-more-as-education-commissioner-pushes-to-remove-cap"
-    }
-   ]
-  },
-  {
-   "id": "ballot-tax-2027-2026111602",
-   "type": "news",
-   "cat": "taxes",
-   "tags": [
-    "taxes",
-    "states",
-    "california"
-   ],
-   "date": "This week",
-   "ts": "2026-11-16T02:26:00Z",
-   "headline": "Ballot results that change state taxes in 2027, from Florida to Washington",
-   "caption": "Florida raised its homestead break, North Carolina cut its income tax cap, and Washington kept its millionaire tax. Some results are still unofficial.",
-   "visual": {
-    "type": "board",
-    "title": "State tax ballot results (unofficial)",
-    "rows": [
-     {
-      "k": "Florida Amend. 3",
-      "s": "homestead exemption to $150K in 2027",
-      "v": "Passed",
-      "tone": "gain"
-     },
-     {
-      "k": "N. Carolina",
-      "s": "income tax cap 7% to 3.5%",
-      "v": "Likely passed",
-      "tone": "gain"
-     },
-     {
-      "k": "Iowa Amend. 1",
-      "s": "2/3 vote to raise income tax rates",
-      "v": "Passed",
-      "tone": "gain"
-     },
-     {
-      "k": "Colorado Amend. 87",
-      "s": "top rate 8.4% over $1M",
-      "v": "Narrow pass",
-      "tone": "acc"
-     },
-     {
-      "k": "California Prop 3",
-      "s": "top rates made permanent",
-      "v": "Likely passed",
-      "tone": "acc"
-     },
-     {
-      "k": "Washington I-645",
-      "s": "repeal 9.9% tax over $1M",
-      "v": "Rejected",
-      "tone": "loss"
-     }
-    ],
-    "foot": "Pending certification, per KPMG"
-   },
-   "detail": [
-    "Florida voters raised the non-school homestead exemption to $150,000 in 2027 and $250,000 in 2028, and cut the cap on yearly assessment increases for non-homestead property from 10% to 5%.",
-    "North Carolina voters appear to have lowered the state income tax rate cap from 7% to 3.5%. Iowa now needs a two-thirds legislative vote to raise income tax rates. Colorado's Amendment 87, creating graduated rates up to 8.4% on income over $1 million, appears to have narrowly passed.",
-    "California's Prop 3 appears to make its high-earner rates of 10.3% to 12.3% permanent, while the billionaire wealth tax failed. In Washington, 58% rejected repealing the 9.9% tax on income over $1 million."
-   ],
-   "money": [
-    "Florida homeowners: check that your homestead exemption is filed. The bigger break only helps if it's on record.",
-    "Colorado high earners may want to review 2027 withholding and timing of big income like bonuses or stock sales.",
-    "Moving for taxes? Compare total costs, including property and sales taxes, not just income tax rates."
-   ],
-   "risk": [
-    "Results are unofficial until certified.",
-    "Lawsuits or new laws can change how measures take effect."
-   ],
-   "sources": [
-    {
-     "t": "This Week in State Tax, Nov. 9, 2026",
-     "d": "kpmg.com",
-     "u": "https://kpmg.com/us/en/articles/this-week-in-state-tax/twist-261109.html"
-    }
-   ]
-  },
-  {
-   "id": "il-ad-tax-2026111602",
-   "type": "news",
-   "cat": "taxes",
-   "tags": [
-    "taxes",
-    "states",
-    "business"
-   ],
-   "date": "This week",
-   "ts": "2026-11-16T02:26:00Z",
-   "headline": "Illinois drafts rules for a new 10% tax on targeted ads starting Jan. 1",
-   "caption": "The tax hits companies with over $1 million a year in targeted-ad sales. Public comments on the draft rules are due Nov. 30.",
-   "visual": {
-    "type": "stat",
-    "title": "Illinois targeted advertising tax",
-    "num": "10%",
-    "tone": "acc",
-    "label": "Of gross receipts from targeted ads, once they top $1 million in 12 months.",
-    "facts": [
-     [
-      "Starts",
-      "Jan. 1, 2027",
-      ""
-     ],
-     [
-      "Threshold",
-      "$1M",
-      "in 12 months"
-     ],
-     [
-      "Comments due",
-      "Nov. 30",
-      "on draft rules"
-     ]
-    ]
-   },
-   "detail": [
-    "The Illinois Department of Revenue issued draft rules for its new targeted advertising services tax, which takes effect Jan. 1, 2027.",
-    "The tax is 10% of gross receipts from targeted advertising once a company's receipts top $1 million over 12 months. Comments on the draft rules are due Nov. 30, 2026.",
-    "Taxes like this mainly hit large ad platforms, but businesses that buy ads may feel it if costs get passed along."
-   ],
-   "money": [
-    "Illinois small businesses: budget for possibly higher digital ad prices in 2027.",
-    "Compare ad channels on cost per sale, not just reach, in case online ad rates rise.",
-    "Business owners and trade groups can submit comments by Nov. 30 to shape the rules."
-   ],
-   "risk": [
-    "Final rules may differ from the draft.",
-    "Legal challenges to ad taxes have happened in other states."
-   ],
-   "sources": [
-    {
-     "t": "This Week in State Tax, Nov. 9, 2026",
-     "d": "kpmg.com",
-     "u": "https://kpmg.com/us/en/articles/this-week-in-state-tax/twist-261109.html"
     }
    ]
   }
