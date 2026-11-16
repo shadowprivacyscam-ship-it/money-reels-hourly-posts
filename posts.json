@@ -1,6 +1,746 @@
 {
- "updated": "2026-11-16T12:20:00Z",
+ "updated": "2026-11-16T13:20:00Z",
  "items": [
+  {
+   "id": "tyson-q4-beat-dividend-2026111613",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business",
+    "markets"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T13:20:00Z",
+   "headline": "Tyson edges past estimates and lifts its dividend 2%, but sees 2027 sales falling",
+   "caption": "What's new: Tyson's numbers are out. Adjusted EPS of $0.61 edged past forecasts, beef lost $1.22B for the year, and 2027 sales are guided down 3.5% to 5.5%.",
+   "visual": {
+    "type": "board",
+    "title": "Tyson fiscal Q4 / FY2026",
+    "rows": [
+     {
+      "k": "Q4 sales",
+      "s": "vs. estimates",
+      "v": "$14.59B",
+      "ch": 5.3,
+      "tone": "gain"
+     },
+     {
+      "k": "Adj. EPS",
+      "s": "1 cent above forecasts",
+      "v": "$0.61",
+      "ch": -47,
+      "tone": "loss"
+     },
+     {
+      "k": "Beef, FY26",
+      "s": "operating result",
+      "v": "-$1.22B",
+      "tone": "loss"
+     },
+     {
+      "k": "Chicken, FY26",
+      "s": "operating income",
+      "v": "$1.75B",
+      "tone": "gain"
+     },
+     {
+      "k": "FY27 sales outlook",
+      "v": "-3.5% to -5.5%",
+      "tone": "acc"
+     }
+    ],
+    "foot": "Dividend raised 2%. Shares rose premarket."
+   },
+   "detail": [
+    "Tyson Foods reported fiscal fourth-quarter sales of $14.59 billion, up about 5% from a year ago and roughly $490 million above estimates. Adjusted earnings were $0.61 a share, one cent better than forecasts but down 47% from last year. Without an extra week and legal accruals, sales would have fallen 4%.",
+    "Beef remains the problem. The segment lost about $1.22 billion for the year as volumes fell and cattle costs jumped. Chicken earned about $1.75 billion and prepared foods about $1.33 billion. For 2027, Tyson guides beef between a $300 million loss and $100 million of profit, as cattle supplies are expected to improve.",
+    "The company raised its yearly dividend by 2% and expects $1.7 billion to $2.15 billion in adjusted operating income in 2027. Shares rose in premarket trading."
+   ],
+   "money": [
+    "A dividend payout ratio above 100% means profits don't fully cover the dividend yet; check that before buying for income.",
+    "High beef costs are hitting producers too; at the store, chicken and pork are often the cheaper protein.",
+    "Food stocks often get bought as a defensive move when tech swings; size any position with that in mind."
+   ],
+   "risk": [
+    "Tyson expects lower sales in 2027, and beef could stay in the red."
+   ],
+   "sources": [
+    {
+     "t": "Tyson Foods (TSN) Q4 Earnings Beat Estimates, Raises Dividend by 2%",
+     "d": "gurufocus.com",
+     "u": "https://www.gurufocus.com/news/9201323/tyson-foods-tsn-q4-earnings-beat-estimates-raises-dividend-by-2"
+    },
+    {
+     "t": "Tyson Foods gains as it battles through beef headwinds",
+     "d": "seekingalpha.com",
+     "u": "https://seekingalpha.com/news/4672959-tyson-foods-gains-as-it-battles-through-beef-headwinds?feed_item_type=news"
+    },
+    {
+     "t": "Tyson Foods (TSN) Q4 2026 Earnings: Beef Posts $1.22 Billion",
+     "d": "panabee.com",
+     "u": "https://www.panabee.com/news/tyson-foods-earnings-q4-2026"
+    }
+   ]
+  },
+  {
+   "id": "cnrl-buys-advantage-2026111613",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business",
+    "world"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T13:20:00Z",
+   "headline": "Canadian Natural agrees to buy Advantage Energy for C$2.53B in cash, a 25% premium",
+   "caption": "Canadian Natural Resources will pay C$13.55 a share for gas producer Advantage. The price is above anything Advantage stock has traded at in 18 years.",
+   "visual": {
+    "type": "deals",
+    "title": "Canada gas deal",
+    "items": [
+     {
+      "a": "Canadian Natural",
+      "b": "Advantage Energy",
+      "amt": "C$2.53B",
+      "st": "All cash, C$13.55/share, 25% premium",
+      "c": "pend"
+     }
+    ]
+   },
+   "detail": [
+    "Canadian Natural Resources agreed to buy Advantage Energy for C$13.55 per share in cash. That is a 25% premium to Advantage's Friday close and its 30-day average price. Including debt and convertible notes, the deal is worth about C$2.53 billion.",
+    "Advantage produced about 87,000 barrels of oil equivalent per day in the third quarter, mostly natural gas. Canadian Natural will also cover Advantage's 5% convertible debentures.",
+    "Advantage shareholders vote in January 2027. The deal also needs Canadian competition and Alberta court approval, with closing expected in the first quarter of 2027."
+   ],
+   "money": [
+    "Takeover premiums reward existing holders; buying after the news usually leaves only a small gap to the deal price.",
+    "Energy buyers paying cash for gas reserves signals they expect demand to hold up; gas-heavy funds may benefit.",
+    "If you own the target, compare the deal price with the market price to see how sure traders think the deal is."
+   ],
+   "risk": [
+    "Deals can fail on regulatory or shareholder votes, and the target's stock can drop back."
+   ],
+   "sources": [
+    {
+     "t": "Advantage Announces Agreement to be Acquired by Canadian Natural Resources Ltd.",
+     "d": "newswire.ca",
+     "u": "https://www.newswire.ca/news-releases/advantage-announces-agreement-to-be-acquired-by-canadian-natural-resources-ltd--818939118.html"
+    },
+    {
+     "t": "Canadian Natural Resources Limited Enters into Agreement to Acquire Advantage Energy Ltd.",
+     "d": "boereport.com",
+     "u": "https://boereport.com/2026/11/16/canadian-natural-resources-limited-enters-into-agreement-to-acquire-advantage-energy-ltd/"
+    }
+   ]
+  },
+  {
+   "id": "telkom-jumps-mtn-confirmed-2026111613",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business",
+    "world"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T13:20:00Z",
+   "headline": "Telkom stock jumps 15% to a 52-week high after confirming MTN takeover talks",
+   "caption": "What's new: Telkom confirmed MTN may bid for the whole company, and its shares surged. MTN fell 2.3% as investors weighed the cost.",
+   "visual": {
+    "type": "stat",
+    "title": "Johannesburg, Monday",
+    "num": "+15.1%",
+    "tone": "gain",
+    "label": "Telkom's jump after confirming early talks with MTN.",
+    "facts": [
+     [
+      "Telkom price",
+      "R71.35",
+      "from R62 Friday"
+     ],
+     [
+      "MTN",
+      "-2.3%",
+      "about R10B lost in value"
+     ],
+     [
+      "Gov't stake",
+      "40.5%",
+      "plus 11.1% pension fund"
+     ]
+    ]
+   },
+   "detail": [
+    "South Africa's Telkom confirmed it is in talks that could lead to an offer from MTN for all of its shares. Telkom stock jumped about 15% to R71.35 and hit a 52-week high of R73.30 during the day.",
+    "MTN shares fell 2.3%, cutting nearly R10 billion from its market value. Reports say MTN is weighing a cash offer with an option to take MTN shares. Both firms said talks are early and no deal is certain.",
+    "The government owns 40.5% of Telkom and its employee pension fund holds 11.1%, so together they will likely decide the outcome. Telkom reports interim results on Tuesday."
+   ],
+   "money": [
+    "Stocks often jump on talks alone; much of the potential premium may already be priced in.",
+    "Emerging-market funds may hold both companies; check your fund's top holdings.",
+    "A failed 2022 attempt shows deals between these two can stall; avoid betting big on a final offer."
+   ],
+   "risk": [
+    "If talks collapse, Telkom shares could give back much of Monday's gain."
+   ],
+   "sources": [
+    {
+     "t": "Telkom shares jump 15% as investors bet on an MTN offer",
+     "d": "techcentral.co.za",
+     "u": "https://techcentral.co.za/telkom-shares-jump-mtn-talks/288465/"
+    }
+   ]
+  },
+  {
+   "id": "bxdc-aws-datacenters-5b-2026111613",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "business",
+    "markets"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T13:20:00Z",
+   "headline": "Blackstone REIT buys 75% of 13 AWS data centers for ~$5B; Amazon leases them back",
+   "caption": "Blackstone Digital Infrastructure Trust is buying into two AWS campuses at a 7% starting yield. Amazon keeps 25% and signs leases of up to 32 years.",
+   "visual": {
+    "type": "board",
+    "title": "BXDC's AWS deal",
+    "rows": [
+     {
+      "k": "Price",
+      "v": "~$5B"
+     },
+     {
+      "k": "Stake",
+      "s": "AWS keeps 25%",
+      "v": "75%"
+     },
+     {
+      "k": "Buildings",
+      "s": "two AWS campuses",
+      "v": "13"
+     },
+     {
+      "k": "Starting yield",
+      "s": "cap rate",
+      "v": "7.0%",
+      "tone": "acc"
+     },
+     {
+      "k": "Lease",
+      "s": "triple net",
+      "v": "12-32 yrs"
+     }
+    ],
+    "foot": "Expected to close in Q4 2026"
+   },
+   "detail": [
+    "Blackstone Digital Infrastructure Trust, which trades as BXDC, agreed to buy a 75% stake in two joint ventures with Amazon Web Services. They own 13 newly built data center shells across two AWS campuses. AWS keeps the other 25%.",
+    "AWS leases back 100% of the space on triple-net terms, meaning the tenant pays taxes, insurance and upkeep. The first lease term is 12 years and can stretch to 32 years. The price of about $5 billion works out to a 7.0% initial cap rate.",
+    "The company said the deal puts its IPO money to work. It expects to close in the fourth quarter of 2026."
+   ],
+   "money": [
+    "A 7% cap rate means about $7 of yearly rent income per $100 paid; compare that with a 5.15% 10-year Treasury yield.",
+    "Data center REITs let regular investors own AI buildings for income; look at the tenant and lease length first.",
+    "Sale-leasebacks free up cash for Big Tech; watch whether more AI giants sell buildings to fund chips."
+   ],
+   "risk": [
+    "If AI demand cools, data center values could fall even with long leases.",
+    "REIT prices often drop when interest rates rise."
+   ],
+   "sources": [
+    {
+     "t": "Blackstone Digital Infrastructure Trust press release (Form 8-K exhibit)",
+     "d": "sec.gov",
+     "u": "https://www.sec.gov/Archives/edgar/data/0002100161/000119312526461954/d115778dex991.htm"
+    },
+    {
+     "t": "Blackstone Digital Infrastructure Trust agrees to US$5B deal",
+     "d": "mugglehead.com",
+     "u": "https://mugglehead.com/blackstone-digital-infrastructure-trust-data-centre-acquisition/"
+    }
+   ]
+  },
+  {
+   "id": "faa-router-cause-50b-2026111613",
+   "type": "news",
+   "cat": "politics",
+   "tags": [
+    "politics",
+    "business"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T13:20:00Z",
+   "headline": "FAA outage traced to a router chain reaction; Duffy now wants $50B for air traffic control",
+   "caption": "What's new: investigators say an Arkansas router swap set off a Texas router that flooded the network. Flights were mostly back Monday, with 284 cancellations by 7 a.m. ET.",
+   "visual": {
+    "type": "board",
+    "title": "Flight meltdown tally",
+    "rows": [
+     {
+      "k": "Canceled since Fri",
+      "v": "18,520",
+      "tone": "loss"
+     },
+     {
+      "k": "Delayed since Fri",
+      "v": "28,300+",
+      "tone": "loss"
+     },
+     {
+      "k": "Mon cancels, 7am ET",
+      "s": "American had 157",
+      "v": "284",
+      "tone": "acc"
+     },
+     {
+      "k": "Duffy's ask",
+      "s": "was $30B",
+      "v": "$50B"
+     },
+     {
+      "k": "Approved last year",
+      "v": "$12.5B"
+     }
+    ]
+   },
+   "detail": [
+    "Investigators are looking at network gear at FAA sites in El Dorado, Arkansas, and Amarillo, Texas. Replacing a router in Arkansas reportedly triggered a newly replaced router in Texas to send out too much data, which overwhelmed routers at other control centers. The FAA turned off that broadcast feature on about 60 more routers.",
+    "Transportation Secretary Sean Duffy said there is no sign of a cyberattack. He raised his request to modernize air traffic control to $50 billion, up from $30 billion. Congress approved $12.5 billion last year. Contractor L3Harris worked on the upgrades.",
+    "As of 7 a.m. ET Monday, FlightAware showed 284 canceled and 954 delayed U.S. flights. Since Friday, more than 18,500 flights were canceled."
+   ],
+   "money": [
+    "If your flight was canceled, U.S. rules generally entitle you to a cash refund if you decline rebooking; ask for it.",
+    "Before Thanksgiving, book nonstop flights where you can; fewer connections means fewer chances to get stranded.",
+    "Credit cards with trip-delay coverage can repay hotel and meal costs; check your card's benefits page."
+   ],
+   "risk": [
+    "The exact cause isn't confirmed, so more outages are possible during the busy holiday travel season."
+   ],
+   "sources": [
+    {
+     "t": "Monday air travel faces key test after FAA ground stop as possible cause emerges",
+     "d": "foxbusiness.com",
+     "u": "https://www.foxbusiness.com/fox-news-air-space/monday-air-travel-faces-key-test-faa-ground-stop-possible-cause-emerges"
+    },
+    {
+     "t": "Air travel, flights normalize after ground stop caused weekend disruption",
+     "d": "nbcnews.com",
+     "u": "https://www.nbcnews.com/news/us-news/flights-air-traffic-delays-groundstop-faa-duffy-rcna609545"
+    }
+   ]
+  },
+  {
+   "id": "btc-below-200-week-avg-2026111613",
+   "type": "news",
+   "cat": "crypto",
+   "tags": [
+    "crypto",
+    "markets"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T13:20:00Z",
+   "headline": "Bitcoin slips below its 200-week average near $68,200; ETFs have lost $2.1B in November",
+   "caption": "Bitcoin traded near $64,500 Monday, about $3,700 under a long-term line many traders watch. Ether sits about $750 under its own 200-week average.",
+   "visual": {
+    "type": "board",
+    "title": "Crypto vs. long-term trend",
+    "rows": [
+     {
+      "k": "Bitcoin",
+      "s": "200-wk avg $68,184",
+      "v": "$64,466",
+      "ch": -5.5,
+      "tone": "loss"
+     },
+     {
+      "k": "Ether",
+      "s": "200-wk avg $2,560",
+      "v": "$1,809",
+      "ch": -29.3,
+      "tone": "loss"
+     },
+     {
+      "k": "BTC ETF flows, Nov",
+      "s": "7 straight days out",
+      "v": "-$2.1B",
+      "tone": "loss"
+     },
+     {
+      "k": "Daily RSI",
+      "s": "under 30 = oversold",
+      "v": "24.3",
+      "tone": "acc"
+     }
+    ],
+    "foot": "Prices early Monday ET"
+   },
+   "detail": [
+    "Bitcoin was near $64,500 early Monday, about 7% below Friday morning and roughly $3,700 below its 200-week moving average of about $68,184. Many long-term traders treat that average as a floor. It hit a weekend low near $62,000.",
+    "Ether was around $1,809, far under its 200-week average of about $2,560, after a weekend low near $1,715. Bitcoin ETFs have seen about $2.1 billion in outflows in November, with a seven-day losing streak.",
+    "Momentum gauges show bitcoin as oversold, and the Fear and Greed Index reads extreme fear. Total crypto market value is about $2.18 trillion."
+   ],
+   "money": [
+    "If you buy crypto, small fixed buys over time can cut the risk of going all-in at the wrong moment.",
+    "Selling at a loss in a taxable account can offset other gains; ask a tax pro how it works for crypto.",
+    "Keep crypto to a slice of your money you can afford to see fall a lot more."
+   ],
+   "risk": [
+    "Breaking a long-term average can trigger more selling.",
+    "Oversold readings can stay oversold for weeks."
+   ],
+   "sources": [
+    {
+     "t": "The Day That Crypto Died: Bitcoin Breaks Its 200-Week SMA",
+     "d": "cestriancapitalresearch.com",
+     "u": "https://cestriancapitalresearch.com/the-day-that-crypto-died-cestrian-daily-market-review-monday-16-november"
+    },
+    {
+     "t": "Bitcoin Price Analysis on November 16, 2026",
+     "d": "cryptonomist.ch",
+     "u": "https://en.cryptonomist.ch/2026/11/16/bitcoin-price-faces-1b-november-etf-outflows-november-16-2026/"
+    }
+   ]
+  },
+  {
+   "id": "dems-100-day-health-snap-2026111613",
+   "type": "news",
+   "cat": "politics",
+   "tags": [
+    "politics",
+    "benefits"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T13:20:00Z",
+   "headline": "Democrats' 100-day plan: undo Medicaid cuts, extend ACA credits, restore SNAP. Who pays?",
+   "caption": "Jeffries wants to reverse Medicaid cuts and extend ACA tax credits early next year. Proposed taxes on millionaires and buybacks would cover ACA credits, but not the Medicaid reversal.",
+   "visual": {
+    "type": "board",
+    "title": "The price tags (CBO, 10 years)",
+    "rows": [
+     {
+      "k": "Medicaid cuts in GOP law",
+      "s": "~13M fewer enrolled",
+      "v": "$1.2T"
+     },
+     {
+      "k": "Permanent ACA credits",
+      "s": "3.8M more insured",
+      "v": "$350B",
+      "tone": "acc"
+     },
+     {
+      "k": "Millionaire surtax",
+      "s": "Van Hollen-Kelly",
+      "v": "+$264B",
+      "tone": "gain"
+     },
+     {
+      "k": "Buyback tax 1%→4%",
+      "s": "Wyden-Warren",
+      "v": "+$242-300B",
+      "tone": "gain"
+     }
+    ]
+   },
+   "detail": [
+    "After winning the midterms, House Democratic leader Hakeem Jeffries is calling for reversing Medicaid cuts within the first 100 days, extending Affordable Care Act tax credits and restoring SNAP funding. The CBO estimates the Republican law trims federal Medicaid spending by about $1.2 trillion through 2035, with about 13 million fewer people covered.",
+    "Making the larger ACA credits permanent would add about $350 billion to deficits over 10 years and help about 3.8 million more people get insurance, per the CBO. Other ideas include adding dental, vision and hearing to Medicare.",
+    "Proposed pay-fors include a surtax on incomes over $1 million, about $264 billion, and raising the stock buyback tax from 1% to 4%, about $242 billion to $300 billion. Critics, including the Cato Institute, doubt the plan adds up, and Trump could veto it."
+   ],
+   "money": [
+    "If you buy ACA coverage, enroll by Dec. 15 at today's prices; don't count on a subsidy fix arriving in time.",
+    "On Medicaid or SNAP? Keep your income and work records current so you don't lose benefits on paperwork.",
+    "A buyback tax hike could nudge companies toward dividends; income investors may want to watch."
+   ],
+   "risk": [
+    "None of this is law; a Trump veto or Senate math could block it.",
+    "Plans could change a lot before the new Congress starts."
+   ],
+   "sources": [
+    {
+     "t": "Democrats push Medicaid, ACA tax credits and SNAP in their agenda",
+     "d": "foxnews.com",
+     "u": "https://foxnews.com/politics/democrats-plot-massive-spending-spree-after-midterm-rout-trump-could-help-them-pull-off"
+    }
+   ]
+  },
+  {
+   "id": "iran-drones-bahrain-base-2026111613",
+   "type": "news",
+   "cat": "world",
+   "tags": [
+    "world",
+    "markets"
+   ],
+   "date": "Sun Nov 15",
+   "ts": "2026-11-16T13:20:00Z",
+   "headline": "Iran says it sent drones at a US-used base in Bahrain; Bahrain says it shot them down",
+   "caption": "Bahrain issued its first nationwide alerts since September. Oil stayed calm, with Brent near $94 to $96 as Hormuz traffic recovers.",
+   "visual": {
+    "type": "timeline",
+    "title": "Gulf weekend",
+    "items": [
+     {
+      "d": "NOV 15",
+      "t": "Bahrain sounds nationwide alerts",
+      "s": "First since September"
+     },
+     {
+      "d": "NOV 15",
+      "t": "IRGC: six drones aimed at Al Rifaa base radar",
+      "s": "Bahrain says attacks intercepted"
+     },
+     {
+      "d": "NOV 15",
+      "t": "Saudi Arabia downs Houthi missiles near Riyadh"
+     },
+     {
+      "d": "NOV 16",
+      "t": "Brent near $94-96",
+      "s": "IEA sees a supply surplus",
+      "now": true
+     }
+    ]
+   },
+   "detail": [
+    "Iran's Revolutionary Guard said it launched six drones at US air defense radar at the Al Rifaa helicopter base in Bahrain. It called the attack payback for US actions. Bahrain's military said it intercepted and destroyed several Iranian attacks. No damage or injuries were reported, and the US did not confirm a hit.",
+    "It was Bahrain's first nationwide alert since September and Iran's first strike on a Gulf state in weeks. Bahrain hosts the US Navy's Fifth Fleet. Saudi Arabia also said it intercepted two Houthi missiles aimed at Riyadh.",
+    "Oil barely reacted. Brent hovered between about $94 and $96 Monday as Hormuz shipping nears prewar levels and the IEA says supply now tops demand."
+   ],
+   "money": [
+    "Oil has held steady despite new attacks; gas prices could keep easing if supply stays strong.",
+    "Energy stocks can drop when oil glut fears grow; check how much of your portfolio sits in energy.",
+    "Geopolitical flare-ups can spark short swings; avoid panic selling on a single headline."
+   ],
+   "risk": [
+    "A wider Gulf conflict could send oil and gas prices back up fast."
+   ],
+   "sources": [
+    {
+     "t": "Bahrain intercepts Iranian attacks after first nationwide alert in months",
+     "d": "thenationalnews.com",
+     "u": "https://www.thenationalnews.com/news/gulf/2026/11/15/bahrain-issues-first-nationwide-alert-in-months-as-iran-claims-attack-on-base-hosting-us-helicopters/"
+    },
+    {
+     "t": "Iran claims drone attack on US military airbase in Bahrain",
+     "d": "france24.com",
+     "u": "https://www.france24.com/en/middle-east/20261115-iran-claims-attack-on-us-military-airbase-in-bahrain"
+    },
+    {
+     "t": "Stock market today: Dow, S&P 500, Nasdaq futures slip ahead of pivotal week for AI",
+     "d": "finance.yahoo.com",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html"
+    }
+   ]
+  },
+  {
+   "id": "ss-payments-nov18-2026111613",
+   "type": "news",
+   "cat": "benefits",
+   "tags": [
+    "benefits"
+   ],
+   "date": "Wed Nov 18",
+   "ts": "2026-11-16T13:20:00Z",
+   "headline": "Social Security pays Wed. for birthdays on the 11th-20th; the 3.6% raise starts in January",
+   "caption": "The Nov. 18 payments go to retirees born between the 11th and 20th. The 2027 COLA adds about $76 a month for the average retiree, starting with January checks.",
+   "visual": {
+    "type": "board",
+    "title": "Social Security, November",
+    "rows": [
+     {
+      "k": "Nov 18",
+      "s": "birthdays 11th-20th",
+      "v": "Paid",
+      "tone": "acc"
+     },
+     {
+      "k": "Nov 25",
+      "s": "birthdays 21st-31st",
+      "v": "Next"
+     },
+     {
+      "k": "Max at age 70",
+      "v": "$5,181"
+     },
+     {
+      "k": "Avg retiree",
+      "s": "after 3.6% COLA",
+      "v": "$2,094 → $2,170",
+      "tone": "gain"
+     }
+    ]
+   },
+   "detail": [
+    "Social Security's Wednesday, Nov. 18 payment goes to retirement beneficiaries born between the 11th and 20th of the month. Those born on the 21st to 31st get paid Nov. 25. People who began benefits before May 1997, or who also get SSI, are usually paid on the 3rd.",
+    "The top 2026 monthly benefit is $5,181 for someone who claimed at 70 after maxing out taxable earnings. It is $4,152 at full retirement age and $2,969 at 62.",
+    "The 3.6% cost-of-living raise is not in these checks. It shows up in January for nearly 72 million beneficiaries and Dec. 31 for about 7.3 million SSI recipients. For the average retiree, that's about $76 more a month."
+   ],
+   "money": [
+    "Don't budget the raise until January; November and December checks stay at 2026 amounts.",
+    "Check your my Social Security account for your exact 2027 amount, including any Medicare Part B change.",
+    "If a payment is late, wait three mail days before calling SSA, then contact them."
+   ],
+   "risk": [
+    "Higher Medicare Part B premiums could eat into the raise for some people."
+   ],
+   "sources": [
+    {
+     "t": "Social Security Payments Up to $5,181 Set To Arrive This Week",
+     "d": "newsweek.com",
+     "u": "https://newsweek.com/social-security-payments-up-to-5181-set-to-arrive-this-week-12718945"
+    }
+   ]
+  },
+  {
+   "id": "edu-cap-rate-2026111613",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "business",
+    "ai"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-16T13:20:00Z",
+   "headline": "Cap rate: how a $5B data center deal is priced",
+   "caption": "Blackstone's data center trust paid a 7% cap rate for AWS buildings. Here's what that number means for anyone weighing real estate income.",
+   "scenes": [
+    {
+     "k": "Today's news",
+     "t": "$5B for 13 AWS data centers",
+     "s": "Blackstone's trust bought 75% at a 7.0% cap rate."
+    },
+    {
+     "k": "The basics",
+     "t": "Cap rate = yearly income ÷ price",
+     "s": "It shows how much rent a property earns for each dollar paid."
+    },
+    {
+     "k": "The math",
+     "t": "7% means about $7 per $100",
+     "viz": {
+      "type": "split",
+      "items": [
+       [
+        "Price",
+        "$100"
+       ],
+       [
+        "Yearly net rent",
+        "$7"
+       ],
+       [
+        "Cap rate",
+        "7%",
+        "wide"
+       ]
+      ]
+     },
+     "say": "Pay one hundred dollars, collect about seven dollars of net rent a year. That's a seven percent cap rate."
+    },
+    {
+     "k": "Compare it",
+     "t": "Stack it against safe yields",
+     "s": "The 10-year Treasury pays about 5.15%. The extra 1.85 points pays for the risk."
+    },
+    {
+     "k": "What matters",
+     "t": "Tenant and lease length",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "Who pays rent",
+       "How long the lease",
+       "Who pays costs",
+       "What rates do"
+      ]
+     }
+    },
+    {
+     "k": "Takeaway",
+     "t": "Higher cap rate, higher risk",
+     "s": "A rich yield can mean a shaky tenant. Check the lease before chasing it."
+    }
+   ]
+  },
+  {
+   "id": "edu-200-week-average-2026111613",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "crypto",
+    "markets"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-16T13:20:00Z",
+   "headline": "The 200-week average: why bitcoin breaking it matters",
+   "caption": "Bitcoin just fell below its 200-week moving average. Here's what that line is and how to use it without overreacting.",
+   "scenes": [
+    {
+     "k": "Today's news",
+     "t": "Bitcoin dips under its 200-week line",
+     "s": "About $64,500 vs. an average near $68,200."
+    },
+    {
+     "k": "The basics",
+     "t": "An average of four years of prices",
+     "s": "Add up 200 weekly closes and divide by 200. It moves slowly."
+    },
+    {
+     "k": "Why traders care",
+     "t": "It often acted as a floor",
+     "s": "In past crashes, bitcoin rarely stayed below it for long."
+    },
+    {
+     "k": "How it works",
+     "t": "Break, test, then decide",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "Price falls below",
+       "Sellers pile on",
+       "Price retests line",
+       "Reclaim or reject"
+      ]
+     }
+    },
+    {
+     "k": "Steady buying",
+     "t": "Spread buys over time",
+     "viz": {
+      "type": "dca",
+      "cols": [
+       [
+        50,
+        "$68K"
+       ],
+       [
+        42,
+        "$64K"
+       ],
+       [
+        35,
+        "$60K"
+       ],
+       [
+        48,
+        "$66K"
+       ]
+      ]
+     },
+     "say": "Buying the same dollar amount at sixty-eight, sixty-four, sixty, and sixty-six thousand averages out your cost."
+    },
+    {
+     "k": "Takeaway",
+     "t": "A signal, not a guarantee",
+     "s": "Lines on a chart guide risk. They don't predict the bottom."
+    }
+   ]
+  },
   {
    "id": "huang-return-campaign-2026111612",
    "type": "news",
@@ -11646,656 +12386,6 @@
      "t": "Meta's 'Rapture' payout in February could let some veteran staff retire early",
      "d": "startupfortune.com",
      "u": "https://startupfortune.com/metas-rapture-payout-in-february-could-let-some-veteran-staff-retire-early"
-    }
-   ]
-  },
-  {
-   "id": "thin-file-denials-2026111523",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business",
-    "markets"
-   ],
-   "date": "Sun Nov 15",
-   "ts": "2026-11-15T23:18:00Z",
-   "headline": "Debt-free and earning six figures, but denied credit: the thin-file problem",
-   "caption": "Card debt hit a record $1.29 trillion, yet some high earners with no debt get rejected. Scoring models reward recent account activity, not income or savings.",
-   "visual": {
-    "type": "stat",
-    "title": "Credit by the numbers",
-    "num": "$1.29T",
-    "tone": "loss",
-    "label": "US credit card balances, up 67% since early 2021 (NY Fed).",
-    "facts": [
-     [
-      "Thin or stale files",
-      "25M adults",
-      "CFPB estimate"
-     ],
-     [
-      "Card debt growth",
-      "+67%",
-      "since early 2021"
-     ],
-     [
-      "What scores watch",
-      "Activity",
-      "not income"
-     ]
-    ]
-   },
-   "detail": [
-    "Fox Business reports that automated lending systems are turning down some people with big salaries, no debt and solid savings. The reason: their credit files are too thin or too old to produce a normal score.",
-    "The CFPB estimates about 25 million adults are in that spot. Credit scores track how you handle borrowed money, so paying cash for everything can leave little to score.",
-    "Experts split on the fix. One camp says keep a card or two with tiny charges paid off monthly. Another says skip debt and build a 3-to-6-month cash cushion."
-   ],
-   "money": [
-    "Put one small recurring bill on a card and pay it in full each month to keep your file active at no cost.",
-    "Don't close your oldest card; account age helps your score.",
-    "A good score can save thousands on a mortgage or car loan through lower rates."
-   ],
-   "risk": [
-    "Carrying a balance costs interest; only use cards you can pay off in full.",
-    "Buy now, pay later loans can lower your average account age."
-   ],
-   "sources": [
-    {
-     "t": "As US credit card debt hits $1.29T, bank algorithms are rejecting debt-free, six-figure earners",
-     "d": "foxbusiness.com",
-     "u": "https://foxbusiness.com/personal-finance/us-credit-card-debt-hits-1-29t-bank-algorithms-rejecting-debt-free-six-figure-earners"
-    }
-   ]
-  },
-  {
-   "id": "montana-flat-tax-2026111523",
-   "type": "news",
-   "cat": "states",
-   "tags": [
-    "states",
-    "taxes"
-   ],
-   "date": "This week",
-   "ts": "2026-11-15T23:18:00Z",
-   "headline": "Montana's governor wants a 4.7% flat income tax and a bigger EITC",
-   "caption": "Gov. Gianforte's next budget would flatten the income tax at 4.7% and lift the state earned income credit to 30% of the federal one. Democrats say the rich gain most.",
-   "visual": {
-    "type": "board",
-    "title": "Gianforte's budget asks",
-    "rows": [
-     {
-      "k": "Income tax",
-      "s": "top rate now ~5.4%",
-      "v": "4.7% flat",
-      "tone": "gain"
-     },
-     {
-      "k": "State EITC",
-      "s": "share of federal credit",
-      "v": "20% → 30%",
-      "tone": "gain"
-     },
-     {
-      "k": "Business equipment exemption",
-      "v": "$1M → $3M",
-      "tone": "acc"
-     },
-     {
-      "k": "Rainy day fund",
-      "s": "after $300M deposit",
-      "v": "$900M",
-      "tone": "acc"
-     },
-     {
-      "k": "State worker bonuses",
-      "s": "one-time",
-      "v": "$14M"
-     }
-    ],
-    "foot": "Proposals for the 2027 Legislature"
-   },
-   "detail": [
-    "Montana Gov. Greg Gianforte released budget priorities for the 2027 legislative session. The plan would move the state to a single 4.7% income tax rate. He says the top rate has already dropped from 6.9% and brackets went from seven to two.",
-    "The state's earned income tax credit for working families would rise from 20% to 30% of the federal credit. Small businesses could exempt up to $3 million of equipment from property tax, up from $1 million.",
-    "The plan also puts $300 million into the rainy day fund and $225 million into state and county roads. Senate Republican leaders back the flat tax; House Democrats oppose it."
-   ],
-   "money": [
-    "Montana workers who get the federal EITC could see a bigger state credit if it passes.",
-    "Business owners with equipment between $1M and $3M could save on property tax.",
-    "Track your state's legislature this winter: tax changes often apply to the next tax year."
-   ],
-   "risk": [
-    "It's a proposal; lawmakers can change or reject it."
-   ],
-   "sources": [
-    {
-     "t": "Governor seeks more tax cuts in budget priorities",
-     "d": "dailymontanan.com",
-     "u": "https://dailymontanan.com/2026/11/12/governor-seeks-more-tax-cuts-in-budget-priorities/"
-    }
-   ]
-  },
-  {
-   "id": "lamb-tariff-tie-2026111523",
-   "type": "news",
-   "cat": "politics",
-   "tags": [
-    "politics",
-    "world",
-    "business"
-   ],
-   "date": "This week",
-   "ts": "2026-11-15T23:18:00Z",
-   "headline": "Tie vote hands Trump the call on tariffs for Australian lamb",
-   "caption": "The US trade commission split evenly on whether imports hurt American sheep farmers. Trump now decides, likely in early 2027.",
-   "visual": {
-    "type": "timeline",
-    "title": "Australian lamb tariff path",
-    "items": [
-     {
-      "d": "JUL",
-      "t": "Trade probe opens",
-      "s": "requested by USTR Greer"
-     },
-     {
-      "d": "NOV 13",
-      "t": "USITC splits 50-50",
-      "now": true
-     },
-     {
-      "d": "DEC 1",
-      "t": "Public remedies hearing"
-     },
-     {
-      "d": "JAN 11",
-      "t": "Report due to Trump"
-     },
-     {
-      "d": "EARLY 2027",
-      "t": "Trump's decision"
-     }
-    ]
-   },
-   "detail": [
-    "The US International Trade Commission deadlocked on whether Australian lamb imports have hurt the US industry. A tie lets President Trump decide whether to add tariffs or other limits.",
-    "Australia shipped over 100,000 tonnes of lamb to the US last year, worth more than $1 billion. Some members of Congress back a bill for a 30% tariff on Australian sheep products. Australia says that would break the free trade deal.",
-    "Australia's ambassador argued that curbs would raise prices for US shoppers."
-   ],
-   "money": [
-    "Lamb prices could climb if a tariff comes; stock the freezer when it's on sale.",
-    "Chicken and pork are usually cheaper protein swaps if lamb prices jump.",
-    "US sheep ranchers could see better prices if imports are limited."
-   ],
-   "risk": [
-    "No decision yet; it could also end with no new tariff."
-   ],
-   "sources": [
-    {
-     "t": "Trump to rule on tariffs for Australian lamb after US trade commissioners disagree",
-     "d": "abc.net.au",
-     "u": "https://abc.net.au/news/2026-11-14/us-trade-investigation-into-lamb-imports-decision-handed-down/107385510"
-    }
-   ]
-  },
-  {
-   "id": "trump-asia-trip-2026111523",
-   "type": "news",
-   "cat": "politics",
-   "tags": [
-    "politics",
-    "world"
-   ],
-   "date": "This week",
-   "ts": "2026-11-15T23:18:00Z",
-   "headline": "Trump heads to Asia: a Thailand trade deal in Manila, then APEC in Shenzhen",
-   "caption": "Trump plans to sign a Thai trade deal and other business deals Tuesday, then attend APEC in China Wednesday. Chip export rules are also on the table.",
-   "visual": {
-    "type": "timeline",
-    "title": "Trump's Asia week",
-    "items": [
-     {
-      "d": "TUE NOV 17",
-      "t": "Manila, Philippines",
-      "s": "Thailand trade deal, Quad leaders meet",
-      "now": true
-     },
-     {
-      "d": "WED NOV 18",
-      "t": "APEC in Shenzhen, China",
-      "s": "trade focus"
-     },
-     {
-      "d": "LATER",
-      "t": "Three-way talk with Xi and Putin",
-      "s": "on nuclear stockpiles"
-     }
-    ]
-   },
-   "detail": [
-    "The AP reports Trump leaves this week for the Philippines, where he'll meet Southeast Asian leaders and the Quad group of Australia, India and Japan. He plans to sign a trade deal with Thailand there. Terms haven't been released.",
-    "He then goes to Shenzhen for the APEC summit, with a focus on trade, ahead of a three-way meeting with Xi Jinping and Vladimir Putin. The White House says a range of business deals will be signed.",
-    "The administration is also weighing closing loopholes that let Chinese firms use advanced US chips. A year ago, a similar trip produced a US-China trade truce."
-   ],
-   "money": [
-    "Trade deals can cut tariffs on imported goods, which may ease prices over time.",
-    "Chip export news often moves Nvidia and other chip stocks; expect swings this week.",
-    "Companies that sell a lot in Asia may get a lift if new deals are announced."
-   ],
-   "risk": [
-    "Deal details are unknown and may be smaller than headlines suggest."
-   ],
-   "sources": [
-    {
-     "t": "Trump heads to Asia with hopes of shifting the momentum after midterm setbacks",
-     "d": "spectrumlocalnews.com",
-     "u": "https://spectrumlocalnews.com/us/snplus/news/2026/11/15/trump-heads-to-asia-with-hopes-of-shifting-the-momentum-after-midterm-setbacks-hurt-him-at-home"
-    }
-   ]
-  },
-  {
-   "id": "student-loan-defaults-2026111523",
-   "type": "news",
-   "cat": "benefits",
-   "tags": [
-    "benefits",
-    "taxes"
-   ],
-   "date": "This week",
-   "ts": "2026-11-15T23:18:00Z",
-   "headline": "9 million student loan borrowers in default could face wage and refund seizures in 2027",
-   "caption": "Defaulted borrowers owe $234 billion, and collections have been paused since January. Experts expect garnishment and tax refund seizures to start next year.",
-   "visual": {
-    "type": "stat",
-    "title": "Student loans in default",
-    "num": "9M+",
-    "tone": "loss",
-    "label": "Borrowers in default, owing a combined $234 billion.",
-    "facts": [
-     [
-      "Total owed",
-      "$234B",
-      "defaulted loans"
-     ],
-     [
-      "Worst states",
-      ">25%",
-      "MS, LA, NM borrowers"
-     ],
-     [
-      "Lowest states",
-      "15%",
-      "MA, NH, UT, WI"
-     ]
-    ]
-   },
-   "detail": [
-    "Stateline reports more than 9 million federal student loan borrowers are in default. Defaults climbed in late 2025 and early 2026 after pandemic relief ended.",
-    "Collections, like taking part of a paycheck or a tax refund, have been paused several times, most recently in January. An industry expert expects them to restart in 2027. The Education Department didn't say when.",
-    "In Mississippi, Louisiana and New Mexico, more than a quarter of borrowers are in default."
-   ],
-   "money": [
-    "Getting out of default before collections restart can protect your tax refund and paycheck.",
-    "Rehabilitation or consolidation can bring a loan back to good standing; ask your servicer which fits.",
-    "Income-driven plans can set payments based on what you earn, sometimes very low."
-   ],
-   "risk": [
-    "Default hurts your credit score and can add collection costs."
-   ],
-   "sources": [
-    {
-     "t": "Collections are coming for millions of student loans in default",
-     "d": "kotatv.com",
-     "u": "https://www.kotatv.com/2026/11/13/collections-are-coming-millions-student-loans-default/"
-    }
-   ]
-  },
-  {
-   "id": "student-loan-pause-push-2026111523",
-   "type": "news",
-   "cat": "politics",
-   "tags": [
-    "politics",
-    "benefits"
-   ],
-   "date": "This week",
-   "ts": "2026-11-15T23:18:00Z",
-   "headline": "After the Democratic sweep, groups press Congress for a student loan pause",
-   "caption": "Nearly 20 groups asked incoming leaders Schumer and Jeffries to pause federal student loan payments. Any pause would still need Trump's signature.",
-   "visual": {
-    "type": "points",
-    "title": "The pause push",
-    "items": [
-     "Nearly 20 groups sent a letter led by the Debt Collective",
-     "Aimed at Sen. Schumer and Rep. Jeffries",
-     "Complaints: interest errors, slow PSLF and IDR processing",
-     "Trump would have to sign it; no veto-proof majority",
-     "Trump paused payments himself in 2020"
-    ]
-   },
-   "detail": [
-    "Forbes reports that advocacy groups wrote to incoming Democratic leaders asking for a pause on federal student loan payments when the new Congress starts in January.",
-    "State student loan watchdogs have flagged interest mistakes by servicers, delays with income-driven repayment and Public Service Loan Forgiveness, and a weak complaint system. Several class-action suits are pending.",
-    "A pause faces long odds. It would need President Trump's signature, and Democrats won't have enough votes to override a veto."
-   ],
-   "money": [
-    "Don't stop paying on hopes of a pause; missed payments can lead to default.",
-    "Check your loan statements for interest errors and file complaints if numbers look wrong.",
-    "If you're pursuing PSLF, keep your own record of qualifying payments and employer forms."
-   ],
-   "risk": [
-    "A pause may never happen."
-   ],
-   "sources": [
-    {
-     "t": "Momentum Builds To Pause Student Loans After Democrats Sweep Elections",
-     "d": "forbes.com",
-     "u": "https://forbes.com/sites/adamminsky/2026/11/12/momentum-builds-to-pause-student-loans-after-democrats-sweep-elections"
-    }
-   ]
-  },
-  {
-   "id": "covered-ca-2027-2026111523",
-   "type": "news",
-   "cat": "california",
-   "tags": [
-    "california",
-    "benefits"
-   ],
-   "date": "Open now",
-   "ts": "2026-11-15T23:18:00Z",
-   "headline": "Covered California: pick a plan by Dec. 31, and state help grows to $300 million",
-   "caption": "1 in 5 enrollees pays $0 a month, and 55% will see no premium rise in 2027. The state boosted its own subsidies, but they can't fully replace lost federal aid.",
-   "visual": {
-    "type": "board",
-    "title": "Covered California 2027",
-    "rows": [
-     {
-      "k": "Pick a plan by",
-      "s": "for coverage Jan 1",
-      "v": "Dec 31",
-      "tone": "acc"
-     },
-     {
-      "k": "Enrollment ends",
-      "v": "Jan 31"
-     },
-     {
-      "k": "State subsidy fund",
-      "s": "up from $190M",
-      "v": "$300M",
-      "tone": "gain"
-     },
-     {
-      "k": "Pay $0 a month",
-      "s": "358,000 people",
-      "v": "20%",
-      "tone": "gain"
-     },
-     {
-      "k": "No 2027 increase",
-      "s": "of enrollees",
-      "v": "55%",
-      "tone": "gain"
-     }
-    ],
-    "foot": "Source: Covered California"
-   },
-   "detail": [
-    "Open enrollment runs through Jan. 31, but you must pick a plan by Dec. 31 to be covered all of 2027. More than 1.7 million Californians are enrolled, and 12 insurers will offer plans.",
-    "The state's own subsidy program grows from $190 million to $300 million in 2027. People earning up to 200% of the poverty line, about $31,920 for one person or $66,000 for a family of four, can get extra help.",
-    "Covered California says that money can't replace the roughly $2.5 billion a year lost when enhanced federal tax credits expired. About 1.1 million uninsured Californians may qualify for low-cost or free coverage."
-   ],
-   "money": [
-    "Shop again even if you're happy; your 2027 price could change, and a cheaper plan may exist.",
-    "If your income is near $31,920 (single), check the extra state help.",
-    "Free enrollment help is available from about 16,000 certified enrollers across the state."
-   ],
-   "risk": [
-    "Picking after Dec. 31 means a gap in coverage in January."
-   ],
-   "sources": [
-    {
-     "t": "Amid Federal Changes, Covered California Continues Its 2027 Open Enrollment Campaign in Sacramento",
-     "d": "coveredca.com",
-     "u": "https://coveredca.com/press-releases/amid-federal-changes-covered-california-continues-its-2027-open-enrollment-sacramento"
-    }
-   ]
-  },
-  {
-   "id": "dhs-grant-conditions-blocked-2026111523",
-   "type": "news",
-   "cat": "immigration",
-   "tags": [
-    "immigration",
-    "states",
-    "california"
-   ],
-   "date": "This week",
-   "ts": "2026-11-15T23:18:00Z",
-   "headline": "Court blocks DHS immigration conditions on safety grants for suing states",
-   "caption": "A Rhode Island federal court barred DHS from tying 2026 public-safety grants to immigration terms for the plaintiff states, including California. It found DHS broke a 2025 order.",
-   "visual": {
-    "type": "points",
-    "title": "What the order does",
-    "items": [
-     "Covers counterterrorism, emergency and cyber grants",
-     "DHS must reissue award letters without the terms",
-     "Court said new terms fell under its 2025 ruling",
-     "Applies only to the states that sued",
-     "California's AG announced the order Nov. 9"
-    ]
-   },
-   "detail": [
-    "A federal court in Rhode Island ruled that the Department of Homeland Security can't enforce immigration-related conditions on its fiscal 2026 grants to the states that sued. The grants fund things like emergency preparedness and cybersecurity.",
-    "The court found the new conditions were covered by a 2025 injunction that applied to future years and similar terms. DHS must reissue award letters without them.",
-    "Grant recipients outside the plaintiff group aren't covered. A separate ruling earlier this month permanently blocked similar Justice Department conditions for other states."
-   ],
-   "money": [
-    "Local agencies in plaintiff states can plan on the grant money arriving without the disputed terms.",
-    "Steady federal grants can ease pressure on local budgets and taxes.",
-    "Watch for an appeal, which could change the timing of payments."
-   ],
-   "risk": [
-    "The administration could appeal."
-   ],
-   "sources": [
-    {
-     "t": "U.S. District Court Blocks DHS FY 2026 Immigration Conditions on Public-Safety Grants",
-     "d": "visaverge.com",
-     "u": "https://www.visaverge.com/immigration/us-district-court-blocks-dhs-fy-2026-immigration-conditions-on-public-safety-grants/"
-    }
-   ]
-  },
-  {
-   "id": "xrp-stablecoin-drain-2026111523",
-   "type": "news",
-   "cat": "crypto",
-   "tags": [
-    "crypto",
-    "markets"
-   ],
-   "date": "Sat Nov 14",
-   "ts": "2026-11-15T23:18:00Z",
-   "headline": "XRP falls below $1 for the first time since 2024 as stablecoin cash drains out",
-   "caption": "XRP hit 89 cents, down 36% this quarter. Stablecoin supply shrank $17 billion in a month, the steepest drop since 2022, a sign money is leaving crypto.",
-   "visual": {
-    "type": "board",
-    "title": "Crypto cash check",
-    "rows": [
-     {
-      "k": "XRP low",
-      "s": "lowest since Nov 2024",
-      "v": "$0.89",
-      "tone": "loss"
-     },
-     {
-      "k": "XRP this quarter",
-      "v": "-36%",
-      "ch": -36,
-      "tone": "loss"
-     },
-     {
-      "k": "XRP ETF outflow",
-      "s": "last week, most since March",
-      "v": "$19.1M",
-      "tone": "loss"
-     },
-     {
-      "k": "USDT + USDC",
-      "s": "peak ~$270B in May",
-      "v": "$244B",
-      "tone": "loss"
-     },
-     {
-      "k": "Stablecoin drop",
-      "s": "past month, Glassnode",
-      "v": "-$17B",
-      "tone": "loss"
-     }
-    ]
-   },
-   "detail": [
-    "XRP slid to 89 cents late Friday, its lowest since November 2024, per CoinDesk. It once traded above $3.60 in July 2025.",
-    "US XRP funds saw $19.13 million leave last week, the most since March. Since launching a year ago they have taken in about $1.5 billion.",
-    "The bigger signal: the combined value of the two largest stablecoins fell to $244 billion, the lowest since September 2025. Stablecoins are the cash traders use to buy crypto, so a shrinking supply means less buying power."
-   ],
-   "money": [
-    "If you hold crypto, decide in advance how much loss you can stand and stick to it.",
-    "Losses on crypto you sell can offset gains elsewhere at tax time.",
-    "Small, regular buys are an option for long-term believers; avoid borrowed money."
-   ],
-   "risk": [
-    "Crypto can keep falling far past what feels like a bottom.",
-    "Leverage can wipe out an account in hours."
-   ],
-   "sources": [
-    {
-     "t": "XRP crashes to its lowest since November 2024 as money leaves crypto",
-     "d": "coindesk.com",
-     "u": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto"
-    },
-    {
-     "t": "Stablecoin Supply Shrinkage Raises a Bigger Question About Crypto Liquidity",
-     "d": "newsbtc.com",
-     "u": "https://www.newsbtc.com/crypto-news/stablecoin-supply-contracts-crypto-liquidity-november-2026"
-    }
-   ]
-  },
-  {
-   "id": "tax-moves-april-2027-2026111523",
-   "type": "news",
-   "cat": "taxes",
-   "tags": [
-    "taxes",
-    "learn"
-   ],
-   "date": "This week",
-   "ts": "2026-11-15T23:18:00Z",
-   "headline": "You still have until April 15, 2027 to cut your 2026 taxes with IRA and HSA money",
-   "caption": "IRA, HSA and self-employed retirement deposits for 2026 can be made until next April. 2027 also brings a new Saver's Match of up to $1,000.",
-   "visual": {
-    "type": "board",
-    "title": "2026 tax-cutting deposits (due Apr 15, 2027)",
-    "rows": [
-     {
-      "k": "Traditional IRA",
-      "s": "$8,600 if 50+",
-      "v": "$7,500"
-     },
-     {
-      "k": "HSA, self-only",
-      "s": "+$1,000 if 55+",
-      "v": "$4,400"
-     },
-     {
-      "k": "HSA, family",
-      "v": "$8,750"
-     },
-     {
-      "k": "SEP / Solo 401(k)",
-      "s": "extension allowed",
-      "v": "Self-employed"
-     },
-     {
-      "k": "New in 2027: Saver's Match",
-      "s": "federal match",
-      "v": "up to $1,000",
-      "tone": "gain"
-     }
-    ]
-   },
-   "detail": [
-    "CPA Practice Advisor notes several moves that can still shrink your 2026 tax bill after the year ends. Deductible traditional IRA contributions are allowed until April 15, 2027, up to $7,500, or $8,600 if you're 50 or older.",
-    "If you had an eligible high-deductible health plan in 2026, you can put money into an HSA until the same date: $4,400 for self-only coverage or $8,750 for family, plus $1,000 more at 55 or older.",
-    "For 2027, the Saver's Credit becomes a Saver's Match, with a federal match of up to 50%, capped at $1,000 per person. The SALT deduction cap also rises about 1%, to roughly $40,804."
-   ],
-   "money": [
-    "An IRA or HSA deposit made before filing can boost your refund for last year.",
-    "HSA money goes in tax-free, grows tax-free and comes out tax-free for medical costs.",
-    "Lower-income savers should watch for the new Saver's Match on 2027 retirement deposits."
-   ],
-   "risk": [
-    "IRA deductions phase out at higher incomes if you have a workplace plan; check the rules before counting on it."
-   ],
-   "sources": [
-    {
-     "t": "Think About Your April 2027 Income Taxes Now",
-     "d": "cpapracticeadvisor.com",
-     "u": "https://cpapracticeadvisor.com/2026/11/14/think-about-your-april-2027-income-taxes-now/193959"
-    }
-   ]
-  },
-  {
-   "id": "edu-student-loan-default-2026111523",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "benefits"
-   ],
-   "date": "Explainer",
-   "ts": "2026-11-15T23:18:00Z",
-   "headline": "Student loan default: what collections take and how to get out",
-   "caption": "Over 9 million borrowers are in default, and collections may resume in 2027. Here's what's at stake and the two main exits.",
-   "scenes": [
-    {
-     "k": "THE NEWS",
-     "t": "9 million borrowers are in default",
-     "s": "Together they owe $234 billion, and collections may restart next year."
-    },
-    {
-     "k": "WHAT DEFAULT IS",
-     "t": "Missed payments for about 9 months",
-     "s": "After roughly 270 days without paying, a federal loan goes into default."
-    },
-    {
-     "k": "WHAT THEY CAN TAKE",
-     "t": "Paychecks, refunds and some benefits",
-     "viz": {
-      "type": "flow",
-      "items": [
-       "Default",
-       "Wage garnishment",
-       "Tax refund seized",
-       "Part of Social Security"
-      ]
-     },
-     "say": "Default can lead to wage garnishment, a seized tax refund, and even part of Social Security benefits."
-    },
-    {
-     "k": "EXIT 1",
-     "t": "Rehabilitation: 9 payments in 10 months",
-     "s": "Payments are based on income, and the default mark comes off your credit report once."
-    },
-    {
-     "k": "EXIT 2",
-     "t": "Consolidation: a new loan, fast",
-     "s": "You roll the old loan into a new Direct Consolidation Loan and choose an income-driven plan."
-    },
-    {
-     "k": "THE MOVE",
-     "t": "Act before collections restart",
-     "s": "Call your loan holder now. Fixing default early can protect next year's tax refund."
     }
    ]
   }
