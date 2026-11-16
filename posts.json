@@ -1,6 +1,709 @@
 {
- "updated": "2026-11-16T09:20:00Z",
+ "updated": "2026-11-16T10:20:00Z",
  "items": [
+  {
+   "id": "baidu-q3-ai-cloud-2026111610",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "markets"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T10:20:00Z",
+   "headline": "Baidu's AI cloud sales jump 94% while search ads sink 22%",
+   "caption": "Baidu's Q3 revenue slipped about 1% to 30.8 billion yuan, in line with forecasts. AI cloud nearly offset the drop in ads.",
+   "visual": {
+    "type": "board",
+    "title": "Baidu Q3 2026",
+    "rows": [
+     {
+      "k": "Total revenue",
+      "s": "in line",
+      "v": "¥30.81B",
+      "ch": -1,
+      "tone": "loss"
+     },
+     {
+      "k": "AI cloud infrastructure",
+      "v": "¥8.2B",
+      "ch": 94,
+      "tone": "gain"
+     },
+     {
+      "k": "AI-linked businesses",
+      "v": "¥13.2B",
+      "ch": 37,
+      "tone": "gain"
+     },
+     {
+      "k": "Online ads",
+      "v": "¥11.9B",
+      "ch": -22,
+      "tone": "loss"
+     },
+     {
+      "k": "Net profit",
+      "s": "vs ¥11.23B loss a year ago",
+      "v": "¥1.4B",
+      "tone": "gain"
+     }
+    ],
+    "foot": "US shares fell 1%+ premarket"
+   },
+   "detail": [
+    "Baidu said third-quarter revenue was 30.81 billion yuan, about $4.62 billion. That is down about 1% from a year ago and matched the average analyst estimate.",
+    "The mix is changing fast. AI cloud infrastructure revenue rose 94% to 8.2 billion yuan, and its wider AI-linked businesses grew 37%. Online ad revenue, Baidu's old core, fell 22% to 11.9 billion yuan.",
+    "Baidu swung to a net profit of 1.4 billion yuan, after an 11.23 billion yuan loss a year earlier. US-listed shares were down more than 1% before the bell."
+   ],
+   "money": [
+    "Watch the mix, not just the total: a company can shrink overall while its growth unit booms.",
+    "AI cloud growth in China shows demand for computing is still strong outside the US.",
+    "If you own China tech funds, check how much depends on ad revenue that is falling."
+   ],
+   "risk": [
+    "Chinese stocks carry policy and US-China trade risk.",
+    "Fast cloud growth often needs heavy spending that can squeeze profit."
+   ],
+   "sources": [
+    {
+     "t": "Baidu third-quarter revenue slips 1%, meets market estimates",
+     "d": "1049thewolf.com",
+     "u": "https://www.1049thewolf.com/2026/11/16/baidu-third-quarter-revenue-slips-1-meets-market-estimates/"
+    },
+    {
+     "t": "Baidu's net profit for the third quarter was 1.4 billion yuan",
+     "d": "techflowpost.com",
+     "u": "https://www.techflowpost.com/en-US/newsletter/144844"
+    },
+    {
+     "t": "Baidu Announces Third Quarter 2026 Results",
+     "d": "manilatimes.net",
+     "u": "https://www.manilatimes.net/2026/11/16/tmt-newswire/pr-newswire/baidu-announces-third-quarter-2026-results/2470623"
+    }
+   ]
+  },
+  {
+   "id": "crypto-stocks-premarket-slide-2026111610",
+   "type": "news",
+   "cat": "crypto",
+   "tags": [
+    "crypto",
+    "markets"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T10:20:00Z",
+   "headline": "Crypto stocks slide before the bell: Strategy -8%, Strive -9% as bitcoin slumps",
+   "caption": "Bitcoin is down 17% in November and on its sixth straight weekly loss. Companies that hold or mine it are falling harder.",
+   "visual": {
+    "type": "stat",
+    "title": "Premarket, Monday",
+    "num": "-17%",
+    "tone": "loss",
+    "label": "Bitcoin's drop so far in November",
+    "rows": [
+     [
+      "Strive (ASST)",
+      -9
+     ],
+     [
+      "Strategy (MSTR)",
+      -8
+     ],
+     [
+      "Cipher Digital",
+      -5
+     ],
+     [
+      "Galaxy Digital",
+      -5
+     ],
+     [
+      "CoreWeave",
+      -5
+     ]
+    ]
+   },
+   "detail": [
+    "Shares tied to bitcoin fell sharply in premarket trading Monday. Strategy, the biggest corporate bitcoin holder, dropped 8%, and Strive fell 9%. Cipher Digital, Galaxy Digital, CoreWeave and IREN were each down about 5%, CoinDesk reported.",
+    "Bitcoin dipped below $62,000 on Saturday, its lowest since July, then climbed back just above $64,000. It is down 17% for November, with six weekly losses in a row. About $2 billion in bets were wiped out in Saturday's drop, Saxo said.",
+    "Strategy will also be removed from MSCI's global standard indexes after the Nov. 30 close, which can force some index funds to sell."
+   ],
+   "money": [
+    "Crypto stocks often move more than bitcoin itself; size positions for that extra swing.",
+    "Index removals can cause forced selling around the effective date; don't be surprised by volume spikes.",
+    "If you want crypto exposure, compare a plain spot ETF with company stocks that add debt and business risk."
+   ],
+   "risk": [
+    "A strong dollar and 5%+ Treasury yields are pressuring risky assets.",
+    "Leveraged holders can face margin calls if prices keep falling."
+   ],
+   "sources": [
+    {
+     "t": "Live news: Bitcoin rebounds above $64,000 as November losses deepen to 17%",
+     "d": "coindesk.com",
+     "u": "https://www.coindesk.com/tech/2026/11/16/live-news-bitcoin-posts-sixth-weekly-loss-as-tech-stocks-and-metals-slide"
+    },
+    {
+     "t": "Market Quick Take - Fed Chair Warsh to speak today - 16 November 2026",
+     "d": "home.saxo",
+     "u": "https://www.home.saxo/en-gb/content/articles/macro/market-quick-take---fed-chair-warsh-to-speak-today---16-november-2026-16112026"
+    }
+   ]
+  },
+  {
+   "id": "dollar-cycle-high-2026111610",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets",
+    "world"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T10:20:00Z",
+   "headline": "The dollar hits new cycle highs; the yen tests 160, where Japan stepped in before",
+   "caption": "The dollar index sits near 103.4 after gaining about 1.1% in five days. The euro and Australian dollar hit fresh lows.",
+   "visual": {
+    "type": "board",
+    "title": "Currency check, Monday",
+    "rows": [
+     {
+      "k": "Dollar index",
+      "s": "5-day",
+      "v": "103.41",
+      "ch": 1.09,
+      "tone": "gain"
+     },
+     {
+      "k": "EUR/USD",
+      "s": "new local low",
+      "v": "1.1012",
+      "tone": "loss"
+     },
+     {
+      "k": "AUD/USD",
+      "s": "lowest since January",
+      "v": "<0.6760",
+      "tone": "loss"
+     },
+     {
+      "k": "USD/JPY",
+      "s": "tested Friday",
+      "v": "160.00",
+      "tone": "acc"
+     },
+     {
+      "k": "US 10-year yield",
+      "s": "up 29 bp in 5 sessions",
+      "v": "5.14%",
+      "tone": "acc"
+     }
+    ],
+    "foot": "Saxo, Rio Times"
+   },
+   "detail": [
+    "The US dollar reached new cycle highs Friday and again in some markets Monday, Saxo said. The euro fell to 1.1012, a new local low, and the Australian dollar slipped under 0.6760, its weakest since January.",
+    "The yen tested 160 per dollar on Friday. That is the level where Japan intervened in early September, so traders are watching for Tokyo to act again.",
+    "Higher US yields are a big driver. The 10-year Treasury yield is about 5.14%, up 29 basis points over five sessions, as markets fully price a Fed rate hike on Dec. 9."
+   ],
+   "money": [
+    "A strong dollar makes foreign trips and imported goods cheaper for Americans.",
+    "Overseas stock funds lose value in dollar terms when foreign currencies fall; check if yours is hedged.",
+    "High-yield savings and short Treasuries pay more as rates rise."
+   ],
+   "risk": [
+    "A sudden Japan intervention can swing currency markets fast.",
+    "A strong dollar can hurt profits at US companies that sell a lot abroad."
+   ],
+   "sources": [
+    {
+     "t": "Market Quick Take - Fed Chair Warsh to speak today - 16 November 2026",
+     "d": "home.saxo",
+     "u": "https://www.home.saxo/en-gb/content/articles/macro/market-quick-take---fed-chair-warsh-to-speak-today---16-november-2026-16112026"
+    },
+    {
+     "t": "US Bond Yield Tops 5% as China Sales Slow",
+     "d": "riotimesonline.com",
+     "u": "https://www.riotimesonline.com/global-economy-briefing-november-16-2026/"
+    }
+   ]
+  },
+  {
+   "id": "data-week-retail-sales-2026111610",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets",
+    "business"
+   ],
+   "date": "This week",
+   "ts": "2026-11-16T10:20:00Z",
+   "headline": "Data week: retail sales seen slowing to 0.2% Tuesday; Fed speakers line up today",
+   "caption": "Shoppers' October spending lands Tuesday, with forecasts far below September's 0.8% jump. Fed minutes follow Wednesday.",
+   "visual": {
+    "type": "timeline",
+    "title": "Economic calendar",
+    "items": [
+     {
+      "d": "NOV 16",
+      "t": "Fed's Williams, Warsh, Hammack speak",
+      "s": "Warsh at 17:00 GMT",
+      "now": true
+     },
+     {
+      "d": "NOV 17",
+      "t": "Retail sales, industrial production",
+      "s": "Forecast +0.2% and +0.1%"
+     },
+     {
+      "d": "NOV 18",
+      "t": "Housing starts, Fed minutes"
+     },
+     {
+      "d": "NOV 19",
+      "t": "Walmart and Intuit earnings"
+     }
+    ]
+   },
+   "detail": [
+    "October retail sales come out Tuesday. Economists expect a 0.2% rise, down from 0.8% in September, with the control group seen up 0.4%. Industrial production is forecast to rise 0.1% after 0.7%.",
+    "Several Fed officials speak Monday, including New York's John Williams, Chair Kevin Warsh and Cleveland's Beth Hammack. Saxo said Warsh is expected to address the sharp jump in rate-hike bets.",
+    "Housing starts and the Fed's meeting minutes arrive Wednesday. Markets more than fully price a quarter-point hike on Dec. 9."
+   ],
+   "money": [
+    "Weak retail sales could ease rate-hike fears, which tends to help bonds and rate-sensitive stocks.",
+    "If you plan a big purchase on credit, rates may rise again in December; lock deals sooner.",
+    "Holiday shoppers: retailers are already discounting, so compare prices now."
+   ],
+   "risk": [
+    "One month of data can be revised a lot later.",
+    "Fed comments can move markets sharply in a single afternoon."
+   ],
+   "sources": [
+    {
+     "t": "US Bond Yield Tops 5% as China Sales Slow",
+     "d": "riotimesonline.com",
+     "u": "https://www.riotimesonline.com/global-economy-briefing-november-16-2026/"
+    },
+    {
+     "t": "Market Quick Take - Fed Chair Warsh to speak today - 16 November 2026",
+     "d": "home.saxo",
+     "u": "https://www.home.saxo/en-gb/content/articles/macro/market-quick-take---fed-chair-warsh-to-speak-today---16-november-2026-16112026"
+    }
+   ]
+  },
+  {
+   "id": "texas-15-min-wage-bill-2026111610",
+   "type": "news",
+   "cat": "states",
+   "tags": [
+    "states",
+    "politics"
+   ],
+   "date": "Fri Nov 13",
+   "ts": "2026-11-16T10:20:00Z",
+   "headline": "Texas Democrats file bills to raise the $7.25 minimum wage to $15",
+   "caption": "House Bill 110 would more than double Texas' pay floor. If passed, it would start Sept. 1, 2027.",
+   "visual": {
+    "type": "vs",
+    "title": "Texas hourly minimum",
+    "a": [
+     "Now",
+     "$7.25",
+     0.48,
+     "acc"
+    ],
+    "b": [
+     "Proposed",
+     "$15.00",
+     1,
+     "gain"
+    ],
+    "foot": "About $310 more a week before taxes for a 40-hour job"
+   },
+   "detail": [
+    "Six Democratic lawmakers filed House Bill 110 and similar measures ahead of Texas' next legislative session. The lead sponsor is state Rep. Ana-María Rodríguez Ramos of Richardson.",
+    "The bills would raise the state minimum to $15 an hour from $7.25, the level set in 2009. A full-time worker would earn about $310 more per week before taxes. The state rate could go higher if the federal minimum ever tops $15.",
+    "The Legislature meets Jan. 12, 2027. No votes have happened yet, and the bills would take effect Sept. 1, 2027, if passed."
+   ],
+   "money": [
+    "Low-wage workers in Texas: track the bill, but don't budget on it until it passes.",
+    "Small employers can model a $15 floor now to plan prices and staffing.",
+    "Workers in other states can compare: many states already pay well above $7.25."
+   ],
+   "risk": [
+    "Passage is uncertain; the bills have only been filed.",
+    "Higher wage floors can lead some employers to cut hours."
+   ],
+   "sources": [
+    {
+     "t": "Texas lawmakers push to more than double $7.25 minimum wage",
+     "d": "yahoo.com",
+     "u": "https://yahoo.com/news/politics/articles/texas-lawmakers-push-more-double-164405147.html"
+    }
+   ]
+  },
+  {
+   "id": "us-china-ai-incident-channel-2026111610",
+   "type": "news",
+   "cat": "world",
+   "tags": [
+    "world",
+    "ai",
+    "politics"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T10:20:00Z",
+   "headline": "US-China AI safety hotline still not running as chip fight shadows Thursday's summit",
+   "caption": "An emergency channel to flag serious AI incidents, discussed in September, isn't working yet. Chip curbs may dominate the Xi-Trump talks.",
+   "visual": {
+    "type": "points",
+    "title": "Shenzhen summit setup",
+    "items": [
+     "Trump and Xi meet Thursday at APEC in Shenzhen",
+     "AI incident alert channel: not yet operational",
+     "No new progress on $30B tariff-cut Board of Trade",
+     "APEC CEO Summit Nov. 17–18, 2,000+ leaders"
+    ]
+   },
+   "detail": [
+    "Reuters reported that the US and China have talked about AI safety, including guarding against misuse. But a planned emergency mechanism to warn each other about serious AI incidents is not yet running.",
+    "Treasury Secretary Scott Bessent said communication rules for AI incidents will be discussed at APEC. Analysts expect possible tighter US limits on advanced chips for China to overshadow the meeting.",
+    "No further progress is expected on a Board of Trade plan to cut tariffs on $30 billion of goods. More than 2,000 business leaders are expected at the APEC CEO Summit."
+   ],
+   "money": [
+    "Chip curbs can move Nvidia, AMD and chip-equipment stocks sharply; check your tech fund exposure.",
+    "Tariff news affects prices of electronics and farm goods; time big imports carefully.",
+    "Expect volatility around Thursday; long-term investors can avoid reacting to headlines."
+   ],
+   "risk": [
+    "Summit outcomes are hard to predict and can shift trade rules quickly."
+   ],
+   "sources": [
+    {
+     "t": "Chip tensions loom over Trump-Xi summit, as US and China push AI safety steps",
+     "d": "yahoo.com",
+     "u": "https://ca.finance.yahoo.com/news/chip-tensions-loom-over-trump-090000096.html"
+    }
+   ]
+  },
+  {
+   "id": "fl-gop-immigration-fallout-2026111610",
+   "type": "news",
+   "cat": "immigration",
+   "tags": [
+    "immigration",
+    "politics"
+   ],
+   "date": "This week",
+   "ts": "2026-11-16T10:20:00Z",
+   "headline": "South Florida Republicans say tough ICE tactics cost them Hispanic votes",
+   "caption": "Reps. Gimenez, Díaz-Balart and Salazar faced close races and pushed back on enforcement. ICE reported record deportations the same week.",
+   "visual": {
+    "type": "board",
+    "title": "Where things stand",
+    "rows": [
+     {
+      "k": "FY2026 deportations",
+      "s": "ICE record",
+      "v": "483,000"
+     },
+     {
+      "k": "Vs. FY2021",
+      "v": "8x+"
+     },
+     {
+      "k": "Salazar race",
+      "s": "close enough for a recount",
+      "v": "Won"
+     },
+     {
+      "k": "Exit polls: gone too far",
+      "v": "58%"
+     }
+    ],
+    "foot": "NBC6, CBS News"
+   },
+   "detail": [
+    "Several South Florida Republicans say immigration enforcement hurt them with Hispanic voters in the midterms, NBC6 reported. Rep. Carlos Gimenez said many local Hispanics disliked the crackdown.",
+    "Rep. Mario Díaz-Balart narrowly won and said he had warned the administration that the approach was a political mistake. Rep. María Elvira Salazar, who said in an ad that some efforts went too far, won a race close enough for a recount.",
+    "DHS says ICE deported a record 483,000 people in fiscal 2026. President Trump has said his policies may be too tough but ruled out amnesty. He also named Stephen Miller, a key architect of the policies, as chief of staff."
+   ],
+   "money": [
+    "Employers in farm, building and hospitality jobs should plan for possible policy shifts in 2027.",
+    "Families with mixed status: keep documents current and know your legal options.",
+    "Political shifts can change state and federal budgets for enforcement and services."
+   ],
+   "risk": [
+    "Policy direction for 2027 is unclear with a new Congress."
+   ],
+   "sources": [
+    {
+     "t": "Trump administration touts record deportations as South Florida Republicans point to political fallout",
+     "d": "nbcmiami.com",
+     "u": "https://nbcmiami.com/news/local/trump-administration-record-deportations-republicans-political-fallout/3887918"
+    },
+    {
+     "t": "ICE deportations and arrests hit record high",
+     "d": "cbsnews.com",
+     "u": "https://www.cbsnews.com/news/ice-deportations-arrests-hit-record-high/"
+    }
+   ]
+  },
+  {
+   "id": "hud-mixed-status-rule-2026111610",
+   "type": "news",
+   "cat": "benefits",
+   "tags": [
+    "benefits",
+    "immigration"
+   ],
+   "date": "Effective Dec. 14",
+   "ts": "2026-11-16T10:20:00Z",
+   "headline": "HUD rule ends housing aid for mixed-status families starting Dec. 14",
+   "caption": "Every household member must now be a verified citizen or eligible noncitizen. Opponents say about 80,000 people could be displaced.",
+   "visual": {
+    "type": "timeline",
+    "title": "HUD citizenship rule",
+    "items": [
+     {
+      "d": "NOV 10",
+      "t": "HUD issues final rule"
+     },
+     {
+      "d": "NOV 12",
+      "t": "Published in Federal Register"
+     },
+     {
+      "d": "DEC 14",
+      "t": "Rule takes effect",
+      "now": true
+     },
+     {
+      "d": "MAR 2027",
+      "t": "Landlords' 90-day compliance window ends"
+     }
+    ]
+   },
+   "detail": [
+    "HUD finalized a rule that requires every member of a household in public housing, Section 8 and other HUD programs to be a verified US citizen or eligible noncitizen. Families can no longer keep ineligible members while getting reduced, prorated aid, an option in place since 1995.",
+    "Citizens who once signed a simple declaration may now need documents like a passport or birth certificate. Opponents estimate about 80,000 people in 20,000 households could lose housing. HUD cited an audit finding nearly 200,000 tenants without verified citizenship.",
+    "HUD's own analysis puts costs at up to $251 million and projects no savings. Landlords get 90 days after Dec. 14 to comply."
+   ],
+   "money": [
+    "Tenants in HUD housing: gather passports or birth certificates for every household member now.",
+    "Ask your housing authority about deadlines before the 90-day window closes.",
+    "Mixed-status families may need a backup housing budget; local legal aid can help review options."
+   ],
+   "risk": [
+    "Paperwork gaps could lead to aid loss even for eligible citizens.",
+    "Lawsuits or changes in Congress could alter the rule."
+   ],
+   "sources": [
+    {
+     "t": "New federal rule ends housing aid for mixed-status families",
+     "d": "deseret.com",
+     "u": "https://deseret.com/politics/2026/11/15/us-citizenship-now-needed-for-housing-assistance"
+    }
+   ]
+  },
+  {
+   "id": "irs-fy2026-collections-refunds-2026111610",
+   "type": "news",
+   "cat": "taxes",
+   "tags": [
+    "taxes"
+   ],
+   "date": "This week",
+   "ts": "2026-11-16T10:20:00Z",
+   "headline": "IRS collected $5.55 trillion in fiscal 2026; the average refund rose to $3,439",
+   "caption": "Individual taxes drove a 4.5% jump in collections. Average individual refunds grew more than 8%.",
+   "visual": {
+    "type": "stat",
+    "title": "IRS fiscal 2026",
+    "num": "$3,439",
+    "tone": "gain",
+    "label": "Average individual refund, up from $3,173",
+    "facts": [
+     [
+      "Total collected",
+      "$5.55T",
+      "+4.5%"
+     ],
+     [
+      "Individual taxes",
+      "$4.96T",
+      "+5.9%"
+     ],
+     [
+      "Refunds paid",
+      "$670.1B",
+      "+$31B"
+     ]
+    ]
+   },
+   "detail": [
+    "The IRS said it collected more than $5.55 trillion in fiscal 2026, up about 4.5% from $5.31 trillion. Individual taxes made up over $4.96 trillion, up 5.9%. Corporate collections fell 8.9%.",
+    "The agency paid out more than $670 billion in refunds. The average individual refund was $3,439, up from $3,173. Enforcement brought in about $96.8 billion.",
+    "The figures come from the IRS's annual financial report, released Thursday."
+   ],
+   "money": [
+    "A big refund means you lent the IRS money for free; adjusting your W-4 can raise each paycheck.",
+    "If you owe instead, raising withholding now can avoid a surprise bill in April.",
+    "Put any refund to work: pay down high-rate debt or fund an IRA before April 15."
+   ],
+   "risk": [
+    "Changing withholding too much can leave you owing at tax time."
+   ],
+   "sources": [
+    {
+     "t": "IRS Collected Over $5.5 Trillion in Federal Taxes in 2026",
+     "d": "theepochtimes.com",
+     "u": "https://www.theepochtimes.com/us/irs-collected-over-5-5-trillion-in-federal-taxes-in-2026-post-6124664"
+    }
+   ]
+  },
+  {
+   "id": "edu-strong-dollar-2026111610",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "markets"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-16T10:20:00Z",
+   "headline": "A strong dollar: who wins, who loses",
+   "caption": "The dollar just hit new highs. Here's what that means for your trips, shopping and investments.",
+   "scenes": [
+    {
+     "k": "TODAY'S NEWS",
+     "t": "The dollar hit new cycle highs",
+     "s": "The dollar index is near 103.4, up about 1.1% in five days."
+    },
+    {
+     "k": "WHY IT RISES",
+     "t": "Higher US rates pull money in",
+     "s": "The 10-year Treasury pays about 5.14%, so global savers want dollars."
+    },
+    {
+     "k": "WINNERS",
+     "t": "Travel abroad and imports get cheaper",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "Dollar rises",
+       "Euro and yen buy less",
+       "Your dollar buys more abroad"
+      ]
+     }
+    },
+    {
+     "k": "LOSERS",
+     "t": "US exporters and foreign funds",
+     "s": "Profits earned abroad shrink when converted back to dollars."
+    },
+    {
+     "k": "YOUR PORTFOLIO",
+     "t": "Check if foreign funds are hedged",
+     "viz": {
+      "type": "split",
+      "items": [
+       [
+        "Unhedged fund",
+        "Feels the drop"
+       ],
+       [
+        "Hedged fund",
+        "Mostly avoids it"
+       ],
+       [
+        "US-only fund",
+        "No direct effect",
+        "wide"
+       ]
+      ]
+     },
+     "say": "An unhedged foreign fund feels the currency drop, a hedged fund mostly avoids it, and a US-only fund has no direct currency effect."
+    },
+    {
+     "k": "THE TAKEAWAY",
+     "t": "Currencies swing both ways",
+     "s": "Booking a trip? A strong dollar helps. Investing? Stay diversified."
+    }
+   ]
+  },
+  {
+   "id": "edu-tax-refund-w4-2026111610",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "taxes"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-16T10:20:00Z",
+   "headline": "The $3,439 refund: why a big refund isn't free money",
+   "caption": "The average IRS refund rose again. Here's how to turn it into bigger paychecks instead.",
+   "scenes": [
+    {
+     "k": "TODAY'S NEWS",
+     "t": "Average refund: $3,439",
+     "s": "The IRS says it's up from $3,173 a year earlier."
+    },
+    {
+     "k": "WHAT IT MEANS",
+     "t": "You overpaid all year",
+     "s": "A refund is your own money coming back, with no interest."
+    },
+    {
+     "k": "THE MATH",
+     "t": "About $286 a month",
+     "viz": {
+      "type": "split",
+      "items": [
+       [
+        "Refund",
+        "$3,439"
+       ],
+       [
+        "Months",
+        "12"
+       ],
+       [
+        "Per month",
+        "≈ $286",
+        "wide"
+       ]
+      ]
+     },
+     "say": "A 3,439 dollar refund spread over 12 months is about 286 dollars a month."
+    },
+    {
+     "k": "THE FIX",
+     "t": "Update your W-4",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "Use the IRS withholding estimator",
+       "Fill out a new W-4",
+       "Give it to your employer",
+       "Bigger paychecks"
+      ]
+     }
+    },
+    {
+     "k": "WHEN TO KEEP IT",
+     "t": "Some like a forced savings plan",
+     "s": "If you'd spend extra pay, a refund can work. Just choose it on purpose."
+    },
+    {
+     "k": "THE TAKEAWAY",
+     "t": "Aim for close to zero",
+     "s": "Owe a little or get a little back, and keep the rest working for you."
+    }
+   ]
+  },
   {
    "id": "europe-near-record-ms-upgrade-2026111609",
    "type": "news",
@@ -11493,609 +12196,6 @@
      "t": "Treasury Secretary Scott Bessent says if Nvidia was a bank, 'a lot of the executives would be removed' — while Huang reportedly eyes return",
      "d": "fortune.com",
      "u": "https://fortune.com/2026/11/15/treasury-secretary-scott-bessent-nvidia-jensen-huang-nvidia-china-spy-scandal/"
-    }
-   ]
-  },
-  {
-   "id": "lutnick-bitdeer-2026111520",
-   "type": "news",
-   "cat": "politics",
-   "tags": [
-    "politics",
-    "ai",
-    "crypto"
-   ],
-   "date": "Sun Nov 15",
-   "ts": "2026-11-15T20:19:00Z",
-   "headline": "NYT: Lutnick backed a narrower chip rule that spared a Cantor-linked data center",
-   "caption": "The scaled-back rule covered seven countries and would spare Bitdeer's Malaysia site. Cantor, now run by Lutnick's sons, has done deals with Bitdeer.",
-   "visual": {
-    "type": "points",
-    "title": "What the NYT reported",
-    "items": [
-     "Rule narrowed to 7 countries, future shipments only",
-     "Bitdeer's Malaysia data center would be spared",
-     "Site seen earning $1.7B over five years",
-     "Cantor was a sales agent on a $1B Bitdeer offering",
-     "No evidence found that Cantor swayed policy"
-    ]
-   },
-   "detail": [
-    "The New York Times reports Commerce Secretary Howard Lutnick supported a scaled-back chip-control rule for Singapore, Malaysia, Thailand, Indonesia, Brazil, South Africa and Norway. It would apply only to future shipments and require notice, not a license, when Chinese customers train AI in overseas data centers.",
-    "That version would spare Bitdeer's A201 center in Malaysia, expected to serve Tencent. Cantor Fitzgerald, which Lutnick led for decades and his sons now run, was a sales agent for an up-to-$1 billion Bitdeer stock offering. The Times found no evidence Cantor influenced his decisions, and ethics officials say he followed the rules. Sen. Ruben Gallego wants Lutnick to testify."
-   ],
-   "money": [
-    "Tighter chip rules could hit chip stocks and data-center plays; watch for a final rule before you add exposure.",
-    "Crypto miners pivoting to AI hosting carry policy risk as well as crypto risk.",
-    "Policy headlines can move stocks fast; avoid chasing a one-day spike."
-   ],
-   "risk": [
-    "The rule is not final and could change after hearings in Congress."
-   ],
-   "sources": [
-    {
-     "t": "Lutnick Pushed Narrower Chip Rule Sparing Cantor-Linked Bitdeer",
-     "d": "aiweekly.co",
-     "u": "https://aiweekly.co/alerts/lutnick-pushed-narrower-chip-rule-sparing-cantor-linked-bitdeer"
-    }
-   ]
-  },
-  {
-   "id": "bessent-chip-laws-2026111520",
-   "type": "news",
-   "cat": "politics",
-   "tags": [
-    "politics",
-    "ai",
-    "world"
-   ],
-   "date": "Sun Nov 15",
-   "ts": "2026-11-15T20:19:00Z",
-   "headline": "Bessent says no new chip laws are needed, just enforcement, as Congress eyes curbs",
-   "caption": "Lawmakers from both parties want tighter China chip limits in the year-end defense bill. Bessent says the rules exist and Commerce 'had the pen.'",
-   "visual": {
-    "type": "points",
-    "title": "Chip curbs in the Senate defense bill",
-    "items": [
-     "Tracking tech on high-end chips",
-     "A say for Congress on export licenses",
-     "Tighter limits on chipmaking tools",
-     "Pressure on allies to do the same"
-    ]
-   },
-   "detail": [
-    "On Fox News Sunday, Treasury Secretary Scott Bessent said the US has the rules it needs and the problem is enforcement. He said Commerce Secretary Howard Lutnick resisted calls to crack down on Megaspeed, the Singapore firm suspected of moving chips to China.",
-    "Sens. Jim Banks and Elizabeth Warren back adding stricter export limits to the year-end defense bill. Bessent gave Nvidia's board 10 days to say whether it knew chips were reaching Chinese buyers. Lutnick is flying with Trump to China this week."
-   ],
-   "money": [
-    "New export limits could trim chipmakers' sales; check how much your funds hold in semiconductors.",
-    "Defense-bill deadlines often land in December, so expect more chip-stock swings.",
-    "Diversified funds can soften the hit if one policy fight goes badly."
-   ],
-   "risk": [
-    "The defense bill text could change a lot before it passes."
-   ],
-   "sources": [
-    {
-     "t": "Bessent pushes back on need for tighter chip sale legislation",
-     "d": "yahoo.com",
-     "u": "https://www.yahoo.com/news/politics/articles/bessent-pushes-back-tighter-chip-170900656.html"
-    },
-    {
-     "t": "Lutnick joins Trump's China trip after Bessent chip clash",
-     "d": "aiweekly.co",
-     "u": "https://aiweekly.co/alerts/lutnick-joins-trumps-china-trip-after-bessent-chip-clash"
-    }
-   ]
-  },
-  {
-   "id": "hsbc-nvda-hold-2026111520",
-   "type": "news",
-   "cat": "markets",
-   "tags": [
-    "markets",
-    "ai"
-   ],
-   "date": "Fri Nov 13",
-   "ts": "2026-11-15T20:19:00Z",
-   "headline": "HSBC cuts Nvidia to Hold and slashes its target to $170 from about $370",
-   "caption": "HSBC cited the CEO exit and export-rule risk. Nvidia closed Friday at $162.85 after its sixth straight weekly loss.",
-   "visual": {
-    "type": "ticker",
-    "sym": "NVDA",
-    "ex": "NASDAQ",
-    "rows": [
-     {
-      "k": "Friday close",
-      "s": "down 2.01%",
-      "v": "$162.85"
-     },
-     {
-      "k": "Week",
-      "s": "6th weekly loss in a row",
-      "v": "-12.75%"
-     },
-     {
-      "k": "HSBC target",
-      "s": "was about $370",
-      "v": "$170"
-     },
-     {
-      "k": "Street average",
-      "s": "61 analysts, still Buy",
-      "v": "$279.63"
-     },
-     {
-      "k": "Forward P/E",
-      "s": "lowest in 15 years",
-      "v": "~11x"
-     }
-    ]
-   },
-   "detail": [
-    "HSBC analyst Frank Lee downgraded Nvidia to Hold and cut his price target by about 54%. He expects pressure until a permanent CEO is named after Jensen Huang's resignation.",
-    "He also flagged that about 11% of recent revenue came from countries that could face tighter chip export rules. In HSBC's bear case, fiscal 2028 earnings per share fall 13%, to $13.57. Nvidia reports earnings Tuesday after the close."
-   ],
-   "money": [
-    "One analyst call is not a buy or sell signal; compare it with the wider range of targets.",
-    "A low P/E can mean value or real risk; read the export-rule details before buying a dip.",
-    "Big earnings-week moves are common, so avoid using money you need soon."
-   ],
-   "risk": [
-    "Shares could swing sharply either way on Tuesday's earnings and any CEO news."
-   ],
-   "sources": [
-    {
-     "t": "HSBC Just Downgraded Nvidia and Cut Its Target to $170",
-     "d": "247wallst.com",
-     "u": "https://247wallst.com/investing/2026/11/14/hsbc-just-downgraded-nvidia-and-cut-its-target-to-170/"
-    }
-   ]
-  },
-  {
-   "id": "lovable-leak-2026111520",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "business"
-   ],
-   "date": "This week",
-   "ts": "2026-11-15T20:19:00Z",
-   "headline": "Thousands of apps built with AI tool Lovable left user data open to anyone",
-   "caption": "Researchers found 24,664 Lovable-built sites returning database records with no login. Leaks included passports and 200,000 chat messages.",
-   "visual": {
-    "type": "board",
-    "title": "What researchers found",
-    "rows": [
-     {
-      "k": "Projects scanned",
-      "v": "159,041"
-     },
-     {
-      "k": "Open without login",
-      "s": "of 34,545 on Supabase",
-      "v": "24,664",
-      "tone": "loss"
-     },
-     {
-      "k": "Sites exposing emails",
-      "v": "7,403"
-     },
-     {
-      "k": "Chat messages leaked",
-      "s": "one lifestyle forum",
-      "v": "200K+"
-     },
-     {
-      "k": "Passport records",
-      "s": "one service provider",
-      "v": "1,000+"
-     }
-    ],
-    "foot": "Source: German security firm Crissy Field via Cybernews"
-   },
-   "detail": [
-    "German security firm Crissy Field scanned 159,041 projects built with Lovable, a 'vibe coding' tool that writes apps from plain-language prompts. Of 34,545 projects using Supabase databases, 24,664 returned records with no authentication.",
-    "The leaks were blamed on missing database security rules set by app builders, not a breach of Lovable itself. Exposed data included emails, orders, invoices, passport details and private messages."
-   ],
-   "money": [
-    "Be careful giving ID documents or payment details to small, new apps you don't know.",
-    "If you build apps with AI tools, turn on database access rules before launch; a leak can bring legal costs.",
-    "Use a password manager and unique passwords so one leak doesn't open other accounts."
-   ],
-   "risk": [
-    "Leaked passport and email data can fuel identity theft and phishing for months."
-   ],
-   "sources": [
-    {
-     "t": "Apps built on Lovable AI expose passport details and 200,000 chat messages",
-     "d": "cybernews.com",
-     "u": "https://cybernews.com/security/lovable-ai-apps-expose-personal-information/"
-    }
-   ]
-  },
-  {
-   "id": "facestealer-binance-2026111520",
-   "type": "news",
-   "cat": "crypto",
-   "tags": [
-    "crypto",
-    "world"
-   ],
-   "date": "Thu Nov 12",
-   "ts": "2026-11-15T20:19:00Z",
-   "headline": "DOJ moves to seize $1.2B from the Binance hack and shuts down a deepfake theft ring",
-   "caption": "The FBI says North Korean hackers used fake video calls to steal over $400 million in crypto. Separately, the DOJ won approval to seize $1.2 billion from the Binance hack.",
-   "visual": {
-    "type": "board",
-    "title": "The crackdown",
-    "rows": [
-     {
-      "k": "Binance hack",
-      "s": "blamed on North Korea, ~Oct 29",
-      "v": "$6B+",
-      "tone": "loss"
-     },
-     {
-      "k": "Frozen so far",
-      "s": "by authorities and firms",
-      "v": "$2.7B+"
-     },
-     {
-      "k": "DOJ seizure OK'd",
-      "v": "$1.2B+",
-      "tone": "gain"
-     },
-     {
-      "k": "FaceStealer thefts",
-      "s": "over 18 months",
-      "v": "$400M+",
-      "tone": "loss"
-     }
-    ]
-   },
-   "detail": [
-    "The Justice Department won court approval to seize or restrain more than $1.2 billion stolen from Binance. It blames North Korean military hackers known as TraderTraitor. Binance says it has covered affected customers' assets.",
-    "The DOJ also seized servers behind 'FaceStealer.' Hackers took over accounts, invited victims' contacts to video calls with recordings or deepfakes of people they knew, then faked a tech glitch to get them to install malware. The FBI recovered more than 900 webcam videos of victims."
-   ],
-   "money": [
-    "Never install software someone asks you to during a video call, even if you know them.",
-    "Keep long-term crypto in a hardware wallet, not on an exchange or a hot wallet on your laptop.",
-    "Confirm unusual requests through a second channel, like a phone call to a known number."
-   ],
-   "risk": [
-    "Deepfakes keep getting better, so a familiar face on screen is no longer proof."
-   ],
-   "sources": [
-    {
-     "t": "DOJ moves to seize $1.2 billion from Binance hack, disrupts North Korean deepfake scheme",
-     "d": "theblock.co",
-     "u": "https://www.theblock.co/news/business/2026-11-12-doj-seize-1-2-billion-binance-hack-north-korea-facestealer-439065"
-    }
-   ]
-  },
-  {
-   "id": "ny-power-rebate-2026111520",
-   "type": "news",
-   "cat": "states",
-   "tags": [
-    "states",
-    "taxes"
-   ],
-   "date": "Through December",
-   "ts": "2026-11-15T20:19:00Z",
-   "headline": "New York's $100–$200 POWER rebate checks keep mailing through December",
-   "caption": "About 8.2 million New Yorkers get the one-time check automatically. No application is needed if you filed a 2024 state return.",
-   "visual": {
-    "type": "board",
-    "title": "NY POWER rebate amounts",
-    "rows": [
-     {
-      "k": "Single / head of household",
-      "s": "income up to $150K",
-      "v": "$100"
-     },
-     {
-      "k": "Married filing jointly",
-      "s": "income up to $150K",
-      "v": "$200",
-      "tone": "gain"
-     },
-     {
-      "k": "Married filing jointly",
-      "s": "$150K–$300K",
-      "v": "$150"
-     }
-    ],
-    "foot": "About $1 billion to roughly 8.2 million people"
-   },
-   "detail": [
-    "New York is mailing one-time POWER energy rebate checks through December. Amounts are based on 2024 New York adjusted gross income. You must have filed a full-year resident return for 2024 and not be claimed as a dependent.",
-    "Checks go by mail, even to people who got refunds by direct deposit, to the latest address on file. Mailings aren't sorted by ZIP code, so neighbors may get checks at different times. This is separate from the 2025 inflation refund checks."
-   ],
-   "money": [
-    "If you moved, update your address with the NY tax department so the check finds you.",
-    "Use the check to pay down a high-interest card or pad your winter energy budget.",
-    "Watch for scams: the state won't ask for fees or bank details to send it."
-   ],
-   "risk": [
-    "The call center can't give individual check status or dates."
-   ],
-   "sources": [
-    {
-     "t": "Still waiting for a check? New York's power rebate payments continuing through December",
-     "d": "fingerlakes1.com",
-     "u": "https://www.fingerlakes1.com/2026/11/06/still-waiting-for-a-check-new-yorks-power-rebate-payments-continuing-through-december/"
-    }
-   ]
-  },
-  {
-   "id": "snap-store-extension-2026111520",
-   "type": "news",
-   "cat": "benefits",
-   "tags": [
-    "benefits",
-    "business",
-    "politics"
-   ],
-   "date": "Sat Nov 14",
-   "ts": "2026-11-15T20:19:00Z",
-   "headline": "SNAP stores get at least 90 more days to meet new USDA stocking rules",
-   "caption": "NYC Mayor Mamdani says Trump agreed to the extension. Without it, many bodegas and corner stores risked losing SNAP.",
-   "visual": {
-    "type": "timeline",
-    "title": "SNAP store stocking rule",
-    "items": [
-     {
-      "d": "SEP 4",
-      "t": "USDA issues rule",
-      "s": "7 varieties in 4 food groups"
-     },
-     {
-      "d": "NOV 4",
-      "t": "Original deadline"
-     },
-     {
-      "d": "NOV 14",
-      "t": "90-day extension announced",
-      "now": true
-     },
-     {
-      "d": "FEB",
-      "t": "New compliance window ends",
-      "s": "about three months out"
-     }
-    ]
-   },
-   "detail": [
-    "New York City Mayor Zohran Mamdani said President Trump agreed to give small stores 'at least a 90-day extension' to meet a USDA rule. The rule requires SNAP retailers to stock at least seven varieties across dairy, grains, proteins, and fruits and vegetables.",
-    "Stores that missed the Nov. 4 deadline could have lost the right to accept SNAP. Mamdani said SNAP can be up to 30% of a Bronx bodega's sales. He said he spoke with Trump and USDA Secretary Brooke Rollins."
-   ],
-   "money": [
-    "If you use SNAP, your usual corner store should keep taking EBT for now.",
-    "Small-store owners can use the extra time to add the required items and avoid losing SNAP sales.",
-    "Compare prices at stores that take EBT; larger stores often cost less per item."
-   ],
-   "risk": [
-    "Stores that still miss the new deadline could lose SNAP access."
-   ],
-   "sources": [
-    {
-     "t": "Mamdani thanks Trump in securing 90-day SNAP extension for small businesses",
-     "d": "foxbusiness.com",
-     "u": "https://www.foxbusiness.com/politics/mamdani-thanks-trump-helping-small-businesses-nyc-nationwide-president-delivered-relief"
-    }
-   ]
-  },
-  {
-   "id": "retail-earnings-week-2026111520",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business",
-    "markets"
-   ],
-   "date": "Nov 17–19",
-   "ts": "2026-11-15T20:19:00Z",
-   "headline": "Home Depot, Target, Lowe's and Walmart report this week as holiday shopping starts",
-   "caption": "The reports will show how shoppers are holding up. Several retailers' guidance includes tariff refunds.",
-   "visual": {
-    "type": "timeline",
-    "title": "Retail earnings this week",
-    "items": [
-     {
-      "d": "NOV 17",
-      "t": "Home Depot",
-      "s": "9 a.m. ET"
-     },
-     {
-      "d": "NOV 18",
-      "t": "Target, Lowe's",
-      "s": "Lowe's date tentative"
-     },
-     {
-      "d": "NOV 19",
-      "t": "Walmart, Ross",
-      "s": "Walmart 8 a.m. ET"
-     },
-     {
-      "d": "NOV 24",
-      "t": "Best Buy"
-     }
-    ]
-   },
-   "detail": [
-    "Big retailers report this week. Walmart raised its yearly outlook and guided to 3% to 3.75% sales growth for the quarter. Target expects full-year EPS of $9.90 to $10.90, including about $1.65 from tariff refunds.",
-    "Home Depot's outlook calls for 2.5% to 4.5% sales growth. Lowe's moved to the low end of its ranges, about $92 billion in sales. Ross expects comparable sales up 6% to 7%."
-   ],
-   "money": [
-    "Retailers' holiday comments can hint at deals; watch for early-discount plans before you shop.",
-    "If you own retail stocks, know that one-time tariff refunds inflate some 2026 profits.",
-    "Big-box earnings move consumer stock funds, so avoid trading on headlines alone."
-   ],
-   "risk": [
-    "Results may differ from guidance; dates like Lowe's are tentative."
-   ],
-   "sources": [
-    {
-     "t": "Retail earnings preview: Walmart, Home Depot, Target",
-     "d": "news.ifyouspent.com",
-     "u": "https://news.ifyouspent.com/en/news/retail-earnings-preview-walmart-home-depot-target-november-2026"
-    }
-   ]
-  },
-  {
-   "id": "mortgage-711-2026111520",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business",
-    "markets"
-   ],
-   "date": "Thu Nov 12",
-   "ts": "2026-11-15T20:19:00Z",
-   "headline": "Mortgage rates fall a fourth straight week to 7.11%, a seven-week low",
-   "caption": "Freddie Mac's 30-year average dipped from 7.18%. It is still well above 6.24% a year ago.",
-   "visual": {
-    "type": "board",
-    "title": "Freddie Mac rates",
-    "rows": [
-     {
-      "k": "30-year fixed",
-      "s": "last week 7.18%",
-      "v": "7.11%",
-      "tone": "gain"
-     },
-     {
-      "k": "15-year fixed",
-      "s": "last week 6.57%",
-      "v": "6.45%",
-      "tone": "gain"
-     },
-     {
-      "k": "30-year, a year ago",
-      "v": "6.24%"
-     },
-     {
-      "k": "15-year, a year ago",
-      "v": "5.49%"
-     }
-    ]
-   },
-   "detail": [
-    "Freddie Mac says the average 30-year fixed rate fell to 7.11%, its fourth weekly drop in a row. The 15-year rate fell to 6.45%.",
-    "Chief economist Sam Khater called it the lowest level in seven weeks. Rates are still roughly a point higher than a year ago, and a Fed rate hike is widely expected in December."
-   ],
-   "money": [
-    "Get quotes from at least three lenders; offers can differ more than this week's drop.",
-    "If you're buying soon, ask about a rate lock with a float-down option.",
-    "Paying points can lower your rate if you plan to keep the loan for years."
-   ],
-   "risk": [
-    "Hot inflation data could push mortgage rates back up quickly."
-   ],
-   "sources": [
-    {
-     "t": "Mortgage Rates Decline for Fourth Consecutive Week to 7.11%",
-     "d": "globenewswire.com",
-     "u": "https://www.globenewswire.com/news-release/2026/11/12/3402013/0/en/mortgage-rates-decline-for-fourth-consecutive-week-to-7-11.html"
-    }
-   ]
-  },
-  {
-   "id": "adams-county-ice-2026111520",
-   "type": "news",
-   "cat": "immigration",
-   "tags": [
-    "immigration",
-    "states"
-   ],
-   "date": "Fri Nov 13",
-   "ts": "2026-11-15T20:19:00Z",
-   "headline": "Judge rules a Washington county broke state law by working with ICE",
-   "caption": "A Spokane County judge found Adams County violated the Keep Washington Working Act. The sheriff plans to appeal.",
-   "visual": {
-    "type": "points",
-    "title": "The ruling",
-    "items": [
-     "Law bars local police from holding people for ICE",
-     "County handed a man to ICE after charges were dropped",
-     "Also sent daily custody lists to immigration officials",
-     "AG had flagged 200+ instances from 2019–2021",
-     "Sheriff says he will appeal"
-    ]
-   },
-   "detail": [
-    "Spokane County Superior Court Judge Marla Polin ruled that Adams County violated Washington's 2019 Keep Washington Working Act. The law bars local officers from asking about immigration status or holding people for federal agents.",
-    "The case began when a man without legal status was booked on charges later dropped. Instead of releasing him, officials connected him with ICE, which arrested him. Sheriff Wagner called the law a 'misguided political agenda' and plans to appeal."
-   ],
-   "money": [
-    "Local rules on ICE cooperation vary by state; know your state's law if it affects your family or workers.",
-    "Employers can review their state's rules on sharing worker data to avoid legal costs.",
-    "Free legal clinics can explain rights before a problem arises."
-   ],
-   "risk": [
-    "An appeal could change or delay the outcome."
-   ],
-   "sources": [
-    {
-     "t": "Judge rules Adams County violated WA state law by working with ICE",
-     "d": "kuow.org",
-     "u": "https://kuow.org/immigration/2026-11-13/judge-rules-adams-county-violated-wa-state-law-by-working-with-ice"
-    }
-   ]
-  },
-  {
-   "id": "ice-phone-search-2026111520",
-   "type": "news",
-   "cat": "immigration",
-   "tags": [
-    "immigration",
-    "politics"
-   ],
-   "date": "Thu Nov 12",
-   "ts": "2026-11-15T20:19:00Z",
-   "headline": "Judge bars agents from searching an immigration lawyer's copied phone data",
-   "caption": "A federal judge found the airport phone seizure was likely retaliation for the lawyer's speech. The government denies it.",
-   "visual": {
-    "type": "timeline",
-    "title": "The case",
-    "items": [
-     {
-      "d": "SEP 2025",
-      "t": "Phone seized at Boston Logan",
-      "s": "data copied, returned 8 days later"
-     },
-     {
-      "d": "NOV 12",
-      "t": "Injunction granted",
-      "s": "Judge Allison Burroughs",
-      "now": true
-     },
-     {
-      "d": "NEXT",
-      "t": "Data stays locked until case ends"
-     }
-    ]
-   },
-   "detail": [
-    "US District Judge Allison Burroughs granted immigration attorney Andrew Lattarulo a preliminary injunction. It bars federal authorities from searching data copied from his phone, which border agents seized without a warrant at Boston Logan airport in September 2025.",
-    "The judge found he would likely show the search happened because of his protected speech. The government says it was tied to a probe of whether his firm employed unauthorized workers. The judge did not rule on the Fourth Amendment question."
-   ],
-   "money": [
-    "Lawyers and business travelers may want a separate travel phone with less data on it.",
-    "Back up your phone before travel so a seizure doesn't cost you work or files.",
-    "Know that border searches follow different rules than searches inside the country."
-   ],
-   "risk": [
-    "This is a preliminary ruling; the final result could differ."
-   ],
-   "sources": [
-    {
-     "t": "Judge Blocks ICE From Searching Immigration Lawyer's Phone",
-     "d": "newsweek.com",
-     "u": "https://www.newsweek.com/judge-blocks-ice-from-searching-immigration-lawyers-phone-12715119"
     }
    ]
   }
