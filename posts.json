@@ -1,6 +1,1077 @@
 {
- "updated": "2026-11-16T10:20:00Z",
+ "updated": "2026-11-16T11:20:00Z",
  "items": [
+  {
+   "id": "premarket-nasdaq-nvda-eve-2026111611",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets",
+    "ai"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T11:20:00Z",
+   "headline": "Nasdaq futures slip about 1% a day before Nvidia's first report since Huang left",
+   "caption": "Tech leads early losses while Dow futures hold flat. The VIX fear gauge is back above 20 and the 10-year yield sits at 5.15%.",
+   "visual": {
+    "type": "board",
+    "title": "Futures, early Monday",
+    "rows": [
+     {
+      "k": "Nasdaq 100",
+      "v": "27,758",
+      "ch": -0.99,
+      "tone": "loss"
+     },
+     {
+      "k": "S&P 500",
+      "v": "7,555",
+      "ch": -0.37,
+      "tone": "loss"
+     },
+     {
+      "k": "Dow",
+      "v": "52,429",
+      "ch": 0.02,
+      "tone": "acc"
+     },
+     {
+      "k": "Russell 2000",
+      "v": "2,784",
+      "ch": -0.48,
+      "tone": "loss"
+     },
+     {
+      "k": "VIX",
+      "v": "20.03",
+      "ch": 3.78,
+      "tone": "loss"
+     },
+     {
+      "k": "10-yr yield",
+      "v": "5.15%",
+      "tone": "acc"
+     }
+    ],
+    "foot": "Snapshot about 2 a.m. PT"
+   },
+   "detail": [
+    "US stock futures were mixed early Monday. Nasdaq 100 futures fell about 1%, S&P 500 futures slipped about 0.4%, and Dow futures barely moved. Nvidia was down about 2% before the bell.",
+    "Nvidia reports Tuesday. Analysts expect revenue near $108.9 billion, up 91% from a year ago, and adjusted profit of $2.47 a share. It is the first report since Jensen Huang resigned last week.",
+    "Last week all three big indexes gained more than 2%. This week also brings the Anthropic IPO, Fed minutes, and earnings from Walmart, Target, Home Depot and Lowe's."
+   ],
+   "money": [
+    "Big earnings weeks can swing prices fast; set limit orders instead of market orders if you trade.",
+    "A 5%+ 10-year yield means Treasury bills and high-yield savings still pay well for idle cash.",
+    "If you own an S&P 500 fund, you already hold Nvidia; check your overlap before buying more."
+   ],
+   "risk": [
+    "Futures can reverse by the open; Monday's data and Fed speakers may move things."
+   ],
+   "sources": [
+    {
+     "t": "Stock market today: Dow, S&P 500, Nasdaq futures little changed ahead of pivotal week for AI traders",
+     "d": "finance.yahoo.com",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html"
+    },
+    {
+     "t": "Stock Market Today, Nov. 16: U.S. Stocks Mixed Ahead of Nvidia Results and Anthropic IPO",
+     "d": "tipranks.com",
+     "u": "https://www.tipranks.com/news/stock-market-today-nov-16-u-s-stocks-mixed-ahead-of-nvidia-results-and-anthropic-ipo"
+    }
+   ]
+  },
+  {
+   "id": "memory-stocks-nand-slide-2026111611",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets",
+    "ai",
+    "business"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T11:20:00Z",
+   "headline": "Memory chip stocks sink again: SK hynix -7.9% as NAND prices drop 20% in weeks",
+   "caption": "Micron, SanDisk and SK hynix each fell more than 5% before the US open. Spot prices for NAND flash have slid about 20% since late October.",
+   "visual": {
+    "type": "stat",
+    "title": "Memory sell-off, Nov 16",
+    "num": "-20%",
+    "tone": "loss",
+    "label": "NAND flash spot prices since mid-to-late October",
+    "rows": [
+     [
+      "SK hynix (Seoul)",
+      -7.89
+     ],
+     [
+      "Kioxia (Tokyo)",
+      -7.69
+     ],
+     [
+      "Samsung (Seoul)",
+      -4.47
+     ]
+    ]
+   },
+   "detail": [
+    "Memory chip makers fell hard on Monday. In Seoul, SK hynix closed down 7.89% and Samsung Electronics fell 4.47%. Japan's Kioxia lost 7.69%. In the US, Micron, SanDisk and SK hynix shares each dropped more than 5% in premarket trade.",
+    "One reason: NAND flash spot prices are down about 20% since mid-to-late October, and a key wafer price fell 12% in one week. BofA now sees general NAND prices falling another 5% to 10% early next year. It still expects DRAM prices to rise.",
+    "Chip stocks were already weak. The Philadelphia chip index fell 3.43% on Friday as investors rethink AI spending before Nvidia reports."
+   ],
+   "money": [
+    "Memory is a boom-and-bust business; spreading money across a broad fund softens these swings.",
+    "Falling flash prices can mean cheaper SSDs, phones and laptops for shoppers in coming months.",
+    "If you hold chip stocks, decide your exit price before earnings, not during a slide."
+   ],
+   "risk": [
+    "Analysts still rate these stocks Buy; prices could rebound quickly if Nvidia reassures."
+   ],
+   "sources": [
+    {
+     "t": "Micron, SanDisk, and SK Hynix Stocks Are Falling in Premarket Again. What's Behind the Drop?",
+     "d": "tipranks.com",
+     "u": "https://www.tipranks.com/news/micron-sandisk-and-sk-hynix-stocks-are-falling-in-premarket-again-whats-behind-the-drop"
+    },
+    {
+     "t": "NAND Spot Prices Slide 20% as Memory Rally Shows Cracks",
+     "d": "en.sedaily.com",
+     "u": "https://en.sedaily.com/market/2026/11/16/nand-spot-prices-fall-20-percent-clouding-memory-super-cycle"
+    }
+   ]
+  },
+  {
+   "id": "europe-movers-lgen-bunzl-2026111611",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets",
+    "business"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T11:20:00Z",
+   "headline": "Europe movers: Legal & General lifts its 2027 outlook; Bunzl restarts a £500M buyback",
+   "caption": "European stocks were mixed Monday with tech lagging. Company news included an insurer upgrade, a buyback and a new Johannesburg listing.",
+   "visual": {
+    "type": "board",
+    "title": "European company news",
+    "rows": [
+     {
+      "k": "Legal & General",
+      "s": "Q3 update",
+      "v": "2027 EPS growth above 6-9% target",
+      "tone": "gain"
+     },
+     {
+      "k": "Bunzl",
+      "s": "buyback",
+      "v": "2nd tranche of £500M",
+      "tone": "gain"
+     },
+     {
+      "k": "Coca-Cola HBC",
+      "s": "listing",
+      "v": "JSE secondary listing OK"
+     },
+     {
+      "k": "Wacker Chemie",
+      "s": "Barclays",
+      "v": "Upgraded to Overweight",
+      "tone": "gain"
+     },
+     {
+      "k": "Bellway",
+      "s": "Jefferies",
+      "v": "Cut to Hold",
+      "tone": "loss"
+     }
+    ]
+   },
+   "detail": [
+    "European shares were mixed Monday as AI worries kept tech stocks weak. Defense and consumer names held up better.",
+    "UK insurer Legal & General said its Solvency II ratio was 213% at the end of September. It expects 2027 core earnings per share to grow faster than the top of its 6% to 9% target. Distributor Bunzl started the second part of its £500 million share buyback.",
+    "Coca-Cola HBC won approval for a secondary listing in Johannesburg. Barclays upgraded Wacker Chemie and Solvay, while Jefferies cut UK homebuilder Bellway to Hold."
+   ],
+   "money": [
+    "Buybacks shrink share counts, which can lift earnings per share for remaining holders.",
+    "An international index fund gives you Europe exposure without picking single stocks.",
+    "Insurers with strong capital ratios often support steady dividends; check yield before buying."
+   ],
+   "risk": [
+    "Currency moves can add or cut returns on foreign stocks for US investors."
+   ],
+   "sources": [
+    {
+     "t": "Additional European Equity News - 16th November 2026",
+     "d": "newsquawk.com",
+     "u": "https://www.newsquawk.com/headlines/additional-european-equity-news---16th-november-2026"
+    },
+    {
+     "t": "European stocks buoyed by defence, consumer sectors; tech lags",
+     "d": "finance.yahoo.com",
+     "u": "https://finance.yahoo.com/markets/world-indices/articles/european-shares-hover-near-record-082850163.html"
+    }
+   ]
+  },
+  {
+   "id": "jnj-ollin-eye-deal-2026111611",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business",
+    "markets"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T11:20:00Z",
+   "headline": "J&J in advanced talks to buy eye-drug maker Ollin for up to $3.4 billion",
+   "caption": "The deal could be announced as soon as Monday, people familiar said. It would pay about $2.2 billion upfront plus up to $1.2 billion in milestones.",
+   "visual": {
+    "type": "deals",
+    "title": "Reported deal terms",
+    "items": [
+     {
+      "a": "Johnson & Johnson",
+      "b": "Ollin Biosciences",
+      "amt": "$3.4B",
+      "st": "Advanced talks, could be Monday",
+      "c": "pend"
+     },
+     {
+      "a": "Upfront cash",
+      "b": "to Ollin investors",
+      "amt": "$2.2B",
+      "st": "Reported",
+      "c": "pend"
+     },
+     {
+      "a": "Milestones",
+      "b": "tied to drug progress",
+      "amt": "$1.2B",
+      "st": "Reported",
+      "c": "pend"
+     }
+    ]
+   },
+   "detail": [
+    "Johnson & Johnson is in advanced talks to buy private biotech Ollin Biosciences for as much as $3.4 billion, according to people familiar with the matter. A British business paper first reported it Sunday.",
+    "Ollin's lead drug, OLN324, targets two proteins that drive leaky blood vessels in the eye. It was headed for late-stage trials in diabetic eye swelling and wet macular degeneration. Ollin raised $330 million in June.",
+    "J&J and Ollin did not comment, and talks could still fall apart."
+   ],
+   "money": [
+    "Milestone-heavy deals limit what a buyer pays if a drug fails, which protects J&J shareholders.",
+    "Big pharma buying biotech can lift small-cap biotech funds; consider a fund rather than guessing targets.",
+    "Eye disease drugs are a large market as people age; competition can lower treatment costs over time."
+   ],
+   "risk": [
+    "The deal is unconfirmed and could collapse."
+   ],
+   "sources": [
+    {
+     "t": "J&J in Talks to Buy Eye-Drug Maker Ollin for Up to $3.4 Bill",
+     "d": "hererockhill.com",
+     "u": "https://www.hererockhill.com/2026/11/16/johnson-johnson-ollin-biosciences-3-4-billion-talks/"
+    }
+   ]
+  },
+  {
+   "id": "childrens-place-closing-2026111611",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business"
+   ],
+   "date": "This week",
+   "ts": "2026-11-16T11:20:00Z",
+   "headline": "The Children's Place is closing all stores after its Chapter 11 filing",
+   "caption": "The kids' clothing chain has about 500 US stores and plans to sell all its assets. Closing sales run 30% to 60% off.",
+   "visual": {
+    "type": "timeline",
+    "title": "The Children's Place",
+    "items": [
+     {
+      "d": "NOV 8",
+      "t": "Files Chapter 11",
+      "s": "With 13 affiliates in New Jersey court"
+     },
+     {
+      "d": "NOV 12",
+      "t": "'All stores closing' banner",
+      "s": "About 500 US stores"
+     },
+     {
+      "d": "NOW",
+      "t": "Sales 30%-60% off",
+      "s": "Last day not announced",
+      "now": true
+     }
+    ]
+   },
+   "detail": [
+    "The Children's Place filed for Chapter 11 bankruptcy on Nov. 8 in New Jersey, along with 13 related companies. It says it plans to sell all of its assets.",
+    "Its website now says all stores are closing. The chain has about 500 US stores. Closing sales offer 30% to 60% off, and no final day has been set."
+   ],
+   "money": [
+    "Use gift cards and store credit now; they can lose value in a liquidation.",
+    "Liquidation sales are often final sale, so check sizes before you buy.",
+    "Compare closing prices with other retailers; early markdowns are not always the best deal."
+   ],
+   "risk": [
+    "Returns and warranties may not be honored once stores close."
+   ],
+   "sources": [
+    {
+     "t": "The Children's Place closing stores after filing Chapter 11 bankruptcy",
+     "d": "finance.yahoo.com",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/childrens-place-closing-stores-filing-203700753.html"
+    },
+    {
+     "t": "Children's Place files for Chapter 11, seeks buyer",
+     "d": "cnbc.com",
+     "u": "https://www.cnbc.com/2026/11/09/childrens-place-chapter-11-sale.html"
+    }
+   ]
+  },
+  {
+   "id": "mortgage-rates-7-32-2026111611",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business",
+    "markets"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T11:20:00Z",
+   "headline": "30-year mortgage rate jumps to 7.32%, up about 0.3 point in a week",
+   "caption": "Every major loan type rose from last week. The 15-year fixed is now about 6.5%.",
+   "visual": {
+    "type": "board",
+    "title": "Mortgage rates today vs. a week ago",
+    "rows": [
+     {
+      "k": "30-yr fixed",
+      "v": "7.319%",
+      "s": "was 7.026%",
+      "tone": "loss"
+     },
+     {
+      "k": "15-yr fixed",
+      "v": "6.498%",
+      "s": "was 6.221%",
+      "tone": "loss"
+     },
+     {
+      "k": "30-yr jumbo",
+      "v": "7.504%",
+      "s": "was 7.243%",
+      "tone": "loss"
+     },
+     {
+      "k": "30-yr FHA",
+      "v": "6.714%",
+      "s": "was 6.488%",
+      "tone": "loss"
+     },
+     {
+      "k": "30-yr VA",
+      "v": "6.816%",
+      "s": "was 6.562%",
+      "tone": "loss"
+     }
+    ],
+    "foot": "Mortgage Research Center averages"
+   },
+   "detail": [
+    "Average mortgage rates rose across the board on Monday. The 30-year fixed hit 7.319%, up from 7.026% a week ago. All six loan types tracked rose 23 to 31 basis points in a week.",
+    "The jump follows the 10-year Treasury yield climbing above 5.1%. The Fed holds its key rate at 3.75% to 4% and meets again Dec. 8-9; a cut is not expected soon.",
+    "On a $300,000 loan, a 30-year at 7.319% costs about $441,800 in total interest, versus about $170,300 for a 15-year at 6.498%."
+   ],
+   "money": [
+    "Get quotes from several lenders; Freddie Mac research says that can save $600 to $1,200 a year.",
+    "If you can afford the payment, a 15-year loan cuts lifetime interest by more than half.",
+    "Ask about a rate lock if you are close to buying, since rates are moving fast."
+   ],
+   "risk": [
+    "Rates can keep rising if bond yields climb further."
+   ],
+   "sources": [
+    {
+     "t": "Mortgage rates Monday, Nov. 16, 2026",
+     "d": "fortune.com",
+     "u": "https://fortune.com/article/current-mortgage-rates-11-16-2026/"
+    }
+   ]
+  },
+  {
+   "id": "warsh-ai-forum-sf-2026111611",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "markets"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T11:20:00Z",
+   "headline": "Fed Chair Warsh hosts an AI forum today: will AI cut prices or cut jobs?",
+   "caption": "Tech leaders, economists and employers meet in San Francisco. Investors want hints on rates before the Dec. 9 Fed decision.",
+   "visual": {
+    "type": "vs",
+    "title": "The Fed's AI debate",
+    "a": [
+     "AI lowers costs",
+     "Room to cut",
+     0.8,
+     "gain"
+    ],
+    "b": [
+     "AI spending heats prices",
+     "Hold or hike",
+     0.8,
+     "loss"
+    ],
+    "foot": "Next rate decision: Dec. 9"
+   },
+   "detail": [
+    "Fed Chair Kevin Warsh is convening a public forum in San Francisco on Monday on how AI affects productivity and jobs. Tech executives, economists and employers are taking part.",
+    "Warsh has argued AI could lower costs and ease inflation, giving the Fed room to cut. Other officials worry heavy AI spending keeps inflation high. Governor Michael Barr has warned of serious short-term job disruption.",
+    "Markets will watch for clues about the Dec. 9 decision. Several Fed officials have recently leaned toward another hike."
+   ],
+   "money": [
+    "Rate-sensitive costs like credit cards and car loans follow the Fed; pay down variable debt while rates are high.",
+    "If AI talk points to cuts later, locking in CD rates now could pay off.",
+    "Build skills that pair with AI tools; it is a practical hedge against job disruption."
+   ],
+   "risk": [
+    "A forum is not a policy decision; comments may not move rates."
+   ],
+   "sources": [
+    {
+     "t": "Fed Chair Warsh Wants Answers on AI Inflation—and Bitcoin May Feel the Impact",
+     "d": "decrypt.co",
+     "u": "https://decrypt.co/383259/fed-chair-warsh-wants-answers-ai-inflation-bitcoin"
+    },
+    {
+     "t": "Nvidia earnings collide with Fed's biggest AI challenge under Warsh",
+     "d": "finance.yahoo.com",
+     "u": "https://finance.yahoo.com/technology/ai/articles/nvidia-earnings-collide-feds-biggest-140300280.html"
+    }
+   ]
+  },
+  {
+   "id": "nokia-telia-ai-gigafactory-2026111611",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "business",
+    "world"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T11:20:00Z",
+   "headline": "Nokia and Telia team up to bid for an EU 'AI Gigafactory' across the Nordics",
+   "caption": "The group, with Nscale, Skeleton and Verda, wants to build linked AI data centers across the Nordic and Baltic region. They will bid in an EU tender.",
+   "visual": {
+    "type": "points",
+    "title": "AI Gigafactory Northern",
+    "items": [
+     "Members: Nokia, Telia, Nscale, Skeleton, Verda",
+     "Plan: one AI network spread over many sites",
+     "Area: Nordic and Baltic countries",
+     "Next: bid in the EU's AI Gigafactory tender"
+    ]
+   },
+   "detail": [
+    "Nokia and Swedish telecom Telia formed a group called AI Gigafactory Northern with Nscale, Skeleton and Verda. The goal is a federated, multi-site AI computing network across the Nordic and Baltic region.",
+    "The group plans to bid in the European Union's AI Gigafactory tender, run by its high-performance computing body. Europe is trying to build its own AI capacity instead of relying only on US firms."
+   ],
+   "money": [
+    "AI infrastructure spending is spreading to telecom and power companies, not just chipmakers.",
+    "Cold climates and cheap clean power give Nordic sites lower cooling costs, a long-run edge.",
+    "Diversify AI exposure across regions; Europe's buildout is a separate theme from US Big Tech."
+   ],
+   "risk": [
+    "Winning the EU tender is not guaranteed; plans could shrink."
+   ],
+   "sources": [
+    {
+     "t": "Additional European Equity News - 16th November 2026",
+     "d": "newsquawk.com",
+     "u": "https://www.newsquawk.com/headlines/additional-european-equity-news---16th-november-2026"
+    }
+   ]
+  },
+  {
+   "id": "medicare-partb-cola-bonus-2026111611",
+   "type": "news",
+   "cat": "benefits",
+   "tags": [
+    "benefits",
+    "taxes"
+   ],
+   "date": "This week",
+   "ts": "2026-11-16T11:20:00Z",
+   "headline": "2027 could be the first year since 2023 that the Social Security raise beats Part B",
+   "caption": "Benefits rise 3.6% in 2027. Medicare trustees estimated Part B rises about 3.25%, so more of the raise may stay in retirees' pockets.",
+   "visual": {
+    "type": "vs",
+    "title": "2027 raise vs. Part B increase",
+    "a": [
+     "Part B (est.)",
+     "+3.25%",
+     0.9,
+     "loss"
+    ],
+    "b": [
+     "COLA",
+     "+3.6%",
+     1,
+     "gain"
+    ],
+    "foot": "Part B: $202.90 in 2026, trustees est. +$6.60"
+   },
+   "detail": [
+    "Social Security checks rise 3.6% in January 2027. For the average retired worker that is about $75 more a month.",
+    "The 2026 Medicare Trustees Report estimated the standard Part B premium will rise $6.60 a month, or 3.25%, from $202.90. If that holds, the raise would outpace the premium hike for the first time since 2023.",
+    "That matters for about 29 million retirees on original Medicare, whose Part B premium comes out of their Social Security check. The official 2027 premium has not been announced yet."
+   ],
+   "money": [
+    "Check your 2027 benefit letter and Part B notice side by side to see your true net raise.",
+    "Medicare open enrollment ends Dec. 7; compare drug plans to keep more of the raise.",
+    "Higher-income retirees pay extra Part B charges; managing taxable income can help."
+   ],
+   "risk": [
+    "The Part B figure is an estimate; the final number could be higher."
+   ],
+   "sources": [
+    {
+     "t": "Social Security's Trump Bump-Driven 2027 COLA Has a Rare \"Bonus\" for 29 Million Retirees",
+     "d": "fool.com",
+     "u": "https://fool.com/retirement/2026/11/15/social-security-trump-bump-driven-2027-cola-has-a-rare-bonus-for-29-million-retirees"
+    }
+   ]
+  },
+  {
+   "id": "georgia-snap-card-locks-2026111611",
+   "type": "news",
+   "cat": "states",
+   "tags": [
+    "states",
+    "benefits"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T11:20:00Z",
+   "headline": "Georgia now locks SNAP cards for online and out-of-state use after a $4.6M fraud case",
+   "caption": "Cardholders must unlock their EBT cards to shop online or outside Georgia and nearby states. Stolen benefits can no longer be replaced.",
+   "visual": {
+    "type": "stat",
+    "title": "Georgia EBT fraud case",
+    "num": "$4.6M",
+    "tone": "loss",
+    "label": "Loaded onto stolen accounts from 2020 to 2026, prosecutors say",
+    "facts": [
+     [
+      "Calls to EBT line",
+      "9,000+",
+      "to reach 350+ accounts"
+     ],
+     [
+      "Cards obtained",
+      "500+",
+      "with stolen identities"
+     ],
+     [
+      "New cards",
+      "Mailed inactive",
+      "unlock to use"
+     ]
+    ]
+   },
+   "detail": [
+    "Georgia changed how its SNAP EBT cards work after a federal fraud indictment. Online purchases and purchases outside Georgia and its five neighboring states are now blocked by default. New and replacement cards arrive inactive.",
+    "Prosecutors say an influencer called the state's EBT line more than 9,000 times, reached more than 350 accounts and got over 500 cards with stolen identities. About $4.6 million was loaded onto those accounts from 2020 to 2026.",
+    "Federal authority to replace stolen SNAP benefits ended in December 2024, so victims' losses can't be refunded. Chip cards need federal approval and have no rollout date."
+   ],
+   "money": [
+    "Lock your EBT card in the ConnectEBT app or website when you are not using it.",
+    "Unlock only right before shopping online, then lock it again.",
+    "Check your balance often; stolen benefits are gone for good."
+   ],
+   "risk": [
+    "Card skimming and phone scams still work on magnetic-stripe cards."
+   ],
+   "sources": [
+    {
+     "t": "Ga. makes changes to SNAP cards after influencer's indictment",
+     "d": "wrdw.com",
+     "u": "https://www.wrdw.com/2026/11/16/ga-makes-changes-snap-cards-after-influencers-indictment/"
+    }
+   ]
+  },
+  {
+   "id": "scotus-asylum-ban-case-2026111611",
+   "type": "news",
+   "cat": "immigration",
+   "tags": [
+    "immigration",
+    "politics"
+   ],
+   "date": "This week",
+   "ts": "2026-11-16T11:20:00Z",
+   "headline": "Supreme Court will decide if Trump's border asylum ban is legal; restrictions stay for now",
+   "caption": "The justices agreed to hear the case, with arguments likely next spring. Lower courts ruled against the policy but it remains in effect during the appeal.",
+   "visual": {
+    "type": "timeline",
+    "title": "The asylum ban case",
+    "items": [
+     {
+      "d": "JAN 20 2025",
+      "t": "Proclamation suspends entry",
+      "s": "Blocks asylum claims at the border"
+     },
+     {
+      "d": "LOWER COURTS",
+      "t": "Judge Moss, D.C. Circuit rule it unlawful",
+      "s": "Ruling on hold during appeal"
+     },
+     {
+      "d": "NOV 13",
+      "t": "Supreme Court takes the case",
+      "now": true
+     },
+     {
+      "d": "SPRING 2027",
+      "t": "Arguments expected"
+     }
+    ]
+   },
+   "detail": [
+    "The Supreme Court agreed Friday to hear the administration's appeal over its January 2025 border proclamation. The order suspended entry of migrants at the southern border and barred them from seeking asylum.",
+    "A federal judge found the related DHS guidance unlawful, and an appeals court largely agreed. That ruling is on hold during the appeal, so the restrictions stay in place.",
+    "Challengers include 13 people who say they faced persecution or torture and three nonprofits. Arguments are likely next spring, with a decision probably by summer."
+   ],
+   "money": [
+    "Immigration rules affect labor supply in farming, building and care work, which can move prices.",
+    "Employers who rely on immigrant workers should plan for policy changes either way.",
+    "Families with pending cases should rely on a licensed immigration attorney, not social media."
+   ],
+   "risk": [
+    "The ruling could go either way and reshape border policy."
+   ],
+   "sources": [
+    {
+     "t": "Supreme Court agrees to hear case on Trump administration's suspension of asylum",
+     "d": "yahoo.com",
+     "u": "https://www.yahoo.com/news/politics/articles/supreme-court-agrees-hear-case-204418814.html"
+    }
+   ]
+  },
+  {
+   "id": "irs-401k-limit-2027-2026111611",
+   "type": "news",
+   "cat": "taxes",
+   "tags": [
+    "taxes",
+    "benefits"
+   ],
+   "date": "This week",
+   "ts": "2026-11-16T11:20:00Z",
+   "headline": "IRS: 401(k) limit rises to $25,500 for 2027; IRA limit stays $7,500",
+   "caption": "Workers 50+ can add $8,500 more, and ages 60-63 get $11,750. Roth IRA income limits also rise.",
+   "visual": {
+    "type": "board",
+    "title": "2027 retirement limits",
+    "rows": [
+     {
+      "k": "401(k) employee limit",
+      "v": "$25,500",
+      "s": "was $24,500",
+      "tone": "gain"
+     },
+     {
+      "k": "Catch-up, 50+",
+      "v": "$8,500",
+      "s": "was $8,000",
+      "tone": "gain"
+     },
+     {
+      "k": "Catch-up, ages 60-63",
+      "v": "$11,750"
+     },
+     {
+      "k": "IRA limit",
+      "v": "$7,500",
+      "s": "unchanged"
+     },
+     {
+      "k": "Roth phase-out, single",
+      "v": "$158K-$173K",
+      "tone": "gain"
+     },
+     {
+      "k": "Roth phase-out, joint",
+      "v": "$250K-$260K",
+      "tone": "gain"
+     }
+    ]
+   },
+   "detail": [
+    "The IRS said workers can put up to $25,500 into a 401(k), 403(b) or most 457 plans in 2027, up $1,000. The standard catch-up for people 50 and older rises to $8,500, for a total of $34,000.",
+    "People aged 60 to 63 can use a larger catch-up of $11,750. The IRA limit stays at $7,500, with a $1,100 catch-up.",
+    "Roth IRA income phase-outs rise to $158,000-$173,000 for singles and $250,000-$260,000 for married couples filing jointly. SIMPLE plan limits rise to $17,500."
+   ],
+   "money": [
+    "Raise your 401(k) percentage in January so the extra $1,000 is spread through the year.",
+    "If you are 60-63, the bigger catch-up lets you shelter up to $37,250 a year.",
+    "Higher Roth income limits may let you contribute directly again; check before using a backdoor Roth."
+   ],
+   "risk": [
+    "Contributions above the limit must be removed or they face extra tax."
+   ],
+   "sources": [
+    {
+     "t": "401(k) limit increases to $25,500 for 2027, IRA limit remains $7,500",
+     "d": "irs.gov",
+     "u": "https://www.irs.gov/newsroom/401k-limit-increases-to-25500-for-2027-ira-limit-remains-7500"
+    }
+   ]
+  },
+  {
+   "id": "btc-60k-put-top-bet-2026111611",
+   "type": "news",
+   "cat": "crypto",
+   "tags": [
+    "crypto",
+    "markets"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T11:20:00Z",
+   "headline": "Bitcoin's biggest options bet is now a drop below $60,000, not a run to $100K",
+   "caption": "The $60K put holds about $900 million in open interest on Deribit, edging out the $100K call. Bitcoin is down about 17% in November.",
+   "visual": {
+    "type": "vs",
+    "title": "Largest bitcoin options on Deribit",
+    "a": [
+     "$100K call",
+     "$867M",
+     0.96,
+     "gain"
+    ],
+    "b": [
+     "$60K put",
+     "$900M",
+     1,
+     "loss"
+    ],
+    "foot": "Notional open interest, Nov. 16"
+   },
+   "detail": [
+    "The $60,000 bitcoin put is now the largest options position on Deribit, with about $900 million in notional open interest. It passed the $100,000 call at $867 million.",
+    "Bitcoin fell below $62,000 on Saturday, its sixth straight weekly loss, before recovering above $64,000. A key 30-day volatility index hit its highest level since June on Sunday.",
+    "One trader cautioned that open interest is built up over months, so it doesn't mean traders are rushing into puts today."
+   ],
+   "money": [
+    "Puts act like insurance; large put buying shows hedging, not a certain crash.",
+    "If you hold bitcoin, decide in advance how much drop you can stomach.",
+    "Steady small buys can lower your average price in a falling market, if you plan to hold long term."
+   ],
+   "risk": [
+    "Bitcoin can fall below $60K quickly if selling speeds up."
+   ],
+   "sources": [
+    {
+     "t": "BTC news: $60K put is the top options bet with $900M in open interest",
+     "d": "coindesk.com",
+     "u": "https://www.coindesk.com/markets/2026/11/16/bitcoin-s-biggest-bet-is-now-a-drop-below-usd60-000-not-a-rally-above-usd100-000"
+    },
+    {
+     "t": "Live news: Bitcoin rebounds above $64,000 as November losses deepen to 17%",
+     "d": "coindesk.com",
+     "u": "https://www.coindesk.com/tech/2026/11/16/live-news-bitcoin-posts-sixth-weekly-loss-as-tech-stocks-and-metals-slide"
+    }
+   ]
+  },
+  {
+   "id": "jpm-dbs-weekend-dollars-2026111611",
+   "type": "news",
+   "cat": "crypto",
+   "tags": [
+    "crypto",
+    "business"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T11:20:00Z",
+   "headline": "JPMorgan and DBS link blockchain deposits so clients can move dollars on weekends",
+   "caption": "Approved clients can now send tokenized US dollars between Singapore and the US any time. Ant International is an early user.",
+   "visual": {
+    "type": "points",
+    "title": "How the new link works",
+    "items": [
+     "DBS Token Services connects with JPMorgan's Kinexys",
+     "Moves tokenized bank deposits, not crypto",
+     "Runs 24/7, including weekends",
+     "Gap: 3 hours each Saturday for maintenance",
+     "First named client: Ant International"
+    ]
+   },
+   "detail": [
+    "DBS and JPMorgan connected their blockchain deposit networks on Monday. Approved business clients can now move tokenized US dollars between Singapore and the US around the clock, including weekends.",
+    "Tokenized deposits are regular bank deposits recorded on a bank's private blockchain. They are not cryptocurrency. Moving money between a regular account and a JPMorgan blockchain account still pauses for three hours each Saturday afternoon.",
+    "Ant International plans to use the link to manage cash between Singapore and the US. Other big banks are building similar shared networks."
+   ],
+   "money": [
+    "Faster weekend transfers can cut costly delays for small exporters who deal with Asia.",
+    "Watch for banks offering 24/7 transfers to everyday customers next; compare fees when it comes.",
+    "Tokenized deposits keep normal bank protections, unlike many crypto stablecoins."
+   ],
+   "risk": [
+    "Only approved corporate clients can use it for now."
+   ],
+   "sources": [
+    {
+     "t": "DBS and JPMorgan link blockchain deposit networks for 24/7 dollar transfers",
+     "d": "coindesk.com",
+     "u": "https://www.coindesk.com/business/2026/11/16/j-p-morgan-and-dbs-let-clients-move-dollars-across-borders-on-weekends"
+    }
+   ]
+  },
+  {
+   "id": "eu-ukraine-70b-gap-2026111611",
+   "type": "news",
+   "cat": "world",
+   "tags": [
+    "world",
+    "politics"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T11:20:00Z",
+   "headline": "EU ministers meet on Ukraine's €70 billion funding gap; a plan comes Wednesday",
+   "caption": "Foreign ministers gathered in Brussels Monday to assess Ukraine's needs and air defense. A 36-nation coalition meets in Berlin Thursday.",
+   "visual": {
+    "type": "timeline",
+    "title": "Ukraine money week",
+    "items": [
+     {
+      "d": "MON NOV 16",
+      "t": "EU foreign ministers meet in Brussels",
+      "now": true
+     },
+     {
+      "d": "WED NOV 18",
+      "t": "Commission plan for €70B gap"
+     },
+     {
+      "d": "THU NOV 19",
+      "t": "'Coalition of the Willing' meets in Berlin",
+      "s": "About 36 countries"
+     }
+    ]
+   },
+   "detail": [
+    "EU foreign ministers met in Brussels on Monday to review what Ukraine needs, including air defense. Ukraine faces a funding gap of about €70 billion next year.",
+    "The European Commission will propose how to fill that gap on Wednesday. On Thursday, the roughly 36-country 'Coalition of the Willing' meets in Berlin. It could provide a peacekeeping force if a ceasefire takes hold."
+   ],
+   "money": [
+    "European defense stocks have held up this year; a defense or international fund spreads that bet.",
+    "War funding decisions can move energy and grain prices, which hit grocery and gas bills.",
+    "Keep an emergency fund; geopolitical shocks often show up in prices months later."
+   ],
+   "risk": [
+    "Talks on funding and peace could stall."
+   ],
+   "sources": [
+    {
+     "t": "EU to agree 113 new sanctions listings on Russia, says McEntee",
+     "d": "rte.ie",
+     "u": "https://www.rte.ie/news/europe/2026/1116/1599321-eu-ukraine-politics/"
+    }
+   ]
+  },
+  {
+   "id": "gop-final-sprint-350b-2026111611",
+   "type": "news",
+   "cat": "politics",
+   "tags": [
+    "politics",
+    "taxes"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T11:20:00Z",
+   "headline": "Lame-duck GOP eyes one last party-line bill; Trump wants $350B for defense in it",
+   "caption": "Government money runs out Dec. 11, and Democrats want limits on Iran war funds. Odds for a final reconciliation bill look slim.",
+   "visual": {
+    "type": "points",
+    "title": "Lame-duck money fights",
+    "items": [
+     "Dec. 11: government funding runs out",
+     "Trump wants a $350B defense add-on",
+     "Some Republicans want a final reconciliation bill",
+     "Democrats want Iran war funds cut off",
+     "Defense policy bill (NDAA) also pending"
+    ]
+   },
+   "detail": [
+    "Republicans have weeks left in control of Congress after the midterms. Some want one more party-line budget bill, which avoids the Senate filibuster. Its odds look slim.",
+    "President Trump wants a $350 billion defense supplemental in that bill, but not all Republicans agree. Other ideas include fraud crackdowns and deficit cuts.",
+    "Separately, current funding ends Dec. 11. Democrats say they will back a spending bill only if it cuts off defense money for the Iran war, which Republicans reject."
+   ],
+   "money": [
+    "A shutdown can delay some federal services; file anything time-sensitive with agencies early.",
+    "Federal workers and contractors should build a cash cushion before Dec. 11.",
+    "Watch any final tax bill for changes that could affect 2027 planning."
+   ],
+   "risk": [
+    "A stopgap could still pass at the last minute."
+   ],
+   "sources": [
+    {
+     "t": "Republicans' final sprint: What will they get done while they're still in control?",
+     "d": "deseret.com",
+     "u": "https://www.deseret.com/politics/2026/11/16/republicans-final-sprint-in-majority/"
+    }
+   ]
+  },
+  {
+   "id": "edu-mortgage-rate-jump-2026111611",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "business"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-16T11:20:00Z",
+   "headline": "A 0.3-point mortgage jump: what it really costs you",
+   "caption": "Rates hit 7.32% today. Here's how a small rate change and loan length change what you pay.",
+   "scenes": [
+    {
+     "k": "Today's news",
+     "t": "30-year rate: 7.32%",
+     "s": "Up from 7.03% a week ago."
+    },
+    {
+     "k": "The basics",
+     "t": "Your rate sets your monthly interest",
+     "s": "Even a fraction of a point adds up over 30 years."
+    },
+    {
+     "k": "Same loan, two terms",
+     "t": "$300K loan, total interest",
+     "viz": {
+      "type": "split",
+      "items": [
+       [
+        "30-yr at 7.32%",
+        "$441.8K"
+       ],
+       [
+        "15-yr at 6.50%",
+        "$170.3K"
+       ],
+       [
+        "Difference",
+        "$271.5K",
+        "wide"
+       ]
+      ]
+     },
+     "say": "On a 300 thousand dollar loan, a 30-year costs about 442 thousand in interest. A 15-year costs about 170 thousand."
+    },
+    {
+     "k": "Why 15-year is cheaper",
+     "t": "Lower rate plus fewer years",
+     "s": "But the monthly payment is higher, so budget first."
+    },
+    {
+     "k": "Free savings",
+     "t": "Shop at least 3 lenders",
+     "s": "Freddie Mac research says it can save $600 to $1,200 a year."
+    },
+    {
+     "k": "Takeaway",
+     "t": "Rate, term and shopping all matter",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "Check budget",
+       "Compare terms",
+       "Get 3+ quotes",
+       "Lock your rate"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "edu-catch-up-contributions-2026111611",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "taxes"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-16T11:20:00Z",
+   "headline": "Catch-up contributions: the extra 401(k) room after 50",
+   "caption": "The IRS raised 2027 limits. Here's how catch-ups work and who gets the biggest boost.",
+   "scenes": [
+    {
+     "k": "Today's news",
+     "t": "2027 401(k) limit: $25,500",
+     "s": "Up $1,000 from 2026."
+    },
+    {
+     "k": "What a catch-up is",
+     "t": "Extra savings room for older workers",
+     "s": "It helps people who saved less earlier make up ground."
+    },
+    {
+     "k": "2027 limits by age",
+     "t": "How much you can put in",
+     "viz": {
+      "type": "split",
+      "items": [
+       [
+        "Under 50",
+        "$25,500"
+       ],
+       [
+        "Age 50+",
+        "$34,000"
+       ],
+       [
+        "Ages 60-63",
+        "$37,250",
+        "wide"
+       ]
+      ]
+     },
+     "say": "Under 50, you can save 25,500. At 50 and up, 34,000. Ages 60 to 63 can save 37,250."
+    },
+    {
+     "k": "Why it matters",
+     "t": "Pre-tax money cuts your tax bill now",
+     "s": "Traditional 401(k) contributions lower your taxable income this year."
+    },
+    {
+     "k": "IRAs too",
+     "t": "IRA: $7,500 plus $1,100 at 50+",
+     "s": "The IRA limit did not change for 2027."
+    },
+    {
+     "k": "How to use it",
+     "t": "Set it and forget it",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "Check your age band",
+       "Update payroll %",
+       "Get full employer match",
+       "Review each January"
+      ]
+     }
+    }
+   ]
+  },
   {
    "id": "baidu-q3-ai-cloud-2026111610",
    "type": "news",
@@ -11112,1090 +12183,6 @@
        "Watch agency notices"
       ]
      }
-    }
-   ]
-  },
-  {
-   "id": "gold-below-4000-2026111521",
-   "type": "news",
-   "cat": "markets",
-   "tags": [
-    "markets"
-   ],
-   "date": "This week",
-   "ts": "2026-11-15T21:18:00Z",
-   "headline": "Gold breaks below $4,000 and hits a 13-month low as rate-hike bets grow",
-   "caption": "Gold fell about 4% this week to near $3,890. Hot inflation, a 5% 10-year yield and a strong dollar pushed it down.",
-   "visual": {
-    "type": "board",
-    "title": "Gold's rough week",
-    "rows": [
-     {
-      "k": "Mon Nov 9",
-      "v": "$4,140",
-      "ch": 1.7,
-      "tone": "gain"
-     },
-     {
-      "k": "Tue Nov 10",
-      "s": "Hot CPI",
-      "v": "$4,032",
-      "ch": -2.6,
-      "tone": "loss"
-     },
-     {
-      "k": "Wed Nov 11",
-      "s": "Dollar up",
-      "v": "$3,983",
-      "ch": -1.2,
-      "tone": "loss"
-     },
-     {
-      "k": "Thu Nov 12",
-      "s": "13-month low",
-      "v": "$3,876",
-      "ch": -2.7,
-      "tone": "loss"
-     },
-     {
-      "k": "Fri Nov 13",
-      "s": "Open",
-      "v": "$3,892",
-      "ch": 0.4,
-      "tone": "gain"
-     }
-    ],
-    "foot": "Silver fell about 3.7% to near $50"
-   },
-   "detail": [
-    "Gold started the week above $4,100 but slid after October inflation came in hotter than expected. By Thursday it closed near $3,876, its lowest in about 13 months. Last week we noted UBS called $4,000 a floor; that level has now broken.",
-    "Higher rates hurt gold because it pays no interest. Markets now price a December Fed hike as very likely. TD Securities sees a retest near $3,900, and central banks have still bought 675 tonnes this year."
-   ],
-   "money": [
-    "If you own gold, check that it's a small, planned slice of your portfolio, not a bet that has grown or shrunk past your target.",
-    "When rates rise, savings accounts and Treasury bills pay more; compare those yields before chasing a gold dip.",
-    "If you buy coins or bars, compare dealer markups; they can wipe out a small price drop."
-   ],
-   "risk": [
-    "Gold could keep falling if the Fed hikes more than expected.",
-    "A sudden Mideast flare-up could send it sharply back up."
-   ],
-   "sources": [
-    {
-     "t": "Gold Lost $4,000 as Inflation Ran Hot and the Dollar Surged",
-     "d": "gsiexchange.com",
-     "u": "https://gsiexchange.com/gold-lost-4-000-as-inflation-ran-hot-and-the-dollar-surged/"
-    },
-    {
-     "t": "Gold prices fall below $4,000 as analysts warn of further losses toward $3,900",
-     "d": "kitco.com",
-     "u": "https://www.kitco.com/news/article/2026-11-11/gold-prices-fall-below-4000-analysts-warn-further-losses-toward-3900"
-    }
-   ]
-  },
-  {
-   "id": "warsh-ai-forum-fomc-week-2026111521",
-   "type": "news",
-   "cat": "markets",
-   "tags": [
-    "markets",
-    "ai"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-15T21:18:00Z",
-   "headline": "Fed Chair Warsh hosts an AI forum Monday; Fed minutes land Wednesday",
-   "caption": "Warsh leads a San Francisco forum on whether AI lowers prices or costs jobs. Wednesday's minutes show how split the Fed was in October.",
-   "visual": {
-    "type": "timeline",
-    "title": "Fed week ahead",
-    "items": [
-     {
-      "d": "NOV 16",
-      "t": "Warsh AI forum",
-      "s": "San Francisco",
-      "now": true
-     },
-     {
-      "d": "NOV 17",
-      "t": "Retail sales + Hammack",
-      "s": "8:30 a.m. ET data"
-     },
-     {
-      "d": "NOV 18",
-      "t": "Fed minutes",
-      "s": "2:00 p.m. ET"
-     },
-     {
-      "d": "NOV 19",
-      "t": "Goolsbee, Paulson speak"
-     },
-     {
-      "d": "DEC 9",
-      "t": "Next rate decision"
-     }
-    ]
-   },
-   "detail": [
-    "Fed Chair Kevin Warsh will lead a public forum in San Francisco on Monday. Tech leaders, economists and employers will discuss whether AI will cut costs, push prices up, or replace workers. Warsh has argued AI could help ease inflation.",
-    "Other Fed officials disagree. Governor Lisa Cook warned AI spending is adding to price pressure, and Governor Michael Barr flagged possible job disruptions. The forum isn't expected to set policy, but traders will listen for hints before the Dec. 9 decision."
-   ],
-   "money": [
-    "If a December hike comes, rates on new credit card balances and HELOCs usually rise soon after; paying down variable debt now helps.",
-    "Savers can lock in today's high CD or Treasury yields before any later shift.",
-    "Big Fed-week swings are a reason to stick to automatic investing, not to trade on headlines."
-   ],
-   "risk": [
-    "Comments from Warsh could move stocks, bonds and bitcoin sharply on Monday."
-   ],
-   "sources": [
-    {
-     "t": "Fed Chair Warsh Wants Answers on AI Inflation, and Bitcoin May Feel the Impact",
-     "d": "decrypt.co",
-     "u": "https://decrypt.co/383259/fed-chair-warsh-wants-answers-ai-inflation-bitcoin"
-    },
-    {
-     "t": "Gold Lost $4,000 as Inflation Ran Hot and the Dollar Surged",
-     "d": "gsiexchange.com",
-     "u": "https://gsiexchange.com/gold-lost-4-000-as-inflation-ran-hot-and-the-dollar-surged/"
-    }
-   ]
-  },
-  {
-   "id": "eth-etf-outflows-2026111521",
-   "type": "news",
-   "cat": "crypto",
-   "tags": [
-    "crypto",
-    "markets"
-   ],
-   "date": "This week",
-   "ts": "2026-11-15T21:18:00Z",
-   "headline": "Ether sinks 18% in a week as bitcoin funds bleed $1.07 billion",
-   "caption": "Ether fell to about $1,837 and crypto lost over $300B in value this week. Bitcoin ETFs saw outflows every trading day.",
-   "visual": {
-    "type": "stat",
-    "title": "Crypto's week",
-    "num": "-18%",
-    "tone": "loss",
-    "label": "Ether's drop over the past week.",
-    "facts": [
-     [
-      "Bitcoin",
-      "$65,821",
-      "-13.3% on week"
-     ],
-     [
-      "Total crypto",
-      "$2.27T",
-      "from $2.59T"
-     ],
-     [
-      "Fear & Greed",
-      "10",
-      "Extreme Fear"
-     ]
-    ]
-   },
-   "detail": [
-    "Ether fell from about $2,240 to $1,837 this week, touching $1,711, its lowest since early July. Bitcoin fell about 13% and broke below its 200-week average. The fear index dropped to 10, deep in 'extreme fear.'",
-    "Spot bitcoin ETFs lost about $1.07 billion this week, with outflows on all five days and roughly $3 billion since Oct. 30. Ether ETFs lost about $399 million. Stablecoin supply also shrank at the fastest pace since 2022."
-   ],
-   "money": [
-    "Selling after a big drop can lock in losses; decide on a plan before acting on fear.",
-    "Losses in a taxable account may offset gains at tax time; ask a tax pro how that works for you.",
-    "Avoid borrowed money in crypto; about $2 billion in leveraged bets were wiped out in one day."
-   ],
-   "risk": [
-    "Crypto can fall much further, and quickly.",
-    "ETF outflows can keep pressure on prices for weeks."
-   ],
-   "sources": [
-    {
-     "t": "The Sunday Crypto Desk, 15 November 2026",
-     "d": "thecryptodesk.substack.com",
-     "u": "https://thecryptodesk.substack.com/p/the-sunday-crypto-desk-15-november"
-    }
-   ]
-  },
-  {
-   "id": "nebraska-medicaid-work-rules-2026111521",
-   "type": "news",
-   "cat": "benefits",
-   "tags": [
-    "benefits",
-    "states"
-   ],
-   "date": "Sun Nov 15",
-   "ts": "2026-11-15T21:18:00Z",
-   "headline": "Nebraska's early Medicaid work rules: 1,100 denied, call waits doubled",
-   "caption": "Nebraska started work rules eight months early. The state calls it a success, but call waits doubled and some lost coverage over paperwork.",
-   "visual": {
-    "type": "board",
-    "title": "Nebraska, May to August",
-    "rows": [
-     {
-      "k": "Adults covered by rule",
-      "v": "~70,000"
-     },
-     {
-      "k": "Denied over work rule",
-      "s": "Mostly unanswered paperwork",
-      "v": "~1,100",
-      "tone": "loss"
-     },
-     {
-      "k": "Enrollment change",
-      "v": "-4,600",
-      "ch": -1.4,
-      "tone": "loss"
-     },
-     {
-      "k": "Avg call wait",
-      "s": "May to July",
-      "v": "13 to 26 min",
-      "tone": "loss"
-     },
-     {
-      "k": "Existing enrollees kept coverage",
-      "v": "93%",
-      "tone": "gain"
-     }
-    ],
-    "foot": "Most states start the rules next year"
-   },
-   "detail": [
-    "Nebraska began Medicaid work requirements on May 1, months ahead of most states. Adults must log 80 hours a month of work or similar activity unless exempt. The state says 93% of existing enrollees kept coverage.",
-    "Fortune reports about 1,100 people were denied, mostly for not answering requests for information. Calls jumped 66% and wait times doubled. More than 40 states start similar rules next year, and the CBO expects 5.3 million more uninsured by 2034."
-   ],
-   "money": [
-    "If you're on Medicaid, open and answer every state letter fast; most denials came from missed paperwork.",
-    "Ask whether you qualify for an exemption, such as for health or caregiving, before a deadline hits.",
-    "If you lose Medicaid, ACA open enrollment is running now and may offer subsidized plans."
-   ],
-   "risk": [
-    "Rules and dates differ by state; some states delayed enforcement to mid-2027."
-   ],
-   "sources": [
-    {
-     "t": "Nebraska rushed Medicaid work rules. Then a cancer patient was told he'd lost coverage",
-     "d": "fortune.com",
-     "u": "https://fortune.com/2026/11/15/medicaid-work-requirements-lost-coverage-nebraska-early-rollout"
-    }
-   ]
-  },
-  {
-   "id": "payroll-tax-cap-6700-2026111521",
-   "type": "news",
-   "cat": "taxes",
-   "tags": [
-    "taxes",
-    "politics",
-    "benefits"
-   ],
-   "date": "Sun Nov 15",
-   "ts": "2026-11-15T21:18:00Z",
-   "headline": "Democrats eye the Social Security tax cap: high earners could pay $6,700 more",
-   "caption": "Sanders wants to lift the payroll tax cap, now $184,500. Raising it to $300,000 would cost someone earning that much about $6,700 a year.",
-   "visual": {
-    "type": "vs",
-    "title": "Max employee Social Security tax",
-    "a": [
-     "2027 cap",
-     "$11,923",
-     0.64,
-     "acc"
-    ],
-    "b": [
-     "If cap were $300K",
-     "$18,600",
-     1,
-     "loss"
-    ],
-    "foot": "Employee share at 6.2%. Not law; Congress hasn't voted."
-   },
-   "detail": [
-    "Social Security tax is 6.2% for workers, matched by employers, but only on wages up to a cap. The cap is $184,500 this year and $192,300 in 2027. Sen. Bernie Sanders says lifting it and raising benefits $2,400 a year are top goals now that Democrats will control Congress.",
-    "A Tax Policy Center economist estimated a $300,000 cap would cost a worker at that pay about $6,700 more a year. People earning $150,000 would see no change. Removing the cap would close about 58% of the program's long-term gap."
-   ],
-   "money": [
-    "If you earn above the cap, watch this debate when planning bonuses, raises or job offers.",
-    "Self-employed high earners pay both halves, so a change would hit them twice as hard; plan estimated taxes accordingly.",
-    "Retirement income like IRA withdrawals isn't hit by payroll tax, so this mainly affects wages."
-   ],
-   "risk": [
-    "Nothing has passed, and the president could veto changes."
-   ],
-   "sources": [
-    {
-     "t": "After Democrats Sweep Congress, Your Social Security Taxes Could Rise by $6,700",
-     "d": "247wallst.com",
-     "u": "https://247wallst.com/personal-finance/social-security/2026/11/15/after-democrats-sweep-congress-your-social-security-taxes-could-rise-by-6700/"
-    }
-   ]
-  },
-  {
-   "id": "irs-ai-tax-pro-complaints-2026111521",
-   "type": "news",
-   "cat": "taxes",
-   "tags": [
-    "taxes",
-    "ai"
-   ],
-   "date": "Sun Nov 15",
-   "ts": "2026-11-15T21:18:00Z",
-   "headline": "IRS sees more complaints about tax preparers misusing AI",
-   "caption": "The IRS ethics office says AI-related referrals are starting to rise. It plans new AI guidance for tax pros within a couple of months.",
-   "visual": {
-    "type": "points",
-    "title": "IRS and AI tax prep",
-    "items": [
-     "AI cases are rising, but still under 5 of ~200 open cases",
-     "Rules for tax pros already apply to AI use (June alert)",
-     "More guidance due in the next couple of months",
-     "The ethics office has just 15 staff"
-    ]
-   },
-   "detail": [
-    "The IRS Office of Professional Responsibility polices tax preparers. Its director says referrals involving questionable AI use are starting to tick up. Fewer than five of its roughly 200 cases involve AI so far.",
-    "In June the office said its existing rules for preparers, known as Circular 230, cover AI tools. It plans more guidance soon, though it has only 15 workers."
-   ],
-   "money": [
-    "Ask your preparer how they use AI and who checks the final return.",
-    "Review your return line by line before you sign; you're liable for errors even if a pro filed it.",
-    "Keep your own records of income and deductions so you can catch mistakes."
-   ],
-   "risk": [
-    "An AI error on your return can still bring penalties and interest for you."
-   ],
-   "sources": [
-    {
-     "t": "IRS: Tax Pro AI Complaints Are on the Rise",
-     "d": "taxprofblog.aals.org",
-     "u": "https://taxprofblog.aals.org/2026/11/15/irs-tax-pro-ai-complaints-are-on-the-rise"
-    }
-   ]
-  },
-  {
-   "id": "cassidy-social-security-fund-2026111521",
-   "type": "news",
-   "cat": "politics",
-   "tags": [
-    "politics",
-    "benefits"
-   ],
-   "date": "Sun Nov 15",
-   "ts": "2026-11-15T21:18:00Z",
-   "headline": "Sen. Cassidy pitches borrowing $1.5 trillion to invest for Social Security",
-   "caption": "On Face the Nation, Cassidy said a $1.5 trillion investment fund could cover up to 70% of the shortfall. He said Sen. Wyden opposes it.",
-   "visual": {
-    "type": "stat",
-    "title": "Cassidy's Social Security idea",
-    "num": "$1.5T",
-    "tone": "acc",
-    "label": "Borrowed money that would be invested in markets.",
-    "facts": [
-     [
-      "Shortfall covered",
-      "Up to 70%",
-      "Cassidy's estimate"
-     ],
-     [
-      "Insolvency",
-      "~6 years",
-      "per CBS"
-     ],
-     [
-      "Status",
-      "Proposal",
-      "not a bill vote"
-     ]
-    ]
-   },
-   "detail": [
-    "Sen. Bill Cassidy (R-La.) described a plan to borrow $1.5 trillion and put it in investment funds. He said the returns could cover up to 70% of Social Security's funding gap. He said Sen. Ron Wyden opposes the idea.",
-    "Host Margaret Brennan noted Social Security is about six years from insolvency. This is one of several plans as Democrats, who take Congress in January, push to tax more wages instead."
-   ],
-   "money": [
-    "Plans are moving in two directions, more taxes or new investing; check your own Social Security estimate at ssa.gov.",
-    "If you're close to claiming, base plans on current law, but keep a cushion in case benefits change.",
-    "Building your own savings in a 401(k) or IRA lowers how much a change would hurt."
-   ],
-   "risk": [
-    "Investing borrowed money in markets carries the risk of losses."
-   ],
-   "sources": [
-    {
-     "t": "Full transcript of Face the Nation, Nov. 15, 2026",
-     "d": "cbsnews.com",
-     "u": "https://cbsnews.com/news/face-the-nation-full-transcript-11-15-2026"
-    }
-   ]
-  },
-  {
-   "id": "faa-funding-fight-2026111521",
-   "type": "news",
-   "cat": "politics",
-   "tags": [
-    "politics",
-    "business"
-   ],
-   "date": "Sun Nov 15",
-   "ts": "2026-11-15T21:18:00Z",
-   "headline": "After flight chaos, Duffy wants $50B for air traffic control; Democrats balk",
-   "caption": "Transportation Secretary Duffy said the FAA has $12.5B but needs $50B. Rep. Himes said spend what's there first.",
-   "visual": {
-    "type": "vs",
-    "title": "Air traffic control money",
-    "a": [
-     "Already approved",
-     "$12.5B",
-     0.25,
-     "acc"
-    ],
-    "b": [
-     "Duffy's total ask",
-     "$50B",
-     1,
-     "loss"
-    ],
-    "foot": "Democrats say much of $25B approved in 2021 is unspent"
-   },
-   "detail": [
-    "On Face the Nation, Transportation Secretary Sean Duffy said Congress gave the FAA $12.5 billion in this year's big budget law. He said he has asked for $50 billion in total and still lacks funds for new networks and software.",
-    "Rep. Jim Himes (D-Conn.) called it a priorities problem, not a money problem, and said the $12.5 billion should be spent first. The fight follows last week's nationwide ground stop that canceled thousands of flights."
-   ],
-   "money": [
-    "Book holiday flights early in the day; early flights are less likely to face rolling delays.",
-    "Know your refund rights: if a US airline cancels, you can get cash back instead of a voucher.",
-    "Travel credit cards with delay coverage can pay for hotels and meals when flights slip."
-   ],
-   "risk": [
-    "More outages could hit during the busy holiday season."
-   ],
-   "sources": [
-    {
-     "t": "Full transcript of Face the Nation, Nov. 15, 2026",
-     "d": "cbsnews.com",
-     "u": "https://cbsnews.com/news/face-the-nation-full-transcript-11-15-2026"
-    }
-   ]
-  },
-  {
-   "id": "microsoft-h1b-scrutiny-2026111521",
-   "type": "news",
-   "cat": "immigration",
-   "tags": [
-    "immigration",
-    "business",
-    "ai"
-   ],
-   "date": "Fri Nov 13",
-   "ts": "2026-11-15T21:18:00Z",
-   "headline": "Labor Dept. watchdog ties Microsoft outage jab to its H-1B use; Microsoft pushes back",
-   "caption": "The Labor Department's inspector general said layoffs while seeking H-1B visas raise red flags. Microsoft says the outage had nothing to do with visas.",
-   "visual": {
-    "type": "board",
-    "title": "Microsoft and H-1B",
-    "rows": [
-     {
-      "k": "H-1B approvals FY2025",
-      "s": "Includes renewals",
-      "v": "6,258"
-     },
-     {
-      "k": "H-1B approvals FY2024",
-      "v": "~4,700"
-     },
-     {
-      "k": "Global layoffs 2025",
-      "v": "~16,000",
-      "tone": "loss"
-     },
-     {
-      "k": "IG probe",
-      "v": "Active",
-      "tone": "acc"
-     }
-    ]
-   },
-   "detail": [
-    "After Microsoft's global outage, Labor Department Inspector General Anthony D'Esposito criticized the company's H-1B use online. He said layoffs while pursuing H-1B visas raise serious red flags and that an investigation remains active.",
-    "Microsoft said the outage was not related in any way to its immigration program and blamed a technical issue. It was approved for 6,258 H-1B petitions in fiscal 2025. A September executive order lets agencies weigh an employer's layoffs when reviewing H-1B sponsorship."
-   ],
-   "money": [
-    "Visa workers at firms that recently cut jobs may face more review; keep your paperwork and timelines current.",
-    "Tech workers can track which employers are under scrutiny when weighing job offers.",
-    "If you hire, keep clear records of layoffs and hiring decisions in case of an audit."
-   ],
-   "risk": [
-    "Rules here are changing fast and are being challenged in court."
-   ],
-   "sources": [
-    {
-     "t": "Trump admin questions Microsoft's H-1B applications after outage",
-     "d": "yahoo.com",
-     "u": "https://yahoo.com/news/politics/articles/trump-admin-questions-microsofts-h-200425556.html"
-    },
-    {
-     "t": "New Executive Order and PERM Suspensions Tie H-1B and Green Card Sponsorship to Layoff History",
-     "d": "natlawreview.com",
-     "u": "https://natlawreview.com/article/new-executive-order-and-perm-suspensions-tie-h-1b-and-green-card-sponsorship-layoff"
-    }
-   ]
-  },
-  {
-   "id": "ice-arrest-target-polls-2026111521",
-   "type": "news",
-   "cat": "immigration",
-   "tags": [
-    "immigration",
-    "politics"
-   ],
-   "date": "Sun Nov 15",
-   "ts": "2026-11-15T21:18:00Z",
-   "headline": "CBS: ICE told to aim for 19,000 arrests a week as 58% of voters say it's gone too far",
-   "caption": "After a record 483,000 deportations, CBS reported a weekly arrest goal. Its exit polls found most voters think enforcement went too far.",
-   "visual": {
-    "type": "stat",
-    "title": "Enforcement by the numbers",
-    "num": "19,000",
-    "tone": "acc",
-    "label": "Weekly arrest goal ICE officials were told to aim for, per CBS.",
-    "facts": [
-     [
-      "FY2026 deportations",
-      "~483,000",
-      "record"
-     ],
-     [
-      "Voters: 'too far'",
-      "58%",
-      "CBS exit poll"
-     ],
-     [
-      "Arrests w/o record",
-      "Over half",
-      "CBS July analysis"
-     ]
-    ]
-   },
-   "detail": [
-    "On Face the Nation, CBS said ICE officials have been told to aim for about 19,000 arrests a week. ICE deported just over 483,000 people in fiscal 2026, a record.",
-    "CBS exit polling found 58% of midterm voters said enforcement had gone too far. A July CBS analysis found more than half of ICE arrests involved people with no criminal convictions or pending charges. The administration says the effort targets people in the country illegally."
-   ],
-   "money": [
-    "Employers in construction, farming and food service may face labor shortages; that can raise prices and wages locally.",
-    "Mixed-status families should keep key documents and an emergency money plan ready.",
-    "Use only licensed immigration attorneys or accredited reps to avoid costly scams."
-   ],
-   "risk": [
-    "Policy may shift as Democrats take Congress in January."
-   ],
-   "sources": [
-    {
-     "t": "Full transcript of Face the Nation, Nov. 15, 2026",
-     "d": "cbsnews.com",
-     "u": "https://cbsnews.com/news/face-the-nation-full-transcript-11-15-2026"
-    }
-   ]
-  },
-  {
-   "id": "deal-watch-tesla-spacex-2026111521",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business",
-    "markets"
-   ],
-   "date": "This week",
-   "ts": "2026-11-15T21:18:00Z",
-   "headline": "Deal watch: Tesla–SpaceX talks advance, Samsung eyes Modine, PE drops Global Payments",
-   "caption": "Bloomberg reports Tesla and SpaceX merger talks are progressing. Samsung is in talks for a data center cooling maker.",
-   "visual": {
-    "type": "deals",
-    "title": "Deals in motion",
-    "items": [
-     {
-      "a": "Tesla",
-      "b": "SpaceX merger",
-      "amt": "Talks",
-      "st": "Could come by December",
-      "c": "pend"
-     },
-     {
-      "a": "Samsung",
-      "b": "Modine (cooling)",
-      "amt": "Talks",
-      "st": "Deal possible in weeks",
-      "c": "pend"
-     },
-     {
-      "a": "CD&R, GTCR",
-      "b": "Global Payments",
-      "amt": "Dropped",
-      "st": "Take-private talks end",
-      "c": "bad"
-     },
-     {
-      "a": "Jacobs PE",
-      "b": "CKX Lands",
-      "amt": "$1B",
-      "st": "Investment agreed",
-      "c": "ok"
-     }
-    ]
-   },
-   "detail": [
-    "Bloomberg reported that Tesla and SpaceX merger talks are moving forward, with an announcement possible as soon as December, or early 2027. One hurdle is how to wall off Tesla's China business.",
-    "Samsung Electronics is in talks to buy Modine, which makes cooling gear for data centers, per Bloomberg. Separately, private equity firms CD&R and GTCR dropped early talks to take Global Payments private, per Reuters."
-   ],
-   "money": [
-    "Rumored deals can fall apart; buying a stock on takeover talk is a gamble, not a sure gain.",
-    "If you own a target company, a deal usually pays a premium; know whether it's cash or stock.",
-    "Broad index funds give you exposure to deals without betting on one outcome."
-   ],
-   "risk": [
-    "None of the rumored deals is final."
-   ],
-   "sources": [
-    {
-     "t": "The Special Situation Report #240: November 15 Roundup",
-     "d": "thespecialsituationreport.com",
-     "u": "https://www.thespecialsituationreport.com/p/the-special-situation-report-240"
-    }
-   ]
-  },
-  {
-   "id": "freight-layoffs-bankruptcies-2026111521",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business"
-   ],
-   "date": "This week",
-   "ts": "2026-11-15T21:18:00Z",
-   "headline": "Freight slump: 1,000+ logistics layoffs and 15 trucking bankruptcies since mid-September",
-   "caption": "At least 10 logistics firms announced 1,021 cuts, including Amazon in La Puente, CA. Many small carriers have filed for bankruptcy.",
-   "visual": {
-    "type": "board",
-    "title": "Logistics job cuts",
-    "rows": [
-     {
-      "k": "National Distribution Centers",
-      "s": "Perris CA, Groveport OH",
-      "v": "293"
-     },
-     {
-      "k": "DSV",
-      "s": "Edwardsville IL",
-      "v": "175"
-     },
-     {
-      "k": "CEVA",
-      "s": "Lockbourne OH",
-      "v": "120"
-     },
-     {
-      "k": "Amazon",
-      "s": "La Puente CA",
-      "v": "94"
-     },
-     {
-      "k": "Kenco",
-      "s": "Pennsylvania",
-      "v": "81"
-     }
-    ],
-    "foot": "1,021 total from 10+ companies (FreightWaves)"
-   },
-   "detail": [
-    "FreightWaves counts at least 1,021 logistics job cuts announced from late October to Nov. 11, many taking effect in early 2027. Amazon is cutting 94 jobs at its La Puente, California, fulfillment center.",
-    "Fifteen freight businesses filed for bankruptcy between Sept. 14 and Nov. 10, mostly small trucking firms. Several, like Bruin Logistics and Winners Trucking, chose Chapter 7 liquidation."
-   ],
-   "money": [
-    "Warehouse and trucking workers should check WARN notices for their employer and update resumes early.",
-    "Laid-off workers can file for unemployment the first week after a job ends.",
-    "Holiday seasonal jobs can bridge a gap; retailers plan 325,000 to 375,000 hires."
-   ],
-   "risk": [
-    "More cuts could follow if freight demand stays weak into 2027."
-   ],
-   "sources": [
-    {
-     "t": "Freight distress persists as logistics layoffs top 1,000, bankruptcies mount",
-     "d": "freightwaves.com",
-     "u": "https://www.freightwaves.com/news/freight-distress-persists-as-logistics-layoffs-top-1000-bankruptcies-mount"
-    }
-   ]
-  },
-  {
-   "id": "biotech-cuts-milestone-crinetics-2026111521",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business"
-   ],
-   "date": "This week",
-   "ts": "2026-11-15T21:18:00Z",
-   "headline": "Biotech cuts: Milestone trims 20% of HQ; Crinetics lays off 78 after Vertex deal",
-   "caption": "Milestone Pharmaceuticals is cutting staff to stretch its cash to 2028. Crinetics cuts 13% of workers after its $10B sale to Vertex.",
-   "visual": {
-    "type": "board",
-    "title": "Biotech layoffs",
-    "rows": [
-     {
-      "k": "Milestone Pharma",
-      "s": "HQ staff; CMO let go",
-      "v": "~20%",
-      "tone": "loss"
-     },
-     {
-      "k": "Crinetics",
-      "s": "Effective Jan 4",
-      "v": "78 jobs",
-      "tone": "loss"
-     },
-     {
-      "k": "Vertex–Crinetics deal",
-      "v": "~$10B"
-     }
-    ]
-   },
-   "detail": [
-    "Milestone Pharmaceuticals said on Nov. 13 it will cut about 20% of its headquarters staff to extend its cash into late 2028. It expects operating costs to fall 30%. Its chief medical officer was let go and its CFO resigned.",
-    "Crinetics will lay off 78 workers, about 13% of staff, effective Jan. 4, 2027. The cuts, mostly in corporate roles, come about two months after Vertex closed its roughly $10 billion purchase of the company."
-   ],
-   "money": [
-    "After an acquisition, overlapping corporate roles are most at risk; build skills and contacts early.",
-    "Read severance terms carefully before signing, especially health coverage and stock vesting.",
-    "Unvested stock may be cashed out or cancelled in a takeover; check your plan documents."
-   ],
-   "risk": [
-    "Small biotechs with short cash runways may keep cutting."
-   ],
-   "sources": [
-    {
-     "t": "BioSpace Layoff Tracker",
-     "d": "biospace.com",
-     "u": "https://www.biospace.com/biospace-layoff-tracker"
-    }
-   ]
-  },
-  {
-   "id": "jane-kim-disaster-insurance-2026111521",
-   "type": "news",
-   "cat": "california",
-   "tags": [
-    "california",
-    "business"
-   ],
-   "date": "Sat Nov 14",
-   "ts": "2026-11-15T21:18:00Z",
-   "headline": "California's next insurance chief pitches state-run disaster coverage",
-   "caption": "Commissioner-elect Jane Kim wants a single-payer natural disaster policy for homeowners. Republicans warn taxpayers could be on the hook.",
-   "visual": {
-    "type": "stat",
-    "title": "California home insurance",
-    "num": "$18B",
-    "tone": "acc",
-    "label": "What Californians spend a year to insure homes.",
-    "facts": [
-     [
-      "Wildfire share",
-      "$3B–$6B",
-      "per year"
-     ],
-     [
-      "Kim takes office",
-      "Jan 4",
-      "replaces Lara"
-     ],
-     [
-      "Status",
-      "Proposal",
-      "needs lawmakers"
-     ]
-    ]
-   },
-   "detail": [
-    "Jane Kim, California's newly elected insurance commissioner, wants a state-run, single-payer natural disaster policy for homeowners. It would go beyond the FAIR Plan. She points to models in Spain, France and New Zealand.",
-    "She says it would cost taxpayers nothing by investing premiums and using profits for wildfire and flood prevention. Republican leader Roger Niello opposes taxpayer guarantees. Kim takes office Jan. 4."
-   ],
-   "money": [
-    "Shop your homeowners policy now; compare FAIR Plan plus a 'wraparound' policy against private options.",
-    "Home-hardening upgrades can earn insurance discounts in California.",
-    "Document your belongings with photos and video today to speed any future claim."
-   ],
-   "risk": [
-    "Any new program would need the Legislature and could take years."
-   ],
-   "sources": [
-    {
-     "t": "Insurance commissioner-elect pushes plan for homeowners",
-     "d": "timesofsandiego.com",
-     "u": "https://timesofsandiego.com/housing/2026/11/14/insurance-commissioner-elect-pushes-plan-for-homeowners/"
-    }
-   ]
-  },
-  {
-   "id": "tech-layoffs-206k-grok-2026111521",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "business"
-   ],
-   "date": "This week",
-   "ts": "2026-11-15T21:18:00Z",
-   "headline": "Tech layoffs top 206,000 this year as SpaceX's AI unit cuts Grok's video team",
-   "caption": "TrueUp counts 206,817 tech workers laid off in 2026, about 652 a day. SpaceX's AI group cut about 60 jobs from Grok Imagine.",
-   "visual": {
-    "type": "stat",
-    "title": "Tech layoffs in 2026",
-    "num": "206,817",
-    "tone": "loss",
-    "label": "Tech workers hit by layoffs so far this year (TrueUp).",
-    "facts": [
-     [
-      "Per day",
-      "~652",
-      "vs 579 in 2025"
-     ],
-     [
-      "2025 total",
-      "~211,000",
-      ""
-     ],
-     [
-      "Year-end pace",
-      "~238,000",
-      "estimate"
-     ]
-    ]
-   },
-   "detail": [
-    "TrueUp's tracker counts 206,817 tech workers affected by 712 layoffs this year, nearly matching 2025's total. At this pace, 2026 could reach about 238,000. Not every cut is due to AI; restructuring and cost-cutting play a part.",
-    "The Information reports SpaceX's AI division cut about 60 roles from Grok Imagine, its video tool, leaving a small crew. Video AI is costly to run, and the company is shifting to coding tools and agents."
-   ],
-   "money": [
-    "Tech workers should keep an emergency fund of several months of expenses.",
-    "Skills in AI coding tools and agents are where companies are still hiring.",
-    "If laid off, roll your 401(k) to an IRA rather than cashing out to avoid taxes and penalties."
-   ],
-   "risk": [
-    "Trackers count differently, so totals vary by source."
-   ],
-   "sources": [
-    {
-     "t": "2026 Tech Layoffs Exceed 206,000 as AI Investments Rise",
-     "d": "kucoin.com",
-     "u": "https://www.kucoin.com/news/flash/2026-tech-layoffs-exceed-206-000-as-ai-investments-rise"
-    },
-    {
-     "t": "Musk's AI group lays off 60 staffers from Grok video unit, The Information reports",
-     "d": "investing.com",
-     "u": "https://www.investing.com/news/stock-market-news/musks-ai-group-lays-off-60-staffers-from-grok-video-unit-the-information-reports-5025776"
-    }
-   ]
-  },
-  {
-   "id": "edu-gold-rates-2026111521",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "markets"
-   ],
-   "date": "Explainer",
-   "ts": "2026-11-15T21:18:00Z",
-   "headline": "Why gold falls when interest rates rise",
-   "caption": "Gold just broke below $4,000 as rate-hike bets grew. Here's the simple reason the two move apart.",
-   "scenes": [
-    {
-     "k": "This week",
-     "t": "Gold fell below $4,000.",
-     "s": "It hit a 13-month low near $3,876."
-    },
-    {
-     "k": "The catch",
-     "t": "Gold pays you nothing.",
-     "s": "No interest, no dividends. Its only return is price."
-    },
-    {
-     "k": "The swap",
-     "t": "Higher rates make cash pay more.",
-     "viz": {
-      "type": "flow",
-      "items": [
-       "Inflation runs hot",
-       "Fed may hike",
-       "Bond yields rise",
-       "Gold looks less attractive"
-      ]
-     }
-    },
-    {
-     "k": "This week's numbers",
-     "t": "Gold vs. a safe yield",
-     "viz": {
-      "type": "split",
-      "items": [
-       [
-        "Gold Mon",
-        "$4,140"
-       ],
-       [
-        "Gold Thu",
-        "$3,876"
-       ],
-       [
-        "10-year yield",
-        "Above 5%",
-        "wide"
-       ]
-      ]
-     },
-     "say": "Gold fell from about 4,140 dollars Monday to 3,876 Thursday, as the 10-year Treasury yield climbed above 5 percent."
-    },
-    {
-     "k": "The dollar",
-     "t": "A strong dollar adds pressure.",
-     "s": "Gold is priced in dollars, so it costs more for foreign buyers."
-    },
-    {
-     "k": "Your move",
-     "t": "Keep gold a small, steady slice.",
-     "s": "Rebalance on a schedule instead of reacting to each swing."
-    }
-   ]
-  },
-  {
-   "id": "edu-payroll-cap-2026111521",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "taxes",
-    "benefits"
-   ],
-   "date": "Explainer",
-   "ts": "2026-11-15T21:18:00Z",
-   "headline": "The Social Security tax cap, explained",
-   "caption": "Congress may raise the cap on wages taxed for Social Security. Here's how it works and who would pay.",
-   "scenes": [
-    {
-     "k": "In the news",
-     "t": "Democrats eye the payroll tax cap.",
-     "s": "It could cost high earners thousands more a year."
-    },
-    {
-     "k": "The basics",
-     "t": "You pay 6.2% on your wages.",
-     "s": "Your employer pays another 6.2%."
-    },
-    {
-     "k": "The cap",
-     "t": "But only up to a limit.",
-     "viz": {
-      "type": "split",
-      "items": [
-       [
-        "2026 cap",
-        "$184,500"
-       ],
-       [
-        "2027 cap",
-        "$192,300"
-       ],
-       [
-        "Above the cap",
-        "No Social Security tax",
-        "wide"
-       ]
-      ]
-     },
-     "say": "The cap is 184,500 dollars this year and 192,300 dollars in 2027. Wages above that aren't taxed for Social Security."
-    },
-    {
-     "k": "The proposal",
-     "t": "Raise it, and top pay gets taxed.",
-     "s": "A $300,000 cap would cost someone earning that about $6,700 a year."
-    },
-    {
-     "k": "Who's not affected",
-     "t": "Most workers see no change.",
-     "s": "Someone earning $150,000 would pay the same as today."
-    },
-    {
-     "k": "Your move",
-     "t": "Know where your pay falls.",
-     "s": "Check your pay stub and Social Security statement each year."
-    }
-   ]
-  },
-  {
-   "id": "huang-return-talk-2026111520",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "markets"
-   ],
-   "date": "Sun Nov 15",
-   "ts": "2026-11-15T20:19:00Z",
-   "headline": "Report: Jensen Huang has talked about returning to Nvidia, days after quitting",
-   "caption": "The FT says Huang has discussed a comeback with confidants. Treasury's Bessent instead wants an outside CEO and a 'dramatic shakeup.'",
-   "visual": {
-    "type": "board",
-    "title": "Who could run Nvidia",
-    "rows": [
-     {
-      "k": "Colette Kress",
-      "s": "CFO, now interim CEO",
-      "v": "Interim",
-      "tone": "acc"
-     },
-     {
-      "k": "Ian Buck",
-      "s": "Nvidia engineer",
-      "v": "Inside pick"
-     },
-     {
-      "k": "Lisa Su",
-      "s": "AMD CEO",
-      "v": "Outside pick"
-     },
-     {
-      "k": "Rene Haas",
-      "s": "Arm CEO",
-      "v": "Outside pick"
-     },
-     {
-      "k": "Jensen Huang",
-      "s": "Allies lobbying for return",
-      "v": "Comeback?",
-      "tone": "loss"
-     }
-    ],
-    "foot": "Harvey Jones was named Nvidia's first-ever board chair"
-   },
-   "detail": [
-    "The Financial Times reports that Jensen Huang has talked with confidants about coming back to Nvidia. One ally described a 'war room' of tech executives forming to push for his return. Huang stepped down as CEO on Thursday.",
-    "On Sunday, Treasury Secretary Scott Bessent said the board should look outside the company for its next leader. CFO Colette Kress is interim CEO. Nvidia did not immediately comment, and nothing says Huang has agreed to return."
-   ],
-   "money": [
-    "CEO uncertainty can keep a stock volatile; size any single-stock position so a big swing won't hurt your plan.",
-    "Many index funds hold a lot of Nvidia, so check how much of your portfolio already rides on it.",
-    "If you trade around earnings this week, consider limit orders instead of market orders."
-   ],
-   "risk": [
-    "A comeback is only reported talk, not a decision; the board could go a very different way."
-   ],
-   "sources": [
-    {
-     "t": "Treasury Secretary Scott Bessent says if Nvidia was a bank, 'a lot of the executives would be removed' — while Huang reportedly eyes return",
-     "d": "fortune.com",
-     "u": "https://fortune.com/2026/11/15/treasury-secretary-scott-bessent-nvidia-jensen-huang-nvidia-china-spy-scandal/"
     }
    ]
   }
