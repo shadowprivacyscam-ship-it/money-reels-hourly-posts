@@ -1,6 +1,884 @@
 {
- "updated": "2026-11-16T14:20:00Z",
+ "updated": "2026-11-16T15:20:00Z",
  "items": [
+  {
+   "id": "open-nasdaq-slides-2026111615",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets",
+    "ai"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T15:20:00Z",
+   "headline": "Nasdaq drops 1.3% early as tech slides a day before Nvidia; VIX tops 20",
+   "caption": "Stocks opened lower Monday, led by tech. The Nasdaq fell about 1.3% while the Dow held up better, down about 0.3%.",
+   "visual": {
+    "type": "board",
+    "title": "Early Monday trading",
+    "rows": [
+     {
+      "k": "Nasdaq",
+      "v": "24,800",
+      "ch": -1.34,
+      "tone": "loss"
+     },
+     {
+      "k": "S&P 500",
+      "v": "7,498",
+      "ch": -0.85,
+      "tone": "loss"
+     },
+     {
+      "k": "Dow",
+      "v": "52,219",
+      "ch": -0.25,
+      "tone": "loss"
+     },
+     {
+      "k": "VIX",
+      "s": "fear gauge",
+      "v": "20.48",
+      "ch": 6.11,
+      "tone": "acc"
+     },
+     {
+      "k": "10-yr yield",
+      "v": "5.13%"
+     },
+     {
+      "k": "Gold",
+      "v": "$3,869",
+      "ch": -0.45,
+      "tone": "loss"
+     }
+    ],
+    "foot": "Yahoo Finance, about 6:25 a.m. PT"
+   },
+   "detail": [
+    "Tech led Monday's early drop. The Nasdaq was down about 1.3% and the S&P 500 about 0.9%. The Dow slipped only about 0.3%.",
+    "Nvidia fell about 3% before the open and is down nearly 13% over five days. It reports Tuesday, its first report since Jensen Huang left. Crypto-linked stocks like Coinbase, Circle and Strategy fell 7% to 8% early.",
+    "The VIX fear gauge rose about 6% to around 20.5. The 10-year Treasury yield sat near 5.13%."
+   ],
+   "money": [
+    "A 10-year yield above 5% means high-yield savings, CDs and Treasuries still pay well for cash you don't need soon.",
+    "Big swings before one company's earnings are a reminder to check how much of your portfolio rides on a few tech names.",
+    "If you buy on a schedule, dips like this let the same dollars buy more shares."
+   ],
+   "risk": [
+    "Nvidia's report Tuesday could push the whole market sharply either way."
+   ],
+   "sources": [
+    {
+     "t": "Stock market today: Dow, S&P 500, Nasdaq slip ahead of pivotal week for AI",
+     "d": "finance.yahoo.com",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html"
+    }
+   ]
+  },
+  {
+   "id": "l3harris-airlines-345m-2026111615",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business",
+    "markets"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T15:20:00Z",
+   "headline": "L3Harris falls 4% after Duffy ties it to the FAA outage; airlines face a ~$345M hit",
+   "caption": "L3Harris shares slid after the Transportation Secretary questioned its air traffic work. Bernstein says the ground stop could cost the top four airlines about $345 million.",
+   "visual": {
+    "type": "board",
+    "title": "Fallout from Friday's ground stop",
+    "rows": [
+     {
+      "k": "L3Harris (LHX)",
+      "s": "premarket",
+      "v": "-4%",
+      "ch": -4,
+      "tone": "loss"
+     },
+     {
+      "k": "JetBlue",
+      "s": "premarket",
+      "v": "-4%",
+      "ch": -4,
+      "tone": "loss"
+     },
+     {
+      "k": "Big 4 airline hit",
+      "s": "Bernstein estimate",
+      "v": "~$345M",
+      "tone": "loss"
+     },
+     {
+      "k": "Flights canceled",
+      "s": "as of Mon. 8:47 a.m. ET",
+      "v": "18,500+"
+     },
+     {
+      "k": "JetBlue Sunday cancels",
+      "v": "28%"
+     },
+     {
+      "k": "American Sunday cancels",
+      "v": "22%"
+     }
+    ]
+   },
+   "detail": [
+    "L3Harris fell about 4% before the bell Monday. Transportation Secretary Sean Duffy said the company may have installed a defective router or was not doing good work. Early findings point to a router that flooded the network with connection attempts.",
+    "L3Harris says it is cooperating with the FAA probe. It has not accepted blame or said what the cost might be. Findings are still preliminary.",
+    "Bernstein estimates a combined pretax hit of about $345 million for American, Delta, United and Southwest, with a range of $270 million to $430 million. JetBlue canceled 28% of its Sunday schedule and American 22%, per BofA."
+   ],
+   "money": [
+    "If your flight was canceled, ask the airline for a refund in cash, not just a voucher, if you chose not to travel.",
+    "Check whether your credit card's travel coverage pays for hotels or meals from the delays.",
+    "Investors in airline or defense stocks: one-off disruptions can hit a quarter's profit without changing the long-term picture."
+   ],
+   "risk": [
+    "If a probe finds L3Harris at fault, it could face penalties or lose contract work."
+   ],
+   "sources": [
+    {
+     "t": "L3Harris Shares Fall 4% After US Transportation Secretary Links Contractor to Nationwide Aviation Disruption",
+     "d": "finance.yahoo.com",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/l3harris-shares-fall-4-us-135203180.html"
+    },
+    {
+     "t": "Top four US airlines face $345 million hit from FAA ground stop, Bernstein estimates",
+     "d": "investing.com",
+     "u": "https://www.investing.com/news/stock-market-news/top-four-us-airlines-face-345-million-hit-from-faa-ground-stop-bernstein-estimates-5030123"
+    }
+   ]
+  },
+  {
+   "id": "quebecor-telus-31b-2026111615",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T15:20:00Z",
+   "headline": "Quebecor goes public with a $31B bid for Telus; Telus board flags big regulatory risks",
+   "caption": "Quebecor made an unsolicited merger offer for Telus valued at about $31 billion. Telus says it's reviewing it but sees serious approval risks.",
+   "visual": {
+    "type": "deals",
+    "title": "Canada telecom showdown",
+    "items": [
+     {
+      "a": "Quebecor",
+      "b": "Telus",
+      "amt": "~$31B",
+      "st": "Unsolicited, under review",
+      "c": "pend"
+     }
+    ]
+   },
+   "detail": [
+    "Quebecor sent an unsolicited offer to merge with Telus, valued at about $31 billion. It is an enhanced version of a private proposal from June.",
+    "Telus confirmed the offer Monday and said a special committee is reviewing it. Board chair John Manley said Quebecor still hasn't explained how the deal could pass Canada's telecom rules, and that a review would be long and costly.",
+    "Telus says it will also look at other options to maximize value. Quebecor says it went public because the deal affects consumers and shareholders."
+   ],
+   "money": [
+    "Takeover fights can lift a target's stock, but the price can fall back fast if the bid fails.",
+    "Fewer big phone carriers can mean less price competition, so watch your wireless bill if consolidation happens.",
+    "If you own Telus, a board review often leads to a higher offer or a rival bid, but not always."
+   ],
+   "risk": [
+    "Regulators could block the deal, and the offer could be withdrawn."
+   ],
+   "sources": [
+    {
+     "t": "Telus conducting 'thorough review' of $31B takeover offer from Québecor",
+     "d": "globalnews.ca",
+     "u": "https://globalnews.ca/news/12152547/quebecor-telus-merger-proposal/"
+    }
+   ]
+  },
+  {
+   "id": "kuo-tpu-26m-2026111615",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "markets"
+   ],
+   "date": "Sun Nov 15",
+   "ts": "2026-11-16T15:20:00Z",
+   "headline": "Kuo: OpenAI and Anthropic could take about 26 million Google TPUs in 2028-29",
+   "caption": "Analyst Ming-Chi Kuo says new orders push Google's AI chip visibility out to 2029. Nvidia's mostly runs through 2027-early 2028, he says.",
+   "visual": {
+    "type": "board",
+    "title": "Kuo's Google TPU estimates",
+    "rows": [
+     {
+      "k": "Anthropic",
+      "s": "2028-29, lease + buy",
+      "v": "~14M"
+     },
+     {
+      "k": "OpenAI",
+      "s": "2028-29, buy outright",
+      "v": "~12M"
+     },
+     {
+      "k": "Google TPUs 2027",
+      "v": "8-9M"
+     },
+     {
+      "k": "Google TPUs 2028",
+      "v": "14-15M"
+     },
+     {
+      "k": "Google TPUs 2029",
+      "v": "16-18M"
+     }
+    ],
+    "foot": "Nvidia fell 12.8% last week"
+   },
+   "detail": [
+    "Ming-Chi Kuo wrote Sunday that new OpenAI and Anthropic orders extend Google TPU shipment visibility to 2029. He estimates OpenAI seeks about 12 million TPUs and Anthropic about 14 million across 2028 and 2029.",
+    "Kuo says Nvidia GPUs and other AI chips mostly have visibility through late 2027 to mid-2028. He says uncertainty over Nvidia's CEO succession gives Google an opening with customers.",
+    "Nvidia stock fell 12.8% last week, its worst week since March 2025."
+   ],
+   "money": [
+    "AI chip demand is spreading beyond Nvidia; broad tech funds catch more of that than single-stock bets.",
+    "Analyst estimates aren't orders. Treat them as one input, not a reason to trade.",
+    "If you hold Alphabet or Nvidia, know how much of your portfolio they make up before Tuesday's earnings."
+   ],
+   "risk": [
+    "These are one analyst's estimates, not confirmed contracts."
+   ],
+   "sources": [
+    {
+     "t": "More Pain For NVDA? Top Supply Chain Analyst Says New OpenAI, Anthropic Chip Orders Boost Google's TPU Outlook",
+     "d": "finance.yahoo.com",
+     "u": "https://finance.yahoo.com/technology/ai/articles/more-pain-nvda-top-supply-050330578.html"
+    }
+   ]
+  },
+  {
+   "id": "qwen4-max-price-2026111615",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T15:20:00Z",
+   "headline": "Alibaba launches Qwen4-Max at $1.50 per million input tokens, undercutting US rivals",
+   "caption": "Alibaba's new flagship AI model costs far less than top US models. It claims a 62% cut in cost per task versus its last model.",
+   "visual": {
+    "type": "board",
+    "title": "AI model prices per 1M tokens",
+    "rows": [
+     {
+      "k": "Qwen4-Max",
+      "s": "input / output",
+      "v": "$1.50 / $4.50",
+      "tone": "gain"
+     },
+     {
+      "k": "Claude Opus 5.5",
+      "s": "input / output",
+      "v": "$4 / $20"
+     },
+     {
+      "k": "Gemini 4 Argon/Carbon",
+      "s": "doubles Dec. 1",
+      "v": "$2 / $10",
+      "tone": "loss"
+     }
+    ],
+    "foot": "Per Digital Trends"
+   },
+   "detail": [
+    "Alibaba released Qwen4-Max, a 2.4-trillion-parameter model with a 1-million-token context window. It costs $1.50 per million input tokens and $4.50 per million output tokens on its API.",
+    "Alibaba says average cost per task on its own benchmark fell 62% from its previous model. Digital Trends notes Claude Opus 5.5 lists at $4 in and $20 out, and Gemini 4 prices are set to double Dec. 1.",
+    "Smaller open-source Qwen4 models are expected later. Alibaba's safety claims haven't been tested by an outside red team yet."
+   ],
+   "money": [
+    "If your business pays for AI by the token, price competition is a reason to compare providers every few months.",
+    "Gemini users: budget for the Dec. 1 price increase now.",
+    "Cheaper models can make AI tools affordable for side gigs and small businesses."
+   ],
+   "risk": [
+    "Benchmarks and savings figures come from Alibaba itself."
+   ],
+   "sources": [
+    {
+     "t": "Qwen4-Max is China's newest flagship AI model, and it makes GPT and Claude look expensive",
+     "d": "digitaltrends.com",
+     "u": "https://www.digitaltrends.com/computing/qwen-4-max-aliababas-latest-flagship-ai-model-announced/"
+    }
+   ]
+  },
+  {
+   "id": "zelleusd-solana-2026111615",
+   "type": "news",
+   "cat": "crypto",
+   "tags": [
+    "crypto",
+    "business"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T15:20:00Z",
+   "headline": "Zelle will launch its ZelleUSD stablecoin on Solana for international payments",
+   "caption": "The bank-owned payments network picked Solana for its dollar stablecoin. India is the first overseas corridor.",
+   "visual": {
+    "type": "stat",
+    "title": "Zelle goes onchain",
+    "num": "$1.2T+",
+    "tone": "acc",
+    "label": "US payments Zelle processed in 2025",
+    "facts": [
+     [
+      "First corridor",
+      "India",
+      "named June 2026"
+     ],
+     [
+      "Issuer",
+      "Anchorage Digital",
+      "bank"
+     ],
+     [
+      "Solana transfers",
+      "+82%",
+      "Oct. vs a year ago"
+     ]
+    ]
+   },
+   "detail": [
+    "Zelle, run by bank group Early Warning Services, said at Breakpoint 2026 it will launch ZelleUSD (ZLUSD) on Solana for international person-to-person payments. The banks behind it include JPMorgan and Wells Fargo.",
+    "India is the first remittance corridor. Earlier plans said it would be live by the end of 2026, but no launch date was given on stage.",
+    "Zelle and Solana will also test privacy features that hide transfers from the public chain while letting banks check them for compliance."
+   ],
+   "money": [
+    "Sending money abroad often costs several percent in fees; a bank-backed stablecoin route could cut that.",
+    "Until it launches, compare remittance fees and exchange rates before each transfer.",
+    "Stablecoins are only as safe as their issuer; stick with regulated, bank-backed options."
+   ],
+   "risk": [
+    "No launch date yet, and fees haven't been announced."
+   ],
+   "sources": [
+    {
+     "t": "Zelle Taps Solana for Stablecoin-Based International Expansion",
+     "d": "cointelegraph.com",
+     "u": "https://cointelegraph.com/news/zelle-solana-zelleusd-stablecoin-international-payments"
+    }
+   ]
+  },
+  {
+   "id": "xrp-below-1-2026111615",
+   "type": "news",
+   "cat": "crypto",
+   "tags": [
+    "crypto"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T15:20:00Z",
+   "headline": "XRP slips under $1, about 40% below October highs, as its ETFs see outflows",
+   "caption": "XRP traded near $0.96 Monday after breaking below $1. US spot XRP ETFs lost about $19 million over three sessions.",
+   "visual": {
+    "type": "stat",
+    "title": "XRP under pressure",
+    "num": "$0.96",
+    "tone": "loss",
+    "label": "Down about 40% from October highs near $1.60",
+    "facts": [
+     [
+      "Intraday low",
+      "$0.9495",
+      ""
+     ],
+     [
+      "ETF outflows",
+      "$19.1M",
+      "3 sessions"
+     ],
+     [
+      "ETF inflows since launch",
+      "$1.71B",
+      "net"
+     ]
+    ]
+   },
+   "detail": [
+    "XRP fell below $1 and traded near $0.96 Monday, down about 1.5% on the day. That is roughly 40% under its October highs near $1.60.",
+    "US spot XRP ETFs had about $19.1 million in net outflows across Nov. 9, 10 and 13. Total net inflows since launch a year ago are still about $1.71 billion.",
+    "The coin's RSI reading of about 26 signals oversold conditions, but that doesn't guarantee a bounce."
+   ],
+   "money": [
+    "Keep crypto to a small slice you could lose without changing your plans.",
+    "Selling at a loss in a taxable account can offset gains elsewhere on your 2026 taxes.",
+    "Avoid leverage in a falling market; liquidations can wipe out positions fast."
+   ],
+   "risk": [
+    "Prices could keep falling; analysts cite $0.80-$0.85 if $0.90 breaks."
+   ],
+   "sources": [
+    {
+     "t": "XRP Price Prediction: XRP Breaks Below $1 - Is a Bigger Crash Coming?",
+     "d": "coincentral.com",
+     "u": "https://coincentral.com/xrp-price-prediction-xrp-breaks-below-1-is-a-bigger-crash-coming"
+    }
+   ]
+  },
+  {
+   "id": "eu-sanctions-russia-banks-2026111615",
+   "type": "news",
+   "cat": "world",
+   "tags": [
+    "world"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T15:20:00Z",
+   "headline": "EU sanctions nearly 50 Russian banks and refinery operators; sends Ukraine ~$8.7B",
+   "caption": "EU ministers listed 101 entities and 12 people tied to Russia's war funding. The bloc also approved its biggest single payment to Ukraine.",
+   "visual": {
+    "type": "board",
+    "title": "EU moves Monday",
+    "rows": [
+     {
+      "k": "Entities sanctioned",
+      "v": "101"
+     },
+     {
+      "k": "Individuals",
+      "v": "12"
+     },
+     {
+      "k": "Banks & lenders",
+      "v": "~50"
+     },
+     {
+      "k": "Payment to Ukraine",
+      "s": "largest ever single",
+      "v": "~$8.7B"
+     },
+     {
+      "k": "Drone & air defense aid",
+      "v": "$1.88B"
+     }
+    ]
+   },
+   "detail": [
+    "EU foreign ministers sanctioned 12 people and 101 entities. The list includes nearly 50 Russian banks and financial firms, refinery operators and the St. Petersburg oil terminal.",
+    "Buyers of Russian oil products in the UAE, China, Seychelles and Oman were also listed, along with owners of sanctioned shadow-fleet ships. Owners tied to Wildberries and Ozon were named too.",
+    "The EU approved about $8.7 billion for Ukraine, its largest single payment, and Kyiv got $1.88 billion for drones and air defense. US-mediated talks in the UAE produced a prisoner swap but no breakthrough."
+   ],
+   "money": [
+    "Tighter sanctions on Russian refining can keep diesel and fuel prices firm; budget for higher heating and trucking costs.",
+    "Energy stocks tend to react to sanction news; broad funds smooth that out.",
+    "Defense makers may benefit from steady European aid spending."
+   ],
+   "risk": [
+    "Sanctions can be dodged through third countries, limiting their effect."
+   ],
+   "sources": [
+    {
+     "t": "EU ministers approve new sanctions to further restrict Russia's ability to finance its war",
+     "d": "sofiaglobe.com",
+     "u": "https://sofiaglobe.com/2026/11/16/eu-ministers-approve-new-sanctions-to-further-restrict-russias-ability-to-finance-its-war/"
+    },
+    {
+     "t": "Russian attacks kill three in Ukraine, EU accuses Moscow of prolonging war",
+     "d": "aljazeera.com",
+     "u": "https://www.aljazeera.com/news/2026/11/16/russian-attacks-kill-three-in-ukraine-eu-accuses-moscow-of-prolonging-war"
+    }
+   ]
+  },
+  {
+   "id": "trump-asia-trip-musk-2026111615",
+   "type": "news",
+   "cat": "world",
+   "tags": [
+    "world",
+    "politics",
+    "markets"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T15:20:00Z",
+   "headline": "Trump leaves for Asia today; Musk joins the China leg as trade and chips top the agenda",
+   "caption": "Trump heads to Manila, then Shenzhen for talks with Xi on Thursday. Elon Musk will join parts of the China trip.",
+   "visual": {
+    "type": "timeline",
+    "title": "Trump's Asia trip",
+    "items": [
+     {
+      "d": "NOV 16",
+      "t": "Leaves Washington",
+      "now": true
+     },
+     {
+      "d": "NOV 17",
+      "t": "Manila: Quad talks, Thailand trade deal"
+     },
+     {
+      "d": "NOV 18",
+      "t": "Marcos meeting, then Shenzhen for APEC"
+     },
+     {
+      "d": "NOV 19",
+      "t": "Xi meeting; Xi-Trump-Putin trilateral"
+     }
+    ]
+   },
+   "detail": [
+    "Trump departed Monday on his first overseas trip since the midterms. He arrives in Manila Tuesday for Quad talks and is expected to sign a trade deal with Thailand.",
+    "On Wednesday he meets Philippine President Marcos, then flies to Shenzhen for APEC. He meets Xi Jinping Thursday, followed by a first-ever meeting with Xi and Putin. Officials don't expect a concrete deal.",
+    "Elon Musk will join parts of the China travel. Trump and Xi plan to focus on carrying out their existing trade agreement."
+   ],
+   "money": [
+    "Trade headlines can move stocks with big China exposure; avoid chasing moves on rumors.",
+    "Tariff changes eventually show up in prices of imported goods, so big purchases may be worth timing around clear news.",
+    "Farm, chip and auto stocks are the most sensitive to US-China outcomes."
+   ],
+   "risk": [
+    "Talks could stall, and tariff threats elsewhere (like Mexico) add uncertainty."
+   ],
+   "sources": [
+    {
+     "t": "Trump heads to Asia for 2nd high-stakes meeting with Chinese President Xi",
+     "d": "yahoo.com",
+     "u": "https://www.yahoo.com/news/politics/articles/trump-heads-asia-2nd-high-100957586.html"
+    }
+   ]
+  },
+  {
+   "id": "congress-week-dec11-2026111615",
+   "type": "news",
+   "cat": "politics",
+   "tags": [
+    "politics",
+    "business"
+   ],
+   "date": "This week",
+   "ts": "2026-11-16T15:20:00Z",
+   "headline": "Congress this week: permitting bill test vote, judges, and a Dec. 11 shutdown deadline",
+   "caption": "The Senate takes a key vote on an energy permitting overhaul Monday evening. Lawmakers have four weeks left to avoid a shutdown.",
+   "visual": {
+    "type": "timeline",
+    "title": "Lame-duck to-do list",
+    "items": [
+     {
+      "d": "NOV 16",
+      "t": "Senate permitting bill test vote",
+      "s": "evening",
+      "now": true
+     },
+     {
+      "d": "NOV 17",
+      "t": "Navy secretary hearing"
+     },
+     {
+      "d": "DEC 11",
+      "t": "Government funding runs out"
+     }
+    ]
+   },
+   "detail": [
+    "The Senate's bipartisan energy permitting overhaul faces a vote Monday evening to limit debate on its latest version. Several judicial nominees are also lined up.",
+    "Government funding expires Dec. 11. Democrats say they'll back a spending bill only if it cuts off defense funds for the Iran war, which Republicans oppose.",
+    "The administration wants $50 billion for air traffic control after Friday's ground stop. Some Republicans also want a last party-line bill, with Trump seeking $350 billion for defense in it."
+   ],
+   "money": [
+    "Federal workers and contractors: build a cash cushion now in case of a December shutdown.",
+    "Faster permitting could speed power and transmission projects, which matters for future electric bills.",
+    "If you rely on a federal service, get paperwork done before Dec. 11."
+   ],
+   "risk": [
+    "A shutdown could delay some federal services and paychecks."
+   ],
+   "sources": [
+    {
+     "t": "This week: Permitting bill hits Senate floor amid aviation funding fight",
+     "d": "rollcall.com",
+     "u": "https://rollcall.com/2026/11/16/this-week-permitting-bill-hits-senate-floor-amid-aviation-funding-fight"
+    },
+    {
+     "t": "Republicans' final sprint: What will they get done while they're still in control?",
+     "d": "deseret.com",
+     "u": "https://www.deseret.com/politics/2026/11/16/republicans-final-sprint-in-majority/"
+    }
+   ]
+  },
+  {
+   "id": "liheap-new-england-3b-2026111615",
+   "type": "news",
+   "cat": "benefits",
+   "tags": [
+    "benefits",
+    "states"
+   ],
+   "date": "This week",
+   "ts": "2026-11-16T15:20:00Z",
+   "headline": "New England governors ask Congress for $3B more in heating aid as oil prices jump",
+   "caption": "Six governors want LIHEAP raised to $7 billion. They warn heating oil could cost about 50% more this winter.",
+   "visual": {
+    "type": "stat",
+    "title": "Winter heating squeeze",
+    "num": "+$3B",
+    "tone": "acc",
+    "label": "Extra LIHEAP money six governors requested",
+    "facts": [
+     [
+      "Total ask",
+      "$7B",
+      "LIHEAP"
+     ],
+     [
+      "MA heating oil",
+      "$5.94/gal",
+      "vs $3.74 a year ago"
+     ],
+     [
+      "Eligible who get help",
+      "~20%",
+      "each year"
+     ]
+    ]
+   },
+   "detail": [
+    "Governors of all six New England states, from both parties, asked appropriators for $3 billion more for the Low-Income Home Energy Assistance Program. That would bring it to $7 billion.",
+    "They cite estimates that heating oil could rise about 50% this winter, adding about $1.1 billion in costs for low-income Northeast households. Massachusetts heating oil averaged $5.94 a gallon, over $2 more than a year earlier.",
+    "Massachusetts' LIHEAP allocation this year is $142.3 million, down from last year after extra infrastructure-law money ran out. Only about 20% of eligible households get help each year."
+   ],
+   "money": [
+    "Apply for LIHEAP early; many states pay on a first-come basis until funds run out.",
+    "Ask your utility about budget billing to spread winter costs evenly.",
+    "Weatherizing drafts and lowering the thermostat a few degrees can trim a heating bill noticeably."
+   ],
+   "risk": [
+    "Congress may not approve extra money before cold weather hits."
+   ],
+   "sources": [
+    {
+     "t": "New England governors seek $3 billion more for winter heating aid",
+     "d": "wbur.org",
+     "u": "https://wbur.org/news/2026/11/10/new-england-governors-liheap-funding-increase"
+    }
+   ]
+  },
+  {
+   "id": "cms-hospice-freeze-2026111615",
+   "type": "news",
+   "cat": "benefits",
+   "tags": [
+    "benefits",
+    "business"
+   ],
+   "date": "This week",
+   "ts": "2026-11-16T15:20:00Z",
+   "headline": "Medicare extends its freeze on new home health and hospice providers through May 2027",
+   "caption": "CMS kept a nationwide pause on new home health and hospice enrollments for six more months, citing fraud. Existing providers can now add locations.",
+   "visual": {
+    "type": "points",
+    "title": "What the freeze means",
+    "items": [
+     "New home health agencies and hospices can't enroll in Medicare",
+     "Runs six more months, through May 12, 2027",
+     "Existing providers can now add new locations",
+     "Current patients and services are not affected",
+     "CMS cites ongoing fraud"
+    ]
+   },
+   "detail": [
+    "CMS extended its nationwide moratorium on new Medicare home health and hospice enrollments by six months. The freeze first started May 13, 2026.",
+    "Administrator Mehmet Oz said fraud in these areas persists. The pause blocks new agencies and some ownership changes that need new enrollment.",
+    "Unlike before, enrolled providers can now add practice locations. Critics say the freeze has delayed expansions and hurt access in underserved areas."
+   ],
+   "money": [
+    "If you or a parent uses home health or hospice, current Medicare coverage continues as before.",
+    "Check that any provider you choose is already Medicare-enrolled to avoid surprise bills.",
+    "Report suspicious billing on your Medicare Summary Notice; fraud raises costs for everyone."
+   ],
+   "risk": [
+    "Fewer new providers could mean longer waits in some areas."
+   ],
+   "sources": [
+    {
+     "t": "CMS Extends Medicare Home Health, Hospice Moratorium",
+     "d": "homehealthcarenews.com",
+     "u": "https://homehealthcarenews.com/2026/11/cms-extends-medicare-home-health-hospice-moratorium/"
+    },
+    {
+     "t": "Home Health and Hospice Enrollment Moratoria Extended Through May 12, 2027",
+     "d": "chapinc.org",
+     "u": "https://chapinc.org/blog-news/home-health-and-hospice-enrollment-moratoria-extended-through-may-12-2027/"
+    }
+   ]
+  },
+  {
+   "id": "irs-fire-shutdown-nov19-2026111615",
+   "type": "news",
+   "cat": "taxes",
+   "tags": [
+    "taxes",
+    "business"
+   ],
+   "date": "Thu Nov 19",
+   "ts": "2026-11-16T15:20:00Z",
+   "headline": "IRS shuts its old FIRE e-filing system for 1099s on Nov. 19; businesses move to IRIS",
+   "caption": "Businesses still filing information returns through FIRE must finish by 3 p.m. ET Thursday. The replacement, IRIS, opens in January 2027.",
+   "visual": {
+    "type": "timeline",
+    "title": "FIRE to IRIS switch",
+    "items": [
+     {
+      "d": "NOV 19",
+      "t": "FIRE final cutoff, 3 p.m. ET",
+      "now": true
+     },
+     {
+      "d": "JAN 2027",
+      "t": "IRIS becomes main system",
+      "s": "exact date TBA"
+     }
+    ]
+   },
+   "detail": [
+    "The IRS set Nov. 19, 2026 at 3 p.m. Eastern as the final cutoff for electronic filing through FIRE, its system for information returns like 1099s.",
+    "IRIS replaces it starting January 2027. FIRE credentials won't work in IRIS, so filers need a new IRIS TCC, and IRIS doesn't take FIRE-style .dat files.",
+    "Some foreign filers can use a separate system called IDES."
+   ],
+   "money": [
+    "Small businesses: apply for an IRIS TCC now so January 1099 filing isn't delayed.",
+    "Late or missing 1099s can bring IRS penalties; plan the switch early.",
+    "If you use a payroll or tax software provider, confirm it will file through IRIS for you."
+   ],
+   "risk": [
+    "Filers who wait may hit setup delays during the busy January season."
+   ],
+   "sources": [
+    {
+     "t": "IRS Sets November 19 FIRE Deadline as Information Return Filers Move to IRIS and IDES",
+     "d": "visaverge.com",
+     "u": "https://www.visaverge.com/travelrequirements/irs-sets-november-19-fire-deadline-as-information-return-filers-move-to-iris-and-ides/"
+    }
+   ]
+  },
+  {
+   "id": "edu-stablecoin-basics-2026111615",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "crypto"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-16T15:20:00Z",
+   "headline": "Stablecoins: what Zelle's dollar token actually is",
+   "caption": "Zelle plans a dollar stablecoin on Solana. Here's how stablecoins work and what to check before using one.",
+   "scenes": [
+    {
+     "k": "TODAY'S NEWS",
+     "t": "Zelle is launching ZelleUSD",
+     "s": "It will run on the Solana blockchain for payments abroad."
+    },
+    {
+     "k": "THE IDEA",
+     "t": "A digital dollar on a blockchain",
+     "s": "Each token aims to be worth exactly $1."
+    },
+    {
+     "k": "HOW IT HOLDS $1",
+     "t": "Backed by cash and safe assets",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "You pay $1",
+       "Issuer holds $1 in reserves",
+       "You get 1 token",
+       "Redeem token for $1"
+      ]
+     }
+    },
+    {
+     "k": "WHY USE ONE",
+     "t": "Fast transfers, any day",
+     "s": "Money can move across borders in seconds, even on weekends."
+    },
+    {
+     "k": "THE CATCH",
+     "t": "Only as safe as the issuer",
+     "s": "Weak reserves or a hack can break the $1 peg."
+    },
+    {
+     "k": "YOUR MOVE",
+     "t": "Compare fees, pick regulated",
+     "s": "Use bank-backed, regulated stablecoins and compare total transfer costs."
+    }
+   ]
+  },
+  {
+   "id": "edu-vix-fear-gauge-2026111615",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "markets"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-16T15:20:00Z",
+   "headline": "The VIX at 20: what the market's fear gauge tells you",
+   "caption": "The VIX jumped above 20 before Nvidia's earnings. Here's what that number means.",
+   "scenes": [
+    {
+     "k": "TODAY'S NEWS",
+     "t": "The VIX rose about 6% to 20.5",
+     "s": "Investors are bracing for Nvidia's report Tuesday."
+    },
+    {
+     "k": "WHAT IT IS",
+     "t": "Expected S&P 500 swings",
+     "s": "It's built from options prices for the next 30 days."
+    },
+    {
+     "k": "READING IT",
+     "t": "Higher number, more nerves",
+     "viz": {
+      "type": "split",
+      "items": [
+       [
+        "Calm",
+        "Below 15"
+       ],
+       [
+        "Normal",
+        "15-20"
+       ],
+       [
+        "Stressed",
+        "Above 20",
+        "wide"
+       ]
+      ]
+     },
+     "say": "Below 15 is calm, 15 to 20 is normal, and above 20 means stress."
+    },
+    {
+     "k": "WHY IT MATTERS",
+     "t": "Fear makes options pricier",
+     "s": "Hedging costs more when the VIX is high."
+    },
+    {
+     "k": "THE TRAP",
+     "t": "Spikes often fade",
+     "s": "Selling in a panic can lock in losses right before a rebound."
+    },
+    {
+     "k": "YOUR MOVE",
+     "t": "Stick to your plan",
+     "s": "Keep an emergency fund so you never need to sell stocks in a scare."
+    }
+   ]
+  },
   {
    "id": "chip-rout-premarket-2026111614",
    "type": "news",
@@ -11388,943 +12266,6 @@
      "t": "This Week in State Tax, Nov. 9, 2026",
      "d": "kpmg.com",
      "u": "https://kpmg.com/us/en/articles/this-week-in-state-tax/twist-261109.html"
-    }
-   ]
-  },
-  {
-   "id": "edu-subsidy-cliff-2026111602",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "benefits"
-   ],
-   "date": "Explainer",
-   "ts": "2026-11-16T02:26:00Z",
-   "headline": "The ACA 'subsidy cliff' is back in 2027. Here's how it works",
-   "caption": "Above 400% of the poverty line, ACA tax credits stop completely. For a single person, that line is $63,840.",
-   "scenes": [
-    {
-     "k": "THE NEWS",
-     "t": "Extra ACA help ended with 2025",
-     "s": "For 2027, the old subsidy rules are back."
-    },
-    {
-     "k": "THE LINE",
-     "t": "400% of poverty: $63,840 for one",
-     "viz": {
-      "type": "split",
-      "items": [
-       [
-        "Single cutoff",
-        "$63,840"
-       ],
-       [
-        "Below it",
-        "Credit can apply"
-       ],
-       [
-        "Above it",
-        "No credit at all",
-        "wide"
-       ]
-      ]
-     },
-     "say": "For a single person in the lower 48 states, the cutoff is 63,840 dollars. Below it, a credit can apply. Above it, there is none."
-    },
-    {
-     "k": "WHY 'CLIFF'",
-     "t": "One dollar over can cost thousands",
-     "s": "Help doesn't fade out slowly. It stops at the line."
-    },
-    {
-     "k": "WHAT COUNTS",
-     "t": "It's your MAGI, not your paycheck",
-     "s": "Pretax 401(k) and HSA contributions lower the income the marketplace counts."
-    },
-    {
-     "k": "THE PLAN",
-     "t": "Four steps before Dec. 15",
-     "viz": {
-      "type": "flow",
-      "items": [
-       "Estimate 2027 income",
-       "Compare to the 400% line",
-       "Use pretax saving if close",
-       "Enroll by Dec. 15"
-      ]
-     },
-     "say": "Estimate your 2027 income, compare it to the line, use pretax saving if you're close, and enroll by December 15."
-    },
-    {
-     "k": "YOUR MOVE",
-     "t": "Update your income if it changes",
-     "s": "Report changes during the year to avoid repaying credits at tax time."
-    }
-   ]
-  },
-  {
-   "id": "edu-holiday-unit-math-2026111602",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "business"
-   ],
-   "date": "Explainer",
-   "ts": "2026-11-16T02:26:00Z",
-   "headline": "Beat a pricier Thanksgiving with per-person math",
-   "caption": "Dinner costs about $90 this year. Dividing by guests shows which deals actually save money.",
-   "scenes": [
-    {
-     "k": "THE NEWS",
-     "t": "Thanksgiving dinner: about $90",
-     "s": "Up from $88 last year, per PwC."
-    },
-    {
-     "k": "WHAT ROSE",
-     "t": "Cranberries +15%, turkey breast +12%",
-     "s": "Butter fell 10% and cream fell 6%."
-    },
-    {
-     "k": "THE TRICK",
-     "t": "Divide by the number of guests",
-     "viz": {
-      "type": "split",
-      "items": [
-       [
-        "Aldi party of 10",
-        "<$3.90/person"
-       ],
-       [
-        "Kroger feast for 10",
-        "<$5/person"
-       ],
-       [
-        "Sam's Club for 16",
-        "~$10/person",
-        "wide"
-       ]
-      ]
-     },
-     "say": "Aldi's package for 10 is under 3 dollars 90 a person. Kroger's feast for 10 is under 5 dollars. Sam's Club's package for 16 is about 10 dollars a person."
-    },
-    {
-     "k": "SWAP SMART",
-     "t": "Lean on what got cheaper",
-     "s": "Butter and cream are down. Store brands cut costs too."
-    },
-    {
-     "k": "STACK IT",
-     "t": "Coupons on sales: up to 25% off",
-     "viz": {
-      "type": "flow",
-      "items": [
-       "Start with the sale price",
-       "Add a new-member coupon",
-       "Add cash-back apps",
-       "Turn rewards into gas savings"
-      ]
-     },
-     "say": "Start with the sale price, add a new-member coupon, add a cash-back app, then turn store rewards into gas savings."
-    },
-    {
-     "k": "YOUR MOVE",
-     "t": "Shop by Nov. 23 for app deals",
-     "s": "Some cash-back turkey offers end Nov. 23."
-    }
-   ]
-  },
-  {
-   "id": "jpm-layoff-round-2026111601",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business"
-   ],
-   "date": "Fri Nov 13",
-   "ts": "2026-11-16T01:40:00Z",
-   "headline": "JPMorgan files its 6th New Jersey layoff notice of 2026, even as its workforce grows",
-   "caption": "JPMorgan will cut 91 more jobs in Jersey City. Its notices this year cover at least 929 roles, yet the bank added about 4,800 workers overall.",
-   "visual": {
-    "type": "board",
-    "title": "JPMorgan Jersey City WARN notices, 2026",
-    "rows": [
-     {
-      "k": "February",
-      "v": "120"
-     },
-     {
-      "k": "March",
-      "v": "134"
-     },
-     {
-      "k": "May",
-      "v": "51"
-     },
-     {
-      "k": "July",
-      "v": "173"
-     },
-     {
-      "k": "August",
-      "v": "63"
-     },
-     {
-      "k": "November",
-      "v": "91",
-      "tone": "loss"
-     }
-    ],
-    "foot": "632 New Jersey roles in all this year (TheStreet)"
-   },
-   "detail": [
-    "JPMorgan Chase filed a new state layoff notice for 91 jobs in Jersey City, effective between Oct. 30 and Jan. 24, 2027. It's the bank's sixth New Jersey notice this year, for 632 roles in that state.",
-    "Notices in New Jersey, Texas and California cover at least 929 positions in 2026. That includes 244 roles at its Plano, Texas campus, most of them fraud specialist jobs. TheStreet notes this is not a confirmed total of finished layoffs.",
-    "The bank is still growing. It had 322,964 employees on Sept. 30, up 4,811 from a year earlier. Across finance, announced job cuts are about half of last year's pace, per Challenger, Gray & Christmas."
-   ],
-   "money": [
-    "Big companies often cut some teams while hiring in others. If you work in banking, watch which roles are shrinking, like fraud review, and which are growing.",
-    "State WARN notice lists are public. Checking them can give you early warning about layoffs at your employer.",
-    "Even when headcount grows, a steady emergency fund protects you if your own team gets cut."
-   ],
-   "risk": [
-    "More rounds could follow; JPMorgan has filed notices roughly every month or two this year.",
-    "AI was cited in about 20% of all announced US job cuts this year, per Challenger."
-   ],
-   "sources": [
-    {
-     "t": "JPMorgan Chase announces 6th layoff round as workforce grows by over 4,800",
-     "d": "thestreet.com",
-     "u": "https://www.thestreet.com/employment/jpmorgan-chase-6th-layoff-round-workforce-grows-by-over-4800"
-    }
-   ]
-  },
-  {
-   "id": "disney-earnings-cuts-2026111601",
-   "type": "news",
-   "cat": "markets",
-   "tags": [
-    "markets",
-    "business"
-   ],
-   "date": "Tue Nov 17",
-   "ts": "2026-11-16T01:40:00Z",
-   "headline": "Disney reports Tuesday as job-cut reports swirl; options price a 6.3% swing",
-   "caption": "Disney's first full-year report under CEO Josh D'Amaro lands Tuesday before the bell. Reports say thousands of job cuts are coming, but Disney hasn't confirmed.",
-   "visual": {
-    "type": "ticker",
-    "sym": "DIS",
-    "ex": "NYSE",
-    "rows": [
-     {
-      "k": "Friday close",
-      "s": "52-week closing high $119.65",
-      "v": "$118.97"
-     },
-     {
-      "k": "EPS estimate",
-      "s": "vs $1.11 a year ago",
-      "v": "$1.69"
-     },
-     {
-      "k": "Revenue estimate",
-      "s": "up 12.2%",
-      "v": "$25.19B"
-     },
-     {
-      "k": "Options-implied move",
-      "s": "either direction",
-      "v": "±6.3%"
-     }
-    ]
-   },
-   "detail": [
-    "Disney reports fiscal fourth-quarter results Tuesday before the market opens. Analysts expect $1.69 a share on $25.19 billion in revenue, per TipRanks. An extra week in the quarter adds about $600 million in operating income that won't repeat.",
-    "Bloomberg reported this month that Disney is moving toward thousands of job cuts, with some managers asked to find 20% in yearly savings. Deadline says a round could land in early 2027. Disney declined to comment.",
-    "Options traders are pricing a 6.3% move either way. Disney's last eight reports moved the stock 6.1% on average. The board usually sets the year's dividend with this report; last year it raised it 50% to $1.50."
-   ],
-   "money": [
-    "If you own Disney, a big move either way is likely Tuesday. Decide your plan before the report, not after.",
-    "Dividend investors: watch for the new yearly dividend, which is usually set with this report.",
-    "If you're a Disney+ or parks customer, cost cuts can come with price or perk changes. Watch for deals around the holidays."
-   ],
-   "risk": [
-    "The stock sits near its 52-week high, so a miss could hit harder.",
-    "Job-cut numbers and timing are unconfirmed reports, not company announcements."
-   ],
-   "sources": [
-    {
-     "t": "Disney's new CEO is reportedly planning thousands of job cuts ahead of Nov. 17 earnings",
-     "d": "247wallst.com",
-     "u": "https://247wallst.com/investing/2026/11/15/disneys-new-ceo-josh-damaro-is-reportedly-planning-thousands-of-job-cuts-ahead-of-nov-17-earnings-heres-what-it-means-for-a-72-year-old-widow-with-150000-of-disney/"
-    },
-    {
-     "t": "The Week Ahead: Nvidia Earnings, Anthropic IPO Test AI Trade",
-     "d": "fxempire.com",
-     "u": "https://www.fxempire.com/forecasts/article/the-week-ahead-nvidia-earnings-anthropic-ipo-test-ai-trade-1644719"
-    }
-   ]
-  },
-  {
-   "id": "tyson-earnings-beef-2026111601",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business",
-    "markets"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T01:40:00Z",
-   "headline": "Tyson reports today: chicken profits soar while beef losses pile up",
-   "caption": "Tyson posts results before the bell Monday. Wall Street expects profit to drop about 44% as a cattle shortage keeps its beef unit in the red.",
-   "visual": {
-    "type": "stat",
-    "title": "Tyson Q4 expectations",
-    "num": "-43.5%",
-    "tone": "loss",
-    "label": "Expected drop in earnings per share vs a year ago",
-    "facts": [
-     [
-      "EPS estimate",
-      "$0.65",
-      "vs $1.15"
-     ],
-     [
-      "Beef loss forecast",
-      "$500–650M",
-      "full year"
-     ],
-     [
-      "Chicken profit guide",
-      "$1.9–2.05B",
-      "full year"
-     ]
-    ]
-   },
-   "detail": [
-    "Tyson Foods reports fiscal fourth-quarter results Monday before the market opens. Consensus calls for 65 cents a share, down from $1.15, on about $13.88 billion in sales, per Earnings Whispers.",
-    "Beef is the problem. Tyson lost $138 million in beef last quarter as volume fell nearly 16%, and it widened its full-year beef loss forecast to $500 million to $650 million. It has closed several beef plants as cattle supplies hit multi-decade lows.",
-    "Chicken is the bright spot. That unit earned $488 million last quarter, and Tyson raised its full-year chicken outlook to $1.9 billion to $2.05 billion. Investors also want a first look at fiscal 2027 plans."
-   ],
-   "money": [
-    "Tight cattle supply has kept beef prices high. Chicken and pork can stretch a grocery budget, especially before holiday meals.",
-    "If you own Tyson, the 2027 outlook may move the stock more than this quarter's numbers.",
-    "Food stocks with mixed units show why diversification matters: one strong segment can offset a weak one."
-   ],
-   "risk": [
-    "Beef losses could widen further if cattle herds stay small.",
-    "Chicken faces a tough comparison with a record quarter a year ago."
-   ],
-   "sources": [
-    {
-     "t": "Tyson's Beef Losses Collide With Chicken Strength As Fiscal 2027 Outlook Takes Center Stage",
-     "d": "finviz.com",
-     "u": "https://finviz.com/news/419216/tysons-beef-losses-collide-with-chicken-strength-as-fiscal-2027-outlook-takes-center-stage"
-    },
-    {
-     "t": "Tyson closes more beef plants as cattle supply hits 75-year low",
-     "d": "san.com",
-     "u": "https://san.com/cc/tyson-closes-more-beef-plants-as-cattle-supply-hits-75-year-low/"
-    }
-   ]
-  },
-  {
-   "id": "msc-meyer-werft-2026111601",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business",
-    "world"
-   ],
-   "date": "This week",
-   "ts": "2026-11-16T01:40:00Z",
-   "headline": "Cruise giant MSC nears a deal for 80% of rescued German shipyard Meyer Werft",
-   "caption": "Der Spiegel says MSC could sign as soon as Tuesday for most of the yard. Germany's government and Lower Saxony bailed it out in 2024.",
-   "visual": {
-    "type": "deals",
-    "title": "Meyer Werft: the money",
-    "items": [
-     {
-      "a": "MSC Group",
-      "b": "~80% of Meyer Werft",
-      "amt": "Undisclosed",
-      "st": "Signing reported for Nov 17; state says not this week",
-      "c": "pend"
-     },
-     {
-      "a": "Germany + Lower Saxony",
-      "b": "2024 rescue",
-      "amt": "€400M + €2.6B",
-      "st": "Equity plus state-backed credit line",
-      "c": "ok"
-     },
-     {
-      "a": "New cruise order",
-      "b": "4 ships + 2 options",
-      "amt": "Up to €10B",
-      "st": "Letter of intent, deliveries from 2030",
-      "c": "pend"
-     }
-    ]
-   },
-   "detail": [
-    "MSC Group of Geneva is close to a deal for about 80% of Meyer Werft, the German shipyard that builds cruise ships. Der Spiegel reported a signing could come Tuesday, Nov. 17. Lower Saxony said it doesn't plan to sign any sale contracts in the coming week.",
-    "The federal government and Lower Saxony each own about 40% after a 2024 rescue that put in €400 million of equity and a €2.6 billion state-backed credit line. The Meyer family holds about 20% and wants to stay on.",
-    "The yard's 2025 revenue was €2.83 billion, but it lost €383.8 million. A reported order for four new ships could be worth up to €10 billion through 2033. The price MSC would pay hasn't been disclosed."
-   ],
-   "money": [
-    "New ship orders point to strong cruise demand. If you cruise, booking early often locks in better cabin prices.",
-    "Cruise stocks like Royal Caribbean, Carnival and Norwegian can move on shipbuilding news. Know what you own in travel funds.",
-    "Government rescues can end with a sale. Watch whether taxpayers get their money back, a sign of how bailouts work."
-   ],
-   "risk": [
-    "The deal date is unconfirmed, and the state denies signing this week.",
-    "The yard is still losing money and restructuring through 2028."
-   ],
-   "sources": [
-    {
-     "t": "MSC Nears a Deal for 80% of Meyer Werft: What It Means for Cruise Stocks",
-     "d": "admiralmarkets.com",
-     "u": "https://admiralmarkets.com/analytics/traders-blog/msc-meyer-werft-deal"
-    }
-   ]
-  },
-  {
-   "id": "dove-fire-moratorium-2026111601",
-   "type": "news",
-   "cat": "california",
-   "tags": [
-    "california",
-    "business"
-   ],
-   "date": "Fri Nov 13",
-   "ts": "2026-11-16T01:40:00Z",
-   "headline": "California blocks insurers from dropping 50,000 homes near the Dove Fire for a year",
-   "caption": "Commissioner Lara ordered a one-year ban on cancellations and nonrenewals in parts of three counties. Insurers must offer to undo notices already sent.",
-   "visual": {
-    "type": "stat",
-    "title": "Dove Fire insurance moratorium",
-    "num": "50,000",
-    "tone": "acc",
-    "label": "Home policies protected from nonrenewal for one year",
-    "facts": [
-     [
-      "Counties",
-      "3",
-      "Tuolumne, Stanislaus, Calaveras"
-     ],
-     [
-      "ZIP codes",
-      "15",
-      "in or near the fire area"
-     ],
-     [
-      "Protected in 2025",
-      "1.2M+",
-      "all wildfire moratoriums"
-     ]
-    ]
-   },
-   "detail": [
-    "California Insurance Commissioner Ricardo Lara issued a one-year moratorium on cancellations and nonrenewals for about 50,000 homeowners in Tuolumne, Stanislaus and Calaveras counties. It follows Gov. Newsom's Oct. 15 emergency declaration for the Dove Fire.",
-    "It covers 15 ZIP codes in or near the fire area, whether or not a home was damaged. It also reaches some commercial policies, such as HOAs, apartment complexes, condo associations and senior living.",
-    "Insurers that sent wildfire-related cancellation or nonrenewal notices on or after Oct. 15 must offer to rescind them. The state says such moratoriums protected more than 1.2 million homeowners in 2025."
-   ],
-   "money": [
-    "If you live in these counties and got a nonrenewal notice after Oct. 15, contact your insurer and ask for reinstatement.",
-    "The moratorium blocks dropping you, not rate hikes. Shop rates and ask about wildfire mitigation discounts.",
-    "Take photos of your home and belongings now. A home inventory speeds up any future claim."
-   ],
-   "risk": [
-    "After one year, insurers can drop policies again unless the ban is extended.",
-    "The moratorium does not cap premiums."
-   ],
-   "sources": [
-    {
-     "t": "California Orders Insurance Nonrenewal Moratorium for 50,000 Following Dove Fire",
-     "d": "insurancejournal.com",
-     "u": "https://insurancejournal.com/news/west/2026/11/13/892491.htm"
-    }
-   ]
-  },
-  {
-   "id": "amd-zen6-epyc-2026111601",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "markets"
-   ],
-   "date": "This week",
-   "ts": "2026-11-16T01:40:00Z",
-   "headline": "AMD ships 256-core Zen 6 server chips, pitching them for AI agents",
-   "caption": "AMD's 6th Gen EPYC processors are now shipping in servers, with Meta as lead customer. AMD claims big speed edges over Nvidia and Intel CPUs.",
-   "visual": {
-    "type": "board",
-    "title": "AMD's claims for EPYC 9996",
-    "rows": [
-     {
-      "k": "vs Nvidia Vera system",
-      "s": "performance",
-      "v": "up to 3.7x",
-      "tone": "gain"
-     },
-     {
-      "k": "vs Intel Xeon 6980P",
-      "s": "performance",
-      "v": "up to 2.2x",
-      "tone": "gain"
-     },
-     {
-      "k": "vs Intel Xeon 6980P",
-      "s": "performance per dollar",
-      "v": "up to 2.0x",
-      "tone": "gain"
-     },
-     {
-      "k": "Cores per chip",
-      "s": "TSMC 2nm",
-      "v": "256"
-     }
-    ],
-    "foot": "AMD's own testing and estimates"
-   },
-   "detail": [
-    "AMD made its 6th Gen EPYC server processors, built on the new Zen 6 design, generally available. Systems are shipping from major server makers, and Microsoft Azure and Oracle Cloud instances are coming soon.",
-    "AMD says its top EPYC 9996 chip delivers up to 3.7 times the performance of an Nvidia Vera CPU system and 2.2 times an Intel Xeon 6980P system. These are AMD's own test claims. The top chips pack 256 cores on TSMC's 2-nanometer process.",
-    "Meta is the lead customer. AMD argues AI agents need far more regular CPUs alongside AI accelerators, a bet that could widen its market as AI spending grows."
-   ],
-   "money": [
-    "AI spending isn't only about Nvidia GPUs. Server CPU makers like AMD and Intel are also in the race, which is why broad tech funds spread risk.",
-    "Company benchmark claims are marketing until independent tests confirm them. Don't buy a stock on a press release.",
-    "Cheaper, faster servers can lower cloud costs over time, which could eventually show up in prices for AI tools."
-   ],
-   "risk": [
-    "Cloud availability is still pending, so real sales may take quarters to show.",
-    "Chip stocks have been very volatile this month."
-   ],
-   "sources": [
-    {
-     "t": "AMD Showcases 6th Gen AMD EPYC Processors to Lead Next Era of AI and Enterprise Computing",
-     "d": "ir.amd.com",
-     "u": "https://ir.amd.com/news-events/press-releases/detail/1305/amd-showcases-6th-gen-amd-epyc-processors-to-lead-next-era-of-ai-and-enterprise-computing"
-    },
-    {
-     "t": "AMD launches Zen 6 with EPYC Venice: 256 cores on TSMC 2nm",
-     "d": "hwbusters.com",
-     "u": "https://hwbusters.com/news/amd-launches-zen-6-with-epyc-venice-256-cores-on-tsmc-2nm/"
-    }
-   ]
-  },
-  {
-   "id": "clarity-act-stalls-2026111601",
-   "type": "news",
-   "cat": "crypto",
-   "tags": [
-    "crypto",
-    "politics"
-   ],
-   "date": "Sun Nov 15",
-   "ts": "2026-11-16T01:40:00Z",
-   "headline": "Crypto market bill looks stuck for 2026; SEC nominees face senators Thursday",
-   "caption": "The CLARITY Act fell 11 votes short in September and seems unlikely to move in the lame duck. Senate Banking holds a hearing on two SEC picks Nov. 19.",
-   "visual": {
-    "type": "timeline",
-    "title": "Crypto rules: where things stand",
-    "items": [
-     {
-      "d": "SEP 15",
-      "t": "CLARITY Act stalls 49–50",
-      "s": "60 votes needed"
-     },
-     {
-      "d": "NOV 3",
-      "t": "Democrats win both chambers"
-     },
-     {
-      "d": "NOV 12",
-      "t": "Trump names 2 SEC and 2 CFTC picks"
-     },
-     {
-      "d": "NOV 19",
-      "t": "Senate hearing on SEC nominees",
-      "now": true
-     },
-     {
-      "d": "JAN 18",
-      "t": "OCC stablecoin rule takes effect"
-     }
-    ]
-   },
-   "detail": [
-    "The CLARITY Act, a bill to set rules for crypto markets, is unlikely to advance before the new Congress, crypto.news reports. A September 15 Senate vote to end debate failed 49–50, 11 short of the 60 needed. The House passed it 294–134 in July 2025.",
-    "Congress is focused on nominees instead. On Nov. 12, Trump nominated Steven Levine and Kristin Johnson to the SEC and Nathan Anonick and Matthew Rowland to the CFTC. Senate Banking holds a hearing on the SEC picks Nov. 19. The CFTC now has only one sitting commissioner.",
-    "Stablecoin rules are moving separately. The OCC's final rule for payment stablecoin issuers, under the 2025 GENIUS Act, takes effect Jan. 18, 2027."
-   ],
-   "money": [
-    "Without a market-structure law, crypto rules stay murky. That uncertainty is one reason prices swing so hard; size crypto bets accordingly.",
-    "Stablecoin rules on reserves and redemptions take effect in January. Favor stablecoins from issuers that publish regular reserve audits.",
-    "Keep records of every crypto trade. Whatever rules come, the IRS already taxes crypto gains."
-   ],
-   "risk": [
-    "Democrats take control in January, which could reshape any crypto bill.",
-    "Confirmation votes may slip into 2027."
-   ],
-   "sources": [
-    {
-     "t": "CLARITY Act unlikely to advance as Congress focuses on SEC, CFTC picks",
-     "d": "crypto.news",
-     "u": "https://crypto.news/clarity-act-congress-lame-duck-sec-cftc-nominations/"
-    },
-    {
-     "t": "OCC Final Rule Moves U.S. Stablecoin Law Into Implementation",
-     "d": "tokenpost.com",
-     "u": "https://www.tokenpost.com/news/regulation/57889"
-    }
-   ]
-  },
-  {
-   "id": "afghan-flight-nov16-2026111601",
-   "type": "news",
-   "cat": "immigration",
-   "tags": [
-    "immigration",
-    "politics"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T01:40:00Z",
-   "headline": "US plans to deport about 150 Afghans via Pakistan; flight reset for Nov. 16",
-   "caption": "An advocacy group says the flight was rescheduled to today. A court order shields only five people, and Democrats are pushing a bill to restore Afghans' protected status.",
-   "visual": {
-    "type": "points",
-    "title": "The Afghan deportation fight",
-    "items": [
-     "About 150 Afghans slated for removal via Pakistan",
-     "Flight reportedly moved to Nov. 16; DHS won't confirm",
-     "Court order covers only 5 people",
-     "About 11,700 Afghans had TPS before it was revoked in 2025",
-     "Discharge petition needs 218; Democrats hold 214 seats"
-    ]
-   },
-   "detail": [
-    "The US plans to deport about 150 Afghans to Afghanistan by way of Pakistan, with media reports saying the flight would leave from Louisiana. Shawn VanDiver of AfghanEvac said it was rescheduled to Nov. 16. DHS declined to confirm.",
-    "A judge's order, first issued Nov. 3 and extended indefinitely Nov. 7, protects only five people represented by one legal group. US officials ended Temporary Protected Status for Afghans in May 2025; DHS had estimated about 11,700 held it.",
-    "Rep. Jason Crow's Afghanistan TPS Act would restore that status. A discharge petition needs 218 signatures, so at least four Republicans would have to join. Democrats take the House majority in January. Supporters of the removals say people without legal status should leave; opponents cite safety risks under Taliban rule."
-   ],
-   "money": [
-    "Immigration cases can be costly. Many nonprofits offer free or low-cost legal help; check before paying a private lawyer.",
-    "Families facing removal should keep copies of key financial papers and give a trusted person access to bank accounts.",
-    "Employers with immigrant staff should plan for sudden departures that could affect payroll and operations."
-   ],
-   "risk": [
-    "Timing could change again with court rulings or DHS decisions.",
-    "Whether the president would sign a TPS bill is unclear."
-   ],
-   "sources": [
-    {
-     "t": "Amid Ongoing Battle Over Afghan Deportations, US Legislators Push Law Granting Protection",
-     "d": "rferl.org",
-     "u": "https://www.rferl.org/a/us-afghan-deportations-battle-congress-crow-tps/33897979.html"
-    }
-   ]
-  },
-  {
-   "id": "arkansas-budget-696-2026111601",
-   "type": "news",
-   "cat": "states",
-   "tags": [
-    "states",
-    "taxes",
-    "benefits"
-   ],
-   "date": "This month",
-   "ts": "2026-11-16T01:40:00Z",
-   "headline": "Arkansas lawmakers weigh Sanders' $6.96 billion budget built to leave room for tax cuts",
-   "caption": "The plan adds $311.6 million, led by Medicaid and school vouchers. Sanders says holding down spending growth makes space for more tax cuts.",
-   "visual": {
-    "type": "board",
-    "title": "Arkansas budget proposal: biggest adds",
-    "rows": [
-     {
-      "k": "Medicaid",
-      "v": "+$150M",
-      "tone": "acc"
-     },
-     {
-      "k": "Education Freedom Accounts",
-      "s": "50,000+ students",
-      "v": "+$70M"
-     },
-     {
-      "k": "Early childhood",
-      "v": "+$20M"
-     },
-     {
-      "k": "SNAP administration",
-      "v": "+$25M"
-     }
-    ],
-    "foot": "Total: $6.96B, up $311.6M (KATV)"
-   },
-   "detail": [
-    "Gov. Sarah Huckabee Sanders proposed a $6.96 billion state budget, up $311.6 million from last year. Legislators are now reviewing it ahead of the 2027 session.",
-    "Medicaid gets the largest increase at $150 million, including help for people on a disability-services waitlist. Education gets $90 million, with $70 million for Education Freedom Accounts used by more than 50,000 students. SNAP administration gets $25 million.",
-    "Sanders said the plan holds down government growth to leave room for tax cuts, but no dollar figure was given. Possible one-time surplus spending includes $200 million for Medicaid and $50 million for the state's possible share of SNAP benefits."
-   ],
-   "money": [
-    "Arkansans: watch for income tax cut details in the coming session. A lower rate could change your 2027 withholding.",
-    "Families using Education Freedom Accounts may see more funding; check eligibility and deadlines.",
-    "The $50 million SNAP set-aside reflects new federal rules shifting food aid costs to states, a trend to watch in every state."
-   ],
-   "risk": [
-    "Tax cut size and timing are not yet set.",
-    "Federal Medicaid and SNAP changes could strain the budget."
-   ],
-   "sources": [
-    {
-     "t": "Governor Sanders unveils her nearly $7B state budget proposal",
-     "d": "katv.com",
-     "u": "https://katv.com/news/local/governor-sanders-unveils-nearly-67b-budget"
-    }
-   ]
-  },
-  {
-   "id": "edu-implied-move-2026111601",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "markets"
-   ],
-   "date": "Explainer",
-   "ts": "2026-11-16T01:40:00Z",
-   "headline": "What an 'implied move' tells you before earnings, using Disney",
-   "caption": "Options traders expect Disney to swing about 6.3% after Tuesday's report. Here's what that number means and what it doesn't.",
-   "scenes": [
-    {
-     "k": "THE NEWS",
-     "t": "Disney options price a 6.3% move",
-     "s": "Disney reports Tuesday before the market opens."
-    },
-    {
-     "k": "WHERE IT COMES FROM",
-     "t": "Option prices reveal expected swings",
-     "viz": {
-      "type": "flow",
-      "items": [
-       "Traders buy options before news",
-       "Options get pricier",
-       "Price implies a typical move",
-       "Up or down, not both"
-      ]
-     },
-     "say": "When traders expect big news, options get more expensive. That price implies how big a move the market expects, in either direction."
-    },
-    {
-     "k": "IN DOLLARS",
-     "t": "About $7.50 either way",
-     "viz": {
-      "type": "split",
-      "items": [
-       [
-        "Friday close",
-        "$118.97"
-       ],
-       [
-        "6.3% move",
-        "≈$7.50"
-       ],
-       [
-        "Rough range",
-        "$111.50 to $126.50",
-        "wide"
-       ]
-      ]
-     },
-     "say": "At Friday's close of about 119 dollars, a 6.3 percent move is roughly 7 dollars and 50 cents, up or down."
-    },
-    {
-     "k": "TRACK RECORD",
-     "t": "Last 8 reports: 6.1% average move",
-     "s": "Five of those eight moves were 6% or more."
-    },
-    {
-     "k": "WHAT IT ISN'T",
-     "t": "It's not a prediction of direction",
-     "s": "The market prices the size of the surprise, not whether it's good or bad."
-    },
-    {
-     "k": "YOUR MOVE",
-     "t": "Plan before, don't react after",
-     "s": "Long-term investors can ride out one-day swings. Avoid chasing a stock right after a big jump."
-    }
-   ]
-  },
-  {
-   "id": "edu-warn-notice-2026111601",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "business"
-   ],
-   "date": "Explainer",
-   "ts": "2026-11-16T01:40:00Z",
-   "headline": "WARN notices: the public layoff warning most workers never check",
-   "caption": "JPMorgan just filed its sixth New Jersey layoff notice this year. Here's what these notices are and how to use them.",
-   "scenes": [
-    {
-     "k": "THE NEWS",
-     "t": "JPMorgan filed its 6th NJ layoff notice",
-     "s": "91 Jersey City jobs, and 632 New Jersey roles this year."
-    },
-    {
-     "k": "WHAT IT IS",
-     "t": "A legal heads-up before mass layoffs",
-     "s": "The federal WARN Act generally makes larger employers give 60 days' notice of mass layoffs or closings."
-    },
-    {
-     "k": "HOW IT WORKS",
-     "t": "Notices go to the state",
-     "viz": {
-      "type": "flow",
-      "items": [
-       "Company plans cuts",
-       "Files notice with state",
-       "State posts it publicly",
-       "Workers get notice"
-      ]
-     },
-     "say": "The company files a notice with the state, the state often posts it publicly, and affected workers are told ahead of time."
-    },
-    {
-     "k": "STATE RULES",
-     "t": "Some states require more",
-     "s": "Several states have their own versions with longer notice or lower thresholds."
-    },
-    {
-     "k": "WHY IT MATTERS",
-     "t": "An early signal for you",
-     "s": "Search your state's WARN list for your employer or industry a few times a year."
-    },
-    {
-     "k": "YOUR MOVE",
-     "t": "Prepare before a notice hits",
-     "s": "Keep an emergency fund, an updated resume, and know your severance and benefit options."
-    }
-   ]
-  },
-  {
-   "id": "japan-gdp-shrinks-2026111600",
-   "type": "news",
-   "cat": "markets",
-   "tags": [
-    "markets",
-    "world"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T00:32:00Z",
-   "headline": "Japan's economy unexpectedly shrinks in Q3 as shoppers pull back",
-   "caption": "Japan's GDP fell 0.1% at an annual pace in July to September, when economists expected growth. It's the first drop in four quarters.",
-   "visual": {
-    "type": "vs",
-    "title": "Japan Q3 GDP, annualized",
-    "a": [
-     "Expected",
-     "+0.3%",
-     0.6,
-     "acc"
-    ],
-    "b": [
-     "Actual",
-     "-0.1%",
-     0.2,
-     "loss"
-    ],
-    "foot": "Reuters: prior quarter revised to 1.7% growth"
-   },
-   "detail": [
-    "Japan's economy contracted 0.1% at an annualized rate in the third quarter. A Reuters poll had expected 0.3% growth. Quarter over quarter, output was basically flat.",
-    "Consumer spending, more than half the economy, fell 0.3%. Rain, typhoons, high prices and a payback after earlier car and air-conditioner buying all hurt. Business investment rose 1.6%, helped by AI and labor-saving projects. Higher energy imports took 0.6 points off growth.",
-    "The Bank of Japan has raised rates twice this year, in June and September. Its rate is 1.25%, and a move to 1.5% in December is widely expected. The dollar is pressing toward 160 yen."
-   ],
-   "money": [
-    "A weak yen makes Japan trips cheaper for Americans. Watch fares and hotel deals if you plan travel.",
-    "If you own international stock funds, Japan is often one of the biggest country weights. Check your fund's mix.",
-    "Business investment in AI is still growing even as shoppers pull back, a theme showing up across many economies."
-   ],
-   "risk": [
-    "Weak growth could make the BOJ delay its December hike, which could push the yen even lower.",
-    "A revised GDP estimate comes next month and could change the picture."
-   ],
-   "sources": [
-    {
-     "t": "Japan's economy unexpectedly shrinks in July-Sept as consumption falters",
-     "d": "freemalaysiatoday.com",
-     "u": "https://www.freemalaysiatoday.com/category/business/2026/11/16/japan-s-economy-unexpectedly-shrinks-in-july-sept-as-consumption-falters"
-    },
-    {
-     "t": "Japan Q3 GDP shrinks 0.1% annualised vs +0.3% expected",
-     "d": "investinglive.com",
-     "u": "https://investinglive.com/news/japan-q3-gdp-shrinks-0-1-annualised-vs-0-3-expected-as-exports-and-consumers-weigh/"
-    }
-   ]
-  },
-  {
-   "id": "megaspeed-counsel-2026111600",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "business"
-   ],
-   "date": "Sun Nov 15",
-   "ts": "2026-11-16T00:32:00Z",
-   "headline": "Megaspeed says Alice Huang left in 2025 and hires outside lawyers to investigate",
-   "caption": "The Singapore cloud firm at the center of the Nvidia scandal says she has no role there now. It bought over $4.8 billion of Nvidia chips in about two years.",
-   "visual": {
-    "type": "stat",
-    "title": "Megaspeed and Nvidia",
-    "num": "$4.8B+",
-    "tone": "acc",
-    "label": "Nvidia chips Megaspeed bought in about two years, per CNBC.",
-    "facts": [
-     [
-      "Huang left",
-      "Aug 30, 2025",
-      "per the company"
-     ],
-     [
-      "Nvidia partner since",
-      "2023",
-      "cloud partner"
-     ],
-     [
-      "Probe",
-      "Outside counsel",
-      "internal review"
-     ]
-    ]
-   },
-   "detail": [
-    "Megaspeed told CNBC that Alice Huang left the company at the end of August 2025 and has no current role. It has hired outside lawyers to review media reports about its business and supply chain.",
-    "The firm is suspected of buying Nvidia chips for Southeast Asian data centers and passing them to Chinese companies to dodge US limits. Megaspeed says it does business lawfully and will review its export-control compliance.",
-    "Singapore's Ministry of Home Affairs told the Wall Street Journal it did not investigate Huang. That disputes an earlier report that local authorities had probed her."
-   ],
-   "money": [
-    "Nvidia reports earnings this week. Headlines like this can swing the stock, so avoid big trades on rumors.",
-    "If you own chip funds, Nvidia is often the largest holding. Know how much of your money rides on one name.",
-    "Watch whether Commerce adds Megaspeed to its blacklist. That could hit Nvidia's Asia sales."
-   ],
-   "risk": [
-    "More details from the probes could move chip stocks sharply either way."
-   ],
-   "sources": [
-    {
-     "t": "Megaspeed says Alice Huang left in August 2025, hires outside counsel",
-     "d": "aiweekly.co",
-     "u": "https://aiweekly.co/alerts/megaspeed-says-alice-huang-left-in-august-2025-hires-outside-counsel-to"
     }
    ]
   }
