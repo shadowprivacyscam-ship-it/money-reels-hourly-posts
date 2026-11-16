@@ -1,6 +1,331 @@
 {
- "updated": "2026-11-16T03:40:00Z",
+ "updated": "2026-11-16T04:24:00Z",
  "items": [
+  {
+   "id": "mstr-paper-loss-2026111604",
+   "type": "news",
+   "cat": "crypto",
+   "tags": [
+    "crypto",
+    "markets"
+   ],
+   "date": "Sun Nov 15",
+   "ts": "2026-11-16T04:24:00Z",
+   "headline": "Strategy sits on about $8.5B in paper losses; Saylor hints at buying more",
+   "caption": "Bitcoin's slide left Strategy's 850,364 BTC worth far less than it paid. MSTR fell more than 7% in overnight trading as Saylor teased another purchase.",
+   "visual": {
+    "type": "board",
+    "title": "Strategy's bitcoin math",
+    "rows": [
+     {
+      "k": "Bitcoin held",
+      "v": "850,364 BTC"
+     },
+     {
+      "k": "Average cost",
+      "s": "per coin, Nov. 9 filing",
+      "v": "$75,456"
+     },
+     {
+      "k": "Total cost",
+      "v": "$64.16B"
+     },
+     {
+      "k": "Value Nov. 15",
+      "s": "per Saylor's chart",
+      "v": "$55.7B",
+      "tone": "loss"
+     },
+     {
+      "k": "Paper loss",
+      "v": "~$8.46B",
+      "tone": "loss"
+     },
+     {
+      "k": "MSTR overnight",
+      "v": "-7%+",
+      "ch": -7.0
+     }
+    ],
+    "foot": "Sources: Bitcoin.com News, Stocktwits"
+   },
+   "detail": [
+    "Strategy, the biggest corporate bitcoin holder, owns 850,364 coins bought at an average of $75,456 each. That's about $64.16 billion in total cost.",
+    "With bitcoin dipping near $62,500 early Sunday, Saylor's own chart valued the stack at about $55.7 billion, a paper loss of roughly $8.5 billion. On Sunday he posted the chart with a caption hinting at another buy.",
+    "Shares fell more than 7% in overnight trading Sunday night, Stocktwits reported. MSCI recently dropped the stock from its indexes."
+   ],
+   "money": [
+    "A paper loss only becomes real if you sell. But a company that borrowed to buy has less room to wait.",
+    "If you own MSTR, you hold a leveraged bitcoin bet. Size it as you would a crypto position, not a normal stock.",
+    "A spot bitcoin ETF gives bitcoin exposure without a company's debt and share-sale risks."
+   ],
+   "risk": [
+    "A deeper bitcoin drop widens the loss and could pressure Strategy's financing.",
+    "A Saylor post is a hint, not a filed purchase."
+   ],
+   "sources": [
+    {
+     "t": "Michael Saylor Hints at Another Strategy Bitcoin Buy as BTC Slides",
+     "d": "news.bitcoin.com",
+     "u": "https://news.bitcoin.com/featured/michael-saylor-hints-at-another-strategy-bitcoin-buy-as-btc-slides/"
+    },
+    {
+     "t": "Dow, S&P 500, Nasdaq Futures Edge Lower As Markets Brace For Nvidia Earnings, Anthropic IPO, Fed Minutes",
+     "d": "stocktwits.com",
+     "u": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-edge-lower-as-markets-brace-for-nvidia-earnings-anthropic-ipo-fed-minutes-smmt-nbis-help-mstr-in-focus/cNb7ePKR9Xb"
+    }
+   ]
+  },
+  {
+   "id": "india-gold-monday-2026111604",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets",
+    "world"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T04:24:00Z",
+   "headline": "India's Sensex climbs as oil eases; gold holds near $3,880 after a rough week",
+   "caption": "Indian stocks rose about 0.6% at Monday's open while Tokyo slipped. Gold steadied after a 4.5% weekly drop, with traders betting heavily on a December Fed hike.",
+   "visual": {
+    "type": "board",
+    "title": "Monday morning in Asia",
+    "rows": [
+     {
+      "k": "Sensex (India)",
+      "v": "82,070",
+      "ch": 0.59
+     },
+     {
+      "k": "Nikkei 225 (Japan)",
+      "v": "-0.99%",
+      "ch": -0.99
+     },
+     {
+      "k": "Kospi (Korea)",
+      "v": "-0.33%",
+      "ch": -0.33
+     },
+     {
+      "k": "Spot gold",
+      "s": "after -4.5% last week",
+      "v": "$3,878",
+      "tone": "acc"
+     },
+     {
+      "k": "Brent crude",
+      "v": "$96.29",
+      "tone": "acc"
+     },
+     {
+      "k": "Dec. Fed hike odds",
+      "s": "CME FedWatch, 25 bp",
+      "v": "92%",
+      "tone": "loss"
+     }
+    ],
+    "foot": "Early Monday Asia trading"
+   },
+   "detail": [
+    "India's Sensex rose about 478 points to 82,070 early Monday, and the Nifty 50 topped 25,250, as oil kept easing. MSCI's India index is up 11% from its October low, adding more than $400 billion in value.",
+    "Not every stock joined in. Kaynes Technology fell 15% to a 52-week low after its quarterly profit dropped about 62%. Eicher Motors gained 3.9% on a 15% profit rise.",
+    "Elsewhere, Japan's Nikkei fell about 1%. Spot gold sat near $3,878 after its lowest level in over a year. CME data showed about a 92% chance of a quarter-point Fed hike in December."
+   ],
+   "money": [
+    "Oil-importing markets like India often gain when crude falls. A broad emerging-markets fund gives you that exposure.",
+    "Gold is down sharply as rate-hike bets grow. If you buy, buy in small pieces over time instead of all at once.",
+    "Higher expected rates mean better yields on savings and short-term Treasuries. Check what your bank pays."
+   ],
+   "risk": [
+    "A renewed oil spike would hurt India and help gold.",
+    "Early-session moves can reverse by the close."
+   ],
+   "sources": [
+    {
+     "t": "Stock Market LIVE: Sensex gains 400 pts, Nifty above 25,250; Kaynes Technology shares slump 15%",
+     "d": "business-standard.com",
+     "u": "https://www.business-standard.com/markets/news/stock-market-live-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-november-16-126111600051_1.html"
+    },
+    {
+     "t": "Data: Spot gold is quoted at 3877.66 USD",
+     "d": "chaincatcher.com",
+     "u": "https://www.chaincatcher.com/en/article/2305057"
+    },
+    {
+     "t": "News by CNBC TV18 on TradingView, 2026-11-16",
+     "d": "tradingview.com",
+     "u": "https://www.tradingview.com/news/cnbctv:665b94606094b:0/"
+    }
+   ]
+  },
+  {
+   "id": "houston-ice-agent-case-2026111604",
+   "type": "news",
+   "cat": "immigration",
+   "tags": [
+    "immigration",
+    "states"
+   ],
+   "date": "Sun Nov 15",
+   "ts": "2026-11-16T04:24:00Z",
+   "headline": "Family of a Houston man hit by an ICE vehicle says it was intentional",
+   "caption": "A Texas grand jury indicted the ICE officer on aggravated assault. ICE says the man ran in front of the vehicle and calls the prosecution a political stunt.",
+   "visual": {
+    "type": "timeline",
+    "title": "The Houston case so far",
+    "items": [
+     {
+      "d": "OCT 10",
+      "t": "Worker struck by ICE vehicle",
+      "s": "Broken leg and hip injuries"
+     },
+     {
+      "d": "LATE OCT",
+      "t": "Grand jury indicts the officer",
+      "s": "Aggravated assault charge"
+     },
+     {
+      "d": "NOV",
+      "t": "Lawmakers write to ICE and DHS",
+      "s": "Cite family access issues"
+     },
+     {
+      "d": "NOV 15",
+      "t": "Siblings speak to CBS News",
+      "now": true
+     }
+    ]
+   },
+   "detail": [
+    "Miguel Parra Hernandez, 48, a construction worker who has lived in the U.S. for 34 years, was struck by an ICE vehicle in Houston on Oct. 10. Video shows him running before the vehicle hits him from behind. He was not the target of the operation and remains in ICE custody.",
+    "A Harris County grand jury indicted ICE officer Mario Alberto Morales on a felony aggravated assault charge. The officer's lawyer calls it an accident. ICE says Parra Hernandez ran in front of the vehicle and calls the case a political stunt.",
+    "ICE does not dispute that he has no criminal record but says he is in the country illegally. His siblings told CBS News the act was intentional. House Democrats led by Rep. Lizzie Fletcher accused ICE of limiting family and lawyer access."
+   ],
+   "money": [
+    "Detention can wipe out a household's income overnight. Families should know where key papers and bank access are kept.",
+    "Construction and other labor-heavy fields may face worker shortages and higher costs as enforcement continues.",
+    "For immigration questions, a licensed attorney or accredited representative is worth the cost over a notario."
+   ],
+   "risk": [
+    "The criminal case is in early stages; facts are disputed.",
+    "Outcomes may shape how state prosecutors handle federal agents."
+   ],
+   "sources": [
+    {
+     "t": "Siblings of man in Texas run over by ICE agent say incident was \"intentional\"",
+     "d": "cbsnews.com",
+     "u": "https://cbsnews.com/news/ice-agent-siblings-man-run-over-incident-texas"
+    }
+   ]
+  },
+  {
+   "id": "phx-airport-ice-2026111604",
+   "type": "news",
+   "cat": "immigration",
+   "tags": [
+    "immigration"
+   ],
+   "date": "Sat Nov 14",
+   "ts": "2026-11-16T04:24:00Z",
+   "headline": "ICE detains two asylum seekers with work permits at Phoenix's airport",
+   "caption": "ICE says the Argentine couple overstayed their visas. Their lawyer says airport arrests of people with pending cases are rising.",
+   "visual": {
+    "type": "points",
+    "title": "What we know",
+    "items": [
+     "Detained by plainclothes agents at Sky Harbor",
+     "Entered on visas in 2020, applied for asylum",
+     "Valid work permits, no criminal record",
+     "ICE: pending cases don't give legal status",
+     "Airport says it isn't told about raids"
+    ]
+   },
+   "detail": [
+    "Plainclothes ICE agents detained Agustin Baccega and Gustavo Romanello, a married couple who work as acrobats, at Phoenix Sky Harbor Airport last weekend. They came to the U.S. on visas in 2020 and soon applied for asylum. Those cases are still pending.",
+    "ICE called it a targeted action and said both overstayed their visas. A spokesperson said a pending application or work permit does not give legal status. ICE would not say how agents knew the men would be there.",
+    "Their Phoenix lawyer, in practice 17 years, says arrests of people with similar profiles and at airports have risen sharply this year. The airport says it is not told about federal enforcement and doesn't get passenger data."
+   ],
+   "money": [
+    "A work permit doesn't prevent detention. People with pending cases may want legal advice before flying.",
+    "Detention can halt a paycheck fast. Keep an emergency fund and give a trusted person access if you can.",
+    "Low-cost help exists through nonprofits and accredited representatives. Check before paying a notario."
+   ],
+   "risk": [
+    "No official count of airport arrests was given.",
+    "Each case depends on its own facts."
+   ],
+   "sources": [
+    {
+     "t": "Attorney for 2 men detained by ICE at Phoenix airport says that type of arrest is on the rise",
+     "d": "kjzz.org",
+     "u": "https://www.kjzz.org/fronteras-desk/2026-11-14/attorney-for-2-men-detained-by-ice-at-phoenix-airport-says-that-type-of-arrest-is-on-the-rise"
+    }
+   ]
+  },
+  {
+   "id": "edu-paper-loss-2026111604",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "crypto"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-16T04:24:00Z",
+   "headline": "Paper losses vs. real losses, using Strategy's bitcoin",
+   "caption": "Strategy is down about $8.5 billion on paper. Here's what 'unrealized' means and when it starts to matter.",
+   "scenes": [
+    {
+     "k": "TODAY'S NEWS",
+     "t": "Strategy is down ~$8.5B on bitcoin",
+     "s": "It paid $64.16B. The coins were worth about $55.7B Sunday."
+    },
+    {
+     "k": "THE MATH",
+     "t": "Cost minus value = paper loss",
+     "viz": {
+      "type": "split",
+      "items": [
+       [
+        "Paid",
+        "$64.16B"
+       ],
+       [
+        "Worth now",
+        "$55.7B"
+       ],
+       [
+        "Paper loss",
+        "~$8.46B",
+        "wide"
+       ]
+      ]
+     },
+     "say": "It paid about 64 billion dollars. The coins were worth about 55.7 billion. That's a paper loss of about 8.5 billion."
+    },
+    {
+     "k": "UNREALIZED",
+     "t": "It's not locked in until you sell",
+     "s": "If the price recovers, the loss can shrink or vanish."
+    },
+    {
+     "k": "THE CATCH",
+     "t": "Debt can force a sale",
+     "s": "Borrowers may have to sell at a bad time to pay bills."
+    },
+    {
+     "k": "TAX ANGLE",
+     "t": "Realized losses can cut taxes",
+     "s": "Sold losses can offset gains, plus up to $3,000 of income a year."
+    },
+    {
+     "k": "YOUR MOVE",
+     "t": "Only hold what you can wait out",
+     "s": "Avoid borrowing to buy volatile assets."
+    }
+   ]
+  },
   {
    "id": "biotech-whiplash-2026111603",
    "type": "news",
@@ -11798,329 +12123,6 @@
      "t": "2027 Social Security COLA increase: what it means and when",
      "d": "nbcchicago.com",
      "u": "https://www.nbcchicago.com/news/local/2027-social-security-cola-increase-heres-what-it-means-for-checks-and-when/4002339/"
-    }
-   ],
-   "ts": "2026-11-09T07:11:26Z"
-  },
-  {
-   "id": "tax-2027",
-   "type": "news",
-   "cat": "taxes",
-   "tags": [
-    "taxes"
-   ],
-   "date": "Thu Nov 5",
-   "headline": "IRS raises 2027 tax brackets and the standard deduction",
-   "caption": "The IRS adjusted nearly 70 tax rules for inflation. Single filers get a $16,600 standard deduction, married couples $33,200. Rates stay the same.",
-   "visual": {
-    "type": "board",
-    "title": "2027 standard deduction · filed in 2028",
-    "rows": [
-     {
-      "k": "Single",
-      "s": "Up $500",
-      "v": "$16,600"
-     },
-     {
-      "k": "Head of household",
-      "s": "Up $775",
-      "v": "$24,925"
-     },
-     {
-      "k": "Married filing jointly",
-      "s": "Up $1,000",
-      "v": "$33,200"
-     },
-     {
-      "k": "Child Tax Credit",
-      "s": "Per child",
-      "v": "$2,300"
-     },
-     {
-      "k": "Top 37% bracket",
-      "s": "Married, joint",
-      "v": "$793,650+"
-     }
-    ]
-   },
-   "detail": [
-    "The adjustments apply to the 2027 tax year, so they show up on returns filed in 2028 and in paycheck withholding during 2027. Tax rates themselves did not change.",
-    "Brackets are indexed to chained CPI. Inflation reached 3.7% in September, so the increases were sizable and in line with forecasts.",
-    "About 86% of filers take the standard deduction instead of itemizing."
-   ],
-   "money": [
-    "Higher brackets mean slightly less tax withheld from 2027 paychecks; check your first January pay stub.",
-    "If your itemized deductions are close to the standard amount, \"bunching\" donations into one year can push you over.",
-    "Families: the Child Tax Credit rises to $2,300 per child for 2027."
-   ],
-   "risk": [
-    "Your actual savings depend on income, filing status and credits."
-   ],
-   "sources": [
-    {
-     "t": "IRS adjusts tax brackets, standard deduction for tax year 2027",
-     "d": "cpapracticeadvisor.com",
-     "u": "https://www.cpapracticeadvisor.com/2026/11/05/irs-adjusts-tax-brackets-standard-deduction-for-tax-year-2027/193358/"
-    },
-    {
-     "t": "2027 tax brackets and standard deduction: full IRS rates",
-     "d": "foxla.com",
-     "u": "https://www.foxla.com/news/irs-2027-tax-brackets-standard-deduction"
-    },
-    {
-     "t": "Here are the new federal income tax brackets for 2027",
-     "d": "money.com",
-     "u": "https://money.com/irs-tax-brackets-standard-deduction-2027/?amp=true"
-    },
-    {
-     "t": "IRS raises 2027 brackets: what the changes mean",
-     "d": "ibtimes.co.uk",
-     "u": "https://www.ibtimes.co.uk/irs-raises-2027-tax-brackets-standard-deduction-1830574"
-    }
-   ],
-   "ts": "2026-11-09T07:11:26Z"
-  },
-  {
-   "id": "limits-2027",
-   "type": "news",
-   "cat": "taxes",
-   "tags": [
-    "taxes",
-    "markets"
-   ],
-   "date": "IRS notice due soon",
-   "headline": "Your 401(k) limit is expected to rise to $25,500 in 2027",
-   "caption": "The IRS has not announced it yet, but Milliman’s final forecast points to a $1,000 increase. HSA limits are already official: $4,500 self-only, $9,000 family.",
-   "visual": {
-    "type": "board",
-    "title": "2027 savings limits",
-    "rows": [
-     {
-      "k": "401(k) employee limit",
-      "s": "Projected · Milliman final estimate",
-      "v": "$25,500"
-     },
-     {
-      "k": "Catch-up, age 50+",
-      "s": "Projected",
-      "v": "$8,500"
-     },
-     {
-      "k": "HSA, self-only",
-      "s": "Official (IRS, May)",
-      "v": "$4,500",
-      "tone": "gain"
-     },
-     {
-      "k": "HSA, family",
-      "s": "Official (IRS, May)",
-      "v": "$9,000",
-      "tone": "gain"
-     },
-     {
-      "k": "IRA",
-      "s": "Forecasts split: $7,500–$8,000",
-      "v": "$7,500+"
-     }
-    ]
-   },
-   "detail": [
-    "Milliman’s final forecast, based on September inflation data, estimates a roughly 3.5% increase factor for 2027 retirement limits. Last year the IRS announced the 2026 limits on November 13.",
-    "Health Savings Account limits use a different formula and were published in May: $4,500 for self-only coverage and $9,000 for family coverage.",
-    "The 2026 401(k) limit is $24,500."
-   ],
-   "money": [
-    "Set your 401(k) contribution percentage in December so January paychecks start at the higher limit.",
-    "An HSA is the only account that is tax-free going in, growing and coming out for medical costs.",
-    "Self-employed? A Solo 401(k) lets you contribute as both employee and employer."
-   ],
-   "risk": [
-    "401(k) and IRA figures are projections until the IRS publishes its notice."
-   ],
-   "sources": [
-    {
-     "t": "2027 IRS limits forecast: final estimates",
-     "d": "milliman.com",
-     "u": "https://www.milliman.com/pt-BR/insight/2027-irs-limits-forecast-final-estimates"
-    },
-    {
-     "t": "2027 401(k) contribution limits all but official",
-     "d": "401kspecialistmag.com",
-     "u": "https://401kspecialistmag.com/2027-401k-contribution-limits-all-but-official-25500-expected/"
-    },
-    {
-     "t": "2027 retirement contribution limits",
-     "d": "countrytaxcalc.com",
-     "u": "https://www.countrytaxcalc.com/tax-guides/usa/2027-retirement-contribution-limits/"
-    }
-   ],
-   "ts": "2026-11-09T07:11:26Z"
-  },
-  {
-   "id": "edu-deduction",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "taxes"
-   ],
-   "date": "Explainer",
-   "headline": "Standard deduction or itemize? The 30-second test",
-   "caption": "Which one lowers your taxes, using the new 2027 numbers.",
-   "scenes": [
-    {
-     "k": "Taxes 101",
-     "t": "Standard deduction or itemize?",
-     "s": "You get to subtract whichever is bigger from your taxable income."
-    },
-    {
-     "k": "Option 1",
-     "t": "The standard deduction.",
-     "s": "A flat amount, no receipts. For 2027: $16,600 single, $33,200 married."
-    },
-    {
-     "k": "Option 2",
-     "t": "Itemizing.",
-     "s": "Add up mortgage interest, state and local taxes, and charitable donations."
-    },
-    {
-     "k": "The test",
-     "t": "Pick the bigger number.",
-     "viz": {
-      "type": "split",
-      "items": [
-       [
-        "Standard, single",
-        "$16,600"
-       ],
-       [
-        "Your itemized total",
-        "?"
-       ]
-      ]
-     },
-     "say": "If your itemized total beats sixteen thousand six hundred dollars, itemize. If not, take the standard."
-    },
-    {
-     "k": "Reality check",
-     "t": "86% take the standard.",
-     "s": "For most people it wins without any paperwork."
-    },
-    {
-     "k": "Pro move",
-     "t": "Bunch your deductions.",
-     "s": "Close to the line? Group two years of donations into one year and itemize that year."
-    }
-   ],
-   "ts": "2026-11-09T07:11:26Z"
-  },
-  {
-   "id": "aca-2027",
-   "type": "news",
-   "cat": "benefits",
-   "tags": [
-    "benefits"
-   ],
-   "date": "Since Nov 1",
-   "headline": "ACA open enrollment is live, and benchmark premiums are up 13%",
-   "caption": "It is the second double-digit jump in a row: benchmark plans cost 42% more than in 2025. Most enrollees still get subsidies, but not above 400% of the poverty level.",
-   "visual": {
-    "type": "stat",
-    "title": "2027 ACA marketplace",
-    "num": "+13%",
-    "tone": "loss",
-    "label": "Average rise in benchmark silver premiums for 2027.",
-    "facts": [
-     [
-      "Since 2025",
-      "+42%",
-      "Benchmark silver premiums"
-     ],
-     [
-      "HealthCare.gov states",
-      "+11%",
-      ""
-     ],
-     [
-      "State-run exchanges",
-      "+16%",
-      "Includes Covered California"
-     ]
-    ]
-   },
-   "detail": [
-    "Open enrollment for 2027 coverage started November 1 in most states. The enhanced premium tax credits expired at the end of 2025, and paid enrollment fell 12% to 19.2 million by February 2026.",
-    "Deadlines shifted this year. Healthinsurance.org says enrollment ends December 15 in HealthCare.gov states and cannot run past December 31 anywhere; some news reports still cite January 15. Check your state’s exchange.",
-    "New Mexico fully replaced the lost federal help for its residents in 2026, and its enrollment grew while the national total fell."
-   ],
-   "money": [
-    "Do not auto-renew. Insurers are leaving some markets and the cheapest plan last year may not be this year.",
-    "Estimate your income carefully: subsidies are based on it, and underestimating means paying some back at tax time.",
-    "A bronze plan paired with an HSA can be cheaper for healthy people who want tax-free savings."
-   ],
-   "risk": [
-    "Missing the deadline usually means no coverage until next year unless you have a qualifying life event."
-   ],
-   "sources": [
-    {
-     "t": "9 things to watch for the 2027 ACA open enrollment period",
-     "d": "kff.org",
-     "u": "https://kff.org/affordable-care-act/9-things-to-watch-for-the-2027-aca-open-enrollment-period/"
-    },
-    {
-     "t": "With premiums on the rise, what to know as ACA enrollment begins",
-     "d": "abc7news.com",
-     "u": "https://abc7news.com/story/premiums-rise-what-know-aca-coverage-open-enrollment-begins/20009427"
-    },
-    {
-     "t": "When is the ACA’s next open enrollment period?",
-     "d": "healthinsurance.org",
-     "u": "https://www.healthinsurance.org/obamacare-enrollment-guide/when-is-the-acas-next-open-enrollment-period/"
-    }
-   ],
-   "ts": "2026-11-09T07:11:26Z"
-  },
-  {
-   "id": "edu-aca",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "benefits"
-   ],
-   "date": "Explainer",
-   "headline": "Premiums up 13%? How ACA subsidies actually work",
-   "caption": "The income rules, the 400% cliff, and the mistake that costs people at tax time.",
-   "scenes": [
-    {
-     "k": "Health insurance 101",
-     "t": "Premiums are up 13%. Most people still pay less.",
-     "s": "Here is why."
-    },
-    {
-     "k": "The subsidy",
-     "t": "It is a tax credit based on income.",
-     "s": "The lower your income, the more of the premium it covers."
-    },
-    {
-     "k": "The cliff",
-     "t": "Above 400% of poverty: no help.",
-     "s": "The enhanced credits that removed that cliff expired at the end of 2025."
-    },
-    {
-     "k": "Watch out",
-     "t": "Your income estimate matters.",
-     "s": "Guess too low and you repay part of the credit when you file taxes."
-    },
-    {
-     "k": "Save money",
-     "t": "Never auto-renew.",
-     "s": "Plans and prices change every year. Compare before you click renew."
-    },
-    {
-     "k": "Deadline",
-     "t": "Dec 15 in most states.",
-     "s": "State-run exchanges like Covered California can differ. Check yours."
     }
    ],
    "ts": "2026-11-09T07:11:26Z"
