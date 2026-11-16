@@ -1,6 +1,739 @@
 {
- "updated": "2026-11-16T05:24:00Z",
+ "updated": "2026-11-16T06:20:00Z",
  "items": [
+  {
+   "id": "ai-national-champions-2026111606",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "politics",
+    "markets"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T06:20:00Z",
+   "headline": "WSJ: White House to name Nvidia, OpenAI, Anthropic and 20+ others AI 'national champions'",
+   "caption": "A new program would back more than two dozen US AI firms as they compete for business abroad. What the label actually gives them is still unclear.",
+   "visual": {
+    "type": "points",
+    "title": "AI 'national champions' plan",
+    "items": [
+     "Over 24 companies would get the label",
+     "Named so far: Nvidia, Amazon, Microsoft, OpenAI, Anthropic",
+     "Goal: help US AI firms win deals overseas",
+     "Benefits and timing not yet spelled out",
+     "Reported by WSJ; not officially confirmed"
+    ]
+   },
+   "detail": [
+    "The Trump administration plans to name more than two dozen AI companies as US 'national champions,' the Wall Street Journal reported Monday. Nvidia, Amazon, Microsoft, OpenAI and Anthropic are among the names reported.",
+    "The program is meant to help American AI firms expand overseas and compete with global rivals. Reports say it is not yet clear what support the label would bring, such as export help or financing.",
+    "The news lands a day before Nvidia's earnings and two days before Anthropic prices its IPO. The report has not been confirmed by the White House."
+   ],
+   "money": [
+    "Government backing can help sales abroad, but it can also bring more political strings. Weigh both before chasing AI stocks on this headline.",
+    "If you own an S&P 500 or Nasdaq fund, you already hold several of the named firms. You may not need extra single-stock bets.",
+    "Watch for official details. Concrete perks, like export financing, would matter more to earnings than the label itself."
+   ],
+   "risk": [
+    "The report is unconfirmed and the program could change or stall.",
+    "Close ties to one administration can become a liability if policy shifts."
+   ],
+   "sources": [
+    {
+     "t": "Trump to name Nvidia and others as AI national champions",
+     "d": "coindesk.com",
+     "u": "https://www.coindesk.com/markets/2026/11/16/trump-administration-to-name-nvidia-openai-and-several-others-as-u-s-ai-national-champions"
+    },
+    {
+     "t": "Trump administration to name Nvidia, other AI firms as US 'national champions', WSJ reports",
+     "d": "investing.com",
+     "u": "https://www.investing.com/news/stock-market-news/trump-administration-to-name-nvidia-other-ai-firms-as-us-national-champions-wsj-reports-5028349"
+    }
+   ]
+  },
+  {
+   "id": "nvda-19t-futures-2026111606",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets",
+    "ai"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T06:20:00Z",
+   "headline": "AI sell-off resumes: Taiwan sinks 4%+ and Nasdaq futures slip as Nvidia's report nears",
+   "caption": "Nvidia has lost about $1.9 trillion in market value since early October. Nasdaq 100 futures fell 0.5% early Monday after a 1.2% drop Friday.",
+   "visual": {
+    "type": "board",
+    "title": "Monday morning check",
+    "rows": [
+     {
+      "k": "Taiwan Taiex",
+      "s": "tech-heavy",
+      "v": "-4%+",
+      "tone": "loss"
+     },
+     {
+      "k": "Nasdaq 100 futures",
+      "v": "-0.5%",
+      "ch": -0.5
+     },
+     {
+      "k": "Nasdaq 100 Friday",
+      "s": "cash index",
+      "v": "-1.2%",
+      "ch": -1.2
+     },
+     {
+      "k": "Nvidia value lost",
+      "s": "since early Oct.",
+      "v": "$1.9T",
+      "tone": "loss"
+     },
+     {
+      "k": "Odds of 0.5-pt Dec. hike",
+      "v": "~8%",
+      "tone": "acc"
+     }
+    ],
+    "foot": "Source: Reuters Morning Bid, Nov. 16"
+   },
+   "detail": [
+    "The AI stock sell-off picked up again Monday. Taiwan's tech-heavy Taiex fell more than 4% and Nasdaq 100 futures slipped 0.5%. European futures were slightly higher.",
+    "Nvidia has shed about $1.9 trillion in market value since early October, per LSEG data. It reports Tuesday, its first report since Jensen Huang resigned. Investors also worry the debt-fueled AI build-out may not last.",
+    "It's a packed week. Fed Chair Warsh speaks in San Francisco Monday. Retail sales and Walmart, Target, Home Depot and Lowe's earnings come Tuesday. Fed minutes and Anthropic's IPO pricing follow Wednesday."
+   ],
+   "money": [
+    "Big weeks bring big swings. If you add money on a schedule, keep doing it instead of trying to time Tuesday night.",
+    "Check how much of your portfolio sits in a handful of AI names. Index funds can be more concentrated than they look.",
+    "Higher rate-hike odds mean savings accounts and T-bills may keep paying well. Park emergency cash there, not in stocks."
+   ],
+   "risk": [
+    "A weak Nvidia report could drag the whole market, not just chips.",
+    "A hawkish Warsh speech could push yields and mortgage rates higher."
+   ],
+   "sources": [
+    {
+     "t": "Morning Bid: AI selloff resumes as Nvidia earnings loom",
+     "d": "investing.com",
+     "u": "https://www.investing.com/news/economy-news/morning-bid-ai-selloff-resumes-as-nvidia-earnings-loom-5028378"
+    }
+   ]
+  },
+  {
+   "id": "berkshire-13f-today-2026111606",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T06:20:00Z",
+   "headline": "Berkshire's 13F lands today: will Greg Abel trim Apple or Bank of America?",
+   "caption": "Berkshire must disclose its US stock holdings as of Sept. 30 by Monday. It was a net seller last quarter while spending $9.6 billion on its own shares.",
+   "visual": {
+    "type": "board",
+    "title": "Berkshire's top US stocks (June 30)",
+    "rows": [
+     {
+      "k": "Apple",
+      "s": "22.0% of portfolio",
+      "v": "$65.95B"
+     },
+     {
+      "k": "American Express",
+      "s": "17.1%",
+      "v": "$51.28B"
+     },
+     {
+      "k": "Coca-Cola",
+      "s": "10.9%",
+      "v": "$32.51B"
+     },
+     {
+      "k": "Alphabet",
+      "s": "9.4%",
+      "v": "$28.16B"
+     },
+     {
+      "k": "Bank of America",
+      "s": "9.2%",
+      "v": "$27.54B"
+     }
+    ],
+    "foot": "Total US stocks: $299.25B in 29 positions"
+   },
+   "detail": [
+    "Big money managers must file a 13F listing their US stock holdings within 45 days of each quarter's end. Berkshire Hathaway's filing for the quarter ended Sept. 30 is due Monday, Nov. 16.",
+    "Berkshire's Q3 report showed it bought $2.4 billion of stocks and sold $2.8 billion, making it a net seller. It spent $9.6 billion buying back its own shares, about four times what it put into other stocks.",
+    "Watchers are focused on Alphabet, where Berkshire bought $10 billion of new stock in June, and on possible trims of Bank of America and Apple. It is Greg Abel's third quarter as CEO."
+   ],
+   "money": [
+    "A 13F is a look in the rearview mirror. Positions may have changed since Sept. 30, so don't copy trades blindly.",
+    "Berkshire's big buyback hints it saw its own stock as good value. Buybacks can support a stock's price over time.",
+    "If you want Berkshire-style holdings, a low-cost value or dividend index fund can give similar exposure with less single-stock risk."
+   ],
+   "risk": [
+    "13Fs skip foreign stocks, cash and short positions, so they show only part of the picture."
+   ],
+   "sources": [
+    {
+     "t": "What to Watch When Berkshire Hathaway Files Its 13F on Monday",
+     "d": "finance.yahoo.com",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/watch-berkshire-hathaway-files-13f-163542466.html"
+    }
+   ]
+  },
+  {
+   "id": "intel-class-action-2026111606",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business",
+    "markets"
+   ],
+   "date": "Fri Nov 13",
+   "ts": "2026-11-16T06:20:00Z",
+   "headline": "Intel sued by shareholders after a 29% one-day plunge wiped out $140 billion",
+   "caption": "A Michigan pension fund says Intel was slow to reveal how weak PC demand would hit sales. The proposed class action covers buyers from July 23 to Oct. 29.",
+   "visual": {
+    "type": "stat",
+    "title": "Intel's slide",
+    "num": "-28.6%",
+    "tone": "loss",
+    "label": "Intel's one-day drop on Oct. 30 after a weak forecast.",
+    "facts": [
+     [
+      "Value erased",
+      "$140B",
+      "in one day"
+     ],
+     [
+      "June 30 peak",
+      "$142.35",
+      "per share"
+     ],
+     [
+      "Friday close",
+      "$59.66",
+      "still +62% for 2026"
+     ]
+    ]
+   },
+   "detail": [
+    "Intel shares fell about 28.6% on Oct. 30 after it forecast weaker fourth-quarter sales and profit and warned of a long PC slump. Roughly $140 billion in market value disappeared.",
+    "A proposed class action filed Friday in federal court in San Jose says Intel hid how falling PC demand and excess inventory would hurt revenue. It names Intel, CEO Lip-Bu Tan and CFO David Zinsner and seeks unspecified damages.",
+    "The suit notes Intel sold $23 billion of stock at $95 a share in mid-August. Tan has blamed supply shortages and a memory chip crunch for weak PC sales. Intel did not immediately comment."
+   ],
+   "money": [
+    "If you bought Intel between July 23 and Oct. 29, 2026, you may be part of the class. Watch for a mailed notice and claim form.",
+    "Class action payouts are usually small and slow, but filing a claim is free. Keep your trade confirmations.",
+    "Lesson: one stock can drop 29% in a day. Keep single stocks a small slice of your money."
+   ],
+   "risk": [
+    "Many securities suits are dismissed or settle for a small share of losses.",
+    "Intel's stock is still volatile as PC demand and memory supply shift."
+   ],
+   "sources": [
+    {
+     "t": "Intel sued by shareholders following 29% stock plunge",
+     "d": "thestar.com.my",
+     "u": "https://www.thestar.com.my/tech/tech-news/2026/11/16/intel-sued-by-shareholders-following-29-stock-plunge"
+    }
+   ]
+  },
+  {
+   "id": "astrazeneca-600-cuts-2026111606",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business"
+   ],
+   "date": "Fri Nov 13",
+   "ts": "2026-11-16T06:20:00Z",
+   "headline": "AstraZeneca cuts about 600 US sales jobs in a $1.5 billion savings push",
+   "caption": "The drugmaker is trimming its respiratory and immunology sales teams, Bloomberg reported. It's part of a wider cost-cutting overhaul.",
+   "visual": {
+    "type": "stat",
+    "title": "AstraZeneca cuts",
+    "num": "~600",
+    "tone": "loss",
+    "label": "US sales jobs cut in respiratory and immunology.",
+    "facts": [
+     [
+      "Savings plan",
+      "$1.5B",
+      "cost overhaul"
+     ],
+     [
+      "Teams hit",
+      "Sales",
+      "respiratory & immunology"
+     ]
+    ]
+   },
+   "detail": [
+    "AstraZeneca is cutting about 600 US sales jobs, according to a Bloomberg report. The cuts hit its respiratory and immunology commercial teams.",
+    "The layoffs are part of a roughly $1.5 billion cost-saving overhaul, the report said. The company's savings drive is now starting to show up in US staffing."
+   ],
+   "money": [
+    "If you work in pharma sales, update your resume and network now. Cuts often come in waves.",
+    "Laid off? File for unemployment right away and ask about severance and health coverage options.",
+    "Cost cuts can lift a company's profit margins. Shareholders sometimes cheer layoffs, even when workers lose."
+   ],
+   "risk": [
+    "More pharma cuts could follow as companies chase savings."
+   ],
+   "sources": [
+    {
+     "t": "AstraZeneca cuts 600 US jobs amid $1.5B cost-saving overhaul - Bloomberg",
+     "d": "investing.com",
+     "u": "https://www.investing.com/news/stock-market-news/astrazeneca-cuts-600-us-jobs-amid-15b-costsaving-overhaul--bloomberg-5026257"
+    }
+   ]
+  },
+  {
+   "id": "third-carrier-iran-2026111606",
+   "type": "news",
+   "cat": "world",
+   "tags": [
+    "world",
+    "markets"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T06:20:00Z",
+   "headline": "A third US carrier reaches the Mideast as Iran warns it may strike first",
+   "caption": "The USS Theodore Roosevelt joins two carriers already in the region. Iran's deputy foreign minister said Tehran won't wait for a US attack.",
+   "visual": {
+    "type": "points",
+    "title": "Iran war: Monday update",
+    "items": [
+     "USS Theodore Roosevelt arrives in the Middle East",
+     "Now 3 US carriers in Central Command's area",
+     "Iran says it 'will not wait' for the US to attack",
+     "Brent oil near $95, down 1% Monday",
+     "Hormuz shipping near pre-war levels"
+    ]
+   },
+   "detail": [
+    "A third US aircraft carrier, the USS Theodore Roosevelt, has arrived in the Middle East, a US official told Al Jazeera. It joins two carriers already operating in Central Command's area.",
+    "Iran's Deputy Foreign Minister Kazem Gharibabadi said Tehran will not wait for the US to strike first. He suggested Washington may be using talks to buy time for another attack.",
+    "Oil has so far shrugged it off. Brent fell 1% to about $94.86 Monday as Hormuz shipments neared pre-war levels and the IEA forecast a supply surplus."
+   ],
+   "money": [
+    "Gas prices follow oil with a lag. A new flare-up could reverse recent drops, so don't count on cheap fuel lasting.",
+    "Energy stocks and defense stocks tend to react fast to war news. Avoid chasing one-day spikes.",
+    "Keep an emergency fund. War shocks can hit markets and prices suddenly."
+   ],
+   "risk": [
+    "A direct strike could send oil sharply higher.",
+    "Talks could also ease tensions and push oil lower."
+   ],
+   "sources": [
+    {
+     "t": "Iran war live: Third US carrier arrives, Iran warns it could strike first",
+     "d": "aljazeera.com",
+     "u": "https://www.aljazeera.com/news/liveblog/2026/11/16/iran-war-live-tehran-warns-it-may-strike-first-before-another-us-attack"
+    },
+    {
+     "t": "Crude Oil Falls as Global Supply Surplus Fears Intensify",
+     "d": "hdfcsky.com",
+     "u": "https://hdfcsky.com/news/brent-crude-oil-price-today-november-16-2026-brent-falls-1percent-to-94-86-wti-slips-below-88-as-supply-surplus-looms"
+    }
+   ]
+  },
+  {
+   "id": "thailand-deal-manila-2026111606",
+   "type": "news",
+   "cat": "politics",
+   "tags": [
+    "politics",
+    "world",
+    "business"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T06:20:00Z",
+   "headline": "Thailand says its US tariff deal is done; signing set for Tuesday in Manila",
+   "caption": "Thai goods now pay 12.5% to enter the US, and Bangkok expects about 19% under the deal. Thailand would drop tariffs on about 99% of US goods.",
+   "visual": {
+    "type": "timeline",
+    "title": "US-Thailand trade deal",
+    "items": [
+     {
+      "d": "JUL 24",
+      "t": "12.5% US tariff on Thai goods begins",
+      "s": "2,120 product lines exempt"
+     },
+     {
+      "d": "NOV 5",
+      "t": "Thai PM expects ~19% US tariff"
+     },
+     {
+      "d": "NOV 10",
+      "t": "Thai Cabinet approves joint statement"
+     },
+     {
+      "d": "NOV 16",
+      "t": "Trump leaves for Asia",
+      "now": true
+     },
+     {
+      "d": "NOV 17",
+      "t": "Signing at ASEAN-US summit in Manila"
+     }
+    ]
+   },
+   "detail": [
+    "Thai Prime Minister Anutin Charnvirakul and President Trump are set to sign a joint trade statement in Manila on Tuesday, Nov. 17. Thailand's Cabinet approved it on Nov. 10.",
+    "The statement is a step, not the final trade agreement. It doesn't name a tariff rate. Thai goods have paid 12.5% since July 24, and Anutin said he expects about 19%. Thailand agreed last year to remove tariffs on about 99% of US goods.",
+    "Trump left for Asia on Monday. After Manila, he heads to Shenzhen and the APEC summit, then three-way nuclear talks with Xi Jinping and Vladimir Putin."
+   ],
+   "money": [
+    "Thailand makes many electronics parts, car parts and foods sold in the US. A higher tariff could nudge some prices up.",
+    "US farm and food exporters could gain if Thailand cuts its tariffs on American goods.",
+    "Existing tariffs stay until the full deal is signed, so don't expect price changes right away."
+   ],
+   "risk": [
+    "The final deal could change, and both countries still need domestic approval."
+   ],
+   "sources": [
+    {
+     "t": "US tariff deal done, Thailand says, Manila signing due",
+     "d": "thethaiger.com",
+     "u": "https://thethaiger.com/news/business/us-tariff-deal-done-thailand-says-manila-signing-due"
+    },
+    {
+     "t": "Trump's Asia reset: Deals in Manila and Shenzhen, then a rare nuclear summit with Xi and Putin",
+     "d": "clickorlando.com",
+     "u": "https://www.clickorlando.com/news/world/2026/11/16/trumps-asia-reset-deals-in-manila-and-shenzhen-then-a-rare-nuclear-summit-with-xi-and-putin/"
+    }
+   ]
+  },
+  {
+   "id": "miner-hijack-ocean-2026111606",
+   "type": "news",
+   "cat": "crypto",
+   "tags": [
+    "crypto"
+   ],
+   "date": "Sun Nov 15",
+   "ts": "2026-11-16T06:20:00Z",
+   "headline": "Hackers hijack about 64,000 bitcoin mining machines but fail to mine a single block",
+   "caption": "Attackers pointed about 13 EH/s of hashpower at the OCEAN pool with their own payout address. They earned nothing, but miners lost revenue.",
+   "visual": {
+    "type": "stat",
+    "title": "The mining hijack",
+    "num": "64,000",
+    "tone": "loss",
+    "label": "Mining machines reportedly taken over Nov. 14-15.",
+    "facts": [
+     [
+      "Hashpower diverted",
+      "~13 EH/s",
+      "to OCEAN pool"
+     ],
+     [
+      "Blocks mined",
+      "0",
+      "no rewards earned"
+     ],
+     [
+      "After fix",
+      "~100 PH/s",
+      "down over 99%"
+     ]
+    ]
+   },
+   "detail": [
+    "Starting around 8 p.m. Central time on Nov. 14, attackers took over roughly 64,000 bitcoin mining machines. They redirected about 13 EH/s of hashpower to the OCEAN pool and set the payout to an address they controlled.",
+    "Hosting firm CoreX raised the alarm. OCEAN's hashrate briefly neared 50 EH/s. CoreX later said the hijacked power fell to about 100 PH/s and the attack appeared to end Nov. 15.",
+    "The attackers mined no blocks. But affected miners lost the revenue they would have earned. One operator blamed Luxor's Commander management software, which has not been confirmed."
+   ],
+   "money": [
+    "If you own mining stocks, ask how they secure their fleet software. Lost hashing time is lost revenue.",
+    "Self-hosting a miner? Change default passwords and lock down remote management tools.",
+    "Security incidents keep piling up in crypto. Keep crypto a small part of your money."
+   ],
+   "risk": [
+    "The full scope and cause are not yet verified.",
+    "Similar attacks could hit other mining software."
+   ],
+   "sources": [
+    {
+     "t": "64,000 Bitcoin Mining Machines Hijacked as OCEAN Hashrate Nears 50 EH/s",
+     "d": "blockonomi.com",
+     "u": "https://blockonomi.com/64000-bitcoin-mining-machines-hijacked-as-ocean-hashrate-nears-50-eh-s/"
+    },
+    {
+     "t": "Approximately 64,000 Bitcoin miners hijacked; attackers fail to mine blocks",
+     "d": "kucoin.com",
+     "u": "https://www.kucoin.com/news/flash/approximately-64-000-bitcoin-miners-hijacked-attackers-fail-to-mine-blocks"
+    }
+   ]
+  },
+  {
+   "id": "ca-dfpi-wildfire-payouts-2026111606",
+   "type": "news",
+   "cat": "california",
+   "tags": [
+    "california",
+    "business"
+   ],
+   "date": "This month",
+   "ts": "2026-11-16T06:20:00Z",
+   "headline": "California orders lenders to explain how they're paying out LA wildfire insurance money",
+   "caption": "The state's financial regulator is probing reports of delayed or denied payouts. It's also running free holiday scam webinars in English and Spanish.",
+   "visual": {
+    "type": "timeline",
+    "title": "DFPI November moves",
+    "items": [
+     {
+      "d": "NOV",
+      "t": "Lenders told to report wildfire payout handling",
+      "s": "probe of delays and denials",
+      "now": true
+     },
+     {
+      "d": "NOV 30",
+      "t": "Free holiday fraud webinar (English)",
+      "s": "11:30 a.m.-12:30 p.m."
+     },
+     {
+      "d": "DEC 2",
+      "t": "Free holiday fraud webinar (Spanish)",
+      "s": "5-6 p.m."
+     },
+     {
+      "d": "JAN 1",
+      "t": "AB 801 fair lending exams take effect"
+     }
+    ]
+   },
+   "detail": [
+    "California's Department of Financial Protection and Innovation (DFPI) ordered financial institutions to report how they are disbursing insurance payouts from the LA wildfires. It is investigating reports of delayed or denied payments.",
+    "When a home has a mortgage, insurance checks often go through the lender, which can release money in stages. Homeowners have complained this slows rebuilding.",
+    "The DFPI also notes a law, AB 1847, on extended wildfire-related mortgage forbearance, from 12 to up to 24 months. And it will host free holiday fraud webinars on Nov. 30 and Dec. 2."
+   ],
+   "money": [
+    "Waiting on a fire payout held by your lender? Ask in writing for its release schedule and what documents it needs.",
+    "If your lender stalls, you can file a complaint with the DFPI.",
+    "Ask your servicer whether you qualify for extended wildfire forbearance before you fall behind."
+   ],
+   "risk": [
+    "Forbearance pauses payments but doesn't erase them; know how you'll repay."
+   ],
+   "sources": [
+    {
+     "t": "DFPI Monthly Bulletin, November 2026",
+     "d": "dfpi.ca.gov",
+     "u": "https://dfpi.ca.gov/news/monthly-bulletins/monthly-bulletin-november-2026/"
+    }
+   ]
+  },
+  {
+   "id": "canada-stca-challenge-2026111606",
+   "type": "news",
+   "cat": "immigration",
+   "tags": [
+    "immigration",
+    "world"
+   ],
+   "date": "This week",
+   "ts": "2026-11-16T06:20:00Z",
+   "headline": "Canada's deal to send asylum seekers back to the US faces a new court test",
+   "caption": "Rights groups argue the Safe Third Country Agreement discriminates against women and LGBTQ claimants. The next hearing is Dec. 16.",
+   "visual": {
+    "type": "timeline",
+    "title": "Safe Third Country Agreement fight",
+    "items": [
+     {
+      "d": "2004",
+      "t": "US-Canada agreement takes effect"
+     },
+     {
+      "d": "2017",
+      "t": "Legal challenge begins"
+     },
+     {
+      "d": "2023",
+      "t": "Supreme Court sends discrimination claim back"
+     },
+     {
+      "d": "NOV 2026",
+      "t": "Federal Court hears main case",
+      "now": true
+     },
+     {
+      "d": "DEC 16",
+      "t": "Next hearing"
+     }
+    ]
+   },
+   "detail": [
+    "Amnesty International Canada, the Canadian Council for Refugees and others are asking Canada's Federal Court to strike down the US 'safe country' designation. They say returning claimants to the US discriminates against groups like women and LGBTQ asylum seekers.",
+    "The agreement, in place since 2004, generally requires asylum seekers to apply in the first of the two countries they reach. A second case says Canada lacks safeguards the Supreme Court recognized in 2023.",
+    "Canada's immigration department declined to comment on the case but says the deal keeps the border orderly. A further hearing is set for Dec. 16."
+   ],
+   "money": [
+    "Cross-border immigration rules affect jobs and labor supply in border regions and certain industries.",
+    "Anyone with an asylum or immigration case should rely on a licensed lawyer or accredited representative, not social media.",
+    "Beware of paid 'consultants' promising results. Check credentials before paying anyone."
+   ],
+   "risk": [
+    "The court could uphold the agreement, leaving current rules in place."
+   ],
+   "sources": [
+    {
+     "t": "Canada Sued Over Returning Migrants to US Amid ICE Crackdown",
+     "d": "newsweek.com",
+     "u": "https://www.newsweek.com/canada-sued-returning-migrants-trump-us-ice-crackdown-12709331"
+    }
+   ]
+  },
+  {
+   "id": "edu-13f-2026111606",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "markets"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-16T06:20:00Z",
+   "headline": "What a 13F filing tells you, and what it hides",
+   "caption": "Berkshire's 13F is due today. Here's how to read big-investor filings without copying stale trades.",
+   "scenes": [
+    {
+     "k": "TODAY'S NEWS",
+     "t": "Berkshire's 13F is due Monday",
+     "s": "It shows US stock holdings as of Sept. 30."
+    },
+    {
+     "k": "THE RULE",
+     "t": "Big managers report every quarter",
+     "s": "They have 45 days after each quarter ends to file."
+    },
+    {
+     "k": "WHAT IT SHOWS",
+     "t": "Berkshire's top US holdings in June",
+     "viz": {
+      "type": "split",
+      "items": [
+       [
+        "Apple",
+        "22.0%"
+       ],
+       [
+        "AmEx",
+        "17.1%"
+       ],
+       [
+        "Total US stocks",
+        "$299B",
+        "wide"
+       ]
+      ]
+     },
+     "say": "In June, Apple was twenty-two percent and American Express seventeen percent of Berkshire's two hundred ninety-nine billion dollars in US stocks."
+    },
+    {
+     "k": "WHAT IT HIDES",
+     "t": "No cash, no foreign stocks, no timing",
+     "s": "And the data is up to 45 days old when it lands."
+    },
+    {
+     "k": "HOW TO USE IT",
+     "t": "Treat it as ideas, not orders",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "Read the changes",
+       "Ask why",
+       "Check today's price",
+       "Fit your plan"
+      ]
+     }
+    },
+    {
+     "k": "YOUR MOVE",
+     "t": "Your plan beats copying legends",
+     "s": "A low-cost index fund already holds most of these names."
+    }
+   ]
+  },
+  {
+   "id": "edu-class-action-2026111606",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "business"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-16T06:20:00Z",
+   "headline": "Your stock crashed and there's a lawsuit. How class actions work",
+   "caption": "Intel shareholders just sued after a 29% plunge. Here's who can get money from a securities class action, and how.",
+   "scenes": [
+    {
+     "k": "TODAY'S NEWS",
+     "t": "Intel sued after a 29% one-day drop",
+     "s": "About $140 billion in value vanished on Oct. 30."
+    },
+    {
+     "k": "THE IDEA",
+     "t": "One case for many investors",
+     "s": "A lead plaintiff sues on behalf of everyone who bought in a set window."
+    },
+    {
+     "k": "THE WINDOW",
+     "t": "Intel's class period",
+     "viz": {
+      "type": "split",
+      "items": [
+       [
+        "Starts",
+        "Jul 23"
+       ],
+       [
+        "Ends",
+        "Oct 29"
+       ],
+       [
+        "Year",
+        "2026",
+        "wide"
+       ]
+      ]
+     },
+     "say": "Intel's proposed class covers people who bought between July twenty-third and October twenty-ninth, 2026."
+    },
+    {
+     "k": "HOW IT GOES",
+     "t": "Years, not weeks",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "Suit filed",
+       "Lead plaintiff named",
+       "Dismissal fight",
+       "Settlement or trial",
+       "Claims paid"
+      ]
+     }
+    },
+    {
+     "k": "REALITY CHECK",
+     "t": "Payouts are usually small",
+     "s": "Many cases are dismissed, and settlements cover a slice of losses."
+    },
+    {
+     "k": "YOUR MOVE",
+     "t": "Keep records, file the free claim",
+     "s": "Save trade confirmations and watch for a notice in the mail."
+    }
+   ]
+  },
   {
    "id": "asia-chip-rout-2026111605",
    "type": "news",
@@ -11390,788 +12123,6 @@
     }
    ],
    "ts": "2026-11-15T05:29:26Z"
-  },
-  {
-   "id": "miller-cos-2026111505",
-   "type": "news",
-   "cat": "immigration",
-   "tags": [
-    "immigration",
-    "politics"
-   ],
-   "date": "This week",
-   "headline": "Stephen Miller named chief of staff as ICE builds a 287(g) call center",
-   "caption": "Trump picked immigration architect Stephen Miller as chief of staff. ICE is also opening a call center to expand work with local police.",
-   "visual": {
-    "type": "board",
-    "title": "Immigration enforcement this week",
-    "rows": [
-     {
-      "k": "287(g) agreements",
-      "s": "Jan 2025 to Sept 2026",
-      "v": "135 to 2,246"
-     },
-     {
-      "k": "New call center",
-      "s": "Nashville, expected volume",
-      "v": "7,000 calls/day"
-     },
-     {
-      "k": "Habeas petitions",
-      "s": "challenging detention",
-      "v": "91,000+"
-     }
-    ]
-   },
-   "detail": [
-    "Trump named Stephen Miller, a key architect of his immigration policies, as White House chief of staff. The move came hours after Trump said in a TV interview that enforcement had been too tough.",
-    "ICE is setting up a 287(g) call center in Nashville. DHS expects it to handle up to 7,000 calls a day as more local police agencies sign enforcement agreements.",
-    "Courts are busy too. More than 91,000 habeas petitions have challenged detentions, and DOJ lawyers in western Washington said they can't defend every case."
-   ],
-   "money": [
-    "Employers: keep I-9 paperwork current. Audits and enforcement can lead to fines.",
-    "Families facing detention cases should seek reputable, licensed legal help and avoid notarios charging high fees.",
-    "Industries with many immigrant workers, like farms and construction, may face labor shortages that raise costs."
-   ],
-   "risk": [
-    "Policy direction can change quickly as new leadership settles in."
-   ],
-   "sources": [
-    {
-     "t": "Policy Updates, 11/13/2026",
-     "d": "miracoalition.org",
-     "u": "https://miracoalition.org/news/policy-updates-11-13-2026/"
-    }
-   ],
-   "ts": "2026-11-15T05:29:26Z"
-  },
-  {
-   "id": "iea-surplus-2026111505",
-   "type": "news",
-   "cat": "world",
-   "tags": [
-    "world",
-    "markets"
-   ],
-   "date": "Fri Nov 13",
-   "headline": "IEA: oil market swings back to surplus as Gulf exports recover",
-   "caption": "Global supply jumped in October and the IEA now sees a surplus this quarter. Diesel is still tight, with onshore stocks at their lowest since 2016.",
-   "visual": {
-    "type": "board",
-    "title": "IEA November oil report",
-    "rows": [
-     {
-      "k": "Global supply",
-      "s": "October, up 2.3 mb/d",
-      "v": "105.4 mb/d",
-      "tone": "gain"
-     },
-     {
-      "k": "Inventories",
-      "s": "October change",
-      "v": "+52M bbl",
-      "tone": "acc"
-     },
-     {
-      "k": "Gulf exports",
-      "s": "vs pre-war",
-      "v": "18.4 mb/d",
-      "ch": -26,
-      "tone": "loss"
-     },
-     {
-      "k": "North Sea crude",
-      "s": "from early-Oct high of $136",
-      "v": "~$93",
-      "ch": -32,
-      "tone": "loss"
-     }
-    ],
-    "foot": "2026 demand forecast: 102.3 mb/d, down 2.7 mb/d."
-   },
-   "detail": [
-    "The International Energy Agency said oil supply rose 2.3 million barrels a day in October to 105.4 million. It expects the market to return to surplus in the fourth quarter, with a bigger surplus in 2027.",
-    "Global inventories rose for the first time since June. But much of that oil is on tankers, and onshore stocks fell to their lowest since at least 2016.",
-    "Diesel is still a weak spot, with attacks on Russian energy sites and Mideast disruptions limiting supply. North Sea crude has fallen about 32% from its October peak."
-   ],
-   "money": [
-    "Falling crude usually shows up at the pump within weeks, which helps holiday road trips.",
-    "If you heat with oil, consider locking in a price when crude dips rather than waiting for a cold snap.",
-    "Energy stocks may lag if a surplus builds; check how much your portfolio leans on them."
-   ],
-   "risk": [
-    "Tight diesel supply could keep trucking and heating costs high.",
-    "A new Gulf disruption could reverse the surplus fast."
-   ],
-   "sources": [
-    {
-     "t": "Gulf oil supplies recover, as global market set to return to surplus in Q4, says IEA's latest oil report",
-     "d": "theprint.in",
-     "u": "https://theprint.in/economy/gulf-oil-supplies-recover-as-global-market-set-to-return-to-surplus-in-q4-says-ieas-latest-oil-report/3098018/"
-    }
-   ],
-   "ts": "2026-11-15T05:29:26Z"
-  },
-  {
-   "id": "ca-becerra-budget-2026111505",
-   "type": "news",
-   "cat": "california",
-   "tags": [
-    "california",
-    "politics",
-    "taxes"
-   ],
-   "date": "This month",
-   "headline": "Governor-elect Becerra inherits a $29B 'wall of debt' in California",
-   "caption": "The state's budget analyst warns of $29 billion in debt that must be repaid. Becerra must send a new budget just days after taking office in January.",
-   "visual": {
-    "type": "stat",
-    "title": "California's budget hole",
-    "num": "$29B",
-    "tone": "loss",
-    "label": "Debt the Legislative Analyst says must eventually be repaid.",
-    "facts": [
-     [
-      "Avg overspending",
-      "~$37B/yr",
-      "Newsom era, per Walters"
-     ],
-     [
-      "New budget due",
-      "Jan 2027",
-      "days after inauguration"
-     ],
-     [
-      "Wealth tax",
-      "Opposed",
-      "Becerra on Prop 40"
-     ]
-    ]
-   },
-   "detail": [
-    "Gov.-elect Xavier Becerra takes office in January and must propose a budget within days. CalMatters columnist Dan Walters says the state has been spending more than it takes in for years.",
-    "Legislative Analyst Gabe Petek has described a $29 billion debt load the state will need to repay. Walters says the 2026-27 budget was balanced on paper only.",
-    "Becerra has floated ideas such as higher taxes on high earners, closing corporate loopholes and a mileage-based fee on electric cars. He opposed the billionaire wealth tax."
-   ],
-   "money": [
-    "If you drive an EV in California, watch for a possible per-mile fee proposal.",
-    "Programs funded year to year, like some grants and rebates, could shrink. Apply early for anything you qualify for.",
-    "High earners may want to talk to a tax pro about state tax changes before planning 2027 income."
-   ],
-   "risk": [
-    "Budget fixes could mean cuts to state programs or new taxes."
-   ],
-   "sources": [
-    {
-     "t": "Becerra must quickly confront state budget mess Newsom left behind",
-     "d": "calmatters.org",
-     "u": "https://calmatters.org/commentary/2026/11/governor-becerra-state-budget-mess/"
-    }
-   ],
-   "ts": "2026-11-15T05:29:26Z"
-  },
-  {
-   "id": "edu-flight-refund-2026111505",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "business"
-   ],
-   "date": "Explainer",
-   "headline": "Flight canceled? How to get your money back",
-   "caption": "After Friday's ground stop, here's what US rules say about refunds.",
-   "scenes": [
-    {
-     "k": "Friday's mess",
-     "t": "4,700+ flights canceled in one day.",
-     "s": "An FAA telecom failure grounded departures nationwide."
-    },
-    {
-     "k": "The rule",
-     "t": "Airline cancels? You can take cash.",
-     "s": "Under US DOT rules, if you decline rebooking, you're owed a refund, not just a voucher."
-    },
-    {
-     "k": "Your options",
-     "t": "Pick the path that costs you least.",
-     "viz": {
-      "type": "flow",
-      "items": [
-       "Flight canceled",
-       "Accept rebooking",
-       "Or decline it",
-       "Request a cash refund"
-      ]
-     }
-    },
-    {
-     "k": "Timing",
-     "t": "Card refunds should come fast.",
-     "s": "Airlines must refund credit card buys within 7 business days.",
-     "viz": {
-      "type": "split",
-      "items": [
-       [
-        "Credit card",
-        "7 business days"
-       ],
-       [
-        "Other payment",
-        "20 days"
-       ],
-       [
-        "Unused add-ons",
-        "Refundable too",
-        "wide"
-       ]
-      ]
-     },
-     "say": "Credit card refunds are due within seven business days, other payments within twenty days, and unused extras like seat fees are refundable too."
-    },
-    {
-     "k": "Extras",
-     "t": "Meals and hotels aren't guaranteed.",
-     "s": "That depends on the airline's own policy and your card's travel perks."
-    },
-    {
-     "k": "Your move",
-     "t": "Ask in writing, keep receipts.",
-     "s": "Use the airline app or website, and save every expense."
-    }
-   ],
-   "ts": "2026-11-15T05:29:26Z"
-  },
-  {
-   "id": "edu-liquidation-2026111505",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "crypto"
-   ],
-   "date": "Explainer",
-   "headline": "Why $1 billion in crypto bets vanished in a day",
-   "caption": "How leverage and forced selling turn a dip into a crash.",
-   "scenes": [
-    {
-     "k": "Saturday",
-     "t": "Bitcoin fell under $64,000.",
-     "s": "About $1 billion in leveraged positions were wiped out in 24 hours."
-    },
-    {
-     "k": "Leverage 101",
-     "t": "Borrowing to bet bigger.",
-     "s": "With 10x leverage, a 10% drop can erase your whole stake."
-    },
-    {
-     "k": "The spiral",
-     "t": "Forced sales cause more forced sales.",
-     "viz": {
-      "type": "flow",
-      "items": [
-       "Price dips",
-       "Leveraged bets hit limits",
-       "Exchanges sell them off",
-       "Price drops more",
-       "More bets liquidated"
-      ]
-     }
-    },
-    {
-     "k": "Who gets hurt",
-     "t": "Mostly people betting on a rise.",
-     "s": "In one hour near $64,000, most of the $691 million liquidated was long bets."
-    },
-    {
-     "k": "Without leverage",
-     "t": "A drop is a paper loss, not a wipeout.",
-     "s": "You still own the coin and can wait it out."
-    },
-    {
-     "k": "Your move",
-     "t": "Skip borrowed money on volatile assets.",
-     "s": "Only invest what you can watch fall by half."
-    }
-   ],
-   "ts": "2026-11-15T05:29:26Z"
-  },
-  {
-   "id": "week-close-2026111504",
-   "type": "news",
-   "cat": "markets",
-   "tags": [
-    "markets",
-    "ai"
-   ],
-   "date": "Fri Nov 13",
-   "headline": "Stocks end a wild week higher, but chips and Nvidia drag the Nasdaq down Friday",
-   "caption": "The Dow inched up Friday while the Nasdaq fell almost 1% as chip stocks sold off. All three big indexes still finished the week up about 2%.",
-   "visual": {
-    "type": "board",
-    "title": "Friday close, Nov 13",
-    "rows": [
-     {
-      "k": "Dow",
-      "v": "52,348",
-      "ch": 0.1,
-      "tone": "gain"
-     },
-     {
-      "k": "S&P 500",
-      "v": "7,562",
-      "ch": -0.4,
-      "tone": "loss"
-     },
-     {
-      "k": "Nasdaq",
-      "v": "25,136",
-      "ch": -0.91,
-      "tone": "loss"
-     },
-     {
-      "k": "Russell 2000",
-      "v": "2,790",
-      "ch": -0.31,
-      "tone": "loss"
-     },
-     {
-      "k": "AMD",
-      "s": "chip sell-off",
-      "v": "Down",
-      "ch": -10.95,
-      "tone": "loss"
-     }
-    ],
-    "foot": "Each index still gained roughly 2% to 2.5% for the week."
-   },
-   "detail": [
-    "Wall Street ended a choppy week on a mixed note. The Dow rose 0.1% to about 52,348, while the S&P 500 lost 0.4% and the Nasdaq dropped 0.9%.",
-    "Chip stocks led the selling. AMD fell about 11%, and Broadcom, Micron, Intel and Sandisk all slid sharply during the day. Nvidia lost 2% and is down about 12% for the week after its CEO resigned.",
-    "Airline stocks also dipped late in the day after the FAA paused flights nationwide. Despite Friday, the major indexes still finished the week up around 2%."
-   ],
-   "money": [
-    "If you own an S&P 500 index fund, the week was a small gain. Big single-day chip drops matter less when you are spread out.",
-    "Check how much of your portfolio sits in a handful of chip and AI names. Concentration is what made this week painful for some.",
-    "Volatile weeks are when automatic monthly investing does its job. You buy more shares when prices dip."
-   ],
-   "risk": [
-    "Nvidia reports earnings Tuesday, and chip stocks could swing hard either way.",
-    "Higher bond yields keep pressure on pricey tech stocks."
-   ],
-   "sources": [
-    {
-     "t": "Stock market today: Dow rises, S&P 500 and Nasdaq slip to cap volatile week, Nvidia stock plunge deepens",
-     "d": "finance.yahoo.com",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
-    },
-    {
-     "t": "Weekly Stock Market Summary: November 13, 2026",
-     "d": "vistapglobal.com",
-     "u": "https://vistapglobal.com/weekly-stock-market-summary-november-13-2026-nasdaq-slides-as-inflation-and-ai-risks-shape-wall-street-ant-eprx-googl-gs-modd-msft-nvda-ser-spcx/"
-    }
-   ],
-   "ts": "2026-11-15T04:23:09Z"
-  },
-  {
-   "id": "nvidia-ceo-2026111504",
-   "type": "news",
-   "cat": "markets",
-   "tags": [
-    "markets",
-    "ai",
-    "business"
-   ],
-   "date": "Thu Nov 12",
-   "headline": "Jensen Huang quits as Nvidia CEO; CFO Colette Kress takes over for now",
-   "caption": "Nvidia's founder resigned effective immediately, and its CFO is interim CEO. The stock fell about 12% this week and dipped below a $4 trillion value.",
-   "visual": {
-    "type": "timeline",
-    "title": "Nvidia's week",
-    "items": [
-     {
-      "d": "NOV 12",
-      "t": "Huang resigns as CEO and director",
-      "s": "Kress named interim CEO"
-     },
-     {
-      "d": "NOV 12",
-      "t": "Harvey Jones becomes first board chair"
-     },
-     {
-      "d": "NOV 13",
-      "t": "HSBC cuts to Hold, target $170",
-      "s": "from $365"
-     },
-     {
-      "d": "NOV 17",
-      "t": "Q3 earnings after the close",
-      "now": true
-     }
-    ]
-   },
-   "detail": [
-    "Nvidia said Jensen Huang stepped down as president, CEO and board member, effective right away. CFO Colette Kress is interim CEO and will keep her finance job while the board searches inside and outside the company.",
-    "The company's filing gave no reason. News reports tied the exit to an investigation into reports that Huang was targeted by a foreign intelligence effort. The board said it had no reason to think company secrets or national security were compromised.",
-    "Nvidia closed Friday near $163, down about 12% for the week. Earnings are still set for Tuesday, Nov. 17."
-   ],
-   "money": [
-    "Nvidia is one of the biggest holdings in most S&P 500 and Nasdaq funds, so this hits index investors too. Know your exposure.",
-    "Avoid panic-selling on headlines. Decide in advance what would make you sell, like a change in the business itself.",
-    "If you hold Nvidia in a taxable account at a loss, selling to harvest the loss can offset gains. Watch the 30-day wash-sale rule."
-   ],
-   "risk": [
-    "A leadership gap right before earnings adds uncertainty.",
-    "Congress is also looking at chip export rules, which could affect sales."
-   ],
-   "sources": [
-    {
-     "t": "NVIDIA Announces CEO Transition (Form 8-K)",
-     "d": "sec.gov",
-     "u": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm"
-    },
-    {
-     "t": "Stock market today: Dow rises, S&P 500 and Nasdaq slip to cap volatile week, Nvidia stock plunge deepens",
-     "d": "finance.yahoo.com",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
-    },
-    {
-     "t": "Weekly Stock Market Summary: November 13, 2026",
-     "d": "vistapglobal.com",
-     "u": "https://vistapglobal.com/weekly-stock-market-summary-november-13-2026-nasdaq-slides-as-inflation-and-ai-risks-shape-wall-street-ant-eprx-googl-gs-modd-msft-nvda-ser-spcx/"
-    }
-   ],
-   "ts": "2026-11-15T04:23:09Z"
-  },
-  {
-   "id": "fed-hike-ppi-2026111504",
-   "type": "news",
-   "cat": "markets",
-   "tags": [
-    "markets",
-    "politics"
-   ],
-   "date": "Nov 10–13",
-   "headline": "Hot inflation data puts a December Fed rate hike near-certain; 10-year yield hits 5.15%",
-   "caption": "Wholesale prices are up 6.5% from a year ago, the most since 2022. Traders now see about a 90% chance of a quarter-point hike in December.",
-   "visual": {
-    "type": "stat",
-    "title": "Inflation check",
-    "num": "6.5%",
-    "tone": "loss",
-    "label": "Producer prices vs. a year ago, the highest since November 2022.",
-    "facts": [
-     [
-      "October CPI",
-      "+0.4%",
-      "month over month"
-     ],
-     [
-      "10-year Treasury",
-      "5.15%",
-      "Fri close"
-     ],
-     [
-      "Dec hike odds",
-      "~91% for 0.25",
-      "CME FedWatch, Nov 10"
-     ]
-    ]
-   },
-   "detail": [
-    "October consumer prices rose 0.4% in a month, and core prices rose 0.3% for a third month in a row. Wholesale prices rose 0.3% in October and are 6.5% higher than a year ago.",
-    "Fed officials sounded tougher. Governor Christopher Waller argued for a half-point hike, while others backed slower, quarter-point moves. Markets priced about a 91% chance of a quarter-point hike at the Dec. 8–9 meeting.",
-    "The 10-year Treasury yield closed Friday at 5.15%, after touching 5.17%. That rate feeds into mortgages and other loans."
-   ],
-   "money": [
-    "Savers win: high-yield savings, CDs and Treasury bills should keep paying more. Shop around for the best rate.",
-    "If you carry a credit card balance, your rate likely rises after a hike. Paying it down is a guaranteed return.",
-    "Shopping for a home or car? Higher yields push loan rates up, so get a rate lock or preapproval early."
-   ],
-   "risk": [
-    "A bigger half-point hike would likely jolt stocks and bonds.",
-    "Rates may keep rising into 2027 if inflation stays hot."
-   ],
-   "sources": [
-    {
-     "t": "Markets Are Bracing For Another Fed Rate Hike In December",
-     "d": "finance.yahoo.com",
-     "u": "https://finance.yahoo.com/economy/policy/articles/markets-bracing-another-fed-rate-015247271.html"
-    },
-    {
-     "t": "Weekly Stock Market Summary: November 13, 2026",
-     "d": "vistapglobal.com",
-     "u": "https://vistapglobal.com/weekly-stock-market-summary-november-13-2026-nasdaq-slides-as-inflation-and-ai-risks-shape-wall-street-ant-eprx-googl-gs-modd-msft-nvda-ser-spcx/"
-    },
-    {
-     "t": "Stock market today: Dow rises, S&P 500 and Nasdaq slip to cap volatile week, Nvidia stock plunge deepens",
-     "d": "finance.yahoo.com",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
-    }
-   ],
-   "ts": "2026-11-15T04:23:09Z"
-  },
-  {
-   "id": "week-ahead-2026111504",
-   "type": "news",
-   "cat": "markets",
-   "tags": [
-    "markets",
-    "business",
-    "ai"
-   ],
-   "date": "Nov 16–20",
-   "headline": "Big week ahead: Nvidia, Walmart and Home Depot report as Anthropic prices its IPO",
-   "caption": "Nvidia reports Tuesday under an interim CEO, and the big retailers show how shoppers are holding up. Anthropic plans to price its IPO Wednesday.",
-   "visual": {
-    "type": "timeline",
-    "title": "Dates to watch",
-    "items": [
-     {
-      "d": "NOV 17",
-      "t": "Home Depot, Disney before open"
-     },
-     {
-      "d": "NOV 17",
-      "t": "Nvidia after the close",
-      "now": true
-     },
-     {
-      "d": "NOV 18",
-      "t": "TJX, Lowe's; Palo Alto after close",
-      "s": "Anthropic IPO pricing"
-     },
-     {
-      "d": "NOV 19",
-      "t": "Walmart before open",
-      "s": "Anthropic starts trading"
-     }
-    ]
-   },
-   "detail": [
-    "Seven companies worth over $100 billion report next week. Home Depot and Disney go Tuesday morning, with Nvidia after the close. TJX and Lowe's report Wednesday, and Walmart reports Thursday.",
-    "Retail results will show how shoppers are coping with high prices and rising rates, heading into the holidays.",
-    "Anthropic plans to price its IPO Wednesday and start trading Thursday, which could pull a lot of money toward one stock."
-   ],
-   "money": [
-    "Retail earnings hint at holiday sales. Stores that see weak demand often discount more, which can mean better deals for you.",
-    "Don't rush to buy a stock right before earnings. Moves of 5% to 10% in a day are common.",
-    "If you want IPO exposure, decide your max price before trading starts. First-day pops can fade."
-   ],
-   "risk": [
-    "Earnings misses can drag whole sectors down.",
-    "Dates can shift; check before you trade."
-   ],
-   "sources": [
-    {
-     "t": "Stock market week ahead: 4 big retailers report earnings",
-     "d": "openingbelldailynews.com",
-     "u": "https://www.openingbelldailynews.com/p/stock-market-week-ahead-retail-earnings-nov-14-2026"
-    },
-    {
-     "t": "Everything you need to know ahead of Anthropic's IPO",
-     "d": "finance.yahoo.com",
-     "u": "https://finance.yahoo.com/technology/ai/article/anthropic-ipo-what-we-know-143321078.html"
-    }
-   ],
-   "ts": "2026-11-15T04:23:09Z"
-  },
-  {
-   "id": "anthropic-ipo-set-2026111504",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "markets"
-   ],
-   "date": "Prices Wed Nov 18",
-   "headline": "Anthropic sets IPO terms: $70–$78 a share, trading Thursday as ANT",
-   "caption": "New: the Claude maker plans to price on Nov. 18 and list on Nasdaq Nov. 19. The range values it around $1.4 trillion.",
-   "visual": {
-    "type": "ticker",
-    "sym": "ANT",
-    "ex": "NASDAQ",
-    "rows": [
-     {
-      "k": "Price range",
-      "s": "per share",
-      "v": "$70–$78"
-     },
-     {
-      "k": "Shares offered",
-      "s": "public offering",
-      "v": "825M"
-     },
-     {
-      "k": "Valuation",
-      "s": "approx.",
-      "v": "$1.4T"
-     },
-     {
-      "k": "Pricing / trading",
-      "s": "if cleared",
-      "v": "Nov 18 / 19"
-     }
-    ]
-   },
-   "detail": [
-    "This updates last week's post. Anthropic now has terms: 825 million Class A shares at $70 to $78 each, with pricing set for Wednesday, Nov. 18, and trading on Nasdaq Thursday under the ticker ANT. The dates depend on regulatory clearance.",
-    "At that range, the deal would raise roughly $58 billion to $64 billion and value the company near $1.4 trillion. Separately, big tech partners including Nvidia, Microsoft and Google are committing about $26 billion through non-voting shares.",
-    "CEO Dario Amodei said the market's recent swings had not changed the plan."
-   ],
-   "money": [
-    "Most people buy IPO stocks once they start trading. Set a limit order so you don't pay a spike price at the open.",
-    "Index funds may add the stock later, so many investors will own a slice without buying it directly.",
-    "If you buy, keep it to a small slice of your portfolio. New listings can swing wildly in the first months."
-   ],
-   "risk": [
-    "Huge IPOs can fall below their offer price.",
-    "Tech stocks are under pressure from rising rates."
-   ],
-   "sources": [
-    {
-     "t": "Everything you need to know ahead of Anthropic's IPO",
-     "d": "finance.yahoo.com",
-     "u": "https://finance.yahoo.com/technology/ai/article/anthropic-ipo-what-we-know-143321078.html"
-    },
-    {
-     "t": "Weekly Stock Market Summary: November 13, 2026",
-     "d": "vistapglobal.com",
-     "u": "https://vistapglobal.com/weekly-stock-market-summary-november-13-2026-nasdaq-slides-as-inflation-and-ai-risks-shape-wall-street-ant-eprx-googl-gs-modd-msft-nvda-ser-spcx/"
-    }
-   ],
-   "ts": "2026-11-15T04:23:09Z"
-  },
-  {
-   "id": "ai-funding-2026111504",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "business"
-   ],
-   "date": "Nov 13–14",
-   "headline": "AI money keeps flowing: Mercor hits $20B, LangChain $3B, CrowdStrike buys two startups",
-   "caption": "Even with tech stocks shaky, private AI deals kept coming this week. Hiring platforms, agent tools and AI security drew the biggest checks.",
-   "visual": {
-    "type": "deals",
-    "title": "AI deals this week",
-    "items": [
-     {
-      "a": "Mercor",
-      "b": "funding round",
-      "amt": "$750M",
-      "st": "$20B valuation",
-      "c": "ok"
-     },
-     {
-      "a": "LangChain",
-      "b": "Series C",
-      "amt": "$300M",
-      "st": "$3B valuation",
-      "c": "ok"
-     },
-     {
-      "a": "CrowdStrike",
-      "b": "2 AI agent security startups",
-      "amt": "$495M",
-      "st": "reported",
-      "c": "pend"
-     },
-     {
-      "a": "OpenAI + Databricks",
-      "b": "enterprise partnership",
-      "amt": "n/a",
-      "st": "announced",
-      "c": "ok"
-     }
-    ]
-   },
-   "detail": [
-    "Staffing platform Mercor raised $750 million at a $20 billion value. LangChain, which makes tools to build and govern AI agents, raised $300 million at a $3 billion value.",
-    "CrowdStrike reportedly paid $495 million for two startups that secure AI agents. OpenAI and Databricks teamed up so companies can run ChatGPT and Codex on their own data.",
-    "Google also unveiled a new Gemini 4 Hydrogen model focused on faster agent tasks."
-   ],
-   "money": [
-    "AI agent skills are in demand. Learning tools like these can raise your value at work.",
-    "Most of these firms are private. Public ways in include cloud and security stocks, or broad tech funds.",
-    "Be wary of anyone selling 'pre-IPO' shares of hot AI startups. Those offers are often scams."
-   ],
-   "risk": [
-    "Sky-high private valuations can drop fast if the AI boom cools."
-   ],
-   "sources": [
-    {
-     "t": "AI Agents News Brief: Cloudflare, CrowdStrike, OpenAI, and more - November 14, 2026",
-     "d": "aiagentsdirectory.com",
-     "u": "https://aiagentsdirectory.com/news/ai-agents-news-brief-2026-11-14"
-    }
-   ],
-   "ts": "2026-11-15T04:23:09Z"
-  },
-  {
-   "id": "limits-final-2026111504",
-   "type": "news",
-   "cat": "taxes",
-   "tags": [
-    "taxes",
-    "learn"
-   ],
-   "date": "Thu Nov 12",
-   "headline": "It's official: 401(k) limit rises to $25,500 in 2027; IRA limit stays $7,500",
-   "caption": "New: the IRS confirmed 2027 retirement limits in Notice 2026-66. Workers 60 to 63 can put in up to $37,250.",
-   "visual": {
-    "type": "board",
-    "title": "2027 retirement limits",
-    "rows": [
-     {
-      "k": "401(k) / 403(b) / TSP",
-      "v": "$25,500",
-      "tone": "gain"
-     },
-     {
-      "k": "Catch-up, age 50+",
-      "v": "$8,500"
-     },
-     {
-      "k": "Super catch-up, 60–63",
-      "s": "total $37,250",
-      "v": "$11,750",
-      "tone": "gain"
-     },
-     {
-      "k": "IRA",
-      "s": "unchanged",
-      "v": "$7,500"
-     },
-     {
-      "k": "SIMPLE IRA",
-      "v": "$17,500"
-     }
-    ],
-    "foot": "Source: IRS Notice 2026-66"
-   },
-   "detail": [
-    "Last week we said the 401(k) limit was expected to hit $25,500. The IRS has now made it official. The regular catch-up for people 50 and older is $8,500, and people aged 60 to 63 get an $11,750 catch-up.",
-    "IRA limits stay at $7,500, plus $1,100 extra at 50 and older. The Roth IRA income phase-out for singles is $158,000 to $173,000, and $250,000 to $260,000 for married couples.",
-    "High earners take note: if you made over $155,000 in FICA wages the prior year, your catch-up must go in as Roth."
-   ],
-   "money": [
-    "Raise your 401(k) percentage in January so you spread the new limit over the year.",
-    "Turning 60 to 63 in 2027? The super catch-up lets you save much more, tax-advantaged.",
-    "Low or moderate income? The Saver's Credit can cut your tax bill for contributing. Singles qualify up to $41,500."
-   ],
-   "risk": [
-    "Check your plan's rules; not all employers allow catch-ups or Roth options."
-   ],
-   "sources": [
-    {
-     "t": "Technical Analysis of IRS Notice 2026-66",
-     "d": "currentfederaltaxdevelopments.com",
-     "u": "https://www.currentfederaltaxdevelopments.com/blog/2026/11/12/technical-analysis-of-irs-notice-2026-66-statutory-mechanics-and-practice-implications-of-the-2027-cost-of-living-adjustments-for-qualified-plans-and-iras"
-    }
-   ],
-   "ts": "2026-11-15T04:23:09Z"
   }
  ]
 }
