@@ -1,6 +1,478 @@
 {
- "updated": "2026-11-16T16:20:00Z",
+ "updated": "2026-11-16T17:00:00Z",
  "items": [
+  {
+   "id": "warsh-ai-speech-2026111617",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "markets"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T17:00:00Z",
+   "headline": "Warsh's AI speech: three possible futures, and not a word on interest rates",
+   "caption": "The Fed chair laid out good, mixed and bad AI scenarios at a San Francisco forum. He skipped rate hints, weeks before the Dec. 9 decision.",
+   "visual": {
+    "type": "points",
+    "title": "Warsh's 3 AI scenarios (not forecasts)",
+    "items": [
+     "1. Gains shared widely, growth above average, jobs near full",
+     "2. Growth rises but automation pushes unemployment up",
+     "3. AI payoffs disappoint, stocks fall, a slowdown comes first",
+     "Fed role: prepare, not cheer or fight AI",
+     "No comment on rate levels"
+    ]
+   },
+   "detail": [
+    "Fed Chair Kevin Warsh opened the Fed's Productivity and Jobs Task Force conference Monday. He called super-intelligent AI a general-purpose technology that could change economic life and make expert answers far cheaper.",
+    "He sketched three paths. In one, gains are broadly shared. In another, growth rises but job losses lift unemployment. In the third, the huge AI investment wave fails to pay off, stocks fall and the economy slows before recovering.",
+    "He said the Fed should neither push nor block AI, only prepare, and that AI could matter for monetary policy later. He did not discuss rates, even as markets expect a hike on Dec. 9."
+   ],
+   "money": [
+    "A Fed chair openly naming an AI bust scenario is a reason to check how much of your portfolio rides on AI stocks.",
+    "Scenario 2 means job risk can rise even in a strong economy; a 3-6 month emergency fund is your hedge.",
+    "With no rate signal, keep planning for the expected December hike: lock fixed rates on loans and savings CDs where it helps."
+   ],
+   "risk": [
+    "These are illustrations, not Fed forecasts; the path could be none of them."
+   ],
+   "sources": [
+    {
+     "t": "Opening remarks by Chairman Warsh at the Productivity and Jobs Task Force Conference",
+     "d": "federalreserve.gov",
+     "u": "https://www.federalreserve.gov/newsevents/speech/warsh20261116a.htm"
+    },
+    {
+     "t": "Fed's Warsh to take stock of AI revolution as US public grows wary",
+     "d": "insurancenewsnet.com",
+     "u": "https://insurancenewsnet.com/oarticle/feds-warsh-to-take-stock-of-ai-revolution-as-us-public-grows-wary"
+    }
+   ]
+  },
+  {
+   "id": "trump-huang-return-2026111617",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "markets",
+    "politics"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T17:00:00Z",
+   "headline": "New: Trump says Huang returning as Nvidia CEO 'certainly isn't a bad idea'",
+   "caption": "Leaving for Asia, Trump said he would not mind Jensen Huang's return and that no one has proven the woman involved is a spy. Nvidia reports Tuesday.",
+   "visual": {
+    "type": "timeline",
+    "title": "Nvidia's CEO saga",
+    "items": [
+     {
+      "d": "LAST WEEK",
+      "t": "Huang resigns after admitting an affair",
+      "s": "Woman called a suspected Chinese asset"
+     },
+     {
+      "d": "WEEKEND",
+      "t": "Petition for his return passes 100,000",
+      "s": "Allies push the board"
+     },
+     {
+      "d": "NOV 16",
+      "t": "Trump: return 'not a bad idea'",
+      "now": true
+     },
+     {
+      "d": "NOV 17",
+      "t": "Nvidia Q3 earnings after the close"
+     }
+    ]
+   },
+   "detail": [
+    "President Trump said Monday he would welcome Jensen Huang back as Nvidia's CEO, adding that Huang had learned a big lesson. He also said nobody has proven that businesswoman Alice Huang is a spy.",
+    "Jensen Huang quit last week after admitting an affair with her. U.S. officials have described her as a suspected asset of China's spy agency. The New York Times also reported a second affair with a subordinate.",
+    "Trump defended chip sales to China, saying they were limited to older chips. An online petition for Huang's return has more than 100,000 signatures. Nvidia reports quarterly results Tuesday afternoon."
+   ],
+   "money": [
+    "Leadership drama can swing Nvidia shares hard around Tuesday's report; avoid big all-in bets right before earnings.",
+    "If you own S&P 500 or Nasdaq funds, you already hold a lot of Nvidia; check your total exposure before adding more.",
+    "Options are pricing a big move; buying them now is expensive, so long-term investors may do better just holding."
+   ],
+   "risk": [
+    "The board, not the president, decides who runs Nvidia.",
+    "National security questions could still lead to new chip limits."
+   ],
+   "sources": [
+    {
+     "t": "Trump says it's not 'a bad idea' to see Jensen Huang back at Nvidia",
+     "d": "yahoo.com",
+     "u": "https://www.yahoo.com/news/politics/articles/trump-says-not-bad-idea-150003553.html"
+    },
+    {
+     "t": "Stock market today: Dow, S&P 500, Nasdaq drop ahead of pivotal week for AI",
+     "d": "finance.yahoo.com",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html"
+    }
+   ]
+  },
+  {
+   "id": "starship-ship-catch-2026111617",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business",
+    "markets"
+   ],
+   "date": "This weekend",
+   "ts": "2026-11-16T17:00:00Z",
+   "headline": "SpaceX catches a Starship returning from orbit for the first time; booster lost",
+   "caption": "The tower caught Ship 42 after 14 orbits and 26 Starlink satellites. The Super Heavy booster aborted its catch, low on fuel.",
+   "visual": {
+    "type": "board",
+    "title": "Starship Flight 15",
+    "rows": [
+     {
+      "k": "Ship caught",
+      "s": "After ~22.5 hours",
+      "v": "14 orbits",
+      "tone": "gain"
+     },
+     {
+      "k": "Satellites deployed",
+      "s": "Starlink V3",
+      "v": "26",
+      "tone": "gain"
+     },
+     {
+      "k": "Booster 22",
+      "s": "Low fuel alarm",
+      "v": "Lost",
+      "tone": "loss"
+     },
+     {
+      "k": "Goal",
+      "s": "Musk target, 1H 2027",
+      "v": "Weekly",
+      "tone": "acc"
+     }
+    ],
+    "foot": "No written root-cause report yet"
+   },
+   "detail": [
+    "Starship lifted off from Starbase, Texas, on Nov. 13. On Nov. 14, the launch tower's arms caught the upper stage after about 22.5 hours in space. It was the first catch of a Starship ship after an orbital trip.",
+    "The Super Heavy booster aborted its own catch after a low-fuel alarm cut a burn short. Musk blamed underperforming engines and said fixes are coming.",
+    "Musk wants weekly launches in early 2027. Rival ULA's Vulcan rocket failed the same week, which could push more launches to SpaceX."
+   ],
+   "money": [
+    "Cheaper reusable rockets can lower the cost of satellite internet; compare Starlink plans with local providers if you're rural.",
+    "Space stocks swing on launch news; most people get enough exposure through broad index funds.",
+    "Be wary of 'pre-IPO SpaceX shares' pitches online; many are scams."
+   ],
+   "risk": [
+    "The booster problem is not fully explained, and future flights could slip."
+   ],
+   "sources": [
+    {
+     "t": "SpaceX Starship Tower Catch Succeeds After 14 Orbits, but Booster Is Lost to Fuel Shortfall",
+     "d": "techtimes.com",
+     "u": "https://www.techtimes.com/articles/330764/20261115/spacex-starship-tower-catch-succeeds-after-14-orbits-booster-lost-fuel-shortfall.htm"
+    },
+    {
+     "t": "Market News — Monday 16 November 2026",
+     "d": "hervecuviliez.substack.com",
+     "u": "https://hervecuviliez.substack.com/p/market-news-monday-16-november-2026"
+    }
+   ]
+  },
+  {
+   "id": "nov20-immigration-deadlines-2026111617",
+   "type": "news",
+   "cat": "immigration",
+   "tags": [
+    "immigration",
+    "politics"
+   ],
+   "date": "This week",
+   "ts": "2026-11-16T17:00:00Z",
+   "headline": "Two immigration court deadlines hit Nov. 20: refugee rule and Venezuelan TPS",
+   "caption": "A court hears a challenge to a rule giving refugees 10 days, not 30, to answer termination notices. A stay blocking TPS for about 600,000 Venezuelans also ends around then.",
+   "visual": {
+    "type": "timeline",
+    "title": "Key dates",
+    "items": [
+     {
+      "d": "OCT 14",
+      "t": "DHS cuts refugee reply window to 10 days"
+     },
+     {
+      "d": "NOV 6",
+      "t": "9th Circuit 14-day stay on Venezuelan TPS begins"
+     },
+     {
+      "d": "NOV 17",
+      "t": "TPS case conference in district court"
+     },
+     {
+      "d": "NOV 20",
+      "t": "Refugee rule hearing; TPS stay runs out",
+      "now": true
+     },
+     {
+      "d": "DEC 4",
+      "t": "Current stay of refugee rule expires"
+     }
+    ]
+   },
+   "detail": [
+    "In October, DHS cut the time refugees get to answer a notice that their status may end, from 30 days to 10. Advocacy groups sued. A federal judge in Massachusetts paused the rule through Dec. 4 and will hear arguments Nov. 20 on a longer pause.",
+    "Separately, the Ninth Circuit issued a 14-day stay starting Nov. 6. It blocks restored Temporary Protected Status for an estimated 600,000 Venezuelans. The appeals court has not said whether it will extend it.",
+    "No court has ruled yet on whether the refugee rule is legal."
+   ],
+   "money": [
+    "People with pending status should keep work permits, ID and records current to avoid job gaps.",
+    "Employers with TPS workers should watch the Nov. 20 outcome to plan staffing and paperwork.",
+    "Use accredited lawyers or nonprofits; beware 'notarios' charging big fees."
+   ],
+   "risk": [
+    "Rulings can change quickly, and stays can be extended or lifted on short notice."
+   ],
+   "sources": [
+    {
+     "t": "The Two Immigration Deadlines Converging on November 20",
+     "d": "latintimes.com",
+     "u": "https://www.latintimes.com/immigration-court-deadlines-refugee-rule-venezuelan-tps-601384"
+    }
+   ]
+  },
+  {
+   "id": "china-oct-data-miss-2026111617",
+   "type": "news",
+   "cat": "world",
+   "tags": [
+    "world",
+    "markets"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T17:00:00Z",
+   "headline": "China's economy slows: retail sales grow just 0.4% and factory output misses",
+   "caption": "October retail sales, factory output and investment all came in below forecasts. Investment is down 8.1% so far this year.",
+   "visual": {
+    "type": "board",
+    "title": "China, October data",
+    "rows": [
+     {
+      "k": "Industrial output",
+      "s": "Forecast +5.3%",
+      "v": "+4.8%",
+      "tone": "loss"
+     },
+     {
+      "k": "Retail sales",
+      "s": "Forecast +0.8%",
+      "v": "+0.4%",
+      "tone": "loss"
+     },
+     {
+      "k": "Fixed investment, Jan-Oct",
+      "s": "Forecast -7.0%",
+      "v": "-8.1%",
+      "tone": "loss"
+     },
+     {
+      "k": "Urban jobless rate",
+      "s": "Sept 5.2%",
+      "v": "5.1%",
+      "tone": "acc"
+     }
+    ],
+    "foot": "Year-over-year, National Bureau of Statistics"
+   },
+   "detail": [
+    "China's statistics bureau said Monday that October factory output rose 4.8% from a year earlier, down from 5.5% in September and below the 5.3% expected.",
+    "Retail sales rose just 0.4%, missing the 0.8% forecast. Fixed-asset investment for January to October fell 8.1%, worse than the 7.0% drop expected.",
+    "The jobless rate eased slightly to 5.1%. The data lands days before Thursday's planned Xi-Trump-Putin summit."
+   ],
+   "money": [
+    "Weak Chinese demand can weigh on commodities like copper and oil, which can help keep U.S. gas prices lower.",
+    "U.S. firms that sell a lot in China, from chips to luxury goods, may face softer sales; check your fund holdings.",
+    "International funds heavy in China may stay volatile; keep that slice small if you can't stomach swings."
+   ],
+   "risk": [
+    "Beijing could announce new stimulus, which would quickly change the picture."
+   ],
+   "sources": [
+    {
+     "t": "China's economy slows in Oct as factory output, retail sales miss forecasts",
+     "d": "business-standard.com",
+     "u": "https://www.business-standard.com/amp/world-news/china-s-economy-slows-in-oct-as-factory-output-retail-sales-miss-forecasts-126111600592_1.html"
+    }
+   ]
+  },
+  {
+   "id": "maryland-4yr-budget-plan-2026111617",
+   "type": "news",
+   "cat": "states",
+   "tags": [
+    "states",
+    "taxes"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T17:00:00Z",
+   "headline": "Maryland leaders agree to a 4-year plan for a nearly $3 billion budget gap",
+   "caption": "Gov. Wes Moore and top lawmakers will tackle shortfalls starting in fiscal 2028. Gaps grow in each of the three years after that.",
+   "visual": {
+    "type": "stat",
+    "title": "Maryland budget gap",
+    "num": "~$3B",
+    "tone": "loss",
+    "label": "Projected structural gap for fiscal 2028, with bigger gaps after.",
+    "facts": [
+     [
+      "Legislative estimate",
+      "$2.6B",
+      "June projection"
+     ],
+     [
+      "Budget office",
+      "~$3B",
+      "Executive estimate"
+     ],
+     [
+      "Plan length",
+      "4 years",
+      "Starts Jan. 2027 budget"
+     ]
+    ]
+   },
+   "detail": [
+    "Gov. Wes Moore, Senate President Bill Ferguson and House Speaker Joseline Peña-Melnyk said they will build a four-year plan for Maryland's ongoing shortfalls.",
+    "The projected structural gap for fiscal 2028 is nearly $3 billion, and larger gaps are expected in the following three years. The plan starts with the budget introduced in January 2027.",
+    "Fiscal 2028 is the first year that costs of the state's Blueprint school plan exceed its dedicated revenue. S&P cited the gaps when it lowered the state's debt outlook in May."
+   ],
+   "money": [
+    "Gaps this size often lead to tax or fee changes; Maryland residents should watch the January budget.",
+    "State workers and contractors may see hiring or spending limits; build some cash cushion.",
+    "Maryland municipal bond holders should note the outlook change but check ratings, not headlines."
+   ],
+   "risk": [
+    "No specific cuts or tax changes have been named yet."
+   ],
+   "sources": [
+    {
+     "t": "State leaders vow new multiyear approach to mounting budget gaps",
+     "d": "thedailyrecord.com",
+     "u": "https://thedailyrecord.com/2026/11/16/maryland-leaders-agree-multiyear-plan-budget-gaps/"
+    }
+   ]
+  },
+  {
+   "id": "edu-ai-scenarios-2026111617",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "ai"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-16T17:00:00Z",
+   "headline": "Three AI futures: how to set up your money for any of them",
+   "caption": "The Fed chair named good, mixed and bad AI paths today. Here's a simple plan that works in all three.",
+   "scenes": [
+    {
+     "k": "TODAY'S NEWS",
+     "t": "The Fed chair mapped 3 AI futures",
+     "s": "Kevin Warsh said they are illustrations, not forecasts."
+    },
+    {
+     "k": "PATH 1",
+     "t": "Boom shared by all",
+     "s": "Growth runs hot and jobs stay plentiful. Stocks likely do well."
+    },
+    {
+     "k": "PATH 2",
+     "t": "Growth up, jobs down",
+     "s": "The economy grows but automation pushes some people out of work."
+    },
+    {
+     "k": "PATH 3",
+     "t": "The AI bet disappoints",
+     "s": "Big investments don't pay off, stocks fall and a slowdown comes first."
+    },
+    {
+     "k": "THE FIX",
+     "t": "Build a plan that survives all three",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "Emergency fund",
+       "Broad index funds",
+       "Limit single AI stocks",
+       "Keep learning job skills"
+      ]
+     },
+     "say": "Keep an emergency fund, own broad index funds, limit single AI stocks, and keep building job skills."
+    },
+    {
+     "k": "TAKEAWAY",
+     "t": "Don't bet everything on one future",
+     "s": "Diversify your money and your skills, since no one knows which path we get."
+    }
+   ]
+  },
+  {
+   "id": "edu-structural-gap-2026111617",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "states"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-16T17:00:00Z",
+   "headline": "What a 'structural' budget gap is, and why it matters to you",
+   "caption": "Maryland faces a nearly $3 billion structural gap. Here's what that phrase means for taxes and services.",
+   "scenes": [
+    {
+     "k": "TODAY'S NEWS",
+     "t": "Maryland: a ~$3B structural gap",
+     "s": "Leaders agreed to a four-year plan to close it."
+    },
+    {
+     "k": "ONE-TIME GAP",
+     "t": "A bad year, then it passes",
+     "s": "Like a surprise car repair. Savings can cover it."
+    },
+    {
+     "k": "STRUCTURAL GAP",
+     "t": "Spending grows faster than income",
+     "s": "It comes back every year until something changes."
+    },
+    {
+     "k": "THE TOOLS",
+     "t": "Only a few ways to close it",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "Raise taxes or fees",
+       "Cut spending",
+       "Use reserves",
+       "Grow the economy"
+      ]
+     },
+     "say": "States can raise taxes or fees, cut spending, use reserves, or hope the economy grows."
+    },
+    {
+     "k": "YOUR BUDGET",
+     "t": "Same idea at home",
+     "s": "If your bills grow faster than your pay every month, savings only delay the fix."
+    },
+    {
+     "k": "TAKEAWAY",
+     "t": "Watch your state's January budget",
+     "s": "That is where tax, fee and service changes usually show up first."
+    }
+   ]
+  },
   {
    "id": "empire-state-drop-2026111616",
    "type": "news",
@@ -11793,454 +12265,6 @@
      "t": "Mortgage Rates Next Week: Nov 16–20, 2026",
      "d": "mortgagedaily.com",
      "u": "https://www.mortgagedaily.com/rates/mortgage-rates-week-ahead-2026-11-15/"
-    }
-   ]
-  },
-  {
-   "id": "openai-15b-raise-2026111603",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "markets"
-   ],
-   "date": "Fri Nov 13",
-   "ts": "2026-11-16T03:40:00Z",
-   "headline": "OpenAI reportedly raises $15B at a $1.25 trillion value, below its first goal",
-   "caption": "The round is half the $30 billion OpenAI first sought. It lands days before Anthropic's IPO prices at a similar valuation.",
-   "visual": {
-    "type": "vs",
-    "title": "AI giants' price tags",
-    "a": [
-     "OpenAI round",
-     "$1.25T",
-     0.86,
-     "acc"
-    ],
-    "b": [
-     "Anthropic IPO top",
-     "$1.45T",
-     1,
-     "gain"
-    ],
-    "foot": "OpenAI's March round valued it at $852B."
-   },
-   "detail": [
-    "CNBC reported OpenAI is raising $15 billion at a $1.25 trillion valuation. That's half the $30 billion it first wanted and below an earlier $1.4 trillion target, per Tech Funding News.",
-    "The value is still about 47% above OpenAI's $852 billion valuation from March. The Information put OpenAI's Q3 revenue near $10 billion, up roughly 50% from Q2.",
-    "Anthropic plans to sell 825 million shares at $70 to $78 this week, implying roughly $1.2 to $1.45 trillion."
-   ],
-   "money": [
-    "A smaller-than-hoped round hints investors are getting pickier on AI prices; avoid chasing hype.",
-    "Index funds already give exposure to AI suppliers like Nvidia and Microsoft without single-IPO risk.",
-    "If you try the Anthropic IPO, set a max price and size before it opens."
-   ],
-   "risk": [
-    "Private valuations are reported by sources and can change.",
-    "AI firms burn huge cash on compute."
-   ],
-   "sources": [
-    {
-     "t": "OpenAI reportedly raises $15B at $1.25T valuation as Anthropic IPO approaches",
-     "d": "techfundingnews.com",
-     "u": "https://techfundingnews.com/openai-reportedly-raises-15b-at-1-25t-valuation-as-anthropic-ipo-approaches"
-    }
-   ]
-  },
-  {
-   "id": "baidu-q3-preview-2026111603",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "markets",
-    "world"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T03:40:00Z",
-   "headline": "Baidu reports today: profit seen down 45% as AI cloud spending soars",
-   "caption": "Analysts expect 85 cents a share, with estimates cut 40% in a month. Investors want to see if fast AI cloud growth can offset falling ad sales.",
-   "visual": {
-    "type": "ticker",
-    "sym": "BIDU",
-    "ex": "NASDAQ",
-    "rows": [
-     {
-      "k": "EPS est.",
-      "s": "Zacks, down 45.5% y/y",
-      "v": "$0.85"
-     },
-     {
-      "k": "Revenue est.",
-      "s": "+5.2% y/y",
-      "v": "$4.61B"
-     },
-     {
-      "k": "AI cloud infra",
-      "s": "Q2, +50% y/y",
-      "v": "RMB 7.3B"
-     },
-     {
-      "k": "Online ads",
-      "s": "Q2 change",
-      "v": "-19%"
-     }
-    ]
-   },
-   "detail": [
-    "Baidu reports third-quarter results Monday. Zacks consensus is $4.61 billion in revenue, up about 5%, and 85 cents a share, down about 45%. The EPS estimate was cut about 40% over 30 days.",
-    "In Q2, AI cloud infrastructure revenue rose 50% to RMB 7.3 billion, while online marketing fell 19%. Capital spending nearly tripled, pushing free cash flow negative.",
-    "Its Apollo Go robotaxi unit expanded to Dubai and started testing in London and Hong Kong this year."
-   ],
-   "money": [
-    "Earnings with big estimate cuts can rally on 'less bad' news, but that's a gamble.",
-    "Watch capex: heavy AI spending squeezes cash returned to shareholders.",
-    "Chinese stocks add policy and currency risk; size positions modestly."
-   ],
-   "risk": [
-    "U.S.-China tensions can hit Chinese ADRs regardless of results."
-   ],
-   "sources": [
-    {
-     "t": "Baidu to Report Q3 Earnings: What's in Store for the Stock?",
-     "d": "finance.yahoo.com",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/baidu-report-q3-earnings-whats-133300066.html"
-    }
-   ]
-  },
-  {
-   "id": "samsung-bio-rights-2026111603",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business",
-    "world"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T03:40:00Z",
-   "headline": "Samsung Biologics' $2B share sale draws a record 11.4 trillion won in orders",
-   "caption": "Retail demand was 135 times the shares left for the public. The cash will fund its buy of peptide maker Polypeptide Group.",
-   "visual": {
-    "type": "stat",
-    "title": "Samsung Biologics rights offering",
-    "num": "135.6:1",
-    "tone": "gain",
-    "label": "Public round demand for the 71,854 leftover shares.",
-    "facts": [
-     [
-      "Raised",
-      "2.67T won",
-      "About $2 billion"
-     ],
-     [
-      "Deposits",
-      "11.44T won",
-      "A record for this type"
-     ],
-     [
-      "New shares list",
-      "Nov 30",
-      "Price 1.17M won each"
-     ]
-    ]
-   },
-   "detail": [
-    "Samsung Biologics' rights offering of about 2.7 trillion won (about $2 billion) drew more than 11.44 trillion won in deposits in its public round, The Herald Business reported. Existing holders took 96.8% of their allotment first.",
-    "All proceeds go to buying Polypeptide Group, a peptide contract manufacturer, for 1.46 billion Swiss francs. Samsung already holds about 98% and plans to buy out the rest."
-   ],
-   "money": [
-    "Rights offerings dilute holders who don't buy in; know your rights deadline if you own the stock.",
-    "Contract drug makers are a 'picks and shovels' way to play pharma growth.",
-    "Hot demand doesn't guarantee gains after new shares list."
-   ],
-   "risk": [
-    "A partial union strike and outside risks were flagged."
-   ],
-   "sources": [
-    {
-     "t": "Samsung Biologics' W2.7tr share offering draws record W11.44tr in subscriptions",
-     "d": "heraldcorp.com",
-     "u": "https://mbiz.heraldcorp.com/article/10937928"
-    }
-   ]
-  },
-  {
-   "id": "ip-pin-window-2026111603",
-   "type": "news",
-   "cat": "taxes",
-   "tags": [
-    "taxes"
-   ],
-   "date": "Mid-November",
-   "ts": "2026-11-16T03:40:00Z",
-   "headline": "Get your IRS IP PIN now: the online tool goes dark until mid-January",
-   "caption": "An Identity Protection PIN blocks thieves from filing a return with your Social Security number. The IRS online tool shuts for yearly upkeep in mid-November.",
-   "visual": {
-    "type": "points",
-    "title": "IP PIN basics",
-    "items": [
-     "6-digit code that changes every year",
-     "Anyone can get one, even non-filers",
-     "Online tool offline mid-Nov to mid-Jan",
-     "Flagged returns stall until you verify ID",
-     "FTC: about $16B lost to fraud in 2025"
-    ]
-   },
-   "detail": [
-    "The IRS warns criminals use stolen Social Security numbers to file fake returns and grab refunds. An IP PIN stops that, because a return using your SSN needs the code.",
-    "The online IP PIN system goes offline for maintenance in mid-November and usually returns in mid-January. If you plan to file early in 2027, request it before the shutdown.",
-    "If the IRS flags your return, it may hold your refund until you verify your identity."
-   ],
-   "money": [
-    "An IP PIN can prevent a stolen refund and months of delays.",
-    "Protect your IRS online account with a strong, unique password.",
-    "Filing early limits the window for a fake return in your name."
-   ],
-   "risk": [
-    "If you miss the window, you may wait until January to get a PIN online."
-   ],
-   "sources": [
-    {
-     "t": "IRS issues fresh warning to US taxpayers: 'Sensitive' data now at risk",
-     "d": "finance.yahoo.com",
-     "u": "https://finance.yahoo.com/economy/policy/articles/irs-issues-fresh-warning-us-121500259.html"
-    }
-   ]
-  },
-  {
-   "id": "texas-voucher-future-2026111603",
-   "type": "news",
-   "cat": "states",
-   "tags": [
-    "states",
-    "politics"
-   ],
-   "date": "Fri Nov 13",
-   "ts": "2026-11-16T03:40:00Z",
-   "headline": "Texas' $1B school voucher program faces repeal bills after Democrats' sweep",
-   "caption": "More than 110,000 families use the accounts, including 18,800 students with disabilities. The comptroller wants funding doubled, but Democrats now control key offices.",
-   "visual": {
-    "type": "board",
-    "title": "Texas Education Freedom Accounts",
-    "rows": [
-     {
-      "k": "Families served",
-      "v": "110,000+"
-     },
-     {
-      "k": "Private school",
-      "s": "per year",
-      "v": "~$10,500"
-     },
-     {
-      "k": "Disability max",
-      "s": "few got it",
-      "v": "$30,000"
-     },
-     {
-      "k": "Homeschool",
-      "v": "up to $2,000"
-     },
-     {
-      "k": "Ask to expand",
-      "s": "2-year budget",
-      "v": "$2B+",
-      "tone": "acc"
-     }
-    ],
-    "foot": "Legislature meets January 2027."
-   },
-   "detail": [
-    "Texas' voucher program started this school year at about $1 billion. Private school students get about $10,500 a year, and students with disabilities can get up to $30,000, the Texas Tribune reported.",
-    "Democrats won every open statewide office and the House, and several have filed repeal bills, including SB 294. Gov.-elect Gina Hinojosa has a line-item veto over the budget.",
-    "The incoming comptroller announced an audit. Parents of kids with disabilities worry about losing aid mid-education."
-   ],
-   "money": [
-    "Texas families using the accounts should plan a backup budget for 2027-28 tuition.",
-    "Ask private schools about financial aid now, before funding decisions land.",
-    "Keep records of all account spending in case of an audit."
-   ],
-   "risk": [
-    "Funding could shrink, end, or continue depending on the 2027 session."
-   ],
-   "sources": [
-    {
-     "t": "Parents of kids with disabilities fear losing Texas school voucher",
-     "d": "texastribune.org",
-     "u": "https://texastribune.org/2026/11/13/texas-school-vouchers-students-disabilities-uncertainty"
-    }
-   ]
-  },
-  {
-   "id": "calfresh-produce-match-2026111603",
-   "type": "news",
-   "cat": "california",
-   "tags": [
-    "california",
-    "benefits"
-   ],
-   "date": "Wed Nov 11",
-   "ts": "2026-11-16T03:40:00Z",
-   "headline": "CalFresh shoppers can get up to $60 a month back on fruits and vegetables",
-   "caption": "A pilot gives automatic cash back on produce bought with CalFresh EBT. It runs only through the end of the year.",
-   "visual": {
-    "type": "stat",
-    "title": "CalFresh produce rebate",
-    "num": "$60",
-    "tone": "gain",
-    "label": "Monthly max in matching dollars for fresh fruits and vegetables.",
-    "facts": [
-     [
-      "Ends",
-      "Dec 31",
-      "Limited-time pilot"
-     ],
-     [
-      "Where",
-      "Mother's Nutritional Center",
-      "All SoCal stores, plus others"
-     ],
-     [
-      "Income limit",
-      "$1,300–$4,500/mo",
-      "1 to 8 people"
-     ]
-    ]
-   },
-   "detail": [
-    "California families on CalFresh can earn matching dollars when they buy fresh produce with EBT, ABC7 reported. Each dollar spent on fruits and vegetables comes back as an automatic rebate.",
-    "Families can get up to $60 a month. All Mother's Nutritional Center stores in Southern California take part, and the state social services website lists other stores and farmers markets.",
-    "The pilot ends at the end of the year."
-   ],
-   "money": [
-    "Shift some produce buying to participating stores to claim up to $60 a month.",
-    "Check the CDSS list for farmers markets near you.",
-    "Use the full match before Dec. 31; it may not roll over."
-   ],
-   "risk": [
-    "Store lists and rules can change; confirm before you shop."
-   ],
-   "sources": [
-    {
-     "t": "CalFresh pilot program offers cash rebates to low-income families for fruit, vegetable purchases",
-     "d": "abc7.com",
-     "u": "https://abc7.com/post/calfresh-pilot-program-offers-cash-rebates-low-income-families-fruit-vegetable-purchases/20033545"
-    }
-   ]
-  },
-  {
-   "id": "crypto-desk-eth-coinone-2026111603",
-   "type": "news",
-   "cat": "crypto",
-   "tags": [
-    "crypto",
-    "ai"
-   ],
-   "date": "Sun Nov 15",
-   "ts": "2026-11-16T03:40:00Z",
-   "headline": "Binance's ETH reserves hit a 5-year low; Korean exchange Coinone reports a data leak",
-   "caption": "Ether on Binance fell to about 2.9 million, the lowest since 2021. Separately, Coinone said a contractor breach may have exposed support records.",
-   "visual": {
-    "type": "board",
-    "title": "Crypto desk, Nov 15",
-    "rows": [
-     {
-      "k": "Binance ETH reserves",
-      "s": "CryptoQuant est.",
-      "v": "~2.9M ETH",
-      "ch": -42
-     },
-     {
-      "k": "Coinone breach",
-      "s": "Via contractor, Nov 12",
-      "v": "Support data"
-     },
-     {
-      "k": "Anthropic perp",
-      "s": "Binance, Nov 17",
-      "v": "→ ANTUSDT"
-     },
-     {
-      "k": "NVDA perp leverage",
-      "s": "Trade.xyz, pre-earnings",
-      "v": "20x → 10x",
-      "tone": "acc"
-     }
-    ]
-   },
-   "detail": [
-    "A CryptoQuant contributor estimated Binance's ether reserves near 2.9 million, about 42% below July 2025, as withdrawals outpaced deposits. That alone doesn't prove new buying.",
-    "South Korea's Coinone said an attacker reached customer-service records at contractor MetaM on Nov. 12. Data may include passwords or bank details customers shared with support; trading systems weren't hit.",
-    "Binance will rename its Anthropic pre-IPO perpetual to ANTUSDT on Nov. 17, and Trade.xyz cut Nvidia perp leverage to 10x before earnings."
-   ],
-   "money": [
-    "Never share passwords with any exchange support agent.",
-    "Coins leaving exchanges can mean holding, but don't trade on one metric.",
-    "Avoid high leverage around big earnings; exchanges are cutting it for a reason."
-   ],
-   "risk": [
-    "Pre-IPO and stock perps are risky and lightly regulated."
-   ],
-   "sources": [
-    {
-     "t": "TCB Daily Edition: What Happened in Crypto on November 15, 2026",
-     "d": "thecryptobasic.com",
-     "u": "https://thecryptobasic.com/2026/11/15/tcb-daily-edition-what-happened-in-crypto-on-november-15-2026/"
-    }
-   ]
-  },
-  {
-   "id": "eu-ukraine-team-2026111603",
-   "type": "news",
-   "cat": "world",
-   "tags": [
-    "world",
-    "politics"
-   ],
-   "date": "Fri Nov 13",
-   "ts": "2026-11-16T03:40:00Z",
-   "headline": "Europe forms a joint team for Ukraine peace talks after US-led Abu Dhabi meetings",
-   "caption": "EU institutions plus France, Germany, Italy, Poland and the UK will speak for Europe. Leaders meet Nov. 26-27 on Ukraine's 2027 funding.",
-   "visual": {
-    "type": "timeline",
-    "title": "Ukraine diplomacy",
-    "items": [
-     {
-      "d": "EARLY NOV",
-      "t": "US-mediated talks in Abu Dhabi",
-      "s": "Ukraine and Russia reps"
-     },
-     {
-      "d": "NOV 13",
-      "t": "EU names joint negotiating team",
-      "s": "EU + E5 countries",
-      "now": true
-     },
-     {
-      "d": "NOV 26-27",
-      "t": "European Council meets",
-      "s": "Ukraine's 2027 financing"
-     }
-    ]
-   },
-   "detail": [
-    "European Council President Antonio Costa said Friday in Dublin that EU institutions and the E5 nations will form one team for Ukraine talks, the Kyiv Independent reported.",
-    "Costa said only Ukraine can decide on its territory. Security guarantees will run through the Coalition of the Willing with NATO.",
-    "He warned Russia's attacks on civilians raise doubts about its intent, calling the next weeks a decisive test."
-   ],
-   "money": [
-    "Peace progress could lower energy and grain risk premiums over time.",
-    "European defense stocks may swing on headlines; avoid chasing them.",
-    "Watch the Nov. 26-27 summit for Ukraine aid numbers."
-   ],
-   "risk": [
-    "Talks could stall, keeping war-related costs high."
-   ],
-   "sources": [
-    {
-     "t": "European leaders agree on joint team for Ukraine peace negotiations, Costa says",
-     "d": "kyivindependent.com",
-     "u": "https://kyivindependent.com/european-leaders-agree-on-joint-team-for-ukraine-peace-negotiations-costa-says/"
     }
    ]
   }
