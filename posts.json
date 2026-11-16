@@ -1,6 +1,907 @@
 {
- "updated": "2026-11-16T20:00:00Z",
+ "updated": "2026-11-16T21:00:00Z",
  "items": [
+  {
+   "id": "close-third-loss-2026111621",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets",
+    "ai"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T21:00:00Z",
+   "headline": "Close: S&P 500 falls 1.9% and Nasdaq 2.5% for a third straight loss",
+   "caption": "Nvidia and other AI stocks dragged Wall Street lower a day before Nvidia's earnings. The Dow lost about 739 points and the VIX fear gauge jumped near 24.",
+   "visual": {
+    "type": "board",
+    "title": "Monday's close",
+    "rows": [
+     {
+      "k": "S&P 500",
+      "s": "3rd straight loss",
+      "v": "-1.9%",
+      "ch": -1.9,
+      "tone": "loss"
+     },
+     {
+      "k": "Nasdaq",
+      "v": "-2.5%",
+      "ch": -2.5,
+      "tone": "loss"
+     },
+     {
+      "k": "Dow",
+      "v": "-739 pts",
+      "tone": "loss"
+     },
+     {
+      "k": "10-yr yield",
+      "s": "from 5.15% Fri",
+      "v": "5.12%",
+      "tone": "acc"
+     },
+     {
+      "k": "Brent oil",
+      "v": "$92.44",
+      "ch": -3.5,
+      "tone": "loss"
+     }
+    ],
+    "foot": "Nvidia reports Tuesday after the close."
+   },
+   "detail": [
+    "Stocks ended Monday sharply lower. The S&P 500 fell 1.9%, its third loss in a row. The Nasdaq dropped 2.5% and the Dow lost about 739 points.",
+    "Chip and AI names led the slide. Nvidia fell about 4% to its lowest level since July 2025. AMD fell 4.7%, Broadcom 3.6% and CoreWeave 6.2%. Tyson Foods was a bright spot, up about 7%.",
+    "The 10-year Treasury yield eased to 5.12% from 5.15%. Oil fell about 3.5%. Fear rose: the VIX volatility index jumped about 24% to near 24."
+   ],
+   "money": [
+    "Selloffs before big earnings can reverse fast; avoid panic-selling a long-term index fund on one bad day.",
+    "If you plan to buy, adding money in small pieces over weeks lowers the risk of buying right before another drop.",
+    "Yields above 5% mean cash and short-term Treasurys still pay well while you wait."
+   ],
+   "risk": [
+    "Nvidia's report Tuesday could push the market sharply in either direction.",
+    "Three straight down days can turn into a longer slide if earnings disappoint."
+   ],
+   "sources": [
+    {
+     "t": "More drops for Nvidia and other AI stocks drag the US market lower",
+     "d": "bnnbloomberg.ca",
+     "u": "https://bnnbloomberg.ca/markets/nasdaq/2026/11/16/stocks-decline-on-tech-sell-off-as-concerns-over-the-nvidia-fallout-persist"
+    },
+    {
+     "t": "Stock market today: Dow and S&P 500 drop, Nasdaq sinks over 2%",
+     "d": "finance.yahoo.com",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html"
+    },
+    {
+     "t": "Live updates: Bitcoin holds near weekend lows as Nasdaq extends decline",
+     "d": "coindesk.com",
+     "u": "https://www.coindesk.com/tech/2026/11/16/live-news-bitcoin-posts-sixth-weekly-loss-as-tech-stocks-and-metals-slide"
+    }
+   ]
+  },
+  {
+   "id": "dollar-copper-hike-odds-2026111621",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets",
+    "world"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T21:00:00Z",
+   "headline": "Dollar hits its highest since April 2025 as December rate-hike odds top out",
+   "caption": "Traders now see a December Fed hike as all but certain, and the dollar climbed. Copper slid below $6 a pound for the first time since June.",
+   "visual": {
+    "type": "board",
+    "title": "Rate-hike ripple effects",
+    "rows": [
+     {
+      "k": "Dec. hike odds",
+      "s": "Fed decides Dec. 9",
+      "v": "~100%",
+      "tone": "acc"
+     },
+     {
+      "k": "Dollar index",
+      "s": "highest since Apr. 2025",
+      "v": "High",
+      "tone": "gain"
+     },
+     {
+      "k": "Copper",
+      "s": "first time under $6 since June",
+      "v": "<$6/lb",
+      "ch": -1.5,
+      "tone": "loss"
+     },
+     {
+      "k": "US crude",
+      "v": "$84.38",
+      "ch": -3.3,
+      "tone": "loss"
+     },
+     {
+      "k": "Gold",
+      "s": "morning",
+      "v": "$3,862",
+      "tone": "acc"
+     }
+    ]
+   },
+   "detail": [
+    "Futures pricing on Monday put the odds of a December rate hike at about 100%. Days earlier, CME's tool showed about 92%. The Fed's next decision is Dec. 9.",
+    "Expectations of higher rates pushed the dollar index to its highest level since April 2025. Copper fell another 1.5% and traded below $6 a pound for the first time since June.",
+    "Fed Chair Kevin Warsh spoke about AI and jobs on Monday but avoided talking about near-term rates. Fed meeting minutes come out Wednesday."
+   ],
+   "money": [
+    "A rate hike usually lifts savings and CD yields; shop around for the best rate before it lands.",
+    "If you carry a credit card balance, a hike makes it costlier; pay it down or move it to a lower rate now.",
+    "A strong dollar makes foreign trips and imported goods cheaper for Americans."
+   ],
+   "risk": [
+    "Odds can shift quickly with new inflation or jobs data before Dec. 9.",
+    "A strong dollar can hurt profits at big US companies that sell abroad."
+   ],
+   "sources": [
+    {
+     "t": "Live updates: Bitcoin holds near weekend lows as Nasdaq extends decline",
+     "d": "coindesk.com",
+     "u": "https://www.coindesk.com/tech/2026/11/16/live-news-bitcoin-posts-sixth-weekly-loss-as-tech-stocks-and-metals-slide"
+    },
+    {
+     "t": "Treasury Secretary Bessent Urges Fed to Look Past Oil as Quarter-Point Hike Odds Reach 92%",
+     "d": "finance.yahoo.com",
+     "u": "https://finance.yahoo.com/economy/policy/articles/treasury-secretary-bessent-urges-fed-015842583.html"
+    }
+   ]
+  },
+  {
+   "id": "intel-lawsuit-drop-2026111621",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets",
+    "ai"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T21:00:00Z",
+   "headline": "Intel falls about 6% as shareholders sue over its 29% one-day crash",
+   "caption": "A Michigan pension fund says Intel hid how badly a PC slump would hit sales. The suit points to a $23 billion stock sale Intel made mid-quarter.",
+   "visual": {
+    "type": "timeline",
+    "title": "How the Intel suit came together",
+    "items": [
+     {
+      "d": "JUN 30",
+      "t": "Stock peaks at $142.35"
+     },
+     {
+      "d": "AUG",
+      "t": "Intel sells $23B of stock at $95",
+      "s": "during the quarter in question"
+     },
+     {
+      "d": "OCT 30",
+      "t": "Shares crash 28.6%",
+      "s": "about $140B in value erased"
+     },
+     {
+      "d": "NOV 13",
+      "t": "Class action filed in San Jose"
+     },
+     {
+      "d": "NOV 16",
+      "t": "Shares fall about 6%",
+      "now": true
+     }
+    ]
+   },
+   "detail": [
+    "A proposed class action was filed Friday in federal court in San Jose. The lead plaintiff is a Michigan police and fire pension fund. It names Intel, CEO Lip-Bu Tan and CFO David Zinsner.",
+    "The suit says Intel concealed how a long PC sales slowdown and an inventory pile-up would hurt revenue. It covers buyers from July 23 to Oct. 29, 2026.",
+    "It also says Intel raised money in mid-August by selling $23 billion of stock at $95 a share. Intel blamed supply shortages and a memory crunch for weak PC demand. Shares fell about 6% Monday."
+   ],
+   "money": [
+    "If you bought Intel between July 23 and Oct. 29, watch for a class notice; you may be able to join any settlement.",
+    "Class settlements often pay only cents on the dollar, so don't count on one to fix a loss.",
+    "Big one-company bets can swing 30% in a day; a diversified fund spreads that risk."
+   ],
+   "risk": [
+    "Lawsuits can drag on for years and may be dismissed.",
+    "Weak PC demand could keep pressure on Intel's results."
+   ],
+   "sources": [
+    {
+     "t": "Intel Sued By Shareholders Following 29% Stock Plunge",
+     "d": "claimsjournal.com",
+     "u": "https://www.claimsjournal.com/news/national/2026/11/16/341342.htm"
+    },
+    {
+     "t": "Intel shares fall 6% as shareholders sue over October stock plunge",
+     "d": "proactiveinvestors.com",
+     "u": "https://www.proactiveinvestors.com/companies/news/1101859/intel-shares-fall-6-as-shareholders-sue-over-october-stock-plunge-1101859"
+    }
+   ]
+  },
+  {
+   "id": "bank-outage-2026111621",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business",
+    "markets"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T21:00:00Z",
+   "headline": "Chase, Bank of America and Wells Fargo apps hit by outages; Chase says not a hack",
+   "caption": "Thousands of customers reported login and payment problems Monday afternoon. Chase called it a technical issue and said accounts and funds were safe.",
+   "visual": {
+    "type": "board",
+    "title": "Downdetector reports, ~2 p.m. ET",
+    "rows": [
+     {
+      "k": "Chase",
+      "s": "most reported",
+      "v": "5,000+",
+      "tone": "loss"
+     },
+     {
+      "k": "Bank of America",
+      "v": "~1,500",
+      "tone": "loss"
+     },
+     {
+      "k": "Zelle",
+      "v": "Hundreds",
+      "tone": "acc"
+     },
+     {
+      "k": "Wells Fargo",
+      "v": "Hundreds",
+      "tone": "acc"
+     },
+     {
+      "k": "U.S. Bank",
+      "v": "Hundreds",
+      "tone": "acc"
+     }
+    ],
+    "foot": "Citi and Capital One reports also spiked."
+   },
+   "detail": [
+    "Customers at several big banks reported problems with mobile and online banking on Monday afternoon. Chase had more than 5,000 reports on Downdetector by 2 p.m. ET, and Bank of America about 1,500.",
+    "Chase said the problem was technical, not cyber related. It said some transactions were slower than usual, but customers still had access to their accounts and money.",
+    "Bank stocks including JPMorgan, Bank of America, Citi and Wells Fargo were down about 2% at midday. No full cause or fix time was given."
+   ],
+   "money": [
+    "Keep a small cash cushion and a second way to pay, like a card from another bank, for days like this.",
+    "Don't send repeat payments if one seems stuck; check later to avoid paying twice.",
+    "Watch for scam texts posing as your bank during outages; never share login codes."
+   ],
+   "risk": [
+    "Delayed payments could trigger late fees; ask the bank to waive them if the outage caused it.",
+    "Outages raise the risk of phishing scams."
+   ],
+   "sources": [
+    {
+     "t": "Customers Report Outages At Major Banks: Chase, Bank Of America, Wells Fargo Impacted",
+     "d": "forbes.com",
+     "u": "https://www.forbes.com/sites/conormurray/2026/11/16/customers-report-outages-at-major-banks-chase-bank-of-america-wells-fargo-impacted/"
+    },
+    {
+     "t": "Nationwide online service outages hit banks including Chase, BoA",
+     "d": "yahoo.com",
+     "u": "https://www.yahoo.com/news/us/articles/nationwide-online-outages-hit-banks-204915703.html"
+    }
+   ]
+  },
+  {
+   "id": "chatgpt-wallet-2026111621",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "business"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T21:00:00Z",
+   "headline": "OpenAI launches ChatGPT Wallet so AI agents can buy things for you",
+   "caption": "You approve each purchase with Face ID or a fingerprint, and the agent never sees your card number. It starts with US ChatGPT Pro users.",
+   "visual": {
+    "type": "points",
+    "title": "How ChatGPT Wallet works",
+    "items": [
+     "Built with Visa, Mastercard and American Express",
+     "Each purchase needs Face ID or fingerprint approval",
+     "Temporary stand-in card numbers hide your real card",
+     "First for US ChatGPT Pro users via its agent, dots",
+     "Spending-limit permissions planned later"
+    ]
+   },
+   "detail": [
+    "OpenAI launched ChatGPT Wallet, a feature that lets its AI agent make purchases for users. It was built with American Express, Mastercard and Visa.",
+    "Users approve each purchase with Face ID or fingerprint checks. The payment networks create temporary substitute card numbers, so neither the agent nor the store sees the real card.",
+    "The first rollout is limited to US ChatGPT Pro subscribers through dots, OpenAI's personal agent. OpenAI plans to later allow advance approval for buys within set spending limits."
+   ],
+   "money": [
+    "Agents can compare prices for you; use them to find deals, but still check the final total before approving.",
+    "Temporary card numbers can reduce fraud risk if a store's data is hacked.",
+    "Set a budget before letting any app buy things for you, so small purchases don't add up."
+   ],
+   "risk": [
+    "Mistakes by an AI agent could mean returns and disputes; know your card's dispute rights.",
+    "It is new, and rules on who is liable for agent errors are still forming."
+   ],
+   "sources": [
+    {
+     "t": "Everything That Happened in AI Today Monday, November 16",
+     "d": "theneuron.ai",
+     "u": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-monday-november-16-2026/"
+    }
+   ]
+  },
+  {
+   "id": "meituan-longcat-2026111621",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "world"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T21:00:00Z",
+   "headline": "Meituan releases a 1.6-trillion-parameter AI model trained without Nvidia chips",
+   "caption": "The Chinese delivery giant says LongCat-2.5 was trained entirely on Chinese hardware. It's another sign China is building AI around US chip limits.",
+   "visual": {
+    "type": "stat",
+    "title": "Meituan LongCat-2.5",
+    "num": "1.6T",
+    "tone": "acc",
+    "label": "Parameters in the open-weight coding agent model.",
+    "facts": [
+     [
+      "Training chips",
+      "Chinese only",
+      "no Nvidia GPUs"
+     ],
+     [
+      "Sample setup",
+      "194 chips",
+      "Huawei Ascend"
+     ],
+     [
+      "Weights",
+      "Open",
+      "free to download"
+     ]
+    ]
+   },
+   "detail": [
+    "Meituan, best known for food delivery in China, released LongCat-2.5. It's a 1.6-trillion-parameter open-weight model built for coding agents.",
+    "The company says it was trained entirely on Chinese hardware. A sample self-hosted setup needs 194 Huawei Ascend chips.",
+    "The release comes as the US tightens rules to keep advanced AI chips away from Chinese firms, and as Nvidia deals with a leadership crisis."
+   ],
+   "money": [
+    "Strong Chinese models trained without Nvidia are a risk to watch if you own a lot of Nvidia.",
+    "Free open-weight models can cut AI costs for small businesses that can host them.",
+    "A broad tech fund spreads your bet across chip makers instead of one winner."
+   ],
+   "risk": [
+    "Claims about training and performance are hard to verify independently.",
+    "US export rules may limit use of some Chinese AI tools."
+   ],
+   "sources": [
+    {
+     "t": "Everything That Happened in AI Today Monday, November 16",
+     "d": "theneuron.ai",
+     "u": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-monday-november-16-2026/"
+    }
+   ]
+  },
+  {
+   "id": "faa-smart-ai-2026111621",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "business"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T21:00:00Z",
+   "headline": "FAA takes its $875 million AI air traffic tool nationwide after a DC trial",
+   "caption": "The SMART system will expand across the country after its Washington, DC, debut. Human controllers keep the final say, but lawmakers have questioned the pace.",
+   "visual": {
+    "type": "stat",
+    "title": "FAA SMART tool",
+    "num": "$875M",
+    "tone": "acc",
+    "label": "Cost of the AI air traffic tool now rolling out nationwide.",
+    "facts": [
+     [
+      "First used",
+      "Washington, DC",
+      ""
+     ],
+     [
+      "Final authority",
+      "Humans",
+      "controllers decide"
+     ],
+     [
+      "Concern",
+      "Testing pace",
+      "raised by lawmakers"
+     ]
+    ]
+   },
+   "detail": [
+    "The FAA is expanding its $875 million SMART AI tool nationwide after first deploying it in Washington, DC.",
+    "Human air traffic controllers keep final authority over decisions. Some lawmakers have questioned how fast it is being rolled out and how much it was tested.",
+    "The news follows a recent FAA outage that disrupted flights and renewed calls for more air traffic control spending."
+   ],
+   "money": [
+    "Air travel disruptions are costly; travel insurance or a card with trip-delay coverage can help.",
+    "Companies that supply aviation tech could gain from new federal spending; research before investing.",
+    "Book flights early in the day; delays tend to pile up later."
+   ],
+   "risk": [
+    "New systems can bring early glitches and delays.",
+    "Congress could slow the rollout."
+   ],
+   "sources": [
+    {
+     "t": "Everything That Happened in AI Today Monday, November 16",
+     "d": "theneuron.ai",
+     "u": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-monday-november-16-2026/"
+    }
+   ]
+  },
+  {
+   "id": "crypto-etf-weekly-outflow-2026111621",
+   "type": "news",
+   "cat": "crypto",
+   "tags": [
+    "crypto",
+    "markets"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T21:00:00Z",
+   "headline": "Crypto ETFs lose $1.52B in a week; Binance founder CZ says he bought the dip",
+   "caption": "Bitcoin funds made up about 70% of the outflows. CZ said he bought as bitcoin hit about $62,000, but gave no amounts.",
+   "visual": {
+    "type": "board",
+    "title": "Weekly crypto ETF flows",
+    "rows": [
+     {
+      "k": "Bitcoin",
+      "v": "-$1.07B",
+      "tone": "loss"
+     },
+     {
+      "k": "Ether",
+      "v": "-$399M",
+      "tone": "loss"
+     },
+     {
+      "k": "Solana",
+      "v": "-$32M",
+      "tone": "loss"
+     },
+     {
+      "k": "XRP",
+      "v": "-$19M",
+      "tone": "loss"
+     },
+     {
+      "k": "Bitcoin price",
+      "s": "4 p.m. ET",
+      "v": "~$65,000",
+      "tone": "acc"
+     }
+    ],
+    "foot": "Total: about $1.52 billion out."
+   },
+   "detail": [
+    "US spot crypto ETFs saw about $1.52 billion in net outflows last week. Bitcoin funds lost $1.07 billion and ether funds about $399 million.",
+    "Binance founder Changpeng Zhao said he bought crypto during the slide to about $62,000. He denied that Binance sold, but didn't name amounts. He listed ETF outflows, rising prices and the Anthropic IPO as possible reasons for the drop.",
+    "Bitcoin was near $65,000 late Monday, down about 17% in November after a sixth straight weekly loss. Ether was near $1,819."
+   ],
+   "money": [
+    "Big-name 'I bought' claims are not a plan; set your own max amount for crypto.",
+    "If you buy, small regular purchases reduce the risk of bad timing.",
+    "Losses in a taxable account can offset gains; ask about tax-loss harvesting before year-end."
+   ],
+   "risk": [
+    "Outflows can keep pressure on prices for weeks.",
+    "Crypto can fall much further than stocks in a selloff."
+   ],
+   "sources": [
+    {
+     "t": "Crypto ETF Outflows Reach $1.52B as Bitcoin Leads Withdrawals",
+     "d": "kucoin.com",
+     "u": "https://www.kucoin.com/news/flash/crypto-etf-outflows-reach-1-52b-as-bitcoin-leads-withdrawals"
+    },
+    {
+     "t": "CZ Explain Why Crypto is Falling, Says He Bought Crypto",
+     "d": "thecryptobasic.com",
+     "u": "https://thecryptobasic.com/2026/11/16/cz-explain-why-crypto-is-falling-says-he-bought-crypto-and-denies-binance-sold"
+    },
+    {
+     "t": "Live updates: Bitcoin holds near weekend lows",
+     "d": "coindesk.com",
+     "u": "https://www.coindesk.com/tech/2026/11/16/live-news-bitcoin-posts-sixth-weekly-loss-as-tech-stocks-and-metals-slide"
+    }
+   ]
+  },
+  {
+   "id": "us-iran-three-carriers-2026111621",
+   "type": "news",
+   "cat": "world",
+   "tags": [
+    "world",
+    "markets"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T21:00:00Z",
+   "headline": "Third US carrier arrives as US hits Iranian missile sites; Iran threatens Europe bases",
+   "caption": "The USS Theodore Roosevelt makes three US carriers in the Middle East for the first time since the Iraq war. Strikes and tanker attacks widened since Sunday.",
+   "visual": {
+    "type": "timeline",
+    "title": "US-Iran escalation",
+    "items": [
+     {
+      "d": "SUN",
+      "t": "Iran drones target US base in Bahrain",
+      "s": "CENTCOM says no damage"
+     },
+     {
+      "d": "SUN NIGHT",
+      "t": "US hits launchers in southern Iran",
+      "s": "Bandar Lengeh and Sirik"
+     },
+     {
+      "d": "MON",
+      "t": "IRGC claims 6 tankers on fire since Sunday",
+      "s": "unconfirmed"
+     },
+     {
+      "d": "MON",
+      "t": "3rd US carrier arrives",
+      "now": true
+     }
+    ]
+   },
+   "detail": [
+    "The US and Iran traded wider strikes since Sunday. After an Iranian drone attack on a US base in Bahrain, the US hit Iranian missile launchers in Bandar Lengeh and Sirik, a wider area than before.",
+    "The USS Theodore Roosevelt joined two other carrier groups. It's the first time since the Iraq war that the US has three carriers in the region, with about 19 warships total.",
+    "Iran's Revolutionary Guard claims six tankers have caught fire since Sunday, which is unconfirmed. Iranian officials threatened US bases in Europe. Oil still fell Monday, with US crude near $84."
+   ],
+   "money": [
+    "Gas prices are falling for now, but a wider war could reverse that fast; don't lock in big fuel-dependent plans on today's prices.",
+    "Energy and defense stocks often react to escalation; a broad fund avoids betting on headlines.",
+    "Keep an emergency fund; oil shocks can push up prices for many goods."
+   ],
+   "risk": [
+    "A wider war could spike oil and shipping costs.",
+    "Reports from both sides are hard to verify quickly."
+   ],
+   "sources": [
+    {
+     "t": "US and Iran slide closer to fresh all-out war as new exchange of fire increases",
+     "d": "euronews.com",
+     "u": "https://euronews.com/2026/11/16/us-and-iran-slide-closer-to-fresh-all-out-war-as-new-exchange-of-fire-increases"
+    }
+   ]
+  },
+  {
+   "id": "disney-abc-buyouts-2026111621",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business",
+    "markets"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T21:00:00Z",
+   "headline": "ABC News veterans take Disney buyouts as more cuts loom; Disney reports Tuesday",
+   "caption": "Fewer than 20 ABC News staffers took early retirement, per reports. Disney is said to plan thousands more job cuts, likely in January.",
+   "visual": {
+    "type": "timeline",
+    "title": "Disney's 2026 cost cuts",
+    "items": [
+     {
+      "d": "APR",
+      "t": "About 1,000 corporate jobs cut"
+     },
+     {
+      "d": "AUG",
+      "t": "Early retirement offer",
+      "s": "50+ with 10+ years"
+     },
+     {
+      "d": "OCT",
+      "t": "100-200 cut at Disney Experiences"
+     },
+     {
+      "d": "NOV 17",
+      "t": "Earnings call, 8:30 a.m. ET",
+      "now": true
+     },
+     {
+      "d": "JAN",
+      "t": "Next round expected",
+      "s": "per Deadline"
+     }
+    ]
+   },
+   "detail": [
+    "Several longtime ABC News senior staffers took Disney's voluntary early retirement offer. Most worked behind the scenes, and fewer than 20 ABC News people accepted, according to the New York Post.",
+    "The offer went to workers at least 50 years old with 10 or more years at Disney. Disney has cut jobs several times this year, including about 1,000 corporate roles in April.",
+    "Bloomberg reported Disney plans thousands more cuts, with some managers asked to target up to 20% in annual savings. Disney reports full-year results Tuesday at 8:30 a.m. ET."
+   ],
+   "money": [
+    "If you're offered a buyout, compare it to severance you might get in a later layoff before deciding.",
+    "Check how a buyout affects your health coverage and retirement plan before signing.",
+    "Cost cuts can lift profits short term; watch Tuesday's guidance if you own Disney."
+   ],
+   "risk": [
+    "More layoffs could hit Disney workers in early 2027.",
+    "Earnings misses can move the stock sharply."
+   ],
+   "sources": [
+    {
+     "t": "ABC News veterans take Disney buyouts amid 'brain drain' fears",
+     "d": "piratesandprincesses.net",
+     "u": "https://piratesandprincesses.net/abc-news-veterans-take-disney-buyouts-amid-brain-drain-fears/"
+    }
+   ]
+  },
+  {
+   "id": "diesel-under-6-2026111621",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business",
+    "world"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T21:00:00Z",
+   "headline": "New: Diesel drops under $6 for the first time since September; gas average now $3.81",
+   "caption": "Gas fell about 20 cents in a week, and one analyst expects it under $3.72 this week, the lowest since March. Hawaii and California still pay the most.",
+   "visual": {
+    "type": "board",
+    "title": "AAA averages, Nov. 16",
+    "rows": [
+     {
+      "k": "US regular gas",
+      "s": "$4.01 a week ago",
+      "v": "$3.812",
+      "tone": "gain"
+     },
+     {
+      "k": "US diesel",
+      "s": "record $6.52 on Sept. 22",
+      "v": "$5.999",
+      "tone": "gain"
+     },
+     {
+      "k": "Hawaii",
+      "s": "highest",
+      "v": "$5.616",
+      "tone": "loss"
+     },
+     {
+      "k": "California",
+      "v": "$5.566",
+      "tone": "loss"
+     },
+     {
+      "k": "North Carolina",
+      "s": "lowest",
+      "v": "$3.092",
+      "tone": "gain"
+     }
+    ]
+   },
+   "detail": [
+    "New since this morning's update: the national average for regular gas fell to $3.812 a gallon, down from $4.009 a week ago. It's still higher than $3.072 a year ago.",
+    "Diesel slipped to $5.999, under $6 for the first time since September. Its record was $6.52 on Sept. 22.",
+    "GasBuddy's Patrick De Haan expects the national average to fall below $3.72 this week, the lowest since March. Hawaii is highest at $5.616 and California next at $5.566."
+   ],
+   "money": [
+    "Prices are falling, so fill up only what you need now and top off later in the week.",
+    "Use a gas app to compare stations; gaps of 30 cents or more a gallon are common.",
+    "Lower diesel costs can ease shipping and food prices over time."
+   ],
+   "risk": [
+    "Middle East conflict could quickly push prices back up.",
+    "Prices remain well above last year."
+   ],
+   "sources": [
+    {
+     "t": "Gas prices for 11/16/26: Diesel below $6",
+     "d": "yahoo.com",
+     "u": "https://yahoo.com/news/us/articles/gas-prices-11-16-26-173213492.html"
+    }
+   ]
+  },
+  {
+   "id": "snap-five-million-2026111621",
+   "type": "news",
+   "cat": "benefits",
+   "tags": [
+    "benefits",
+    "california",
+    "states"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T21:00:00Z",
+   "headline": "About 5 million have lost SNAP since the 2025 law; San Diego office now hands out food",
+   "caption": "The drop is the fastest in decades and well above federal estimates. San Diego County has 36,000 fewer people on SNAP and is running free grocery events.",
+   "visual": {
+    "type": "board",
+    "title": "SNAP losses since July 2025",
+    "rows": [
+     {
+      "k": "Nationwide",
+      "v": "~5 million",
+      "tone": "loss"
+     },
+     {
+      "k": "Texas",
+      "s": "backlog 175K in Sept.",
+      "v": "700,000+",
+      "tone": "loss"
+     },
+     {
+      "k": "Louisiana",
+      "v": "154,000",
+      "tone": "loss"
+     },
+     {
+      "k": "San Diego County",
+      "v": "36,000",
+      "tone": "loss"
+     },
+     {
+      "k": "Arizona",
+      "s": "steepest drop",
+      "v": "~half of rolls",
+      "tone": "loss"
+     }
+    ]
+   },
+   "detail": [
+    "About five million people have lost SNAP food benefits since the One Big Beautiful Bill passed in July 2025. The law cut funding, tightened eligibility and added new work rules.",
+    "In San Diego County, 36,000 fewer people were on SNAP in September than in July 2025. The county teamed up with food banks to hold free grocery giveaways outside social service offices, reaching over 5,200 people through September.",
+    "Elsewhere, Texas's application backlog grew from 3,700 in January to 175,000 in September. In Louisiana, three-quarters of removals came from paperwork issues like missed forms or interviews."
+   ],
+   "money": [
+    "If you get SNAP, answer every notice and keep copies; many people lose benefits over missing paperwork.",
+    "Food banks and county grocery events can stretch a tight food budget; call 211 to find one.",
+    "If you were cut off, ask your county if you qualify for an exemption to the work rules."
+   ],
+   "risk": [
+    "A new USDA proposal could remove millions more from SNAP.",
+    "Rules vary by state, so check with your local office."
+   ],
+   "sources": [
+    {
+     "t": "As millions lose food aid nationwide, this SNAP office is doubling up as a food pantry",
+     "d": "whro.org",
+     "u": "https://www.whro.org/2026-11-16/as-millions-lose-food-aid-nationwide-this-snap-office-is-doubling-up-as-a-food-pantry"
+    }
+   ]
+  },
+  {
+   "id": "edu-bank-outage-plan-2026111621",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "business"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-16T21:00:00Z",
+   "headline": "Bank app down? A simple backup plan for your money",
+   "caption": "Chase, Bank of America and Wells Fargo apps stumbled Monday. Here's how to stay calm and keep paying bills when tech fails.",
+   "scenes": [
+    {
+     "k": "Today's news",
+     "t": "Big bank apps went down Monday",
+     "s": "Chase said it was a technical issue, not a hack."
+    },
+    {
+     "k": "First fact",
+     "t": "An outage isn't lost money",
+     "s": "Your balance is still recorded, and FDIC insurance covers deposits up to $250,000 per bank."
+    },
+    {
+     "k": "Your backup",
+     "t": "Have a second way to pay",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "Some cash at home",
+       "Card from a 2nd bank",
+       "Bills paid early",
+       "Check later, don't re-send"
+      ]
+     }
+    },
+    {
+     "k": "Avoid double pay",
+     "t": "Don't hit send twice",
+     "s": "A stuck payment may go through later, and a repeat could pay twice."
+    },
+    {
+     "k": "Scam alert",
+     "t": "Outages bring fake bank texts",
+     "s": "Your bank won't ask for your login code by text or call."
+    },
+    {
+     "k": "Takeaway",
+     "t": "Two banks, a little cash, calm",
+     "s": "A small backup turns an outage into a minor hassle."
+    }
+   ]
+  },
+  {
+   "id": "edu-strong-dollar-2026111621",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "markets"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-16T21:00:00Z",
+   "headline": "Strong dollar: who wins and who loses",
+   "caption": "The dollar hit its highest since April 2025 as traders bet on a December rate hike. Here's what that means for your wallet.",
+   "scenes": [
+    {
+     "k": "Today's news",
+     "t": "Dollar at its highest since April 2025",
+     "s": "Traders see a December Fed hike as nearly certain."
+    },
+    {
+     "k": "Why it rises",
+     "t": "Higher rates pull in money",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "Fed may hike",
+       "US savings pay more",
+       "Global money flows in",
+       "Dollar gets stronger"
+      ]
+     }
+    },
+    {
+     "k": "Winners",
+     "t": "Travelers and shoppers",
+     "s": "Foreign trips and imported goods get cheaper for Americans."
+    },
+    {
+     "k": "Losers",
+     "t": "US exporters and global firms",
+     "s": "Their goods cost more abroad, and foreign profits shrink when converted."
+    },
+    {
+     "k": "Your funds",
+     "t": "Foreign stocks feel it too",
+     "s": "A strong dollar can lower returns on international funds for US investors."
+    },
+    {
+     "k": "Takeaway",
+     "t": "Plan trips, don't chase currency",
+     "s": "Use the strong dollar for travel; keep investments diversified."
+    }
+   ]
+  },
   {
    "id": "neocloud-selloff-2026111620",
    "type": "news",
@@ -11241,864 +12142,6 @@
      "u": "https://abc.net.au/news/2026-11-16/asx-markets-business-live-news-nov-16/107388134"
     }
    ]
-  },
-  {
-   "id": "mtn-telkom-talks-2026111608",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business",
-    "world"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T08:20:00Z",
-   "headline": "Africa's MTN in early talks to buy South Africa's Telkom, four years after a failed bid",
-   "caption": "MTN says it has expressed interest in buying all of Telkom's shares. No price has been disclosed, and the deal is not certain.",
-   "visual": {
-    "type": "deals",
-    "title": "MTN's deal moves",
-    "items": [
-     {
-      "a": "MTN",
-      "b": "Telkom SA",
-      "amt": "Undisclosed",
-      "st": "Early talks, no formal offer",
-      "c": "pend"
-     },
-     {
-      "a": "MTN",
-      "b": "IHS Holdings",
-      "amt": "Tower firm",
-      "st": "Expected to close by end of 2026",
-      "c": "pend"
-     },
-     {
-      "a": "MTN",
-      "b": "Telkom SA (2022)",
-      "amt": "—",
-      "st": "Earlier bid collapsed Oct 2022",
-      "c": "bad"
-     }
-    ]
-   },
-   "detail": [
-    "MTN Group said it is in early discussions to buy all of Telkom SA's shares. It called this an expression of interest, not a formal offer.",
-    "Cash is the leading option, though Telkom holders could get MTN shares instead. Telkom is partly owned by South Africa's government. An earlier MTN bid collapsed in October 2022.",
-    "A combined company would become South Africa's largest operator by customers, ahead of Vodacom. Competition regulators would review it."
-   ],
-   "money": [
-    "Early talks often end without a deal. Avoid chasing a target stock on rumors alone.",
-    "Mergers that cut competition can mean higher phone bills, which regulators try to prevent.",
-    "Emerging-market funds may hold both companies. Check your fund's top holdings."
-   ],
-   "risk": [
-    "Regulators could demand spectrum sales or block the deal."
-   ],
-   "sources": [
-    {
-     "t": "MTN in talks to acquire Telkom SA, 4 years after first bid collapsed",
-     "d": "technext24.com",
-     "u": "https://technext24.com/news/mtn-talks-to-acquire-telkom-sa-4-years-after/"
-    }
-   ]
-  },
-  {
-   "id": "gas-below-4-dollars-2026111608",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business",
-    "world"
-   ],
-   "date": "This week",
-   "ts": "2026-11-16T08:20:00Z",
-   "headline": "US gas falls to $3.91 a gallon, under $4 for the first time since August",
-   "caption": "The national average dropped below $4 as oil eased, per AAA. It's still about 92 cents higher than a year ago.",
-   "visual": {
-    "type": "stat",
-    "title": "US regular gas",
-    "num": "$3.91",
-    "tone": "gain",
-    "label": "National average per AAA as of Nov. 11, first time under $4 since early August.",
-    "facts": [
-     [
-      "vs. year ago",
-      "+$0.92",
-      "still much higher"
-     ],
-     [
-      "Lowest state",
-      "$3.23",
-      "North Carolina"
-     ],
-     [
-      "WTI oil",
-      "$87.21",
-      "Nov. 9, from $99.35"
-     ]
-    ]
-   },
-   "detail": [
-    "The national average for regular gas fell to $3.91 a gallon, according to AAA data as of Nov. 11. It's the first time below $4 since early August.",
-    "Prices fell in every state in the first week of November. North Carolina had the lowest average at $3.23. Gas is still about 92 cents higher than a year ago.",
-    "GasBuddy's Patrick De Haan said prices could stay under $4 if oil keeps falling and the Iran conflict doesn't escalate. A switch to cheaper winter gas also helps."
-   ],
-   "money": [
-    "Use a gas price app before Thanksgiving trips. Prices can vary a lot within a few miles.",
-    "Store loyalty and warehouse club programs often cut cents per gallon.",
-    "Don't lock in a fuel prepay deal when prices are falling."
-   ],
-   "risk": [
-    "Any flare-up in the Iran war could push prices back up fast."
-   ],
-   "sources": [
-    {
-     "t": "Gas Prices Drop to $3.91 Ahead of Thanksgiving, But Remain 92 Cents Higher Than Last Year",
-     "d": "finance.yahoo.com",
-     "u": "https://finance.yahoo.com/energy/articles/gas-prices-drop-3-91-170045477.html"
-    }
-   ]
-  },
-  {
-   "id": "appleton-ice-facility-2026111608",
-   "type": "news",
-   "cat": "immigration",
-   "tags": [
-    "immigration",
-    "states"
-   ],
-   "date": "Sat Nov 14",
-   "ts": "2026-11-16T08:20:00Z",
-   "headline": "Minnesota's new ICE detention site draws protests in its first weekend",
-   "caption": "More than 70 people rallied outside the Appleton facility, which opened Nov. 9. The government bought the former prison for $495.6 million.",
-   "visual": {
-    "type": "stat",
-    "title": "Appleton ICE facility",
-    "num": "1,600",
-    "tone": "acc",
-    "label": "Beds the former private prison in western Minnesota can hold.",
-    "facts": [
-     [
-      "Purchase price",
-      "$495.6M",
-      "paid to CoreCivic"
-     ],
-     [
-      "CoreCivic revenue",
-      "~$75M/yr",
-      "5-year contract"
-     ],
-     [
-      "Opened",
-      "Nov. 9",
-      "vacant since 2010"
-     ]
-    ]
-   },
-   "detail": [
-    "The Department of Homeland Security opened a detention facility in Appleton, Minnesota, on Nov. 9. The former prison can hold up to 1,600 detainees and had been empty since 2010.",
-    "CoreCivic sold the site to the federal government for $495.6 million and expects about $75 million a year under a five-year contract. DHS said the site gives ICE capacity right away without new construction.",
-    "On Saturday, more than 70 people attended a prayer vigil and rally organized by a local group. A local attorney believes more than 70 people are being held there."
-   ],
-   "money": [
-    "Private prison companies earn revenue from federal detention contracts. Their stocks react to policy shifts.",
-    "Detention sites can bring jobs to small towns, but contracts can change with new policies.",
-    "Taxpayer costs for detention are set by Congress. Watch budget debates if this matters to you."
-   ],
-   "risk": [
-    "Policy and funding for detention could change after the new Congress takes office."
-   ],
-   "sources": [
-    {
-     "t": "Appleton ICE detention facility draws dozens of protesters in first weekend of operation",
-     "d": "mprnews.org",
-     "u": "https://www.mprnews.org/story/2026/11/15/appleton-ice-detention-facility-draws-protests-in-first-weekend-of-operation"
-    },
-    {
-     "t": "ICE facility opens in Appleton, Minn. to 'carry out mass deportation mandate'",
-     "d": "fox9.com",
-     "u": "https://www.fox9.com/news/ice-facility-opens-appleton-minn-carry-out-mass-deportation-mandate"
-    }
-   ]
-  },
-  {
-   "id": "crypto-fear-index-10-2026111608",
-   "type": "news",
-   "cat": "crypto",
-   "tags": [
-    "crypto",
-    "markets"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T08:20:00Z",
-   "headline": "Crypto fear gauge stuck at 10, 'extreme fear,' as bitcoin hovers near $65,000",
-   "caption": "The Fear and Greed index sat at 10 for a second day, down from 55 a month ago. Total crypto value is about $2.27 trillion.",
-   "visual": {
-    "type": "board",
-    "title": "Crypto snapshot, Nov 16 (4am UTC)",
-    "rows": [
-     {
-      "k": "Fear & Greed",
-      "s": "was 55 a month ago",
-      "v": "10",
-      "tone": "loss"
-     },
-     {
-      "k": "Bitcoin",
-      "v": "$65,019",
-      "ch": 0.1
-     },
-     {
-      "k": "Ether",
-      "v": "$1,825",
-      "ch": 0.4
-     },
-     {
-      "k": "Solana",
-      "v": "$71.81",
-      "ch": 0.8
-     },
-     {
-      "k": "Total market",
-      "v": "$2.27T",
-      "ch": -0.8,
-      "tone": "loss"
-     }
-    ],
-    "foot": "Bitcoin dominance: 57.6%"
-   },
-   "detail": [
-    "The crypto Fear and Greed index read 10, or extreme fear, on Monday, the same as Sunday. A week ago it was 29, and a month ago it showed greed at 55.",
-    "Bitcoin traded near $65,000 and ether near $1,825, both roughly flat. The total crypto market was worth about $2.27 trillion, down 0.8% in a day. Stablecoins totaled about $284 billion.",
-    "Traders are watching a Fed speech, Nvidia's results and Fed minutes this week. Markets see about a 90% chance of another Fed rate hike this year."
-   ],
-   "money": [
-    "Extreme fear readings have marked bottoms before, but not always. Don't treat one number as a buy signal.",
-    "If you buy, small regular amounts reduce the risk of bad timing.",
-    "Only put in crypto money you can afford to see drop by half."
-   ],
-   "risk": [
-    "Fear can deepen further if stocks fall after Nvidia's report."
-   ],
-   "sources": [
-    {
-     "t": "Crypto News: Bitcoin at $65K, Fear Index Hits 10, Fed Rate Hike Looms",
-     "d": "coingabbar.com",
-     "u": "https://www.coingabbar.com/en/crypto-news-nov-16-bitcoin-eth-price-fear-index-crypto-events"
-    }
-   ]
-  },
-  {
-   "id": "aster-swing-brazil-stablecoin-2026111608",
-   "type": "news",
-   "cat": "crypto",
-   "tags": [
-    "crypto"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T08:20:00Z",
-   "headline": "ASTER whipsaws 32% in a day; Brazil warns on stablecoin transfers",
-   "caption": "ASTER spiked to $0.71 then dropped to about $0.48, and its CEO blamed leveraged liquidations. In Brazil, an official warned stablecoin funds can be flagged.",
-   "visual": {
-    "type": "vs",
-    "title": "ASTER's round trip",
-    "a": [
-     "High",
-     "$0.7124",
-     1,
-     "gain"
-    ],
-    "b": [
-     "Later",
-     "$0.4812",
-     0.68,
-     "loss"
-    ],
-    "foot": "About a 32% drop from the peak"
-   },
-   "detail": [
-    "The ASTER token surged to $0.7124 and then fell to about $0.4812, a 32% drop. Its CEO blamed leveraged liquidations and possible malicious activity, and promised a full report.",
-    "In Brazil, a central bank official said funds converted through stablecoins can be flagged as possible money laundering. A rule in effect since Oct. 1 bans fintech stablecoin routes for sending money abroad.",
-    "Elsewhere, the token AKE fell about 15% in a day after a large supply unlock."
-   ],
-   "money": [
-    "Small tokens with heavy borrowing can swing 30% in hours. Avoid leverage on them.",
-    "If you send money abroad, use regulated services and keep records of each transfer.",
-    "Waiting for a project's incident report before buying a crash can save you from a second drop."
-   ],
-   "risk": [
-    "Exchanges can freeze or limit trading during disputed price moves."
-   ],
-   "sources": [
-    {
-     "t": "Crypto News: Bitcoin at $65K, Fear Index Hits 10, Fed Rate Hike Looms",
-     "d": "coingabbar.com",
-     "u": "https://www.coingabbar.com/en/crypto-news-nov-16-bitcoin-eth-price-fear-index-crypto-events"
-    }
-   ]
-  },
-  {
-   "id": "nvidia-investors-huang-letter-2026111608",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "markets"
-   ],
-   "date": "Fri Nov 13",
-   "ts": "2026-11-16T08:20:00Z",
-   "headline": "Nvidia investors holding $2.1B urge the board to keep the door open for Huang",
-   "caption": "Altimeter's Brad Gerstner and Atreides' Gavin Baker asked Nvidia's board to go slow on a permanent CEO search. They didn't demand Huang's return.",
-   "visual": {
-    "type": "timeline",
-    "title": "Nvidia's CEO week",
-    "items": [
-     {
-      "d": "LAST WEEK",
-      "t": "Jensen Huang resigns",
-      "s": "Colette Kress is interim CEO"
-     },
-     {
-      "d": "NOV 13",
-      "t": "Big holders send letter",
-      "s": "Keep a Huang return possible"
-     },
-     {
-      "d": "NOV 17",
-      "t": "Q3 results",
-      "s": "First call led by Kress",
-      "now": true
-     }
-    ]
-   },
-   "detail": [
-    "Two big Nvidia investors, Altimeter Capital's Brad Gerstner and Atreides Management's Gavin Baker, sent a letter to the board. Together they hold about $2.1 billion in Nvidia stock.",
-    "They urged the board to move slowly on picking a permanent CEO and to keep a possible return by Jensen Huang on the table. They stopped short of demanding he be reinstated.",
-    "Nvidia reports quarterly results Tuesday, the first call led by interim CEO Colette Kress. Nvidia's market value has dropped from about $5.8 trillion in early October to $3.9 trillion."
-   ],
-   "money": [
-    "Leadership doubts can weigh on a stock even when the business is strong. Watch the guidance, not just the headline numbers.",
-    "Most S&P 500 index funds hold a lot of Nvidia. Your retirement account likely feels these swings.",
-    "Options get pricier before earnings. Buying them now means paying for that uncertainty."
-   ],
-   "risk": [
-    "A messy succession could keep pressure on the shares for months."
-   ],
-   "sources": [
-    {
-     "t": "AI Frontier Daily, Nov 15, 2026",
-     "d": "kellyabbott1.substack.com",
-     "u": "https://kellyabbott1.substack.com/p/ai-frontier-daily-2026-11-15"
-    },
-    {
-     "t": "Nvidia investors letter on Jensen Huang return",
-     "d": "cnbc.com",
-     "u": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html"
-    },
-    {
-     "t": "ASX falls as miners drag, Coles investigates cybersecurity incident — as it happened",
-     "d": "abc.net.au",
-     "u": "https://abc.net.au/news/2026-11-16/asx-markets-business-live-news-nov-16/107388134"
-    }
-   ]
-  },
-  {
-   "id": "lg-kiria-humanoid-cert-2026111608",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "business"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T08:20:00Z",
-   "headline": "LG teams with a Korean robot agency to build safety certification for humanoids",
-   "caption": "LG signed a deal with KIRIA to set safety and reliability standards for humanoid robots. It aims to show a two-legged robot in early 2027.",
-   "visual": {
-    "type": "timeline",
-    "title": "LG's humanoid plan",
-    "items": [
-     {
-      "d": "NOV 16",
-      "t": "MoU with KIRIA",
-      "s": "Safety, reliability, usability certification",
-      "now": true
-     },
-     {
-      "d": "BEFORE LAUNCH",
-      "t": "Pilot certification",
-      "s": "LG plans to go first"
-     },
-     {
-      "d": "Q1 2027",
-      "t": "Bipedal robot unveiling",
-      "s": "Built on Nvidia's reference platform"
-     }
-    ]
-   },
-   "detail": [
-    "LG Electronics signed a memorandum of understanding with KIRIA, a Korean robot industry agency. The goal is to create certification for humanoid robot safety, reliability and usability.",
-    "LG will seek a pilot certification before unveiling a two-legged robot in the first quarter of 2027. The robot is built on Nvidia's reference platform.",
-    "Separately, Swiss startup Embodied AI unveiled AIR, a wheeled humanoid without legs. It reports 98% reliability handling cables on live factory lines."
-   ],
-   "money": [
-    "Safety certification is often what lets new tech reach homes and offices at scale.",
-    "Robotics ETFs bundle many of these firms. They can be volatile, so keep positions small.",
-    "Factory robots could lower some product costs over time, but expect a slow rollout."
-   ],
-   "risk": [
-    "Humanoid robots remain early, and many startups are burning cash."
-   ],
-   "sources": [
-    {
-     "t": "Market News — Monday 16 November 2026",
-     "d": "hervecuviliez.substack.com",
-     "u": "https://hervecuviliez.substack.com/p/market-news-monday-16-november-2026"
-    },
-    {
-     "t": "Embodied AI AIR humanoid robot for factory tasks",
-     "d": "theroboticsmedia.com",
-     "u": "https://theroboticsmedia.com/article/embodied-ai-air-humanoid-robot-factory-tasks"
-    }
-   ]
-  },
-  {
-   "id": "mount-thor-mac-datacenters-2026111608",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "business"
-   ],
-   "date": "This week",
-   "ts": "2026-11-16T08:20:00Z",
-   "headline": "Startup Mount Thor raises $45M to build Mac data centers for AI agents",
-   "caption": "The company runs Apple-silicon Macs at data-center scale for AI agents. CRV and Conviction co-led its Series A.",
-   "visual": {
-    "type": "deals",
-    "title": "AI funding this week",
-    "items": [
-     {
-      "a": "Mount Thor",
-      "b": "Mac data centers for agents",
-      "amt": "$45M",
-      "st": "Seed + Series A",
-      "c": "ok"
-     },
-     {
-      "a": "Mosaico (Italy)",
-      "b": "Robot training data tools",
-      "amt": "€7.5M",
-      "st": "Seed",
-      "c": "ok"
-     }
-    ]
-   },
-   "detail": [
-    "Mount Thor raised $45 million across seed and Series A rounds. CRV and Conviction co-led the Series A, and Chad Byers and Offline Ventures co-led the seed.",
-    "The startup builds data centers out of Apple-silicon Macs so AI agents can use Apple's operating system at scale. Its founder is a former OpenAI staffer.",
-    "Also this week, Italian robotics startup Mosaico raised a €7.5 million seed round for managing sensor data used to train robot AI models."
-   ],
-   "money": [
-    "New cloud options can push down prices for developers who rent computing power.",
-    "Startup funding news hints at where big money sees growth, but you can't buy these shares directly.",
-    "If you build apps, compare Mac cloud costs against buying your own hardware."
-   ],
-   "risk": [
-    "Early-stage startups often fail; funding isn't proof of a working business."
-   ],
-   "sources": [
-    {
-     "t": "Market News — Monday 16 November 2026",
-     "d": "hervecuviliez.substack.com",
-     "u": "https://hervecuviliez.substack.com/p/market-news-monday-16-november-2026"
-    },
-    {
-     "t": "Why a former OpenAI alumnus is building Mac data centres for AI agents",
-     "d": "techradar.com",
-     "u": "https://www.techradar.com/pro/making-apples-operating-system-and-silicon-available-at-datacenter-scale-is-a-massive-untapped-opportunity-in-ai-infrastructure-why-a-former-openai-alumnus-is-building-mac-data-centres-for-ai-agents"
-    }
-   ]
-  },
-  {
-   "id": "indiana-october-revenue-beat-2026111608",
-   "type": "news",
-   "cat": "states",
-   "tags": [
-    "states",
-    "taxes"
-   ],
-   "date": "Sun Nov 15",
-   "ts": "2026-11-16T08:20:00Z",
-   "headline": "Indiana's tax collections beat estimates again, topping $1.6 billion in October",
-   "caption": "Indiana's general fund took in more than $1.6 billion last month. That was above the state's latest forecast.",
-   "visual": {
-    "type": "stat",
-    "title": "Indiana general fund",
-    "num": "$1.6B+",
-    "tone": "gain",
-    "label": "October 2026 revenue, above the most recent estimates.",
-    "facts": [
-     [
-      "Month",
-      "October",
-      "2026"
-     ],
-     [
-      "vs. forecast",
-      "Above",
-      "amount not given"
-     ],
-     [
-      "Source",
-      "State Budget Agency",
-      ""
-     ]
-    ]
-   },
-   "detail": [
-    "Indiana's general fund revenue totaled more than $1.6 billion in October, the State Budget Agency said.",
-    "Collections came in above the most recent estimates, continuing a pattern of revenue beating projections. The agency did not give the exact amount of the beat in the report.",
-    "Strong collections give lawmakers more room when they write budgets and debate tax cuts."
-   ],
-   "money": [
-    "When state revenue beats forecasts, tax cuts or rebates often enter the debate. Follow your legislature.",
-    "Rising collections can reflect higher wages and spending, not just higher rates.",
-    "Check whether your state offers credits you can claim when you file next year."
-   ],
-   "risk": [
-    "One strong month doesn't guarantee the full year; forecasts can be revised down."
-   ],
-   "sources": [
-    {
-     "t": "State revenues once again beat projections",
-     "d": "insideindianabusiness.com",
-     "u": "https://www.insideindianabusiness.com/articles/state-revenues-once-again-beat-projections"
-    }
-   ]
-  },
-  {
-   "id": "edu-takeover-bid-rejected-2026111608",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "business"
-   ],
-   "date": "Explainer",
-   "ts": "2026-11-16T08:20:00Z",
-   "headline": "A board rejected a buyout. What that means for shareholders",
-   "caption": "IDP Education turned down Blackstone three times. Here's how takeover bids work and why the stock often trades below the offer.",
-   "scenes": [
-    {
-     "k": "TODAY'S NEWS",
-     "t": "IDP said no to A$3.00 a share",
-     "s": "It was Blackstone's third offer."
-    },
-    {
-     "k": "THE BASICS",
-     "t": "A buyer offers cash for every share",
-     "s": "The board decides whether to recommend it."
-    },
-    {
-     "k": "THE LADDER",
-     "t": "Each 'no' pushed the price up",
-     "viz": {
-      "type": "flow",
-      "items": [
-       "A$2.30",
-       "A$2.50",
-       "A$3.00",
-       "Next?"
-      ]
-     },
-     "say": "The offers went from two dollars thirty, to two fifty, to three dollars."
-    },
-    {
-     "k": "THE GAP",
-     "t": "Shares closed at A$2.57 before this",
-     "s": "The gap below the offer shows doubt the deal will happen."
-    },
-    {
-     "k": "THE RISK",
-     "t": "If the buyer walks, prices can fall",
-     "s": "Buying only for a buyout is a bet, not a sure thing."
-    },
-    {
-     "k": "YOUR MOVE",
-     "t": "Own it for the business, not the rumor",
-     "s": "Ask if you'd still want the stock with no deal."
-    }
-   ]
-  },
-  {
-   "id": "edu-fear-greed-index-2026111608",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "crypto"
-   ],
-   "date": "Explainer",
-   "ts": "2026-11-16T08:20:00Z",
-   "headline": "Crypto's fear gauge hit 10. How to read it",
-   "caption": "The Fear and Greed index is at extreme fear. It measures mood, not value, so use it with care.",
-   "scenes": [
-    {
-     "k": "TODAY'S NUMBER",
-     "t": "Fear and Greed: 10 out of 100",
-     "s": "That's extreme fear, two days running."
-    },
-    {
-     "k": "WHAT IT IS",
-     "t": "A score of market mood",
-     "s": "It blends price swings, momentum and trading activity."
-    },
-    {
-     "k": "HOW FAST",
-     "t": "From greed to fear in a month",
-     "viz": {
-      "type": "split",
-      "items": [
-       [
-        "Month ago",
-        "55"
-       ],
-       [
-        "Week ago",
-        "29"
-       ],
-       [
-        "Today",
-        "10",
-        "wide"
-       ]
-      ]
-     },
-     "say": "It was fifty-five a month ago, twenty-nine a week ago, and ten today."
-    },
-    {
-     "k": "THE TEMPTATION",
-     "t": "Fear can mean bargains",
-     "s": "Some bottoms came during extreme fear, but fear can last."
-    },
-    {
-     "k": "A STEADIER WAY",
-     "t": "Buy small amounts on a schedule",
-     "viz": {
-      "type": "dca",
-      "cols": [
-       [
-        50,
-        "2"
-       ],
-       [
-        40,
-        "2.5"
-       ],
-       [
-        25,
-        "4"
-       ],
-       [
-        50,
-        "2"
-       ]
-      ]
-     },
-     "say": "Investing the same amount each time buys more when prices are low."
-    },
-    {
-     "k": "YOUR MOVE",
-     "t": "Mood is a clue, not a plan",
-     "s": "Set your amount first, and only risk what you can lose."
-    }
-   ]
-  },
-  {
-   "id": "fed-hawks-more-hikes-2026111607",
-   "type": "news",
-   "cat": "markets",
-   "tags": [
-    "markets",
-    "politics"
-   ],
-   "date": "Fri Nov 13 - Sun Nov 15",
-   "headline": "Fed officials lean toward more rate hikes; a quarter-point move expected Dec. 9",
-   "caption": "Boston Fed chief Susan Collins says policy may need to get tighter than she thought. Vice Chair Jefferson says inflation is now the signal he watches most.",
-   "visual": {
-    "type": "board",
-    "title": "Where the Fed stands",
-    "rows": [
-     {
-      "k": "Fed funds rate",
-      "v": "3.75-4.00%",
-      "tone": "acc"
-     },
-     {
-      "k": "Next meeting",
-      "s": "quarter-point hike widely expected",
-      "v": "Dec 8-9"
-     },
-     {
-      "k": "October vote",
-      "s": "majority chose to wait",
-      "v": "10-2"
-     },
-     {
-      "k": "10-year Treasury",
-      "v": "5.14%",
-      "tone": "loss"
-     },
-     {
-      "k": "Waller floated",
-      "s": "earlier last week",
-      "v": "0.50% hike"
-     }
-    ],
-    "foot": "Fed minutes from October land this week"
-   },
-   "detail": [
-    "Boston Fed President Susan Collins said on Friday that recent inflation data is worrying and that price pressures are spreading. She said a tighter path than she expected a couple of months ago may now be right, and later called for a steady, gradual pace of hikes.",
-    "Fed Vice Chair Philip Jefferson said the economy is growing and hiring has stabilized, so inflation is now his main guide. Kansas City Fed President Jeffrey Schmid also said inflation is running too hot.",
-    "The Fed's benchmark rate sits at 3.75% to 4.00% after a September hike. Markets widely expect another quarter-point increase at the Dec. 8-9 meeting, and some expect one more in January."
-   ],
-   "money": [
-    "Credit card and HELOC rates usually follow Fed hikes within a billing cycle or two, so paying down variable-rate debt now can save money.",
-    "High-yield savings and short-term Treasury yields tend to rise with hikes; compare your bank's rate to what's available.",
-    "If you plan to lock a mortgage or car loan soon, rate shopping before mid-December may help, since the 10-year yield is already above 5%."
-   ],
-   "risk": [
-    "Fed plans can shift quickly if new inflation or jobs data surprises.",
-    "Higher rates can weigh on stock prices, especially high-growth tech."
-   ],
-   "sources": [
-    {
-     "t": "Fed's Collins says more rate hikes are coming, reports",
-     "d": "brecorder.com",
-     "u": "https://www.brecorder.com/news/40448787/feds-collins-says-more-rate-hikes-are-coming-reports"
-    },
-    {
-     "t": "Fed's Jefferson says he is taking his policy cues from inflation",
-     "d": "aol.com",
-     "u": "https://www.aol.com/articles/feds-jefferson-says-taking-policy-000319000.html"
-    },
-    {
-     "t": "Newsquawk Daily European Opening News - 16th November 2026",
-     "d": "newsquawk.com",
-     "u": "https://www.newsquawk.com/headlines/newsquawk-daily-european-opening-news---16th-november-2026"
-    }
-   ],
-   "ts": "2026-11-16T07:20:00Z"
-  },
-  {
-   "id": "vulcan-fails-amazon-leo-2026111607",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business",
-    "ai"
-   ],
-   "date": "Sun Nov 15",
-   "headline": "ULA's Vulcan rocket fails for the first time, destroying 40 Amazon Leo satellites",
-   "caption": "The rocket hit trouble about 10 minutes after launch from Cape Canaveral. It is ULA's first total failure since 2006 and a setback for Amazon's satellite internet plans.",
-   "visual": {
-    "type": "stat",
-    "title": "Amazon Leo setback",
-    "num": "40",
-    "tone": "loss",
-    "label": "Satellites lost on Vulcan's return-to-flight launch.",
-    "facts": [
-     [
-      "Would-be total",
-      "436",
-      "launched satellites after this flight"
-     ],
-     [
-      "Needed",
-      "3,300+",
-      "for the full network"
-     ],
-     [
-      "Vulcan flights booked",
-      "38",
-      "this was the first"
-     ]
-    ]
-   },
-   "detail": [
-    "United Launch Alliance's Vulcan lifted off Sunday at 12:40 p.m. EST and suffered an anomaly about 10 minutes into flight, failing to reach orbit. Early telemetry suggested problems around the upper stage's burn, but the cause is not yet public.",
-    "It was Vulcan's first flight in nine months and ULA's first outright rocket failure since the company formed in 2006. A long grounding is possible.",
-    "Amazon has booked 38 Vulcan launches plus flights on Blue Origin's New Glenn, Ariane 6 and SpaceX's Falcon 9. New Glenn is also still waiting to return to flight after a May pad explosion."
-   ],
-   "money": [
-    "Delays to Amazon Leo could slow new competition for home internet; don't cancel a current plan expecting a cheap satellite option soon.",
-    "Launch failures can shift business toward SpaceX; investors tracking space stocks may see sentiment swing on this news.",
-    "Big setbacks like this often show up in suppliers' earnings later, so watch guidance from engine and launch partners."
-   ],
-   "risk": [
-    "The cause is unknown, so the length of any grounding is uncertain."
-   ],
-   "sources": [
-    {
-     "t": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites",
-     "d": "spaceflightnow.com",
-     "u": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/"
-    }
-   ],
-   "ts": "2026-11-16T07:20:00Z"
-  },
-  {
-   "id": "qualcomm-layoffs-begin-2026111607",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business",
-    "ai"
-   ],
-   "date": "This week",
-   "headline": "Qualcomm starts worldwide layoffs after performance reviews; California cuts expected",
-   "caption": "Workers in India began getting termination notices around Nov. 9. Qualcomm hasn't said how many jobs will go worldwide.",
-   "visual": {
-    "type": "timeline",
-    "title": "Qualcomm job cuts",
-    "items": [
-     {
-      "d": "OCT",
-      "t": "Company says it will trim staff",
-      "s": "after annual reviews"
-     },
-     {
-      "d": "NOV 9",
-      "t": "Notices start in Bengaluru, Hyderabad"
-     },
-     {
-      "d": "NOV 13",
-      "t": "More cuts expected in California",
-      "now": true
-     }
-    ]
-   },
-   "detail": [
-    "Qualcomm has begun layoffs that follow its annual performance reviews. Reports say employees in Bengaluru and Hyderabad started receiving notices around Nov. 9, with more cuts expected in California, where the chipmaker is based.",
-    "CEO Cristiano Amon has framed the reduction as performance-based, meant to match staff skills with business priorities. Some reports said about 1,000 jobs in India could be affected, but that figure is unconfirmed and disputed."
-   ],
-   "money": [
-    "If you work in tech, check your severance terms and whether your state requires advance layoff notice.",
-    "Keep 3-6 months of expenses in cash if your industry is cutting; it buys time to find the right next job.",
-    "Laid-off workers in California can file for unemployment right away; waiting can cost weeks of benefits."
-   ],
-   "risk": [
-    "The total number of cuts is not public yet, so the scale could be larger or smaller than reported."
-   ],
-   "sources": [
-    {
-     "t": "Qualcomm Begins November 2026 Layoffs After Performance Reviews",
-     "d": "stlawyers.ca",
-     "u": "https://stlawyers.ca/blog-news/qualcomm-november-2026-job-cuts"
-    }
-   ],
-   "ts": "2026-11-16T07:20:00Z"
   }
  ]
 }
