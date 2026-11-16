@@ -1,6 +1,967 @@
 {
- "updated": "2026-11-16T19:00:00Z",
+ "updated": "2026-11-16T20:00:00Z",
  "items": [
+  {
+   "id": "neocloud-selloff-2026111620",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "markets"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T20:00:00Z",
+   "headline": "AI cloud stocks slide: IREN -7%, Nebius -6%, CoreWeave -4% on funding worries",
+   "caption": "Companies that rent out Nvidia chips fell hard as Nvidia's leadership turmoil raised questions about who pays for their data centers. Several are down 20% to 45% in a month.",
+   "visual": {
+    "type": "stat",
+    "title": "Neocloud stocks at Monday's open",
+    "num": "-7%",
+    "tone": "loss",
+    "label": "IREN led the drop; it is down about 45% in a month.",
+    "rows": [
+     [
+      "IREN",
+      -7
+     ],
+     [
+      "Nebius",
+      -6
+     ],
+     [
+      "CoreWeave",
+      -4
+     ]
+    ]
+   },
+   "detail": [
+    "So-called neoclouds rent AI computing power built on Nvidia chips. They fell Monday as tech was the weakest sector, down about 2%, and money rotated out of AI and chip stocks.",
+    "The worry is funding. IREN's net debt jumped to about $4.43 billion from $216 million in one quarter, and it has a funding gap of roughly $6 billion. Nebius raised its 2026 spending plan to about $27 billion.",
+    "CoreWeave's revenue grew 168% to $3.66 billion last quarter, but its quarterly interest bill was $846 million. Nvidia's role in financing some of these build-outs is why its turmoil hits them."
+   ],
+   "money": [
+    "Check if your tech fund holds these names; high-debt growth stocks can swing far more than the index.",
+    "Big backlogs are not cash; look at debt and interest costs before buying a fast grower.",
+    "If you want AI exposure with less risk, a broad index fund spreads it across many companies."
+   ],
+   "risk": [
+    "Nvidia's earnings Tuesday could move these stocks sharply either way.",
+    "Prices quoted are from the open and may have changed during the day."
+   ],
+   "sources": [
+    {
+     "t": "IREN Drops 7% as NVIDIA Turmoil and Financing Worries Hit Neocloud Stocks",
+     "d": "247wallst.com",
+     "u": "https://247wallst.com/investing/2026/11/16/iren-drops-7-as-nvidia-turmoil-and-financing-worries-hit-neocloud-stocks-nebius-falls-6-coreweave-slides-4/"
+    }
+   ]
+  },
+  {
+   "id": "childrens-place-ch11-2026111620",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T20:00:00Z",
+   "headline": "The Children's Place files for Chapter 11; 732 New Jersey jobs to be cut",
+   "caption": "The kids' clothing chain filed for bankruptcy in New Jersey and plans to sell nearly all its assets. A state notice lists 732 layoffs by February 2027.",
+   "visual": {
+    "type": "board",
+    "title": "The Children's Place filing",
+    "rows": [
+     {
+      "k": "North America stores",
+      "v": "498"
+     },
+     {
+      "k": "US stores",
+      "v": "436"
+     },
+     {
+      "k": "NJ layoffs (WARN)",
+      "s": "by Feb 2027",
+      "v": "732",
+      "tone": "loss"
+     },
+     {
+      "k": "Global staff (Jan)",
+      "s": "~5,300 part-time",
+      "v": "7,800"
+     }
+    ],
+    "foot": "Company plans a sale of substantially all assets."
+   },
+   "detail": [
+    "The Children's Place filed for Chapter 11 protection in federal bankruptcy court in New Jersey, where it is based.",
+    "A New Jersey layoff notice covers 732 workers in 14 counties, with job losses expected by February 2027. The company did not say which stores will be affected.",
+    "It does not own its stores and says it will seek to sell substantially all of its assets through a market process."
+   ],
+   "money": [
+    "Use any gift cards or store credit soon; bankrupt retailers can change or end those policies.",
+    "Watch for liquidation sales, but compare prices; early 'closing' discounts are often small.",
+    "Affected workers in NJ can check WARN notice timing to plan job searches and unemployment claims."
+   ],
+   "risk": [
+    "The article does not say how gift cards or returns will be handled.",
+    "Store closures and timing are not yet announced."
+   ],
+   "sources": [
+    {
+     "t": "The Children's Place Files for Bankruptcy, Set to Lay Off 700+ Workers in New Jersey",
+     "d": "jerseydigs.com",
+     "u": "https://jerseydigs.com/the-childrens-place-files-for-bankruptcy/"
+    }
+   ]
+  },
+  {
+   "id": "jnj-ollin-2026111620",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business",
+    "markets"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T20:00:00Z",
+   "headline": "J&J buys eye-drug maker Ollin for $2.2B upfront; Blackstone chips in $750M",
+   "caption": "Johnson & Johnson adds a late-stage drug for wet AMD and diabetic eye swelling. Blackstone will help pay for the final trials in exchange for royalties.",
+   "visual": {
+    "type": "deals",
+    "title": "Monday's pharma deals",
+    "items": [
+     {
+      "a": "J&J",
+      "b": "Ollin Biosciences",
+      "amt": "$2.2B",
+      "st": "+ up to ~$1.1B milestones",
+      "c": "pend"
+     },
+     {
+      "a": "Blackstone",
+      "b": "OLN324 trial funding",
+      "amt": "$750M",
+      "st": "for royalties",
+      "c": "ok"
+     },
+     {
+      "a": "Sanofi",
+      "b": "Seawolf Therapeutics",
+      "amt": "$1.2B",
+      "st": "milestones max",
+      "c": "ok"
+     },
+     {
+      "a": "Novartis",
+      "b": "OBI Pharma",
+      "amt": "$30M",
+      "st": "upfront; $2B+ potential",
+      "c": "ok"
+     }
+    ]
+   },
+   "detail": [
+    "J&J agreed to buy Ollin Biosciences for $2.2 billion upfront plus up to about $1.125 billion in milestones. The prize is OLN324, a Phase 3 drug for wet age-related macular degeneration and diabetic macular edema.",
+    "Blackstone will pay J&J $750 million over several years to fund the Phase 3 program, and gets milestone payments and single-digit royalties back. The deal should close before year-end.",
+    "Novartis and Sanofi also signed licensing deals Monday worth up to $2 billion and $1.2 billion."
+   ],
+   "money": [
+    "Big pharma keeps buying late-stage drugs; health care funds can benefit from steady deal flow.",
+    "Milestone payments are 'maybe' money; value deals on the upfront cash.",
+    "Royalty deals like Blackstone's show private funds chasing drug income, a theme in some alternatives funds."
+   ],
+   "risk": [
+    "Phase 3 drugs can still fail, as Monday's FDA rejection of another drug showed.",
+    "Deal still needs to close."
+   ],
+   "sources": [
+    {
+     "t": "Deals Roundup: J&J Buys Ollin, Lilly Adds Calytrix, and Novartis and Sanofi Strike Platform Pacts",
+     "d": "biopharminternational.com",
+     "u": "https://www.biopharminternational.com/view/deals-roundup-j-j-buys-ollin-lilly-adds-calytrix-and-novartis-and-sanofi-strike-platform-pacts"
+    }
+   ]
+  },
+  {
+   "id": "cumulus-layoffs-2026111620",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T20:00:00Z",
+   "headline": "Cumulus Media cuts radio staff in about 23 markets, weeks after leaving bankruptcy",
+   "caption": "The radio giant's second layoff round of 2026 hit cities from Atlanta to Minneapolis, plus its Westwood One network. The total number is not known.",
+   "visual": {
+    "type": "timeline",
+    "title": "Cumulus in 2026",
+    "items": [
+     {
+      "d": "AUG",
+      "t": "First layoff round"
+     },
+     {
+      "d": "OCT",
+      "t": "Exits Chapter 11",
+      "s": "FCC approval received"
+     },
+     {
+      "d": "NOV 16",
+      "t": "Second round reported",
+      "s": "~23 markets",
+      "now": true
+     }
+    ]
+   },
+   "detail": [
+    "Cumulus Media began another round of layoffs, with departures reported in about 23 markets including Chicago, Dallas, Houston, Nashville and Atlanta.",
+    "Westwood One, its network arm, is also affected. The company emerged from Chapter 11 in October after its restructuring was approved.",
+    "The total number of jobs cut is unknown, and more departures may surface."
+   ],
+   "money": [
+    "Companies fresh out of bankruptcy often keep cutting costs; workers there should keep a job-search plan ready.",
+    "Old stock is usually wiped out in Chapter 11; don't assume a familiar name means a safe stock.",
+    "Local radio cuts can mean fewer ad options; small businesses may find cheaper streaming or podcast ads."
+   ],
+   "risk": [
+    "Full scope of cuts is not disclosed."
+   ],
+   "sources": [
+    {
+     "t": "Cumulus Media Begins Another Round of Layoffs Following Bankruptcy Restructuring",
+     "d": "barrettmedia.com",
+     "u": "https://barrettmedia.com/2026/11/16/cumulus-media-layoffs-bankruptcy-restructuring/"
+    }
+   ]
+  },
+  {
+   "id": "btc-november-rout-2026111620",
+   "type": "news",
+   "cat": "crypto",
+   "tags": [
+    "crypto",
+    "markets"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T20:00:00Z",
+   "headline": "Bitcoin is down nearly 16% in November, its 2nd-worst start to a month since 2016",
+   "caption": "Only the FTX crash month of November 2022 started worse. Crypto stocks like Coinbase and Strategy fell about 5% Monday morning.",
+   "visual": {
+    "type": "stat",
+    "title": "Bitcoin's rough November",
+    "num": "-16%",
+    "tone": "loss",
+    "label": "Bitcoin touched $64,000 Monday, down about 25% this year.",
+    "facts": [
+     [
+      "November so far",
+      "-16%",
+      "2nd worst since 2016"
+     ],
+     [
+      "Year to date",
+      "-25%",
+      "3rd worst in a decade"
+     ],
+     [
+      "Since record",
+      "13+ mo",
+      "peak was Oct 2025"
+     ]
+    ]
+   },
+   "detail": [
+    "Bitcoin fell as low as $64,000 and is down nearly 16% this month. Only November 2022, when FTX collapsed, had a worse first half of a month in that span.",
+    "It is down about 25% this year, behind only 2018 and 2022. A Yahoo Finance analysis found the last three bear markets bottomed about 12 to 13 months after the peak, and bitcoin is now just past 13 months.",
+    "Robinhood, Circle, Coinbase and Strategy fell roughly 3% to 5% Monday morning."
+   ],
+   "money": [
+    "If you buy crypto, small regular buys reduce the risk of going all in at the wrong time.",
+    "Past bottoms timing is a pattern, not a promise; never use money you need soon.",
+    "Losses in a taxable account can offset gains elsewhere; ask a tax pro about harvesting losses."
+   ],
+   "risk": [
+    "Bitcoin could fall further; prior bear markets dropped far more than 25%."
+   ],
+   "sources": [
+    {
+     "t": "Bitcoin's November rout echoes past crypto downturns",
+     "d": "finance.yahoo.com",
+     "u": "https://finance.yahoo.com/markets/article/bitcoins-november-rout-echoes-past-crypto-downturns-142926241.html"
+    }
+   ]
+  },
+  {
+   "id": "strategy-msci-exit-2026111620",
+   "type": "news",
+   "cat": "crypto",
+   "tags": [
+    "crypto",
+    "markets"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T20:00:00Z",
+   "headline": "Strategy falls about 7% as its Nov. 30 removal from MSCI's US index nears",
+   "caption": "Index funds tracking the MSCI USA must sell Strategy at the end of the month. Bitcoin's slide is adding pressure.",
+   "visual": {
+    "type": "timeline",
+    "title": "Strategy and MSCI",
+    "items": [
+     {
+      "d": "NOV 11",
+      "t": "MSCI lists Strategy for removal",
+      "s": "stock -2.6% after hours"
+     },
+     {
+      "d": "NOV 16",
+      "t": "Stock down ~7% midday",
+      "now": true
+     },
+     {
+      "d": "NOV 30",
+      "t": "Removal takes effect at close"
+     }
+    ]
+   },
+   "detail": [
+    "MSCI said last week it will drop Strategy, the biggest corporate bitcoin holder, from its MSCI USA Index at the close of Nov. 30. Japan's Metaplanet is leaving an MSCI small-cap index too.",
+    "On Monday Strategy fell about 7% as investors weighed selling tied to the removal and bitcoin's losses.",
+    "MSCI did not give company-specific reasons, and no estimate of forced selling was given."
+   ],
+   "money": [
+    "Index changes are known in advance; prices often move before the effective date.",
+    "If you own Strategy as a bitcoin proxy, know it swings more than bitcoin itself.",
+    "Check whether your index funds held it; most hold tiny weights, so impact is small."
+   ],
+   "risk": [
+    "Stock could stay volatile through the Nov. 30 rebalance."
+   ],
+   "sources": [
+    {
+     "t": "Strategy, Metaplanet lose MSCI index membership in November reshuffle",
+     "d": "theblock.co",
+     "u": "https://theblock.co/news/markets/2026-11-11-strategy-metaplanet-lose-msci-index-membership-november-reshuffle-438437"
+    },
+    {
+     "t": "Stock Market Midday, Nov. 16",
+     "d": "fool.com",
+     "u": "https://www.fool.com/coverage/stock-market-today/2026/11/16/stock-market-midday-nov-16-stocks-slide-as-tech-selling-intensifies-across-the-market/"
+    }
+   ]
+  },
+  {
+   "id": "sec-nominees-hearing-2026111620",
+   "type": "news",
+   "cat": "crypto",
+   "tags": [
+    "crypto",
+    "politics"
+   ],
+   "date": "This week",
+   "ts": "2026-11-16T20:00:00Z",
+   "headline": "Senate hearing Thursday for two SEC nominees could shape crypto rules",
+   "caption": "Steven Levine and Kristin Johnson face the Senate Banking Committee on Nov. 19. The crypto industry wants clearer rules on tokens, custody and trading.",
+   "visual": {
+    "type": "points",
+    "title": "SEC nominee hearing",
+    "items": [
+     "Date: Thursday, Nov. 19",
+     "Committee: Senate Banking",
+     "Nominees: Steven Levine, Kristin Johnson",
+     "Crypto asks: token offerings, custody, trading venues",
+     "A hearing is not a confirmation"
+    ]
+   },
+   "detail": [
+    "Two nominees for the Securities and Exchange Commission, Steven Levine and Kristin Johnson, are set for a Senate Banking Committee hearing on Thursday.",
+    "Crypto firms want clear SEC rules on token offerings, custody and trading platforms, and will watch the nominees' answers closely.",
+    "A hearing does not guarantee confirmation, and new members do not instantly change existing rules."
+   ],
+   "money": [
+    "Clearer rules could lower risk for regulated crypto products like ETFs over time.",
+    "Stick with regulated platforms while rules are in flux.",
+    "Policy headlines can move crypto prices; avoid trading on hearing-day hype."
+   ],
+   "risk": [
+    "Rule changes, if any, take months or years."
+   ],
+   "sources": [
+    {
+     "t": "Senate Hearing Could Shape the SEC's Next Chapter for Crypto Oversight",
+     "d": "newsbtc.com",
+     "u": "https://newsbtc.com/regulation/us-senate-sec-nominees-november-19-hearing-crypto"
+    }
+   ]
+  },
+  {
+   "id": "doj-bia-appeal-rule-2026111620",
+   "type": "news",
+   "cat": "immigration",
+   "tags": [
+    "immigration"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T20:00:00Z",
+   "headline": "DOJ final rule: immigrants have no constitutional right to an appeals board review",
+   "caption": "The rule lets the Board of Immigration Appeals pick which cases to review and quickly dismiss others. DOJ cites a big backlog; advocates say it cuts due process.",
+   "visual": {
+    "type": "points",
+    "title": "What the final rule does",
+    "items": [
+     "Lets the appeals board quickly dismiss more cases",
+     "Says no constitutional right to a board appeal",
+     "Federal court challenges still possible",
+     "10-day appeal deadline in lawyer discipline cases (was 30)",
+     "Ran as an interim rule earlier in 2026"
+    ]
+   },
+   "detail": [
+    "The Justice Department's immigration court office released a final rule Monday, due in the Federal Register the next day. It says there is no constitutional due process right to an administrative appeal before the Board of Immigration Appeals.",
+    "The rule gives board members wider discretion to choose cases and summarily dismiss others. It notes people can still challenge orders in federal court.",
+    "It took effect on an interim basis earlier this year. Advocates sued, saying it strips due process; DOJ says it is needed to cut a large backlog."
+   ],
+   "money": [
+    "People in immigration court should confirm appeal deadlines with a qualified lawyer right away.",
+    "Nonprofit legal aid groups can lower the cost of representation.",
+    "Employers with immigrant staff may want to plan for faster case outcomes."
+   ],
+   "risk": [
+    "Legal challenges to the rule may continue."
+   ],
+   "sources": [
+    {
+     "t": "DOJ Says Migrants Lack Constitutional Right to Appeal Orders",
+     "d": "news.bloomberglaw.com",
+     "u": "https://news.bloomberglaw.com/us-law-week/immigrants-lack-constitutional-right-to-appeal-orders-doj-says"
+    }
+   ]
+  },
+  {
+   "id": "scotus-asylum-ban-2026111620",
+   "type": "news",
+   "cat": "immigration",
+   "tags": [
+    "immigration",
+    "politics"
+   ],
+   "date": "This week",
+   "ts": "2026-11-16T20:00:00Z",
+   "headline": "Supreme Court will decide if Trump's border asylum ban went too far",
+   "caption": "Lower courts said the president exceeded his authority by barring asylum claims from people who cross illegally. A ruling is expected by the end of June.",
+   "visual": {
+    "type": "timeline",
+    "title": "The asylum ban case",
+    "items": [
+     {
+      "d": "JAN 2025",
+      "t": "Ban announced on day one"
+     },
+     {
+      "d": "JUL 2025",
+      "t": "DC judge rules against it"
+     },
+     {
+      "d": "APR 2026",
+      "t": "Appeals court agrees, stays ruling"
+     },
+     {
+      "d": "NOV 13",
+      "t": "Supreme Court takes the case",
+      "now": true
+     },
+     {
+      "d": "BY JUNE",
+      "t": "Decision expected"
+     }
+    ]
+   },
+   "detail": [
+    "The Supreme Court agreed Friday to hear the administration's appeal of rulings against its asylum restrictions at the southern border.",
+    "The policy, announced Jan. 20, 2025, bars people caught crossing illegally from seeking asylum and allows fast-track removals. It lasts until the president decides the 'invasion' has ended.",
+    "A DC judge ruled for immigrant groups in July 2025, and an appeals court agreed in April but largely paused its ruling so the case could go up. Arguments are expected in coming months."
+   ],
+   "money": [
+    "Businesses relying on immigrant labor should plan for either outcome next summer.",
+    "Families with pending cases should keep documents current and seek legal advice.",
+    "Watch for scams promising asylum help; use accredited legal providers."
+   ],
+   "risk": [
+    "The policy stays largely in place while the case is pending."
+   ],
+   "sources": [
+    {
+     "t": "US Supreme Court to weigh asylum restrictions at southern border",
+     "d": "gazette.com",
+     "u": "https://gazette.com/2026/11/16/us-supreme-court-to-weigh-asylum-restrictions-at-southern-border/"
+    }
+   ]
+  },
+  {
+   "id": "federal-film-credit-2026111620",
+   "type": "news",
+   "cat": "taxes",
+   "tags": [
+    "taxes",
+    "politics",
+    "california"
+   ],
+   "date": "This week",
+   "ts": "2026-11-16T20:00:00Z",
+   "headline": "First federal film tax credit gets Trump's support, but lame-duck odds look low",
+   "caption": "A bipartisan bill would create a national incentive for film and TV shoots. Backers eye the Dec. 11 spending bill, or January if that fails.",
+   "visual": {
+    "type": "timeline",
+    "title": "Federal film credit path",
+    "items": [
+     {
+      "d": "NOV 13",
+      "t": "Trump backs the credit"
+     },
+     {
+      "d": "DEC 11",
+      "t": "Spending deadline",
+      "s": "likely vehicle",
+      "now": true
+     },
+     {
+      "d": "JAN 2027",
+      "t": "New Congress",
+      "s": "Plan B"
+     }
+    ]
+   },
+   "detail": [
+    "The Motion Picture, Television and Entertainment Revitalization Act would create the first US federal film tax incentive. Co-sponsors include Sen. Adam Schiff and Rep. Laura Friedman of California.",
+    "President Trump said Friday he supports it. But Rep. Don Beyer called the odds of any tax bill passing in the lame duck 'pretty low.'",
+    "Supporters hope to attach it to the government spending bill due Dec. 11. If not, they say it could pass in January when Democrats hold bigger majorities."
+   ],
+   "money": [
+    "Film workers and vendors could see more US shoots if a credit passes.",
+    "California production businesses should track both this and state credits.",
+    "Investors in studios can watch how a credit changes production costs."
+   ],
+   "risk": [
+    "The bill may stall; productions planning 2027 shoots face uncertainty."
+   ],
+   "sources": [
+    {
+     "t": "Lawmakers Scramble to Pass US Film Tax Credit After Midterms",
+     "d": "thewrap.com",
+     "u": "https://thewrap.com/industry-news/business/us-federal-tax-credit-american-film-market"
+    }
+   ]
+  },
+  {
+   "id": "liheap-opens-2026111620",
+   "type": "news",
+   "cat": "benefits",
+   "tags": [
+    "benefits",
+    "states"
+   ],
+   "date": "This week",
+   "ts": "2026-11-16T20:00:00Z",
+   "headline": "Heating bill help is open: Pennsylvania offers up to $1,000; Memphis portal opened today",
+   "caption": "LIHEAP grants help low-income households pay heating bills this winter. Pennsylvania's window runs to April 23, and Shelby County, Tenn., opened online Monday.",
+   "visual": {
+    "type": "board",
+    "title": "Pennsylvania LIHEAP 2026-27",
+    "rows": [
+     {
+      "k": "Cash grant",
+      "v": "$200-$1,000"
+     },
+     {
+      "k": "Crisis grant",
+      "s": "shutoff or low fuel",
+      "v": "up to $1,000"
+     },
+     {
+      "k": "Income limit, 1 person",
+      "v": "$23,940"
+     },
+     {
+      "k": "Income limit, family of 4",
+      "v": "$49,500"
+     },
+     {
+      "k": "Deadline",
+      "v": "Apr 23, 2027",
+      "tone": "acc"
+     }
+    ],
+    "foot": "Shutoff moratorium Dec 1 - Mar 31 (doesn't erase bills)."
+   },
+   "detail": [
+    "Pennsylvania's LIHEAP program is taking applications through April 23, 2027. Cash grants run $200 to $1,000, and crisis grants up to $1,000 help if you face a shutoff or are low on fuel.",
+    "The income limit is 150% of the poverty line: $23,940 for one person or $49,500 for a family of four. Apply online through COMPASS or call 1-866-857-7095.",
+    "In Shelby County, Tennessee, the LIHEAP portal opened Monday, Nov. 16, online only, on Mondays and Wednesdays from 9 a.m. to noon."
+   ],
+   "money": [
+    "Apply early; many programs run out of money before winter ends.",
+    "Ask your utility about reduced-bill or debt-forgiveness programs when you apply.",
+    "Check your own state's LIHEAP office; every state runs a version."
+   ],
+   "risk": [
+    "Winter shutoff bans pause disconnections but unpaid bills still come due."
+   ],
+   "sources": [
+    {
+     "t": "Low-Income Home Energy Assistance Program applications open",
+     "d": "altoonamirror.com",
+     "u": "https://www.altoonamirror.com/news/local-news/2026/11/pa-liheap-energyassistance-applications-open/"
+    },
+    {
+     "t": "Shelby County utility assistance program applications open Monday",
+     "d": "fox13memphis.com",
+     "u": "https://www.fox13memphis.com/news/shelby-county-utility-assistance-program-applications-open-monday-for-eligible-residents/article_5b09723c-54e8-488c-8a3c-7231e74a388f.html"
+    }
+   ]
+  },
+  {
+   "id": "ca-utility-rate-fights-2026111620",
+   "type": "news",
+   "cat": "california",
+   "tags": [
+    "california",
+    "business"
+   ],
+   "date": "This week",
+   "ts": "2026-11-16T20:00:00Z",
+   "headline": "California power bills: Pacific Power seeks a 57% hike; PG&E vote set for Thursday",
+   "caption": "A far-north utility wants residential rates up about 57% to cover wildfire and insurance costs. Regulators vote Nov. 19 on $456M in interim money for PG&E.",
+   "visual": {
+    "type": "board",
+    "title": "Rate requests before the CPUC",
+    "rows": [
+     {
+      "k": "Pacific Power hike",
+      "s": "~46,000 customers",
+      "v": "+57%",
+      "tone": "loss"
+     },
+     {
+      "k": "Extra revenue sought",
+      "v": "$103.4M"
+     },
+     {
+      "k": "Requested start",
+      "v": "Jan 1, 2027"
+     },
+     {
+      "k": "PG&E interim recovery",
+      "s": "vote Nov 19",
+      "v": "$456M",
+      "tone": "acc"
+     }
+    ]
+   },
+   "detail": [
+    "Pacific Power filed Nov. 6 to raise rates about 57%, or roughly $103.4 million, for about 46,000 customers in Siskiyou, Del Norte, Modoc and Shasta counties. A 14% cut on Jan. 1 would partly offset it.",
+    "It cites about $93.8 million in unrecovered wildfire prevention costs and $11.1 million in insurance premiums, to be recovered over six years.",
+    "Separately, consumer groups want regulators to drop a proposed $456 million interim recovery for PG&E. The CPUC vote is set for Thursday."
+   ],
+   "money": [
+    "Check if you qualify for CARE or FERA discounts, which cut California utility bills.",
+    "Public comment periods let customers weigh in before rate decisions.",
+    "Shifting heavy use to off-peak hours can trim bills on time-of-use plans."
+   ],
+   "risk": [
+    "The CPUC may approve less than requested; review could take months."
+   ],
+   "sources": [
+    {
+     "t": "Rural California Utility Asks To Raise Power Rates By More Than Half",
+     "d": "dailycaller.com",
+     "u": "https://dailycaller.com/2026/11/15/pacific-power-57-percent-rate-hike-wildfire-costs-gavin-newsom/"
+    },
+    {
+     "t": "Consumer Watchdog Calls on CPUC Commissioner Baker to Withdraw Approval of $456 Million PG&E Rate Hike",
+     "d": "prnewswire.com",
+     "u": "https://www.prnewswire.com/news-releases/consumer-watchdog-every-fire-survivors-network-call-on-cpuc-commissioner-baker-to-withdraw-approval-of-456-million-pge-rate-hike-amid-2-billion-in-spending-302933916.html"
+    }
+   ]
+  },
+  {
+   "id": "colorado-deficit-2026111620",
+   "type": "news",
+   "cat": "states",
+   "tags": [
+    "states",
+    "benefits"
+   ],
+   "date": "Thu Nov 12",
+   "ts": "2026-11-16T20:00:00Z",
+   "headline": "Colorado faces a $1.6B gap for a third year; Polis says 'no money left'",
+   "caption": "Rising Medicaid costs are the main driver. Gov. Polis wants to slow Medicaid growth and nearly double the state's reserve.",
+   "visual": {
+    "type": "board",
+    "title": "Colorado's 2027-28 budget plan",
+    "rows": [
+     {
+      "k": "Shortfall",
+      "v": "~$1.6B",
+      "tone": "loss"
+     },
+     {
+      "k": "Total budget",
+      "s": "+$579M",
+      "v": "$51.2B"
+     },
+     {
+      "k": "General fund",
+      "s": "+$479M",
+      "v": "$18.9B"
+     },
+     {
+      "k": "Reserve target",
+      "s": "from 7.25%",
+      "v": "13.05%",
+      "tone": "acc"
+     }
+    ],
+    "foot": "Updated plan due Jan. 2, 2027."
+   },
+   "detail": [
+    "Gov. Jared Polis presented his final budget Nov. 12 to the Joint Budget Committee, facing a nearly $1.6 billion shortfall, the third year in a row above $1 billion.",
+    "Medicaid costs are growing faster than the budget. He proposes a $51.2 billion budget and raising the reserve to 13.05% from 7.25%.",
+    "No TABOR refund is expected for fiscal 2026. An updated plan is due Jan. 2, and Governor-elect Phil Weiser's team will shape the final deal."
+   ],
+   "money": [
+    "Coloradans shouldn't count on a TABOR refund this cycle when budgeting.",
+    "Medicaid enrollees should watch for benefit or eligibility changes as the state cuts costs.",
+    "Contractors and nonprofits paid by the state may face delays; plan cash flow."
+   ],
+   "risk": [
+    "Specific cuts have not been named yet."
+   ],
+   "sources": [
+    {
+     "t": "'No money left': Colorado faces $1.6 billion budget deficit",
+     "d": "coloradopolitics.com",
+     "u": "https://www.coloradopolitics.com/2026/11/13/no-money-left-colorado-faces-1-6-billion-budget-deficit/"
+    }
+   ]
+  },
+  {
+   "id": "week-ahead-macro-2026111620",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets"
+   ],
+   "date": "This week",
+   "ts": "2026-11-16T20:00:00Z",
+   "headline": "Big week: retail sales Tue, Fed minutes Wed, Walmart Thu; options see 8.6% Nvidia swing",
+   "caption": "Traders price a December rate hike at 100%. Options imply Nvidia could move about 8.6% either way after its report Tuesday.",
+   "visual": {
+    "type": "timeline",
+    "title": "Market calendar",
+    "items": [
+     {
+      "d": "TUE 17",
+      "t": "Retail sales, Nvidia, Home Depot",
+      "s": "sales est. +0.2%"
+     },
+     {
+      "d": "WED 18",
+      "t": "Fed minutes, housing starts, Lowe's"
+     },
+     {
+      "d": "THU 19",
+      "t": "Jobless claims, Walmart, Intuit",
+      "s": "claims est. 200K"
+     },
+     {
+      "d": "FRI 20",
+      "t": "Consumer sentiment final",
+      "s": "prelim 51"
+     }
+    ]
+   },
+   "detail": [
+    "October retail sales are expected up 0.2% on Tuesday, alongside industrial production and the homebuilder index. Nvidia and Home Depot report the same day.",
+    "Wednesday brings housing starts and minutes from the Fed's Oct. 27-28 meeting. Walmart and jobless claims come Thursday.",
+    "Option prices imply an 8.63% Nvidia move either way. Nvidia fell 12.75% last week. Fed funds futures show 100% odds of a December hike."
+   ],
+   "money": [
+    "A rate hike would lift savings and CD yields; shop for the best rates now.",
+    "Avoid new variable-rate debt if hikes are coming.",
+    "Big event weeks can swing prices; don't make rushed trades on headlines."
+   ],
+   "risk": [
+    "Data surprises could move markets sharply either way."
+   ],
+   "sources": [
+    {
+     "t": "Weekly Playbook: Nvidia Reports Into an 8.63% Implied Move",
+     "d": "avaloncapitalresearch.substack.com",
+     "u": "https://avaloncapitalresearch.substack.com/p/weekly-playbook-nvidia-reports-into"
+    }
+   ]
+  },
+  {
+   "id": "ukraine-uae-talks-2026111620",
+   "type": "news",
+   "cat": "world",
+   "tags": [
+    "world"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T20:00:00Z",
+   "headline": "New: US-mediated talks in UAE yield a prisoner swap, but no path to end the war",
+   "caption": "Two days of Russia-Ukraine talks produced a prisoner exchange deal. The EU sent Kyiv $1.88B more for drones and air defense.",
+   "visual": {
+    "type": "points",
+    "title": "Monday's war update",
+    "items": [
+     "UAE talks: prisoner swap agreed, no breakthrough",
+     "EU sends Kyiv $1.88B from a $99B loan",
+     "Russian attacks kill at least 3 in Ukraine",
+     "EU's Kallas: ceasefire must come first"
+    ]
+   },
+   "detail": [
+    "Two days of talks in the United Arab Emirates, mediated by the US, ended with an agreement to exchange prisoners but no breakthrough toward ending the war.",
+    "Kyiv received $1.88 billion from the European Commission for drones, ammunition and air defense, part of a $99 billion loan approved in February.",
+    "EU foreign policy chief Kaja Kallas said Russia's demands are a pretext to keep fighting. Russian attacks killed at least three people in Ukraine Monday."
+   ],
+   "money": [
+    "No deal means war risk stays priced into oil and gas; budget for higher heating costs.",
+    "Defense stocks often benefit from continued European spending.",
+    "Avoid betting your portfolio on a peace deal headline."
+   ],
+   "risk": [
+    "Talks could resume or collapse quickly."
+   ],
+   "sources": [
+    {
+     "t": "Russian attacks kill three in Ukraine, EU accuses Moscow of prolonging war",
+     "d": "aljazeera.com",
+     "u": "https://www.aljazeera.com/news/2026/11/16/russian-attacks-kill-three-in-ukraine-eu-accuses-moscow-of-prolonging-war"
+    }
+   ]
+  },
+  {
+   "id": "edu-index-deletion-2026111620",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "crypto",
+    "markets"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-16T20:00:00Z",
+   "headline": "Kicked out of an index: why it can sink a stock",
+   "caption": "Strategy leaves MSCI's US index on Nov. 30. Here's why index changes force selling, and what it means for you.",
+   "scenes": [
+    {
+     "k": "Today's news",
+     "t": "Strategy is leaving the MSCI USA Index",
+     "s": "The change takes effect at the close on Nov. 30."
+    },
+    {
+     "k": "What an index is",
+     "t": "A list of stocks funds copy",
+     "s": "Index funds must hold exactly what's on the list."
+    },
+    {
+     "k": "The chain",
+     "t": "Removed means forced selling",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "Index drops stock",
+       "Funds must sell",
+       "More sellers than buyers",
+       "Price pressure"
+      ]
+     }
+    },
+    {
+     "k": "Timing",
+     "t": "Moves often come early",
+     "s": "Traders sell ahead of the date, so the drop can happen before it."
+    },
+    {
+     "k": "For you",
+     "t": "Your index fund barely feels it",
+     "s": "One stock is a tiny slice of a broad fund."
+    },
+    {
+     "k": "Takeaway",
+     "t": "Know why a stock is falling",
+     "s": "Forced selling isn't the same as bad business news."
+    }
+   ]
+  },
+  {
+   "id": "edu-implied-move-2026111620",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "markets",
+    "ai"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-16T20:00:00Z",
+   "headline": "Implied move: how options guess Nvidia's earnings swing",
+   "caption": "Options imply Nvidia could move about 8.6% after Tuesday's report. Here's what that number means.",
+   "scenes": [
+    {
+     "k": "Today's news",
+     "t": "Options price an 8.6% Nvidia move",
+     "s": "Nvidia reports Tuesday after the close."
+    },
+    {
+     "k": "What it is",
+     "t": "The market's expected swing",
+     "s": "It's based on what traders pay for options."
+    },
+    {
+     "k": "Either way",
+     "t": "Up or down, not a direction",
+     "viz": {
+      "type": "split",
+      "items": [
+       [
+        "Up case",
+        "+8.6%"
+       ],
+       [
+        "Down case",
+        "-8.6%"
+       ],
+       [
+        "Direction",
+        "Unknown",
+        "wide"
+       ]
+      ]
+     },
+     "say": "An 8.6 percent implied move means traders expect a swing of about that size, up or down."
+    },
+    {
+     "k": "Pricey options",
+     "t": "Big expected moves cost more",
+     "s": "Options get expensive before big events, then cheapen after."
+    },
+    {
+     "k": "For you",
+     "t": "Expect bumps in tech funds",
+     "s": "Nvidia is a big part of many index funds."
+    },
+    {
+     "k": "Takeaway",
+     "t": "Don't trade on a guess",
+     "s": "Long-term investors can ride out one-day swings."
+    }
+   ]
+  },
   {
    "id": "nvidia-board-no-huang-2026111619",
    "type": "news",
@@ -11135,989 +12096,6 @@
      "t": "Qualcomm Begins November 2026 Layoffs After Performance Reviews",
      "d": "stlawyers.ca",
      "u": "https://stlawyers.ca/blog-news/qualcomm-november-2026-job-cuts"
-    }
-   ],
-   "ts": "2026-11-16T07:20:00Z"
-  },
-  {
-   "id": "faa-flight-chaos-day3-2026111607",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business",
-    "politics"
-   ],
-   "date": "Sun Nov 15",
-   "headline": "Flight chaos hits a third day: 5,200+ flights disrupted Sunday, 1,600 canceled",
-   "caption": "What's new: disruptions kept going through Sunday, traced to a router problem at an FAA facility in Arkansas. Service was resuming.",
-   "visual": {
-    "type": "board",
-    "title": "Sunday's air travel damage",
-    "rows": [
-     {
-      "k": "Flights affected",
-      "v": "5,200+",
-      "tone": "loss"
-     },
-     {
-      "k": "Cancellations",
-      "v": "1,600+",
-      "tone": "loss"
-     },
-     {
-      "k": "Delays",
-      "v": "~3,600",
-      "tone": "acc"
-     },
-     {
-      "k": "Cause",
-      "s": "FAA facility",
-      "v": "Arkansas router"
-     }
-    ],
-    "foot": "Third straight day of disruption"
-   },
-   "detail": [
-    "Air travel problems that began with Friday's nationwide FAA ground stop carried into a third day. More than 5,200 flights were affected Sunday, including over 1,600 cancellations and about 3,600 delays.",
-    "The latest cause was a router issue at an FAA facility in Arkansas. Services were coming back online as the week began, with Thanksgiving travel about 10 days away."
-   ],
-   "money": [
-    "If your flight is canceled, US rules say you can get a cash refund instead of a voucher if you choose not to travel.",
-    "Book Thanksgiving flights early in the day; morning departures are less likely to be hit by knock-on delays.",
-    "Check whether your credit card offers trip delay coverage for hotels and meals before paying out of pocket."
-   ],
-   "risk": [
-    "Another outage during Thanksgiving week could strand travelers and push up last-minute fares."
-   ],
-   "sources": [
-    {
-     "t": "Newsquawk Daily European Opening News - 16th November 2026",
-     "d": "newsquawk.com",
-     "u": "https://www.newsquawk.com/headlines/newsquawk-daily-european-opening-news---16th-november-2026"
-    }
-   ],
-   "ts": "2026-11-16T07:20:00Z"
-  },
-  {
-   "id": "cftc-sues-arkansas-louisiana-kalshi-2026111607",
-   "type": "news",
-   "cat": "crypto",
-   "tags": [
-    "crypto",
-    "states",
-    "politics"
-   ],
-   "date": "Thu Nov 12 - Fri Nov 13",
-   "headline": "Feds sue Arkansas and Louisiana to protect Kalshi and other prediction markets",
-   "caption": "The DOJ and CFTC say federal law, not state gambling law, governs these markets. Louisiana got a court order covering 31 firms, including Coinbase and Robinhood.",
-   "visual": {
-    "type": "deals",
-    "title": "The prediction-market fight",
-    "items": [
-     {
-      "a": "DOJ + CFTC",
-      "b": "vs. Arkansas",
-      "amt": "Suit",
-      "st": "Seeks to block AG's Kalshi case",
-      "c": "pend"
-     },
-     {
-      "a": "CFTC",
-      "b": "vs. Louisiana",
-      "amt": "12th",
-      "st": "State the CFTC has sued",
-      "c": "pend"
-     },
-     {
-      "a": "Louisiana court",
-      "b": "31 firms",
-      "amt": "TRO",
-      "st": "10-day order, hearing Nov. 30",
-      "c": "bad"
-     }
-    ]
-   },
-   "detail": [
-    "The Justice Department and the CFTC sued Arkansas Attorney General Tim Griffin to stop his Nov. 4 lawsuit against Kalshi. They argue the Commodity Exchange Act gives the CFTC exclusive power over regulated event contracts.",
-    "In Louisiana, a state judge signed a temporary order requiring 31 companies, including Kalshi, Polymarket, Coinbase, Robinhood and Crypto.com, to stop offering event contracts to residents without a state license. The CFTC sued Louisiana the next day.",
-    "Louisiana is the 12th state the CFTC has sued. Kalshi has cut off Louisiana users, and a hearing is set for Nov. 30."
-   ],
-   "money": [
-    "If you use prediction markets, your access can change overnight based on where you live; don't leave large balances parked there.",
-    "Winnings from event contracts are generally taxable; keep records for tax time.",
-    "Brokers like Robinhood and Coinbase face legal costs here; investors in those stocks may see headline risk."
-   ],
-   "risk": [
-    "Courts are split, and rulings could quickly expand or shrink where these markets operate.",
-    "Treat event contracts as speculation; you can lose your whole stake."
-   ],
-   "sources": [
-    {
-     "t": "DOJ, CFTC sue Arkansas to block state enforcement action against Kalshi",
-     "d": "theblock.co",
-     "u": "https://www.theblock.co/news/regulation/2026-11-13-doj-cftc-sue-arkansas-to-block-state-enforcement-action-against-kalshi-439669"
-    },
-    {
-     "t": "Louisiana AG calls CFTC chair an 'obsequious standard bearer' for prediction markets",
-     "d": "theblock.co",
-     "u": "https://theblock.co/news/regulation/2026-11-14-louisiana-ag-calls-cftc-chair-an-obsequious-standard-bearer-for-prediction-markets-following-agency-lawsuit-440342"
-    }
-   ],
-   "ts": "2026-11-16T07:20:00Z"
-  },
-  {
-   "id": "etoro-more-layoffs-2026111607",
-   "type": "news",
-   "cat": "crypto",
-   "tags": [
-    "crypto",
-    "business",
-    "markets"
-   ],
-   "date": "Sun Nov 15",
-   "headline": "eToro plans more layoffs as profit falls 74% and shares sit far below the IPO price",
-   "caption": "Weaker crypto trading hit the trading app's third quarter. Its stock is near $22.50, versus a $52 IPO price in May 2025.",
-   "visual": {
-    "type": "vs",
-    "title": "eToro share price",
-    "a": [
-     "IPO (May 2025)",
-     "$52",
-     1,
-     "acc"
-    ],
-    "b": [
-     "Nov. 13",
-     "$22.50",
-     0.43,
-     "loss"
-    ],
-    "foot": "Market value about $1.8B, down from ~$4.4B at IPO"
-   },
-   "detail": [
-    "Trading platform eToro plans another round of job cuts in the coming weeks, affecting dozens of workers, according to CTech. It cut about 105 jobs, roughly 7% of staff, in January.",
-    "Third-quarter net income fell 74% to $15 million as crypto trading slowed. Net contribution, its key revenue measure, dropped 13% to $186 million, even as funded accounts rose 18% to 4.39 million."
-   ],
-   "money": [
-    "When crypto trading cools, broker revenues fall fast; a broker's stock can swing more than the market itself.",
-    "If you trade on an app, compare fees and spreads; a lower-cost platform can save more than chasing returns.",
-    "IPO stocks often fall below their debut price; waiting for a few quarters of results can reduce risk."
-   ],
-   "risk": [
-    "More crypto weakness could keep pressure on eToro's results and stock."
-   ],
-   "sources": [
-    {
-     "t": "eToro set for another round of layoffs as profits plunge and valuation slides",
-     "d": "calcalistech.com",
-     "u": "https://calcalistech.com/ctechnews/article/kz5juy6e0"
-    }
-   ],
-   "ts": "2026-11-16T07:20:00Z"
-  },
-  {
-   "id": "apple-openevidence-health-ai-study-2026111607",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "benefits"
-   ],
-   "date": "Sun Nov 15",
-   "headline": "Apple launches a health AI study app, seeking up to 200,000 iPhone users",
-   "caption": "Built with OpenEvidence, the app answers health questions using medical journals. Apple says data won't train AI models.",
-   "visual": {
-    "type": "points",
-    "title": "Apple's health AI study",
-    "items": [
-     "Up to 200,000 US users, 12+ months",
-     "Needs iPhone 15 or later and iOS 26",
-     "Answers drawn from NEJM, JAMA and Nature",
-     "Query data deleted after 24 hours",
-     "Optional HealthKit sharing for tailored answers"
-    ]
-   },
-   "detail": [
-    "Apple and OpenEvidence released a US study app that answers everyday health questions using clinical sources such as The New England Journal of Medicine and JAMA. Users over 21 with an iPhone 15 or newer and Apple Intelligence can join.",
-    "Participants can rate answers and may share data like sleep and heart rate. Apple says data is anonymized and won't be used to train AI, and OpenEvidence deletes queries after 24 hours. OpenAI has said users ask it over 300 million health questions a week."
-   ],
-   "money": [
-    "Using a free AI tool to prepare questions before a doctor visit can make a paid appointment more productive.",
-    "AI answers can help you understand a bill or a diagnosis, but confirm with your provider before skipping care.",
-    "Check if your insurer offers a free nurse line; it can save an urgent care copay for simple questions."
-   ],
-   "risk": [
-    "AI health answers can be wrong; they are not a substitute for a doctor."
-   ],
-   "sources": [
-    {
-     "t": "Apple launches new app to study how people use AI for health",
-     "d": "techcrunch.com",
-     "u": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/"
-    }
-   ],
-   "ts": "2026-11-16T07:20:00Z"
-  },
-  {
-   "id": "korea-ai-buildout-hynix-samsung-sds-2026111607",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "markets",
-    "world"
-   ],
-   "date": "Mon Nov 16",
-   "headline": "Korea AI push: SK Hynix pledges $1.05B; Samsung SDS courts Anthropic and OpenAI",
-   "caption": "SK Hynix will back local chip suppliers over five years. Samsung SDS is in early talks to land big AI labs as data-center tenants, per the FT.",
-   "visual": {
-    "type": "deals",
-    "title": "Korea's AI money moves",
-    "items": [
-     {
-      "a": "SK Hynix",
-      "b": "Domestic chip suppliers",
-      "amt": "$1.05B",
-      "st": "1.4T won over 5 years",
-      "c": "ok"
-     },
-     {
-      "a": "SK Hynix",
-      "b": "Trinity Fab test site",
-      "amt": "~$654M",
-      "st": "Opens 2027",
-      "c": "ok"
-     },
-     {
-      "a": "Samsung SDS",
-      "b": "Anthropic, OpenAI",
-      "amt": "Talks",
-      "st": "Data-center tenants, early stage",
-      "c": "pend"
-     }
-    ]
-   },
-   "detail": [
-    "SK Hynix said it will spend 1.4 trillion won, about $1.05 billion, over five years to support Korean makers of chip materials, parts and equipment. It is also building an 874.6 billion won testing cleanroom inside its Yongin plant.",
-    "Separately, the Financial Times reported that Samsung SDS is in early talks with Anthropic and OpenAI to anchor its Korean AI data centers. Its Gumi site broke ground Nov. 2 at 60MW and can grow to 120MW."
-   ],
-   "money": [
-    "Memory makers are central to AI spending; funds that hold Asian chip stocks can be volatile around Nvidia's earnings this week.",
-    "Spreading tech investments across countries can cut the risk of betting on one company.",
-    "Supplier spending often signals future demand; watch whether these plans hold if the AI sell-off deepens."
-   ],
-   "risk": [
-    "The Samsung SDS talks are early and may not produce deals.",
-    "Chip stocks fell sharply in Asia today."
-   ],
-   "sources": [
-    {
-     "t": "AI News Today, November 16: Top Stories",
-     "d": "aiweekly.co",
-     "u": "https://aiweekly.co/ai-news-today"
-    },
-    {
-     "t": "SK Hynix to spend $1 billion over five years to support chip suppliers",
-     "d": "reuters.com",
-     "u": "https://www.reuters.com/world/asia-pacific/sk-hynix-spend-1-billion-over-five-years-support-chip-suppliers-2026-11-16/"
-    }
-   ],
-   "ts": "2026-11-16T07:20:00Z"
-  },
-  {
-   "id": "epoch-huawei-horinger-2026111607",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "world"
-   ],
-   "date": "Mon Nov 16",
-   "headline": "Huawei's big AI data center is about 7% the size of xAI's Colossus 2, Epoch estimates",
-   "caption": "Epoch AI pegs Huawei's Horinger site at about 81,000 H100-equivalents. US rivals are scaling toward 1.8 million.",
-   "visual": {
-    "type": "board",
-    "title": "AI compute gap (H100-equivalents)",
-    "rows": [
-     {
-      "k": "Huawei Horinger today",
-      "s": "286MW",
-      "v": "~81,000",
-      "tone": "acc"
-     },
-     {
-      "k": "Horinger by early 2028",
-      "s": "projected",
-      "v": "~141,000"
-     },
-     {
-      "k": "US peers scaling toward",
-      "v": "1.8M",
-      "tone": "gain"
-     },
-     {
-      "k": "Share of Colossus 2",
-      "v": "~7%"
-     }
-    ]
-   },
-   "detail": [
-    "Research group Epoch AI estimates Huawei's Horinger data center runs about 105,000 Ascend 910C chips and 8,000 910B chips, equal to roughly 81,000 Nvidia H100s, using 286 megawatts.",
-    "That is about 7% of the computing power of Colossus 2. Epoch projects Horinger reaching about 141,000 H100-equivalents by early 2028, while top US sites scale toward 1.8 million."
-   ],
-   "money": [
-    "The US-China compute gap is a big reason export controls matter for Nvidia's sales; watch for policy news around this week's Trump-Xi meeting.",
-    "AI infrastructure spending supports power and utility demand; some investors use utility funds as a steadier AI play.",
-    "Estimates from outside researchers can move stocks; wait for company data before acting on them."
-   ],
-   "risk": [
-    "These are outside estimates, not official Huawei figures."
-   ],
-   "sources": [
-    {
-     "t": "AI News Today, November 16: Top Stories",
-     "d": "aiweekly.co",
-     "u": "https://aiweekly.co/ai-news-today"
-    },
-    {
-     "t": "What Huawei's Horinger data center tells us",
-     "d": "epochai.substack.com",
-     "u": "https://epochai.substack.com/p/what-huaweis-horinger-data-center"
-    }
-   ],
-   "ts": "2026-11-16T07:20:00Z"
-  },
-  {
-   "id": "medicare-32000-may-lose-2026111607",
-   "type": "news",
-   "cat": "benefits",
-   "tags": [
-    "benefits",
-    "immigration"
-   ],
-   "date": "This week",
-   "headline": "About 32,000 people could lose Medicare on Feb. 1 under new immigrant eligibility rules",
-   "caption": "Social Security sent notices Nov. 10 to enrollees whose immigration status it can't confirm. US citizens and green card holders are not affected.",
-   "visual": {
-    "type": "timeline",
-    "title": "Medicare eligibility change",
-    "items": [
-     {
-      "d": "JUL 2025",
-      "t": "OBBBA narrows eligibility"
-     },
-     {
-      "d": "NOV 10",
-      "t": "SSA mails notices",
-      "now": true
-     },
-     {
-      "d": "FEB 1 2027",
-      "t": "Coverage may end",
-      "s": "unless status is verified"
-     }
-    ]
-   },
-   "detail": [
-    "The Social Security Administration sent notices on Nov. 10 saying some Medicare enrollees could lose coverage Feb. 1, 2027, unless they prove their immigration status by the deadline in their letter. CMS estimates about 32,000 people are affected.",
-    "The change comes from the July 2025 tax and spending law, which removed refugees, asylum grantees, TPS holders and others from Medicare eligibility. Green card holders, Cuban-Haitian entrants and certain Pacific Island migrants remain eligible. More than 70 million people are on Medicare."
-   ],
-   "money": [
-    "If you or a family member got an SSA notice, respond before the deadline in the letter; missing it can mean losing coverage.",
-    "People losing Medicare should check other options such as ACA marketplace plans or community health centers.",
-    "Keep copies of immigration documents and SSA letters; they speed up any appeal."
-   ],
-   "risk": [
-    "Similar eligibility limits now apply to Medicaid and SNAP, so some families could lose several benefits at once."
-   ],
-   "sources": [
-    {
-     "t": "32,000 to lose Medicare as 2027 deadline approaches",
-     "d": "yahoo.com",
-     "u": "https://www.yahoo.com/news/politics/articles/32-000-lose-medicare-2027-165410230.html"
-    }
-   ],
-   "ts": "2026-11-16T07:20:00Z"
-  },
-  {
-   "id": "illinois-24b-budget-gap-2026111607",
-   "type": "news",
-   "cat": "states",
-   "tags": [
-    "states",
-    "benefits",
-    "taxes"
-   ],
-   "date": "Sun Nov 15",
-   "headline": "Illinois projects a $2.4 billion budget gap next year despite a surplus now",
-   "caption": "Gov. Pritzker's budget office sees deficits for five years straight. Federal SNAP changes add new costs.",
-   "visual": {
-    "type": "board",
-    "title": "Illinois budget outlook",
-    "rows": [
-     {
-      "k": "FY2028 gap",
-      "v": "$2.4B",
-      "tone": "loss"
-     },
-     {
-      "k": "Peak gap (FY2029)",
-      "v": "~$2.8B",
-      "tone": "loss"
-     },
-     {
-      "k": "This year's surplus",
-      "s": "before new spending",
-      "v": "$927M",
-      "tone": "gain"
-     },
-     {
-      "k": "New SNAP admin cost",
-      "s": "per year",
-      "v": "$80M"
-     },
-     {
-      "k": "Rainy-day fund",
-      "s": "vs. 47.9-day median",
-      "v": "16.2 days"
-     }
-    ]
-   },
-   "detail": [
-    "A new report from Gov. JB Pritzker's budget office projects a $2.4 billion shortfall in fiscal 2028, with deficits each of the next five years, peaking near $2.8 billion in 2029.",
-    "Illinois still expects a surplus this year after revenue came in $1.08 billion higher. Federal SNAP changes will add about $80 million a year in admin costs, and the state's high error rate could bring a $428 million cost in 2029. The forecast also drops $261 million from a social media fee and digital asset tax due to lawsuits."
-   ],
-   "money": [
-    "Budget gaps often lead to fee hikes or tax changes; Illinois residents should watch the February budget proposal.",
-    "SNAP recipients should report income changes on time; error rates now carry real costs for states.",
-    "Illinois municipal bond holders may see ratings attention if gaps persist."
-   ],
-   "risk": [
-    "The plan to close the gap isn't complete yet, so cuts or new taxes are possible."
-   ],
-   "sources": [
-    {
-     "t": "Illinois projects $2.4 billion budget gap next year as federal funding changes add pressure",
-     "d": "sjodaily.com",
-     "u": "https://sjodaily.com/2026/11/15/illinois-projects-2-4-billion-budget-gap-next-year-as-federal-funding-changes-add-pressure"
-    }
-   ],
-   "ts": "2026-11-16T07:20:00Z"
-  },
-  {
-   "id": "ny-8b-windfall-childcare-taxes-2026111607",
-   "type": "news",
-   "cat": "states",
-   "tags": [
-    "states",
-    "taxes",
-    "politics"
-   ],
-   "date": "Sun Nov 15",
-   "headline": "New York's tax take runs $8B ahead, but a child care plan sparks tax-hike worries",
-   "caption": "The state projects a $9 billion surplus this year. Gaps grow to $8.9 billion by 2030, and Gov. Hochul hasn't named a child care funding source.",
-   "visual": {
-    "type": "board",
-    "title": "New York's budget picture",
-    "rows": [
-     {
-      "k": "Tax receipts forecast raised",
-      "v": "+$8.1B",
-      "tone": "gain"
-     },
-     {
-      "k": "Surplus this year",
-      "v": "$9B",
-      "tone": "gain"
-     },
-     {
-      "k": "FY2028 gap",
-      "v": "$2.9B",
-      "tone": "loss"
-     },
-     {
-      "k": "FY2030 gap",
-      "v": "$8.9B",
-      "tone": "loss"
-     }
-    ],
-    "foot": "Executive budget due Feb. 1, 2027"
-   },
-   "detail": [
-    "New York raised its general fund tax forecast by $8.1 billion and expects $9 billion in surplus resources this year, to rebuild reserves and prepay debt.",
-    "Republican state Sen. Tom O'Mara warned that expanding child care could lead to tax hikes. The budget director said on Nov. 9 that talk of tax increases is premature. Projected gaps reach $2.9 billion in fiscal 2028 and $8.9 billion in 2030."
-   ],
-   "money": [
-    "New York parents should watch the State of the State address for child care subsidy details that could cut costs.",
-    "If tax hikes come, they often target high earners first; planning income timing with a tax pro can help.",
-    "Dependent care FSAs can save on child care costs now; check if your employer offers one during open enrollment."
-   ],
-   "risk": [
-    "Revenue tied to Wall Street can drop fast if markets fall."
-   ],
-   "sources": [
-    {
-     "t": "O'Mara warns of higher taxes as New York weighs how to pay for expanded child care",
-     "d": "fingerlakes1.com",
-     "u": "https://fingerlakes1.com/2026/11/15/omara-warns-of-higher-taxes-as-new-york-weighs-how-to-pay-for-expanded-child-care"
-    }
-   ],
-   "ts": "2026-11-16T07:20:00Z"
-  },
-  {
-   "id": "nyc-budget-129b-2026111607",
-   "type": "news",
-   "cat": "states",
-   "tags": [
-    "states",
-    "benefits"
-   ],
-   "date": "This week",
-   "headline": "NYC's budget grows $3 billion to $129.2 billion as Wall Street taxes beat forecasts",
-   "caption": "Mayor Mamdani's update adds SNAP admin money tied to federal cuts. Watchdogs warn of $6 billion-plus gaps ahead.",
-   "visual": {
-    "type": "stat",
-    "title": "NYC FY2027 budget",
-    "num": "$129.2B",
-    "tone": "acc",
-    "label": "Up about $3 billion since June.",
-    "facts": [
-     [
-      "Taxes above plan",
-      "~$1B",
-      "this fiscal year"
-     ],
-     [
-      "FY2028 gap",
-      "$6B+",
-      "per comptroller"
-     ],
-     [
-      "Savings found",
-      "~$250M",
-      "of a ~$1B goal"
-     ]
-    ]
-   },
-   "detail": [
-    "Mayor Zohran Mamdani's administration presented a balanced $129.2 billion budget for fiscal 2027, about $3 billion more than in June. Tax collections are running nearly $1 billion above projections, helped by Wall Street.",
-    "New spending includes SNAP administration tied to federal cuts. The city faces future gaps of $6 billion to $9 billion, and has found only about $250 million of a roughly $1 billion savings target."
-   ],
-   "money": [
-    "NYC SNAP households should keep paperwork current, since new federal rules raise verification demands.",
-    "City budget gaps can mean fee increases; watch for changes in fines, permits and transit-related costs.",
-    "A Wall Street downturn would hit city revenue; NYC bond investors should watch the comptroller's outlook."
-   ],
-   "risk": [
-    "Officials warn AI-driven market gains could reverse and shrink tax revenue."
-   ],
-   "sources": [
-    {
-     "t": "NYC budget grows $3 billion in November modification",
-     "d": "cityandstateny.com",
-     "u": "https://cityandstateny.com/policy/2026/11/nyc-budget-grows-3-billion-november-modification/417201"
-    }
-   ],
-   "ts": "2026-11-16T07:20:00Z"
-  },
-  {
-   "id": "pa-delaware-loophole-taxes-2026111607",
-   "type": "news",
-   "cat": "taxes",
-   "tags": [
-    "taxes",
-    "states",
-    "business"
-   ],
-   "date": "Sun Nov 15",
-   "headline": "Pennsylvania's 'Delaware loophole' costs billions; a fix sits stalled in the Senate",
-   "caption": "Over two-thirds of companies operating in the state pay no corporate income tax. A combined reporting bill could raise about $1.5 billion a year.",
-   "visual": {
-    "type": "board",
-    "title": "Pennsylvania corporate taxes",
-    "rows": [
-     {
-      "k": "Corporate share of revenue, 1972",
-      "v": "30%"
-     },
-     {
-      "k": "Corporate share, 2023-24",
-      "v": "12%",
-      "tone": "loss"
-     },
-     {
-      "k": "Yearly revenue gap (est.)",
-      "v": "$2.2-3.0B",
-      "tone": "loss"
-     },
-     {
-      "k": "Combined reporting could raise",
-      "v": "$1.54B",
-      "tone": "gain"
-     },
-     {
-      "k": "States with this loophole",
-      "v": "18"
-     }
-    ]
-   },
-   "detail": [
-    "Multistate companies can set up Delaware subsidiaries that collect royalties from their Pennsylvania operations. The royalties are deducted in Pennsylvania and go untaxed in Delaware. Pennsylvania is one of 18 states that still allow it, according to ITEP.",
-    "HB 1610, which would require combined reporting, passed the state House 104-99 in June 2025 but has sat in the Senate Finance Committee since September 2025. The state Chamber of Business and Industry opposes it. Meanwhile, some school districts have raised local taxes nearly 5%."
-   ],
-   "money": [
-    "When state revenue falls short, local property taxes often rise; Pennsylvania homeowners should check for homestead exclusion savings.",
-    "Small business owners can compare their effective tax rate to bigger rivals; state rules may favor complex structures.",
-    "Watch for this issue in the 2027 session, as Democrats push new revenue ideas."
-   ],
-   "risk": [
-    "The bill faces strong business opposition and may not pass."
-   ],
-   "sources": [
-    {
-     "t": "Big corporations dodge taxes as Pennsylvania families pick up the tab",
-     "d": "inquirer.com",
-     "u": "https://inquirer.com/business/pennsylvania-corporations-dodge-taxes-20261115.html"
-    }
-   ],
-   "ts": "2026-11-16T07:20:00Z"
-  },
-  {
-   "id": "houthis-hit-saudi-pipeline-2026111607",
-   "type": "news",
-   "cat": "world",
-   "tags": [
-    "world",
-    "markets"
-   ],
-   "date": "Sun Nov 15",
-   "headline": "Houthis claim drone hits on Saudi oil pumping stations and missiles at Riyadh",
-   "caption": "The group says it struck two stations on Saudi Arabia's East-West Pipeline. Saudi forces report intercepting drones; the claims weren't verified.",
-   "visual": {
-    "type": "points",
-    "title": "Yemen escalation",
-    "items": [
-     "Drone claims on pumping stations 5 and 6",
-     "Missile claims on Riyadh airport, financial center",
-     "Saudi side reports intercepts over Mecca, Medina",
-     "Yemeni government forces pull back near Bab al-Mandab"
-    ]
-   },
-   "detail": [
-    "Yemen's Houthis said two drones struck pumping stations No. 5 and No. 6 on Saudi Arabia's East-West Pipeline, and that ballistic missiles targeted King Khalid International Airport and a financial center in Riyadh. Xinhua said the claims could not be independently verified.",
-    "The Saudi-led coalition reported intercepting drones over the Mecca and Medina regions. Government-aligned forces withdrew from positions overlooking the Bab al-Mandab Strait, a key shipping lane, as fighting widened alongside the Iran-Hormuz standoff."
-   ],
-   "money": [
-    "The East-West Pipeline lets Saudi oil bypass Hormuz; threats to it can push up oil and gas prices.",
-    "Higher fuel costs hit budgets first at the pump; filling up when prices dip can help.",
-    "Energy stocks and funds often rise on supply scares but can fall fast if tensions ease."
-   ],
-   "risk": [
-    "Claims from both sides are unverified, and markets may overreact either way."
-   ],
-   "sources": [
-    {
-     "t": "Houthis claim fresh strikes on Saudi Arabia amid battlefield gains in Yemen",
-     "d": "news.cn",
-     "u": "https://english.news.cn/20261116/609c2bf6e43a43efbdb69f6ea0301453/c.html"
-    },
-    {
-     "t": "Newsquawk Daily European Opening News - 16th November 2026",
-     "d": "newsquawk.com",
-     "u": "https://www.newsquawk.com/headlines/newsquawk-daily-european-opening-news---16th-november-2026"
-    }
-   ],
-   "ts": "2026-11-16T07:20:00Z"
-  },
-  {
-   "id": "zelensky-donbas-nato-question-2026111607",
-   "type": "news",
-   "cat": "world",
-   "tags": [
-    "world",
-    "politics"
-   ],
-   "date": "Sat Nov 14 - Sun Nov 15",
-   "headline": "Zelensky: US envoys asked if Ukraine would leave Donbas in exchange for NATO",
-   "caption": "He said it was the first time the question came up, and any formal offer would go to the public. The Kremlin says it will reach its goals by force if talks fail.",
-   "visual": {
-    "type": "timeline",
-    "title": "Ukraine peace talks",
-    "items": [
-     {
-      "d": "NOV 11",
-      "t": "Abu Dhabi talks end",
-      "s": "no ceasefire deal"
-     },
-     {
-      "d": "NOV 14",
-      "t": "Zelensky reveals NATO-for-Donbas question"
-     },
-     {
-      "d": "NOV 15",
-      "t": "Peskov: force if no security deal",
-      "now": true
-     }
-    ]
-   },
-   "detail": [
-    "Ukrainian President Volodymyr Zelensky said US envoys asked whether Ukraine would withdraw from the Donbas if it joined NATO. He said Ukraine is preparing a security package with NATO and EU guarantees, time-limited financial support and a funded recovery plan.",
-    "Three-way talks among Russia, the US and Ukraine ended in Abu Dhabi last week with no ceasefire. Kremlin spokesman Dmitry Peskov said Russia will reach its goals by force if no security deal with Europe is reached. Separately, the EU is proposing a 45 billion euro loan for Ukraine."
-   ],
-   "money": [
-    "Peace headlines can move oil, wheat and European defense stocks; avoid chasing short-term swings.",
-    "A real ceasefire could ease energy prices over time, which would help household budgets.",
-    "Defense stocks have run up on the war; a deal could hit them, so check your exposure."
-   ],
-   "risk": [
-    "Nothing has been formally offered, and talks have stalled before."
-   ],
-   "sources": [
-    {
-     "t": "Washington links NATO entry to Kyiv's Donbas pullout",
-     "d": "chinadaily.com.cn",
-     "u": "https://global.chinadaily.com.cn/a/202611/16/WS6afa61bfe4b03ebf8519c8ba.html"
-    },
-    {
-     "t": "Newsquawk Daily European Opening News - 16th November 2026",
-     "d": "newsquawk.com",
-     "u": "https://www.newsquawk.com/headlines/newsquawk-daily-european-opening-news---16th-november-2026"
-    }
-   ],
-   "ts": "2026-11-16T07:20:00Z"
-  },
-  {
-   "id": "estonia-closes-russia-border-2026111607",
-   "type": "news",
-   "cat": "world",
-   "tags": [
-    "world",
-    "business"
-   ],
-   "date": "Mon Nov 16",
-   "headline": "Estonia will close its Russia border crossings Dec. 1 after a suspected sabotage attack",
-   "caption": "The move follows a suspected GRU-linked attack on a drone maker. It is one of several security alarms across Europe this weekend.",
-   "visual": {
-    "type": "points",
-    "title": "Europe security watch",
-    "items": [
-     "Estonia shuts Russia crossings from Dec. 1",
-     "Trigger: suspected GRU-linked sabotage of a drone maker",
-     "Suspicious drones reported at RAF Lakenheath, no damage",
-     "Australia and the Philippines sign a defense pact"
-    ]
-   },
-   "detail": [
-    "Estonia said it will close its border crossings with Russia from Dec. 1, after a suspected sabotage attack on a drone maker linked to Russia's GRU military intelligence.",
-    "In the UK, suspicious drone activity was reported at RAF Lakenheath, with no damage. Australia and the Philippines signed a new defense pact the same weekend."
-   ],
-   "money": [
-    "Border closures can disrupt freight routes and raise costs for goods moving between the Baltics and Russia.",
-    "European defense spending keeps rising; diversified funds may already hold these stocks.",
-    "Travelers to the Baltics should check routes and insurance for possible disruptions."
-   ],
-   "risk": [
-    "Escalation in the Baltics could unsettle European markets."
-   ],
-   "sources": [
-    {
-     "t": "Newsquawk Daily European Opening News - 16th November 2026",
-     "d": "newsquawk.com",
-     "u": "https://www.newsquawk.com/headlines/newsquawk-daily-european-opening-news---16th-november-2026"
-    }
-   ],
-   "ts": "2026-11-16T07:20:00Z"
-  },
-  {
-   "id": "uk-house-prices-boe-hikes-2026111607",
-   "type": "news",
-   "cat": "world",
-   "tags": [
-    "world",
-    "markets"
-   ],
-   "date": "Mon Nov 16",
-   "headline": "UK asking prices drop 1.8% in November as the BoE's chief economist eyes more hikes",
-   "caption": "Rightmove's index fell 1.8% on the month and 0.2% on the year. BoE's Huw Pill expects further rate hikes in 2027.",
-   "visual": {
-    "type": "stat",
-    "title": "UK house asking prices (Rightmove)",
-    "num": "-1.8%",
-    "tone": "loss",
-    "label": "November change, after a 1.0% rise in October.",
-    "rows": [
-     [
-      "Month",
-      -1.8
-     ],
-     [
-      "Year",
-      -0.2
-     ],
-     [
-      "Prior month",
-      1.0
-     ]
-    ]
-   },
-   "detail": [
-    "Rightmove said average UK asking prices fell 1.8% in November after rising 1.0% in October, and are down 0.2% from a year ago.",
-    "Bank of England chief economist Huw Pill said he expects more rate hikes in 2027, and policymaker Megan Greene favored acting early against inflation. UK inflation and jobs data are due this week."
-   ],
-   "money": [
-    "Rising rates abroad and at home both point to costlier borrowing; lock fixed rates where it makes sense.",
-    "Falling asking prices can give buyers room to negotiate, in the UK and in cooling US markets.",
-    "A stronger case for hikes can lift savings yields; shop around for better rates."
-   ],
-   "risk": [
-    "Asking prices are not sale prices, so actual values may differ."
-   ],
-   "sources": [
-    {
-     "t": "Newsquawk Daily European Opening News - 16th November 2026",
-     "d": "newsquawk.com",
-     "u": "https://www.newsquawk.com/headlines/newsquawk-daily-european-opening-news---16th-november-2026"
-    }
-   ],
-   "ts": "2026-11-16T07:20:00Z"
-  },
-  {
-   "id": "edu-fed-hike-your-wallet-2026111607",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "markets"
-   ],
-   "date": "Explainer",
-   "headline": "What a Fed rate hike does to your wallet",
-   "caption": "Fed officials are signaling another hike Dec. 9. Here's how one move ripples into your loans and savings.",
-   "scenes": [
-    {
-     "k": "TODAY'S NEWS",
-     "t": "The Fed may raise rates again on Dec. 9",
-     "s": "Officials say inflation is running too hot."
-    },
-    {
-     "k": "THE RATE",
-     "t": "Fed funds now: 3.75% to 4.00%",
-     "s": "That's what banks charge each other overnight."
-    },
-    {
-     "k": "THE RIPPLE",
-     "t": "Banks pass it along fast",
-     "viz": {
-      "type": "flow",
-      "items": [
-       "Fed hikes",
-       "Prime rate rises",
-       "Card and HELOC rates rise",
-       "Savings yields rise"
-      ]
-     }
-    },
-    {
-     "k": "AN EXAMPLE",
-     "t": "A quarter point on $5,000 of card debt",
-     "viz": {
-      "type": "split",
-      "items": [
-       [
-        "Debt",
-        "$5,000"
-       ],
-       [
-        "Extra rate",
-        "0.25%"
-       ],
-       [
-        "Extra cost per year",
-        "about $12.50",
-        "wide"
-       ]
-      ]
-     },
-     "say": "On five thousand dollars of card debt, a quarter-point hike adds about twelve dollars and fifty cents a year in interest."
-    },
-    {
-     "k": "THE UPSIDE",
-     "t": "Savers can earn more",
-     "s": "High-yield savings and T-bills tend to pay more after hikes."
-    },
-    {
-     "k": "YOUR MOVE",
-     "t": "Pay down variable debt, shop savings rates",
-     "s": "Fixed-rate loans don't change; variable ones do."
-    }
-   ],
-   "ts": "2026-11-16T07:20:00Z"
-  },
-  {
-   "id": "edu-rainy-day-fund-2026111607",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "states"
-   ],
-   "date": "Explainer",
-   "headline": "Rainy-day funds: why 'days of cash' matters, for states and you",
-   "caption": "Illinois has a record rainy-day fund, but it covers only about 16 days. Here's how to think about your own cushion.",
-   "scenes": [
-    {
-     "k": "TODAY'S NEWS",
-     "t": "Illinois sees a $2.4B gap next year",
-     "s": "Its rainy-day fund is a record $2.58 billion."
-    },
-    {
-     "k": "BUT",
-     "t": "That only covers about 16 days",
-     "viz": {
-      "type": "split",
-      "items": [
-       [
-        "Illinois",
-        "16.2 days"
-       ],
-       [
-        "National median",
-        "47.9 days"
-       ],
-       [
-        "Gap",
-        "about 32 days",
-        "wide"
-       ]
-      ]
-     },
-     "say": "Illinois' fund covers about sixteen days of operations, while the typical state covers about forty-eight."
-    },
-    {
-     "k": "THE IDEA",
-     "t": "Size matters less than time covered",
-     "s": "A big number can still run out fast."
-    },
-    {
-     "k": "FOR YOU",
-     "t": "Count months, not dollars",
-     "viz": {
-      "type": "flow",
-      "items": [
-       "Add up monthly must-pay bills",
-       "Divide savings by that total",
-       "That's your months of cushion"
-      ]
-     }
-    },
-    {
-     "k": "A COMMON GOAL",
-     "t": "Many aim for 3 to 6 months",
-     "s": "More if your job or income is less steady."
-    },
-    {
-     "k": "YOUR MOVE",
-     "t": "Automate a small transfer each payday",
-     "s": "Steady saving builds the cushion before you need it."
     }
    ],
    "ts": "2026-11-16T07:20:00Z"
