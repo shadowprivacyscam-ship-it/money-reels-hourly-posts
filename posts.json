@@ -1,6 +1,967 @@
 {
- "updated": "2026-11-16T07:20:00Z",
+ "updated": "2026-11-16T08:20:00Z",
  "items": [
+  {
+   "id": "asia-close-kospi-nikkei-2026111608",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets",
+    "ai"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T08:20:00Z",
+   "headline": "Asia closes red before Nvidia: Kospi falls 2.8%, Nikkei 1.6%",
+   "caption": "Chip stocks led Asia lower on Monday, a day before Nvidia reports. Hong Kong bucked the trend with a small gain.",
+   "visual": {
+    "type": "board",
+    "title": "Asia close, Mon Nov 16",
+    "rows": [
+     {
+      "k": "Kospi",
+      "s": "South Korea",
+      "v": "5,142.84",
+      "ch": -2.8,
+      "tone": "loss"
+     },
+     {
+      "k": "Nikkei 225",
+      "s": "Japan",
+      "v": "60,182.50",
+      "ch": -1.6,
+      "tone": "loss"
+     },
+     {
+      "k": "Shanghai",
+      "v": "3,621.46",
+      "ch": -0.4,
+      "tone": "loss"
+     },
+     {
+      "k": "ASX 200",
+      "s": "Australia",
+      "v": "9,064.30",
+      "ch": -0.2,
+      "tone": "loss"
+     },
+     {
+      "k": "Hang Seng",
+      "s": "Hong Kong",
+      "v": "23,852.96",
+      "ch": 0.9,
+      "tone": "gain"
+     }
+    ],
+    "foot": "Taiwan's Taiex fell 4.1%"
+   },
+   "detail": [
+    "Asian markets finished mostly lower as worries about the AI trade carried into a new week. South Korea's Kospi dropped 2.8% and Japan's Nikkei lost 1.6%. Taiwan fell 4.1%.",
+    "Chipmakers took the biggest hits. SK Hynix and Kioxia each fell 5.5%, Tokyo Electron lost 5.2%, SoftBank fell 4.2% and TSMC dropped 3.4%.",
+    "Nvidia reports on Tuesday, its first report since Jensen Huang resigned as CEO. Anthropic's stock debut is also set for later this week."
+   ],
+   "money": [
+    "If you hold a broad Asia or emerging-markets fund, chip stocks are a big slice of it. Check how much.",
+    "Big swings before a key report can reverse fast. Avoid panic-selling a long-term fund on one day.",
+    "Hong Kong rose while others fell, a reminder that spreading money across regions can soften drops."
+   ],
+   "risk": [
+    "Nvidia's results could move chip stocks sharply in either direction this week."
+   ],
+   "sources": [
+    {
+     "t": "Stocks decline in Asia as investor concerns over Nvidia fallout extend into another week",
+     "d": "wsls.com",
+     "u": "https://www.wsls.com/business/2026/11/16/stocks-decline-in-asia-as-investor-concerns-over-nvidia-fallout-extend-into-another-week/"
+    }
+   ]
+  },
+  {
+   "id": "copper-four-month-low-2026111608",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets",
+    "world"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T08:20:00Z",
+   "headline": "Copper slides to its lowest in almost four months; BHP falls",
+   "caption": "Copper dropped about 1.6% early Monday, and iron ore fell for a third day. Mining shares dragged Australia's market lower.",
+   "visual": {
+    "type": "stat",
+    "title": "Metals, Mon Nov 16",
+    "num": "-1.6%",
+    "tone": "loss",
+    "label": "LME copper hit its lowest level in almost four months.",
+    "facts": [
+     [
+      "Copper",
+      "$13,371.50",
+      "per tonne, LME 3-month"
+     ],
+     [
+      "Iron ore",
+      "$90.95",
+      "per tonne, Friday spot, -0.4%"
+     ],
+     [
+      "Gold",
+      "$3,871",
+      "per ounce, -0.2%"
+     ]
+    ]
+   },
+   "detail": [
+    "Copper fell to its lowest level in almost four months early Monday. Three-month copper on the London Metal Exchange was down about 1.6% at $13,371.50 a tonne.",
+    "Iron ore futures in Dalian fell for a third straight session. Big miner BHP lost 1.2% and copper miner Capstone fell 2.7%. Coal producer New Hope dropped 3.3% after a 10% fall in quarterly output.",
+    "Spot gold was also down about 0.2% at $3,871 an ounce."
+   ],
+   "money": [
+    "Copper is often read as a gauge of global factory demand. Falling prices can hint at a slowing economy.",
+    "Mining stocks and funds tend to move with metal prices. Know your exposure before buying the dip.",
+    "Cheaper copper can eventually lower costs for wiring, electronics and home building."
+   ],
+   "risk": [
+    "Metals can rebound quickly on any China stimulus or trade news."
+   ],
+   "sources": [
+    {
+     "t": "ASX falls as miners drag, Coles investigates cybersecurity incident — as it happened",
+     "d": "abc.net.au",
+     "u": "https://abc.net.au/news/2026-11-16/asx-markets-business-live-news-nov-16/107388134"
+    }
+   ]
+  },
+  {
+   "id": "asx-elders-adore-beauty-2026111608",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets",
+    "business"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T08:20:00Z",
+   "headline": "Australia movers: Elders jumps 7.8% on profit; Adore Beauty sinks 36%",
+   "caption": "Farm services firm Elders posted a big profit jump. Online beauty seller Adore Beauty hit a record low after slashing its outlook.",
+   "visual": {
+    "type": "stat",
+    "title": "ASX movers, Mon Nov 16",
+    "num": "-36%",
+    "tone": "loss",
+    "label": "Adore Beauty fell to a record low of 17 cents after cutting guidance.",
+    "rows": [
+     [
+      "Elders",
+      7.8
+     ],
+     [
+      "Adore Beauty",
+      -36.0
+     ],
+     [
+      "IperionX",
+      -4.7
+     ]
+    ]
+   },
+   "detail": [
+    "Elders said its statutory profit rose 187% to $144 million for fiscal 2026. Underlying sales revenue climbed 31% to $4.0 billion. It held its dividend at 36 cents, and the shares rose 7.8%, the ASX 200's top gainer.",
+    "Adore Beauty fell 36% to 17 cents, a record low. It cut its fiscal 2027 underlying EBITDA guidance to $4.0 to $6.5 million, down from $9 to $13 million. Revenue for the first 20 weeks fell 8%.",
+    "Adore Beauty also said talks with its bank about loan covenants are ongoing."
+   ],
+   "money": [
+    "A guidance cut can hit a small stock far harder than a big one. Size positions in small caps carefully.",
+    "Loan covenant talks are a warning sign. Check a company's debt before buying a beaten-down stock.",
+    "Strong results paired with a steady dividend often attract income investors."
+   ],
+   "risk": [
+    "Prices are in Australian dollars and these are thinly traded compared with US stocks."
+   ],
+   "sources": [
+    {
+     "t": "ASX falls as miners drag, Coles investigates cybersecurity incident — as it happened",
+     "d": "abc.net.au",
+     "u": "https://abc.net.au/news/2026-11-16/asx-markets-business-live-news-nov-16/107388134"
+    }
+   ]
+  },
+  {
+   "id": "idp-rejects-blackstone-third-2026111608",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business",
+    "markets"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T08:20:00Z",
+   "headline": "IELTS co-owner IDP rejects Blackstone's third buyout offer at A$3.00 a share",
+   "caption": "IDP Education turned down a third Blackstone proposal, saying it undervalues the business. Two earlier bids were also rejected.",
+   "visual": {
+    "type": "timeline",
+    "title": "Blackstone's bids for IDP",
+    "items": [
+     {
+      "d": "EARLIER",
+      "t": "A$2.30 a share",
+      "s": "Rejected"
+     },
+     {
+      "d": "SEP 9",
+      "t": "A$2.50 a share",
+      "s": "Rejected Sept. 22"
+     },
+     {
+      "d": "NOV 16",
+      "t": "A$3.00 a share",
+      "s": "Rejected",
+      "now": true
+     }
+    ]
+   },
+   "detail": [
+    "IDP Education, which co-owns the IELTS English test, rejected Blackstone's third takeover proposal of A$3.00 per share. The board said the offer undervalues the business.",
+    "IDP shares closed Friday at A$2.57, giving it a market value of about A$715 million. Blackstone's earlier offers were A$2.30 and A$2.50 a share.",
+    "In September, the board called the A$2.50 bid opportunistic and pointed to its multi-year turnaround plan."
+   ],
+   "money": [
+    "Takeover targets often trade below the offer price. That gap reflects the risk the deal never happens.",
+    "Buying a stock just for a buyout is a bet. If the bidder walks away, shares can fall back.",
+    "Rejections sometimes lead to higher offers, as happened here twice."
+   ],
+   "risk": [
+    "Blackstone could walk away, which could send the shares lower."
+   ],
+   "sources": [
+    {
+     "t": "ASX falls as miners drag, Coles investigates cybersecurity incident — as it happened",
+     "d": "abc.net.au",
+     "u": "https://abc.net.au/news/2026-11-16/asx-markets-business-live-news-nov-16/107388134"
+    },
+    {
+     "t": "IELTS English-language exam co-owner IDP spurns Blackstone's sweetened bid",
+     "d": "ksl.com",
+     "u": "https://www.ksl.com/article/51626969/idp-rejects-blackstones-improved-takeover-offer"
+    }
+   ]
+  },
+  {
+   "id": "coles-cyber-incident-2026111608",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T08:20:00Z",
+   "headline": "Australian grocer Coles probes a weekend cyber incident",
+   "caption": "Coles says it has found no sign that customer data was taken so far. Some Liquorland click-and-collect orders are having problems.",
+   "visual": {
+    "type": "points",
+    "title": "Coles cyber incident",
+    "items": [
+     "Incident happened over the weekend",
+     "No evidence so far of data taken",
+     "Liquorland click-and-collect hit for some",
+     "Stores and operations keep running",
+     "Shares down 0.1% in morning trade"
+    ]
+   },
+   "detail": [
+    "Coles, one of Australia's two big supermarket chains, is investigating a cyber incident that happened over the weekend.",
+    "It said its investigation so far found no evidence that customer, staff or supplier data was compromised or removed. A small number of customers are having trouble with Liquorland click-and-collect.",
+    "Coles is working with outside cybersecurity experts and promised more updates. Its shares slipped 0.1% in morning trade."
+   ],
+   "money": [
+    "After any store's cyber incident, watch your card statements for charges you don't recognize.",
+    "Use a unique password for each shopping account so one breach can't unlock others.",
+    "A credit freeze is free and can block new accounts opened in your name."
+   ],
+   "risk": [
+    "Early findings can change as investigations go on."
+   ],
+   "sources": [
+    {
+     "t": "ASX falls as miners drag, Coles investigates cybersecurity incident — as it happened",
+     "d": "abc.net.au",
+     "u": "https://abc.net.au/news/2026-11-16/asx-markets-business-live-news-nov-16/107388134"
+    }
+   ]
+  },
+  {
+   "id": "mtn-telkom-talks-2026111608",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business",
+    "world"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T08:20:00Z",
+   "headline": "Africa's MTN in early talks to buy South Africa's Telkom, four years after a failed bid",
+   "caption": "MTN says it has expressed interest in buying all of Telkom's shares. No price has been disclosed, and the deal is not certain.",
+   "visual": {
+    "type": "deals",
+    "title": "MTN's deal moves",
+    "items": [
+     {
+      "a": "MTN",
+      "b": "Telkom SA",
+      "amt": "Undisclosed",
+      "st": "Early talks, no formal offer",
+      "c": "pend"
+     },
+     {
+      "a": "MTN",
+      "b": "IHS Holdings",
+      "amt": "Tower firm",
+      "st": "Expected to close by end of 2026",
+      "c": "pend"
+     },
+     {
+      "a": "MTN",
+      "b": "Telkom SA (2022)",
+      "amt": "—",
+      "st": "Earlier bid collapsed Oct 2022",
+      "c": "bad"
+     }
+    ]
+   },
+   "detail": [
+    "MTN Group said it is in early discussions to buy all of Telkom SA's shares. It called this an expression of interest, not a formal offer.",
+    "Cash is the leading option, though Telkom holders could get MTN shares instead. Telkom is partly owned by South Africa's government. An earlier MTN bid collapsed in October 2022.",
+    "A combined company would become South Africa's largest operator by customers, ahead of Vodacom. Competition regulators would review it."
+   ],
+   "money": [
+    "Early talks often end without a deal. Avoid chasing a target stock on rumors alone.",
+    "Mergers that cut competition can mean higher phone bills, which regulators try to prevent.",
+    "Emerging-market funds may hold both companies. Check your fund's top holdings."
+   ],
+   "risk": [
+    "Regulators could demand spectrum sales or block the deal."
+   ],
+   "sources": [
+    {
+     "t": "MTN in talks to acquire Telkom SA, 4 years after first bid collapsed",
+     "d": "technext24.com",
+     "u": "https://technext24.com/news/mtn-talks-to-acquire-telkom-sa-4-years-after/"
+    }
+   ]
+  },
+  {
+   "id": "gas-below-4-dollars-2026111608",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business",
+    "world"
+   ],
+   "date": "This week",
+   "ts": "2026-11-16T08:20:00Z",
+   "headline": "US gas falls to $3.91 a gallon, under $4 for the first time since August",
+   "caption": "The national average dropped below $4 as oil eased, per AAA. It's still about 92 cents higher than a year ago.",
+   "visual": {
+    "type": "stat",
+    "title": "US regular gas",
+    "num": "$3.91",
+    "tone": "gain",
+    "label": "National average per AAA as of Nov. 11, first time under $4 since early August.",
+    "facts": [
+     [
+      "vs. year ago",
+      "+$0.92",
+      "still much higher"
+     ],
+     [
+      "Lowest state",
+      "$3.23",
+      "North Carolina"
+     ],
+     [
+      "WTI oil",
+      "$87.21",
+      "Nov. 9, from $99.35"
+     ]
+    ]
+   },
+   "detail": [
+    "The national average for regular gas fell to $3.91 a gallon, according to AAA data as of Nov. 11. It's the first time below $4 since early August.",
+    "Prices fell in every state in the first week of November. North Carolina had the lowest average at $3.23. Gas is still about 92 cents higher than a year ago.",
+    "GasBuddy's Patrick De Haan said prices could stay under $4 if oil keeps falling and the Iran conflict doesn't escalate. A switch to cheaper winter gas also helps."
+   ],
+   "money": [
+    "Use a gas price app before Thanksgiving trips. Prices can vary a lot within a few miles.",
+    "Store loyalty and warehouse club programs often cut cents per gallon.",
+    "Don't lock in a fuel prepay deal when prices are falling."
+   ],
+   "risk": [
+    "Any flare-up in the Iran war could push prices back up fast."
+   ],
+   "sources": [
+    {
+     "t": "Gas Prices Drop to $3.91 Ahead of Thanksgiving, But Remain 92 Cents Higher Than Last Year",
+     "d": "finance.yahoo.com",
+     "u": "https://finance.yahoo.com/energy/articles/gas-prices-drop-3-91-170045477.html"
+    }
+   ]
+  },
+  {
+   "id": "appleton-ice-facility-2026111608",
+   "type": "news",
+   "cat": "immigration",
+   "tags": [
+    "immigration",
+    "states"
+   ],
+   "date": "Sat Nov 14",
+   "ts": "2026-11-16T08:20:00Z",
+   "headline": "Minnesota's new ICE detention site draws protests in its first weekend",
+   "caption": "More than 70 people rallied outside the Appleton facility, which opened Nov. 9. The government bought the former prison for $495.6 million.",
+   "visual": {
+    "type": "stat",
+    "title": "Appleton ICE facility",
+    "num": "1,600",
+    "tone": "acc",
+    "label": "Beds the former private prison in western Minnesota can hold.",
+    "facts": [
+     [
+      "Purchase price",
+      "$495.6M",
+      "paid to CoreCivic"
+     ],
+     [
+      "CoreCivic revenue",
+      "~$75M/yr",
+      "5-year contract"
+     ],
+     [
+      "Opened",
+      "Nov. 9",
+      "vacant since 2010"
+     ]
+    ]
+   },
+   "detail": [
+    "The Department of Homeland Security opened a detention facility in Appleton, Minnesota, on Nov. 9. The former prison can hold up to 1,600 detainees and had been empty since 2010.",
+    "CoreCivic sold the site to the federal government for $495.6 million and expects about $75 million a year under a five-year contract. DHS said the site gives ICE capacity right away without new construction.",
+    "On Saturday, more than 70 people attended a prayer vigil and rally organized by a local group. A local attorney believes more than 70 people are being held there."
+   ],
+   "money": [
+    "Private prison companies earn revenue from federal detention contracts. Their stocks react to policy shifts.",
+    "Detention sites can bring jobs to small towns, but contracts can change with new policies.",
+    "Taxpayer costs for detention are set by Congress. Watch budget debates if this matters to you."
+   ],
+   "risk": [
+    "Policy and funding for detention could change after the new Congress takes office."
+   ],
+   "sources": [
+    {
+     "t": "Appleton ICE detention facility draws dozens of protesters in first weekend of operation",
+     "d": "mprnews.org",
+     "u": "https://www.mprnews.org/story/2026/11/15/appleton-ice-detention-facility-draws-protests-in-first-weekend-of-operation"
+    },
+    {
+     "t": "ICE facility opens in Appleton, Minn. to 'carry out mass deportation mandate'",
+     "d": "fox9.com",
+     "u": "https://www.fox9.com/news/ice-facility-opens-appleton-minn-carry-out-mass-deportation-mandate"
+    }
+   ]
+  },
+  {
+   "id": "crypto-fear-index-10-2026111608",
+   "type": "news",
+   "cat": "crypto",
+   "tags": [
+    "crypto",
+    "markets"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T08:20:00Z",
+   "headline": "Crypto fear gauge stuck at 10, 'extreme fear,' as bitcoin hovers near $65,000",
+   "caption": "The Fear and Greed index sat at 10 for a second day, down from 55 a month ago. Total crypto value is about $2.27 trillion.",
+   "visual": {
+    "type": "board",
+    "title": "Crypto snapshot, Nov 16 (4am UTC)",
+    "rows": [
+     {
+      "k": "Fear & Greed",
+      "s": "was 55 a month ago",
+      "v": "10",
+      "tone": "loss"
+     },
+     {
+      "k": "Bitcoin",
+      "v": "$65,019",
+      "ch": 0.1
+     },
+     {
+      "k": "Ether",
+      "v": "$1,825",
+      "ch": 0.4
+     },
+     {
+      "k": "Solana",
+      "v": "$71.81",
+      "ch": 0.8
+     },
+     {
+      "k": "Total market",
+      "v": "$2.27T",
+      "ch": -0.8,
+      "tone": "loss"
+     }
+    ],
+    "foot": "Bitcoin dominance: 57.6%"
+   },
+   "detail": [
+    "The crypto Fear and Greed index read 10, or extreme fear, on Monday, the same as Sunday. A week ago it was 29, and a month ago it showed greed at 55.",
+    "Bitcoin traded near $65,000 and ether near $1,825, both roughly flat. The total crypto market was worth about $2.27 trillion, down 0.8% in a day. Stablecoins totaled about $284 billion.",
+    "Traders are watching a Fed speech, Nvidia's results and Fed minutes this week. Markets see about a 90% chance of another Fed rate hike this year."
+   ],
+   "money": [
+    "Extreme fear readings have marked bottoms before, but not always. Don't treat one number as a buy signal.",
+    "If you buy, small regular amounts reduce the risk of bad timing.",
+    "Only put in crypto money you can afford to see drop by half."
+   ],
+   "risk": [
+    "Fear can deepen further if stocks fall after Nvidia's report."
+   ],
+   "sources": [
+    {
+     "t": "Crypto News: Bitcoin at $65K, Fear Index Hits 10, Fed Rate Hike Looms",
+     "d": "coingabbar.com",
+     "u": "https://www.coingabbar.com/en/crypto-news-nov-16-bitcoin-eth-price-fear-index-crypto-events"
+    }
+   ]
+  },
+  {
+   "id": "aster-swing-brazil-stablecoin-2026111608",
+   "type": "news",
+   "cat": "crypto",
+   "tags": [
+    "crypto"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T08:20:00Z",
+   "headline": "ASTER whipsaws 32% in a day; Brazil warns on stablecoin transfers",
+   "caption": "ASTER spiked to $0.71 then dropped to about $0.48, and its CEO blamed leveraged liquidations. In Brazil, an official warned stablecoin funds can be flagged.",
+   "visual": {
+    "type": "vs",
+    "title": "ASTER's round trip",
+    "a": [
+     "High",
+     "$0.7124",
+     1,
+     "gain"
+    ],
+    "b": [
+     "Later",
+     "$0.4812",
+     0.68,
+     "loss"
+    ],
+    "foot": "About a 32% drop from the peak"
+   },
+   "detail": [
+    "The ASTER token surged to $0.7124 and then fell to about $0.4812, a 32% drop. Its CEO blamed leveraged liquidations and possible malicious activity, and promised a full report.",
+    "In Brazil, a central bank official said funds converted through stablecoins can be flagged as possible money laundering. A rule in effect since Oct. 1 bans fintech stablecoin routes for sending money abroad.",
+    "Elsewhere, the token AKE fell about 15% in a day after a large supply unlock."
+   ],
+   "money": [
+    "Small tokens with heavy borrowing can swing 30% in hours. Avoid leverage on them.",
+    "If you send money abroad, use regulated services and keep records of each transfer.",
+    "Waiting for a project's incident report before buying a crash can save you from a second drop."
+   ],
+   "risk": [
+    "Exchanges can freeze or limit trading during disputed price moves."
+   ],
+   "sources": [
+    {
+     "t": "Crypto News: Bitcoin at $65K, Fear Index Hits 10, Fed Rate Hike Looms",
+     "d": "coingabbar.com",
+     "u": "https://www.coingabbar.com/en/crypto-news-nov-16-bitcoin-eth-price-fear-index-crypto-events"
+    }
+   ]
+  },
+  {
+   "id": "nvidia-investors-huang-letter-2026111608",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "markets"
+   ],
+   "date": "Fri Nov 13",
+   "ts": "2026-11-16T08:20:00Z",
+   "headline": "Nvidia investors holding $2.1B urge the board to keep the door open for Huang",
+   "caption": "Altimeter's Brad Gerstner and Atreides' Gavin Baker asked Nvidia's board to go slow on a permanent CEO search. They didn't demand Huang's return.",
+   "visual": {
+    "type": "timeline",
+    "title": "Nvidia's CEO week",
+    "items": [
+     {
+      "d": "LAST WEEK",
+      "t": "Jensen Huang resigns",
+      "s": "Colette Kress is interim CEO"
+     },
+     {
+      "d": "NOV 13",
+      "t": "Big holders send letter",
+      "s": "Keep a Huang return possible"
+     },
+     {
+      "d": "NOV 17",
+      "t": "Q3 results",
+      "s": "First call led by Kress",
+      "now": true
+     }
+    ]
+   },
+   "detail": [
+    "Two big Nvidia investors, Altimeter Capital's Brad Gerstner and Atreides Management's Gavin Baker, sent a letter to the board. Together they hold about $2.1 billion in Nvidia stock.",
+    "They urged the board to move slowly on picking a permanent CEO and to keep a possible return by Jensen Huang on the table. They stopped short of demanding he be reinstated.",
+    "Nvidia reports quarterly results Tuesday, the first call led by interim CEO Colette Kress. Nvidia's market value has dropped from about $5.8 trillion in early October to $3.9 trillion."
+   ],
+   "money": [
+    "Leadership doubts can weigh on a stock even when the business is strong. Watch the guidance, not just the headline numbers.",
+    "Most S&P 500 index funds hold a lot of Nvidia. Your retirement account likely feels these swings.",
+    "Options get pricier before earnings. Buying them now means paying for that uncertainty."
+   ],
+   "risk": [
+    "A messy succession could keep pressure on the shares for months."
+   ],
+   "sources": [
+    {
+     "t": "AI Frontier Daily, Nov 15, 2026",
+     "d": "kellyabbott1.substack.com",
+     "u": "https://kellyabbott1.substack.com/p/ai-frontier-daily-2026-11-15"
+    },
+    {
+     "t": "Nvidia investors letter on Jensen Huang return",
+     "d": "cnbc.com",
+     "u": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html"
+    },
+    {
+     "t": "ASX falls as miners drag, Coles investigates cybersecurity incident — as it happened",
+     "d": "abc.net.au",
+     "u": "https://abc.net.au/news/2026-11-16/asx-markets-business-live-news-nov-16/107388134"
+    }
+   ]
+  },
+  {
+   "id": "lg-kiria-humanoid-cert-2026111608",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "business"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T08:20:00Z",
+   "headline": "LG teams with a Korean robot agency to build safety certification for humanoids",
+   "caption": "LG signed a deal with KIRIA to set safety and reliability standards for humanoid robots. It aims to show a two-legged robot in early 2027.",
+   "visual": {
+    "type": "timeline",
+    "title": "LG's humanoid plan",
+    "items": [
+     {
+      "d": "NOV 16",
+      "t": "MoU with KIRIA",
+      "s": "Safety, reliability, usability certification",
+      "now": true
+     },
+     {
+      "d": "BEFORE LAUNCH",
+      "t": "Pilot certification",
+      "s": "LG plans to go first"
+     },
+     {
+      "d": "Q1 2027",
+      "t": "Bipedal robot unveiling",
+      "s": "Built on Nvidia's reference platform"
+     }
+    ]
+   },
+   "detail": [
+    "LG Electronics signed a memorandum of understanding with KIRIA, a Korean robot industry agency. The goal is to create certification for humanoid robot safety, reliability and usability.",
+    "LG will seek a pilot certification before unveiling a two-legged robot in the first quarter of 2027. The robot is built on Nvidia's reference platform.",
+    "Separately, Swiss startup Embodied AI unveiled AIR, a wheeled humanoid without legs. It reports 98% reliability handling cables on live factory lines."
+   ],
+   "money": [
+    "Safety certification is often what lets new tech reach homes and offices at scale.",
+    "Robotics ETFs bundle many of these firms. They can be volatile, so keep positions small.",
+    "Factory robots could lower some product costs over time, but expect a slow rollout."
+   ],
+   "risk": [
+    "Humanoid robots remain early, and many startups are burning cash."
+   ],
+   "sources": [
+    {
+     "t": "Market News — Monday 16 November 2026",
+     "d": "hervecuviliez.substack.com",
+     "u": "https://hervecuviliez.substack.com/p/market-news-monday-16-november-2026"
+    },
+    {
+     "t": "Embodied AI AIR humanoid robot for factory tasks",
+     "d": "theroboticsmedia.com",
+     "u": "https://theroboticsmedia.com/article/embodied-ai-air-humanoid-robot-factory-tasks"
+    }
+   ]
+  },
+  {
+   "id": "mount-thor-mac-datacenters-2026111608",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "business"
+   ],
+   "date": "This week",
+   "ts": "2026-11-16T08:20:00Z",
+   "headline": "Startup Mount Thor raises $45M to build Mac data centers for AI agents",
+   "caption": "The company runs Apple-silicon Macs at data-center scale for AI agents. CRV and Conviction co-led its Series A.",
+   "visual": {
+    "type": "deals",
+    "title": "AI funding this week",
+    "items": [
+     {
+      "a": "Mount Thor",
+      "b": "Mac data centers for agents",
+      "amt": "$45M",
+      "st": "Seed + Series A",
+      "c": "ok"
+     },
+     {
+      "a": "Mosaico (Italy)",
+      "b": "Robot training data tools",
+      "amt": "€7.5M",
+      "st": "Seed",
+      "c": "ok"
+     }
+    ]
+   },
+   "detail": [
+    "Mount Thor raised $45 million across seed and Series A rounds. CRV and Conviction co-led the Series A, and Chad Byers and Offline Ventures co-led the seed.",
+    "The startup builds data centers out of Apple-silicon Macs so AI agents can use Apple's operating system at scale. Its founder is a former OpenAI staffer.",
+    "Also this week, Italian robotics startup Mosaico raised a €7.5 million seed round for managing sensor data used to train robot AI models."
+   ],
+   "money": [
+    "New cloud options can push down prices for developers who rent computing power.",
+    "Startup funding news hints at where big money sees growth, but you can't buy these shares directly.",
+    "If you build apps, compare Mac cloud costs against buying your own hardware."
+   ],
+   "risk": [
+    "Early-stage startups often fail; funding isn't proof of a working business."
+   ],
+   "sources": [
+    {
+     "t": "Market News — Monday 16 November 2026",
+     "d": "hervecuviliez.substack.com",
+     "u": "https://hervecuviliez.substack.com/p/market-news-monday-16-november-2026"
+    },
+    {
+     "t": "Why a former OpenAI alumnus is building Mac data centres for AI agents",
+     "d": "techradar.com",
+     "u": "https://www.techradar.com/pro/making-apples-operating-system-and-silicon-available-at-datacenter-scale-is-a-massive-untapped-opportunity-in-ai-infrastructure-why-a-former-openai-alumnus-is-building-mac-data-centres-for-ai-agents"
+    }
+   ]
+  },
+  {
+   "id": "indiana-october-revenue-beat-2026111608",
+   "type": "news",
+   "cat": "states",
+   "tags": [
+    "states",
+    "taxes"
+   ],
+   "date": "Sun Nov 15",
+   "ts": "2026-11-16T08:20:00Z",
+   "headline": "Indiana's tax collections beat estimates again, topping $1.6 billion in October",
+   "caption": "Indiana's general fund took in more than $1.6 billion last month. That was above the state's latest forecast.",
+   "visual": {
+    "type": "stat",
+    "title": "Indiana general fund",
+    "num": "$1.6B+",
+    "tone": "gain",
+    "label": "October 2026 revenue, above the most recent estimates.",
+    "facts": [
+     [
+      "Month",
+      "October",
+      "2026"
+     ],
+     [
+      "vs. forecast",
+      "Above",
+      "amount not given"
+     ],
+     [
+      "Source",
+      "State Budget Agency",
+      ""
+     ]
+    ]
+   },
+   "detail": [
+    "Indiana's general fund revenue totaled more than $1.6 billion in October, the State Budget Agency said.",
+    "Collections came in above the most recent estimates, continuing a pattern of revenue beating projections. The agency did not give the exact amount of the beat in the report.",
+    "Strong collections give lawmakers more room when they write budgets and debate tax cuts."
+   ],
+   "money": [
+    "When state revenue beats forecasts, tax cuts or rebates often enter the debate. Follow your legislature.",
+    "Rising collections can reflect higher wages and spending, not just higher rates.",
+    "Check whether your state offers credits you can claim when you file next year."
+   ],
+   "risk": [
+    "One strong month doesn't guarantee the full year; forecasts can be revised down."
+   ],
+   "sources": [
+    {
+     "t": "State revenues once again beat projections",
+     "d": "insideindianabusiness.com",
+     "u": "https://www.insideindianabusiness.com/articles/state-revenues-once-again-beat-projections"
+    }
+   ]
+  },
+  {
+   "id": "edu-takeover-bid-rejected-2026111608",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "business"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-16T08:20:00Z",
+   "headline": "A board rejected a buyout. What that means for shareholders",
+   "caption": "IDP Education turned down Blackstone three times. Here's how takeover bids work and why the stock often trades below the offer.",
+   "scenes": [
+    {
+     "k": "TODAY'S NEWS",
+     "t": "IDP said no to A$3.00 a share",
+     "s": "It was Blackstone's third offer."
+    },
+    {
+     "k": "THE BASICS",
+     "t": "A buyer offers cash for every share",
+     "s": "The board decides whether to recommend it."
+    },
+    {
+     "k": "THE LADDER",
+     "t": "Each 'no' pushed the price up",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "A$2.30",
+       "A$2.50",
+       "A$3.00",
+       "Next?"
+      ]
+     },
+     "say": "The offers went from two dollars thirty, to two fifty, to three dollars."
+    },
+    {
+     "k": "THE GAP",
+     "t": "Shares closed at A$2.57 before this",
+     "s": "The gap below the offer shows doubt the deal will happen."
+    },
+    {
+     "k": "THE RISK",
+     "t": "If the buyer walks, prices can fall",
+     "s": "Buying only for a buyout is a bet, not a sure thing."
+    },
+    {
+     "k": "YOUR MOVE",
+     "t": "Own it for the business, not the rumor",
+     "s": "Ask if you'd still want the stock with no deal."
+    }
+   ]
+  },
+  {
+   "id": "edu-fear-greed-index-2026111608",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "crypto"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-16T08:20:00Z",
+   "headline": "Crypto's fear gauge hit 10. How to read it",
+   "caption": "The Fear and Greed index is at extreme fear. It measures mood, not value, so use it with care.",
+   "scenes": [
+    {
+     "k": "TODAY'S NUMBER",
+     "t": "Fear and Greed: 10 out of 100",
+     "s": "That's extreme fear, two days running."
+    },
+    {
+     "k": "WHAT IT IS",
+     "t": "A score of market mood",
+     "s": "It blends price swings, momentum and trading activity."
+    },
+    {
+     "k": "HOW FAST",
+     "t": "From greed to fear in a month",
+     "viz": {
+      "type": "split",
+      "items": [
+       [
+        "Month ago",
+        "55"
+       ],
+       [
+        "Week ago",
+        "29"
+       ],
+       [
+        "Today",
+        "10",
+        "wide"
+       ]
+      ]
+     },
+     "say": "It was fifty-five a month ago, twenty-nine a week ago, and ten today."
+    },
+    {
+     "k": "THE TEMPTATION",
+     "t": "Fear can mean bargains",
+     "s": "Some bottoms came during extreme fear, but fear can last."
+    },
+    {
+     "k": "A STEADIER WAY",
+     "t": "Buy small amounts on a schedule",
+     "viz": {
+      "type": "dca",
+      "cols": [
+       [
+        50,
+        "2"
+       ],
+       [
+        40,
+        "2.5"
+       ],
+       [
+        25,
+        "4"
+       ],
+       [
+        50,
+        "2"
+       ]
+      ]
+     },
+     "say": "Investing the same amount each time buys more when prices are low."
+    },
+    {
+     "k": "YOUR MOVE",
+     "t": "Mood is a clue, not a plan",
+     "s": "Set your amount first, and only risk what you can lose."
+    }
+   ]
+  },
   {
    "id": "fed-hawks-more-hikes-2026111607",
    "type": "news",
@@ -11088,987 +12049,6 @@
     }
    ],
    "ts": "2026-11-15T19:18:00Z"
-  },
-  {
-   "id": "cola-beats-partb-2026111519",
-   "type": "news",
-   "cat": "benefits",
-   "tags": [
-    "benefits"
-   ],
-   "date": "Sun Nov 15",
-   "headline": "Retirees may keep more of their raise: COLA set to outpace Part B premium jump",
-   "caption": "The 3.6% Social Security raise beats a projected 3.25% Part B increase. It would be the first time since 2023 the COLA wins.",
-   "visual": {
-    "type": "stat",
-    "title": "COLA vs Part B premium",
-    "num": "3.6%",
-    "tone": "gain",
-    "label": "2027 COLA vs a projected 3.25% Part B premium rise.",
-    "rows": [
-     [
-      "COLA 2024",
-      3.2
-     ],
-     [
-      "Part B 2024",
-      5.9
-     ],
-     [
-      "COLA 2026",
-      2.8
-     ],
-     [
-      "Part B 2026",
-      9.7
-     ],
-     [
-      "COLA 2027",
-      3.6
-     ],
-     [
-      "Part B 2027 est.",
-      3.25
-     ]
-    ]
-   },
-   "detail": [
-    "Social Security's 3.6% cost-of-living raise for 2027 adds about $75 a month for the average retired worker. Medicare Part B premiums, usually taken from those checks, are projected to rise 3.25%, or $6.60 a month, from $202.90.",
-    "If that holds, it would be the first time since 2023 that the COLA outpaces the Part B increase. About 29 million people in original Medicare would benefit.",
-    "In 2024 through 2026, Part B premiums rose faster than COLAs, eating into raises. The 2027 premium figure is still a projection."
-   ],
-   "money": [
-    "Watch for your 2027 benefit notice to see your actual net raise after Part B.",
-    "Medicare open enrollment ends Dec. 7; comparing drug and Advantage plans can save more than the COLA adds.",
-    "Higher earners should check IRMAA brackets, which can add surcharges to Part B."
-   ],
-   "risk": [
-    "The final Part B premium could come in higher than projected."
-   ],
-   "sources": [
-    {
-     "t": "Social Security's 2027 COLA Has a Rare Bonus for 29 Million Retirees",
-     "d": "fool.com",
-     "u": "https://fool.com/retirement/2026/11/15/social-security-trump-bump-driven-2027-cola-has-a-rare-bonus-for-29-million-retirees"
-    }
-   ],
-   "ts": "2026-11-15T19:18:00Z"
-  },
-  {
-   "id": "scotus-asylum-2026111519",
-   "type": "news",
-   "cat": "immigration",
-   "tags": [
-    "immigration",
-    "politics"
-   ],
-   "date": "Fri Nov 13",
-   "headline": "Supreme Court agrees to decide if Trump can suspend asylum at the border",
-   "caption": "The justices took up the administration's appeal over its border asylum ban. Arguments are likely next spring, and the limits stay in place for now.",
-   "visual": {
-    "type": "timeline",
-    "title": "The asylum ban case",
-    "items": [
-     {
-      "d": "JAN 2025",
-      "t": "Proclamation suspends asylum",
-      "s": "Cites border 'invasion'"
-     },
-     {
-      "d": "LOWER COURT",
-      "t": "Judge Moss rules guidance unlawful"
-     },
-     {
-      "d": "D.C. CIRCUIT",
-      "t": "Largely upheld, then paused",
-      "s": "Limits stay for now"
-     },
-     {
-      "d": "NOV 13",
-      "t": "Supreme Court takes case",
-      "now": true
-     },
-     {
-      "d": "SPRING 2027",
-      "t": "Arguments likely"
-     }
-    ]
-   },
-   "detail": [
-    "The Supreme Court agreed on Nov. 13 to decide whether the administration can bar migrants at the US-Mexico border from seeking asylum. A January 2025 proclamation suspended entry and blocked asylum claims, and DHS guidance allowed fast removals.",
-    "A federal judge ruled the guidance unlawful for a class of migrants. An appeals court largely agreed but paused its ruling during the appeal, so the restrictions remain in effect.",
-    "The challengers include 13 people who say they faced persecution or torture and three nonprofits. The court declined to separately review whether lower courts can grant class-wide relief. Arguments are expected in spring 2027."
-   ],
-   "money": [
-    "Immigration lawyers and nonprofits may see higher demand; legal costs for families can rise.",
-    "Businesses that rely on immigrant workers should plan for policy uncertainty through 2027.",
-    "Beware of scams promising asylum help; use accredited legal providers."
-   ],
-   "risk": [
-    "The ruling could expand or limit executive power over the border."
-   ],
-   "sources": [
-    {
-     "t": "Supreme Court agrees to hear case on Trump administration's suspension of asylum",
-     "d": "scotusblog.com",
-     "u": "https://www.scotusblog.com/2026/11/supreme-court-agrees-to-hear-case-on-trump-administrations-suspension-of-asylum/"
-    }
-   ],
-   "ts": "2026-11-15T19:18:00Z"
-  },
-  {
-   "id": "retail-oct-13th-2026111519",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business",
-    "markets"
-   ],
-   "date": "This week",
-   "headline": "Retail sales rise for a 13th straight month as shoppers chase early deals",
-   "caption": "October sales rose 0.15% from September and 3.6% from a year ago. Electronics led while furniture slipped.",
-   "visual": {
-    "type": "stat",
-    "title": "October retail (CNBC/NRF)",
-    "num": "+3.6%",
-    "tone": "gain",
-    "label": "Sales vs a year ago, excluding autos and gas.",
-    "facts": [
-     [
-      "Monthly",
-      "+0.15%",
-      "vs September"
-     ],
-     [
-      "Electronics",
-      "+9.3%",
-      "year over year"
-     ],
-     [
-      "Furniture",
-      "-2.6%",
-      "year over year"
-     ]
-    ]
-   },
-   "detail": [
-    "Retail sales, excluding auto dealers and gas stations, reached $561.7 billion in October, according to the CNBC/NRF Retail Monitor. That's up 0.15% from September and 3.57% from a year earlier, the 13th monthly gain in a row.",
-    "Electronics and appliance stores grew 9.3% from a year ago, the fastest of any category. Furniture fell 2.62% and sporting goods dipped 0.44%.",
-    "NRF's CEO said Halloween and early holiday promotions pulled spending forward, and families are timing purchases around deals."
-   ],
-   "money": [
-    "Early holiday sales are already here; compare prices now rather than waiting for Black Friday.",
-    "Price-tracking tools can alert you when an item drops.",
-    "Retail stocks report this week; strong sales trends can support them."
-   ],
-   "risk": [
-    "Spending pulled forward can mean a weaker December."
-   ],
-   "sources": [
-    {
-     "t": "Retail Sales Extend Winning Streak To 13 Months",
-     "d": "massmarketretailers.com",
-     "u": "https://massmarketretailers.com/retail-sales-extend-winning-streak-to-13-months/"
-    }
-   ],
-   "ts": "2026-11-15T19:18:00Z"
-  },
-  {
-   "id": "wbd-contractor-cuts-2026111519",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business",
-    "california"
-   ],
-   "date": "Sun Nov 15",
-   "headline": "Warner Bros. contractor says hidden cuts put 10,000 jobs at risk",
-   "caption": "A former contractor says expiring contracts keep job losses out of official layoff counts. He estimates 4,500 of the jobs are in Los Angeles.",
-   "visual": {
-    "type": "board",
-    "title": "The claim, by the numbers",
-    "rows": [
-     {
-      "k": "Jobs at risk",
-      "s": "contractor estimate",
-      "v": "10,000+",
-      "tone": "loss"
-     },
-     {
-      "k": "In Los Angeles",
-      "v": "4,500",
-      "tone": "loss"
-     },
-     {
-      "k": "Savings target",
-      "s": "over three years",
-      "v": "$6B+"
-     }
-    ],
-    "foot": "Estimates come from a former contractor's video, not the company."
-   },
-   "detail": [
-    "A former Warner Bros. Discovery contractor says at least 10,000 jobs are at risk, including 4,500 in Los Angeles. He argues official layoff totals miss contractors whose deals simply aren't renewed.",
-    "New executives are aiming for more than $6 billion in savings over three years from technology, combined marketing and labor, according to the report.",
-    "The claims come from a video shared by the group More Perfect Union. The company's own figures were not given."
-   ],
-   "money": [
-    "Contract workers should track renewal dates and line up backup clients early.",
-    "California contractors may qualify for unemployment if misclassified; check with the state EDD.",
-    "Keep a lean budget in industries facing merger cost-cutting."
-   ],
-   "risk": [
-    "The job estimate is unverified and comes from one person."
-   ],
-   "sources": [
-    {
-     "t": "Warner Bros. Discovery contractor says expiring contracts hide job cuts from official layoff counts",
-     "d": "finance.yahoo.com",
-     "u": "https://finance.yahoo.com/media-advertising/articles/warner-bros-discovery-contractor-says-085900544.html"
-    }
-   ],
-   "ts": "2026-11-15T19:18:00Z"
-  },
-  {
-   "id": "edu-pce-vs-cpi-2026111519",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "markets"
-   ],
-   "date": "Explainer",
-   "headline": "PCE vs CPI: the inflation number the Fed really watches",
-   "caption": "The Nov. 25 PCE report could tip the Fed toward a half-point hike. Here's why it matters for your loans and savings.",
-   "scenes": [
-    {
-     "k": "Coming Nov. 25",
-     "t": "One report could move the Fed.",
-     "s": "October's PCE price data lands the day before Thanksgiving."
-    },
-    {
-     "k": "Two gauges",
-     "t": "CPI and PCE both track prices.",
-     "s": "CPI comes first; PCE is the Fed's preferred measure."
-    },
-    {
-     "k": "Where we are",
-     "t": "October CPI ran hot.",
-     "viz": {
-      "type": "split",
-      "items": [
-       [
-        "Expected",
-        "0.3%"
-       ],
-       [
-        "Actual",
-        "0.4%"
-       ],
-       [
-        "Fed comfort",
-        "~0.2% a month",
-        "wide"
-       ]
-      ]
-     },
-     "say": "Economists expected prices to rise three tenths of a percent in October. They rose four tenths, well above the roughly two tenths a month the Fed wants."
-    },
-    {
-     "k": "How it flows",
-     "t": "Hot data, higher rates.",
-     "viz": {
-      "type": "flow",
-      "items": [
-       "Hot PCE",
-       "Bigger Fed hike",
-       "Higher card & loan rates",
-       "Better savings yields"
-      ]
-     }
-    },
-    {
-     "k": "The stakes",
-     "t": "Quarter point or half point?",
-     "s": "The Fed meets Dec. 8–9. Waller has said a half-point hike could fit."
-    },
-    {
-     "k": "Your move",
-     "t": "Pay down variable debt. Lock savings.",
-     "s": "Card and HELOC rates follow the Fed; CDs let you lock today's yields."
-    }
-   ],
-   "ts": "2026-11-15T19:18:00Z"
-  },
-  {
-   "id": "edu-senior-stack-2026111519",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "taxes"
-   ],
-   "date": "Explainer",
-   "headline": "Stacking senior tax breaks: how 65+ filers shield $24,700",
-   "caption": "The standard deduction, the age-65 extra and the $6,000 bonus add up. Here's how a single senior stacks them in 2027.",
-   "scenes": [
-    {
-     "k": "New for 2027",
-     "t": "Seniors get bigger deductions.",
-     "s": "The IRS raised the extra deduction for people 65 and older."
-    },
-    {
-     "k": "Layer one",
-     "t": "Everyone gets the standard deduction.",
-     "s": "For a single filer in 2027, it's $16,600."
-    },
-    {
-     "k": "Layers two and three",
-     "t": "Add the 65+ extra and the bonus.",
-     "viz": {
-      "type": "split",
-      "items": [
-       [
-        "Standard",
-        "$16,600"
-       ],
-       [
-        "65+ extra",
-        "$2,100"
-       ],
-       [
-        "Senior bonus",
-        "$6,000",
-        "wide"
-       ]
-      ]
-     },
-     "say": "A single senior can stack a sixteen thousand six hundred dollar standard deduction, a twenty-one hundred dollar age sixty-five extra, and a six thousand dollar bonus."
-    },
-    {
-     "k": "The total",
-     "t": "$24,700 of income untaxed.",
-     "s": "That's before any other credits or deductions."
-    },
-    {
-     "k": "The catch",
-     "t": "The bonus fades at higher income.",
-     "s": "It phases out above $75,000 for singles and $150,000 for couples, and ends after 2028."
-    },
-    {
-     "k": "Your move",
-     "t": "Time withdrawals to stay under the limit.",
-     "s": "Spreading IRA withdrawals or gains across years can keep the bonus intact."
-    }
-   ],
-   "ts": "2026-11-15T19:18:00Z"
-  },
-  {
-   "id": "btc-62k-2026111519",
-   "type": "news",
-   "cat": "crypto",
-   "tags": [
-    "crypto",
-    "markets"
-   ],
-   "date": "Sun Nov 15",
-   "ts": "2026-11-15T19:00:00Z",
-   "headline": "Bitcoin dips to $61,946 overnight, then bounces back near $65,000",
-   "caption": "Bitcoin hit a new low early Sunday before a quick rebound. It is on track for a weekly loss of about 13%.",
-   "visual": {
-    "type": "stat",
-    "title": "Bitcoin this week",
-    "num": "-13.4%",
-    "tone": "loss",
-    "label": "Weekly loss if the price holds to Monday's close.",
-    "facts": [
-     [
-      "Overnight low",
-      "$61,946",
-      "Coinbase, early Sunday"
-     ],
-     [
-      "Week open",
-      "$74,757",
-      "Monday"
-     ],
-     [
-      "Fear & Greed",
-      "10",
-      "extreme fear"
-     ]
-    ]
-   },
-   "detail": [
-    "Bitcoin fell to $61,946 on Coinbase in the early hours of Sunday, European time. Within an hour it was back above $65,000, and it was trading near $64,800 later in the morning.",
-    "Money has been leaving bitcoin funds. US spot bitcoin ETFs saw outflows for seven trading days in a row through Nov. 13, about $1.91 billion. Ether ETFs lost about $399 million that week. Ether itself traded near $1,815.",
-    "Traders also point to rate fears. After October inflation data, futures markets price in a December Fed hike. More than $2 billion in leveraged bets were forced closed in 24 hours."
-   ],
-   "money": [
-    "Avoid borrowed money in crypto right now. Forced liquidations are what turn dips into crashes.",
-    "If you buy, use small, regular amounts instead of one big bet.",
-    "Losses in a taxable account can offset gains elsewhere. A tax pro can tell you if harvesting makes sense for you."
-   ],
-   "risk": [
-    "Weekend crypto trading is thin, so prices can swing hard in minutes.",
-    "A Fed rate hike could keep pressure on risky assets."
-   ],
-   "sources": [
-    {
-     "t": "Bitcoin price: overnight low and the weekly close",
-     "d": "cryptoticker.io",
-     "u": "https://cryptoticker.io/en/bitcoin-price-overnight-low-weekly-close-november-15-2026/"
-    },
-    {
-     "t": "Bitcoin Price Today, November 15, 2026: BTC Rebounds Above $65,000 After Steep Weekend Selloff",
-     "d": "aktualita.co",
-     "u": "https://aktualita.co/en/money/bitcoin-price-today-november-15-2026-btc-rebounds-65000"
-    }
-   ]
-  },
-  {
-   "id": "anthropic-6x-2026111519",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "markets"
-   ],
-   "date": "This week",
-   "ts": "2026-11-15T19:00:00Z",
-   "headline": "Anthropic's IPO is six times oversubscribed ahead of Thursday's debut",
-   "caption": "Orders for Anthropic shares reached about six times what's on offer. It prices Wednesday and trades Thursday as ANT.",
-   "visual": {
-    "type": "ticker",
-    "sym": "ANT",
-    "ex": "NASDAQ",
-    "rows": [
-     {
-      "k": "Price range",
-      "s": "per share",
-      "v": "$70–$78"
-     },
-     {
-      "k": "Demand",
-      "s": "by Thursday of roadshow",
-      "v": "~6x"
-     },
-     {
-      "k": "Offering",
-      "s": "top of range",
-      "v": "Up to $64.4B"
-     },
-     {
-      "k": "Pricing",
-      "s": "Wed Nov 18",
-      "v": "Then trades Thu"
-     }
-    ]
-   },
-   "detail": [
-    "Anthropic's IPO roadshow drew orders for about six times the shares available, according to reports. Demand was about twice the shares after the first day.",
-    "The company is offering 825 million shares at $70 to $78. At the top, the deal raises up to $64.4 billion, plus a $26 billion private placement. That values Anthropic at roughly $916 billion to $1.02 trillion.",
-    "Banks project revenue of about $52 billion to $53 billion this year and about $135 billion next year. Some investors still question how long its lead over Google and others can last."
-   ],
-   "money": [
-    "Hot IPOs often open well above the offer price, so buying on day one can mean paying a big premium.",
-    "Check which brokers offer IPO share access. Allocations for small investors are often tiny.",
-    "If you already own big AI stocks or index funds, you may get exposure without chasing the debut."
-   ],
-   "risk": [
-    "Heavy demand can fade fast once trading starts.",
-    "The final price and terms could still change."
-   ],
-   "sources": [
-    {
-     "t": "Anthropic IPO: Can ANT Price Above $78 After Orders Reach Six Times the Shares?",
-     "d": "tradingkey.com",
-     "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262304476-anthropic-ipo-ant-price-above-78-orders-six-times-november-14-2026-tradingkey"
-    },
-    {
-     "t": "Anthropic heads into IPO week with strong demand and big questions about its future",
-     "d": "calcalistech.com",
-     "u": "https://www.calcalistech.com/ctechnews/article/6reux2chn"
-    }
-   ]
-  },
-  {
-   "id": "openai-robotics-2026111519",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "business"
-   ],
-   "date": "Fri Nov 13",
-   "ts": "2026-11-15T19:00:00Z",
-   "headline": "OpenAI breaks up its robotics team, betting its main models can run robots",
-   "caption": "OpenAI folded its standalone robotics group into its research and product teams. It's the second time in six years.",
-   "visual": {
-    "type": "vs",
-    "title": "Simulated robot test",
-    "a": [
-     "Specialized models",
-     "51.0%",
-     0.51,
-     "acc"
-    ],
-    "b": [
-     "GPT-6 Astra",
-     "74.8%",
-     0.75,
-     "gain"
-    ],
-    "foot": "Reported scores on a simulated manipulation benchmark."
-   },
-   "detail": [
-    "OpenAI confirmed it dissolved its standalone robotics team. Research staff now report to chief research officer Mark Chen. Hardware and applied staff move to president Greg Brockman's group.",
-    "The idea is that general models can control robots directly. OpenAI's GPT-6 Astra reportedly scored 74.8% on a simulated test, versus 51% for specialized robot models. Real-world results were weaker: 7 of 100 two-handed desk tasks.",
-    "A spokesperson said robotics is still core to the long-term plan. Sam Altman is reportedly aiming for a first humanoid robot demo in 2027."
-   ],
-   "money": [
-    "Robotics startups may face tougher competition if big AI labs can do the same job with general models.",
-    "If you own robotics funds, check how much rides on single-purpose robot makers.",
-    "AI that can handle physical tasks could change warehouse and factory jobs over time. Building tech skills is a hedge."
-   ],
-   "risk": [
-    "Lab test scores don't always carry over to real robots."
-   ],
-   "sources": [
-    {
-     "t": "OpenAI disbands robotics team as its general models start running robots",
-     "d": "fortune.com",
-     "u": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/"
-    },
-    {
-     "t": "OpenAI folds robotics team into main research and applied orgs",
-     "d": "aiweekly.co",
-     "u": "https://aiweekly.co/alerts/openai-folds-robotics-team-into-main-research-and-applied-orgs"
-    }
-   ]
-  },
-  {
-   "id": "apple-homeview-2026111519",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "business"
-   ],
-   "date": "Fri Nov 13",
-   "ts": "2026-11-15T19:00:00Z",
-   "headline": "Apple launches a $299 HomeView display built around its new Siri AI",
-   "caption": "Apple's first countertop device went on sale in seven countries. It skips the EU, where Siri AI isn't available yet.",
-   "visual": {
-    "type": "board",
-    "title": "Apple HomeView",
-    "rows": [
-     {
-      "k": "Price",
-      "s": "tabletop or wall",
-      "v": "$299"
-     },
-     {
-      "k": "Screen",
-      "v": "7-inch"
-     },
-     {
-      "k": "Recognizes",
-      "s": "by face",
-      "v": "Up to 6 people"
-     },
-     {
-      "k": "Wall mounts",
-      "s": "Schneider Home",
-      "v": "$59.95–$129.95"
-     }
-    ],
-    "foot": "On sale Nov 13 in the US, UK, Canada, Australia, India, NZ and Singapore."
-   },
-   "detail": [
-    "Apple started selling HomeView on Nov. 13. It costs $299 and has a 7-inch screen. Apple says it runs an entirely new, more conversational version of Siri.",
-    "It can recognize up to six people by face and show each person their own messages, calendar and reminders.",
-    "It is not sold in the European Union because Siri AI isn't available in iOS there. Apple says it is working with the EU on a path forward."
-   ],
-   "money": [
-    "Holiday shoppers can compare it with rival smart displays before paying full price.",
-    "Wall mounts are extra, from about $60 to $130, so budget for the full setup.",
-    "Early gadgets often get cheaper. Waiting a few months can save money."
-   ],
-   "risk": [
-    "New AI assistants can have early bugs and privacy questions."
-   ],
-   "sources": [
-    {
-     "t": "Apple HomeView available today",
-     "d": "apple.com",
-     "u": "https://www.apple.com/newsroom/2026/11/apple-homeview-available-today/"
-    },
-    {
-     "t": "Apple ships $299 HomeView smart display, skips EU on Siri AI",
-     "d": "aiweekly.co",
-     "u": "https://aiweekly.co/alerts/apple-ships-299-homeview-smart-display-skips-eu-on-siri-ai"
-    }
-   ]
-  },
-  {
-   "id": "bessent-nvidia-2026111519",
-   "type": "news",
-   "cat": "politics",
-   "tags": [
-    "politics",
-    "ai",
-    "markets"
-   ],
-   "date": "Sun Nov 15",
-   "ts": "2026-11-15T19:00:00Z",
-   "headline": "Bessent gives Nvidia 10 days to explain China sales and urges an outside CEO",
-   "caption": "The Treasury secretary questioned whether Nvidia pushed suspect chip sales to China to boost earnings. Senate hearings are set for December.",
-   "visual": {
-    "type": "timeline",
-    "title": "Nvidia in Washington",
-    "items": [
-     {
-      "d": "NOV 15",
-      "t": "Bessent sets 10-day deadline",
-      "s": "for Nvidia's board",
-      "now": true
-     },
-     {
-      "d": "DEC 3",
-      "t": "Huang asked to testify",
-      "s": "Senate Banking chair Tim Scott"
-     },
-     {
-      "d": "DEC 10",
-      "t": "Lutnick testifies",
-      "s": "Senate Banking Committee"
-     }
-    ]
-   },
-   "detail": [
-    "Treasury Secretary Scott Bessent asked whether Nvidia's culture led it to push seemingly illicit chip sales to China to lift revenue. He gave the board and its outside lawyers 10 days to respond.",
-    "He also said Nvidia should hire a CEO from outside the company to replace Jensen Huang, who resigned last week. And he criticized Commerce Secretary Howard Lutnick for not blocking advanced chip exports to China.",
-    "Senate Banking chair Tim Scott has asked Huang to testify Dec. 3. Lutnick is scheduled for Dec. 10."
-   ],
-   "money": [
-    "Nvidia is a top holding in most S&P 500 and tech funds, so this affects many retirement accounts.",
-    "Expect bigger swings around the deadline and hearings. Avoid panic trades.",
-    "Check how much of your portfolio sits in one chip stock and rebalance if it's too much."
-   ],
-   "risk": [
-    "Possible penalties or export limits could hit Nvidia's sales.",
-    "Political pressure may slow the CEO search."
-   ],
-   "sources": [
-    {
-     "t": "Bessent Gives Nvidia 10 Days to Answer on 'Illicit' China Sales, Renews Rebuke of Lutnick",
-     "d": "huggingnews.com",
-     "u": "https://huggingnews.com/us-politics/bessent-gives-nvidia-10-days-to-answer-on-illicit-china-sales-renews-reb-97ca4821"
-    },
-    {
-     "t": "Bessent questions Nvidia's sales and calls for external CEO",
-     "d": "axios.com",
-     "u": "https://www.axios.com/2026/11/15/bessent-nvidia-earnings-china-chip-sales-ceo"
-    }
-   ]
-  },
-  {
-   "id": "hormuz-mines-2026111519",
-   "type": "news",
-   "cat": "world",
-   "tags": [
-    "world",
-    "markets"
-   ],
-   "date": "Sat–Sun",
-   "ts": "2026-11-15T19:00:00Z",
-   "headline": "Iran says tankers hit mines in Hormuz and one supertanker sank; US disputes it",
-   "caption": "Iran's Revolutionary Guards claimed tankers on unapproved routes struck mines. No one has independently confirmed it as oil futures reopen.",
-   "visual": {
-    "type": "board",
-    "title": "Oil before Sunday's open",
-    "rows": [
-     {
-      "k": "Brent",
-      "s": "Friday settle",
-      "v": "$95.84"
-     },
-     {
-      "k": "WTI",
-      "s": "Friday",
-      "v": "$88.56",
-      "ch": -0.2,
-      "tone": "loss"
-     },
-     {
-      "k": "Brent, week",
-      "s": "2nd weekly drop",
-      "v": "-2.5%",
-      "ch": -2.5,
-      "tone": "loss"
-     },
-     {
-      "k": "Week's low",
-      "s": "Tuesday",
-      "v": "$91.49"
-     }
-    ]
-   },
-   "detail": [
-    "Iran's Revolutionary Guards said tankers using routes Iran had not authorized hit mines in the Strait of Hormuz. Reports differ on whether two or three ships were involved. On Sunday they said one supertanker carrying over 2 million barrels sank.",
-    "There's no independent confirmation, and no ship names were given. The UK maritime agency said crews were safe. The US military disputes the claims and says main routes are clear.",
-    "Brent crude settled Friday at $95.84, down about 2.5% on the week. Futures reopen Sunday evening, when traders will react."
-   ],
-   "money": [
-    "Fill up before any jump. Gas prices tend to follow oil within days.",
-    "Energy stocks and funds can rise on supply scares. Don't chase a one-day spike.",
-    "If you heat with oil, compare locking in a price now with floating rates."
-   ],
-   "risk": [
-    "If the claims prove false, oil could fall back quickly.",
-    "A confirmed sinking could push prices sharply higher."
-   ],
-   "sources": [
-    {
-     "t": "Brent Crude Oil Price: $95.84 Sunday Before the Futures Open, Iran Mine Claims",
-     "d": "financefeeds.com",
-     "u": "https://financefeeds.com/brent-crude-oil-price-95-84-sunday-futures-open-week-ahead-iran-mine-claims-bull-98-bear-91/"
-    },
-    {
-     "t": "Iran Says Mine Blasts Sank a Supertanker",
-     "d": "riotimesonline.com",
-     "u": "https://www.riotimesonline.com/iran-says-supertanker-sank-hormuz-mines"
-    }
-   ]
-  },
-  {
-   "id": "apec-trilateral-2026111519",
-   "type": "news",
-   "cat": "world",
-   "tags": [
-    "world",
-    "politics",
-    "markets"
-   ],
-   "date": "Next week",
-   "ts": "2026-11-15T19:00:00Z",
-   "headline": "Trump, Xi and Putin set a first-ever three-way meeting in Shenzhen",
-   "caption": "The leaders will meet on the sidelines of the APEC summit Nov. 18–19. Nuclear arms top the agenda, and no deal is expected.",
-   "visual": {
-    "type": "points",
-    "title": "What to know",
-    "items": [
-     "APEC summit in Shenzhen, Nov. 18–19",
-     "First trilateral Trump-Xi-Putin meeting",
-     "Focus: nuclear arms after New START lapsed",
-     "Iran will come up; Ukraine likely won't",
-     "Trump leaves Monday, via Manila"
-    ]
-   },
-   "detail": [
-    "The White House confirmed Trump will attend APEC in Shenzhen and meet with Xi Jinping and Vladimir Putin together. It's the first such three-way meeting.",
-    "Nuclear arms control is the main topic. A senior US official said no agreement is expected. Iran will be raised, but Ukraine likely won't.",
-    "Trade tensions hang over the trip, including chip rivalry, China's rare earth export limits and the Nvidia case. Trump leaves Monday for Manila, then Shenzhen. Elon Musk will join for parts."
-   ],
-   "money": [
-    "Any tariff headlines from the trip could move stocks, especially chipmakers and retailers.",
-    "Prices on imported goods depend on US-China trade terms. Big purchases may be worth timing after the summit.",
-    "Oil could react to any Iran talk. Watch gas prices."
-   ],
-   "risk": [
-    "Officials expect no agreement, so markets may be let down."
-   ],
-   "sources": [
-    {
-     "t": "Trump-Xi-Putin trilateral meeting at APEC: What to expect",
-     "d": "aljazeera.com",
-     "u": "https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect"
-    },
-    {
-     "t": "Morning Briefing: Nov. 14, 2026",
-     "d": "aa.com.tr",
-     "u": "https://www.aa.com.tr/en/world/morning-briefing-nov-14-2026/4124855"
-    }
-   ]
-  },
-  {
-   "id": "charity-nonitemizer-2026111519",
-   "type": "news",
-   "cat": "taxes",
-   "tags": [
-    "taxes"
-   ],
-   "date": "This week",
-   "ts": "2026-11-15T19:00:00Z",
-   "headline": "IRS reminder: you can deduct up to $1,000 in gifts even without itemizing",
-   "caption": "Starting with 2026 taxes, standard-deduction filers can write off cash gifts to charity. Couples filing jointly get up to $2,000.",
-   "visual": {
-    "type": "board",
-    "title": "New charity deduction",
-    "rows": [
-     {
-      "k": "Single filers",
-      "v": "$1,000"
-     },
-     {
-      "k": "Married, joint",
-      "v": "$2,000"
-     },
-     {
-      "k": "Starts",
-      "s": "filed in 2027",
-      "v": "Tax year 2026"
-     },
-     {
-      "k": "Counts",
-      "v": "Cash only",
-      "tone": "acc"
-     }
-    ],
-    "foot": "Gifts to donor-advised funds don't qualify."
-   },
-   "detail": [
-    "The IRS reminded taxpayers that a new law makes a charity deduction permanent for people who take the standard deduction, starting with tax year 2026.",
-    "Singles can deduct up to $1,000 in cash gifts, and married couples filing jointly up to $2,000. Gifts must go to qualified charities. Noncash items don't count, and neither do gifts to donor-advised funds or supporting organizations.",
-    "Keep proof of each gift: the charity's name, date and amount. Receipts, bank records or written thank-you letters work."
-   ],
-   "money": [
-    "If you planned year-end giving, doing it by Dec. 31 lets it count on your 2026 return.",
-    "Pay by card, check or bank transfer so you have a record. Cash in a jar is hard to prove.",
-    "Couples filing jointly can claim up to $2,000, so pool your giving."
-   ],
-   "risk": [
-    "Gifts to non-qualified groups or crowdfunding for individuals don't count."
-   ],
-   "sources": [
-    {
-     "t": "IRS: Charitable deductions for those who do not itemize (IR-2026-135)",
-     "d": "content.govdelivery.com",
-     "u": "https://content.govdelivery.com/accounts/USIRS/bulletins/4325445"
-    },
-    {
-     "t": "IRS News Release Round-up For Week Ending November 13, 2026",
-     "d": "vitallaw.com",
-     "u": "https://www.vitallaw.com/news/irs-news-release-round-up-for-week-ending-november-13-2026/ftd01a3debf2254144aa09cf9dbd0d342f269"
-    }
-   ]
-  },
-  {
-   "id": "medicaid-work-delay-2026111519",
-   "type": "news",
-   "cat": "benefits",
-   "tags": [
-    "benefits",
-    "states",
-    "politics"
-   ],
-   "date": "Fri Nov 13",
-   "ts": "2026-11-15T19:00:00Z",
-   "headline": "States can delay Medicaid work-rule cutoffs six months, to June 30, 2027",
-   "caption": "CMS will let states pause denials for people who can't yet prove they meet new work rules. States must opt in by Dec. 11.",
-   "visual": {
-    "type": "timeline",
-    "title": "Medicaid work rules",
-    "items": [
-     {
-      "d": "NOV 13",
-      "t": "CMS offers optional delay",
-      "now": true
-     },
-     {
-      "d": "DEC 11",
-      "t": "States must tell CMS",
-      "s": "if they opt in"
-     },
-     {
-      "d": "JAN 1",
-      "t": "Original start date"
-     },
-     {
-      "d": "JUN 30",
-      "t": "Delay can run to here",
-      "s": "2027"
-     }
-    ]
-   },
-   "detail": [
-    "CMS announced a six-month hold-harmless option for enforcing Medicaid work requirements. States weren't ready for the Jan. 1 deadline.",
-    "States that opt in must still check whether people meet the rules or qualify for an exemption. But they can hold off on denying or dropping eligible people who can't prove it yet. The delay can last through June 30, 2027.",
-    "States must notify CMS by Dec. 11. Proving medical frailty also got simpler after a court ruling: states only need to verify the condition is in one of five categories."
-   ],
-   "money": [
-    "If you're on Medicaid, find out now whether your state is taking the delay.",
-    "Gather pay stubs, school records or caregiving proof early so you don't lose coverage.",
-    "Check if you qualify for an exemption. Many enrollees do."
-   ],
-   "risk": [
-    "States that don't opt in could start cutoffs on schedule.",
-    "Losing Medicaid can mean big medical bills."
-   ],
-   "sources": [
-    {
-     "t": "CMS Announces Optional 6-Month Delay for Enforcing Medicaid Work Requirements",
-     "d": "kff.org",
-     "u": "https://kff.org/quick-insights/cms-announces-optional-6-month-delay-for-enforcing-medicaid-work-requirements"
-    },
-    {
-     "t": "CMS Gives States Six More Months Before Medicaid Work Requirements Are Enforced",
-     "d": "townhall.com",
-     "u": "https://townhall.com/news/scott-mcclallen/2026/11/14/cms-gives-states-six-more-months-before-medicaid-work-requirements-are-enforced-n2686453"
-    }
-   ]
-  },
-  {
-   "id": "ssi-dec1-2026111519",
-   "type": "news",
-   "cat": "benefits",
-   "tags": [
-    "benefits"
-   ],
-   "date": "Dec 1",
-   "ts": "2026-11-15T19:00:00Z",
-   "headline": "December SSI checks of up to $994 arrive Dec. 1",
-   "caption": "SSI recipients get their December payment on Tuesday, Dec. 1. The maximum for an individual is $994.",
-   "visual": {
-    "type": "stat",
-    "title": "December SSI",
-    "num": "$994",
-    "tone": "acc",
-    "label": "Maximum monthly SSI payment for an individual.",
-    "facts": [
-     [
-      "Pay date",
-      "Dec 1",
-      "Tuesday"
-     ],
-     [
-      "Rule",
-      "1st of month",
-      "or the business day before"
-     ]
-    ]
-   },
-   "detail": [
-    "Supplemental Security Income payments for December go out on Dec. 1. The maximum for one person is $994.",
-    "SSI normally pays on the first of the month. When the first falls on a weekend or holiday, the payment moves to the business day before.",
-    "SSI helps older, blind and disabled people with little income and few assets."
-   ],
-   "money": [
-    "Plan December bills around the Dec. 1 deposit.",
-    "Use direct deposit or a Direct Express card so payments aren't delayed by mail.",
-    "Report income or living changes to Social Security quickly to avoid overpayment clawbacks."
-   ],
-   "risk": [
-    "Your payment can be lower than the maximum depending on income and living situation."
-   ],
-   "sources": [
-    {
-     "t": "December Supplemental Security direct payment up to $994 goes out in 16 days",
-     "d": "washingtonexaminer.com",
-     "u": "https://www.washingtonexaminer.com/news/4779184/december-supplemental-security-direct-payment-up-to-994-goes-out-in-16-days/"
-    }
-   ]
   }
  ]
 }
