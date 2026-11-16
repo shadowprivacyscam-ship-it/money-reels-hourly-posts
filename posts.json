@@ -1,6 +1,868 @@
 {
- "updated": "2026-11-16T08:20:00Z",
+ "updated": "2026-11-16T09:20:00Z",
  "items": [
+  {
+   "id": "europe-near-record-ms-upgrade-2026111609",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets",
+    "ai"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T09:20:00Z",
+   "headline": "Europe holds near record highs as Morgan Stanley upgrades it; chip stocks lag",
+   "caption": "The STOXX 600 hovered near its record Monday while Asia and US futures fell. Investors see Europe as a shelter from AI swings.",
+   "visual": {
+    "type": "board",
+    "title": "Europe, Monday morning",
+    "rows": [
+     {
+      "k": "STOXX 600",
+      "s": "near record",
+      "v": "664.76",
+      "ch": 0.09,
+      "tone": "gain"
+     },
+     {
+      "k": "Novo Nordisk",
+      "s": "CagriSema data",
+      "v": "+2.4%",
+      "ch": 2.4,
+      "tone": "gain"
+     },
+     {
+      "k": "Infineon",
+      "s": "chips",
+      "v": "-2.3%",
+      "ch": -2.3,
+      "tone": "loss"
+     },
+     {
+      "k": "Aixtron",
+      "s": "chips",
+      "v": "-1.9%",
+      "ch": -1.9,
+      "tone": "loss"
+     },
+     {
+      "k": "Siemens Energy",
+      "v": "-1.6%",
+      "ch": -1.6,
+      "tone": "loss"
+     },
+     {
+      "k": "Basic resources",
+      "s": "sector",
+      "v": "-1.5%",
+      "ch": -1.5,
+      "tone": "loss"
+     }
+    ],
+    "foot": "As of 08:13 GMT"
+   },
+   "detail": [
+    "European stocks held steady Monday even as Asian markets and US futures slid. The STOXX 600 edged up 0.09% to 664.76, close to its all-time high after strong gains last week. London's FTSE 100 and France's CAC 40 each rose about 0.2%.",
+    "Morgan Stanley raised European stocks to overweight from equal weight. The region has less exposure to AI names, so some investors treat it as a safer spot while Nvidia's leadership turmoil weighs on tech.",
+    "Chip-related shares still fell. Novo Nordisk rose 2.4% after its CagriSema drug showed 25.4% weight loss in early responders. Mining stocks fell as copper hit a four-month low."
+   ],
+   "money": [
+    "If your portfolio is mostly US tech, an international or Europe fund can spread out your risk.",
+    "Check your funds' top holdings; many 'global' funds are still heavy in the same US AI stocks.",
+    "Rebalancing back to your target mix after big moves is a simple way to buy low and sell high."
+   ],
+   "risk": [
+    "Europe could still fall hard if Nvidia's results Tuesday spark a wider sell-off."
+   ],
+   "sources": [
+    {
+     "t": "European shares hover near record highs; tech stocks lag",
+     "d": "933thedrive.com",
+     "u": "https://www.933thedrive.com/2026/11/16/european-shares-hover-near-record-highs-tech-stocks-lag/"
+    },
+    {
+     "t": "European shares flat as Nvidia turmoil lingers and markets brace for AI mega-tests",
+     "d": "uk.investing.com",
+     "u": "https://uk.investing.com/news/stock-market-news/european-shares-flat-as-nvidia-turmoil-lingers-and-markets-brace-for-ai-megatests-4983825"
+    }
+   ]
+  },
+  {
+   "id": "silver-slides-gold-3870-2026111609",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T09:20:00Z",
+   "headline": "Silver sinks about 3% and gold slips under $3,870 as the dollar stays strong",
+   "caption": "Precious metals fell again Monday morning. Gold was turned back near $3,900, and silver dropped harder.",
+   "visual": {
+    "type": "board",
+    "title": "Metals, Monday morning",
+    "rows": [
+     {
+      "k": "Silver",
+      "s": "per ounce",
+      "v": "$47.45",
+      "ch": -3.4,
+      "tone": "loss"
+     },
+     {
+      "k": "Gold",
+      "s": "per ounce",
+      "v": "$3,866",
+      "ch": -0.5,
+      "tone": "loss"
+     },
+     {
+      "k": "Copper",
+      "s": "4-month low",
+      "v": "$6.05/lb",
+      "ch": -0.65,
+      "tone": "loss"
+     },
+     {
+      "k": "US 10-year yield",
+      "v": "5.14%",
+      "tone": "acc"
+     }
+    ],
+    "foot": "Quotes from Investing.com snapshot"
+   },
+   "detail": [
+    "Silver fell more than 3% to about $47.45 an ounce Monday, and gold slipped about 0.5% to near $3,866 after failing to climb back to $3,900. Copper hit a four-month low.",
+    "A strong dollar and high bond yields are weighing on metals. The US 10-year Treasury yield sits around 5.14%, and Fed officials have been leaning toward more rate hikes. Metals pay no interest, so they look less attractive when bonds pay more."
+   ],
+   "money": [
+    "If you own a gold or silver fund, keep it a small slice; these swings show how jumpy metals can be.",
+    "High yields mean Treasury bills and CDs pay well right now if you want safety with income.",
+    "Buying coins or bars? Compare dealer markups; they can wipe out gains when prices fall."
+   ],
+   "risk": [
+    "A weaker dollar or a calmer Fed could flip metals back up quickly."
+   ],
+   "sources": [
+    {
+     "t": "European shares flat as Nvidia turmoil lingers and markets brace for AI mega-tests",
+     "d": "uk.investing.com",
+     "u": "https://uk.investing.com/news/stock-market-news/european-shares-flat-as-nvidia-turmoil-lingers-and-markets-brace-for-ai-megatests-4983825"
+    },
+    {
+     "t": "Newsquawk Daily European Opening News - 16th November 2026",
+     "d": "newsquawk.com",
+     "u": "https://www.newsquawk.com/headlines/newsquawk-daily-european-opening-news---16th-november-2026"
+    },
+    {
+     "t": "European shares hover near record highs; tech stocks lag",
+     "d": "933thedrive.com",
+     "u": "https://www.933thedrive.com/2026/11/16/european-shares-hover-near-record-highs-tech-stocks-lag/"
+    }
+   ]
+  },
+  {
+   "id": "hormuz-supertanker-sinks-2026111609",
+   "type": "news",
+   "cat": "world",
+   "tags": [
+    "world",
+    "markets"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T09:20:00Z",
+   "headline": "Iran says a supertanker with 2M+ barrels sank; six tankers caught fire since Sunday",
+   "caption": "Iranian state media says more ships hit mines in the Strait of Hormuz on Monday. Brent oil held near $96.",
+   "visual": {
+    "type": "timeline",
+    "title": "Hormuz, last 48 hours",
+    "items": [
+     {
+      "d": "NOV 15",
+      "t": "2 tankers hit mines",
+      "s": "Iran says they used an unauthorized route"
+     },
+     {
+      "d": "NOV 15",
+      "t": "Supertanker sinks, IRGC says",
+      "s": "Carried 2M+ barrels"
+     },
+     {
+      "d": "NOV 16",
+      "t": "2 more tankers hit",
+      "s": "Six on fire since Sunday",
+      "now": true
+     },
+     {
+      "d": "NOV 16",
+      "t": "Brent near $96",
+      "s": "WTI just under $89"
+     }
+    ]
+   },
+   "detail": [
+    "Iran's Revolutionary Guards said a supertanker carrying more than 2 million barrels of oil sank after hitting a naval mine and catching fire in the Strait of Hormuz. Iranian state TV said two more tankers hit mines Monday, making six vessels that caught fire in the strait since Sunday.",
+    "The claims come from Iranian officials and state media, and no independent confirmation had emerged. UK maritime authorities separately reported an attack on a tanker in the Persian Gulf; its crew was safe.",
+    "Oil steadied after a two-week slump. Brent held near $96 a barrel and WTI traded just under $89."
+   ],
+   "money": [
+    "Gas prices follow crude with a lag; if oil jumps on these reports, fill up sooner rather than later.",
+    "Energy funds can hedge your budget against oil spikes, but they swing hard both ways.",
+    "Heating with oil? Locking a price now limits the damage if the strait gets worse."
+   ],
+   "risk": [
+    "If the reports prove overstated, oil could resume its slide."
+   ],
+   "sources": [
+    {
+     "t": "Iran Says Door to Peace Open despite Striking Bahrain",
+     "d": "rigzone.com",
+     "u": "https://www.rigzone.com/news/iran_says_door_to_peace_open_despite_striking_bahrain-16-nov-2026-185086-article"
+    },
+    {
+     "t": "Iran says supertanker carrying 2 million barrels of oil sinks after 2 ships hit mines in Strait of Hormuz",
+     "d": "indiashippingnews.com",
+     "u": "https://indiashippingnews.com/international-shipping/iran-says-supertanker-carrying-2-million-barrels-of-oil-sinks-after-2-ships-hit-mines-in-strait-of-hormuz/"
+    }
+   ]
+  },
+  {
+   "id": "xi-trump-putin-nov19-2026111609",
+   "type": "news",
+   "cat": "politics",
+   "tags": [
+    "politics",
+    "world"
+   ],
+   "date": "Thu Nov 19",
+   "ts": "2026-11-16T09:20:00Z",
+   "headline": "China confirms the first Xi-Trump-Putin summit for Thursday; no deal expected",
+   "caption": "The three leaders meet in Shenzhen on the sidelines of APEC. A US official says Trump will raise nuclear arms, but no agreement is expected.",
+   "visual": {
+    "type": "timeline",
+    "title": "Trump's Asia week",
+    "items": [
+     {
+      "d": "NOV 16",
+      "t": "China confirms trilateral",
+      "now": true
+     },
+     {
+      "d": "NOV 17",
+      "t": "Thailand deal signing",
+      "s": "Manila"
+     },
+     {
+      "d": "NOV 18",
+      "t": "APEC summit opens",
+      "s": "Shenzhen"
+     },
+     {
+      "d": "NOV 19",
+      "t": "Xi-Trump-Putin meeting",
+      "s": "First ever three-way"
+     }
+    ]
+   },
+   "detail": [
+    "China's foreign ministry confirmed that Xi Jinping, Donald Trump and Vladimir Putin will meet Nov. 19 in Shenzhen during the APEC summit. The Kremlin and White House had confirmed it earlier. It would be the first three-way summit among them.",
+    "A US official said Trump will raise nuclear nonproliferation, and the BBC reported Iran may come up. A senior US official said no agreement is expected. The last US-Russia nuclear arms pact, New START, expired in February."
+   ],
+   "money": [
+    "Big summits can move markets on headlines; avoid trading on rumors that day.",
+    "Any hint of tariff-truce extensions with China could help stocks of US exporters and retailers.",
+    "If you own Asia funds, expect extra swings around the meeting."
+   ],
+   "risk": [
+    "Talks could produce tension instead of progress, which could hit markets."
+   ],
+   "sources": [
+    {
+     "t": "China Confirms Xi, Trump, and Putin Trilateral Summit in Shenzhen on November 19",
+     "d": "newscord.org",
+     "u": "https://newscord.org/article/china-confirms-xi-trump-and-putin-trilateral-summit-in-shenzhen-on-november-19--Story_20261116_b8f65eab"
+    },
+    {
+     "t": "Trump to meet with China's Xi and Russia's Putin at historic trilateral sit-down",
+     "d": "cnn.com",
+     "u": "https://www.cnn.com/2026/11/13/politics/trump-putin-xi-meeting"
+    }
+   ]
+  },
+  {
+   "id": "medicaid-work-rule-delay-july-2026111609",
+   "type": "news",
+   "cat": "benefits",
+   "tags": [
+    "benefits",
+    "states"
+   ],
+   "date": "Fri Nov 13",
+   "ts": "2026-11-16T09:20:00Z",
+   "headline": "Medicaid work rules still start Jan. 1, but states can't cut people off until July 1",
+   "caption": "Federal officials gave states six more months before removing anyone for not meeting the new work rule. States can still act early.",
+   "visual": {
+    "type": "timeline",
+    "title": "Medicaid work rule dates",
+    "items": [
+     {
+      "d": "NOV 13",
+      "t": "CMS tells states of delay",
+      "now": true
+     },
+     {
+      "d": "JAN 1",
+      "t": "Work rule takes effect",
+      "s": "States must check work status"
+     },
+     {
+      "d": "JUL 1",
+      "t": "Coverage removals allowed",
+      "s": "Six months later than planned"
+     }
+    ]
+   },
+   "detail": [
+    "The federal Medicaid agency told states Friday that the new work requirement still takes effect nationwide on Jan. 1. But states can now wait until July 1 to deny or end coverage for people who don't comply. States may still start earlier.",
+    "The rule covers adults in the Medicaid expansion adopted by 40 states, mostly lower-income adults without kids at home. Many must work, volunteer or study at least 80 hours a month. People over 64, caregivers of children under 14 and the medically frail are exempt.",
+    "States asked for time to build staff and systems. In Nebraska, which started early, 533 people were denied, mostly over paperwork."
+   ],
+   "money": [
+    "If you're on Medicaid, start keeping pay stubs or volunteer logs now so you're ready to report hours.",
+    "Check if you qualify for an exemption, such as caring for a child under 14.",
+    "Answer every state letter fast; most denials so far came from missed paperwork."
+   ],
+   "risk": [
+    "Your state may still enforce early, so check your state's own dates."
+   ],
+   "sources": [
+    {
+     "t": "US gives states another 6 months before they have to remove people from Medicaid for not working",
+     "d": "abcnews.com",
+     "u": "https://abcnews.com/US/wireStory/us-states-6-months-remove-people-medicaid-working-138126129"
+    }
+   ]
+  },
+  {
+   "id": "hackman-studio-defaults-2026111609",
+   "type": "news",
+   "cat": "california",
+   "tags": [
+    "california",
+    "business"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T09:20:00Z",
+   "headline": "Hollywood studio landlord Hackman faces $2.1B in loan defaults; a Radford auction looms",
+   "caption": "Lenders have moved on five studio lots since January as filming slumps. Studio City's Radford lot faces a Nov. 24 foreclosure auction.",
+   "visual": {
+    "type": "board",
+    "title": "Hackman lots in trouble",
+    "rows": [
+     {
+      "k": "Radford Studio Center",
+      "s": "Auction set Nov. 24",
+      "v": "$1.1B loan",
+      "tone": "loss"
+     },
+     {
+      "k": "Television City",
+      "s": "Foreclosure likely",
+      "v": "$350M",
+      "tone": "loss"
+     },
+     {
+      "k": "Kaufman Astoria (NY)",
+      "s": "Receiver in charge",
+      "v": "$340M",
+      "tone": "loss"
+     },
+     {
+      "k": "MBS Media Campus",
+      "s": "Debt being sold",
+      "v": "$248M",
+      "tone": "loss"
+     },
+     {
+      "k": "Ex-Sony Animation campus",
+      "s": "Taken by Fortress",
+      "v": "$100M",
+      "tone": "loss"
+     }
+    ],
+    "foot": "Loan amounts; total over $2.1B"
+   },
+   "detail": [
+    "Culver City-based Hackman Capital Partners, which bought up studio lots from 2018 to 2021, is in financial trouble. Lenders have filed defaults or moved to foreclose on five properties since January, with loans totaling more than $2.1 billion.",
+    "Hackman blames the slump in production after the pandemic, the 2023 strikes and shoots moving to cheaper places. Radford Studio Center's 2025 operating income was $15.6 million, versus $60 million projected when its loan was made. Netflix has been under contract since June to buy Radford for close to $400 million.",
+    "Some lots are still healthy, including Culver Studios, leased to Amazon, and Raleigh Studios, leased to Netflix."
+   ],
+   "money": [
+    "If you own commercial real estate funds or REITs, check exposure to studio and office space.",
+    "LA film workers: the slump shows why an emergency fund of several months matters in gig-heavy jobs.",
+    "Distressed sales can create bargains for big buyers, not usually for small investors; be careful with pitches."
+   ],
+   "risk": [
+    "More LA production jobs could leave if studio lots change hands or close."
+   ],
+   "sources": [
+    {
+     "t": "Exit, Stage Left: How Hollywood's Studio Landlord Lost Its Grip",
+     "d": "labusinessjournal.com",
+     "u": "https://labusinessjournal.com/real-estate/exit-stage-left-how-hollywoods-studio-landlord-lost-its-grip/"
+    }
+   ]
+  },
+  {
+   "id": "stellantis-brampton-roshel-2026111609",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business",
+    "world"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T09:20:00Z",
+   "headline": "Stellantis sells its idle Brampton car plant to armored-vehicle maker Roshel",
+   "caption": "The Canadian plant has sat empty for years. Roshel says it may build defense and auto products there, depending on contracts.",
+   "visual": {
+    "type": "deals",
+    "title": "Plant sale",
+    "items": [
+     {
+      "a": "Roshel",
+      "b": "Stellantis Brampton plant",
+      "amt": "Undisclosed",
+      "st": "Close expected by end of 2026",
+      "c": "pend"
+     }
+    ]
+   },
+   "detail": [
+    "Stellantis agreed to sell its long-idle Brampton, Ontario, assembly plant and equipment to Roshel, a private maker of armored vehicles. The price wasn't disclosed, and the deal should close by the end of 2026, pending government approvals.",
+    "Roshel's CEO said the site won't be limited to defense and could take on auto work, but plans depend on contracts. Canada and NATO allies agreed to raise defense spending to 5% of GDP by 2035, and Roshel wants more capacity. Questions remain about how many jobs the site will bring back."
+   ],
+   "money": [
+    "Rising defense budgets are lifting suppliers; defense ETFs are one way to follow the trend.",
+    "Auto workers near idle plants: watch for hiring at new owners, which may need similar skills.",
+    "Automakers selling idle plants can free up cash, a sign of cost-cutting worth watching if you own their stock."
+   ],
+   "risk": [
+    "The deal can still fall through if approvals stall."
+   ],
+   "sources": [
+    {
+     "t": "Defence contractor Roshel looking to build capacity, meet demand with plant purchase",
+     "d": "ckom.com",
+     "u": "https://www.ckom.com/2026/11/16/defence-contractor-roshel-looking-to-build-capacity-meet-demand-with-plant-purchase/"
+    }
+   ]
+  },
+  {
+   "id": "btc-rebound-etf-outflows-canton-2026111609",
+   "type": "news",
+   "cat": "crypto",
+   "tags": [
+    "crypto",
+    "markets"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T09:20:00Z",
+   "headline": "Bitcoin climbs back to $65K from a $61,970 low; Canton and Quant jump about 10%",
+   "caption": "Bitcoin bounced off a 90-day low, but bitcoin ETFs have seen seven straight days of outflows. A few altcoins led the rebound.",
+   "visual": {
+    "type": "board",
+    "title": "Crypto rebound, Mon Nov 16",
+    "rows": [
+     {
+      "k": "Bitcoin",
+      "s": "low was $61,970",
+      "v": "$65,017",
+      "ch": 0.43,
+      "tone": "gain"
+     },
+     {
+      "k": "Ether",
+      "s": "low was $1,710",
+      "v": "$1,824",
+      "ch": 0.5,
+      "tone": "gain"
+     },
+     {
+      "k": "Canton (CC)",
+      "s": "Sunday",
+      "v": "$0.0857",
+      "ch": 10.35,
+      "tone": "gain"
+     },
+     {
+      "k": "Quant (QNT)",
+      "s": "Sunday",
+      "v": "$157.41",
+      "ch": 9.74,
+      "tone": "gain"
+     },
+     {
+      "k": "Bitcoin ETF outflows",
+      "s": "7 straight days",
+      "v": "$1.91B",
+      "tone": "loss"
+     }
+    ],
+    "foot": "Fear & Greed Index: 10 (extreme fear)"
+   },
+   "detail": [
+    "Bitcoin traded near $65,000 Monday after bouncing from $61,970, its lowest level in 90 sessions. It remains well below its 20-day and 50-day averages. Ether recovered to about $1,824 from a low of $1,710.",
+    "Canton jumped about 10% Sunday and Quant rose nearly 10%, leading smaller coins higher. But spot bitcoin ETFs have had seven straight days of outflows, about $1.91 billion in total.",
+    "Fed Chair Kevin Warsh speaks at noon New York time, his first public speech since the October Fed meeting. A hawkish tone could hit risky assets like crypto."
+   ],
+   "money": [
+    "Bounces in a downtrend often fade; don't chase a one-day jump.",
+    "If you buy crypto, small regular amounts can smooth out wild prices.",
+    "Losses this year can offset gains on your taxes; check if selling and rebuying makes sense with a pro."
+   ],
+   "risk": [
+    "A drop below about $62,000 could open the way to the 12-month low near $58,570."
+   ],
+   "sources": [
+    {
+     "t": "Crypto Price Analysis, BTC, ETH, CC, QNT and ZEC, Nov. 16",
+     "d": "thecryptobasic.com",
+     "u": "https://thecryptobasic.com/2026/11/16/crypto-price-analysis-btc-eth-cc-qnt-and-zec-nov-16-canton-and-quant-gain-as-bitcoin-rebounds-from-61970/"
+    },
+    {
+     "t": "Bitcoin price before Warsh speech: the level that decides",
+     "d": "cryptoticker.io",
+     "u": "https://cryptoticker.io/en/bitcoin-price-warsh-speech-productivity-jobs-november-16-2026/"
+    }
+   ]
+  },
+  {
+   "id": "ai-funding-week-mercor-2026111609",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "business",
+    "taxes"
+   ],
+   "date": "Last week",
+   "ts": "2026-11-16T09:20:00Z",
+   "headline": "AI funding week: Mercor raises $750M at $20B; an AI tax-research tool gets $176M",
+   "caption": "Agent startups pulled in big checks last week. Mercor trains AI agents on pro work, and Blue J builds an AI tax researcher.",
+   "visual": {
+    "type": "deals",
+    "title": "Biggest AI rounds, Nov. 9-15",
+    "items": [
+     {
+      "a": "Mercor",
+      "b": "Series D, $20B value",
+      "amt": "$750M",
+      "st": "Benchmark, Nvidia, others",
+      "c": "ok"
+     },
+     {
+      "a": "Blue J",
+      "b": "AI tax research, $700M value",
+      "amt": "$176M",
+      "st": "Led by JMI Equity",
+      "c": "ok"
+     },
+     {
+      "a": "Traversal",
+      "b": "Series B",
+      "amt": "$120M",
+      "st": "Kleiner, Redpoint, Khosla",
+      "c": "ok"
+     },
+     {
+      "a": "Ocient",
+      "b": "Series C",
+      "amt": "$100M",
+      "st": "BOKA, OCA Ventures",
+      "c": "ok"
+     }
+    ]
+   },
+   "detail": [
+    "Mercor raised $750 million at a $20 billion valuation from investors including Benchmark, Felicis and Nvidia. It trains and tests AI agents on professional tasks.",
+    "Blue J, which makes an AI tax research agent, raised $176 million at a $700 million value, partly to expand in the UK and let employees sell some shares. Traversal raised $120 million for agents that find causes of software outages, and Ocient raised $100 million for data tools."
+   ],
+   "money": [
+    "AI tax tools are spreading to preparers; ask yours how they check AI answers.",
+    "Private AI deals rarely reach small investors; be wary of 'pre-IPO' share offers online.",
+    "If you work in tax, legal or finance, learning these AI tools can raise your value at work."
+   ],
+   "risk": [
+    "Sky-high startup values can fall fast if AI spending slows."
+   ],
+   "sources": [
+    {
+     "t": "The AI Insider Funding Pulse",
+     "d": "theaiinsider.tech",
+     "u": "https://theaiinsider.tech/2026/11/16/the-ai-insider-funding-pulse-2/"
+    }
+   ]
+  },
+  {
+   "id": "irs-charity-deduction-nonitemizers-2026111609",
+   "type": "news",
+   "cat": "taxes",
+   "tags": [
+    "taxes"
+   ],
+   "date": "This week",
+   "ts": "2026-11-16T09:20:00Z",
+   "headline": "IRS reminder: no itemizing needed to deduct up to $1,000 in charity gifts for 2026",
+   "caption": "Starting with 2026 returns filed next year, standard-deduction filers can deduct cash gifts to charity. Couples get up to $2,000.",
+   "visual": {
+    "type": "board",
+    "title": "New charity deduction",
+    "rows": [
+     {
+      "k": "Single filers",
+      "v": "Up to $1,000",
+      "tone": "gain"
+     },
+     {
+      "k": "Married filing jointly",
+      "v": "Up to $2,000",
+      "tone": "gain"
+     },
+     {
+      "k": "Starts",
+      "s": "returns filed in 2027",
+      "v": "Tax year 2026"
+     },
+     {
+      "k": "Gifts of goods",
+      "v": "Don't count",
+      "tone": "loss"
+     },
+     {
+      "k": "Donor-advised funds",
+      "v": "Don't count",
+      "tone": "loss"
+     }
+    ],
+    "foot": "Permanent under the Working Families Tax Cuts law"
+   },
+   "detail": [
+    "The IRS is reminding taxpayers that a permanent charity deduction for people who don't itemize begins with tax year 2026. Singles can deduct up to $1,000 of cash gifts, and married couples filing jointly up to $2,000.",
+    "Only cash gifts to qualified charities count. Donated goods, gifts to donor-advised funds and gifts to supporting organizations don't qualify. Keep receipts, bank records or a letter from the charity showing its name, the date and the amount."
+   ],
+   "money": [
+    "Planning year-end giving? Gifts made by Dec. 31 count for your 2026 return.",
+    "Pay by card, check or bank transfer so you have a record; cash in a jar is hard to prove.",
+    "Couples who give $2,000 in the 22% bracket could cut their tax by about $440."
+   ],
+   "risk": [
+    "Payments for raffles, galas or goods you get back may not count fully."
+   ],
+   "sources": [
+    {
+     "t": "IRS reminder: Permanent charitable contribution deduction begins for returns filed next year",
+     "d": "irs.gov",
+     "u": "https://www.irs.gov/node/167431"
+    }
+   ]
+  },
+  {
+   "id": "min-wage-jan-2027-2026111609",
+   "type": "news",
+   "cat": "states",
+   "tags": [
+    "states",
+    "business"
+   ],
+   "date": "Jan 1, 2027",
+   "ts": "2026-11-16T09:20:00Z",
+   "headline": "Raises Jan. 1: Michigan hits $15 and Washington $17.73 as 15+ states lift minimum pay",
+   "caption": "Workers in more than a dozen states get higher pay floors in January. Others, like Texas and Pennsylvania, stay at $7.25.",
+   "visual": {
+    "type": "board",
+    "title": "New minimum wages, Jan. 1",
+    "rows": [
+     {
+      "k": "Washington",
+      "s": "highest statewide",
+      "v": "$17.73",
+      "tone": "gain"
+     },
+     {
+      "k": "Connecticut",
+      "v": "$17.48",
+      "tone": "gain"
+     },
+     {
+      "k": "California",
+      "v": "$17.40",
+      "tone": "gain"
+     },
+     {
+      "k": "Rhode Island",
+      "s": "from $16.00",
+      "v": "$17.00",
+      "tone": "gain"
+     },
+     {
+      "k": "Michigan",
+      "s": "from $13.73",
+      "v": "$15.00",
+      "tone": "gain"
+     },
+     {
+      "k": "Virginia",
+      "s": "up 98 cents",
+      "v": "$13.75",
+      "tone": "gain"
+     }
+    ],
+    "foot": "Federal minimum: $7.25 since 2009"
+   },
+   "detail": [
+    "Michigan's minimum wage jumps to $15 from $13.73 on Jan. 1, the biggest confirmed increase. Washington rises to $17.73, the highest statewide rate. Connecticut goes to $17.48, California to $17.40 and Rhode Island to $17.",
+    "New Jersey, Colorado, Maine, Minnesota, Ohio, South Dakota, Montana, Nebraska and Arizona also have January increases. Alaska's rise to $15 waits until July 1. Texas, North Carolina, Tennessee and Pennsylvania remain at the $7.25 federal floor."
+   ],
+   "money": [
+    "Hourly workers: check your first January paycheck to make sure the new rate is applied.",
+    "A raise can change benefit eligibility; report income changes to SNAP or Medicaid on time.",
+    "Small business owners: budget now for higher payroll and any pay compression above minimum."
+   ],
+   "risk": [
+    "Some employers may cut hours or raise prices to offset higher wages."
+   ],
+   "sources": [
+    {
+     "t": "Millions of US Workers Set for 2027 Pay Hike as 16 States Lift Minimum Wages",
+     "d": "ibtimes.co.uk",
+     "u": "https://www.ibtimes.co.uk/us-states-minimum-wage-increases-2027-1830704"
+    }
+   ]
+  },
+  {
+   "id": "edu-charity-deduction-math-2026111609",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "taxes"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-16T09:20:00Z",
+   "headline": "The new charity deduction: what $1,000 in gifts really saves you",
+   "caption": "You don't need to itemize anymore to get a tax break for giving. Here's how the math works.",
+   "scenes": [
+    {
+     "k": "NEW FOR 2026",
+     "t": "Charity counts, even without itemizing",
+     "s": "Standard-deduction filers can now deduct cash gifts."
+    },
+    {
+     "k": "THE LIMITS",
+     "t": "$1,000 single, $2,000 married",
+     "viz": {
+      "type": "split",
+      "items": [
+       [
+        "Single",
+        "$1,000"
+       ],
+       [
+        "Married joint",
+        "$2,000"
+       ],
+       [
+        "Starts with tax year",
+        "2026",
+        "wide"
+       ]
+      ]
+     },
+     "say": "Singles can deduct up to one thousand dollars, and married couples up to two thousand, starting with tax year 2026."
+    },
+    {
+     "k": "DEDUCTION ≠ REFUND",
+     "t": "It lowers taxable income, not your tax bill 1:1",
+     "s": "Your savings equal the gift times your tax bracket."
+    },
+    {
+     "k": "THE MATH",
+     "t": "$1,000 gift in the 22% bracket",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "Give $1,000 cash",
+       "Deduct $1,000",
+       "Tax drops about $220"
+      ]
+     },
+     "say": "Give one thousand dollars in the 22 percent bracket and your tax drops about two hundred twenty dollars."
+    },
+    {
+     "k": "WHAT DOESN'T COUNT",
+     "t": "Goods, donor-advised funds",
+     "s": "Only cash gifts to qualified charities qualify."
+    },
+    {
+     "k": "DO THIS",
+     "t": "Keep a record of every gift",
+     "s": "A receipt or bank record with the charity's name, date and amount."
+    }
+   ]
+  },
+  {
+   "id": "edu-europe-ai-shelter-2026111609",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "markets"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-16T09:20:00Z",
+   "headline": "Why Europe held up while AI stocks fell: sector mix explained",
+   "caption": "Indexes differ in what they own. That mix decides who gets hit when one industry stumbles.",
+   "scenes": [
+    {
+     "k": "MONDAY",
+     "t": "Asia fell. Europe stayed near a record.",
+     "s": "Same news, very different moves."
+    },
+    {
+     "k": "THE REASON",
+     "t": "Europe owns less AI",
+     "s": "Its big index leans on banks, drugmakers and energy, not chipmakers."
+    },
+    {
+     "k": "SECTOR MIX",
+     "t": "What's inside drives the ride",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "AI news hits chips",
+       "Chip-heavy markets fall",
+       "Less-exposed markets hold"
+      ]
+     }
+    },
+    {
+     "k": "THE UPGRADE",
+     "t": "Morgan Stanley raised Europe to overweight",
+     "s": "It sees the region as a shelter from AI swings."
+    },
+    {
+     "k": "FOR YOU",
+     "t": "Check what your funds actually hold",
+     "s": "Many 'global' funds still lean heavily on US tech."
+    },
+    {
+     "k": "THE IDEA",
+     "t": "Spread risk across regions and sectors",
+     "s": "Diversifying means one bad industry can't sink everything."
+    }
+   ]
+  },
   {
    "id": "asia-close-kospi-nikkei-2026111608",
    "type": "news",
@@ -11236,819 +12098,6 @@
      "u": "https://www.newsweek.com/judge-blocks-ice-from-searching-immigration-lawyers-phone-12715119"
     }
    ]
-  },
-  {
-   "id": "bahrain-drones-2026111520",
-   "type": "news",
-   "cat": "world",
-   "tags": [
-    "world",
-    "markets"
-   ],
-   "date": "Sun Nov 15",
-   "ts": "2026-11-15T20:19:00Z",
-   "headline": "Iran fires drones at a US base in Bahrain, its second attack there this week",
-   "caption": "Bahrain says it shot the drones down. Gulf stocks fell as Hormuz shipping stays heavily limited.",
-   "visual": {
-    "type": "board",
-    "title": "Sunday in the Gulf",
-    "rows": [
-     {
-      "k": "IRGC drones fired",
-      "s": "at Riffa airbase radar",
-      "v": "6"
-     },
-     {
-      "k": "Saudi stocks",
-      "v": "-0.7%",
-      "ch": -0.7,
-      "tone": "loss"
-     },
-     {
-      "k": "Qatar stocks",
-      "v": "-1.8%",
-      "ch": -1.8,
-      "tone": "loss"
-     },
-     {
-      "k": "Next talks",
-      "s": "Araghchi in Muscat",
-      "v": "Tuesday"
-     }
-    ]
-   },
-   "detail": [
-    "Iran's Revolutionary Guard said it fired six drones at a US air-defense radar at Bahrain's Riffa airbase early Sunday. Bahrain said the drones were destroyed before reaching targets. The Gulf Cooperation Council called it a 'blatant challenge' to peace efforts.",
-    "Shipping through Hormuz remains heavily curtailed. Iran's foreign minister is due in Muscat on Tuesday. Gulf-backed Yemeni forces also pulled back from an area overlooking the Bab al-Mandeb strait, another key oil route."
-   ],
-   "money": [
-    "Oil can jump on Gulf attacks; avoid filling up with premium fuel you don't need.",
-    "Energy funds can swing hard on war news; keep them a small slice of a portfolio.",
-    "Lock in fixed heating-oil or propane prices if your supplier offers them."
-   ],
-   "risk": [
-    "Claims from both sides are hard to verify quickly."
-   ],
-   "sources": [
-    {
-     "t": "Iran attacks Bahrain in 'blatant challenge' to peace push",
-     "d": "thenationalnews.com",
-     "u": "https://www.thenationalnews.com/news/mena/2026/11/15/iran-attacks-bahrain-in-blatant-challenge-to-peace-push/"
-    }
-   ]
-  },
-  {
-   "id": "ca-gas-drop-2026111520",
-   "type": "news",
-   "cat": "california",
-   "tags": [
-    "california",
-    "markets"
-   ],
-   "date": "Fri Nov 13",
-   "ts": "2026-11-15T20:19:00Z",
-   "headline": "California gas falls 20 cents in a week to about $5.63 a gallon",
-   "caption": "Prices are down about 67 cents from a month ago. They're still almost $1 above last year.",
-   "visual": {
-    "type": "board",
-    "title": "California regular gas (AAA)",
-    "rows": [
-     {
-      "k": "Now",
-      "v": "$5.63",
-      "tone": "gain"
-     },
-     {
-      "k": "Week ago",
-      "v": "$5.84"
-     },
-     {
-      "k": "Month ago",
-      "v": "$6.31"
-     },
-     {
-      "k": "Year ago",
-      "v": "$4.69",
-      "tone": "loss"
-     },
-     {
-      "k": "Diesel now",
-      "s": "was $5.17 a year ago",
-      "v": "$8.04"
-     }
-    ],
-    "foot": "California ties Hawaii for the priciest gas in the US"
-   },
-   "detail": [
-    "AAA data show California's average for regular gas fell to about $5.63, down from $5.84 a week earlier and $6.31 a month ago. Diesel is just over $8.",
-    "California and Hawaii are tied for the most expensive gas in the country. The national average recently fell below $4 a gallon for the first time since July."
-   ],
-   "money": [
-    "Use a gas price app; prices vary a lot between nearby stations.",
-    "Warehouse-club and grocery fuel rewards can save 10 to 30 cents a gallon.",
-    "If prices keep falling, don't prepay or stock up yet."
-   ],
-   "risk": [
-    "New Gulf attacks could push prices back up."
-   ],
-   "sources": [
-    {
-     "t": "AAA: California Gas Prices Fall 20 Cents in a Week",
-     "d": "contracosta.news",
-     "u": "https://contracosta.news/2026/11/13/aaa-california-gas-prices-fall-20-cents-in-a-week/"
-    }
-   ]
-  },
-  {
-   "id": "edu-price-target-2026111520",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "markets"
-   ],
-   "date": "Explainer",
-   "ts": "2026-11-15T20:19:00Z",
-   "headline": "What an analyst 'price target' really means",
-   "caption": "HSBC just cut Nvidia's target to $170. Here's what targets and downgrades tell you, and what they don't.",
-   "scenes": [
-    {
-     "k": "This week",
-     "t": "HSBC cut Nvidia to Hold.",
-     "s": "Its target fell from about $370 to $170."
-    },
-    {
-     "k": "The basics",
-     "t": "A target is one analyst's guess.",
-     "s": "It's where they think a stock trades in about a year."
-    },
-    {
-     "k": "Nvidia now",
-     "t": "Targets can be far apart.",
-     "viz": {
-      "type": "split",
-      "items": [
-       [
-        "Friday close",
-        "$162.85"
-       ],
-       [
-        "HSBC target",
-        "$170"
-       ],
-       [
-        "Street average",
-        "$279.63",
-        "wide"
-       ]
-      ]
-     },
-     "say": "Nvidia closed Friday at about 163 dollars. HSBC's new target is 170, while the average Wall Street target is about 280."
-    },
-    {
-     "k": "Ratings",
-     "t": "Buy, Hold, Sell.",
-     "s": "A downgrade means the analyst sees less upside than before."
-    },
-    {
-     "k": "How it flows",
-     "t": "Why downgrades move stocks.",
-     "viz": {
-      "type": "flow",
-      "items": [
-       "New risk spotted",
-       "Target cut",
-       "Funds rethink",
-       "Price swings"
-      ]
-     }
-    },
-    {
-     "k": "Your move",
-     "t": "Use targets as one clue, not a plan.",
-     "s": "Look at the range of views and your own time horizon."
-    }
-   ]
-  },
-  {
-   "id": "edu-mortgage-math-2026111520",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "business"
-   ],
-   "date": "Explainer",
-   "ts": "2026-11-15T20:19:00Z",
-   "headline": "A small rate drop, real money: mortgage math",
-   "caption": "Mortgage rates slipped to 7.11%. Here's what tiny rate changes do to a monthly payment.",
-   "scenes": [
-    {
-     "k": "This week",
-     "t": "30-year rates hit 7.11%.",
-     "s": "Down from 7.18%, a seven-week low."
-    },
-    {
-     "k": "Try it",
-     "t": "Picture a $400,000 loan.",
-     "s": "30 years, fixed rate, principal and interest only."
-    },
-    {
-     "k": "The payment",
-     "t": "Each rate means a different bill.",
-     "viz": {
-      "type": "split",
-      "items": [
-       [
-        "At 7.18%",
-        "$2,710/mo"
-       ],
-       [
-        "At 7.11%",
-        "$2,691/mo"
-       ],
-       [
-        "At 6.24% (a year ago)",
-        "$2,460/mo",
-        "wide"
-       ]
-      ]
-     },
-     "say": "At 7.18 percent, the monthly payment is about 2,710 dollars. At 7.11 percent, it's about 2,691. At last year's 6.24 percent, it would be about 2,460."
-    },
-    {
-     "k": "Add it up",
-     "t": "About $19 a month saved.",
-     "s": "That's roughly $6,800 over 30 years."
-    },
-    {
-     "k": "Bigger levers",
-     "t": "Shopping lenders can matter more.",
-     "viz": {
-      "type": "flow",
-      "items": [
-       "Get 3+ quotes",
-       "Compare APR",
-       "Ask about points",
-       "Lock your rate"
-      ]
-     }
-    },
-    {
-     "k": "Your move",
-     "t": "Shop around before you lock.",
-     "s": "Offers can differ more than a week's rate move."
-    }
-   ]
-  },
-  {
-   "id": "ai-job-cuts-121k-2026111519",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "business"
-   ],
-   "date": "Sun Nov 15",
-   "headline": "AI-linked job cuts top 121,000 this year, more than double all of 2025",
-   "caption": "Employers blamed AI for 121,401 announced US job cuts from January through October. That's about one in five cuts this year.",
-   "visual": {
-    "type": "vs",
-    "title": "AI-linked US job cuts",
-    "a": [
-     "All of 2025",
-     "54,836",
-     0.45,
-     "acc"
-    ],
-    "b": [
-     "Jan–Oct 2026",
-     "121,401",
-     1,
-     "loss"
-    ],
-    "foot": "Source: Challenger, Gray & Christmas"
-   },
-   "detail": [
-    "Challenger, Gray & Christmas counted 121,401 announced US job cuts tied to AI in the first 10 months of 2026. That is about 20% of all cuts and more than twice the 54,836 for all of 2025.",
-    "October was the quietest month of the year for AI-linked cuts, at 1,265. Cuts blamed on market and economic conditions, 130,531 so far, now lead AI as the top stated reason.",
-    "Hiring for easy-to-automate roles has fallen by about a third since 2021. The next Challenger report, with November data, is due Dec. 3."
-   ],
-   "money": [
-    "If your role is routine and screen-based, build skills that pair with AI tools rather than compete with them.",
-    "Keep three to six months of expenses in an emergency fund if your industry is cutting.",
-    "Know your severance and unemployment rights before a layoff, not after."
-   ],
-   "risk": [
-    "Company-stated reasons for layoffs can be fuzzy, so the AI count may be over- or under-stated."
-   ],
-   "sources": [
-    {
-     "t": "Challenger Data Shows AI-Linked Job Cuts More Than Double in 2026",
-     "d": "time.news",
-     "u": "https://time.news/challenger-data-shows-ai-linked-job-cuts-more-than-double-in-2026/"
-    }
-   ],
-   "ts": "2026-11-15T19:18:00Z"
-  },
-  {
-   "id": "huang-misled-counsel-2026111519",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "markets"
-   ],
-   "date": "Sat Nov 14",
-   "headline": "Reuters: Huang told Nvidia's top lawyer his Megaspeed ties were routine business",
-   "caption": "Messages show ex-CEO Jensen Huang called his dealings with a Megaspeed executive normal customer business. It lands days before Nvidia reports earnings.",
-   "visual": {
-    "type": "timeline",
-    "title": "The Nvidia leadership saga",
-    "items": [
-     {
-      "d": "OCT",
-      "t": "Huang messages top lawyer",
-      "s": "Calls Megaspeed ties routine"
-     },
-     {
-      "d": "OCT",
-      "t": "NYT reports on meetings",
-      "s": "US probe already 1+ year old"
-     },
-     {
-      "d": "NOV 8",
-      "t": "Board opens investigation"
-     },
-     {
-      "d": "NOV 14",
-      "t": "Reuters reports the messages",
-      "now": true
-     },
-     {
-      "d": "THIS WEEK",
-      "t": "Nvidia earnings"
-     }
-    ]
-   },
-   "detail": [
-    "Reuters reported that in October messages, Jensen Huang told Nvidia general counsel Tim Teter and marketing chief Alison Wagonfeld that his dealings with Alice Huang and her Singapore company Megaspeed were normal customer business. The two are not related.",
-    "US officials had been looking into Alice Huang and Megaspeed for more than a year before The New York Times reported on the meetings in October. Nvidia's board opened an investigation on Nov. 8, and Huang stepped down as CEO that week.",
-    "The report adds pressure as Nvidia prepares its first earnings report without Huang in charge."
-   ],
-   "money": [
-    "Leadership scandals can add volatility around earnings, so avoid big all-in bets right before the report.",
-    "If you own Nvidia through index funds, your exposure is spread out; check how large it is in your S&P 500 or Nasdaq funds.",
-    "Options get pricier before earnings; buying them now means paying for that expected swing."
-   ],
-   "risk": [
-    "The report relies on unnamed sources and reviewed messages; more facts may emerge.",
-    "Regulatory or legal fallout could still widen."
-   ],
-   "sources": [
-    {
-     "t": "Huang misled Nvidia's top lawyer on Megaspeed affair (Reuters)",
-     "d": "aiweekly.co",
-     "u": "https://aiweekly.co/alerts/huang-misled-nvidias-top-lawyer-on-megaspeed-affair-reuters"
-    }
-   ],
-   "ts": "2026-11-15T19:18:00Z"
-  },
-  {
-   "id": "mirendil-1b-2026111519",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "business"
-   ],
-   "date": "This week",
-   "headline": "Mirendil raises $1B at a $5B value to automate AI research",
-   "caption": "A startup founded by ex-Anthropic, OpenAI, DeepMind and xAI researchers landed a $1 billion Series A. It came just months after its seed round.",
-   "visual": {
-    "type": "board",
-    "title": "Mirendil's Series A",
-    "rows": [
-     {
-      "k": "Raised",
-      "v": "$1B",
-      "tone": "gain"
-     },
-     {
-      "k": "Valuation",
-      "s": "post-money, reported",
-      "v": "~$5B"
-     },
-     {
-      "k": "Step-up",
-      "s": "vs seed months ago",
-      "v": "~5x",
-      "tone": "gain"
-     },
-     {
-      "k": "Leads",
-      "v": "Kleiner, Clearlake"
-     },
-     {
-      "k": "Also in",
-      "v": "Google, Battery, Pear VC"
-     }
-    ]
-   },
-   "detail": [
-    "Mirendil raised a $1 billion Series A led by Kleiner Perkins and Clearlake Capital, with Google, Battery Ventures, Pear VC and others joining. Reports put its value near $5 billion.",
-    "The founders previously worked at Anthropic, OpenAI, Google DeepMind and xAI. The company sells tools that run many autonomous coding and experiment agents, plus a model with a 10-million-token context window.",
-    "The round came about five months after a $200 million seed, showing how fast money is still moving into AI startups."
-   ],
-   "money": [
-    "Most people can't buy private AI startups; public AI ETFs and big-tech stocks are the usual access points.",
-    "Huge private rounds can signal a crowded trade, so keep AI to a set slice of your portfolio.",
-    "Workers in AI research tools may see strong hiring demand from well-funded startups."
-   ],
-   "risk": [
-    "Startup valuations can fall sharply if growth slows or funding dries up."
-   ],
-   "sources": [
-    {
-     "t": "Mirendil raises $1B Series A at $5B",
-     "d": "aiweekly.co",
-     "u": "https://aiweekly.co/alerts/mirendil-raises-1b-series-a-at-5b-from-kleiner-perkins-and-clearlake-to"
-    },
-    {
-     "t": "Mirendil Raises $1B to Democratize Frontier AI R&D",
-     "d": "prnewswire.com",
-     "u": "https://www.prnewswire.com/news-releases/mirendil-raises-1b-to-democratize-frontier-ai-rd-302937248.html"
-    }
-   ],
-   "ts": "2026-11-15T19:18:00Z"
-  },
-  {
-   "id": "nvda-estimates-2026111519",
-   "type": "news",
-   "cat": "markets",
-   "tags": [
-    "markets",
-    "ai"
-   ],
-   "date": "This week",
-   "headline": "Wall Street expects $108.7B in sales from Nvidia's first post-Huang report",
-   "caption": "Analysts see Nvidia earning $2.47 a share. Stock ETFs slipped in Friday's late trading ahead of a packed week.",
-   "visual": {
-    "type": "ticker",
-    "sym": "NVDA",
-    "ex": "NASDAQ",
-    "rows": [
-     {
-      "k": "Revenue est.",
-      "s": "Jul–Sep quarter",
-      "v": "$108.73B"
-     },
-     {
-      "k": "EPS est.",
-      "s": "per share",
-      "v": "$2.47"
-     },
-     {
-      "k": "SPY late Fri",
-      "s": "after hours",
-      "v": "-0.63%"
-     },
-     {
-      "k": "QQQ late Fri",
-      "s": "after hours",
-      "v": "-0.83%"
-     }
-    ]
-   },
-   "detail": [
-    "Analysts expect Nvidia to report $2.47 a share in profit on $108.73 billion in revenue for the July–September quarter, based on Fiscal.ai data. It's the first report since Jensen Huang stepped down as CEO.",
-    "Palo Alto Networks is expected to post 97 cents a share on $3.31 billion in sales, and Disney $1.68 on $25.15 billion. Walmart, Target and Home Depot also report.",
-    "Minutes from the Fed's October meeting come out Wednesday. Chair Kevin Warsh and several other Fed officials are set to speak during the week."
-   ],
-   "money": [
-    "Big index funds hold a lot of Nvidia, so its report can move your 401(k) even if you don't own it directly.",
-    "If you plan to buy, consider splitting the purchase before and after earnings to avoid timing risk.",
-    "Retail earnings from Walmart and Target can hint at holiday deals and consumer health."
-   ],
-   "risk": [
-    "A miss or weak guidance could hit chip stocks broadly.",
-    "Fed speakers could push rate-hike odds higher."
-   ],
-   "sources": [
-    {
-     "t": "What To Expect In Markets This Week: NVDA, PANW, DIS, HD, TGT, WMT Earnings, Kevin Warsh Speech And More",
-     "d": "stocktwits.com",
-     "u": "https://stocktwits.com/news-articles/markets/equity/what-to-expect-markets-this-week-nov-15-2026/cNbEXadR9Qu"
-    }
-   ],
-   "ts": "2026-11-15T19:18:00Z"
-  },
-  {
-   "id": "pce-nov25-2026111519",
-   "type": "news",
-   "cat": "markets",
-   "tags": [
-    "markets",
-    "politics"
-   ],
-   "date": "Coming up",
-   "headline": "The Nov. 25 inflation report could decide a half-point Fed hike",
-   "caption": "October's PCE price data lands the day before Thanksgiving. A hot number could push the Fed to a bigger December hike.",
-   "visual": {
-    "type": "timeline",
-    "title": "Road to the December Fed meeting",
-    "items": [
-     {
-      "d": "OCT",
-      "t": "CPI up 0.4%",
-      "s": "vs 0.3% expected"
-     },
-     {
-      "d": "NOV 18",
-      "t": "Fed minutes out"
-     },
-     {
-      "d": "NOV 25",
-      "t": "PCE inflation report",
-      "s": "Fed's preferred gauge",
-      "now": true
-     },
-     {
-      "d": "DEC 8–9",
-      "t": "Fed decision",
-      "s": "Quarter or half point?"
-     }
-    ]
-   },
-   "detail": [
-    "The government releases October personal income and spending data on Wednesday, Nov. 25, before the market opens. It includes the PCE price index, the Fed's favorite inflation measure.",
-    "The Fed raised rates in September and paused in October. October consumer prices then rose 0.4% for the month, above the 0.3% expected.",
-    "Governor Christopher Waller has said a half-point hike would fit if core inflation hit 3% or more. A hot PCE reading could bring more Fed officials around to that view."
-   ],
-   "money": [
-    "If you have a variable-rate card or HELOC, a bigger hike means higher interest; paying it down now helps.",
-    "Savers can lock in high-yield CDs or Treasury bills while rates are elevated.",
-    "If you're shopping for a mortgage, compare locking now versus waiting; rates can jump on hot data."
-   ],
-   "risk": [
-    "The Fed could still choose a smaller move if other data cools.",
-    "Markets may swing sharply on report day."
-   ],
-   "sources": [
-    {
-     "t": "Nov. 25 Will Be a Critical Day for the Stock Market",
-     "d": "fool.com",
-     "u": "https://www.fool.com/investing/2026/11/14/november-25-will-be-a-critical-day-for-the-stock-market/"
-    }
-   ],
-   "ts": "2026-11-15T19:18:00Z"
-  },
-  {
-   "id": "mara-msci-crypto-2026111519",
-   "type": "news",
-   "cat": "crypto",
-   "tags": [
-    "crypto",
-    "markets"
-   ],
-   "date": "This week",
-   "headline": "Crypto treasury firms buckle: MARA sells 40% of its bitcoin; MSCI drops Strategy",
-   "caption": "Miner MARA sold 13,597 bitcoin for $1.1 billion. MSCI will remove Strategy from its main global indexes on Nov. 30.",
-   "visual": {
-    "type": "deals",
-    "title": "Pressure on bitcoin-holding companies",
-    "items": [
-     {
-      "a": "MARA",
-      "b": "Sold 13,597 BTC",
-      "amt": "$1.1B",
-      "st": "~40% of its stack",
-      "c": "bad"
-     },
-     {
-      "a": "MSCI",
-      "b": "Removes Strategy",
-      "amt": "Nov 30",
-      "st": "Global standard indexes",
-      "c": "pend"
-     },
-     {
-      "a": "MSCI",
-      "b": "Removes Metaplanet",
-      "amt": "Nov 30",
-      "st": "Small-cap indexes",
-      "c": "pend"
-     },
-     {
-      "a": "Strategy",
-      "b": "Holds 850,364 BTC",
-      "amt": "$75,456",
-      "st": "Avg cost; ~13% under water",
-      "c": "bad"
-     }
-    ]
-   },
-   "detail": [
-    "Bitcoin miner MARA sold 13,597 bitcoin, raising about $1.1 billion. That's roughly 40% of what it held at the end of September.",
-    "Index provider MSCI will remove Strategy from its global standard indexes and Metaplanet from its small-cap indexes at the close on Nov. 30. Funds that track those indexes will have to sell.",
-    "Strategy still bought 1,036 bitcoin in the week to Nov. 8 and holds 850,364 coins at an average cost of $75,456, leaving it about 13% below cost. Ether hit $1,711 this week, its lowest since July."
-   ],
-   "money": [
-    "Stocks that hold bitcoin can fall faster than bitcoin itself; know what you own.",
-    "Index deletions often bring forced selling near the effective date; avoid chasing those stocks right before it.",
-    "If you hold crypto at a loss, tax-loss harvesting before year end may offset gains; check the rules."
-   ],
-   "risk": [
-    "Crypto can keep falling; the Fear & Greed index sits at extreme fear.",
-    "Forced sales by big holders can deepen drops."
-   ],
-   "sources": [
-    {
-     "t": "The Sunday Crypto Desk — 15 November 2026",
-     "d": "thecryptodesk.substack.com",
-     "u": "https://thecryptodesk.substack.com/p/the-sunday-crypto-desk-15-november"
-    }
-   ],
-   "ts": "2026-11-15T19:18:00Z"
-  },
-  {
-   "id": "tokenized-stocks-2026111519",
-   "type": "news",
-   "cat": "crypto",
-   "tags": [
-    "crypto",
-    "markets"
-   ],
-   "date": "This week",
-   "headline": "Wall Street goes on-chain: NYSE picks Avalanche tech, DTCC plans Solana link",
-   "caption": "The NYSE chose Avalanche technology for its planned tokenized-stock venue. DTCC plans to connect its tokenization service to Solana in late 2027.",
-   "visual": {
-    "type": "points",
-    "title": "Tokenized stocks are coming",
-    "items": [
-     "NYSE picks Avalanche tech for its clearing ledger",
-     "It will run its own chain, not Avalanche's public one",
-     "DTCC service went live Oct. 28",
-     "Solana link planned for 2H 2027",
-     "Stellar and Circle's Arc also due next year"
-    ]
-   },
-   "detail": [
-    "The New York Stock Exchange chose technology from Avalanche for the ledger behind its planned tokenized-stock trading venue. It will run its own private chain rather than Avalanche's public network.",
-    "DTCC, which settles most US stock trades, launched its tokenization service on Oct. 28 using the Canton Network and its own chain. It plans to connect to Solana in the second half of 2027, with Stellar and Circle's Arc also coming next year.",
-    "The moves come even as crypto prices slump, showing big institutions still building on blockchain tools."
-   ],
-   "money": [
-    "Tokenized stocks may eventually allow faster settlement and longer trading hours; watch for broker offerings.",
-    "Don't buy a crypto token just because a big firm uses its technology; private chains may not need the public coin.",
-    "Stick to regulated brokers for any tokenized-stock products."
-   ],
-   "risk": [
-    "Timelines for new market plumbing often slip.",
-    "Rules for tokenized securities are still being written."
-   ],
-   "sources": [
-    {
-     "t": "The Sunday Crypto Desk — 15 November 2026",
-     "d": "thecryptodesk.substack.com",
-     "u": "https://thecryptodesk.substack.com/p/the-sunday-crypto-desk-15-november"
-    }
-   ],
-   "ts": "2026-11-15T19:18:00Z"
-  },
-  {
-   "id": "pa-min-wage-15-2026111519",
-   "type": "news",
-   "cat": "states",
-   "tags": [
-    "states",
-    "politics"
-   ],
-   "date": "Sat Nov 14",
-   "headline": "Shapiro says a $15 minimum wage will be his first bill with a Democratic Pennsylvania",
-   "caption": "Pennsylvania's governor wants to lift the wage from $7.25 to $15 after Democrats flipped the state Senate. Seattle's rate rises to $22.14 in January.",
-   "visual": {
-    "type": "board",
-    "title": "Minimum wage moves",
-    "rows": [
-     {
-      "k": "Pennsylvania now",
-      "s": "same as federal",
-      "v": "$7.25"
-     },
-     {
-      "k": "PA proposed",
-      "s": "Shapiro plan",
-      "v": "$15.00",
-      "ch": 107,
-      "tone": "gain"
-     },
-     {
-      "k": "Illinois",
-      "s": "reached in 2025",
-      "v": "$15.00"
-     },
-     {
-      "k": "Seattle",
-      "s": "from January",
-      "v": "$22.14",
-      "tone": "gain"
-     },
-     {
-      "k": "Federal",
-      "v": "$7.25"
-     }
-    ],
-    "foot": "About 500,000 Pennsylvanians earn under $15, Shapiro says."
-   },
-   "detail": [
-    "Pennsylvania Gov. Josh Shapiro says raising the minimum wage from $7.25 to $15 an hour will be the first bill he signs in January. Democrats won full control of state government in the midterms by flipping the state Senate.",
-    "Shapiro says about half a million Pennsylvania workers make less than $15. Seattle's minimum wage, now $21.30, rises to $22.14 in January.",
-    "House Democratic leader Hakeem Jeffries says he will discuss raising the federal $7.25 minimum with both chambers. Economists disagree on effects; some studies found fewer hours for newer workers, others found no job losses."
-   ],
-   "money": [
-    "Low-wage workers in Pennsylvania could see big raises if the bill passes; watch the start date.",
-    "Small businesses should start budgeting for higher labor costs now.",
-    "A higher wage can change eligibility for benefits like SNAP or Medicaid; check before raises hit."
-   ],
-   "risk": [
-    "The final bill could phase in more slowly or at a lower rate.",
-    "Some employers may cut hours."
-   ],
-   "sources": [
-    {
-     "t": "Democrats seize midterm wins to push massive minimum wage hikes as economists see trouble ahead",
-     "d": "foxnews.com",
-     "u": "https://foxnews.com/politics/democrats-seize-midterm-wins-push-massive-minimum-wage-hikes-economists-see-trouble-ahead"
-    }
-   ],
-   "ts": "2026-11-15T19:18:00Z"
-  },
-  {
-   "id": "senior-deduction-2027-2026111519",
-   "type": "news",
-   "cat": "taxes",
-   "tags": [
-    "taxes",
-    "benefits"
-   ],
-   "date": "This week",
-   "headline": "65 or older? Your extra standard deduction rises to $2,100 in 2027",
-   "caption": "Seniors also keep the temporary $6,000 bonus deduction. Together they can shield a lot of income from tax.",
-   "visual": {
-    "type": "board",
-    "title": "2027 deductions for age 65+",
-    "rows": [
-     {
-      "k": "Extra, single/HOH",
-      "s": "was $2,050",
-      "v": "$2,100",
-      "tone": "gain"
-     },
-     {
-      "k": "Extra, married",
-      "s": "per person; was $1,650",
-      "v": "$1,700",
-      "tone": "gain"
-     },
-     {
-      "k": "Senior bonus",
-      "s": "through 2028",
-      "v": "$6,000"
-     },
-     {
-      "k": "Standard, single",
-      "v": "$16,600"
-     },
-     {
-      "k": "Standard, joint",
-      "v": "$33,200"
-     }
-    ],
-    "foot": "Bonus phases out above $75K single / $150K joint income."
-   },
-   "detail": [
-    "For 2027, the extra standard deduction for people 65 and older rises $50, to $2,100 for single and head-of-household filers and $1,700 per qualifying person for married couples. Those who are also blind get double.",
-    "The base standard deduction rises to $16,600 for singles and $33,200 for married couples filing jointly.",
-    "The separate $6,000 senior bonus deduction runs through 2028. It applies whether you itemize or not, but phases out above $75,000 of income for singles and $150,000 for couples."
-   ],
-   "money": [
-    "A single 65+ filer under the income limit could deduct $16,600 + $2,100 + $6,000 in 2027.",
-    "Keep income below the bonus phase-out by timing IRA withdrawals or capital gains.",
-    "Qualified charitable distributions from an IRA can also lower taxable income for those 70½+."
-   ],
-   "risk": [
-    "The $6,000 bonus is temporary and ends after 2028.",
-    "State taxes may not follow these federal amounts."
-   ],
-   "sources": [
-    {
-     "t": "IRS Updates Tax Deduction for People Age 65 and Older",
-     "d": "kiplinger.com",
-     "u": "https://www.kiplinger.com/taxes/irs-updates-2027-tax-deduction-for-people-age-65-and-older"
-    }
-   ],
-   "ts": "2026-11-15T19:18:00Z"
   }
  ]
 }
