@@ -1,6 +1,686 @@
 {
- "updated": "2026-11-16T00:32:00Z",
+ "updated": "2026-11-16T01:40:00Z",
  "items": [
+  {
+   "id": "jpm-layoff-round-2026111601",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business"
+   ],
+   "date": "Fri Nov 13",
+   "ts": "2026-11-16T01:40:00Z",
+   "headline": "JPMorgan files its 6th New Jersey layoff notice of 2026, even as its workforce grows",
+   "caption": "JPMorgan will cut 91 more jobs in Jersey City. Its notices this year cover at least 929 roles, yet the bank added about 4,800 workers overall.",
+   "visual": {
+    "type": "board",
+    "title": "JPMorgan Jersey City WARN notices, 2026",
+    "rows": [
+     {
+      "k": "February",
+      "v": "120"
+     },
+     {
+      "k": "March",
+      "v": "134"
+     },
+     {
+      "k": "May",
+      "v": "51"
+     },
+     {
+      "k": "July",
+      "v": "173"
+     },
+     {
+      "k": "August",
+      "v": "63"
+     },
+     {
+      "k": "November",
+      "v": "91",
+      "tone": "loss"
+     }
+    ],
+    "foot": "632 New Jersey roles in all this year (TheStreet)"
+   },
+   "detail": [
+    "JPMorgan Chase filed a new state layoff notice for 91 jobs in Jersey City, effective between Oct. 30 and Jan. 24, 2027. It's the bank's sixth New Jersey notice this year, for 632 roles in that state.",
+    "Notices in New Jersey, Texas and California cover at least 929 positions in 2026. That includes 244 roles at its Plano, Texas campus, most of them fraud specialist jobs. TheStreet notes this is not a confirmed total of finished layoffs.",
+    "The bank is still growing. It had 322,964 employees on Sept. 30, up 4,811 from a year earlier. Across finance, announced job cuts are about half of last year's pace, per Challenger, Gray & Christmas."
+   ],
+   "money": [
+    "Big companies often cut some teams while hiring in others. If you work in banking, watch which roles are shrinking, like fraud review, and which are growing.",
+    "State WARN notice lists are public. Checking them can give you early warning about layoffs at your employer.",
+    "Even when headcount grows, a steady emergency fund protects you if your own team gets cut."
+   ],
+   "risk": [
+    "More rounds could follow; JPMorgan has filed notices roughly every month or two this year.",
+    "AI was cited in about 20% of all announced US job cuts this year, per Challenger."
+   ],
+   "sources": [
+    {
+     "t": "JPMorgan Chase announces 6th layoff round as workforce grows by over 4,800",
+     "d": "thestreet.com",
+     "u": "https://www.thestreet.com/employment/jpmorgan-chase-6th-layoff-round-workforce-grows-by-over-4800"
+    }
+   ]
+  },
+  {
+   "id": "disney-earnings-cuts-2026111601",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets",
+    "business"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-16T01:40:00Z",
+   "headline": "Disney reports Tuesday as job-cut reports swirl; options price a 6.3% swing",
+   "caption": "Disney's first full-year report under CEO Josh D'Amaro lands Tuesday before the bell. Reports say thousands of job cuts are coming, but Disney hasn't confirmed.",
+   "visual": {
+    "type": "ticker",
+    "sym": "DIS",
+    "ex": "NYSE",
+    "rows": [
+     {
+      "k": "Friday close",
+      "s": "52-week closing high $119.65",
+      "v": "$118.97"
+     },
+     {
+      "k": "EPS estimate",
+      "s": "vs $1.11 a year ago",
+      "v": "$1.69"
+     },
+     {
+      "k": "Revenue estimate",
+      "s": "up 12.2%",
+      "v": "$25.19B"
+     },
+     {
+      "k": "Options-implied move",
+      "s": "either direction",
+      "v": "±6.3%"
+     }
+    ]
+   },
+   "detail": [
+    "Disney reports fiscal fourth-quarter results Tuesday before the market opens. Analysts expect $1.69 a share on $25.19 billion in revenue, per TipRanks. An extra week in the quarter adds about $600 million in operating income that won't repeat.",
+    "Bloomberg reported this month that Disney is moving toward thousands of job cuts, with some managers asked to find 20% in yearly savings. Deadline says a round could land in early 2027. Disney declined to comment.",
+    "Options traders are pricing a 6.3% move either way. Disney's last eight reports moved the stock 6.1% on average. The board usually sets the year's dividend with this report; last year it raised it 50% to $1.50."
+   ],
+   "money": [
+    "If you own Disney, a big move either way is likely Tuesday. Decide your plan before the report, not after.",
+    "Dividend investors: watch for the new yearly dividend, which is usually set with this report.",
+    "If you're a Disney+ or parks customer, cost cuts can come with price or perk changes. Watch for deals around the holidays."
+   ],
+   "risk": [
+    "The stock sits near its 52-week high, so a miss could hit harder.",
+    "Job-cut numbers and timing are unconfirmed reports, not company announcements."
+   ],
+   "sources": [
+    {
+     "t": "Disney's new CEO is reportedly planning thousands of job cuts ahead of Nov. 17 earnings",
+     "d": "247wallst.com",
+     "u": "https://247wallst.com/investing/2026/11/15/disneys-new-ceo-josh-damaro-is-reportedly-planning-thousands-of-job-cuts-ahead-of-nov-17-earnings-heres-what-it-means-for-a-72-year-old-widow-with-150000-of-disney/"
+    },
+    {
+     "t": "The Week Ahead: Nvidia Earnings, Anthropic IPO Test AI Trade",
+     "d": "fxempire.com",
+     "u": "https://www.fxempire.com/forecasts/article/the-week-ahead-nvidia-earnings-anthropic-ipo-test-ai-trade-1644719"
+    }
+   ]
+  },
+  {
+   "id": "tyson-earnings-beef-2026111601",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business",
+    "markets"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T01:40:00Z",
+   "headline": "Tyson reports today: chicken profits soar while beef losses pile up",
+   "caption": "Tyson posts results before the bell Monday. Wall Street expects profit to drop about 44% as a cattle shortage keeps its beef unit in the red.",
+   "visual": {
+    "type": "stat",
+    "title": "Tyson Q4 expectations",
+    "num": "-43.5%",
+    "tone": "loss",
+    "label": "Expected drop in earnings per share vs a year ago",
+    "facts": [
+     [
+      "EPS estimate",
+      "$0.65",
+      "vs $1.15"
+     ],
+     [
+      "Beef loss forecast",
+      "$500–650M",
+      "full year"
+     ],
+     [
+      "Chicken profit guide",
+      "$1.9–2.05B",
+      "full year"
+     ]
+    ]
+   },
+   "detail": [
+    "Tyson Foods reports fiscal fourth-quarter results Monday before the market opens. Consensus calls for 65 cents a share, down from $1.15, on about $13.88 billion in sales, per Earnings Whispers.",
+    "Beef is the problem. Tyson lost $138 million in beef last quarter as volume fell nearly 16%, and it widened its full-year beef loss forecast to $500 million to $650 million. It has closed several beef plants as cattle supplies hit multi-decade lows.",
+    "Chicken is the bright spot. That unit earned $488 million last quarter, and Tyson raised its full-year chicken outlook to $1.9 billion to $2.05 billion. Investors also want a first look at fiscal 2027 plans."
+   ],
+   "money": [
+    "Tight cattle supply has kept beef prices high. Chicken and pork can stretch a grocery budget, especially before holiday meals.",
+    "If you own Tyson, the 2027 outlook may move the stock more than this quarter's numbers.",
+    "Food stocks with mixed units show why diversification matters: one strong segment can offset a weak one."
+   ],
+   "risk": [
+    "Beef losses could widen further if cattle herds stay small.",
+    "Chicken faces a tough comparison with a record quarter a year ago."
+   ],
+   "sources": [
+    {
+     "t": "Tyson's Beef Losses Collide With Chicken Strength As Fiscal 2027 Outlook Takes Center Stage",
+     "d": "finviz.com",
+     "u": "https://finviz.com/news/419216/tysons-beef-losses-collide-with-chicken-strength-as-fiscal-2027-outlook-takes-center-stage"
+    },
+    {
+     "t": "Tyson closes more beef plants as cattle supply hits 75-year low",
+     "d": "san.com",
+     "u": "https://san.com/cc/tyson-closes-more-beef-plants-as-cattle-supply-hits-75-year-low/"
+    }
+   ]
+  },
+  {
+   "id": "msc-meyer-werft-2026111601",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business",
+    "world"
+   ],
+   "date": "This week",
+   "ts": "2026-11-16T01:40:00Z",
+   "headline": "Cruise giant MSC nears a deal for 80% of rescued German shipyard Meyer Werft",
+   "caption": "Der Spiegel says MSC could sign as soon as Tuesday for most of the yard. Germany's government and Lower Saxony bailed it out in 2024.",
+   "visual": {
+    "type": "deals",
+    "title": "Meyer Werft: the money",
+    "items": [
+     {
+      "a": "MSC Group",
+      "b": "~80% of Meyer Werft",
+      "amt": "Undisclosed",
+      "st": "Signing reported for Nov 17; state says not this week",
+      "c": "pend"
+     },
+     {
+      "a": "Germany + Lower Saxony",
+      "b": "2024 rescue",
+      "amt": "€400M + €2.6B",
+      "st": "Equity plus state-backed credit line",
+      "c": "ok"
+     },
+     {
+      "a": "New cruise order",
+      "b": "4 ships + 2 options",
+      "amt": "Up to €10B",
+      "st": "Letter of intent, deliveries from 2030",
+      "c": "pend"
+     }
+    ]
+   },
+   "detail": [
+    "MSC Group of Geneva is close to a deal for about 80% of Meyer Werft, the German shipyard that builds cruise ships. Der Spiegel reported a signing could come Tuesday, Nov. 17. Lower Saxony said it doesn't plan to sign any sale contracts in the coming week.",
+    "The federal government and Lower Saxony each own about 40% after a 2024 rescue that put in €400 million of equity and a €2.6 billion state-backed credit line. The Meyer family holds about 20% and wants to stay on.",
+    "The yard's 2025 revenue was €2.83 billion, but it lost €383.8 million. A reported order for four new ships could be worth up to €10 billion through 2033. The price MSC would pay hasn't been disclosed."
+   ],
+   "money": [
+    "New ship orders point to strong cruise demand. If you cruise, booking early often locks in better cabin prices.",
+    "Cruise stocks like Royal Caribbean, Carnival and Norwegian can move on shipbuilding news. Know what you own in travel funds.",
+    "Government rescues can end with a sale. Watch whether taxpayers get their money back, a sign of how bailouts work."
+   ],
+   "risk": [
+    "The deal date is unconfirmed, and the state denies signing this week.",
+    "The yard is still losing money and restructuring through 2028."
+   ],
+   "sources": [
+    {
+     "t": "MSC Nears a Deal for 80% of Meyer Werft: What It Means for Cruise Stocks",
+     "d": "admiralmarkets.com",
+     "u": "https://admiralmarkets.com/analytics/traders-blog/msc-meyer-werft-deal"
+    }
+   ]
+  },
+  {
+   "id": "dove-fire-moratorium-2026111601",
+   "type": "news",
+   "cat": "california",
+   "tags": [
+    "california",
+    "business"
+   ],
+   "date": "Fri Nov 13",
+   "ts": "2026-11-16T01:40:00Z",
+   "headline": "California blocks insurers from dropping 50,000 homes near the Dove Fire for a year",
+   "caption": "Commissioner Lara ordered a one-year ban on cancellations and nonrenewals in parts of three counties. Insurers must offer to undo notices already sent.",
+   "visual": {
+    "type": "stat",
+    "title": "Dove Fire insurance moratorium",
+    "num": "50,000",
+    "tone": "acc",
+    "label": "Home policies protected from nonrenewal for one year",
+    "facts": [
+     [
+      "Counties",
+      "3",
+      "Tuolumne, Stanislaus, Calaveras"
+     ],
+     [
+      "ZIP codes",
+      "15",
+      "in or near the fire area"
+     ],
+     [
+      "Protected in 2025",
+      "1.2M+",
+      "all wildfire moratoriums"
+     ]
+    ]
+   },
+   "detail": [
+    "California Insurance Commissioner Ricardo Lara issued a one-year moratorium on cancellations and nonrenewals for about 50,000 homeowners in Tuolumne, Stanislaus and Calaveras counties. It follows Gov. Newsom's Oct. 15 emergency declaration for the Dove Fire.",
+    "It covers 15 ZIP codes in or near the fire area, whether or not a home was damaged. It also reaches some commercial policies, such as HOAs, apartment complexes, condo associations and senior living.",
+    "Insurers that sent wildfire-related cancellation or nonrenewal notices on or after Oct. 15 must offer to rescind them. The state says such moratoriums protected more than 1.2 million homeowners in 2025."
+   ],
+   "money": [
+    "If you live in these counties and got a nonrenewal notice after Oct. 15, contact your insurer and ask for reinstatement.",
+    "The moratorium blocks dropping you, not rate hikes. Shop rates and ask about wildfire mitigation discounts.",
+    "Take photos of your home and belongings now. A home inventory speeds up any future claim."
+   ],
+   "risk": [
+    "After one year, insurers can drop policies again unless the ban is extended.",
+    "The moratorium does not cap premiums."
+   ],
+   "sources": [
+    {
+     "t": "California Orders Insurance Nonrenewal Moratorium for 50,000 Following Dove Fire",
+     "d": "insurancejournal.com",
+     "u": "https://insurancejournal.com/news/west/2026/11/13/892491.htm"
+    }
+   ]
+  },
+  {
+   "id": "amd-zen6-epyc-2026111601",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "markets"
+   ],
+   "date": "This week",
+   "ts": "2026-11-16T01:40:00Z",
+   "headline": "AMD ships 256-core Zen 6 server chips, pitching them for AI agents",
+   "caption": "AMD's 6th Gen EPYC processors are now shipping in servers, with Meta as lead customer. AMD claims big speed edges over Nvidia and Intel CPUs.",
+   "visual": {
+    "type": "board",
+    "title": "AMD's claims for EPYC 9996",
+    "rows": [
+     {
+      "k": "vs Nvidia Vera system",
+      "s": "performance",
+      "v": "up to 3.7x",
+      "tone": "gain"
+     },
+     {
+      "k": "vs Intel Xeon 6980P",
+      "s": "performance",
+      "v": "up to 2.2x",
+      "tone": "gain"
+     },
+     {
+      "k": "vs Intel Xeon 6980P",
+      "s": "performance per dollar",
+      "v": "up to 2.0x",
+      "tone": "gain"
+     },
+     {
+      "k": "Cores per chip",
+      "s": "TSMC 2nm",
+      "v": "256"
+     }
+    ],
+    "foot": "AMD's own testing and estimates"
+   },
+   "detail": [
+    "AMD made its 6th Gen EPYC server processors, built on the new Zen 6 design, generally available. Systems are shipping from major server makers, and Microsoft Azure and Oracle Cloud instances are coming soon.",
+    "AMD says its top EPYC 9996 chip delivers up to 3.7 times the performance of an Nvidia Vera CPU system and 2.2 times an Intel Xeon 6980P system. These are AMD's own test claims. The top chips pack 256 cores on TSMC's 2-nanometer process.",
+    "Meta is the lead customer. AMD argues AI agents need far more regular CPUs alongside AI accelerators, a bet that could widen its market as AI spending grows."
+   ],
+   "money": [
+    "AI spending isn't only about Nvidia GPUs. Server CPU makers like AMD and Intel are also in the race, which is why broad tech funds spread risk.",
+    "Company benchmark claims are marketing until independent tests confirm them. Don't buy a stock on a press release.",
+    "Cheaper, faster servers can lower cloud costs over time, which could eventually show up in prices for AI tools."
+   ],
+   "risk": [
+    "Cloud availability is still pending, so real sales may take quarters to show.",
+    "Chip stocks have been very volatile this month."
+   ],
+   "sources": [
+    {
+     "t": "AMD Showcases 6th Gen AMD EPYC Processors to Lead Next Era of AI and Enterprise Computing",
+     "d": "ir.amd.com",
+     "u": "https://ir.amd.com/news-events/press-releases/detail/1305/amd-showcases-6th-gen-amd-epyc-processors-to-lead-next-era-of-ai-and-enterprise-computing"
+    },
+    {
+     "t": "AMD launches Zen 6 with EPYC Venice: 256 cores on TSMC 2nm",
+     "d": "hwbusters.com",
+     "u": "https://hwbusters.com/news/amd-launches-zen-6-with-epyc-venice-256-cores-on-tsmc-2nm/"
+    }
+   ]
+  },
+  {
+   "id": "clarity-act-stalls-2026111601",
+   "type": "news",
+   "cat": "crypto",
+   "tags": [
+    "crypto",
+    "politics"
+   ],
+   "date": "Sun Nov 15",
+   "ts": "2026-11-16T01:40:00Z",
+   "headline": "Crypto market bill looks stuck for 2026; SEC nominees face senators Thursday",
+   "caption": "The CLARITY Act fell 11 votes short in September and seems unlikely to move in the lame duck. Senate Banking holds a hearing on two SEC picks Nov. 19.",
+   "visual": {
+    "type": "timeline",
+    "title": "Crypto rules: where things stand",
+    "items": [
+     {
+      "d": "SEP 15",
+      "t": "CLARITY Act stalls 49–50",
+      "s": "60 votes needed"
+     },
+     {
+      "d": "NOV 3",
+      "t": "Democrats win both chambers"
+     },
+     {
+      "d": "NOV 12",
+      "t": "Trump names 2 SEC and 2 CFTC picks"
+     },
+     {
+      "d": "NOV 19",
+      "t": "Senate hearing on SEC nominees",
+      "now": true
+     },
+     {
+      "d": "JAN 18",
+      "t": "OCC stablecoin rule takes effect"
+     }
+    ]
+   },
+   "detail": [
+    "The CLARITY Act, a bill to set rules for crypto markets, is unlikely to advance before the new Congress, crypto.news reports. A September 15 Senate vote to end debate failed 49–50, 11 short of the 60 needed. The House passed it 294–134 in July 2025.",
+    "Congress is focused on nominees instead. On Nov. 12, Trump nominated Steven Levine and Kristin Johnson to the SEC and Nathan Anonick and Matthew Rowland to the CFTC. Senate Banking holds a hearing on the SEC picks Nov. 19. The CFTC now has only one sitting commissioner.",
+    "Stablecoin rules are moving separately. The OCC's final rule for payment stablecoin issuers, under the 2025 GENIUS Act, takes effect Jan. 18, 2027."
+   ],
+   "money": [
+    "Without a market-structure law, crypto rules stay murky. That uncertainty is one reason prices swing so hard; size crypto bets accordingly.",
+    "Stablecoin rules on reserves and redemptions take effect in January. Favor stablecoins from issuers that publish regular reserve audits.",
+    "Keep records of every crypto trade. Whatever rules come, the IRS already taxes crypto gains."
+   ],
+   "risk": [
+    "Democrats take control in January, which could reshape any crypto bill.",
+    "Confirmation votes may slip into 2027."
+   ],
+   "sources": [
+    {
+     "t": "CLARITY Act unlikely to advance as Congress focuses on SEC, CFTC picks",
+     "d": "crypto.news",
+     "u": "https://crypto.news/clarity-act-congress-lame-duck-sec-cftc-nominations/"
+    },
+    {
+     "t": "OCC Final Rule Moves U.S. Stablecoin Law Into Implementation",
+     "d": "tokenpost.com",
+     "u": "https://www.tokenpost.com/news/regulation/57889"
+    }
+   ]
+  },
+  {
+   "id": "afghan-flight-nov16-2026111601",
+   "type": "news",
+   "cat": "immigration",
+   "tags": [
+    "immigration",
+    "politics"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T01:40:00Z",
+   "headline": "US plans to deport about 150 Afghans via Pakistan; flight reset for Nov. 16",
+   "caption": "An advocacy group says the flight was rescheduled to today. A court order shields only five people, and Democrats are pushing a bill to restore Afghans' protected status.",
+   "visual": {
+    "type": "points",
+    "title": "The Afghan deportation fight",
+    "items": [
+     "About 150 Afghans slated for removal via Pakistan",
+     "Flight reportedly moved to Nov. 16; DHS won't confirm",
+     "Court order covers only 5 people",
+     "About 11,700 Afghans had TPS before it was revoked in 2025",
+     "Discharge petition needs 218; Democrats hold 214 seats"
+    ]
+   },
+   "detail": [
+    "The US plans to deport about 150 Afghans to Afghanistan by way of Pakistan, with media reports saying the flight would leave from Louisiana. Shawn VanDiver of AfghanEvac said it was rescheduled to Nov. 16. DHS declined to confirm.",
+    "A judge's order, first issued Nov. 3 and extended indefinitely Nov. 7, protects only five people represented by one legal group. US officials ended Temporary Protected Status for Afghans in May 2025; DHS had estimated about 11,700 held it.",
+    "Rep. Jason Crow's Afghanistan TPS Act would restore that status. A discharge petition needs 218 signatures, so at least four Republicans would have to join. Democrats take the House majority in January. Supporters of the removals say people without legal status should leave; opponents cite safety risks under Taliban rule."
+   ],
+   "money": [
+    "Immigration cases can be costly. Many nonprofits offer free or low-cost legal help; check before paying a private lawyer.",
+    "Families facing removal should keep copies of key financial papers and give a trusted person access to bank accounts.",
+    "Employers with immigrant staff should plan for sudden departures that could affect payroll and operations."
+   ],
+   "risk": [
+    "Timing could change again with court rulings or DHS decisions.",
+    "Whether the president would sign a TPS bill is unclear."
+   ],
+   "sources": [
+    {
+     "t": "Amid Ongoing Battle Over Afghan Deportations, US Legislators Push Law Granting Protection",
+     "d": "rferl.org",
+     "u": "https://www.rferl.org/a/us-afghan-deportations-battle-congress-crow-tps/33897979.html"
+    }
+   ]
+  },
+  {
+   "id": "arkansas-budget-696-2026111601",
+   "type": "news",
+   "cat": "states",
+   "tags": [
+    "states",
+    "taxes",
+    "benefits"
+   ],
+   "date": "This month",
+   "ts": "2026-11-16T01:40:00Z",
+   "headline": "Arkansas lawmakers weigh Sanders' $6.96 billion budget built to leave room for tax cuts",
+   "caption": "The plan adds $311.6 million, led by Medicaid and school vouchers. Sanders says holding down spending growth makes space for more tax cuts.",
+   "visual": {
+    "type": "board",
+    "title": "Arkansas budget proposal: biggest adds",
+    "rows": [
+     {
+      "k": "Medicaid",
+      "v": "+$150M",
+      "tone": "acc"
+     },
+     {
+      "k": "Education Freedom Accounts",
+      "s": "50,000+ students",
+      "v": "+$70M"
+     },
+     {
+      "k": "Early childhood",
+      "v": "+$20M"
+     },
+     {
+      "k": "SNAP administration",
+      "v": "+$25M"
+     }
+    ],
+    "foot": "Total: $6.96B, up $311.6M (KATV)"
+   },
+   "detail": [
+    "Gov. Sarah Huckabee Sanders proposed a $6.96 billion state budget, up $311.6 million from last year. Legislators are now reviewing it ahead of the 2027 session.",
+    "Medicaid gets the largest increase at $150 million, including help for people on a disability-services waitlist. Education gets $90 million, with $70 million for Education Freedom Accounts used by more than 50,000 students. SNAP administration gets $25 million.",
+    "Sanders said the plan holds down government growth to leave room for tax cuts, but no dollar figure was given. Possible one-time surplus spending includes $200 million for Medicaid and $50 million for the state's possible share of SNAP benefits."
+   ],
+   "money": [
+    "Arkansans: watch for income tax cut details in the coming session. A lower rate could change your 2027 withholding.",
+    "Families using Education Freedom Accounts may see more funding; check eligibility and deadlines.",
+    "The $50 million SNAP set-aside reflects new federal rules shifting food aid costs to states, a trend to watch in every state."
+   ],
+   "risk": [
+    "Tax cut size and timing are not yet set.",
+    "Federal Medicaid and SNAP changes could strain the budget."
+   ],
+   "sources": [
+    {
+     "t": "Governor Sanders unveils her nearly $7B state budget proposal",
+     "d": "katv.com",
+     "u": "https://katv.com/news/local/governor-sanders-unveils-nearly-67b-budget"
+    }
+   ]
+  },
+  {
+   "id": "edu-implied-move-2026111601",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "markets"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-16T01:40:00Z",
+   "headline": "What an 'implied move' tells you before earnings, using Disney",
+   "caption": "Options traders expect Disney to swing about 6.3% after Tuesday's report. Here's what that number means and what it doesn't.",
+   "scenes": [
+    {
+     "k": "THE NEWS",
+     "t": "Disney options price a 6.3% move",
+     "s": "Disney reports Tuesday before the market opens."
+    },
+    {
+     "k": "WHERE IT COMES FROM",
+     "t": "Option prices reveal expected swings",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "Traders buy options before news",
+       "Options get pricier",
+       "Price implies a typical move",
+       "Up or down, not both"
+      ]
+     },
+     "say": "When traders expect big news, options get more expensive. That price implies how big a move the market expects, in either direction."
+    },
+    {
+     "k": "IN DOLLARS",
+     "t": "About $7.50 either way",
+     "viz": {
+      "type": "split",
+      "items": [
+       [
+        "Friday close",
+        "$118.97"
+       ],
+       [
+        "6.3% move",
+        "≈$7.50"
+       ],
+       [
+        "Rough range",
+        "$111.50 to $126.50",
+        "wide"
+       ]
+      ]
+     },
+     "say": "At Friday's close of about 119 dollars, a 6.3 percent move is roughly 7 dollars and 50 cents, up or down."
+    },
+    {
+     "k": "TRACK RECORD",
+     "t": "Last 8 reports: 6.1% average move",
+     "s": "Five of those eight moves were 6% or more."
+    },
+    {
+     "k": "WHAT IT ISN'T",
+     "t": "It's not a prediction of direction",
+     "s": "The market prices the size of the surprise, not whether it's good or bad."
+    },
+    {
+     "k": "YOUR MOVE",
+     "t": "Plan before, don't react after",
+     "s": "Long-term investors can ride out one-day swings. Avoid chasing a stock right after a big jump."
+    }
+   ]
+  },
+  {
+   "id": "edu-warn-notice-2026111601",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "business"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-16T01:40:00Z",
+   "headline": "WARN notices: the public layoff warning most workers never check",
+   "caption": "JPMorgan just filed its sixth New Jersey layoff notice this year. Here's what these notices are and how to use them.",
+   "scenes": [
+    {
+     "k": "THE NEWS",
+     "t": "JPMorgan filed its 6th NJ layoff notice",
+     "s": "91 Jersey City jobs, and 632 New Jersey roles this year."
+    },
+    {
+     "k": "WHAT IT IS",
+     "t": "A legal heads-up before mass layoffs",
+     "s": "The federal WARN Act generally makes larger employers give 60 days' notice of mass layoffs or closings."
+    },
+    {
+     "k": "HOW IT WORKS",
+     "t": "Notices go to the state",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "Company plans cuts",
+       "Files notice with state",
+       "State posts it publicly",
+       "Workers get notice"
+      ]
+     },
+     "say": "The company files a notice with the state, the state often posts it publicly, and affected workers are told ahead of time."
+    },
+    {
+     "k": "STATE RULES",
+     "t": "Some states require more",
+     "s": "Several states have their own versions with longer notice or lower thresholds."
+    },
+    {
+     "k": "WHY IT MATTERS",
+     "t": "An early signal for you",
+     "s": "Search your state's WARN list for your employer or industry a few times a year."
+    },
+    {
+     "k": "YOUR MOVE",
+     "t": "Prepare before a notice hits",
+     "s": "Keep an emergency fund, an updated resume, and know your severance and benefit options."
+    }
+   ]
+  },
   {
    "id": "japan-gdp-shrinks-2026111600",
    "type": "news",
@@ -11586,300 +12266,6 @@
      "t": "Free fruits and vegetables through CalFresh available again",
      "d": "ktvu.com",
      "u": "https://www.ktvu.com/news/free-fruits-vegetables-through-calfresh-available-again"
-    }
-   ],
-   "ts": "2026-11-09T06:55:00Z"
-  },
-  {
-   "id": "ai",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai"
-   ],
-   "date": "Nov 2–6",
-   "headline": "AI race: Google’s Gemini 4 Carbon takes #1, Tencent drops a giant open model",
-   "caption": "Gemini 4 Carbon topped the LMArena leaderboard. Tencent released Hy4, a 770-billion-parameter open-weights model. OpenAI says ChatGPT search is now a fifth of Google’s volume.",
-   "visual": {
-    "type": "deals",
-    "title": "AI this week",
-    "items": [
-     {
-      "a": "Google",
-      "b": "Gemini 4 Carbon",
-      "amt": "#1",
-      "st": "LMArena text rating 1528 · Nov 2",
-      "c": "ok"
-     },
-     {
-      "a": "Tencent",
-      "b": "Hy4",
-      "amt": "770B",
-      "st": "Open weights · 1M-token context · Nov 4",
-      "c": "ok"
-     },
-     {
-      "a": "OpenAI",
-      "b": "LifeVal",
-      "amt": "New",
-      "st": "Benchmark for everyday tasks · Nov 2",
-      "c": "pend"
-     },
-     {
-      "a": "ChatGPT",
-      "b": "search volume",
-      "amt": "≈⅕",
-      "st": "Of Google’s, per OpenAI",
-      "c": "pend"
-     }
-    ]
-   },
-   "detail": [
-    "Gemini 4 Carbon took the top spot on the LMArena text leaderboard with a rating of 1528. OpenAI released LifeVal, a benchmark that measures how well models handle practical tasks such as government paperwork and vehicle inspections.",
-    "Tencent’s Hy4 is an open-weights mixture-of-experts model with 770 billion parameters and a one-million-token context window, part of a wave of cheaper models squeezing AI prices.",
-    "On the policy side, China said it is speeding up laws to oversee algorithms and computing power, while in the US the new Democratic majority has spooked investors about data-center rules."
-   ],
-   "money": [
-    "Open-weights models keep pushing AI costs down; if you pay for AI tools in a side business, shop around every few months.",
-    "Skills that combine AI with a niche (reselling listings, video editing, paperwork) are where freelancers are getting paid.",
-    "Using AI more is not the same as AI stocks going up: this week usage grew while chip stocks fell."
-   ],
-   "risk": [
-    "Leaderboards change weekly; avoid locking into one paid tool long-term."
-   ],
-   "sources": [
-    {
-     "t": "Realtime AI news, Nov 2",
-     "d": "af.net",
-     "u": "https://af.net/realtime/page/202/?news_page=8"
-    },
-    {
-     "t": "Realtime AI news, Nov 3–4",
-     "d": "af.net",
-     "u": "https://af.net/realtime/page/204/?news_page=1"
-    },
-    {
-     "t": "AI update, November 6, 2026",
-     "d": "marketingprofs.com",
-     "u": "https://www.marketingprofs.com/opinions/2026/56257/ai-update-november-6-2026-ai-news-and-views-from-the-past-week"
-    }
-   ],
-   "ts": "2026-11-09T06:55:00Z"
-  },
-  {
-   "id": "bankrupt",
-   "type": "news",
-   "cat": "markets",
-   "tags": [
-    "markets"
-   ],
-   "date": "Oct 28–Nov 5",
-   "headline": "Bankruptcy watch: franchise operators keep cracking",
-   "caption": "A 30-restaurant Denny’s operator, a Mattress Firm franchisee and candy brand Stuckey’s all filed for Chapter 11. High rents and softer spending are squeezing small chains.",
-   "visual": {
-    "type": "deals",
-    "title": "Recent Chapter 11 filings",
-    "items": [
-     {
-      "a": "EYM Diner",
-      "b": "30 Denny’s, Texas",
-      "amt": "Ch. 11",
-      "st": "Filed Nov 5",
-      "c": "bad"
-     },
-     {
-      "a": "D&A Mattress",
-      "b": "Mattress Firm franchisee",
-      "amt": "Ch. 11",
-      "st": "Filed Nov 2 · TX & NM stores",
-      "c": "bad"
-     },
-     {
-      "a": "Mancini Foods",
-      "b": "Florida food maker",
-      "amt": "Ch. 11",
-      "st": "Filed Nov 4 · Subchapter V",
-      "c": "bad"
-     },
-     {
-      "a": "Stuckey’s",
-      "b": "pecan candy brand",
-      "amt": "Ch. 11",
-      "st": "Late Oct · brand keeps operating",
-      "c": "pend"
-     }
-    ]
-   },
-   "detail": [
-    "EYM Diner, which runs about 30 Denny’s restaurants in Texas, is the latest bankruptcy tied to former mega-franchisee EYM Group. D&A Mattress, a Mattress Firm franchisee in Texas and New Mexico, filed on November 2.",
-    "Franchise operators have filed in clusters throughout 2026, citing high lease costs, weaker spending on non-essentials and tighter credit. Bain expects global luxury sales to shrink for a second straight year.",
-    "Chapter 11 lets a company keep operating while it restructures; Stuckey’s says its brand will continue."
-   ],
-   "money": [
-    "Liquidation and closing sales can be a source of cheap inventory for resellers; watch local auction and liquidation listings.",
-    "Use gift cards from struggling chains soon; they can lose value in bankruptcy.",
-    "Rising franchise failures are an early signal of consumer stress, a reason to favor steadier companies."
-   ],
-   "risk": [
-    "Restructured companies can still liquidate later."
-   ],
-   "sources": [
-    {
-     "t": "A 30-unit Denny’s operator files for bankruptcy",
-     "d": "nrn.com",
-     "u": "https://www.nrn.com/family-dining/a-30-unit-denny-s-operator-files-for-bankruptcy"
-    },
-    {
-     "t": "Mattress Firm franchisee D&A Mattress files Chapter 11",
-     "d": "lexpress-franchise.com",
-     "u": "https://lexpress-franchise.com/en-us/news/da-mattress-mattress-firm-franchisee-chapter-11-texas/"
-    },
-    {
-     "t": "Mancini Foods files Chapter 11",
-     "d": "bluebookservices.com",
-     "u": "https://www.bluebookservices.com/?p=456412"
-    },
-    {
-     "t": "Stuckey’s files for bankruptcy, but brand will live on",
-     "d": "wrdw.com",
-     "u": "https://www.wrdw.com/2026/10/30/stuckeys-turns-chapter-11-bankruptcy-after-recent-plant-closure/"
-    }
-   ],
-   "ts": "2026-11-09T06:55:00Z"
-  },
-  {
-   "id": "ipos",
-   "type": "news",
-   "cat": "markets",
-   "tags": [
-    "markets"
-   ],
-   "date": "Week of Nov 9",
-   "headline": "Also on the IPO calendar: a cavity-treatment maker and a biotech",
-   "caption": "vVardis, which sells an over-the-counter cavity treatment, and Rezera, an inflammation-drug developer, aim to raise about $200M each. New issues are down 4% this year.",
-   "visual": {
-    "type": "board",
-    "title": "IPOs this week",
-    "rows": [
-     {
-      "k": "vVardis (VVVV)",
-      "s": "Cavity treatment · Zug, Switzerland",
-      "v": "$21–24"
-     },
-     {
-      "k": "Rezera (RZRA)",
-      "s": "Biotech · Boston · $200M raise",
-      "v": "$11–13"
-     },
-     {
-      "k": "IPO index, 2026",
-      "s": "Renaissance IPO Index vs. S&P 500 +8.4%",
-      "v": "−4.0%",
-      "tone": "loss"
-     },
-     {
-      "k": "Lock-ups ending",
-      "s": "Insiders free to sell this week",
-      "v": "9"
-     }
-    ]
-   },
-   "detail": [
-    "vVardis plans to raise about $214 million at a market value near $1.3 billion; most of its revenue comes from its over-the-counter US product. Rezera’s lead drug, ruvonoflast, heads into Phase 3 trials in the first half of 2027.",
-    "Newly public stocks have lagged: the Renaissance IPO Index was down 4.0% for the year as of November 5, while the S&P 500 was up 8.4%.",
-    "Nine lock-up periods expire this week, which can add selling pressure to recent IPOs."
-   ],
-   "money": [
-    "Small biotech IPOs are binary bets on trial results; size any position as money you can afford to lose.",
-    "Check lock-up calendars before buying a recent IPO; prices often sag around expiration.",
-    "An IPO ETF spreads risk across many new listings instead of betting on one."
-   ],
-   "risk": [
-    "Price ranges can change or deals can be postponed in a volatile market."
-   ],
-   "sources": [
-    {
-     "t": "US IPO Week Ahead: vVardis and Rezera on deck",
-     "d": "renaissancecapital.com",
-     "u": "https://www.renaissancecapital.com/IPO-Center/News/122632/us-ipo-week-ahead-dental-tech-vvardis-and-biotech-rezera-on-deck-as"
-    }
-   ],
-   "ts": "2026-11-09T06:55:00Z"
-  },
-  {
-   "id": "ahead",
-   "type": "news",
-   "cat": "markets",
-   "tags": [
-    "markets",
-    "politics"
-   ],
-   "date": "Next 5 weeks",
-   "headline": "The dates that will move your money next",
-   "caption": "Anthropic’s launch, a new China tariff, Democratic leadership votes, the next jobs report and the Fed decision.",
-   "visual": {
-    "type": "timeline",
-    "title": "Coming up",
-    "items": [
-     {
-      "d": "TUE NOV 10",
-      "t": "Anthropic IPO may launch",
-      "s": "Plus 25% tariff on Chinese cargo equipment",
-      "now": true
-     },
-     {
-      "d": "WEEK OF NOV 16",
-      "t": "Anthropic expected to price",
-      "s": "Democrats pick House and Senate leaders"
-     },
-     {
-      "d": "WED NOV 18",
-      "t": "Union Pacific–Norfolk Southern",
-      "s": "Comments due on the $85B merger"
-     },
-     {
-      "d": "FRI DEC 4",
-      "t": "November jobs report"
-     },
-     {
-      "d": "DEC 8–9",
-      "t": "Fed decision",
-      "s": "Futures price ~77% odds of a hike"
-     }
-    ]
-   },
-   "detail": [
-    "This calendar pulls together the dates mentioned across this week’s stories. IPO timing is based on reports and can slip.",
-    "The December 4 jobs report is the last major data point before the Fed’s December 8–9 meeting."
-   ],
-   "money": [
-    "If you plan to request IPO shares, set it up with your broker before the pricing week.",
-    "Move idle cash into high-yield savings before a possible rate hike rather than after.",
-    "Avoid placing big trades right before the Dec 4 and Dec 9 announcements unless you accept bigger swings."
-   ],
-   "risk": [
-    "Schedules change; confirm dates the week of."
-   ],
-   "sources": [
-    {
-     "t": "US IPO Week Ahead",
-     "d": "renaissancecapital.com",
-     "u": "https://www.renaissancecapital.com/IPO-Center/News/122632/us-ipo-week-ahead-dental-tech-vvardis-and-biotech-rezera-on-deck-as"
-    },
-    {
-     "t": "US jobs surge, Fed hike odds rebound",
-     "d": "roic.ai",
-     "u": "https://www.roic.ai/news/us-jobs-surge-fed-hike-odds-rebound-11-06-2026"
-    },
-    {
-     "t": "Upcoming M&A deals",
-     "d": "dealroom.net",
-     "u": "https://dealroom.net/blog/upcoming-m-a"
-    },
-    {
-     "t": "Democrats capture full control of Congress",
-     "d": "nbcdfw.com",
-     "u": "https://www.nbcdfw.com/elections/democrats-control-of-congress/"
     }
    ],
    "ts": "2026-11-09T06:55:00Z"
