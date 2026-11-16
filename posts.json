@@ -1,6 +1,827 @@
 {
- "updated": "2026-11-16T04:24:00Z",
+ "updated": "2026-11-16T05:24:00Z",
  "items": [
+  {
+   "id": "asia-chip-rout-2026111605",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets",
+    "ai"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T05:24:00Z",
+   "headline": "Asian chip stocks tumble a day before Nvidia: Advantest drops about 10%",
+   "caption": "Chip-equipment makers led a broad slide in Tokyo and Seoul on Monday. The Kospi fell 2.6% and the Nikkei 1.6% as traders braced for Nvidia's report.",
+   "visual": {
+    "type": "stat",
+    "title": "Monday's chip slide",
+    "num": "-10%",
+    "tone": "loss",
+    "label": "Advantest led losses in Tokyo early Monday.",
+    "rows": [
+     [
+      "Advantest",
+      -10.0
+     ],
+     [
+      "Lasertec",
+      -9.0
+     ],
+     [
+      "Tokyo Electron",
+      -5.2
+     ],
+     [
+      "SK Hynix",
+      -4.2
+     ],
+     [
+      "Samsung",
+      -2.7
+     ],
+     [
+      "TSMC",
+      -2.1
+     ]
+    ]
+   },
+   "detail": [
+    "Chip stocks across Asia fell hard on Monday morning. By about 02:46 GMT, Japan's Nikkei 225 was down 1.6% and South Korea's Kospi was down 2.6%.",
+    "Tokyo chip-tool makers took the biggest hits. Advantest fell about 10%, Lasertec more than 9% and Tokyo Electron 5.2%. In Korea, SK Hynix lost 4.2% and Samsung 2.7%, while Taiwan's TSMC slipped 2.1%.",
+    "Nvidia reports fiscal Q3 results Tuesday, with analysts expecting about $109 billion in revenue. Its market value has dropped from about $5.8 trillion in early October to $3.9 trillion after Jensen Huang's exit as CEO."
+   ],
+   "money": [
+    "If you own a broad Asia or emerging-markets fund, check how much sits in chip names. A few stocks can drive the whole fund.",
+    "Options imply Nvidia could move about 7% either way after earnings. Avoid big bets right before a binary event.",
+    "Sharp drops in quality chip suppliers can be entry points for long-term buyers who add slowly over weeks, not all at once."
+   ],
+   "risk": [
+    "Chip suppliers can fall further if Nvidia's guidance disappoints.",
+    "Early-session moves can change by the close."
+   ],
+   "sources": [
+    {
+     "t": "Asian chip stocks slide ahead of Nvidia earnings",
+     "d": "investing.com",
+     "u": "https://www.investing.com/news/stock-market-news/asian-chip-stocks-slide-ahead-of-nvidia-earnings-5028327"
+    },
+    {
+     "t": "Asian shares fall before Nvidia earnings, Anthropic IPO test tech rally",
+     "d": "finance.yahoo.com",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/asian-shares-fall-nvidia-earnings-013536353.html"
+    }
+   ]
+  },
+  {
+   "id": "oil-iea-surplus-2026111605",
+   "type": "news",
+   "cat": "world",
+   "tags": [
+    "world",
+    "markets"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T05:24:00Z",
+   "headline": "Oil slips under $95 as the IEA flips to a surplus call and Hormuz traffic recovers",
+   "caption": "Brent fell about 1% to $94.86 as traders shift from shortage fears to oversupply. Shipments through Hormuz are nearly back to pre-war levels.",
+   "visual": {
+    "type": "board",
+    "title": "Oil's new math",
+    "rows": [
+     {
+      "k": "Brent",
+      "s": "Mon Nov 16",
+      "v": "$94.86",
+      "ch": -1.0,
+      "tone": "loss"
+     },
+     {
+      "k": "WTI",
+      "s": "Mon Nov 16",
+      "v": "$87.90",
+      "ch": -0.7,
+      "tone": "loss"
+     },
+     {
+      "k": "Brent from Oct. high",
+      "v": "-16%",
+      "tone": "loss"
+     },
+     {
+      "k": "IEA Q4 supply",
+      "s": "vs. demand",
+      "v": "+1.7M bbl/day",
+      "tone": "acc"
+     },
+     {
+      "k": "Oct. inventory build",
+      "v": "+52M bbl"
+     }
+    ],
+    "foot": "Source: HDFC Sky, citing IEA data"
+   },
+   "detail": [
+    "Oil kept sliding on Monday. Brent fell about 1% to $94.86 a barrel and US crude slipped 0.7% to about $87.90. Brent is down 16% from its October high.",
+    "The International Energy Agency now expects a supply surplus in the fourth quarter, reversing its earlier shortage forecast. It sees supply about 1.7 million barrels a day above demand. Global stockpiles rose 52 million barrels in October, the first monthly build since June.",
+    "President Trump also extended a 90-day Jones Act waiver, which lets foreign-flagged ships move fuel between US ports. Attacks between Iran and the US and its allies continue, so risk has not gone away."
+   ],
+   "money": [
+    "Cheaper crude usually reaches the gas pump with a lag of a few weeks. Don't prepay for fuel at today's prices.",
+    "Airlines and other heavy fuel users often benefit when oil falls. Energy producers can lag.",
+    "If you heat with oil, compare dealer prices now. Falling crude gives you room to shop around."
+   ],
+   "risk": [
+    "A new attack near Hormuz could send prices back up fast.",
+    "Retail fuel prices don't always fall as fast as crude."
+   ],
+   "sources": [
+    {
+     "t": "Crude Oil Falls as Global Supply Surplus Fears Intensify",
+     "d": "hdfcsky.com",
+     "u": "https://hdfcsky.com/news/brent-crude-oil-price-today-november-16-2026-brent-falls-1percent-to-94-86-wti-slips-below-88-as-supply-surplus-looms"
+    }
+   ]
+  },
+  {
+   "id": "carney-china-autos-2026111605",
+   "type": "news",
+   "cat": "world",
+   "tags": [
+    "world",
+    "business",
+    "politics"
+   ],
+   "date": "Sun Nov 15",
+   "ts": "2026-11-16T05:24:00Z",
+   "headline": "Carney: Canada could turn to Chinese automakers if US trade talks fail",
+   "caption": "Canada's prime minister warned it may court Chinese car factories if a deal with Trump falls short. A new poll finds only a third of Canadians would accept a deal with tariffs.",
+   "visual": {
+    "type": "board",
+    "title": "Canada-US trade stakes",
+    "rows": [
+     {
+      "k": "Canada exports sent to US",
+      "v": "~70%"
+     },
+     {
+      "k": "Canada tariff on Chinese EVs",
+      "s": "cut in January",
+      "v": "6.1%",
+      "tone": "acc"
+     },
+     {
+      "k": "Yearly Chinese EV cap",
+      "s": "to start",
+      "v": "49,000"
+     },
+     {
+      "k": "Back a deal with tariffs",
+      "s": "Nanos poll",
+      "v": "33.3%",
+      "tone": "loss"
+     },
+     {
+      "k": "Same poll, Aug. 2025",
+      "v": "41%"
+     }
+    ],
+    "foot": "Sources: AP via KSAT, BNN Bloomberg"
+   },
+   "detail": [
+    "Speaking in Cambodia, Prime Minister Mark Carney said Canada could look to Chinese automakers if talks with the US fail to protect North America's linked auto industry. He meets Xi Jinping in Shenzhen later this week.",
+    "In January, Canada cut its tariff on Chinese EVs from 100% to 6.1% for up to 49,000 cars a year. Carney says any Chinese investment must include real manufacturing in Canada, not just assembly.",
+    "A Nanos poll for CTV found 33.3% of Canadians would back a US deal that keeps tariffs, down from 41% in August 2025. Carney says talks are making progress, but a deal isn't done."
+   ],
+   "money": [
+    "Cheaper Chinese EVs in Canada could pressure car prices across North America over time.",
+    "Auto parts makers with big Canada-US supply chains are most exposed to a failed deal. Check what your funds hold.",
+    "If you're shopping for a car, trade headlines can shift prices. Get quotes in writing and compare before signing."
+   ],
+   "risk": [
+    "A failed deal could raise tariffs on cars and parts.",
+    "Chinese plant plans could face pushback from Ontario and the US."
+   ],
+   "sources": [
+    {
+     "t": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail",
+     "d": "ksat.com",
+     "u": "https://www.ksat.com/business/2026/11/16/carney-says-canada-could-turn-to-chinese-automakers-if-trump-trade-talks-fail/"
+    },
+    {
+     "t": "Most Canadians would reject a trade deal that includes tariffs, Nanos survey suggests",
+     "d": "bnnbloomberg.ca",
+     "u": "https://www.bnnbloomberg.ca/business/politics/2026/11/15/most-canadians-would-reject-a-trade-deal-that-includes-tariffs-nanos-survey-suggests/"
+    }
+   ]
+  },
+  {
+   "id": "fractile-720m-2026111605",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "business"
+   ],
+   "date": "This week",
+   "ts": "2026-11-16T05:24:00Z",
+   "headline": "UK chip startup Fractile raises $720M at a reported $7B value, before shipping a chip",
+   "caption": "Fractile's valuation jumped about sevenfold since May on a memory-first AI chip design. Its first chip isn't due until next year.",
+   "visual": {
+    "type": "vs",
+    "title": "Fractile's valuation",
+    "a": [
+     "May 2026",
+     "~$1B",
+     0.14,
+     "acc"
+    ],
+    "b": [
+     "Nov 2026",
+     "$7B",
+     1,
+     "gain"
+    ],
+    "foot": "Valuation per the Financial Times, via The Next Web"
+   },
+   "detail": [
+    "London-based Fractile raised $720 million in a Series C round. The Financial Times puts its value at $7 billion, up from about $1 billion when it raised roughly $220 million in May.",
+    "Thrive Capital, Founders Fund, Lightspeed and Redpoint led. Others include Alphabet's CapitalG, BlackRock, T. Rowe Price and the UK's Sovereign AI fund.",
+    "Fractile stacks custom memory and logic to speed up AI answers, claiming up to 10 times faster inference. That claim isn't proven in a production chip yet, and the first chip is planned for next year."
+   ],
+   "money": [
+    "Private AI chip deals show where big money thinks the next bottleneck is: memory, not raw compute.",
+    "Public memory makers can benefit from the same trend. Compare their valuations before buying any AI theme.",
+    "Be wary of funds pitching pre-IPO AI exposure. High valuations with no product carry big risk."
+   ],
+   "risk": [
+    "The chip may slip or miss its performance claims.",
+    "AI funding could cool fast if Big Tech spending slows."
+   ],
+   "sources": [
+    {
+     "t": "London's Fractile raises $720M for memory-first AI chips and hits $7B valuation",
+     "d": "thenextweb.com",
+     "u": "https://thenextweb.com/news/fractile-7bn-valuation-720m-ai-inference-chips"
+    },
+    {
+     "t": "Inference chip developer Fractile raises $720M in funding",
+     "d": "siliconangle.com",
+     "u": "https://siliconangle.com/2026/11/11/inference-chip-developer-fractile-raises-720m-in-funding/"
+    }
+   ]
+  },
+  {
+   "id": "united-blocks-ai-agents-2026111605",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "business"
+   ],
+   "date": "This week",
+   "ts": "2026-11-16T05:24:00Z",
+   "headline": "United blocks personal AI agents from booking flights for you",
+   "caption": "United is the first US airline to say it will restrict third-party AI agents. It cites risks to logins, miles and surprise purchases.",
+   "visual": {
+    "type": "points",
+    "title": "What United is blocking",
+    "items": [
+     "Third-party AI agents on United's app and site",
+     "Agents working through travel sites and aggregators",
+     "Reasons: shared logins, surprise buys, mileage moves",
+     "Check-in still needs a human to confirm bag rules",
+     "OpenAI just bought AI travel agent Odessia"
+    ]
+   },
+   "detail": [
+    "United said it will restrict personal AI agents that try to book or manage trips for customers. The rule covers its own app and site, plus online travel agencies and aggregators.",
+    "The airline says handing logins to an AI tool can expose personal data. Agents could also make purchases, change accounts or redeem MileagePlus miles without the customer meaning to. It also points to rules like the bag safety confirmation at check-in.",
+    "Rivals are moving the other way. Southwest launched a ChatGPT flight search plug-in, and OpenAI bought AI travel agent Odessia. United CEO Scott Kirby said he doesn't want another middleman."
+   ],
+   "money": [
+    "Don't give your airline password to an AI tool. A hijacked account can drain miles worth hundreds of dollars.",
+    "AI agents can still help compare fares. Book the final ticket yourself on the airline's site.",
+    "Turn on alerts for mileage redemptions so you catch any action you didn't make."
+   ],
+   "risk": [
+    "Agents that break the rules could get your account flagged.",
+    "Other airlines may follow with their own limits."
+   ],
+   "sources": [
+    {
+     "t": "United Airlines Moves to Block Personal AI Agents From Booking Flights",
+     "d": "skift.com",
+     "u": "https://skift.com/2026/11/11/united-airlines-moves-to-block-personal-ai-agents-from-booking-flights/"
+    },
+    {
+     "t": "United Bans AI Agents From Booking Flights For Customers",
+     "d": "airlinegeeks.com",
+     "u": "https://airlinegeeks.com/2026/11/11/united-bans-ai-agents-from-booking-flights-for-customers/"
+    }
+   ]
+  },
+  {
+   "id": "deepmind-signal-proof-2026111605",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai"
+   ],
+   "date": "This week",
+   "ts": "2026-11-16T05:24:00Z",
+   "headline": "DeepMind's AI proves key parts of Signal's encryption secure in four weeks",
+   "caption": "A new DeepMind tool, AlphaProof Code, machine-checked core Signal security guarantees. It found no new holes but did catch old bugs planted back in.",
+   "visual": {
+    "type": "points",
+    "title": "AlphaProof Code vs. Signal",
+    "items": [
+     "Took about 4 weeks, building on past work",
+     "Proofs checked in the Lean language",
+     "Found no new flaws in the parts it checked",
+     "Caught 2 old bugs the team planted back in",
+     "Did not cover the whole Signal app"
+    ]
+   },
+   "detail": [
+    "Google DeepMind said its new AlphaProof Code system formally verified several core security guarantees of the Signal messaging protocol. The proof of concept took about four weeks, with a head start from earlier verification work.",
+    "To test it, the team put two previously fixed bugs back into a copy of Signal's code. The tool produced machine-checked proofs that the buggy versions were insecure. It found no new flaws in the parts it reviewed.",
+    "Limits are real. It didn't cover the full mobile app, Google didn't share the cost, and researchers say scaling it up has a long way to go."
+   ],
+   "money": [
+    "AI that checks code could cut the cost of security bugs, a big expense for software companies.",
+    "Cybersecurity and dev-tool firms may see new competition or new products from this. Watch their guidance.",
+    "For you: keep messaging apps updated. Fixes only help once installed."
+   ],
+   "risk": [
+    "Results cover only part of the code.",
+    "Costs and scale are unknown."
+   ],
+   "sources": [
+    {
+     "t": "Google DeepMind's AlphaProof Code Formally Verifies Key Signal Protocol Guarantees",
+     "d": "letsdatascience.com",
+     "u": "https://letsdatascience.com/news/google-deepminds-alphaproof-code-formally-verifies-key-signa-a2c50019"
+    },
+    {
+     "t": "DeepMind's AlphaProof Code verifies Signal protocol in four weeks",
+     "d": "aiweekly.co",
+     "u": "https://aiweekly.co/alerts/deepminds-alphaproof-code-verifies-signal-protocol-in-four-weeks"
+    }
+   ]
+  },
+  {
+   "id": "oregon-property-tax-discount-2026111605",
+   "type": "news",
+   "cat": "taxes",
+   "tags": [
+    "taxes",
+    "states"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T05:24:00Z",
+   "headline": "Oregon property taxes are due today: pay in full to get a 3% discount",
+   "caption": "Because Nov. 15 fell on a Sunday, Oregon's first property tax payment is due Monday. Paying the full year now earns a 3% discount.",
+   "visual": {
+    "type": "timeline",
+    "title": "Oregon property tax schedule",
+    "items": [
+     {
+      "d": "NOV 16",
+      "t": "1st payment due",
+      "s": "Full: 3% off. Two-thirds: 2% off",
+      "now": true
+     },
+     {
+      "d": "DEC 16",
+      "t": "Interest starts on late amounts"
+     },
+     {
+      "d": "DEC 31",
+      "t": "Last day to appeal your value",
+      "s": "Multnomah County"
+     },
+     {
+      "d": "FEB 15",
+      "t": "Two-thirds due, no discount"
+     },
+     {
+      "d": "MAY 17",
+      "t": "Full balance due"
+     }
+    ]
+   },
+   "detail": [
+    "Oregon property tax bills are normally due Nov. 15. This year that was a Sunday, so the deadline moves to Monday, Nov. 16.",
+    "Pay the whole bill by the deadline and you get a 3% discount. Pay two-thirds and you get 2%. Pay at least one-third to stay current, with the rest due Feb. 15 and May 17. Mailed payments must be postmarked by the due date.",
+    "Watch fees. In Multnomah County, eChecks cost $1.50, debit cards $3.95 and credit cards 2.55%. Owners there can appeal their assessed value through Dec. 31."
+   ],
+   "money": [
+    "On a $4,000 bill, paying in full saves $120. That beats most savings accounts for the same cash.",
+    "Use eCheck, not a credit card. A 2.55% card fee eats most of the 3% discount.",
+    "If your value looks too high, file an appeal by Dec. 31. A lower value cuts future bills too."
+   ],
+   "risk": [
+    "Bank bill-pay counts when funds arrive, so a same-day send may be late.",
+    "Don't drain your emergency fund to grab the discount."
+   ],
+   "sources": [
+    {
+     "t": "How to get a discount on Deschutes County property taxes",
+     "d": "centraloregondaily.com",
+     "u": "https://www.centraloregondaily.com/news/local/deschutes-county-property-tax-deadline-november-2026/article_5e61b5f8-6e82-40c8-aa08-a72d078d7e96.html"
+    },
+    {
+     "t": "Property tax payments are due Nov. 15, 2026",
+     "d": "multco.us",
+     "u": "https://multco.us/news/news-release-property-tax-payments-are-due-nov-15-2026"
+    }
+   ]
+  },
+  {
+   "id": "btc-whales-vs-midsize-2026111605",
+   "type": "news",
+   "cat": "crypto",
+   "tags": [
+    "crypto"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T05:24:00Z",
+   "headline": "Bitcoin whales scoop up 47,000 BTC in the dip as smaller holders sell",
+   "caption": "Big holders bought while mid-size wallets dumped, CryptoQuant data shows. Spot bitcoin ETFs lost about $1.91 billion over seven straight sessions.",
+   "visual": {
+    "type": "board",
+    "title": "Who's buying, who's selling",
+    "rows": [
+     {
+      "k": "Bitcoin",
+      "s": "00:00 UTC Mon",
+      "v": "$65,360",
+      "ch": 1.9,
+      "tone": "gain"
+     },
+     {
+      "k": "Whales (1,000+ BTC)",
+      "s": "bought in dip",
+      "v": "+47,000 BTC",
+      "tone": "gain"
+     },
+     {
+      "k": "ETF outflows",
+      "s": "Nov 5-13, 7 days",
+      "v": "-$1.91B",
+      "tone": "loss"
+     },
+     {
+      "k": "Stablecoin supply",
+      "s": "past month",
+      "v": "-$17B",
+      "tone": "loss"
+     },
+     {
+      "k": "Short-term supply at a loss",
+      "v": "~73%",
+      "tone": "loss"
+     }
+    ],
+    "foot": "Sources: KuCoin (CryptoQuant, Glassnode), crypto.news (Farside)"
+   },
+   "detail": [
+    "Bitcoin was near $65,360 early Monday after dipping to about $62,000 over the weekend, its lowest since July.",
+    "CryptoQuant data shows wallets with more than 1,000 BTC added about 47,000 coins during the drop. Mid-size holders sold more than that, and about 73% of coins held by short-term owners now sit at a loss.",
+    "US spot bitcoin ETFs saw about $1.91 billion in net outflows over seven sessions through Nov. 13, per Farside. Stablecoin supply also shrank about $17 billion in a month, a sign of cash leaving crypto."
+   ],
+   "money": [
+    "Whale buying isn't a guarantee. Big buyers can wait out losses you may not be able to.",
+    "If you buy, spread purchases out over time instead of guessing the bottom.",
+    "Losses on crypto you sell can offset gains on your taxes. Track your cost basis."
+   ],
+   "risk": [
+    "Analysts flag $60,000 and $57,000 as possible next supports.",
+    "Shrinking stablecoin supply can mean less buying power."
+   ],
+   "sources": [
+    {
+     "t": "Crypto Daily Market Report, November 16, 2026",
+     "d": "kucoin.com",
+     "u": "https://www.kucoin.com/news/articles/crypto-daily-market-report-november-16-2026"
+    },
+    {
+     "t": "Bitcoin price falls to three-month low: Is $60K the next stop?",
+     "d": "crypto.news",
+     "u": "https://crypto.news/bitcoin-price-falls-62000-etf-outflows-liquidations/"
+    }
+   ]
+  },
+  {
+   "id": "altcoin-chaos-kava-2026111605",
+   "type": "news",
+   "cat": "crypto",
+   "tags": [
+    "crypto"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T05:24:00Z",
+   "headline": "Altcoin chaos: KAVA crashes nearly 40% after abnormal borrowing on Kava Lend",
+   "caption": "About 55.2 million KAVA tokens were borrowed and dumped, sinking the coin. ASTER spiked about 48% then gave it all back.",
+   "visual": {
+    "type": "stat",
+    "title": "Wild altcoin moves",
+    "num": "-40%",
+    "tone": "loss",
+    "label": "KAVA's one-day drop after a lending-pool sell-off.",
+    "facts": [
+     [
+      "KAVA borrowed",
+      "55.2M",
+      "then heavily sold"
+     ],
+     [
+      "ASTER",
+      "$0.48 to $0.71",
+      "then back to ~$0.50"
+     ],
+     [
+      "MEGA",
+      "+9%",
+      "after a 20% staff cut"
+     ]
+    ]
+   },
+   "detail": [
+    "KAVA fell nearly 40% in a day after about 55.2 million tokens were borrowed in an abnormal way through Kava Lend and sold hard, KuCoin reported.",
+    "ASTER jumped from about $0.48 to $0.71, then fell back near $0.50. The project blamed leveraged liquidations and is probing possible malicious activity.",
+    "MEGA rose about 9% against the trend after cutting about 20% of staff and pledging $30 million for new businesses, including AI inference. The crypto fear index sits at 10, extreme fear."
+   ],
+   "money": [
+    "Small coins can lose 40% in hours. Keep any altcoin bets to money you can lose.",
+    "Lending pools can be drained or gamed. Spread out deposits and avoid chasing high yields.",
+    "Don't buy a sudden spike. ASTER gave back nearly all of its jump the same day."
+   ],
+   "risk": [
+    "DeFi exploits can leave depositors with losses.",
+    "Thin trading makes small coins easy to push around."
+   ],
+   "sources": [
+    {
+     "t": "Crypto Daily Market Report, November 16, 2026",
+     "d": "kucoin.com",
+     "u": "https://www.kucoin.com/news/articles/crypto-daily-market-report-november-16-2026"
+    }
+   ]
+  },
+  {
+   "id": "token-unlocks-week-2026111605",
+   "type": "news",
+   "cat": "crypto",
+   "tags": [
+    "crypto",
+    "markets"
+   ],
+   "date": "This week",
+   "ts": "2026-11-16T05:24:00Z",
+   "headline": "Crypto token unlocks this week: SPK and AKE release over 8% of supply",
+   "caption": "Several tokens release locked coins this week, adding new supply. The biggest are AKE at 9.35% and SPK at 8.11% of circulating supply.",
+   "visual": {
+    "type": "timeline",
+    "title": "Token unlock calendar",
+    "items": [
+     {
+      "d": "NOV 16",
+      "t": "CRO 2.3%, ARB 1.53%",
+      "now": true
+     },
+     {
+      "d": "NOV 17",
+      "t": "SPK 8.11%",
+      "s": "Same day as US retail sales"
+     },
+     {
+      "d": "NOV 20",
+      "t": "ZRO 3.69%, KAITO 3.56%"
+     },
+     {
+      "d": "NOV 21",
+      "t": "AKE 9.35%"
+     },
+     {
+      "d": "NOV 22",
+      "t": "SENT 4.4%"
+     }
+    ]
+   },
+   "detail": [
+    "Token unlocks release coins that were held back for teams, early investors or treasuries. This week's calendar is busy.",
+    "CRO and ARB unlock Monday. SPK releases 8.11% of its circulating supply Tuesday. ZRO and KAITO follow Friday, AKE unlocks 9.35% Saturday and SENT 4.4% on Sunday, per KuCoin.",
+    "The unlocks land during a rough week. Bitcoin is near three-month lows, and Nvidia earnings, Fed minutes and Anthropic's Nasdaq debut are all due."
+   ],
+   "money": [
+    "Check unlock calendars before buying a small token. New supply can weigh on the price.",
+    "Big unlocks during weak markets carry more sell risk. Consider waiting until after the date.",
+    "If you hold one of these tokens, set a price alert so a sharp drop doesn't surprise you."
+   ],
+   "risk": [
+    "Not all unlocked tokens get sold, so drops aren't certain.",
+    "Unlock data can change if projects revise schedules."
+   ],
+   "sources": [
+    {
+     "t": "Crypto Daily Market Report, November 16, 2026",
+     "d": "kucoin.com",
+     "u": "https://www.kucoin.com/news/articles/crypto-daily-market-report-november-16-2026"
+    }
+   ]
+  },
+  {
+   "id": "india-deals-pricol-mcl-2026111605",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business",
+    "markets"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T05:24:00Z",
+   "headline": "India deals: Warburg buys 38.5% of Pricol; Coal India unit sets a ~₹9,500 crore IPO",
+   "caption": "Warburg Pincus agreed to buy Pricol's promoter stake. Coal India's Mahanadi Coalfields filed for an IPO priced at ₹129 to ₹136 a share.",
+   "visual": {
+    "type": "deals",
+    "title": "India deal watch",
+    "items": [
+     {
+      "a": "Warburg Pincus",
+      "b": "Pricol Autotech",
+      "amt": "38.51%",
+      "st": "Promoter stake; needs DICVS demerger",
+      "c": "pend"
+     },
+     {
+      "a": "Mahanadi Coalfields",
+      "b": "IPO (Coal India unit)",
+      "amt": "~₹9,500 cr",
+      "st": "₹129-136 price band",
+      "c": "pend"
+     },
+     {
+      "a": "Saudi Water Authority",
+      "b": "VA Tech Wabag project",
+      "amt": "~₹2,332 cr",
+      "st": "Cancelled",
+      "c": "bad"
+     }
+    ]
+   },
+   "detail": [
+    "Private equity firm Warburg Pincus agreed to buy the 38.51% stake held by Pricol's promoters in Pricol Autotech. The deal depends on a demerger of its DICVS business.",
+    "Mahanadi Coalfields, a Coal India subsidiary, filed its red herring prospectus. Coal India will sell up to 66.18 crore shares, 10% of its stake, worth about ₹9,500 crore, at ₹129 to ₹136 each.",
+    "Separately, the Saudi Water Authority cancelled a desalination project worth about ₹2,332 crore awarded to VA Tech Wabag."
+   ],
+   "money": [
+    "Government-unit IPOs are often priced to sell. Compare the price band with Coal India's own valuation.",
+    "US investors can get India exposure through broad India ETFs rather than single stocks.",
+    "A big canceled contract can hit a small company's earnings. Check order books before buying."
+   ],
+   "risk": [
+    "Offer-for-sale IPOs raise no new money for the company.",
+    "Currency swings affect returns for US investors."
+   ],
+   "sources": [
+    {
+     "t": "Stocks to watch, Nov 16: Max Estates, Vedanta, ONGC, Coal India, VA Tech Wabag, Tata Steel TMPV, Sammaan Capital",
+     "d": "upstox.com",
+     "u": "https://upstox.com/news/market-news/stocks/stocks-to-watch-nov-16-max-estates-vedanta-ongc-coal-india-va-tech-wabag-tata-steel-tmpv-sammaan-capital/article-203480/"
+    },
+    {
+     "t": "Stocks to watch today, November 16: JLR cuts margin guidance, Pricol stake sale to Warburg",
+     "d": "businessupturn.com",
+     "u": "https://businessupturn.com/finance/stock-market/stocks-to-watch-monday-november-16-tata-motors-pv-eicher-motors-ashok-leyland-hindalco-patanjali-pricol/"
+    }
+   ]
+  },
+  {
+   "id": "edu-early-pay-discount-2026111605",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "taxes"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-16T05:24:00Z",
+   "headline": "Is a 3% early-pay discount worth it? Oregon's tax bill math",
+   "caption": "Oregon homeowners get 3% off for paying property taxes in full by Nov. 16. Here's how to compare that with keeping the cash.",
+   "scenes": [
+    {
+     "k": "TODAY'S NEWS",
+     "t": "Oregon: pay in full by Nov. 16, get 3% off",
+     "s": "Pay two-thirds and get 2% off instead."
+    },
+    {
+     "k": "THE MATH",
+     "t": "$4,000 bill, paid in full",
+     "viz": {
+      "type": "split",
+      "items": [
+       [
+        "Bill",
+        "$4,000"
+       ],
+       [
+        "Discount",
+        "3%"
+       ],
+       [
+        "You save",
+        "$120",
+        "wide"
+       ]
+      ]
+     },
+     "say": "On a four thousand dollar bill, a three percent discount saves one hundred twenty dollars."
+    },
+    {
+     "k": "COMPARE",
+     "t": "3% for paying a few months early",
+     "s": "Most of the bill wasn't due until February or May."
+    },
+    {
+     "k": "THE TRAP",
+     "t": "Card fees can erase the win",
+     "s": "A 2.55% card fee leaves you with only about 0.45%."
+    },
+    {
+     "k": "STEPS",
+     "t": "How to grab it safely",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "Check your bill",
+       "Keep emergency cash",
+       "Pay by eCheck",
+       "Get proof of payment"
+      ]
+     }
+    },
+    {
+     "k": "YOUR MOVE",
+     "t": "Take discounts, not debt",
+     "s": "Only prepay with cash you won't need soon."
+    }
+   ]
+  },
+  {
+   "id": "edu-token-unlock-2026111605",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "crypto"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-16T05:24:00Z",
+   "headline": "What a crypto 'token unlock' is and why prices can dip",
+   "caption": "AKE and SPK release more than 8% of their supply this week. Here's how new supply can move a coin's price.",
+   "scenes": [
+    {
+     "k": "TODAY'S NEWS",
+     "t": "AKE unlocks 9.35% of supply Saturday",
+     "s": "SPK releases 8.11% on Tuesday."
+    },
+    {
+     "k": "WHAT IT IS",
+     "t": "Locked coins become sellable",
+     "s": "Teams and early backers often get coins on a schedule."
+    },
+    {
+     "k": "HOW IT WORKS",
+     "t": "From locked to market",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "Coins locked",
+       "Unlock date",
+       "Holders can sell",
+       "More supply"
+      ]
+     }
+    },
+    {
+     "k": "WHY IT MATTERS",
+     "t": "More supply, same demand = pressure",
+     "s": "If buyers don't grow, the price can fall."
+    },
+    {
+     "k": "BUT",
+     "t": "Not every unlock means a dump",
+     "s": "Some holders keep their coins, and prices may already reflect it."
+    },
+    {
+     "k": "YOUR MOVE",
+     "t": "Check the calendar before you buy",
+     "s": "Avoid buying small tokens right before a big unlock."
+    }
+   ]
+  },
   {
    "id": "mstr-paper-loss-2026111604",
    "type": "news",
@@ -11351,781 +12172,6 @@
     }
    ],
    "ts": "2026-11-15T04:23:09Z"
-  },
-  {
-   "id": "medicare-notices-2026111504",
-   "type": "news",
-   "cat": "benefits",
-   "tags": [
-    "benefits",
-    "immigration"
-   ],
-   "date": "Notices since Nov 10",
-   "headline": "About 32,000 people could lose Medicare Feb. 1 unless they prove eligible status",
-   "caption": "Social Security is mailing notices to enrollees whose status it can't confirm. Coverage could end Feb. 1, 2027, under the 2025 tax-and-spending law.",
-   "visual": {
-    "type": "stat",
-    "title": "Medicare status checks",
-    "num": "32,000",
-    "tone": "loss",
-    "label": "Enrollees who may lose coverage, per a CMS estimate.",
-    "facts": [
-     [
-      "Coverage may end",
-      "Feb 1, 2027",
-      "unless status is proven"
-     ],
-     [
-      "Who gets notices",
-      "Enrolled before Jul 4, 2025",
-      ""
-     ],
-     [
-      "Citizens",
-      "Not affected",
-      ""
-     ]
-    ]
-   },
-   "detail": [
-    "The July 2025 law narrowed Medicare eligibility for some legal non-citizens. Refugees, asylum grantees and people with Temporary Protected Status no longer qualify. Green card holders, Cuban-Haitian entrants and certain Compact residents still do.",
-    "The Social Security Administration told providers on Nov. 10 that it is sending notices to about 32,000 people whose status it cannot confirm. Those people enrolled before July 4, 2025.",
-    "People can keep coverage by sending proof of citizenship or an eligible status, online through my Social Security or at a local office."
-   ],
-   "money": [
-    "If you or a relative gets a notice, respond fast. Missing the deadline could mean losing coverage Feb. 1.",
-    "Upload documents online to avoid long office waits.",
-    "If coverage ends, check employer or spouse plans, state programs, or community health centers for low-cost care."
-   ],
-   "risk": [
-    "Mail mix-ups could hit eligible people; keep copies of everything you send."
-   ],
-   "sources": [
-    {
-     "t": "32,000 To Lose Medicare As 2027 Deadline Approaches",
-     "d": "newsweek.com",
-     "u": "https://www.newsweek.com/32000-lose-medicare-2027-deadline-approaches-12705589"
-    }
-   ],
-   "ts": "2026-11-15T04:23:09Z"
-  },
-  {
-   "id": "snap-rule-2026111504",
-   "type": "news",
-   "cat": "benefits",
-   "tags": [
-    "benefits",
-    "states"
-   ],
-   "date": "Proposed Tue Nov 10",
-   "headline": "New SNAP rule could cut 6.3 million people from food aid by 2029",
-   "caption": "USDA wants to end automatic SNAP eligibility tied to some TANF services. Public comments are open until December.",
-   "visual": {
-    "type": "stat",
-    "title": "Proposed SNAP rule",
-    "num": "6.3M",
-    "tone": "loss",
-    "label": "People who could lose SNAP eligibility by fiscal 2029, per USDA.",
-    "facts": [
-     [
-      "Already lost SNAP",
-      "5.5M",
-      "over the past year"
-     ],
-     [
-      "States affected",
-      "41 + DC",
-      "use broad eligibility"
-     ],
-     [
-      "Comments due",
-      "December",
-      "full effect ~2 years out"
-     ]
-    ]
-   },
-   "detail": [
-    "The USDA proposed ending 'broad-based categorical eligibility,' which lets 41 states and D.C. qualify people for SNAP because they get TANF-funded help like job counseling. The administration calls it a loophole.",
-    "USDA estimates 6.3 million people could lose SNAP by fiscal 2029, on top of 5.5 million who lost benefits over the past year. About 1.8 million kids could lose automatic free school meals, though most would still qualify another way.",
-    "Supporters call it a reasonable fix. Critics say it removes flexibility Congress gave states. If finalized, it would take about two years to fully kick in."
-   ],
-   "money": [
-    "Nothing changes yet. Keep using your benefits and renewing on time.",
-    "If you might be affected, check whether you qualify under your state's standard income and asset rules.",
-    "Anyone can submit a public comment on the rule before the December deadline."
-   ],
-   "risk": [
-    "Final rules can be stricter or looser than the proposal.",
-    "States may face higher costs and error-rate penalties."
-   ],
-   "sources": [
-    {
-     "t": "Trump administration plans to make it harder to get grocery assistance",
-     "d": "pbs.org",
-     "u": "https://pbs.org/newshour/politics/trump-administration-plans-to-make-it-harder-to-get-grocery-assistance"
-    },
-    {
-     "t": "Off the news: New rules put isle SNAP benefits at risk",
-     "d": "staradvertiser.com",
-     "u": "https://www.staradvertiser.com/2026/11/12/editorial/off-the-news/off-the-news-new-rules-put-isle-snap-benefits-at-risk/"
-    }
-   ],
-   "ts": "2026-11-15T04:23:09Z"
-  },
-  {
-   "id": "minwage-vt-tx-2026111504",
-   "type": "news",
-   "cat": "states",
-   "tags": [
-    "states",
-    "politics"
-   ],
-   "date": "Nov 10–13",
-   "headline": "Minimum wage moves: Vermont to $14.91, a Texas bill filed, Kirkland eyes a raise",
-   "caption": "Vermont's automatic raise lands Jan. 1. In Texas, still at $7.25, a Houston Democrat filed a bill to lift the state minimum.",
-   "visual": {
-    "type": "board",
-    "title": "Minimum wage watch",
-    "rows": [
-     {
-      "k": "Vermont",
-      "s": "Jan 1, from $14.42",
-      "v": "$14.91",
-      "tone": "gain"
-     },
-     {
-      "k": "Vermont tipped",
-      "s": "from $7.21",
-      "v": "$7.46",
-      "tone": "gain"
-     },
-     {
-      "k": "Texas",
-      "s": "HB 132 filed Nov 10",
-      "v": "$7.25"
-     },
-     {
-      "k": "Washington state",
-      "s": "Kirkland weighs more",
-      "v": "$17.13"
-     }
-    ]
-   },
-   "detail": [
-    "Vermont's minimum wage rises 49 cents to $14.91 on Jan. 1. The raise is automatic, tied to inflation and capped at 5%. For a full-time worker that is about $1,000 more a year.",
-    "In Texas, Rep. Armando Walle of Houston filed HB 132 on the first day of bill filing to raise the state's $7.25 minimum. The session starts Jan. 12.",
-    "In Washington, Kirkland is gathering feedback on a local wage above the state's $17.13, with a draft ordinance planned by late June."
-   ],
-   "money": [
-    "Paid hourly in Vermont? Check your January paycheck reflects $14.91.",
-    "A raise can push income over limits for some benefits. Check how it affects SNAP or health subsidies.",
-    "Small business owners: budget for higher payroll costs starting in January."
-   ],
-   "risk": [
-    "The Texas bill faces an uncertain path, and no amount was reported."
-   ],
-   "sources": [
-    {
-     "t": "Vermont to raise minimum wage by 49 cents in January",
-     "d": "vtdigger.org",
-     "u": "https://vtdigger.org/2026/11/12/vermont-to-raise-minimum-wage-by-49-cents-in-january"
-    },
-    {
-     "t": "Bill filed in Democrat-controlled Texas House would raise state's minimum wage",
-     "d": "sacurrent.com",
-     "u": "https://sacurrent.com/news/texas-news/bill-filed-in-democrat-controlled-texas-house-would-raise-states-minimum-wage"
-    },
-    {
-     "t": "Kirkland takes step to raise minimum wage",
-     "d": "kuow.org",
-     "u": "https://kuow.org/governing/2026-11-13/kirkland-takes-step-to-raise-minimum-wage"
-    }
-   ],
-   "ts": "2026-11-15T04:23:09Z"
-  },
-  {
-   "id": "ice-record-2026111504",
-   "type": "news",
-   "cat": "immigration",
-   "tags": [
-    "immigration",
-    "politics"
-   ],
-   "date": "Released Nov 12",
-   "headline": "ICE sets records in fiscal 2026: 483,200 deportations and 491,000 arrests",
-   "caption": "Both numbers are the highest in the agency's history. Supporters cite the totals as success, while critics point to how many people had no criminal record.",
-   "visual": {
-    "type": "vs",
-    "title": "ICE deportations by fiscal year",
-    "a": [
-     "FY2025",
-     "442,640",
-     0.92,
-     "acc"
-    ],
-    "b": [
-     "FY2026",
-     "483,200",
-     1,
-     "loss"
-    ],
-    "foot": "Fiscal 2026 ended Sept. 30. FY2024 was 271,484."
-   },
-   "detail": [
-    "ICE deported 483,200 people in the fiscal year that ended Sept. 30, beating the prior record of 442,640. It made more than 491,000 arrests, with August the busiest month at nearly 51,000.",
-    "DHS leaders praised the results. A CBS analysis found more than half of July arrests involved people with no convictions or pending charges. CBS exit polls showed 58% of midterm voters felt enforcement had gone too far.",
-    "A 2025 law set aside about $75 billion for ICE, including $45 billion for detention."
-   ],
-   "money": [
-    "Employers: keep I-9 paperwork current to avoid fines during audits.",
-    "Mixed-status families should keep key documents and a plan for bills and childcare in one place.",
-    "Watch for scams: real immigration agencies don't demand payment by gift card or wire."
-   ],
-   "risk": [
-    "Labor shortages in farming, building and care work can push up prices."
-   ],
-   "sources": [
-    {
-     "t": "ICE deportations and arrests hit record high as Trump faces reckoning over immigration crackdown",
-     "d": "cbsnews.com",
-     "u": "https://www.cbsnews.com/news/ice-deportations-arrests-hit-record-high/"
-    }
-   ],
-   "ts": "2026-11-15T04:23:09Z"
-  },
-  {
-   "id": "layoffs-wk-2026111504",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business",
-    "ai"
-   ],
-   "date": "Nov 9–13",
-   "headline": "Layoff watch: Qualcomm, Coursera, Polymarket and Cumulus Media cut jobs",
-   "caption": "Qualcomm began cuts in India, and Coursera plans to trim about 10% of staff. Cumulus started a new round after leaving bankruptcy.",
-   "visual": {
-    "type": "board",
-    "title": "Job cuts this week",
-    "rows": [
-     {
-      "k": "Qualcomm",
-      "s": "India now; California expected",
-      "v": "~1,000?",
-      "tone": "loss"
-     },
-     {
-      "k": "Coursera",
-      "s": "Nov–Dec",
-      "v": "~10%",
-      "tone": "loss"
-     },
-     {
-      "k": "Polymarket",
-      "s": "streamlining",
-      "v": "Undisclosed",
-      "tone": "loss"
-     },
-     {
-      "k": "Cumulus Media",
-      "s": "2nd round this year",
-      "v": "Undisclosed",
-      "tone": "loss"
-     }
-    ],
-    "foot": "Qualcomm's India figure is unconfirmed."
-   },
-   "detail": [
-    "Qualcomm staff in Bengaluru and Hyderabad began getting notices around Nov. 9. Reports put the India cuts near 1,000, but that is unconfirmed, and more cuts are expected in California.",
-    "Coursera plans to cut about 10% of its workers. Prediction market Polymarket and insurer Allstate also trimmed staff.",
-    "Radio company Cumulus Media started its second round of layoffs this year, weeks after exiting Chapter 11 in October."
-   ],
-   "money": [
-    "Keep an emergency fund of 3 to 6 months of costs, especially in tech or media.",
-    "If you're laid off, ask about severance terms, health coverage options and when your last paycheck arrives.",
-    "File for unemployment right away. Benefits usually start from your filing date, not your last day."
-   ],
-   "risk": [
-    "More year-end cuts are common as companies set 2027 budgets."
-   ],
-   "sources": [
-    {
-     "t": "Layoff News Digest — November 13, 2026",
-     "d": "everhint.com",
-     "u": "https://www.everhint.com/layoff-news-digest-november-13-2026/"
-    },
-    {
-     "t": "Qualcomm Layoffs November 2026: Job Cuts Begin",
-     "d": "stlawyers.ca",
-     "u": "https://stlawyers.ca/blog-news/qualcomm-november-2026-job-cuts/"
-    },
-    {
-     "t": "Cumulus Media Begins Another Round of Layoffs Following Bankruptcy Restructuring",
-     "d": "barrettmedia.com",
-     "u": "https://barrettmedia.com/2026/11/13/cumulus-media-layoffs-bankruptcy-restructuring/"
-    }
-   ],
-   "ts": "2026-11-15T04:23:09Z"
-  },
-  {
-   "id": "gas-under4-2026111504",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business",
-    "world"
-   ],
-   "date": "Tue Nov 10",
-   "headline": "Gas drops below $4 a gallon nationally for the first time since July",
-   "caption": "AAA's national average hit $3.98. Demand eased after summer, but refinery repairs could push prices back up.",
-   "visual": {
-    "type": "stat",
-    "title": "National gas average",
-    "num": "$3.98",
-    "tone": "gain",
-    "label": "AAA's average for regular, the first reading under $4 since July.",
-    "facts": [
-     [
-      "Why it fell",
-      "Lower demand",
-      "after summer driving"
-     ],
-     [
-      "Watch out",
-      "Refinery maintenance",
-      "deferred work coming"
-     ]
-    ]
-   },
-   "detail": [
-    "The average price of regular gas fell to $3.98 a gallon, according to AAA. It is the first time under $4 since July.",
-    "Demand usually drops after summer and the switch back to standard time. Oil prices have also fallen in recent weeks.",
-    "Risks remain. War has damaged refineries in Russia and the Middle East, and many U.S. refineries plan maintenance soon after putting it off this year."
-   ],
-   "money": [
-    "Use a gas price app to find the cheapest station nearby; prices vary a lot within a few miles.",
-    "Grocery store and warehouse club fuel rewards can cut costs further.",
-    "Planning holiday road trips? Lower prices now are a chance to fill up before any rebound."
-   ],
-   "risk": [
-    "Refinery outages or Middle East supply shocks could reverse the drop quickly."
-   ],
-   "sources": [
-    {
-     "t": "Average price of gas falls below $4 a gallon across the US",
-     "d": "fox10tv.com",
-     "u": "https://www.fox10tv.com/2026/11/10/average-price-gas-falls-below-4-gallon-across-us/"
-    }
-   ],
-   "ts": "2026-11-15T04:23:09Z"
-  },
-  {
-   "id": "btc-66k-2026111504",
-   "type": "news",
-   "cat": "crypto",
-   "tags": [
-    "crypto",
-    "markets"
-   ],
-   "date": "Sat Nov 14",
-   "headline": "Bitcoin slides toward $66,000, down 12% in a week and 47% from its peak",
-   "caption": "ETF outflows, a 5% 10-year yield and forced selling of leveraged bets hit crypto. Over $1.6 billion in positions were liquidated in a day.",
-   "visual": {
-    "type": "stat",
-    "title": "Bitcoin",
-    "num": "$66,485",
-    "tone": "loss",
-    "label": "Saturday price, down about 4% in 24 hours.",
-    "rows": [
-     [
-      "7 days",
-      -12.26
-     ],
-     [
-      "Year to date",
-      -24.08
-     ],
-     [
-      "From Oct 2025 peak",
-      -47.27
-     ]
-    ]
-   },
-   "detail": [
-    "Bitcoin traded near $66,500 on Saturday, down about 12% in a week. It was above $70,000 earlier in the week and about $84,000 in late October.",
-    "Spot bitcoin ETFs saw outflows for three straight sessions. Rising Treasury yields make non-yielding assets like bitcoin less appealing, and about $1.64 billion of crypto futures were liquidated on Nov. 13.",
-    "Bitcoin is now about 47% below its record of $126,080 from October 2025."
-   ],
-   "money": [
-    "Only invest money in crypto you could leave alone for years. Drops of 40% or more have happened many times.",
-    "Avoid leverage. Forced liquidations are what turned this dip into a crash for many traders.",
-    "Crypto losses in a taxable account can be sold to offset gains elsewhere."
-   ],
-   "risk": [
-    "The June low near $58,600 is the next level traders are watching.",
-    "A Fed rate hike could add more pressure."
-   ],
-   "sources": [
-    {
-     "t": "Bitcoin Just Crashed Toward $66,000. History Says the Worst May Not Be Over",
-     "d": "finance.yahoo.com",
-     "u": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-just-crashed-toward-66-161047479.html"
-    }
-   ],
-   "ts": "2026-11-15T04:23:09Z"
-  },
-  {
-   "id": "oil-blockade-2026111504",
-   "type": "news",
-   "cat": "world",
-   "tags": [
-    "world",
-    "markets"
-   ],
-   "date": "Fri Nov 13",
-   "headline": "Oil heads for a second weekly drop as the US sticks with an Iran blockade",
-   "caption": "Brent settled near $96 and US crude near $89, both down about 2% for the week. Fears of renewed direct war eased, though tanker attacks were reported.",
-   "visual": {
-    "type": "board",
-    "title": "Oil, week of Nov 9",
-    "rows": [
-     {
-      "k": "Brent",
-      "v": "$95.84",
-      "ch": -2.5,
-      "tone": "loss"
-     },
-     {
-      "k": "WTI (US)",
-      "v": "$88.56",
-      "ch": -2.5,
-      "tone": "loss"
-     },
-     {
-      "k": "Last week, Brent",
-      "s": "prior week",
-      "v": "-16%",
-      "tone": "loss"
-     }
-    ],
-    "foot": "Weekly changes approximate."
-   },
-   "detail": [
-    "Oil prices were set for a second weekly decline. Brent settled near $96 a barrel and US crude near $89, after a 16% drop for Brent the week before.",
-    "Washington is focusing on a blockade and economic pressure on Iran. President Trump said a deal with Iran was not needed to end the war, which eased fears of new direct fighting.",
-    "Risks remain. Iran said four tankers were hit by explosions in the Strait of Hormuz, and the Houthis claimed an attack on Saudi oil sites. US crude and fuel inventories also rose last week."
-   ],
-   "money": [
-    "Lower oil helps at the pump and with heating bills this winter.",
-    "Airline and shipping costs often follow oil down, so watch for cheaper fares.",
-    "Energy stocks swing with oil. Keep them as a small part of a diversified portfolio."
-   ],
-   "risk": [
-    "Attacks near Hormuz could spike prices overnight."
-   ],
-   "sources": [
-    {
-     "t": "Oil prices set for second weekly decline in a row",
-     "d": "rte.ie",
-     "u": "https://www.rte.ie/news/business/2026/1113/1599081-world-oil-prices/"
-    },
-    {
-     "t": "Weekly Stock Market Summary: November 13, 2026",
-     "d": "vistapglobal.com",
-     "u": "https://vistapglobal.com/weekly-stock-market-summary-november-13-2026-nasdaq-slides-as-inflation-and-ai-risks-shape-wall-street-ant-eprx-googl-gs-modd-msft-nvda-ser-spcx/"
-    }
-   ],
-   "ts": "2026-11-15T04:23:09Z"
-  },
-  {
-   "id": "sanders-ss-2026111504",
-   "type": "news",
-   "cat": "politics",
-   "tags": [
-    "politics",
-    "benefits",
-    "taxes"
-   ],
-   "date": "This week",
-   "headline": "Sanders pushes a $2,400-a-year Social Security boost, paid for by taxing top earners",
-   "caption": "Sanders expects to lead the Senate's Social Security subcommittee in January. He would fund bigger checks by applying payroll tax above $250,000.",
-   "visual": {
-    "type": "points",
-    "title": "The Sanders plan",
-    "items": [
-     "+$2,400 a year, about $200 a month",
-     "Payroll tax on income over $250,000",
-     "Would include investment income",
-     "COLA tied to CPI-E, a seniors' index",
-     "Trust fund faces 22% cut risk in 2032"
-    ]
-   },
-   "detail": [
-    "Sen. Bernie Sanders says expanding Social Security by at least $2,400 a year is a top goal. He expects to chair the Senate Finance subcommittee on Social Security when the new Congress starts in January.",
-    "His bill would apply Social Security tax to income above $250,000, including capital gains and dividends. Today the tax stops at $184,500, rising to $192,300 in 2027. It would also switch raises to an index based on seniors' spending.",
-    "The trust fund is projected to pay only 78% of benefits in late 2032 without changes. Republicans oppose the tax hikes, and some experts say it would not be a permanent fix."
-   ],
-   "money": [
-    "Nothing changes yet. Plan using today's benefit rules, not proposals.",
-    "High earners: a plan like this could raise your payroll taxes. Watch how it develops.",
-    "Check your benefit estimate at ssa.gov to see what you are on track to get."
-   ],
-   "risk": [
-    "The bill needs to pass both chambers and be signed, which is far from certain."
-   ],
-   "sources": [
-    {
-     "t": "Bernie Sanders Proposes $2,400 Social Security Boost in New Leadership Role",
-     "d": "newsweek.com",
-     "u": "https://newsweek.com/bernie-sanders-proposes-2400-social-security-boost-in-new-leadership-role-12714000"
-    }
-   ],
-   "ts": "2026-11-15T04:23:09Z"
-  },
-  {
-   "id": "us-china-council-2026111504",
-   "type": "news",
-   "cat": "politics",
-   "tags": [
-    "politics",
-    "world",
-    "business"
-   ],
-   "date": "Fri Nov 13",
-   "headline": "US and China discuss cutting tariffs on about $60 billion in goods",
-   "caption": "The first meeting of a new US–China trade council talked tariff cuts on roughly $30 billion of goods from each side. Farm trade was also on the table.",
-   "visual": {
-    "type": "timeline",
-    "title": "US–China trade truce",
-    "items": [
-     {
-      "d": "NOV 9",
-      "t": "Truce extended; China delays rare earth curbs"
-     },
-     {
-      "d": "NOV 9",
-      "t": "US extends exclusions on 178 Chinese products"
-     },
-     {
-      "d": "NOV 13",
-      "t": "First trade council meeting",
-      "s": "~$60B in tariff cuts discussed",
-      "now": true
-     },
-     {
-      "d": "JAN 10",
-      "t": "US port-fee pause on Chinese ships ends"
-     }
-    ]
-   },
-   "detail": [
-    "China and the US held the first meeting of their joint trade council by video on Nov. 13. They discussed cutting tariffs on about $60 billion in goods, roughly $30 billion each way, plus farm trade.",
-    "No specific tariff decisions were announced. China's commerce ministry said both sides will keep using the council to settle disputes.",
-    "Earlier, on Nov. 9, China delayed rare earth export controls and the US extended tariff exclusions on 178 Chinese products and paused port fees on Chinese ships to Jan. 10."
-   ],
-   "money": [
-    "Lower tariffs could ease prices on some imported goods over time.",
-    "Farmers and ag stocks could benefit if China buys more US crops.",
-    "Big purchases like electronics may not get cheaper right away; don't delay needed buys on hopes alone."
-   ],
-   "risk": [
-    "Talks could stall, and the truce has short deadlines."
-   ],
-   "sources": [
-    {
-     "t": "China and the U.S. discussed tariff reductions at the first trade council meeting",
-     "d": "1news.az",
-     "u": "https://1news.az/en/news/20261114115505365-China-and-the-U-S-discussed-tariff-reductions-at-the-first-trade-council-meeting"
-    },
-    {
-     "t": "China Extends Suspension of Rare Earth Export Controls",
-     "d": "thompsonhinesmartrade.com",
-     "u": "https://www.thompsonhinesmartrade.com/2026/11/china-extends-suspension-of-rare-earth-export-controls/"
-    }
-   ],
-   "ts": "2026-11-15T04:23:09Z"
-  },
-  {
-   "id": "edu-ratehike-2026111504",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "markets"
-   ],
-   "date": "Explainer",
-   "headline": "A Fed rate hike is coming. Here's how it hits your wallet",
-   "caption": "Why the Fed raising rates changes your card, savings and loan costs.",
-   "scenes": [
-    {
-     "k": "Rates 101",
-     "t": "The Fed is likely to hike in December.",
-     "s": "Traders see about a 91% chance of a quarter-point move."
-    },
-    {
-     "k": "Why",
-     "t": "Inflation is running hot.",
-     "s": "Wholesale prices are up 6.5% from a year ago."
-    },
-    {
-     "k": "The chain",
-     "t": "One move, many ripples.",
-     "viz": {
-      "type": "flow",
-      "items": [
-       "Fed raises rate",
-       "Banks' costs rise",
-       "Loan and card rates rise",
-       "Savings rates rise too"
-      ]
-     }
-    },
-    {
-     "k": "Who loses",
-     "t": "Borrowers with variable rates.",
-     "s": "Credit cards and HELOCs usually adjust within a billing cycle or two."
-    },
-    {
-     "k": "Who wins",
-     "t": "Savers.",
-     "s": "High-yield savings, CDs and T-bills tend to pay more after hikes."
-    },
-    {
-     "k": "Your move",
-     "t": "Pay down cards, park cash smartly.",
-     "s": "Wiping out card debt beats almost any savings rate."
-    }
-   ],
-   "ts": "2026-11-15T04:23:09Z"
-  },
-  {
-   "id": "edu-catchup-2026111504",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "taxes"
-   ],
-   "date": "Explainer",
-   "headline": "The age 60–63 'super catch-up': how to save $37,250 in a 401(k)",
-   "caption": "The new 2027 limits explained in under a minute.",
-   "scenes": [
-    {
-     "k": "401(k) basics",
-     "t": "Everyone gets a yearly limit.",
-     "s": "For 2027, that's $25,500."
-    },
-    {
-     "k": "Age 50+",
-     "t": "You can add a catch-up.",
-     "s": "It's $8,500 extra in 2027."
-    },
-    {
-     "k": "Ages 60 to 63",
-     "t": "The catch-up gets bigger.",
-     "s": "It's $11,750 in 2027."
-    },
-    {
-     "k": "Add it up",
-     "t": "Up to $37,250 a year.",
-     "viz": {
-      "type": "split",
-      "items": [
-       [
-        "Base limit",
-        "$25,500"
-       ],
-       [
-        "Super catch-up",
-        "$11,750"
-       ],
-       [
-        "Total, ages 60–63",
-        "$37,250",
-        "wide"
-       ]
-      ]
-     },
-     "say": "Twenty-five thousand five hundred plus eleven thousand seven fifty equals thirty-seven thousand two hundred fifty dollars."
-    },
-    {
-     "k": "The catch",
-     "t": "High earners must go Roth.",
-     "s": "Over $155,000 in prior-year FICA wages? Catch-ups go in after tax."
-    },
-    {
-     "k": "Your move",
-     "t": "Update your contribution in January.",
-     "s": "Spread the higher amount across every paycheck."
-    }
-   ],
-   "ts": "2026-11-15T04:23:09Z"
-  },
-  {
-   "id": "cola-2027",
-   "type": "news",
-   "cat": "benefits",
-   "tags": [
-    "benefits"
-   ],
-   "date": "Announced Oct 14",
-   "headline": "Social Security checks rise 3.6% in January, about $75 a month",
-   "caption": "The 2027 cost-of-living raise covers 76 million people on Social Security and SSI. It is the biggest bump since 2023. SSI recipients see it first, on Dec 31.",
-   "visual": {
-    "type": "stat",
-    "title": "2027 COLA",
-    "num": "+3.6%",
-    "tone": "gain",
-    "label": "Raise for Social Security and SSI, starting with January payments.",
-    "facts": [
-     [
-      "Average retiree check",
-      "$2,170/mo",
-      "SSA estimate for Jan 2027"
-     ],
-     [
-      "SSI raise starts",
-      "Dec 31, 2026",
-      ""
-     ],
-     [
-      "Max earnings taxed",
-      "$192,300",
-      "Up from $184,500"
-     ]
-    ]
-   },
-   "detail": [
-    "The Social Security Administration set the 2027 cost-of-living adjustment at 3.6%, based on the CPI-W inflation index. Nearly 72 million Social Security beneficiaries get it starting in January, and about 7.3 million SSI recipients get it on December 31.",
-    "It follows raises of 2.8% for 2026 and 2.5% for 2025, and is the largest since the 8.7% jump in 2023.",
-    "If you want to see your notice online, set up a my Social Security account and choose paperless notices by November 18. Paper notices go out by mail in December."
-   ],
-   "money": [
-    "Update your 2027 budget with the new amount once your notice arrives.",
-    "Still working? The cap on wages hit by Social Security tax rises to $192,300, so high earners pay a bit more.",
-    "If you are retired and have savings, the raise is a reminder to keep cash in accounts that beat inflation."
-   ],
-   "risk": [
-    "Medicare premium changes for 2027 are set separately and can eat part of the raise."
-   ],
-   "sources": [
-    {
-     "t": "COLA 2027: Social Security announces 3.6% benefit increase",
-     "d": "ssa.gov",
-     "u": "https://www.ssa.gov/news/en/mip/2026-10-01-f.html"
-    },
-    {
-     "t": "Social Security COLA 2027: what it means for checks",
-     "d": "newsnationnow.com",
-     "u": "https://www.newsnationnow.com/business/your-money/social-security-cola-2027-3/amp/"
-    },
-    {
-     "t": "2027 Social Security COLA increase: what it means and when",
-     "d": "nbcchicago.com",
-     "u": "https://www.nbcchicago.com/news/local/2027-social-security-cola-increase-heres-what-it-means-for-checks-and-when/4002339/"
-    }
-   ],
-   "ts": "2026-11-09T07:11:26Z"
   }
  ]
 }
