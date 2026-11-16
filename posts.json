@@ -1,6 +1,1174 @@
 {
- "updated": "2026-11-16T06:20:00Z",
+ "updated": "2026-11-16T07:20:00Z",
  "items": [
+  {
+   "id": "fed-hawks-more-hikes-2026111607",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets",
+    "politics"
+   ],
+   "date": "Fri Nov 13 - Sun Nov 15",
+   "headline": "Fed officials lean toward more rate hikes; a quarter-point move expected Dec. 9",
+   "caption": "Boston Fed chief Susan Collins says policy may need to get tighter than she thought. Vice Chair Jefferson says inflation is now the signal he watches most.",
+   "visual": {
+    "type": "board",
+    "title": "Where the Fed stands",
+    "rows": [
+     {
+      "k": "Fed funds rate",
+      "v": "3.75-4.00%",
+      "tone": "acc"
+     },
+     {
+      "k": "Next meeting",
+      "s": "quarter-point hike widely expected",
+      "v": "Dec 8-9"
+     },
+     {
+      "k": "October vote",
+      "s": "majority chose to wait",
+      "v": "10-2"
+     },
+     {
+      "k": "10-year Treasury",
+      "v": "5.14%",
+      "tone": "loss"
+     },
+     {
+      "k": "Waller floated",
+      "s": "earlier last week",
+      "v": "0.50% hike"
+     }
+    ],
+    "foot": "Fed minutes from October land this week"
+   },
+   "detail": [
+    "Boston Fed President Susan Collins said on Friday that recent inflation data is worrying and that price pressures are spreading. She said a tighter path than she expected a couple of months ago may now be right, and later called for a steady, gradual pace of hikes.",
+    "Fed Vice Chair Philip Jefferson said the economy is growing and hiring has stabilized, so inflation is now his main guide. Kansas City Fed President Jeffrey Schmid also said inflation is running too hot.",
+    "The Fed's benchmark rate sits at 3.75% to 4.00% after a September hike. Markets widely expect another quarter-point increase at the Dec. 8-9 meeting, and some expect one more in January."
+   ],
+   "money": [
+    "Credit card and HELOC rates usually follow Fed hikes within a billing cycle or two, so paying down variable-rate debt now can save money.",
+    "High-yield savings and short-term Treasury yields tend to rise with hikes; compare your bank's rate to what's available.",
+    "If you plan to lock a mortgage or car loan soon, rate shopping before mid-December may help, since the 10-year yield is already above 5%."
+   ],
+   "risk": [
+    "Fed plans can shift quickly if new inflation or jobs data surprises.",
+    "Higher rates can weigh on stock prices, especially high-growth tech."
+   ],
+   "sources": [
+    {
+     "t": "Fed's Collins says more rate hikes are coming, reports",
+     "d": "brecorder.com",
+     "u": "https://www.brecorder.com/news/40448787/feds-collins-says-more-rate-hikes-are-coming-reports"
+    },
+    {
+     "t": "Fed's Jefferson says he is taking his policy cues from inflation",
+     "d": "aol.com",
+     "u": "https://www.aol.com/articles/feds-jefferson-says-taking-policy-000319000.html"
+    },
+    {
+     "t": "Newsquawk Daily European Opening News - 16th November 2026",
+     "d": "newsquawk.com",
+     "u": "https://www.newsquawk.com/headlines/newsquawk-daily-european-opening-news---16th-november-2026"
+    }
+   ],
+   "ts": "2026-11-16T07:20:00Z"
+  },
+  {
+   "id": "vulcan-fails-amazon-leo-2026111607",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business",
+    "ai"
+   ],
+   "date": "Sun Nov 15",
+   "headline": "ULA's Vulcan rocket fails for the first time, destroying 40 Amazon Leo satellites",
+   "caption": "The rocket hit trouble about 10 minutes after launch from Cape Canaveral. It is ULA's first total failure since 2006 and a setback for Amazon's satellite internet plans.",
+   "visual": {
+    "type": "stat",
+    "title": "Amazon Leo setback",
+    "num": "40",
+    "tone": "loss",
+    "label": "Satellites lost on Vulcan's return-to-flight launch.",
+    "facts": [
+     [
+      "Would-be total",
+      "436",
+      "launched satellites after this flight"
+     ],
+     [
+      "Needed",
+      "3,300+",
+      "for the full network"
+     ],
+     [
+      "Vulcan flights booked",
+      "38",
+      "this was the first"
+     ]
+    ]
+   },
+   "detail": [
+    "United Launch Alliance's Vulcan lifted off Sunday at 12:40 p.m. EST and suffered an anomaly about 10 minutes into flight, failing to reach orbit. Early telemetry suggested problems around the upper stage's burn, but the cause is not yet public.",
+    "It was Vulcan's first flight in nine months and ULA's first outright rocket failure since the company formed in 2006. A long grounding is possible.",
+    "Amazon has booked 38 Vulcan launches plus flights on Blue Origin's New Glenn, Ariane 6 and SpaceX's Falcon 9. New Glenn is also still waiting to return to flight after a May pad explosion."
+   ],
+   "money": [
+    "Delays to Amazon Leo could slow new competition for home internet; don't cancel a current plan expecting a cheap satellite option soon.",
+    "Launch failures can shift business toward SpaceX; investors tracking space stocks may see sentiment swing on this news.",
+    "Big setbacks like this often show up in suppliers' earnings later, so watch guidance from engine and launch partners."
+   ],
+   "risk": [
+    "The cause is unknown, so the length of any grounding is uncertain."
+   ],
+   "sources": [
+    {
+     "t": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites",
+     "d": "spaceflightnow.com",
+     "u": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/"
+    }
+   ],
+   "ts": "2026-11-16T07:20:00Z"
+  },
+  {
+   "id": "qualcomm-layoffs-begin-2026111607",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business",
+    "ai"
+   ],
+   "date": "This week",
+   "headline": "Qualcomm starts worldwide layoffs after performance reviews; California cuts expected",
+   "caption": "Workers in India began getting termination notices around Nov. 9. Qualcomm hasn't said how many jobs will go worldwide.",
+   "visual": {
+    "type": "timeline",
+    "title": "Qualcomm job cuts",
+    "items": [
+     {
+      "d": "OCT",
+      "t": "Company says it will trim staff",
+      "s": "after annual reviews"
+     },
+     {
+      "d": "NOV 9",
+      "t": "Notices start in Bengaluru, Hyderabad"
+     },
+     {
+      "d": "NOV 13",
+      "t": "More cuts expected in California",
+      "now": true
+     }
+    ]
+   },
+   "detail": [
+    "Qualcomm has begun layoffs that follow its annual performance reviews. Reports say employees in Bengaluru and Hyderabad started receiving notices around Nov. 9, with more cuts expected in California, where the chipmaker is based.",
+    "CEO Cristiano Amon has framed the reduction as performance-based, meant to match staff skills with business priorities. Some reports said about 1,000 jobs in India could be affected, but that figure is unconfirmed and disputed."
+   ],
+   "money": [
+    "If you work in tech, check your severance terms and whether your state requires advance layoff notice.",
+    "Keep 3-6 months of expenses in cash if your industry is cutting; it buys time to find the right next job.",
+    "Laid-off workers in California can file for unemployment right away; waiting can cost weeks of benefits."
+   ],
+   "risk": [
+    "The total number of cuts is not public yet, so the scale could be larger or smaller than reported."
+   ],
+   "sources": [
+    {
+     "t": "Qualcomm Begins November 2026 Layoffs After Performance Reviews",
+     "d": "stlawyers.ca",
+     "u": "https://stlawyers.ca/blog-news/qualcomm-november-2026-job-cuts"
+    }
+   ],
+   "ts": "2026-11-16T07:20:00Z"
+  },
+  {
+   "id": "faa-flight-chaos-day3-2026111607",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business",
+    "politics"
+   ],
+   "date": "Sun Nov 15",
+   "headline": "Flight chaos hits a third day: 5,200+ flights disrupted Sunday, 1,600 canceled",
+   "caption": "What's new: disruptions kept going through Sunday, traced to a router problem at an FAA facility in Arkansas. Service was resuming.",
+   "visual": {
+    "type": "board",
+    "title": "Sunday's air travel damage",
+    "rows": [
+     {
+      "k": "Flights affected",
+      "v": "5,200+",
+      "tone": "loss"
+     },
+     {
+      "k": "Cancellations",
+      "v": "1,600+",
+      "tone": "loss"
+     },
+     {
+      "k": "Delays",
+      "v": "~3,600",
+      "tone": "acc"
+     },
+     {
+      "k": "Cause",
+      "s": "FAA facility",
+      "v": "Arkansas router"
+     }
+    ],
+    "foot": "Third straight day of disruption"
+   },
+   "detail": [
+    "Air travel problems that began with Friday's nationwide FAA ground stop carried into a third day. More than 5,200 flights were affected Sunday, including over 1,600 cancellations and about 3,600 delays.",
+    "The latest cause was a router issue at an FAA facility in Arkansas. Services were coming back online as the week began, with Thanksgiving travel about 10 days away."
+   ],
+   "money": [
+    "If your flight is canceled, US rules say you can get a cash refund instead of a voucher if you choose not to travel.",
+    "Book Thanksgiving flights early in the day; morning departures are less likely to be hit by knock-on delays.",
+    "Check whether your credit card offers trip delay coverage for hotels and meals before paying out of pocket."
+   ],
+   "risk": [
+    "Another outage during Thanksgiving week could strand travelers and push up last-minute fares."
+   ],
+   "sources": [
+    {
+     "t": "Newsquawk Daily European Opening News - 16th November 2026",
+     "d": "newsquawk.com",
+     "u": "https://www.newsquawk.com/headlines/newsquawk-daily-european-opening-news---16th-november-2026"
+    }
+   ],
+   "ts": "2026-11-16T07:20:00Z"
+  },
+  {
+   "id": "cftc-sues-arkansas-louisiana-kalshi-2026111607",
+   "type": "news",
+   "cat": "crypto",
+   "tags": [
+    "crypto",
+    "states",
+    "politics"
+   ],
+   "date": "Thu Nov 12 - Fri Nov 13",
+   "headline": "Feds sue Arkansas and Louisiana to protect Kalshi and other prediction markets",
+   "caption": "The DOJ and CFTC say federal law, not state gambling law, governs these markets. Louisiana got a court order covering 31 firms, including Coinbase and Robinhood.",
+   "visual": {
+    "type": "deals",
+    "title": "The prediction-market fight",
+    "items": [
+     {
+      "a": "DOJ + CFTC",
+      "b": "vs. Arkansas",
+      "amt": "Suit",
+      "st": "Seeks to block AG's Kalshi case",
+      "c": "pend"
+     },
+     {
+      "a": "CFTC",
+      "b": "vs. Louisiana",
+      "amt": "12th",
+      "st": "State the CFTC has sued",
+      "c": "pend"
+     },
+     {
+      "a": "Louisiana court",
+      "b": "31 firms",
+      "amt": "TRO",
+      "st": "10-day order, hearing Nov. 30",
+      "c": "bad"
+     }
+    ]
+   },
+   "detail": [
+    "The Justice Department and the CFTC sued Arkansas Attorney General Tim Griffin to stop his Nov. 4 lawsuit against Kalshi. They argue the Commodity Exchange Act gives the CFTC exclusive power over regulated event contracts.",
+    "In Louisiana, a state judge signed a temporary order requiring 31 companies, including Kalshi, Polymarket, Coinbase, Robinhood and Crypto.com, to stop offering event contracts to residents without a state license. The CFTC sued Louisiana the next day.",
+    "Louisiana is the 12th state the CFTC has sued. Kalshi has cut off Louisiana users, and a hearing is set for Nov. 30."
+   ],
+   "money": [
+    "If you use prediction markets, your access can change overnight based on where you live; don't leave large balances parked there.",
+    "Winnings from event contracts are generally taxable; keep records for tax time.",
+    "Brokers like Robinhood and Coinbase face legal costs here; investors in those stocks may see headline risk."
+   ],
+   "risk": [
+    "Courts are split, and rulings could quickly expand or shrink where these markets operate.",
+    "Treat event contracts as speculation; you can lose your whole stake."
+   ],
+   "sources": [
+    {
+     "t": "DOJ, CFTC sue Arkansas to block state enforcement action against Kalshi",
+     "d": "theblock.co",
+     "u": "https://www.theblock.co/news/regulation/2026-11-13-doj-cftc-sue-arkansas-to-block-state-enforcement-action-against-kalshi-439669"
+    },
+    {
+     "t": "Louisiana AG calls CFTC chair an 'obsequious standard bearer' for prediction markets",
+     "d": "theblock.co",
+     "u": "https://theblock.co/news/regulation/2026-11-14-louisiana-ag-calls-cftc-chair-an-obsequious-standard-bearer-for-prediction-markets-following-agency-lawsuit-440342"
+    }
+   ],
+   "ts": "2026-11-16T07:20:00Z"
+  },
+  {
+   "id": "etoro-more-layoffs-2026111607",
+   "type": "news",
+   "cat": "crypto",
+   "tags": [
+    "crypto",
+    "business",
+    "markets"
+   ],
+   "date": "Sun Nov 15",
+   "headline": "eToro plans more layoffs as profit falls 74% and shares sit far below the IPO price",
+   "caption": "Weaker crypto trading hit the trading app's third quarter. Its stock is near $22.50, versus a $52 IPO price in May 2025.",
+   "visual": {
+    "type": "vs",
+    "title": "eToro share price",
+    "a": [
+     "IPO (May 2025)",
+     "$52",
+     1,
+     "acc"
+    ],
+    "b": [
+     "Nov. 13",
+     "$22.50",
+     0.43,
+     "loss"
+    ],
+    "foot": "Market value about $1.8B, down from ~$4.4B at IPO"
+   },
+   "detail": [
+    "Trading platform eToro plans another round of job cuts in the coming weeks, affecting dozens of workers, according to CTech. It cut about 105 jobs, roughly 7% of staff, in January.",
+    "Third-quarter net income fell 74% to $15 million as crypto trading slowed. Net contribution, its key revenue measure, dropped 13% to $186 million, even as funded accounts rose 18% to 4.39 million."
+   ],
+   "money": [
+    "When crypto trading cools, broker revenues fall fast; a broker's stock can swing more than the market itself.",
+    "If you trade on an app, compare fees and spreads; a lower-cost platform can save more than chasing returns.",
+    "IPO stocks often fall below their debut price; waiting for a few quarters of results can reduce risk."
+   ],
+   "risk": [
+    "More crypto weakness could keep pressure on eToro's results and stock."
+   ],
+   "sources": [
+    {
+     "t": "eToro set for another round of layoffs as profits plunge and valuation slides",
+     "d": "calcalistech.com",
+     "u": "https://calcalistech.com/ctechnews/article/kz5juy6e0"
+    }
+   ],
+   "ts": "2026-11-16T07:20:00Z"
+  },
+  {
+   "id": "apple-openevidence-health-ai-study-2026111607",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "benefits"
+   ],
+   "date": "Sun Nov 15",
+   "headline": "Apple launches a health AI study app, seeking up to 200,000 iPhone users",
+   "caption": "Built with OpenEvidence, the app answers health questions using medical journals. Apple says data won't train AI models.",
+   "visual": {
+    "type": "points",
+    "title": "Apple's health AI study",
+    "items": [
+     "Up to 200,000 US users, 12+ months",
+     "Needs iPhone 15 or later and iOS 26",
+     "Answers drawn from NEJM, JAMA and Nature",
+     "Query data deleted after 24 hours",
+     "Optional HealthKit sharing for tailored answers"
+    ]
+   },
+   "detail": [
+    "Apple and OpenEvidence released a US study app that answers everyday health questions using clinical sources such as The New England Journal of Medicine and JAMA. Users over 21 with an iPhone 15 or newer and Apple Intelligence can join.",
+    "Participants can rate answers and may share data like sleep and heart rate. Apple says data is anonymized and won't be used to train AI, and OpenEvidence deletes queries after 24 hours. OpenAI has said users ask it over 300 million health questions a week."
+   ],
+   "money": [
+    "Using a free AI tool to prepare questions before a doctor visit can make a paid appointment more productive.",
+    "AI answers can help you understand a bill or a diagnosis, but confirm with your provider before skipping care.",
+    "Check if your insurer offers a free nurse line; it can save an urgent care copay for simple questions."
+   ],
+   "risk": [
+    "AI health answers can be wrong; they are not a substitute for a doctor."
+   ],
+   "sources": [
+    {
+     "t": "Apple launches new app to study how people use AI for health",
+     "d": "techcrunch.com",
+     "u": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/"
+    }
+   ],
+   "ts": "2026-11-16T07:20:00Z"
+  },
+  {
+   "id": "korea-ai-buildout-hynix-samsung-sds-2026111607",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "markets",
+    "world"
+   ],
+   "date": "Mon Nov 16",
+   "headline": "Korea AI push: SK Hynix pledges $1.05B; Samsung SDS courts Anthropic and OpenAI",
+   "caption": "SK Hynix will back local chip suppliers over five years. Samsung SDS is in early talks to land big AI labs as data-center tenants, per the FT.",
+   "visual": {
+    "type": "deals",
+    "title": "Korea's AI money moves",
+    "items": [
+     {
+      "a": "SK Hynix",
+      "b": "Domestic chip suppliers",
+      "amt": "$1.05B",
+      "st": "1.4T won over 5 years",
+      "c": "ok"
+     },
+     {
+      "a": "SK Hynix",
+      "b": "Trinity Fab test site",
+      "amt": "~$654M",
+      "st": "Opens 2027",
+      "c": "ok"
+     },
+     {
+      "a": "Samsung SDS",
+      "b": "Anthropic, OpenAI",
+      "amt": "Talks",
+      "st": "Data-center tenants, early stage",
+      "c": "pend"
+     }
+    ]
+   },
+   "detail": [
+    "SK Hynix said it will spend 1.4 trillion won, about $1.05 billion, over five years to support Korean makers of chip materials, parts and equipment. It is also building an 874.6 billion won testing cleanroom inside its Yongin plant.",
+    "Separately, the Financial Times reported that Samsung SDS is in early talks with Anthropic and OpenAI to anchor its Korean AI data centers. Its Gumi site broke ground Nov. 2 at 60MW and can grow to 120MW."
+   ],
+   "money": [
+    "Memory makers are central to AI spending; funds that hold Asian chip stocks can be volatile around Nvidia's earnings this week.",
+    "Spreading tech investments across countries can cut the risk of betting on one company.",
+    "Supplier spending often signals future demand; watch whether these plans hold if the AI sell-off deepens."
+   ],
+   "risk": [
+    "The Samsung SDS talks are early and may not produce deals.",
+    "Chip stocks fell sharply in Asia today."
+   ],
+   "sources": [
+    {
+     "t": "AI News Today, November 16: Top Stories",
+     "d": "aiweekly.co",
+     "u": "https://aiweekly.co/ai-news-today"
+    },
+    {
+     "t": "SK Hynix to spend $1 billion over five years to support chip suppliers",
+     "d": "reuters.com",
+     "u": "https://www.reuters.com/world/asia-pacific/sk-hynix-spend-1-billion-over-five-years-support-chip-suppliers-2026-11-16/"
+    }
+   ],
+   "ts": "2026-11-16T07:20:00Z"
+  },
+  {
+   "id": "epoch-huawei-horinger-2026111607",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "world"
+   ],
+   "date": "Mon Nov 16",
+   "headline": "Huawei's big AI data center is about 7% the size of xAI's Colossus 2, Epoch estimates",
+   "caption": "Epoch AI pegs Huawei's Horinger site at about 81,000 H100-equivalents. US rivals are scaling toward 1.8 million.",
+   "visual": {
+    "type": "board",
+    "title": "AI compute gap (H100-equivalents)",
+    "rows": [
+     {
+      "k": "Huawei Horinger today",
+      "s": "286MW",
+      "v": "~81,000",
+      "tone": "acc"
+     },
+     {
+      "k": "Horinger by early 2028",
+      "s": "projected",
+      "v": "~141,000"
+     },
+     {
+      "k": "US peers scaling toward",
+      "v": "1.8M",
+      "tone": "gain"
+     },
+     {
+      "k": "Share of Colossus 2",
+      "v": "~7%"
+     }
+    ]
+   },
+   "detail": [
+    "Research group Epoch AI estimates Huawei's Horinger data center runs about 105,000 Ascend 910C chips and 8,000 910B chips, equal to roughly 81,000 Nvidia H100s, using 286 megawatts.",
+    "That is about 7% of the computing power of Colossus 2. Epoch projects Horinger reaching about 141,000 H100-equivalents by early 2028, while top US sites scale toward 1.8 million."
+   ],
+   "money": [
+    "The US-China compute gap is a big reason export controls matter for Nvidia's sales; watch for policy news around this week's Trump-Xi meeting.",
+    "AI infrastructure spending supports power and utility demand; some investors use utility funds as a steadier AI play.",
+    "Estimates from outside researchers can move stocks; wait for company data before acting on them."
+   ],
+   "risk": [
+    "These are outside estimates, not official Huawei figures."
+   ],
+   "sources": [
+    {
+     "t": "AI News Today, November 16: Top Stories",
+     "d": "aiweekly.co",
+     "u": "https://aiweekly.co/ai-news-today"
+    },
+    {
+     "t": "What Huawei's Horinger data center tells us",
+     "d": "epochai.substack.com",
+     "u": "https://epochai.substack.com/p/what-huaweis-horinger-data-center"
+    }
+   ],
+   "ts": "2026-11-16T07:20:00Z"
+  },
+  {
+   "id": "medicare-32000-may-lose-2026111607",
+   "type": "news",
+   "cat": "benefits",
+   "tags": [
+    "benefits",
+    "immigration"
+   ],
+   "date": "This week",
+   "headline": "About 32,000 people could lose Medicare on Feb. 1 under new immigrant eligibility rules",
+   "caption": "Social Security sent notices Nov. 10 to enrollees whose immigration status it can't confirm. US citizens and green card holders are not affected.",
+   "visual": {
+    "type": "timeline",
+    "title": "Medicare eligibility change",
+    "items": [
+     {
+      "d": "JUL 2025",
+      "t": "OBBBA narrows eligibility"
+     },
+     {
+      "d": "NOV 10",
+      "t": "SSA mails notices",
+      "now": true
+     },
+     {
+      "d": "FEB 1 2027",
+      "t": "Coverage may end",
+      "s": "unless status is verified"
+     }
+    ]
+   },
+   "detail": [
+    "The Social Security Administration sent notices on Nov. 10 saying some Medicare enrollees could lose coverage Feb. 1, 2027, unless they prove their immigration status by the deadline in their letter. CMS estimates about 32,000 people are affected.",
+    "The change comes from the July 2025 tax and spending law, which removed refugees, asylum grantees, TPS holders and others from Medicare eligibility. Green card holders, Cuban-Haitian entrants and certain Pacific Island migrants remain eligible. More than 70 million people are on Medicare."
+   ],
+   "money": [
+    "If you or a family member got an SSA notice, respond before the deadline in the letter; missing it can mean losing coverage.",
+    "People losing Medicare should check other options such as ACA marketplace plans or community health centers.",
+    "Keep copies of immigration documents and SSA letters; they speed up any appeal."
+   ],
+   "risk": [
+    "Similar eligibility limits now apply to Medicaid and SNAP, so some families could lose several benefits at once."
+   ],
+   "sources": [
+    {
+     "t": "32,000 to lose Medicare as 2027 deadline approaches",
+     "d": "yahoo.com",
+     "u": "https://www.yahoo.com/news/politics/articles/32-000-lose-medicare-2027-165410230.html"
+    }
+   ],
+   "ts": "2026-11-16T07:20:00Z"
+  },
+  {
+   "id": "illinois-24b-budget-gap-2026111607",
+   "type": "news",
+   "cat": "states",
+   "tags": [
+    "states",
+    "benefits",
+    "taxes"
+   ],
+   "date": "Sun Nov 15",
+   "headline": "Illinois projects a $2.4 billion budget gap next year despite a surplus now",
+   "caption": "Gov. Pritzker's budget office sees deficits for five years straight. Federal SNAP changes add new costs.",
+   "visual": {
+    "type": "board",
+    "title": "Illinois budget outlook",
+    "rows": [
+     {
+      "k": "FY2028 gap",
+      "v": "$2.4B",
+      "tone": "loss"
+     },
+     {
+      "k": "Peak gap (FY2029)",
+      "v": "~$2.8B",
+      "tone": "loss"
+     },
+     {
+      "k": "This year's surplus",
+      "s": "before new spending",
+      "v": "$927M",
+      "tone": "gain"
+     },
+     {
+      "k": "New SNAP admin cost",
+      "s": "per year",
+      "v": "$80M"
+     },
+     {
+      "k": "Rainy-day fund",
+      "s": "vs. 47.9-day median",
+      "v": "16.2 days"
+     }
+    ]
+   },
+   "detail": [
+    "A new report from Gov. JB Pritzker's budget office projects a $2.4 billion shortfall in fiscal 2028, with deficits each of the next five years, peaking near $2.8 billion in 2029.",
+    "Illinois still expects a surplus this year after revenue came in $1.08 billion higher. Federal SNAP changes will add about $80 million a year in admin costs, and the state's high error rate could bring a $428 million cost in 2029. The forecast also drops $261 million from a social media fee and digital asset tax due to lawsuits."
+   ],
+   "money": [
+    "Budget gaps often lead to fee hikes or tax changes; Illinois residents should watch the February budget proposal.",
+    "SNAP recipients should report income changes on time; error rates now carry real costs for states.",
+    "Illinois municipal bond holders may see ratings attention if gaps persist."
+   ],
+   "risk": [
+    "The plan to close the gap isn't complete yet, so cuts or new taxes are possible."
+   ],
+   "sources": [
+    {
+     "t": "Illinois projects $2.4 billion budget gap next year as federal funding changes add pressure",
+     "d": "sjodaily.com",
+     "u": "https://sjodaily.com/2026/11/15/illinois-projects-2-4-billion-budget-gap-next-year-as-federal-funding-changes-add-pressure"
+    }
+   ],
+   "ts": "2026-11-16T07:20:00Z"
+  },
+  {
+   "id": "ny-8b-windfall-childcare-taxes-2026111607",
+   "type": "news",
+   "cat": "states",
+   "tags": [
+    "states",
+    "taxes",
+    "politics"
+   ],
+   "date": "Sun Nov 15",
+   "headline": "New York's tax take runs $8B ahead, but a child care plan sparks tax-hike worries",
+   "caption": "The state projects a $9 billion surplus this year. Gaps grow to $8.9 billion by 2030, and Gov. Hochul hasn't named a child care funding source.",
+   "visual": {
+    "type": "board",
+    "title": "New York's budget picture",
+    "rows": [
+     {
+      "k": "Tax receipts forecast raised",
+      "v": "+$8.1B",
+      "tone": "gain"
+     },
+     {
+      "k": "Surplus this year",
+      "v": "$9B",
+      "tone": "gain"
+     },
+     {
+      "k": "FY2028 gap",
+      "v": "$2.9B",
+      "tone": "loss"
+     },
+     {
+      "k": "FY2030 gap",
+      "v": "$8.9B",
+      "tone": "loss"
+     }
+    ],
+    "foot": "Executive budget due Feb. 1, 2027"
+   },
+   "detail": [
+    "New York raised its general fund tax forecast by $8.1 billion and expects $9 billion in surplus resources this year, to rebuild reserves and prepay debt.",
+    "Republican state Sen. Tom O'Mara warned that expanding child care could lead to tax hikes. The budget director said on Nov. 9 that talk of tax increases is premature. Projected gaps reach $2.9 billion in fiscal 2028 and $8.9 billion in 2030."
+   ],
+   "money": [
+    "New York parents should watch the State of the State address for child care subsidy details that could cut costs.",
+    "If tax hikes come, they often target high earners first; planning income timing with a tax pro can help.",
+    "Dependent care FSAs can save on child care costs now; check if your employer offers one during open enrollment."
+   ],
+   "risk": [
+    "Revenue tied to Wall Street can drop fast if markets fall."
+   ],
+   "sources": [
+    {
+     "t": "O'Mara warns of higher taxes as New York weighs how to pay for expanded child care",
+     "d": "fingerlakes1.com",
+     "u": "https://fingerlakes1.com/2026/11/15/omara-warns-of-higher-taxes-as-new-york-weighs-how-to-pay-for-expanded-child-care"
+    }
+   ],
+   "ts": "2026-11-16T07:20:00Z"
+  },
+  {
+   "id": "nyc-budget-129b-2026111607",
+   "type": "news",
+   "cat": "states",
+   "tags": [
+    "states",
+    "benefits"
+   ],
+   "date": "This week",
+   "headline": "NYC's budget grows $3 billion to $129.2 billion as Wall Street taxes beat forecasts",
+   "caption": "Mayor Mamdani's update adds SNAP admin money tied to federal cuts. Watchdogs warn of $6 billion-plus gaps ahead.",
+   "visual": {
+    "type": "stat",
+    "title": "NYC FY2027 budget",
+    "num": "$129.2B",
+    "tone": "acc",
+    "label": "Up about $3 billion since June.",
+    "facts": [
+     [
+      "Taxes above plan",
+      "~$1B",
+      "this fiscal year"
+     ],
+     [
+      "FY2028 gap",
+      "$6B+",
+      "per comptroller"
+     ],
+     [
+      "Savings found",
+      "~$250M",
+      "of a ~$1B goal"
+     ]
+    ]
+   },
+   "detail": [
+    "Mayor Zohran Mamdani's administration presented a balanced $129.2 billion budget for fiscal 2027, about $3 billion more than in June. Tax collections are running nearly $1 billion above projections, helped by Wall Street.",
+    "New spending includes SNAP administration tied to federal cuts. The city faces future gaps of $6 billion to $9 billion, and has found only about $250 million of a roughly $1 billion savings target."
+   ],
+   "money": [
+    "NYC SNAP households should keep paperwork current, since new federal rules raise verification demands.",
+    "City budget gaps can mean fee increases; watch for changes in fines, permits and transit-related costs.",
+    "A Wall Street downturn would hit city revenue; NYC bond investors should watch the comptroller's outlook."
+   ],
+   "risk": [
+    "Officials warn AI-driven market gains could reverse and shrink tax revenue."
+   ],
+   "sources": [
+    {
+     "t": "NYC budget grows $3 billion in November modification",
+     "d": "cityandstateny.com",
+     "u": "https://cityandstateny.com/policy/2026/11/nyc-budget-grows-3-billion-november-modification/417201"
+    }
+   ],
+   "ts": "2026-11-16T07:20:00Z"
+  },
+  {
+   "id": "pa-delaware-loophole-taxes-2026111607",
+   "type": "news",
+   "cat": "taxes",
+   "tags": [
+    "taxes",
+    "states",
+    "business"
+   ],
+   "date": "Sun Nov 15",
+   "headline": "Pennsylvania's 'Delaware loophole' costs billions; a fix sits stalled in the Senate",
+   "caption": "Over two-thirds of companies operating in the state pay no corporate income tax. A combined reporting bill could raise about $1.5 billion a year.",
+   "visual": {
+    "type": "board",
+    "title": "Pennsylvania corporate taxes",
+    "rows": [
+     {
+      "k": "Corporate share of revenue, 1972",
+      "v": "30%"
+     },
+     {
+      "k": "Corporate share, 2023-24",
+      "v": "12%",
+      "tone": "loss"
+     },
+     {
+      "k": "Yearly revenue gap (est.)",
+      "v": "$2.2-3.0B",
+      "tone": "loss"
+     },
+     {
+      "k": "Combined reporting could raise",
+      "v": "$1.54B",
+      "tone": "gain"
+     },
+     {
+      "k": "States with this loophole",
+      "v": "18"
+     }
+    ]
+   },
+   "detail": [
+    "Multistate companies can set up Delaware subsidiaries that collect royalties from their Pennsylvania operations. The royalties are deducted in Pennsylvania and go untaxed in Delaware. Pennsylvania is one of 18 states that still allow it, according to ITEP.",
+    "HB 1610, which would require combined reporting, passed the state House 104-99 in June 2025 but has sat in the Senate Finance Committee since September 2025. The state Chamber of Business and Industry opposes it. Meanwhile, some school districts have raised local taxes nearly 5%."
+   ],
+   "money": [
+    "When state revenue falls short, local property taxes often rise; Pennsylvania homeowners should check for homestead exclusion savings.",
+    "Small business owners can compare their effective tax rate to bigger rivals; state rules may favor complex structures.",
+    "Watch for this issue in the 2027 session, as Democrats push new revenue ideas."
+   ],
+   "risk": [
+    "The bill faces strong business opposition and may not pass."
+   ],
+   "sources": [
+    {
+     "t": "Big corporations dodge taxes as Pennsylvania families pick up the tab",
+     "d": "inquirer.com",
+     "u": "https://inquirer.com/business/pennsylvania-corporations-dodge-taxes-20261115.html"
+    }
+   ],
+   "ts": "2026-11-16T07:20:00Z"
+  },
+  {
+   "id": "houthis-hit-saudi-pipeline-2026111607",
+   "type": "news",
+   "cat": "world",
+   "tags": [
+    "world",
+    "markets"
+   ],
+   "date": "Sun Nov 15",
+   "headline": "Houthis claim drone hits on Saudi oil pumping stations and missiles at Riyadh",
+   "caption": "The group says it struck two stations on Saudi Arabia's East-West Pipeline. Saudi forces report intercepting drones; the claims weren't verified.",
+   "visual": {
+    "type": "points",
+    "title": "Yemen escalation",
+    "items": [
+     "Drone claims on pumping stations 5 and 6",
+     "Missile claims on Riyadh airport, financial center",
+     "Saudi side reports intercepts over Mecca, Medina",
+     "Yemeni government forces pull back near Bab al-Mandab"
+    ]
+   },
+   "detail": [
+    "Yemen's Houthis said two drones struck pumping stations No. 5 and No. 6 on Saudi Arabia's East-West Pipeline, and that ballistic missiles targeted King Khalid International Airport and a financial center in Riyadh. Xinhua said the claims could not be independently verified.",
+    "The Saudi-led coalition reported intercepting drones over the Mecca and Medina regions. Government-aligned forces withdrew from positions overlooking the Bab al-Mandab Strait, a key shipping lane, as fighting widened alongside the Iran-Hormuz standoff."
+   ],
+   "money": [
+    "The East-West Pipeline lets Saudi oil bypass Hormuz; threats to it can push up oil and gas prices.",
+    "Higher fuel costs hit budgets first at the pump; filling up when prices dip can help.",
+    "Energy stocks and funds often rise on supply scares but can fall fast if tensions ease."
+   ],
+   "risk": [
+    "Claims from both sides are unverified, and markets may overreact either way."
+   ],
+   "sources": [
+    {
+     "t": "Houthis claim fresh strikes on Saudi Arabia amid battlefield gains in Yemen",
+     "d": "news.cn",
+     "u": "https://english.news.cn/20261116/609c2bf6e43a43efbdb69f6ea0301453/c.html"
+    },
+    {
+     "t": "Newsquawk Daily European Opening News - 16th November 2026",
+     "d": "newsquawk.com",
+     "u": "https://www.newsquawk.com/headlines/newsquawk-daily-european-opening-news---16th-november-2026"
+    }
+   ],
+   "ts": "2026-11-16T07:20:00Z"
+  },
+  {
+   "id": "zelensky-donbas-nato-question-2026111607",
+   "type": "news",
+   "cat": "world",
+   "tags": [
+    "world",
+    "politics"
+   ],
+   "date": "Sat Nov 14 - Sun Nov 15",
+   "headline": "Zelensky: US envoys asked if Ukraine would leave Donbas in exchange for NATO",
+   "caption": "He said it was the first time the question came up, and any formal offer would go to the public. The Kremlin says it will reach its goals by force if talks fail.",
+   "visual": {
+    "type": "timeline",
+    "title": "Ukraine peace talks",
+    "items": [
+     {
+      "d": "NOV 11",
+      "t": "Abu Dhabi talks end",
+      "s": "no ceasefire deal"
+     },
+     {
+      "d": "NOV 14",
+      "t": "Zelensky reveals NATO-for-Donbas question"
+     },
+     {
+      "d": "NOV 15",
+      "t": "Peskov: force if no security deal",
+      "now": true
+     }
+    ]
+   },
+   "detail": [
+    "Ukrainian President Volodymyr Zelensky said US envoys asked whether Ukraine would withdraw from the Donbas if it joined NATO. He said Ukraine is preparing a security package with NATO and EU guarantees, time-limited financial support and a funded recovery plan.",
+    "Three-way talks among Russia, the US and Ukraine ended in Abu Dhabi last week with no ceasefire. Kremlin spokesman Dmitry Peskov said Russia will reach its goals by force if no security deal with Europe is reached. Separately, the EU is proposing a 45 billion euro loan for Ukraine."
+   ],
+   "money": [
+    "Peace headlines can move oil, wheat and European defense stocks; avoid chasing short-term swings.",
+    "A real ceasefire could ease energy prices over time, which would help household budgets.",
+    "Defense stocks have run up on the war; a deal could hit them, so check your exposure."
+   ],
+   "risk": [
+    "Nothing has been formally offered, and talks have stalled before."
+   ],
+   "sources": [
+    {
+     "t": "Washington links NATO entry to Kyiv's Donbas pullout",
+     "d": "chinadaily.com.cn",
+     "u": "https://global.chinadaily.com.cn/a/202611/16/WS6afa61bfe4b03ebf8519c8ba.html"
+    },
+    {
+     "t": "Newsquawk Daily European Opening News - 16th November 2026",
+     "d": "newsquawk.com",
+     "u": "https://www.newsquawk.com/headlines/newsquawk-daily-european-opening-news---16th-november-2026"
+    }
+   ],
+   "ts": "2026-11-16T07:20:00Z"
+  },
+  {
+   "id": "estonia-closes-russia-border-2026111607",
+   "type": "news",
+   "cat": "world",
+   "tags": [
+    "world",
+    "business"
+   ],
+   "date": "Mon Nov 16",
+   "headline": "Estonia will close its Russia border crossings Dec. 1 after a suspected sabotage attack",
+   "caption": "The move follows a suspected GRU-linked attack on a drone maker. It is one of several security alarms across Europe this weekend.",
+   "visual": {
+    "type": "points",
+    "title": "Europe security watch",
+    "items": [
+     "Estonia shuts Russia crossings from Dec. 1",
+     "Trigger: suspected GRU-linked sabotage of a drone maker",
+     "Suspicious drones reported at RAF Lakenheath, no damage",
+     "Australia and the Philippines sign a defense pact"
+    ]
+   },
+   "detail": [
+    "Estonia said it will close its border crossings with Russia from Dec. 1, after a suspected sabotage attack on a drone maker linked to Russia's GRU military intelligence.",
+    "In the UK, suspicious drone activity was reported at RAF Lakenheath, with no damage. Australia and the Philippines signed a new defense pact the same weekend."
+   ],
+   "money": [
+    "Border closures can disrupt freight routes and raise costs for goods moving between the Baltics and Russia.",
+    "European defense spending keeps rising; diversified funds may already hold these stocks.",
+    "Travelers to the Baltics should check routes and insurance for possible disruptions."
+   ],
+   "risk": [
+    "Escalation in the Baltics could unsettle European markets."
+   ],
+   "sources": [
+    {
+     "t": "Newsquawk Daily European Opening News - 16th November 2026",
+     "d": "newsquawk.com",
+     "u": "https://www.newsquawk.com/headlines/newsquawk-daily-european-opening-news---16th-november-2026"
+    }
+   ],
+   "ts": "2026-11-16T07:20:00Z"
+  },
+  {
+   "id": "uk-house-prices-boe-hikes-2026111607",
+   "type": "news",
+   "cat": "world",
+   "tags": [
+    "world",
+    "markets"
+   ],
+   "date": "Mon Nov 16",
+   "headline": "UK asking prices drop 1.8% in November as the BoE's chief economist eyes more hikes",
+   "caption": "Rightmove's index fell 1.8% on the month and 0.2% on the year. BoE's Huw Pill expects further rate hikes in 2027.",
+   "visual": {
+    "type": "stat",
+    "title": "UK house asking prices (Rightmove)",
+    "num": "-1.8%",
+    "tone": "loss",
+    "label": "November change, after a 1.0% rise in October.",
+    "rows": [
+     [
+      "Month",
+      -1.8
+     ],
+     [
+      "Year",
+      -0.2
+     ],
+     [
+      "Prior month",
+      1.0
+     ]
+    ]
+   },
+   "detail": [
+    "Rightmove said average UK asking prices fell 1.8% in November after rising 1.0% in October, and are down 0.2% from a year ago.",
+    "Bank of England chief economist Huw Pill said he expects more rate hikes in 2027, and policymaker Megan Greene favored acting early against inflation. UK inflation and jobs data are due this week."
+   ],
+   "money": [
+    "Rising rates abroad and at home both point to costlier borrowing; lock fixed rates where it makes sense.",
+    "Falling asking prices can give buyers room to negotiate, in the UK and in cooling US markets.",
+    "A stronger case for hikes can lift savings yields; shop around for better rates."
+   ],
+   "risk": [
+    "Asking prices are not sale prices, so actual values may differ."
+   ],
+   "sources": [
+    {
+     "t": "Newsquawk Daily European Opening News - 16th November 2026",
+     "d": "newsquawk.com",
+     "u": "https://www.newsquawk.com/headlines/newsquawk-daily-european-opening-news---16th-november-2026"
+    }
+   ],
+   "ts": "2026-11-16T07:20:00Z"
+  },
+  {
+   "id": "edu-fed-hike-your-wallet-2026111607",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "markets"
+   ],
+   "date": "Explainer",
+   "headline": "What a Fed rate hike does to your wallet",
+   "caption": "Fed officials are signaling another hike Dec. 9. Here's how one move ripples into your loans and savings.",
+   "scenes": [
+    {
+     "k": "TODAY'S NEWS",
+     "t": "The Fed may raise rates again on Dec. 9",
+     "s": "Officials say inflation is running too hot."
+    },
+    {
+     "k": "THE RATE",
+     "t": "Fed funds now: 3.75% to 4.00%",
+     "s": "That's what banks charge each other overnight."
+    },
+    {
+     "k": "THE RIPPLE",
+     "t": "Banks pass it along fast",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "Fed hikes",
+       "Prime rate rises",
+       "Card and HELOC rates rise",
+       "Savings yields rise"
+      ]
+     }
+    },
+    {
+     "k": "AN EXAMPLE",
+     "t": "A quarter point on $5,000 of card debt",
+     "viz": {
+      "type": "split",
+      "items": [
+       [
+        "Debt",
+        "$5,000"
+       ],
+       [
+        "Extra rate",
+        "0.25%"
+       ],
+       [
+        "Extra cost per year",
+        "about $12.50",
+        "wide"
+       ]
+      ]
+     },
+     "say": "On five thousand dollars of card debt, a quarter-point hike adds about twelve dollars and fifty cents a year in interest."
+    },
+    {
+     "k": "THE UPSIDE",
+     "t": "Savers can earn more",
+     "s": "High-yield savings and T-bills tend to pay more after hikes."
+    },
+    {
+     "k": "YOUR MOVE",
+     "t": "Pay down variable debt, shop savings rates",
+     "s": "Fixed-rate loans don't change; variable ones do."
+    }
+   ],
+   "ts": "2026-11-16T07:20:00Z"
+  },
+  {
+   "id": "edu-rainy-day-fund-2026111607",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "states"
+   ],
+   "date": "Explainer",
+   "headline": "Rainy-day funds: why 'days of cash' matters, for states and you",
+   "caption": "Illinois has a record rainy-day fund, but it covers only about 16 days. Here's how to think about your own cushion.",
+   "scenes": [
+    {
+     "k": "TODAY'S NEWS",
+     "t": "Illinois sees a $2.4B gap next year",
+     "s": "Its rainy-day fund is a record $2.58 billion."
+    },
+    {
+     "k": "BUT",
+     "t": "That only covers about 16 days",
+     "viz": {
+      "type": "split",
+      "items": [
+       [
+        "Illinois",
+        "16.2 days"
+       ],
+       [
+        "National median",
+        "47.9 days"
+       ],
+       [
+        "Gap",
+        "about 32 days",
+        "wide"
+       ]
+      ]
+     },
+     "say": "Illinois' fund covers about sixteen days of operations, while the typical state covers about forty-eight."
+    },
+    {
+     "k": "THE IDEA",
+     "t": "Size matters less than time covered",
+     "s": "A big number can still run out fast."
+    },
+    {
+     "k": "FOR YOU",
+     "t": "Count months, not dollars",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "Add up monthly must-pay bills",
+       "Divide savings by that total",
+       "That's your months of cushion"
+      ]
+     }
+    },
+    {
+     "k": "A COMMON GOAL",
+     "t": "Many aim for 3 to 6 months",
+     "s": "More if your job or income is less steady."
+    },
+    {
+     "k": "YOUR MOVE",
+     "t": "Automate a small transfer each payday",
+     "s": "Steady saving builds the cushion before you need it."
+    }
+   ],
+   "ts": "2026-11-16T07:20:00Z"
+  },
   {
    "id": "ai-national-champions-2026111606",
    "type": "news",
@@ -10901,1228 +12069,6 @@
      "u": "https://www.washingtonexaminer.com/news/4779184/december-supplemental-security-direct-payment-up-to-994-goes-out-in-16-days/"
     }
    ]
-  },
-  {
-   "id": "ohio-acton-tax-2026111519",
-   "type": "news",
-   "cat": "states",
-   "tags": [
-    "states",
-    "taxes"
-   ],
-   "date": "This week",
-   "ts": "2026-11-15T19:00:00Z",
-   "headline": "Ohio's governor-elect proposes up to $1,000 rebates for big property tax jumps",
-   "caption": "Amy Acton wants rebates for homeowners whose bills rise over 4%. It needs approval from the Republican legislature.",
-   "visual": {
-    "type": "board",
-    "title": "Acton's property tax plan",
-    "rows": [
-     {
-      "k": "Rebate",
-      "s": "if tax rises over 4%",
-      "v": "Up to $1,000"
-     },
-     {
-      "k": "Income limit",
-      "s": "for rebate",
-      "v": "$132,000"
-     },
-     {
-      "k": "Home value cap",
-      "v": "$350,000"
-     },
-     {
-      "k": "Senior exemption",
-      "s": "income limit",
-      "v": "$41K → $50K",
-      "tone": "gain"
-     }
-    ],
-    "foot": "About 55,000 more seniors could qualify, Acton estimates."
-   },
-   "detail": [
-    "Ohio Governor-elect Amy Acton, who takes office Jan. 11, proposed four steps to ease property taxes. The biggest is a rebate of up to $1,000 for homeowners whose taxes rise more than 4% in a year.",
-    "Rebates would go to households earning under $132,000 with homes worth $350,000 or less. She'd also raise the senior homestead exemption income limit from $41,000 to $50,000, adding about 55,000 homeowners.",
-    "She also wants full school funding to cut reliance on local levies, plus limits on tax lien sales where investors can charge up to 18% interest."
-   ],
-   "money": [
-    "Ohio seniors near the income limit should watch the homestead exemption change.",
-    "Behind on property taxes? Talk to your county before your debt is sold to an investor.",
-    "Track your tax bill each year so you can show a jump over 4%."
-   ],
-   "risk": [
-    "It's a proposal; the legislature could change or reject it."
-   ],
-   "sources": [
-    {
-     "t": "Ohio Governor-Elect Amy Acton Proposes Property Tax Relief for Homeowners",
-     "d": "rivernews.org",
-     "u": "https://rivernews.org/2026/11/13/ohio-governor-elect-amy-acton-proposes-property-tax-relief-for-homeowners/"
-    }
-   ]
-  },
-  {
-   "id": "colorado-deficit-2026111519",
-   "type": "news",
-   "cat": "states",
-   "tags": [
-    "states",
-    "benefits"
-   ],
-   "date": "Thu Nov 12",
-   "ts": "2026-11-15T19:00:00Z",
-   "headline": "Colorado faces a $1.6 billion budget gap as Medicaid costs climb",
-   "caption": "Gov. Polis presented a $51.2 billion budget plan and warned Medicaid could eat new revenue. It's Colorado's third straight $1B+ shortfall.",
-   "visual": {
-    "type": "board",
-    "title": "Colorado budget",
-    "rows": [
-     {
-      "k": "Shortfall",
-      "v": "~$1.6B",
-      "tone": "loss"
-     },
-     {
-      "k": "Proposed budget",
-      "s": "FY 2027-28",
-      "v": "$51.2B"
-     },
-     {
-      "k": "General fund",
-      "v": "$18.9B"
-     },
-     {
-      "k": "Reserve",
-      "s": "proposed",
-      "v": "7.25% → 13.05%",
-      "tone": "acc"
-     }
-    ]
-   },
-   "detail": [
-    "Colorado faces a budget shortfall of nearly $1.6 billion, its third year in a row above $1 billion. Gov. Jared Polis presented a $51.2 billion plan on Nov. 12.",
-    "Polis warned Medicaid costs could soak up the roughly $2 billion a year in new revenue from Amendment 87 within a few years. His plan would also raise reserves from 7.25% to 13.05%.",
-    "An updated budget is due Jan. 2. Lawmakers will negotiate with Governor-elect Phil Weiser's team."
-   ],
-   "money": [
-    "Colorado Medicaid users should watch for benefit or provider changes in the coming budget.",
-    "State cuts can hit local services and fees. Watch your city and school budgets too.",
-    "Budget gaps can lead to tax or fee proposals. Follow the January plan."
-   ],
-   "risk": [
-    "Cuts may fall on schools, roads or health programs."
-   ],
-   "sources": [
-    {
-     "t": "'No money left': Colorado faces $1.6 billion budget deficit",
-     "d": "coloradopolitics.com",
-     "u": "https://coloradopolitics.com/2026/11/13/no-money-left-colorado-faces-1-6-billion-budget-deficit"
-    }
-   ]
-  },
-  {
-   "id": "appleton-ice-2026111519",
-   "type": "news",
-   "cat": "immigration",
-   "tags": [
-    "immigration",
-    "states"
-   ],
-   "date": "Sat Nov 14",
-   "ts": "2026-11-15T19:00:00Z",
-   "headline": "Minnesota ICE center bought for $495.6M draws protests in first weekend",
-   "caption": "A former private prison in Appleton, Minn., reopened as an ICE detention site Nov. 9. It could hold up to 1,600 people.",
-   "visual": {
-    "type": "stat",
-    "title": "Appleton detention center",
-    "num": "$495.6M",
-    "tone": "acc",
-    "label": "What the government paid for a prison listed at $75 million, per KARE 11.",
-    "facts": [
-     [
-      "Capacity",
-      "Up to 1,600",
-      "beds, per Sahan Journal"
-     ],
-     [
-      "Held now",
-      "70+",
-      "per organizers"
-     ],
-     [
-      "Opened",
-      "Nov 9",
-      "per DHS"
-     ]
-    ]
-   },
-   "detail": [
-    "DHS says the Appleton, Minnesota, detention facility opened Nov. 9. The former CoreCivic prison sat empty from 2010 until ICE bought it in August.",
-    "KARE 11 reported the government paid $495.6 million for a site listed at $75 million. It could hold up to 1,600 people. Organizers say more than 70 are held there now.",
-    "Dozens gathered for a prayer vigil and rally Saturday, the site's first weekend of operation."
-   ],
-   "money": [
-    "Detention sites can bring local jobs and contracts, but also costs and lawsuits. Watch county budget talks.",
-    "Families with a detained relative should line up legal help fast. Bond and attorney costs add up.",
-    "Keep copies of work permits and pending case papers handy."
-   ],
-   "risk": [
-    "The purchase price is drawing scrutiny and could face review in Congress."
-   ],
-   "sources": [
-    {
-     "t": "Appleton ICE detention facility draws dozens of protesters in first weekend of operation",
-     "d": "mprnews.org",
-     "u": "https://mprnews.org/story/2026/11/15/appleton-ice-detention-facility-draws-protests-in-first-weekend-of-operation"
-    }
-   ]
-  },
-  {
-   "id": "childrens-place-2026111519",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business",
-    "states"
-   ],
-   "date": "Sat Nov 14",
-   "ts": "2026-11-15T19:00:00Z",
-   "headline": "Children's Place plans 1,325 layoffs as every store may close",
-   "caption": "The bankrupt kids' clothing chain filed layoff notices in New Jersey and Alabama. Bids for the company are due Dec. 9.",
-   "visual": {
-    "type": "board",
-    "title": "Children's Place",
-    "rows": [
-     {
-      "k": "New Jersey",
-      "s": "14 counties, Feb 4",
-      "v": "732 jobs",
-      "tone": "loss"
-     },
-     {
-      "k": "Alabama",
-      "s": "Fort Payne DC, Jan 5",
-      "v": "593 jobs",
-      "tone": "loss"
-     },
-     {
-      "k": "Liabilities",
-      "s": "vs $742M assets",
-      "v": "$881M"
-     },
-     {
-      "k": "Bid deadline",
-      "v": "Dec 9"
-     }
-    ]
-   },
-   "detail": [
-    "The Children's Place filed WARN notices covering 1,325 workers: 732 in New Jersey and 593 at its Fort Payne, Alabama, distribution center.",
-    "The company filed for Chapter 11 on Nov. 8 with about $742 million in assets and $881 million in liabilities. Liquidation sales started Nov. 6 at remaining stores.",
-    "It hopes to sell itself, with bids due Dec. 9, and nine proposals reported so far. Without a buyer, it is preparing to liquidate."
-   ],
-   "money": [
-    "Store-closing sales can be good for kids' basics, but compare prices. Early markdowns are often small.",
-    "Use gift cards and store credit now. They can lose value in a bankruptcy.",
-    "Check return rules. Closing sales are usually final."
-   ],
-   "risk": [
-    "Gift cards may stop working if the chain fully closes."
-   ],
-   "sources": [
-    {
-     "t": "The Children's Place plans 1,325 layoffs as all stores face closure risk",
-     "d": "thestreet.com",
-     "u": "https://www.thestreet.com/retail/the-childrens-place-plans-1325-layoffs-as-all-stores-face-closure-risk"
-    },
-    {
-     "t": "Children's Place Chapter 11: New Jersey layoffs",
-     "d": "jobsnhire.com",
-     "u": "https://www.jobsnhire.com/articles/60371/20261113/childrens-place-chapter-11-new-jersey-layoffs.htm"
-    }
-   ]
-  },
-  {
-   "id": "household-debt-2026111519",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business",
-    "markets"
-   ],
-   "date": "This week",
-   "ts": "2026-11-15T19:00:00Z",
-   "headline": "Household debt jumps $334B to $19.1 trillion; card balances hit a record",
-   "caption": "The New York Fed says Americans owe more than ever. 5% of debt is now behind on payments.",
-   "visual": {
-    "type": "board",
-    "title": "US household debt, Q3",
-    "rows": [
-     {
-      "k": "Total",
-      "v": "$19.1T",
-      "s": "+$334B"
-     },
-     {
-      "k": "Mortgages",
-      "v": "$13.37T"
-     },
-     {
-      "k": "Auto loans",
-      "v": "$1.73T"
-     },
-     {
-      "k": "Student loans",
-      "v": "$1.66T"
-     },
-     {
-      "k": "Credit cards",
-      "v": "$1.29T",
-      "tone": "loss"
-     },
-     {
-      "k": "Delinquent",
-      "v": "5.0%",
-      "s": "up 0.3 pt",
-      "tone": "loss"
-     }
-    ]
-   },
-   "detail": [
-    "US household debt rose $334 billion in the third quarter to $19.1 trillion, the New York Fed said. That's $520 billion more than a year earlier.",
-    "Credit card balances reached about $1.29 trillion, a record. Mortgages rose $257 billion, and home equity lines rose $23 billion.",
-    "About 5% of all debt was behind on payments, up 0.3 points. Serious mortgage delinquency rose from a year ago, while student loan delinquency eased."
-   ],
-   "money": [
-    "Pay down card balances first. They carry the highest interest, and rates may rise again.",
-    "Call your card issuer and ask for a lower rate, or look at a 0% balance transfer.",
-    "Set up autopay for at least the minimum to avoid late fees and credit damage."
-   ],
-   "risk": [
-    "A Fed rate hike would make variable-rate debt more expensive."
-   ],
-   "sources": [
-    {
-     "t": "Household Debt and Credit Report, Q3 2026",
-     "d": "newyorkfed.org",
-     "u": "https://www.newyorkfed.org/newsevents/news/research/2026/20261110"
-    },
-    {
-     "t": "Credit card debt rises to a record $1.29T as household debt reaches $19.1T",
-     "d": "stockanalysis.com",
-     "u": "https://stockanalysis.com/news/credit-card-debt-record-third-quarter-2026/"
-    }
-   ]
-  },
-  {
-   "id": "edu-oversubscribed-2026111519",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "ai",
-    "markets"
-   ],
-   "date": "Explainer",
-   "ts": "2026-11-15T19:00:00Z",
-   "headline": "What 'six times oversubscribed' means for an IPO",
-   "caption": "Anthropic's order book is six times its share count. Here's what that tells you, and what it doesn't.",
-   "scenes": [
-    {
-     "k": "This week",
-     "t": "Anthropic's IPO is 6x oversubscribed.",
-     "s": "Investors asked for about six times the shares on offer."
-    },
-    {
-     "k": "The meaning",
-     "t": "More orders than shares.",
-     "s": "Big funds place orders through the banks before trading starts."
-    },
-    {
-     "k": "How it plays out",
-     "t": "Demand can push the price up.",
-     "viz": {
-      "type": "flow",
-      "items": [
-       "Roadshow",
-       "Orders pile up",
-       "Price set Wed",
-       "Trading starts Thu"
-      ]
-     }
-    },
-    {
-     "k": "The numbers",
-     "t": "$70 to $78 a share.",
-     "viz": {
-      "type": "split",
-      "items": [
-       [
-        "Range",
-        "$70–$78"
-       ],
-       [
-        "Demand",
-        "~6x"
-       ],
-       [
-        "Max raise",
-        "$64.4B",
-        "wide"
-       ]
-      ]
-     },
-     "say": "The range is seventy to seventy-eight dollars a share, demand is about six times the shares, and the deal could raise up to sixty-four point four billion dollars."
-    },
-    {
-     "k": "The catch",
-     "t": "Most small investors buy after the pop.",
-     "s": "Hot deals often open far above the offer price, and you pay that higher price."
-    },
-    {
-     "k": "Your move",
-     "t": "Set a limit price. Never chase.",
-     "s": "A limit order caps what you'll pay if day-one trading gets wild."
-    }
-   ]
-  },
-  {
-   "id": "edu-charity-deduction-2026111519",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "taxes"
-   ],
-   "date": "Explainer",
-   "ts": "2026-11-15T19:00:00Z",
-   "headline": "Don't itemize? You can still deduct your donations now",
-   "caption": "A new rule lets standard-deduction filers write off cash gifts. Here's how to use it before Dec. 31.",
-   "scenes": [
-    {
-     "k": "New for 2026",
-     "t": "Charity write-offs without itemizing.",
-     "s": "The IRS just reminded filers about the rule."
-    },
-    {
-     "k": "The limits",
-     "t": "Up to $1,000, or $2,000 for couples.",
-     "viz": {
-      "type": "split",
-      "items": [
-       [
-        "Single",
-        "$1,000"
-       ],
-       [
-        "Married, joint",
-        "$2,000"
-       ],
-       [
-        "Only cash gifts count",
-        "Cash only",
-        "wide"
-       ]
-      ]
-     },
-     "say": "Singles can deduct up to one thousand dollars, married couples filing jointly up to two thousand, and only cash gifts count."
-    },
-    {
-     "k": "What's out",
-     "t": "No donor-advised funds.",
-     "s": "Donated goods and gifts to supporting organizations also don't qualify."
-    },
-    {
-     "k": "The steps",
-     "t": "Give, record, claim.",
-     "viz": {
-      "type": "flow",
-      "items": [
-       "Pick a qualified charity",
-       "Pay by card or check",
-       "Save the receipt",
-       "Claim on your 2026 return"
-      ]
-     }
-    },
-    {
-     "k": "Timing",
-     "t": "Give by Dec. 31 to count this year.",
-     "s": "Gifts in January land on next year's return."
-    },
-    {
-     "k": "Your move",
-     "t": "Check the charity is qualified first.",
-     "s": "Gifts to individuals or GoFundMe-style pages don't count."
-    }
-   ]
-  },
-  {
-   "id": "faa-groundstop-2026111505",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business",
-    "politics"
-   ],
-   "date": "Fri Nov 13",
-   "headline": "FAA's 4-hour nationwide ground stop wipes out 4,700+ flights",
-   "caption": "A telecom failure at air traffic centers halted US departures for more than four hours Friday. Cancellations are spilling into the weekend.",
-   "visual": {
-    "type": "stat",
-    "title": "Friday's ground stop",
-    "num": "4,700+",
-    "tone": "loss",
-    "label": "Flights canceled Friday, per FlightRadar24.",
-    "facts": [
-     [
-      "Delays",
-      "10,000+",
-      "Friday"
-     ],
-     [
-      "Duration",
-      "4h 21m",
-      "3:54 to 8:15 pm ET"
-     ],
-     [
-      "Saturday",
-      "700",
-      "cancellations already set"
-     ]
-    ]
-   },
-   "detail": [
-    "The FAA stopped departures nationwide Friday afternoon after a communications outage hit air route traffic control centers. Officials said new equipment overloaded older network switches and routers. DHS said it was not a cyberattack.",
-    "Al Jazeera called it the longest ground stop in 25 years. More than 800 flights were diverted, and most went back to where they started.",
-    "Transportation Secretary Sean Duffy said it will take time to get back to full capacity, but expects normal operations by Thanksgiving. He is pushing for $50 billion in air traffic control upgrades."
-   ],
-   "money": [
-    "If your flight was canceled and you didn't take the rebooking, you can ask the airline for a cash refund instead of a voucher.",
-    "Check your credit card's travel benefits. Some cover meals and hotels after long delays.",
-    "Booking Thanksgiving travel now? Morning flights and nonstop routes are less likely to get stuck in knock-on delays."
-   ],
-   "risk": [
-    "Airlines still have to reposition planes and crews, so delays can linger for days.",
-    "Aging FAA systems mean repeat outages are possible."
-   ],
-   "sources": [
-    {
-     "t": "FAA ground stop lifted: Why were US flights grounded, and what's next?",
-     "d": "aljazeera.com",
-     "u": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-lifted-why-were-us-flights-grounded-and-whats-next"
-    },
-    {
-     "t": "The Morning Brief - 2026-11-14",
-     "d": "specterworks.substack.com",
-     "u": "https://specterworks.substack.com/p/the-morning-brief-2026-11-14"
-    }
-   ],
-   "ts": "2026-11-15T05:29:26Z"
-  },
-  {
-   "id": "msft-outage-2026111505",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business",
-    "ai"
-   ],
-   "date": "Nov 12-13",
-   "headline": "Microsoft's global outage hit 70 countries; it blames a network upgrade",
-   "caption": "Outlook, Teams and Copilot went down for customers worldwide for more than a day. Microsoft says it was a technical issue, not a hack.",
-   "visual": {
-    "type": "points",
-    "title": "Microsoft outage: what we know",
-    "items": [
-     "Started around midday ET Thursday, Nov 12",
-     "Customers in about 70 countries hit",
-     "Outlook, Teams, Copilot, SharePoint disrupted",
-     "Cause: a flaw from an earlier network capacity upgrade",
-     "Full post-incident report still to come"
-    ]
-   },
-   "detail": [
-    "Microsoft 365 services went down around midday Thursday and recovery stretched into Friday and Saturday. Email, Teams, Copilot and other tools were affected.",
-    "The fallout was wide. UK hospitals canceled some appointments, New Zealand paused visa processing, and some banks in Asia reported problems. One US company even postponed its earnings release.",
-    "Microsoft said the problem came from an earlier network capacity upgrade and was not related to cyberattacks or AI agents. It apologized and promised a full report."
-   ],
-   "money": [
-    "Small business owners: keep a backup way to reach customers, like a second email provider or text list.",
-    "Save key files offline so a cloud outage doesn't stop your work or your billing.",
-    "If you pay for a business plan, check whether your contract offers service credits for downtime."
-   ],
-   "risk": [
-    "Relying on one cloud provider means one failure can stop everything."
-   ],
-   "sources": [
-    {
-     "t": "Microsoft Blames 'Technical Issue' After Outage Impacts Global Operations",
-     "d": "newsweek.com",
-     "u": "https://www.newsweek.com/microsoft-outage-hits-global-operations-from-airlines-to-visas-12708940"
-    },
-    {
-     "t": "Microsoft says there is 'no evidence of malicious activity' being the cause of the global service outage",
-     "d": "pcgamer.com",
-     "u": "https://www.pcgamer.com/software/security/microsoft-says-there-is-no-evidence-of-malicious-activity-being-the-cause-of-the-global-service-outage-affecting-governments-and-organisations-around-the-world/"
-    }
-   ],
-   "ts": "2026-11-15T05:29:26Z"
-  },
-  {
-   "id": "btc-64k-2026111505",
-   "type": "news",
-   "cat": "crypto",
-   "tags": [
-    "crypto",
-    "markets"
-   ],
-   "date": "Sat Nov 14",
-   "headline": "Bitcoin breaks below $64,000 as the crypto sell-off deepens",
-   "caption": "New since Friday: bitcoin fell another 6.6% Saturday to about $63,500, and ether dropped 9%. About $1 billion in leveraged bets were wiped out.",
-   "visual": {
-    "type": "board",
-    "title": "Crypto, Sat Nov 14 (24h)",
-    "rows": [
-     {
-      "k": "Bitcoin",
-      "s": "about -16% on the week",
-      "v": "$63,528",
-      "ch": -6.6,
-      "tone": "loss"
-     },
-     {
-      "k": "Ether",
-      "v": "$1,745",
-      "ch": -9.1,
-      "tone": "loss"
-     },
-     {
-      "k": "Solana",
-      "v": "$69.19",
-      "ch": -10.4,
-      "tone": "loss"
-     },
-     {
-      "k": "XRP",
-      "v": "$0.898",
-      "ch": -10.7,
-      "tone": "loss"
-     },
-     {
-      "k": "Fear & Greed",
-      "s": "extreme fear",
-      "v": "13",
-      "tone": "loss"
-     }
-    ],
-    "foot": "Prices per CoinGecko as of 23:03 UTC Nov 14."
-   },
-   "detail": [
-    "Bitcoin kept sliding over the weekend. It fell to about $63,500 late Saturday, roughly half its all-time high of $126,080. The whole crypto market lost about 9% in a day.",
-    "Forced selling made it worse. About $1 billion in leveraged positions were liquidated in 24 hours. US spot bitcoin ETFs saw about $1.07 billion leave during the week.",
-    "Traders point to a likely Fed rate hike in December after hot inflation and jobs data. Analysts are watching $62,000 and $60,000 as the next support levels."
-   ],
-   "money": [
-    "Never use borrowed money on crypto. Leverage is what turned this drop into a $1 billion wipeout.",
-    "If you buy crypto at all, small fixed amounts on a schedule limit the damage of buying at a peak.",
-    "Losses in a taxable account can offset gains. Selling at a loss and rebuying is a tax move to ask a tax pro about."
-   ],
-   "risk": [
-    "The sell-off may not be over; the year's low is $58,566.",
-    "A Fed hike in December could keep pressure on risky assets."
-   ],
-   "sources": [
-    {
-     "t": "Crypto news: bitcoin falls to $63,500, ether down 9%",
-     "d": "cryptoticker.io",
-     "u": "https://cryptoticker.io/en/crypto-news-bitcoin-falls-to-63500-fed-hike-bets-november-14-2026/"
-    },
-    {
-     "t": "Bitcoin Was $63,775 at 7:31 p.m. ET Nov. 14 as Drawdown Tops 24%",
-     "d": "tokenpost.com",
-     "u": "https://www.tokenpost.com/news/investing/57582"
-    }
-   ],
-   "ts": "2026-11-15T05:29:26Z"
-  },
-  {
-   "id": "amat-record-2026111505",
-   "type": "news",
-   "cat": "markets",
-   "tags": [
-    "markets",
-    "ai"
-   ],
-   "date": "Thu Nov 12",
-   "headline": "Applied Materials posts a record $10.4B quarter as AI chip demand surges",
-   "caption": "The chip equipment maker grew revenue 53% from a year ago. It also guided higher for next quarter and bought back $2 billion in stock.",
-   "visual": {
-    "type": "stat",
-    "title": "Applied Materials, fiscal Q4",
-    "num": "+53%",
-    "tone": "gain",
-    "label": "Revenue growth vs a year ago, to $10.41 billion.",
-    "facts": [
-     [
-      "Adj. EPS",
-      "$4.16",
-      "GAAP $3.40"
-     ],
-     [
-      "Next qtr guide",
-      "$11.1B",
-      "plus or minus $0.5B"
-     ],
-     [
-      "Buybacks",
-      "$2.0B",
-      "in the quarter"
-     ]
-    ]
-   },
-   "detail": [
-    "Applied Materials makes the machines that chipmakers use to build processors. Its fiscal fourth quarter, which ended Oct. 25, brought in $10.41 billion, up 53%.",
-    "Full-year revenue rose 21% to $34.45 billion. The company expects about $11.1 billion next quarter, with adjusted earnings around $4.35 a share.",
-    "It returned a lot of cash too: $421 million in dividends and $2 billion in buybacks in the quarter alone."
-   ],
-   "money": [
-    "Chip equipment makers get paid when chipmakers build, even if no one knows which AI chip wins.",
-    "Broad semiconductor funds hold companies like this, so you don't have to pick one stock.",
-    "Chip stocks swung hard this week. Earnings strength doesn't stop price drops in the short run."
-   ],
-   "risk": [
-    "Export limits on sales to China remain a risk for chip equipment makers.",
-    "AI spending could slow if Big Tech trims budgets."
-   ],
-   "sources": [
-    {
-     "t": "Applied Materials Form 8-K Exhibit 99.1: Q4 FY2026 earnings release",
-     "d": "sec.gov",
-     "u": "https://www.sec.gov/Archives/edgar/data/0000006951/000162828026073360/exhibit991q42026earningsre.htm"
-    },
-    {
-     "t": "The Morning Brief - 2026-11-14",
-     "d": "specterworks.substack.com",
-     "u": "https://specterworks.substack.com/p/the-morning-brief-2026-11-14"
-    }
-   ],
-   "ts": "2026-11-15T05:29:26Z"
-  },
-  {
-   "id": "home-sales-low-2026111505",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business",
-    "markets"
-   ],
-   "date": "This week",
-   "headline": "Home sales sink to the lowest since 2010, and prices finally dip",
-   "caption": "Existing-home sales fell 5.5% in October, NAR says. Redfin reports the median sale price fell from a year ago for the first time since 2023.",
-   "visual": {
-    "type": "board",
-    "title": "Housing, October 2026",
-    "rows": [
-     {
-      "k": "Existing-home sales",
-      "s": "vs September (NAR)",
-      "v": "Lowest since Aug 2010",
-      "ch": -5.5,
-      "tone": "loss"
-     },
-     {
-      "k": "Median sale price",
-      "s": "vs a year ago (Redfin)",
-      "v": "$388,634",
-      "ch": -0.4,
-      "tone": "loss"
-     },
-     {
-      "k": "Pending sales",
-      "s": "vs September (Redfin)",
-      "v": "Lowest since 2013*",
-      "ch": -3.6,
-      "tone": "loss"
-     }
-    ],
-    "foot": "*Excluding April 2020."
-   },
-   "detail": [
-    "The National Association of Realtors said sales of previously owned homes fell 5.5% in October to their lowest level since August 2010. Sales dropped in every region except the Northeast.",
-    "NAR noted mortgage rates are at their highest since 2000, apart from one month in 2023. That is keeping many buyers on the sidelines.",
-    "Prices are starting to give. Redfin said the national median sale price slipped 0.4% from a year ago, the first annual drop since 2023, and there are more homes for sale than before the pandemic."
-   ],
-   "money": [
-    "Buyers have more leverage. Ask for seller credits toward closing costs or a rate buydown.",
-    "Shop at least three lenders. Rate quotes can differ a lot when rates are this high.",
-    "Sellers: pricing right on day one beats chasing the market down with cuts."
-   ],
-   "risk": [
-    "Another Fed hike could push mortgage rates even higher.",
-    "Local markets vary a lot; national numbers may not match your town."
-   ],
-   "sources": [
-    {
-     "t": "NAR newsroom: Existing-home sales, October 2026 data",
-     "d": "nar.realtor",
-     "u": "https://www.nar.realtor/newsroom/existing-home-sales-receded-4-1-in-october"
-    },
-    {
-     "t": "US home price down for the first time since 2023. Does that mean better deals for buyers?",
-     "d": "deseret.com",
-     "u": "https://www.deseret.com/u-s-world/2026/11/10/us-home-price-down-for-the-first-time-since-2023-does-that-mean-better-deals-for-buyers/"
-    }
-   ],
-   "ts": "2026-11-15T05:29:26Z"
-  },
-  {
-   "id": "ai-halt-lawsuit-2026111505",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "politics"
-   ],
-   "date": "Thu Nov 12",
-   "headline": "Nonprofits sue five AI giants to stop more powerful models",
-   "caption": "A coalition sued OpenAI, Anthropic, Google, Meta and SpaceX. It wants a court to block models stronger than what they sell today.",
-   "visual": {
-    "type": "points",
-    "title": "The lawsuit in brief",
-    "items": [
-     "Filed by a coalition of nonprofits",
-     "Targets OpenAI, Anthropic, Google, Meta, SpaceX",
-     "Asks a court to halt next-generation frontier models",
-     "Cites the labs' own warnings about extreme risks",
-     "Comes days before Anthropic's planned IPO"
-    ]
-   },
-   "detail": [
-    "A group of nonprofits filed suit against five of the biggest AI developers. They want a court order to stop work on models more capable than the companies' current systems.",
-    "The groups lean on the companies' own public warnings that advanced AI could pose extreme risks. No court has ruled on the request yet.",
-    "It is a separate case from a September lawsuit that made the opposite claim, that the labs had illegally agreed to slow AI down."
-   ],
-   "money": [
-    "Legal fights add uncertainty to AI stocks and IPOs. Keep any single AI bet a small slice of your portfolio.",
-    "Read the risk factors section before buying a new IPO. Lawsuits like this show up there.",
-    "Diversified index funds already hold several of these companies, which spreads the legal risk."
-   ],
-   "risk": [
-    "Courts rarely grant this kind of broad halt, but the case could drag on."
-   ],
-   "sources": [
-    {
-     "t": "Everything That Happened in AI Today Friday, November 13",
-     "d": "theneuron.ai",
-     "u": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-november-13-2026/"
-    }
-   ],
-   "ts": "2026-11-15T05:29:26Z"
-  },
-  {
-   "id": "ai-spend-2026111505",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "business"
-   ],
-   "date": "This week",
-   "headline": "AI spending whiplash: SpaceX plans $74B in compute as SoftBank eats $3.7B",
-   "caption": "SpaceX wants to build giant AI supercomputing campuses in Texas and Arizona. SoftBank took a charge after over-ordering power gear for AI.",
-   "visual": {
-    "type": "deals",
-    "title": "AI build-out this week",
-    "items": [
-     {
-      "a": "SpaceX",
-      "b": "AI campuses in TX and AZ",
-      "amt": "$74B+",
-      "st": "Arizona site needs county OK",
-      "c": "pend"
-     },
-     {
-      "a": "SoftBank",
-      "b": "AI data-center power gear",
-      "amt": "-$3.7B",
-      "st": "charge after revising orders",
-      "c": "bad"
-     },
-     {
-      "a": "Norwest",
-      "b": "New venture fund, AI focus",
-      "amt": "$4B",
-      "st": "closed, its largest ever",
-      "c": "ok"
-     }
-    ]
-   },
-   "detail": [
-    "SpaceX plans to invest more than $74 billion in AI supercomputing campuses. The Arizona site alone would cost about $50 billion and still needs county approval. The Texas site is designed to make its own power.",
-    "On the other side, SoftBank took a $3.7 billion charge after it changed orders for power equipment meant for AI data centers, following nonrefundable payments.",
-    "Venture firm Norwest also closed a $4 billion fund, its biggest ever, with AI as a top priority."
-   ],
-   "money": [
-    "Power and electrical equipment makers benefit from the AI build-out, but orders can be cut fast.",
-    "Big AI campuses bring local construction jobs and tax revenue. Watch for openings if you live near Phoenix or in Texas.",
-    "SoftBank's charge is a reminder: AI spending booms can overshoot."
-   ],
-   "risk": [
-    "Local approval and power supply can delay or kill data-center projects.",
-    "If AI demand cools, suppliers take the hit first."
-   ],
-   "sources": [
-    {
-     "t": "Everything That Happened in AI Today Friday, November 13",
-     "d": "theneuron.ai",
-     "u": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-november-13-2026/"
-    }
-   ],
-   "ts": "2026-11-15T05:29:26Z"
-  },
-  {
-   "id": "ai-gadgets-2026111505",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "business"
-   ],
-   "date": "This week",
-   "headline": "AI in your pocket: a ChatGPT Wallet, $395 Gemini glasses and a Siri AI TV box",
-   "caption": "OpenAI is letting some users pay with cards inside ChatGPT. Google and Samsung opened preorders for AI glasses shipping Dec. 10.",
-   "visual": {
-    "type": "board",
-    "title": "New AI products",
-    "rows": [
-     {
-      "k": "ChatGPT Wallet",
-      "s": "US Pro users, 18+ to start",
-      "v": "Visa/MC/Amex"
-     },
-     {
-      "k": "Gemini smart glasses",
-      "s": "ship Dec 10",
-      "v": "From $395"
-     },
-     {
-      "k": "Apple TV 4K",
-      "s": "adds Siri AI",
-      "v": "$299"
-     },
-     {
-      "k": "Gemini 4 Hydrogen",
-      "s": "faster, cheaper model",
-      "v": "Out now"
-     }
-    ]
-   },
-   "detail": [
-    "OpenAI's new ChatGPT Wallet works with eligible US Amex, Mastercard and Visa cards, starting with US ChatGPT Pro subscribers. Users must approve every purchase.",
-    "Google and Samsung opened preorders for Gemini smart glasses in Warby Parker and Gentle Monster styles, starting at $395 and shipping Dec. 10.",
-    "Apple's new $299 Apple TV 4K adds Siri AI, and Google released Gemini 4 Hydrogen, a faster, lower-cost model for coding and agents."
-   ],
-   "money": [
-    "Before letting an AI shop for you, set card alerts so every charge pings your phone.",
-    "Use a card with strong fraud protection, not a debit card, for AI-made purchases.",
-    "First-generation gadgets often drop in price. Waiting a few months can save real money."
-   ],
-   "risk": [
-    "AI shopping tools can surface sketchy sites; one test found risky links in up to 15% of answers."
-   ],
-   "sources": [
-    {
-     "t": "Everything That Happened in AI Today Friday, November 13",
-     "d": "theneuron.ai",
-     "u": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-november-13-2026/"
-    },
-    {
-     "t": "The Morning Brief - 2026-11-14",
-     "d": "specterworks.substack.com",
-     "u": "https://specterworks.substack.com/p/the-morning-brief-2026-11-14"
-    }
-   ],
-   "ts": "2026-11-15T05:29:26Z"
-  },
-  {
-   "id": "edu-credit-repeal-2026111505",
-   "type": "news",
-   "cat": "taxes",
-   "tags": [
-    "taxes",
-    "politics"
-   ],
-   "date": "This month",
-   "headline": "Democrats target the new $1,700 school scholarship tax credit before it starts",
-   "caption": "The credit for donations to private-school scholarship groups begins in 2027. With Democrats winning Congress, top members want it repealed.",
-   "visual": {
-    "type": "stat",
-    "title": "Education Freedom Tax Credit",
-    "num": "$1,700",
-    "tone": "acc",
-    "label": "Maximum yearly credit for donating to scholarship groups.",
-    "facts": [
-     [
-      "Starts",
-      "2027",
-      "if not repealed"
-     ],
-     [
-      "Repeal package",
-      "22 bills",
-      "Rep. Bonamici"
-     ],
-     [
-      "Opted-in Dem governors",
-      "3",
-      "CO, NY, NM"
-     ]
-    ]
-   },
-   "detail": [
-    "The One Big Beautiful Bill Act created a federal tax credit of up to $1,700 a year for donations to groups that fund K-12 private school scholarships. It is set to start in 2027.",
-    "Rep. Suzanne Bonamici, who wants to lead Democrats on the House education committee, included a repeal in a 22-bill package. Other senior Democrats back repeal bills too.",
-    "Supporters say the credit expands school choice. Opponents say it moves public money to private schools with less accountability."
-   ],
-   "money": [
-    "If you planned to donate in 2027 for the credit, watch Congress before you commit.",
-    "A credit cuts your tax bill dollar for dollar, which is worth more than a deduction of the same size.",
-    "Families: if your state opted in, scholarship groups may offer aid for 2027-28. Ask early."
-   ],
-   "risk": [
-    "Repeal needs to pass both chambers and get past a possible veto."
-   ],
-   "sources": [
-    {
-     "t": "Contender to lead House education committee pushes to repeal education tax credit",
-     "d": "jewishinsider.com",
-     "u": "https://jewishinsider.com/2026/11/suzanne-bonamici-house-education-committee-federal-tax-credit-repeal/"
-    },
-    {
-     "t": "News Headlines: November 14, 2026",
-     "d": "dailycuratednews.substack.com",
-     "u": "https://dailycuratednews.substack.com/p/news-headlines-november-14-2026"
-    }
-   ],
-   "ts": "2026-11-15T05:29:26Z"
-  },
-  {
-   "id": "tx-1500-2026111505",
-   "type": "news",
-   "cat": "states",
-   "tags": [
-    "states",
-    "politics"
-   ],
-   "date": "Mon Nov 9",
-   "headline": "Texas bill would send $1,500 to every household from the rainy day fund",
-   "caption": "SB 297 would pay about 11.6 million Texas households, a campaign promise of Gov.-elect Gina Hinojosa. It would cost about $17 billion.",
-   "visual": {
-    "type": "stat",
-    "title": "Texas SB 297",
-    "num": "$1,500",
-    "tone": "gain",
-    "label": "Proposed one-time payment per Texas household.",
-    "facts": [
-     [
-      "Households",
-      "11.6M",
-      "estimated"
-     ],
-     [
-      "Cost",
-      "$17B",
-      "from rainy day fund"
-     ],
-     [
-      "Paid by",
-      "End of 2027",
-      "if passed"
-     ]
-    ]
-   },
-   "detail": [
-    "State Sen. Roland Gutierrez filed a bill to give every Texas household $1,500. It fulfills a campaign promise from Gov.-elect Gina Hinojosa.",
-    "The money would come from the state's rainy day fund, which holds more than $27 billion. Tapping it needs a two-thirds vote in each chamber.",
-    "Households living in Texas on Jan. 1, 2027, would qualify. The comptroller would check eligibility with state records, and people could apply with a lease or utility bill."
-   ],
-   "money": [
-    "Nothing is approved yet. Don't spend money you haven't received.",
-    "If it passes, keep proof of your Texas address as of Jan. 1, 2027, like a lease or utility bill.",
-    "A one-time payment works best on high-interest debt or an emergency fund."
-   ],
-   "risk": [
-    "The two-thirds vote is a high bar.",
-    "Analysts say the bill's admin budget may fall short by $400 million or more."
-   ],
-   "sources": [
-    {
-     "t": "Bill filed to give every Texas household $1,500, a Gov.-elect Gina Hinojosa campaign promise",
-     "d": "ksat.com",
-     "u": "https://www.ksat.com/news/texas/2026/11/11/bill-filed-to-give-every-texas-household-1500-a-gov-elect-gina-hinojosa-campaign-promise/"
-    }
-   ],
-   "ts": "2026-11-15T05:29:26Z"
-  },
-  {
-   "id": "nj-powerup-2026111505",
-   "type": "news",
-   "cat": "states",
-   "tags": [
-    "states",
-    "business"
-   ],
-   "date": "Thu Nov 12",
-   "headline": "New Jersey will pay homes and businesses to ease power use at peak times",
-   "caption": "PowerUp NJ is an opt-in program that rewards people for letting smart devices cut back during peaks. Utilities must launch it by Oct. 2027.",
-   "visual": {
-    "type": "points",
-    "title": "PowerUp NJ",
-    "items": [
-     "Opt-in virtual power plant program",
-     "Smart thermostats, batteries, EV chargers, water heaters count",
-     "You choose which devices and events to join",
-     "Utilities must launch by Oct. 1, 2027",
-     "3% peak cut could save about $60M a year"
-    ]
-   },
-   "detail": [
-    "New Jersey's Board of Public Utilities took the first step on PowerUp NJ, a statewide virtual power plant. Residents and businesses would get paid for adjusting energy use when demand peaks.",
-    "Eligible devices include smart thermostats, home batteries, EV chargers and smart water heaters. Participants pick which devices and events to include.",
-    "Atlantic City Electric, JCP&L, PSE&G and Rockland Electric must launch interim versions by Oct. 1, 2027. Staff estimate a 3% peak cut could avoid about $60 million a year in costs."
-   ],
-   "money": [
-    "A smart thermostat can already cut bills, and soon may earn credits in New Jersey.",
-    "Check your own utility for demand-response rewards; many states have similar programs now.",
-    "Shifting laundry and EV charging away from peak hours saves money on time-of-use plans."
-   ],
-   "risk": [
-    "Payment amounts haven't been set yet."
-   ],
-   "sources": [
-    {
-     "t": "NJBPU program would reward residents and businesses for using smart devices to help power the grid",
-     "d": "roi-nj.com",
-     "u": "https://roi-nj.com/2026/11/13/industry/energy-utilities/njbpu-program-would-reward-residents-and-businesses-for-using-smart-devices-to-help-power-the-grid"
-    }
-   ],
-   "ts": "2026-11-15T05:29:26Z"
-  },
-  {
-   "id": "ma-plan-exits-2026111505",
-   "type": "news",
-   "cat": "benefits",
-   "tags": [
-    "benefits"
-   ],
-   "date": "This month",
-   "headline": "2.8 million Medicare Advantage members are losing their plan in 2027",
-   "caption": "About 13% of general Medicare Advantage enrollees are in plans that won't be offered next year. They have until Dec. 7 to pick a new one.",
-   "visual": {
-    "type": "stat",
-    "title": "Medicare Advantage 2027",
-    "num": "2.8M",
-    "tone": "loss",
-    "label": "Members in plans not offered for 2027, per Oliver Wyman.",
-    "facts": [
-     [
-      "Share of enrollees",
-      "13%",
-      "general enrollment"
-     ],
-     [
-      "Plans per county",
-      "26.1 to 23.1",
-      "average"
-     ],
-     [
-      "PPO members hit",
-      "1.79M",
-      "20.8% of PPO enrollees"
-     ]
-    ]
-   },
-   "detail": [
-    "An Oliver Wyman analysis found about 2.8 million Medicare Advantage members are in plans that are going away in 2027. The average county now has about 23 plans, down from 26.",
-    "Humana, UnitedHealthcare and Aetna account for about 42% of affected members. PPO plans were cut far more than HMOs. Florida and Texas saw some of the biggest drops.",
-    "Even people whose plans stay may see benefit changes or higher out-of-pocket costs, the analysis says."
-   ],
-   "money": [
-    "Read your Annual Notice of Change. If your plan is ending, compare options before Dec. 7.",
-    "Check that your doctors and drugs are covered in any new plan, not just the premium.",
-    "Free help is available from your state's SHIP counselors; Medicare.gov's plan finder compares costs."
-   ],
-   "risk": [
-    "If you miss the deadline, choices narrow and you may face gaps in coverage."
-   ],
-   "sources": [
-    {
-     "t": "A more targeted 2027 Medicare Advantage market takes shape",
-     "d": "oliverwyman.com",
-     "u": "https://www.oliverwyman.com/our-expertise/perspectives/health/2026/nov/medicare-advantage-market-2027-plan-exits-snp-growth.html"
-    }
-   ],
-   "ts": "2026-11-15T05:29:26Z"
-  },
-  {
-   "id": "hud-status-rule-2026111505",
-   "type": "news",
-   "cat": "benefits",
-   "tags": [
-    "benefits",
-    "immigration"
-   ],
-   "date": "Tue Nov 10",
-   "headline": "HUD finalizes a rule requiring citizenship or status proof for assisted housing",
-   "caption": "Tenants and applicants in covered HUD programs must verify citizenship or eligible immigration status. HUD says about 200,000 tenants had incomplete checks.",
-   "visual": {
-    "type": "stat",
-    "title": "HUD eligibility rule",
-    "num": "~200K",
-    "tone": "acc",
-    "label": "Tenants HUD says had incomplete or unknown eligibility checks.",
-    "facts": [
-     [
-      "Who",
-      "Applicants + tenants",
-      "covered HUD programs"
-     ],
-     [
-      "Mixed-status homes",
-      "Included",
-      "per HUD"
-     ],
-     [
-      "Effective date",
-      "Not stated",
-      "in release"
-     ]
-    ]
-   },
-   "detail": [
-    "HUD finalized its Verification of Eligible Status rule. People in covered programs must document US citizenship or provide evidence of eligible immigration status.",
-    "HUD said a joint audit with DHS found nearly 200,000 tenants with incomplete or unknown verification. Mixed-status households, where some members are not eligible, are covered.",
-    "HUD says the change prioritizes citizens and eligible residents. Housing advocates have warned similar proposals could push families out of assisted homes."
-   ],
-   "money": [
-    "If you live in HUD-assisted housing, gather documents now, like birth certificates, passports or immigration papers.",
-    "Ask your housing authority for written deadlines so you don't miss a verification step.",
-    "Legal aid groups can help free of charge if your paperwork is complicated."
-   ],
-   "risk": [
-    "Missing a deadline could put assistance at risk.",
-    "Legal challenges are possible."
-   ],
-   "sources": [
-    {
-     "t": "HUD Action Ensures All HUD-Assisted Tenants Are Fully Eligible Under the Law",
-     "d": "hud.gov",
-     "u": "https://www.hud.gov/news/hud-no-26-091"
-    }
-   ],
-   "ts": "2026-11-15T05:29:26Z"
   }
  ]
 }
