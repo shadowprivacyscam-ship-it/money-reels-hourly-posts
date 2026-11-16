@@ -1,6 +1,741 @@
 {
- "updated": "2026-11-16T21:00:00Z",
+ "updated": "2026-11-16T22:00:00Z",
  "items": [
+  {
+   "id": "fed-hawks-hike-talk-2026111622",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets",
+    "politics"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T22:00:00Z",
+   "headline": "Four Fed officials lean toward more rate hikes as inflation runs hot",
+   "caption": "Jefferson, Collins, Schmid and Hammack all signaled inflation is the top worry. Traders still price about a 1-in-4 chance of a December hike.",
+   "visual": {
+    "type": "board",
+    "title": "What the Fed said Monday",
+    "rows": [
+     {
+      "k": "Jefferson",
+      "s": "Fed vice chair",
+      "v": "Inflation is key"
+     },
+     {
+      "k": "Collins",
+      "s": "Boston Fed",
+      "v": "Gradual hikes"
+     },
+     {
+      "k": "Schmid",
+      "s": "Kansas City Fed",
+      "v": "More work to do"
+     },
+     {
+      "k": "Hammack",
+      "s": "Cleveland Fed",
+      "v": "Small, steady hikes"
+     },
+     {
+      "k": "Dec hike odds",
+      "s": "CME FedWatch",
+      "v": "~26bp priced",
+      "tone": "acc"
+     }
+    ],
+    "foot": "Fed minutes come out Wednesday."
+   },
+   "detail": [
+    "Several Federal Reserve officials spoke Monday, and the message leaned toward higher rates. Vice Chair Philip Jefferson said inflation is the most important factor for any further hikes.",
+    "Boston's Susan Collins favors a gradual tightening path. Kansas City's Jeffrey Schmid said inflation is too high. Cleveland's Beth Hammack said she prefers smaller, step-by-step hikes and sees inflation moving the wrong way.",
+    "Markets price about 26 basis points of hikes by December, roughly one quarter-point move, and about 61 basis points by March. The 10-year Treasury yield ended near 5.12%."
+   ],
+   "money": [
+    "Savings accounts and CDs may keep paying high rates if the Fed hikes; compare yields now.",
+    "Paying down variable-rate debt, like credit cards or HELOCs, gets more valuable as rates rise.",
+    "If you're shopping for a mortgage, a rate lock can protect you from another jump."
+   ],
+   "risk": [
+    "Fed speakers are not the whole committee; one weak data report can change the outlook fast."
+   ],
+   "sources": [
+    {
+     "t": "US Market Wrap - 16th November 2026",
+     "d": "newsquawk.com",
+     "u": "https://www.newsquawk.com/headlines/us-market-wrap---16th-november-2026-risk-off-trade-as-tech-rout-resumes-supporting-havens-"
+    }
+   ]
+  },
+  {
+   "id": "kalshi-stock-trading-2026111622",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business",
+    "crypto",
+    "markets"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T22:00:00Z",
+   "headline": "Kalshi plans stock and ETF trading after buying broker FB Securities",
+   "caption": "The prediction-market company bought a New York broker-dealer and plans to add stocks and ETFs. Robinhood and Schwab shares fell on the news.",
+   "visual": {
+    "type": "points",
+    "title": "Kalshi's move into stocks",
+    "items": [
+     "Bought broker-dealer FB Securities",
+     "Stock and ETF trading planned in about 2 months",
+     "Valued near $40B in its October round",
+     "Robinhood and Schwab shares fell Monday"
+    ]
+   },
+   "detail": [
+    "Kalshi, a federally regulated prediction market, bought FB Securities, a New York broker-dealer, according to a Wall Street Journal report Monday. The price was not disclosed.",
+    "Owning a broker-dealer lets Kalshi offer stocks and ETFs, which its current business can't. Reports say trading could launch in about two months. Kalshi wants one app for event bets, futures and stocks.",
+    "The news weighed on Robinhood and Charles Schwab shares, which face a new rival. Kalshi was valued at about $40 billion in its October funding round."
+   ],
+   "money": [
+    "More brokers fighting for customers can mean lower fees and better sign-up bonuses for you.",
+    "Keep long-term investing separate from event bets; treat prediction markets as entertainment money.",
+    "Check any new broker's SIPC coverage before moving savings there."
+   ],
+   "risk": [
+    "A new platform may have outages or limited features at launch.",
+    "Mixing betting and investing in one app can encourage risky trading."
+   ],
+   "sources": [
+    {
+     "t": "US Market Wrap - 16th November 2026",
+     "d": "newsquawk.com",
+     "u": "https://www.newsquawk.com/headlines/us-market-wrap---16th-november-2026-risk-off-trade-as-tech-rout-resumes-supporting-havens-"
+    },
+    {
+     "t": "Kalshi Acquires FB Securities, Plans Stock and ETF Trading Launch in Early 2027",
+     "d": "kucoin.com",
+     "u": "https://www.kucoin.com/news/flash/kalshi-acquires-fb-securities-plans-stock-and-etf-trading-launch-in-early-2027"
+    }
+   ]
+  },
+  {
+   "id": "adams-county-kww-ruling-2026111622",
+   "type": "news",
+   "cat": "immigration",
+   "tags": [
+    "immigration",
+    "states"
+   ],
+   "date": "Fri Nov 13",
+   "ts": "2026-11-16T22:00:00Z",
+   "headline": "Judge rules a Washington county broke state law by working with ICE",
+   "caption": "A judge found Adams County shared jail data with immigration agents against state law. It's the first ruling to uphold Washington's Keep Washington Working Act.",
+   "visual": {
+    "type": "points",
+    "title": "The Adams County ruling",
+    "items": [
+     "Sheriff sent jail lists and release dates to ICE",
+     "Held people on civil immigration detainers alone",
+     "At least 6 people released straight to Border Patrol",
+     "Must stop, rewrite policies and train deputies"
+    ]
+   },
+   "detail": [
+    "A Spokane County Superior Court judge ruled that Adams County, Washington, violated the state's Keep Washington Working Act. The state attorney general brought the case last year.",
+    "The judge found the sheriff's office shared nonpublic jail data with ICE and Border Patrol, let agents interview inmates without saying who they were, and held people on civil immigration detainers alone. From 2021 to 2023 it released at least six people directly to Border Patrol.",
+    "The county must stop coordinating with civil immigration agents and retrain deputies. The judge also rejected the county's claim that the law is unconstitutional, the first court to uphold it. The county argued federal law conflicts with the state law."
+   ],
+   "money": [
+    "State laws on local police and ICE differ widely; know your state's rules if you employ immigrant workers.",
+    "Counties that lose these suits can face settlements; the county here paid $95,000 to one man.",
+    "Employers in farm regions should plan for labor disruption as enforcement rules shift."
+   ],
+   "risk": [
+    "The county may appeal, and federal-state conflicts over these laws are still being fought in court."
+   ],
+   "sources": [
+    {
+     "t": "County violated WA law restricting coordination with ICE",
+     "d": "heraldnet.com",
+     "u": "https://heraldnet.com/2026/11/16/county-violated-wa-law-restricting-coordination-with-ice"
+    }
+   ]
+  },
+  {
+   "id": "canada-cpi-oct-2026111622",
+   "type": "news",
+   "cat": "world",
+   "tags": [
+    "world",
+    "markets"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T22:00:00Z",
+   "headline": "Canada's inflation holds at 3.1% as gas prices run 31% above last year",
+   "caption": "Canadian prices rose 3.1% from a year ago in October, a bit below forecasts. Gasoline was up 30.9%, but prices excluding energy rose just 2%.",
+   "visual": {
+    "type": "stat",
+    "title": "Canada CPI, October",
+    "num": "3.1%",
+    "tone": "acc",
+    "label": "Year-over-year, same as September and below the 3.2% forecast.",
+    "facts": [
+     [
+      "Gasoline",
+      "+30.9%",
+      "vs a year ago"
+     ],
+     [
+      "Groceries",
+      "+2.0%",
+      "vs a year ago"
+     ],
+     [
+      "Ex-energy",
+      "+2.0%",
+      "down from 2.1%"
+     ]
+    ]
+   },
+   "detail": [
+    "Statistics Canada said consumer prices rose 3.1% in October from a year earlier, unchanged from September. Economists expected 3.2%. Prices rose 0.2% from September.",
+    "Gasoline drove the number, up 30.9% from a year ago. Part of that is a base effect, since gas prices dropped sharply in October 2025. Gas actually fell 2.5% from September.",
+    "Grocery prices rose 2.0% and shelter just 1.4%, as rent growth slowed. Excluding energy, prices rose 2.0%, a sign that inflation outside fuel is close to normal."
+   ],
+   "money": [
+    "Energy is the main driver of inflation right now; cutting fuel use pays off directly.",
+    "A softer reading can weaken the Canadian dollar, making Canadian trips cheaper for US travelers.",
+    "Watch for falling gas prices to pull headline inflation down in coming months."
+   ],
+   "risk": [
+    "Oil prices can spike again with Middle East tensions, reversing the trend."
+   ],
+   "sources": [
+    {
+     "t": "The Daily — Consumer Price Index, October 2026",
+     "d": "statcan.gc.ca",
+     "u": "https://www150.statcan.gc.ca/n1/daily-quotidien/261116/dq261116a-eng.htm"
+    },
+    {
+     "t": "US Market Wrap - 16th November 2026",
+     "d": "newsquawk.com",
+     "u": "https://www.newsquawk.com/headlines/us-market-wrap---16th-november-2026-risk-off-trade-as-tech-rout-resumes-supporting-havens-"
+    }
+   ]
+  },
+  {
+   "id": "japan-gdp-flat-2026111622",
+   "type": "news",
+   "cat": "world",
+   "tags": [
+    "world",
+    "markets"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T22:00:00Z",
+   "headline": "Japan's economy stalls in the third quarter as oil costs and a weak yen bite",
+   "caption": "Japan's GDP was flat from July to September, missing forecasts. Consumers cut spending again as the Iran war pushed up energy costs.",
+   "visual": {
+    "type": "board",
+    "title": "Japan Q3 GDP",
+    "rows": [
+     {
+      "k": "GDP vs Q2",
+      "s": "forecast +0.1%",
+      "v": "0.0%",
+      "tone": "acc"
+     },
+     {
+      "k": "Annualized",
+      "s": "forecast +0.2%",
+      "v": "-0.1%",
+      "ch": -0.1,
+      "tone": "loss"
+     },
+     {
+      "k": "Consumer spending",
+      "v": "-0.3%",
+      "ch": -0.3,
+      "tone": "loss"
+     },
+     {
+      "k": "Business investment",
+      "v": "+1.6%",
+      "ch": 1.6,
+      "tone": "gain"
+     },
+     {
+      "k": "Dollar-yen",
+      "v": "~160",
+      "tone": "acc"
+     }
+    ],
+    "foot": "BOJ still expected to hike in December."
+   },
+   "detail": [
+    "Japan's economy did not grow from July to September, according to preliminary government data. Forecasters expected 0.1% growth. On an annual basis, it shrank 0.1%.",
+    "Household spending fell 0.3%, and imports jumped 2.5% while exports slipped. The Iran war has raised oil costs, and Japan imports nearly all its oil. A weak yen, near 160 per dollar, makes imports even pricier.",
+    "Business investment was a bright spot, up 1.6%. Analysts still expect the Bank of Japan to raise rates in December because inflation is building."
+   ],
+   "money": [
+    "A yen near 160 per dollar makes Japan trips cheaper for Americans.",
+    "If you own international funds, check how much is in Japan; a stalled economy can weigh on returns.",
+    "A BOJ hike could strengthen the yen, which can shake global markets; keep diversified."
+   ],
+   "risk": [
+    "Japan could intervene to prop up the yen, causing sudden currency swings."
+   ],
+   "sources": [
+    {
+     "t": "Japan's economy stalls as inflation weighs on growth",
+     "d": "euronews.com",
+     "u": "https://www.euronews.com/2026/11/16/japans-economy-stalls-as-inflation-weighs-on-growth"
+    },
+    {
+     "t": "Japanese economy flat in third quarter: official data",
+     "d": "brecorder.com",
+     "u": "https://www.brecorder.com/news/40449162/japanese-economy-flat-in-third-quarter-official-data"
+    }
+   ]
+  },
+  {
+   "id": "project-faro-stablecoin-2026111622",
+   "type": "news",
+   "cat": "crypto",
+   "tags": [
+    "crypto",
+    "business"
+   ],
+   "date": "This week",
+   "ts": "2026-11-16T22:00:00Z",
+   "headline": "21 big financial firms aim to launch a US dollar stablecoin in early 2027",
+   "caption": "A group called Project Faro has committed about $270 million. Separately, the NYSE and DTCC are building tokenized-stock systems.",
+   "visual": {
+    "type": "deals",
+    "title": "Wall Street goes on-chain",
+    "items": [
+     {
+      "a": "Project Faro",
+      "b": "USD stablecoin",
+      "amt": "$270M",
+      "st": "Launch target H1 2027",
+      "c": "pend"
+     },
+     {
+      "a": "NYSE",
+      "b": "Tokenized stocks",
+      "amt": "Avalanche-based",
+      "st": "Needs approval",
+      "c": "pend"
+     },
+     {
+      "a": "DTCC",
+      "b": "Stocks, ETFs, Treasuries",
+      "amt": "On Solana",
+      "st": "Target H2 2027",
+      "c": "pend"
+     },
+     {
+      "a": "Deutsche Bank",
+      "b": "Crypto custody",
+      "amt": "BTC, ETH",
+      "st": "Launched in Europe",
+      "c": "ok"
+     }
+    ]
+   },
+   "detail": [
+    "A group of 21 financial institutions, called Project Faro, has committed about $270 million to build a US dollar stablecoin. It targets a launch in the first half of 2027, with stablecoins tied to other G7 currencies later.",
+    "Other big players are moving too. The NYSE plans a tokenized-stock venue on a custom Avalanche-based blockchain, which still needs approval. DTCC aims to offer tokenized stocks, ETFs and Treasuries on Solana in the second half of 2027.",
+    "Deutsche Bank launched crypto custody in Europe for corporate and institutional clients, starting with bitcoin, ether and select stablecoins."
+   ],
+   "money": [
+    "Bank-backed stablecoins could mean faster, cheaper transfers, even on weekends.",
+    "Tokenized Treasuries may one day let small investors earn yield around the clock.",
+    "Stick with regulated issuers; not all stablecoins hold the same quality reserves."
+   ],
+   "risk": [
+    "Launch dates are targets and depend on regulators.",
+    "Crypto prices are falling, which can slow adoption."
+   ],
+   "sources": [
+    {
+     "t": "Crypto Market Pulse: November 16, 2026",
+     "d": "crypto.com",
+     "u": "https://crypto.com/en/market-updates/crypto-market-pulse-2026-11-16"
+    }
+   ]
+  },
+  {
+   "id": "btc-demand-low-2026111622",
+   "type": "news",
+   "cat": "crypto",
+   "tags": [
+    "crypto",
+    "markets"
+   ],
+   "date": "This week",
+   "ts": "2026-11-16T22:00:00Z",
+   "headline": "Bitcoin buying demand hits its lowest level since March 2025",
+   "caption": "A key gauge of bitcoin demand turned deeply negative, signaling sellers outnumber buyers. Spot bitcoin ETFs lost another $1.1 billion last week.",
+   "visual": {
+    "type": "stat",
+    "title": "Bitcoin demand gauge",
+    "num": "-284K BTC",
+    "tone": "loss",
+    "label": "30-day apparent demand on Nov. 11, the weakest since March 2025.",
+    "facts": [
+     [
+      "1-year demand",
+      "-1.2M BTC",
+      "weakest since Feb 2023"
+     ],
+     [
+      "BTC ETF flows",
+      "-$1.1B",
+      "last week"
+     ],
+     [
+      "ETH ETF flows",
+      "-$399M",
+      "last week"
+     ]
+    ]
+   },
+   "detail": [
+    "A measure called apparent demand, which compares new supply with coins changing hands, fell by 284,000 bitcoin over 30 days as of Nov. 11. That is the weakest reading since March 2025.",
+    "The one-year version fell by 1.2 million bitcoin, its lowest since February 2023. When both are negative, selling pressure is outweighing buying.",
+    "US spot bitcoin ETFs had $1.1 billion in net outflows last week, and ether ETFs lost $399 million. Bitcoin and ether each fell more than 12% over the week."
+   ],
+   "money": [
+    "Weak demand can mean more downside; only buy crypto with money you can leave alone for years.",
+    "Spreading purchases over time can soften the blow of buying before another drop.",
+    "Losses on crypto sold this year can offset gains on your 2026 taxes."
+   ],
+   "risk": [
+    "Demand gauges can turn quickly; they don't time bottoms reliably."
+   ],
+   "sources": [
+    {
+     "t": "Crypto Market Pulse: November 16, 2026",
+     "d": "crypto.com",
+     "u": "https://crypto.com/en/market-updates/crypto-market-pulse-2026-11-16"
+    }
+   ]
+  },
+  {
+   "id": "illinois-2-4b-gap-2026111622",
+   "type": "news",
+   "cat": "states",
+   "tags": [
+    "states",
+    "benefits"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-16T22:00:00Z",
+   "headline": "Illinois has a $927M surplus now but faces a $2.4B gap next year",
+   "caption": "Strong tax revenue gives Illinois a surplus this year. But federal Medicaid and SNAP changes push next year's budget into the red.",
+   "visual": {
+    "type": "vs",
+    "title": "Illinois budget outlook",
+    "a": [
+     "This year",
+     "+$927M",
+     0.39,
+     "gain"
+    ],
+    "b": [
+     "Next year",
+     "-$2.4B",
+     1,
+     "loss"
+    ],
+    "foot": "Next year's spending rises to about $60.3B."
+   },
+   "detail": [
+    "Illinois expects a $927 million surplus this fiscal year, thanks to strong corporate income and sales tax revenue. Gov. JB Pritzker wants to spend $728 million of it, leaving about $199 million.",
+    "Next year looks harder. Revenue is projected at about $58 billion, but spending rises to about $60.3 billion, partly because the state will cover about $1.4 billion now paid by Washington. That leaves a gap of about $2.4 billion.",
+    "Federal changes are a big factor. Managed care tax changes could create a $1.3 billion hole, and the state's share of SNAP costs could top $400 million a year starting later in the decade."
+   ],
+   "money": [
+    "Budget gaps often lead to fee hikes or program cuts; Illinois residents should watch spring budget talks.",
+    "If you rely on Medicaid or SNAP in Illinois, keep your paperwork current to avoid losing benefits.",
+    "Schools may get less new money than they want, which can affect local property taxes."
+   ],
+   "risk": [
+    "Forecasts assume no recession; the report says conditions for one exist."
+   ],
+   "sources": [
+    {
+     "t": "Illinois' projected $927M surplus could give way to $2.4B deficit next year amid federal changes",
+     "d": "kwqc.com",
+     "u": "https://www.kwqc.com/2026/11/16/illinois-projected-927m-surplus-could-give-way-24b-deficit-next-year-amid-federal-changes/"
+    }
+   ]
+  },
+  {
+   "id": "allies-ai-supply-chain-2026111622",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "world"
+   ],
+   "date": "This week",
+   "ts": "2026-11-16T22:00:00Z",
+   "headline": "US, Japan and India agree to guard AI supply chains from China-linked risks",
+   "caption": "The US and allies will jointly protect key AI technologies. Lawmakers are also pushing tighter AI chip export rules after the Nvidia scandal.",
+   "visual": {
+    "type": "points",
+    "title": "The AI supply chain push",
+    "items": [
+     "US and allies, incl. Japan and India, sign on",
+     "Goal: shield AI supply chains from China-linked risks",
+     "Will list sensitive technologies to protect jointly",
+     "Congress weighs tighter AI chip export rules"
+    ]
+   },
+   "detail": [
+    "The US and allies including Japan and India agreed to protect critical AI supply chains from vulnerabilities linked to China, according to reports. They will identify sensitive technologies for joint protection.",
+    "Separately, US lawmakers are pushing for tighter export rules on AI chips after the espionage controversy around Nvidia. Policymakers are also asking whether data centers in Singapore and Malaysia could give Chinese firms access to restricted US chips.",
+    "Some analysts warn more chip rules could hurt the US industry by shrinking its global reach."
+   ],
+   "money": [
+    "Tighter export rules can hit chip stocks' China sales; check how concentrated your tech holdings are.",
+    "Allied supply chain deals may help chipmakers and equipment firms in Japan and India.",
+    "Broad index funds spread the risk of any one company's policy troubles."
+   ],
+   "risk": [
+    "Details and enforcement of the pact are still unclear."
+   ],
+   "sources": [
+    {
+     "t": "Everything That Happened in AI Today Monday, November 16",
+     "d": "theneuron.ai",
+     "u": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-monday-november-16-2026/"
+    }
+   ]
+  },
+  {
+   "id": "ai-counterintel-hiring-2026111622",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "business"
+   ],
+   "date": "This week",
+   "ts": "2026-11-16T22:00:00Z",
+   "headline": "AI firms ramp up spy-catcher hiring; Anthropic added 33 such staff this year",
+   "caption": "AI companies are hiring more counterintelligence staff over industrial espionage fears. Anthropic hired 33 in 2026, up from 14 in 2025.",
+   "visual": {
+    "type": "vs",
+    "title": "Anthropic counterintelligence hires",
+    "a": [
+     "2025",
+     "14",
+     0.42,
+     "acc"
+    ],
+    "b": [
+     "2026",
+     "33",
+     1,
+     "gain"
+    ],
+    "foot": "Hiring rises amid AI espionage fears."
+   },
+   "detail": [
+    "AI companies are adding counterintelligence staff as fears of industrial espionage grow, Fortune reported. Anthropic reportedly hired 33 people for these roles in 2026, up from 14 the year before.",
+    "The push comes as the Nvidia leadership scandal, tied to alleged espionage, has put AI security in the spotlight. Lawmakers are also pressing for tighter chip controls."
+   ],
+   "money": [
+    "Security, intelligence and compliance skills are in demand at AI firms; it's a growing job niche.",
+    "Companies spending more on security may see higher costs, which can weigh on margins.",
+    "If you work in tech, expect stricter access rules and background checks."
+   ],
+   "risk": [
+    "Hiring numbers come from reports, not company filings."
+   ],
+   "sources": [
+    {
+     "t": "Everything That Happened in AI Today Monday, November 16",
+     "d": "theneuron.ai",
+     "u": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-monday-november-16-2026/"
+    }
+   ]
+  },
+  {
+   "id": "gemini-4-carbon-matharena-2026111622",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai"
+   ],
+   "date": "This week",
+   "ts": "2026-11-16T22:00:00Z",
+   "headline": "Google's Gemini 4 Carbon tops a math test, but costs about 15x more to run",
+   "caption": "Gemini 4 Carbon beat OpenAI's GPT-6.1 Sol on the MathArena benchmark. But its test setup cost about 15 times more and often ran past time limits.",
+   "visual": {
+    "type": "board",
+    "title": "MathArena showdown",
+    "rows": [
+     {
+      "k": "Gemini 4 Carbon",
+      "s": "Google",
+      "v": "#1",
+      "tone": "gain"
+     },
+     {
+      "k": "GPT-6.1 Sol",
+      "s": "OpenAI",
+      "v": "Behind"
+     },
+     {
+      "k": "Cost per test",
+      "s": "Gemini vs GPT",
+      "v": "~15x",
+      "tone": "loss"
+     }
+    ],
+    "foot": "Gemini often exceeded time limits."
+   },
+   "detail": [
+    "Google's Gemini 4 Carbon ranked first on MathArena, a benchmark of math problems, ahead of OpenAI's GPT-6.1 Sol.",
+    "The win came with a catch. The tested setup cost about 15 times more per evaluation, and the model often ran over time limits."
+   ],
+   "money": [
+    "For everyday tasks, a cheaper model may be good enough; compare price before upgrading AI plans.",
+    "Cost per answer matters for businesses using AI at scale.",
+    "Benchmark wins don't always mean a model is best for your use."
+   ],
+   "risk": [
+    "Benchmark results can change with new versions and settings."
+   ],
+   "sources": [
+    {
+     "t": "Everything That Happened in AI Today Monday, November 16",
+     "d": "theneuron.ai",
+     "u": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-monday-november-16-2026/"
+    }
+   ]
+  },
+  {
+   "id": "edu-fed-hike-basics-2026111622",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "markets"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-16T22:00:00Z",
+   "headline": "Rate hikes 101: how the Fed fights inflation",
+   "caption": "Four Fed officials leaned toward more hikes Monday. Here's how a rate hike reaches your wallet.",
+   "scenes": [
+    {
+     "k": "TODAY'S NEWS",
+     "t": "Fed officials hint at more hikes",
+     "s": "Jefferson, Collins, Schmid and Hammack all flagged inflation as the main worry."
+    },
+    {
+     "k": "THE TOOL",
+     "t": "The Fed raises its key rate",
+     "s": "Banks pay more to borrow, so they charge more too."
+    },
+    {
+     "k": "THE CHAIN",
+     "t": "Higher rates ripple out",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "Fed hikes",
+       "Loan rates rise",
+       "People borrow less",
+       "Spending cools",
+       "Prices ease"
+      ]
+     }
+    },
+    {
+     "k": "THE PAIN",
+     "t": "Borrowing gets pricier",
+     "s": "Credit cards, HELOCs and new car loans cost more."
+    },
+    {
+     "k": "THE GAIN",
+     "t": "Savers earn more",
+     "s": "High-yield savings and CDs tend to pay more when rates rise."
+    },
+    {
+     "k": "YOUR MOVE",
+     "t": "Pay down variable debt, shop for yield",
+     "s": "These are general ideas, not personal advice."
+    }
+   ]
+  },
+  {
+   "id": "edu-base-effect-2026111622",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "world"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-16T22:00:00Z",
+   "headline": "Base effect: why gas can be up 31% yet falling",
+   "caption": "Canada's gas prices were up 30.9% from a year ago but down 2.5% from last month. Here's the trick.",
+   "scenes": [
+    {
+     "k": "TODAY'S NEWS",
+     "t": "Canada gas: +30.9% in a year",
+     "s": "Yet prices fell 2.5% from September."
+    },
+    {
+     "k": "THE IDEA",
+     "t": "It depends on what you compare to",
+     "s": "Yearly change looks back 12 months. Monthly change looks back one."
+    },
+    {
+     "k": "THE BASE",
+     "t": "Last October was unusually cheap",
+     "s": "Gas dropped sharply in October 2025, so this year looks extra high."
+    },
+    {
+     "k": "TWO VIEWS",
+     "t": "Same prices, two stories",
+     "viz": {
+      "type": "split",
+      "items": [
+       [
+        "vs last year",
+        "+30.9%"
+       ],
+       [
+        "vs last month",
+        "-2.5%"
+       ],
+       [
+        "Ex-energy inflation",
+        "2.0%",
+        "wide"
+       ]
+      ]
+     },
+     "say": "Up 30.9 percent versus last year, down 2.5 percent versus last month, and just 2 percent inflation outside energy."
+    },
+    {
+     "k": "WHY IT MATTERS",
+     "t": "Headlines can mislead",
+     "s": "A scary yearly number can hide a cooling trend."
+    },
+    {
+     "k": "YOUR MOVE",
+     "t": "Check both the month and the year",
+     "s": "Look at recent direction before reacting to any price headline."
+    }
+   ]
+  },
   {
    "id": "close-third-loss-2026111621",
    "type": "news",
@@ -11332,814 +12067,6 @@
      "t": "US gives states another 6 months before they have to remove people from Medicaid for not working",
      "d": "abcnews.com",
      "u": "https://abcnews.com/US/wireStory/us-states-6-months-remove-people-medicaid-working-138126129"
-    }
-   ]
-  },
-  {
-   "id": "hackman-studio-defaults-2026111609",
-   "type": "news",
-   "cat": "california",
-   "tags": [
-    "california",
-    "business"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T09:20:00Z",
-   "headline": "Hollywood studio landlord Hackman faces $2.1B in loan defaults; a Radford auction looms",
-   "caption": "Lenders have moved on five studio lots since January as filming slumps. Studio City's Radford lot faces a Nov. 24 foreclosure auction.",
-   "visual": {
-    "type": "board",
-    "title": "Hackman lots in trouble",
-    "rows": [
-     {
-      "k": "Radford Studio Center",
-      "s": "Auction set Nov. 24",
-      "v": "$1.1B loan",
-      "tone": "loss"
-     },
-     {
-      "k": "Television City",
-      "s": "Foreclosure likely",
-      "v": "$350M",
-      "tone": "loss"
-     },
-     {
-      "k": "Kaufman Astoria (NY)",
-      "s": "Receiver in charge",
-      "v": "$340M",
-      "tone": "loss"
-     },
-     {
-      "k": "MBS Media Campus",
-      "s": "Debt being sold",
-      "v": "$248M",
-      "tone": "loss"
-     },
-     {
-      "k": "Ex-Sony Animation campus",
-      "s": "Taken by Fortress",
-      "v": "$100M",
-      "tone": "loss"
-     }
-    ],
-    "foot": "Loan amounts; total over $2.1B"
-   },
-   "detail": [
-    "Culver City-based Hackman Capital Partners, which bought up studio lots from 2018 to 2021, is in financial trouble. Lenders have filed defaults or moved to foreclose on five properties since January, with loans totaling more than $2.1 billion.",
-    "Hackman blames the slump in production after the pandemic, the 2023 strikes and shoots moving to cheaper places. Radford Studio Center's 2025 operating income was $15.6 million, versus $60 million projected when its loan was made. Netflix has been under contract since June to buy Radford for close to $400 million.",
-    "Some lots are still healthy, including Culver Studios, leased to Amazon, and Raleigh Studios, leased to Netflix."
-   ],
-   "money": [
-    "If you own commercial real estate funds or REITs, check exposure to studio and office space.",
-    "LA film workers: the slump shows why an emergency fund of several months matters in gig-heavy jobs.",
-    "Distressed sales can create bargains for big buyers, not usually for small investors; be careful with pitches."
-   ],
-   "risk": [
-    "More LA production jobs could leave if studio lots change hands or close."
-   ],
-   "sources": [
-    {
-     "t": "Exit, Stage Left: How Hollywood's Studio Landlord Lost Its Grip",
-     "d": "labusinessjournal.com",
-     "u": "https://labusinessjournal.com/real-estate/exit-stage-left-how-hollywoods-studio-landlord-lost-its-grip/"
-    }
-   ]
-  },
-  {
-   "id": "stellantis-brampton-roshel-2026111609",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business",
-    "world"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T09:20:00Z",
-   "headline": "Stellantis sells its idle Brampton car plant to armored-vehicle maker Roshel",
-   "caption": "The Canadian plant has sat empty for years. Roshel says it may build defense and auto products there, depending on contracts.",
-   "visual": {
-    "type": "deals",
-    "title": "Plant sale",
-    "items": [
-     {
-      "a": "Roshel",
-      "b": "Stellantis Brampton plant",
-      "amt": "Undisclosed",
-      "st": "Close expected by end of 2026",
-      "c": "pend"
-     }
-    ]
-   },
-   "detail": [
-    "Stellantis agreed to sell its long-idle Brampton, Ontario, assembly plant and equipment to Roshel, a private maker of armored vehicles. The price wasn't disclosed, and the deal should close by the end of 2026, pending government approvals.",
-    "Roshel's CEO said the site won't be limited to defense and could take on auto work, but plans depend on contracts. Canada and NATO allies agreed to raise defense spending to 5% of GDP by 2035, and Roshel wants more capacity. Questions remain about how many jobs the site will bring back."
-   ],
-   "money": [
-    "Rising defense budgets are lifting suppliers; defense ETFs are one way to follow the trend.",
-    "Auto workers near idle plants: watch for hiring at new owners, which may need similar skills.",
-    "Automakers selling idle plants can free up cash, a sign of cost-cutting worth watching if you own their stock."
-   ],
-   "risk": [
-    "The deal can still fall through if approvals stall."
-   ],
-   "sources": [
-    {
-     "t": "Defence contractor Roshel looking to build capacity, meet demand with plant purchase",
-     "d": "ckom.com",
-     "u": "https://www.ckom.com/2026/11/16/defence-contractor-roshel-looking-to-build-capacity-meet-demand-with-plant-purchase/"
-    }
-   ]
-  },
-  {
-   "id": "btc-rebound-etf-outflows-canton-2026111609",
-   "type": "news",
-   "cat": "crypto",
-   "tags": [
-    "crypto",
-    "markets"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T09:20:00Z",
-   "headline": "Bitcoin climbs back to $65K from a $61,970 low; Canton and Quant jump about 10%",
-   "caption": "Bitcoin bounced off a 90-day low, but bitcoin ETFs have seen seven straight days of outflows. A few altcoins led the rebound.",
-   "visual": {
-    "type": "board",
-    "title": "Crypto rebound, Mon Nov 16",
-    "rows": [
-     {
-      "k": "Bitcoin",
-      "s": "low was $61,970",
-      "v": "$65,017",
-      "ch": 0.43,
-      "tone": "gain"
-     },
-     {
-      "k": "Ether",
-      "s": "low was $1,710",
-      "v": "$1,824",
-      "ch": 0.5,
-      "tone": "gain"
-     },
-     {
-      "k": "Canton (CC)",
-      "s": "Sunday",
-      "v": "$0.0857",
-      "ch": 10.35,
-      "tone": "gain"
-     },
-     {
-      "k": "Quant (QNT)",
-      "s": "Sunday",
-      "v": "$157.41",
-      "ch": 9.74,
-      "tone": "gain"
-     },
-     {
-      "k": "Bitcoin ETF outflows",
-      "s": "7 straight days",
-      "v": "$1.91B",
-      "tone": "loss"
-     }
-    ],
-    "foot": "Fear & Greed Index: 10 (extreme fear)"
-   },
-   "detail": [
-    "Bitcoin traded near $65,000 Monday after bouncing from $61,970, its lowest level in 90 sessions. It remains well below its 20-day and 50-day averages. Ether recovered to about $1,824 from a low of $1,710.",
-    "Canton jumped about 10% Sunday and Quant rose nearly 10%, leading smaller coins higher. But spot bitcoin ETFs have had seven straight days of outflows, about $1.91 billion in total.",
-    "Fed Chair Kevin Warsh speaks at noon New York time, his first public speech since the October Fed meeting. A hawkish tone could hit risky assets like crypto."
-   ],
-   "money": [
-    "Bounces in a downtrend often fade; don't chase a one-day jump.",
-    "If you buy crypto, small regular amounts can smooth out wild prices.",
-    "Losses this year can offset gains on your taxes; check if selling and rebuying makes sense with a pro."
-   ],
-   "risk": [
-    "A drop below about $62,000 could open the way to the 12-month low near $58,570."
-   ],
-   "sources": [
-    {
-     "t": "Crypto Price Analysis, BTC, ETH, CC, QNT and ZEC, Nov. 16",
-     "d": "thecryptobasic.com",
-     "u": "https://thecryptobasic.com/2026/11/16/crypto-price-analysis-btc-eth-cc-qnt-and-zec-nov-16-canton-and-quant-gain-as-bitcoin-rebounds-from-61970/"
-    },
-    {
-     "t": "Bitcoin price before Warsh speech: the level that decides",
-     "d": "cryptoticker.io",
-     "u": "https://cryptoticker.io/en/bitcoin-price-warsh-speech-productivity-jobs-november-16-2026/"
-    }
-   ]
-  },
-  {
-   "id": "ai-funding-week-mercor-2026111609",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "business",
-    "taxes"
-   ],
-   "date": "Last week",
-   "ts": "2026-11-16T09:20:00Z",
-   "headline": "AI funding week: Mercor raises $750M at $20B; an AI tax-research tool gets $176M",
-   "caption": "Agent startups pulled in big checks last week. Mercor trains AI agents on pro work, and Blue J builds an AI tax researcher.",
-   "visual": {
-    "type": "deals",
-    "title": "Biggest AI rounds, Nov. 9-15",
-    "items": [
-     {
-      "a": "Mercor",
-      "b": "Series D, $20B value",
-      "amt": "$750M",
-      "st": "Benchmark, Nvidia, others",
-      "c": "ok"
-     },
-     {
-      "a": "Blue J",
-      "b": "AI tax research, $700M value",
-      "amt": "$176M",
-      "st": "Led by JMI Equity",
-      "c": "ok"
-     },
-     {
-      "a": "Traversal",
-      "b": "Series B",
-      "amt": "$120M",
-      "st": "Kleiner, Redpoint, Khosla",
-      "c": "ok"
-     },
-     {
-      "a": "Ocient",
-      "b": "Series C",
-      "amt": "$100M",
-      "st": "BOKA, OCA Ventures",
-      "c": "ok"
-     }
-    ]
-   },
-   "detail": [
-    "Mercor raised $750 million at a $20 billion valuation from investors including Benchmark, Felicis and Nvidia. It trains and tests AI agents on professional tasks.",
-    "Blue J, which makes an AI tax research agent, raised $176 million at a $700 million value, partly to expand in the UK and let employees sell some shares. Traversal raised $120 million for agents that find causes of software outages, and Ocient raised $100 million for data tools."
-   ],
-   "money": [
-    "AI tax tools are spreading to preparers; ask yours how they check AI answers.",
-    "Private AI deals rarely reach small investors; be wary of 'pre-IPO' share offers online.",
-    "If you work in tax, legal or finance, learning these AI tools can raise your value at work."
-   ],
-   "risk": [
-    "Sky-high startup values can fall fast if AI spending slows."
-   ],
-   "sources": [
-    {
-     "t": "The AI Insider Funding Pulse",
-     "d": "theaiinsider.tech",
-     "u": "https://theaiinsider.tech/2026/11/16/the-ai-insider-funding-pulse-2/"
-    }
-   ]
-  },
-  {
-   "id": "irs-charity-deduction-nonitemizers-2026111609",
-   "type": "news",
-   "cat": "taxes",
-   "tags": [
-    "taxes"
-   ],
-   "date": "This week",
-   "ts": "2026-11-16T09:20:00Z",
-   "headline": "IRS reminder: no itemizing needed to deduct up to $1,000 in charity gifts for 2026",
-   "caption": "Starting with 2026 returns filed next year, standard-deduction filers can deduct cash gifts to charity. Couples get up to $2,000.",
-   "visual": {
-    "type": "board",
-    "title": "New charity deduction",
-    "rows": [
-     {
-      "k": "Single filers",
-      "v": "Up to $1,000",
-      "tone": "gain"
-     },
-     {
-      "k": "Married filing jointly",
-      "v": "Up to $2,000",
-      "tone": "gain"
-     },
-     {
-      "k": "Starts",
-      "s": "returns filed in 2027",
-      "v": "Tax year 2026"
-     },
-     {
-      "k": "Gifts of goods",
-      "v": "Don't count",
-      "tone": "loss"
-     },
-     {
-      "k": "Donor-advised funds",
-      "v": "Don't count",
-      "tone": "loss"
-     }
-    ],
-    "foot": "Permanent under the Working Families Tax Cuts law"
-   },
-   "detail": [
-    "The IRS is reminding taxpayers that a permanent charity deduction for people who don't itemize begins with tax year 2026. Singles can deduct up to $1,000 of cash gifts, and married couples filing jointly up to $2,000.",
-    "Only cash gifts to qualified charities count. Donated goods, gifts to donor-advised funds and gifts to supporting organizations don't qualify. Keep receipts, bank records or a letter from the charity showing its name, the date and the amount."
-   ],
-   "money": [
-    "Planning year-end giving? Gifts made by Dec. 31 count for your 2026 return.",
-    "Pay by card, check or bank transfer so you have a record; cash in a jar is hard to prove.",
-    "Couples who give $2,000 in the 22% bracket could cut their tax by about $440."
-   ],
-   "risk": [
-    "Payments for raffles, galas or goods you get back may not count fully."
-   ],
-   "sources": [
-    {
-     "t": "IRS reminder: Permanent charitable contribution deduction begins for returns filed next year",
-     "d": "irs.gov",
-     "u": "https://www.irs.gov/node/167431"
-    }
-   ]
-  },
-  {
-   "id": "min-wage-jan-2027-2026111609",
-   "type": "news",
-   "cat": "states",
-   "tags": [
-    "states",
-    "business"
-   ],
-   "date": "Jan 1, 2027",
-   "ts": "2026-11-16T09:20:00Z",
-   "headline": "Raises Jan. 1: Michigan hits $15 and Washington $17.73 as 15+ states lift minimum pay",
-   "caption": "Workers in more than a dozen states get higher pay floors in January. Others, like Texas and Pennsylvania, stay at $7.25.",
-   "visual": {
-    "type": "board",
-    "title": "New minimum wages, Jan. 1",
-    "rows": [
-     {
-      "k": "Washington",
-      "s": "highest statewide",
-      "v": "$17.73",
-      "tone": "gain"
-     },
-     {
-      "k": "Connecticut",
-      "v": "$17.48",
-      "tone": "gain"
-     },
-     {
-      "k": "California",
-      "v": "$17.40",
-      "tone": "gain"
-     },
-     {
-      "k": "Rhode Island",
-      "s": "from $16.00",
-      "v": "$17.00",
-      "tone": "gain"
-     },
-     {
-      "k": "Michigan",
-      "s": "from $13.73",
-      "v": "$15.00",
-      "tone": "gain"
-     },
-     {
-      "k": "Virginia",
-      "s": "up 98 cents",
-      "v": "$13.75",
-      "tone": "gain"
-     }
-    ],
-    "foot": "Federal minimum: $7.25 since 2009"
-   },
-   "detail": [
-    "Michigan's minimum wage jumps to $15 from $13.73 on Jan. 1, the biggest confirmed increase. Washington rises to $17.73, the highest statewide rate. Connecticut goes to $17.48, California to $17.40 and Rhode Island to $17.",
-    "New Jersey, Colorado, Maine, Minnesota, Ohio, South Dakota, Montana, Nebraska and Arizona also have January increases. Alaska's rise to $15 waits until July 1. Texas, North Carolina, Tennessee and Pennsylvania remain at the $7.25 federal floor."
-   ],
-   "money": [
-    "Hourly workers: check your first January paycheck to make sure the new rate is applied.",
-    "A raise can change benefit eligibility; report income changes to SNAP or Medicaid on time.",
-    "Small business owners: budget now for higher payroll and any pay compression above minimum."
-   ],
-   "risk": [
-    "Some employers may cut hours or raise prices to offset higher wages."
-   ],
-   "sources": [
-    {
-     "t": "Millions of US Workers Set for 2027 Pay Hike as 16 States Lift Minimum Wages",
-     "d": "ibtimes.co.uk",
-     "u": "https://www.ibtimes.co.uk/us-states-minimum-wage-increases-2027-1830704"
-    }
-   ]
-  },
-  {
-   "id": "edu-charity-deduction-math-2026111609",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "taxes"
-   ],
-   "date": "Explainer",
-   "ts": "2026-11-16T09:20:00Z",
-   "headline": "The new charity deduction: what $1,000 in gifts really saves you",
-   "caption": "You don't need to itemize anymore to get a tax break for giving. Here's how the math works.",
-   "scenes": [
-    {
-     "k": "NEW FOR 2026",
-     "t": "Charity counts, even without itemizing",
-     "s": "Standard-deduction filers can now deduct cash gifts."
-    },
-    {
-     "k": "THE LIMITS",
-     "t": "$1,000 single, $2,000 married",
-     "viz": {
-      "type": "split",
-      "items": [
-       [
-        "Single",
-        "$1,000"
-       ],
-       [
-        "Married joint",
-        "$2,000"
-       ],
-       [
-        "Starts with tax year",
-        "2026",
-        "wide"
-       ]
-      ]
-     },
-     "say": "Singles can deduct up to one thousand dollars, and married couples up to two thousand, starting with tax year 2026."
-    },
-    {
-     "k": "DEDUCTION ≠ REFUND",
-     "t": "It lowers taxable income, not your tax bill 1:1",
-     "s": "Your savings equal the gift times your tax bracket."
-    },
-    {
-     "k": "THE MATH",
-     "t": "$1,000 gift in the 22% bracket",
-     "viz": {
-      "type": "flow",
-      "items": [
-       "Give $1,000 cash",
-       "Deduct $1,000",
-       "Tax drops about $220"
-      ]
-     },
-     "say": "Give one thousand dollars in the 22 percent bracket and your tax drops about two hundred twenty dollars."
-    },
-    {
-     "k": "WHAT DOESN'T COUNT",
-     "t": "Goods, donor-advised funds",
-     "s": "Only cash gifts to qualified charities qualify."
-    },
-    {
-     "k": "DO THIS",
-     "t": "Keep a record of every gift",
-     "s": "A receipt or bank record with the charity's name, date and amount."
-    }
-   ]
-  },
-  {
-   "id": "edu-europe-ai-shelter-2026111609",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "markets"
-   ],
-   "date": "Explainer",
-   "ts": "2026-11-16T09:20:00Z",
-   "headline": "Why Europe held up while AI stocks fell: sector mix explained",
-   "caption": "Indexes differ in what they own. That mix decides who gets hit when one industry stumbles.",
-   "scenes": [
-    {
-     "k": "MONDAY",
-     "t": "Asia fell. Europe stayed near a record.",
-     "s": "Same news, very different moves."
-    },
-    {
-     "k": "THE REASON",
-     "t": "Europe owns less AI",
-     "s": "Its big index leans on banks, drugmakers and energy, not chipmakers."
-    },
-    {
-     "k": "SECTOR MIX",
-     "t": "What's inside drives the ride",
-     "viz": {
-      "type": "flow",
-      "items": [
-       "AI news hits chips",
-       "Chip-heavy markets fall",
-       "Less-exposed markets hold"
-      ]
-     }
-    },
-    {
-     "k": "THE UPGRADE",
-     "t": "Morgan Stanley raised Europe to overweight",
-     "s": "It sees the region as a shelter from AI swings."
-    },
-    {
-     "k": "FOR YOU",
-     "t": "Check what your funds actually hold",
-     "s": "Many 'global' funds still lean heavily on US tech."
-    },
-    {
-     "k": "THE IDEA",
-     "t": "Spread risk across regions and sectors",
-     "s": "Diversifying means one bad industry can't sink everything."
-    }
-   ]
-  },
-  {
-   "id": "asia-close-kospi-nikkei-2026111608",
-   "type": "news",
-   "cat": "markets",
-   "tags": [
-    "markets",
-    "ai"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T08:20:00Z",
-   "headline": "Asia closes red before Nvidia: Kospi falls 2.8%, Nikkei 1.6%",
-   "caption": "Chip stocks led Asia lower on Monday, a day before Nvidia reports. Hong Kong bucked the trend with a small gain.",
-   "visual": {
-    "type": "board",
-    "title": "Asia close, Mon Nov 16",
-    "rows": [
-     {
-      "k": "Kospi",
-      "s": "South Korea",
-      "v": "5,142.84",
-      "ch": -2.8,
-      "tone": "loss"
-     },
-     {
-      "k": "Nikkei 225",
-      "s": "Japan",
-      "v": "60,182.50",
-      "ch": -1.6,
-      "tone": "loss"
-     },
-     {
-      "k": "Shanghai",
-      "v": "3,621.46",
-      "ch": -0.4,
-      "tone": "loss"
-     },
-     {
-      "k": "ASX 200",
-      "s": "Australia",
-      "v": "9,064.30",
-      "ch": -0.2,
-      "tone": "loss"
-     },
-     {
-      "k": "Hang Seng",
-      "s": "Hong Kong",
-      "v": "23,852.96",
-      "ch": 0.9,
-      "tone": "gain"
-     }
-    ],
-    "foot": "Taiwan's Taiex fell 4.1%"
-   },
-   "detail": [
-    "Asian markets finished mostly lower as worries about the AI trade carried into a new week. South Korea's Kospi dropped 2.8% and Japan's Nikkei lost 1.6%. Taiwan fell 4.1%.",
-    "Chipmakers took the biggest hits. SK Hynix and Kioxia each fell 5.5%, Tokyo Electron lost 5.2%, SoftBank fell 4.2% and TSMC dropped 3.4%.",
-    "Nvidia reports on Tuesday, its first report since Jensen Huang resigned as CEO. Anthropic's stock debut is also set for later this week."
-   ],
-   "money": [
-    "If you hold a broad Asia or emerging-markets fund, chip stocks are a big slice of it. Check how much.",
-    "Big swings before a key report can reverse fast. Avoid panic-selling a long-term fund on one day.",
-    "Hong Kong rose while others fell, a reminder that spreading money across regions can soften drops."
-   ],
-   "risk": [
-    "Nvidia's results could move chip stocks sharply in either direction this week."
-   ],
-   "sources": [
-    {
-     "t": "Stocks decline in Asia as investor concerns over Nvidia fallout extend into another week",
-     "d": "wsls.com",
-     "u": "https://www.wsls.com/business/2026/11/16/stocks-decline-in-asia-as-investor-concerns-over-nvidia-fallout-extend-into-another-week/"
-    }
-   ]
-  },
-  {
-   "id": "copper-four-month-low-2026111608",
-   "type": "news",
-   "cat": "markets",
-   "tags": [
-    "markets",
-    "world"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T08:20:00Z",
-   "headline": "Copper slides to its lowest in almost four months; BHP falls",
-   "caption": "Copper dropped about 1.6% early Monday, and iron ore fell for a third day. Mining shares dragged Australia's market lower.",
-   "visual": {
-    "type": "stat",
-    "title": "Metals, Mon Nov 16",
-    "num": "-1.6%",
-    "tone": "loss",
-    "label": "LME copper hit its lowest level in almost four months.",
-    "facts": [
-     [
-      "Copper",
-      "$13,371.50",
-      "per tonne, LME 3-month"
-     ],
-     [
-      "Iron ore",
-      "$90.95",
-      "per tonne, Friday spot, -0.4%"
-     ],
-     [
-      "Gold",
-      "$3,871",
-      "per ounce, -0.2%"
-     ]
-    ]
-   },
-   "detail": [
-    "Copper fell to its lowest level in almost four months early Monday. Three-month copper on the London Metal Exchange was down about 1.6% at $13,371.50 a tonne.",
-    "Iron ore futures in Dalian fell for a third straight session. Big miner BHP lost 1.2% and copper miner Capstone fell 2.7%. Coal producer New Hope dropped 3.3% after a 10% fall in quarterly output.",
-    "Spot gold was also down about 0.2% at $3,871 an ounce."
-   ],
-   "money": [
-    "Copper is often read as a gauge of global factory demand. Falling prices can hint at a slowing economy.",
-    "Mining stocks and funds tend to move with metal prices. Know your exposure before buying the dip.",
-    "Cheaper copper can eventually lower costs for wiring, electronics and home building."
-   ],
-   "risk": [
-    "Metals can rebound quickly on any China stimulus or trade news."
-   ],
-   "sources": [
-    {
-     "t": "ASX falls as miners drag, Coles investigates cybersecurity incident — as it happened",
-     "d": "abc.net.au",
-     "u": "https://abc.net.au/news/2026-11-16/asx-markets-business-live-news-nov-16/107388134"
-    }
-   ]
-  },
-  {
-   "id": "asx-elders-adore-beauty-2026111608",
-   "type": "news",
-   "cat": "markets",
-   "tags": [
-    "markets",
-    "business"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T08:20:00Z",
-   "headline": "Australia movers: Elders jumps 7.8% on profit; Adore Beauty sinks 36%",
-   "caption": "Farm services firm Elders posted a big profit jump. Online beauty seller Adore Beauty hit a record low after slashing its outlook.",
-   "visual": {
-    "type": "stat",
-    "title": "ASX movers, Mon Nov 16",
-    "num": "-36%",
-    "tone": "loss",
-    "label": "Adore Beauty fell to a record low of 17 cents after cutting guidance.",
-    "rows": [
-     [
-      "Elders",
-      7.8
-     ],
-     [
-      "Adore Beauty",
-      -36.0
-     ],
-     [
-      "IperionX",
-      -4.7
-     ]
-    ]
-   },
-   "detail": [
-    "Elders said its statutory profit rose 187% to $144 million for fiscal 2026. Underlying sales revenue climbed 31% to $4.0 billion. It held its dividend at 36 cents, and the shares rose 7.8%, the ASX 200's top gainer.",
-    "Adore Beauty fell 36% to 17 cents, a record low. It cut its fiscal 2027 underlying EBITDA guidance to $4.0 to $6.5 million, down from $9 to $13 million. Revenue for the first 20 weeks fell 8%.",
-    "Adore Beauty also said talks with its bank about loan covenants are ongoing."
-   ],
-   "money": [
-    "A guidance cut can hit a small stock far harder than a big one. Size positions in small caps carefully.",
-    "Loan covenant talks are a warning sign. Check a company's debt before buying a beaten-down stock.",
-    "Strong results paired with a steady dividend often attract income investors."
-   ],
-   "risk": [
-    "Prices are in Australian dollars and these are thinly traded compared with US stocks."
-   ],
-   "sources": [
-    {
-     "t": "ASX falls as miners drag, Coles investigates cybersecurity incident — as it happened",
-     "d": "abc.net.au",
-     "u": "https://abc.net.au/news/2026-11-16/asx-markets-business-live-news-nov-16/107388134"
-    }
-   ]
-  },
-  {
-   "id": "idp-rejects-blackstone-third-2026111608",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business",
-    "markets"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T08:20:00Z",
-   "headline": "IELTS co-owner IDP rejects Blackstone's third buyout offer at A$3.00 a share",
-   "caption": "IDP Education turned down a third Blackstone proposal, saying it undervalues the business. Two earlier bids were also rejected.",
-   "visual": {
-    "type": "timeline",
-    "title": "Blackstone's bids for IDP",
-    "items": [
-     {
-      "d": "EARLIER",
-      "t": "A$2.30 a share",
-      "s": "Rejected"
-     },
-     {
-      "d": "SEP 9",
-      "t": "A$2.50 a share",
-      "s": "Rejected Sept. 22"
-     },
-     {
-      "d": "NOV 16",
-      "t": "A$3.00 a share",
-      "s": "Rejected",
-      "now": true
-     }
-    ]
-   },
-   "detail": [
-    "IDP Education, which co-owns the IELTS English test, rejected Blackstone's third takeover proposal of A$3.00 per share. The board said the offer undervalues the business.",
-    "IDP shares closed Friday at A$2.57, giving it a market value of about A$715 million. Blackstone's earlier offers were A$2.30 and A$2.50 a share.",
-    "In September, the board called the A$2.50 bid opportunistic and pointed to its multi-year turnaround plan."
-   ],
-   "money": [
-    "Takeover targets often trade below the offer price. That gap reflects the risk the deal never happens.",
-    "Buying a stock just for a buyout is a bet. If the bidder walks away, shares can fall back.",
-    "Rejections sometimes lead to higher offers, as happened here twice."
-   ],
-   "risk": [
-    "Blackstone could walk away, which could send the shares lower."
-   ],
-   "sources": [
-    {
-     "t": "ASX falls as miners drag, Coles investigates cybersecurity incident — as it happened",
-     "d": "abc.net.au",
-     "u": "https://abc.net.au/news/2026-11-16/asx-markets-business-live-news-nov-16/107388134"
-    },
-    {
-     "t": "IELTS English-language exam co-owner IDP spurns Blackstone's sweetened bid",
-     "d": "ksl.com",
-     "u": "https://www.ksl.com/article/51626969/idp-rejects-blackstones-improved-takeover-offer"
-    }
-   ]
-  },
-  {
-   "id": "coles-cyber-incident-2026111608",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T08:20:00Z",
-   "headline": "Australian grocer Coles probes a weekend cyber incident",
-   "caption": "Coles says it has found no sign that customer data was taken so far. Some Liquorland click-and-collect orders are having problems.",
-   "visual": {
-    "type": "points",
-    "title": "Coles cyber incident",
-    "items": [
-     "Incident happened over the weekend",
-     "No evidence so far of data taken",
-     "Liquorland click-and-collect hit for some",
-     "Stores and operations keep running",
-     "Shares down 0.1% in morning trade"
-    ]
-   },
-   "detail": [
-    "Coles, one of Australia's two big supermarket chains, is investigating a cyber incident that happened over the weekend.",
-    "It said its investigation so far found no evidence that customer, staff or supplier data was compromised or removed. A small number of customers are having trouble with Liquorland click-and-collect.",
-    "Coles is working with outside cybersecurity experts and promised more updates. Its shares slipped 0.1% in morning trade."
-   ],
-   "money": [
-    "After any store's cyber incident, watch your card statements for charges you don't recognize.",
-    "Use a unique password for each shopping account so one breach can't unlock others.",
-    "A credit freeze is free and can block new accounts opened in your name."
-   ],
-   "risk": [
-    "Early findings can change as investigations go on."
-   ],
-   "sources": [
-    {
-     "t": "ASX falls as miners drag, Coles investigates cybersecurity incident — as it happened",
-     "d": "abc.net.au",
-     "u": "https://abc.net.au/news/2026-11-16/asx-markets-business-live-news-nov-16/107388134"
     }
    ]
   }
