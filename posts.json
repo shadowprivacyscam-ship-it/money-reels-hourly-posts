@@ -1,6 +1,831 @@
 {
- "updated": "2026-11-17T13:00:00Z",
+ "updated": "2026-11-17T14:00:00Z",
  "items": [
+  {
+   "id": "retail-sales-oct-2026111714",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets",
+    "business"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T14:00:00Z",
+   "headline": "October retail sales rise 0.2%, but the core 'control group' beats with 0.6%",
+   "caption": "Shoppers spent $748.2 billion in October, up 0.2% from September. Car and furniture sales fell, but core sales grew faster than expected.",
+   "visual": {
+    "type": "vs",
+    "title": "Control group sales, October",
+    "a": [
+     "Expected",
+     "+0.3%",
+     0.5,
+     "acc"
+    ],
+    "b": [
+     "Actual",
+     "+0.6%",
+     1,
+     "gain"
+    ],
+    "foot": "Headline sales +0.2% vs +0.8% in September"
+   },
+   "detail": [
+    "The Census Bureau's early estimate shows retail and food sales of $748.2 billion in October. That is 0.2% more than September and 6.8% more than a year ago. September's gain stayed at 0.8%.",
+    "Car dealers fell 1.6% and furniture stores fell 2.3%. Clothing slipped 0.7%. Online stores rose 1.2% and are up 11.8% from a year ago. Sales without cars rose 0.6%.",
+    "The 'control group', which feeds into GDP, rose 0.6% versus about 0.3% expected, per CoinDesk. The Census Bureau notes the 0.2% headline is within its margin of error."
+   ],
+   "money": [
+    "Online sellers keep gaining share; compare prices online before buying in stores this holiday season.",
+    "Falling car and furniture sales can mean more dealer discounts; ask for year-end deals.",
+    "Solid core spending can push the Fed toward hikes, so lock in high savings or CD rates while they last."
+   ],
+   "risk": [
+    "Early estimates often get revised next month.",
+    "Strong spending can keep interest rates high for borrowers."
+   ],
+   "sources": [
+    {
+     "t": "US retail sales growth slows to 0.2% in October from 0.8% in September",
+     "d": "tribuneindia.com",
+     "u": "https://tribuneindia.com/news/business/us-retail-sales-growth-slows-to-0-2-in-october-from-0-8-in-september-auto-furniture-sales-decline"
+    },
+    {
+     "t": "Headline retail sales rise, as expected, in October; core sales beat",
+     "d": "seekingalpha.com",
+     "u": "https://seekingalpha.com/news/4673619-headline-retail-sales-rise-as-expected-in-october-core-sales-beat-on-the-upside"
+    },
+    {
+     "t": "Live updates: Bitcoin holds near $64,000 ahead of Nvidia earnings",
+     "d": "coindesk.com",
+     "u": "https://www.coindesk.com/business/2026/11/17/live-updates-bitcoin-holds-near-usd64-000-as-tech-slides-ahead-of-nvidia-earnings"
+    }
+   ]
+  },
+  {
+   "id": "musalem-hikes-2026111714",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets",
+    "politics"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T14:00:00Z",
+   "headline": "Fed's Musalem says the economy likely needs several rate hikes before spring 2027",
+   "caption": "St. Louis Fed President Alberto Musalem says more hikes are likely coming. He says tighter financial markets don't worry him much.",
+   "visual": {
+    "type": "points",
+    "title": "Fed hike talk heats up",
+    "items": [
+     "Musalem: several hikes likely before spring 2027",
+     "He is 'not overly concerned' about tighter markets",
+     "Economist Robin Brooks: real rates are the highest in 20+ years",
+     "Fed meeting minutes come out Wednesday"
+    ]
+   },
+   "detail": [
+    "St. Louis Fed President Alberto Musalem said Tuesday the US economy will likely need several interest rate increases before the spring of 2027.",
+    "He said he is not overly worried that financial conditions have tightened. Stocks have slid in recent days and the 10-year Treasury yield is above 5%.",
+    "Not everyone agrees. Economist Robin Brooks called Fed policy a mistake, saying inflation-adjusted rates are at their highest in more than 20 years and could cause a recession."
+   ],
+   "money": [
+    "If hikes come, variable-rate debt like credit cards and HELOCs gets pricier; pay down balances now.",
+    "Savers can lock in today's high CD and Treasury yields before any shift.",
+    "Consider fixed rates over adjustable ones if you're taking out a loan soon."
+   ],
+   "risk": [
+    "Fed officials disagree; hikes are not certain.",
+    "Higher rates can hurt stock and home prices."
+   ],
+   "sources": [
+    {
+     "t": "Live updates: Bitcoin holds near $64,000 ahead of Nvidia earnings",
+     "d": "coindesk.com",
+     "u": "https://www.coindesk.com/business/2026/11/17/live-updates-bitcoin-holds-near-usd64-000-as-tech-slides-ahead-of-nvidia-earnings"
+    },
+    {
+     "t": "Stock market today: Dow and S&P 500 futures slip, Nasdaq futures rise",
+     "d": "finance.yahoo.com",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-17-dow-sp-500-nasdaq-nvidia-earnings-091546152.html"
+    }
+   ]
+  },
+  {
+   "id": "anthropic-ipo-top-2026111714",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "markets"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T14:00:00Z",
+   "headline": "New: Anthropic guides its IPO price at or above the top of its $70-$78 range",
+   "caption": "Anthropic's order books close at 4 p.m. ET today, per Bloomberg. Pricing is set for Wednesday and trading on Nasdaq for Thursday under ANT.",
+   "visual": {
+    "type": "ticker",
+    "sym": "ANT",
+    "ex": "NASDAQ",
+    "rows": [
+     {
+      "k": "Price range",
+      "s": "guiding at or above top",
+      "v": "$70-$78"
+     },
+     {
+      "k": "Shares offered",
+      "s": "Class A",
+      "v": "825M"
+     },
+     {
+      "k": "Value at $78",
+      "s": "approx.",
+      "v": "$1.4T"
+     },
+     {
+      "k": "Pricing / listing",
+      "s": "Wed / Thu",
+      "v": "Nov 18 / 19"
+     }
+    ]
+   },
+   "detail": [
+    "What's new: Bloomberg reports Anthropic is guiding to a price at or above the top of its $70 to $78 range. That signals strong demand from big investors.",
+    "Anthropic is selling 825 million Class A shares. At $78, the company would be worth about $1.4 trillion and the raise would top $90 billion.",
+    "Order books close at 4 p.m. ET Tuesday. Pricing is set for Nov. 18 and the stock is due to list on Nasdaq on Nov. 19 under the ticker ANT."
+   ],
+   "money": [
+    "Hot IPOs often swing wildly on day one; setting a limit order can stop you paying far above your target.",
+    "Index funds may add ANT later, so you could gain exposure without buying on day one.",
+    "Check whether your broker offers IPO share access; small investors sometimes get allocations."
+   ],
+   "risk": [
+    "Pricing above range can mean a richer valuation and less room to rise.",
+    "New listings can fall below the IPO price."
+   ],
+   "sources": [
+    {
+     "t": "Live updates: Bitcoin holds near $64,000 ahead of Nvidia earnings",
+     "d": "coindesk.com",
+     "u": "https://www.coindesk.com/business/2026/11/17/live-updates-bitcoin-holds-near-usd64-000-as-tech-slides-ahead-of-nvidia-earnings"
+    },
+    {
+     "t": "US Pre-Market: Nvidia rises nearly 1% ahead of earnings",
+     "d": "tradingkey.com",
+     "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262308986-nvidia-earnings-ai-chip-remote-access-restrictions-tradingkey"
+    }
+   ]
+  },
+  {
+   "id": "nvidia-export-committee-2026111714",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "world",
+    "markets"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T14:00:00Z",
+   "headline": "Nvidia sets up a board export-control committee as China slams a new US chip rule",
+   "caption": "Nvidia's board now has a committee on national security and export controls. Beijing says it opposes a new US rule on remote access to AI chips.",
+   "visual": {
+    "type": "timeline",
+    "title": "Chip rules, this week",
+    "items": [
+     {
+      "d": "NOV 16",
+      "t": "US rule limits remote access to AI chips",
+      "s": "via third-country data centers"
+     },
+     {
+      "d": "NOV 17",
+      "t": "China says it opposes the rule",
+      "s": "vows to protect its firms"
+     },
+     {
+      "d": "NOV 17",
+      "t": "Nvidia board adds export committee",
+      "s": "meets at least quarterly"
+     },
+     {
+      "d": "NOV 17",
+      "t": "Nvidia earnings after the close",
+      "now": true
+     }
+    ]
+   },
+   "detail": [
+    "Nvidia formed a new board committee on national security and export controls. It is chaired by Suzanne Nora Johnson, with directors Stephen Neal and John Dabiri, and will meet at least every quarter.",
+    "The move comes a day after the Commerce Department issued a rule that limits firms in restricted countries from using advanced US AI chips remotely through data centers in other countries. Some overseas data centers may now need licenses.",
+    "China's Foreign Ministry said Tuesday it opposes what it called abuse of export controls. Nvidia shares were up about 1% before the open, ahead of earnings after the bell."
+   ],
+   "money": [
+    "Export rules can add costs for chip and cloud firms; watch for comments on this in Nvidia's earnings call.",
+    "If you own chip stocks, check how much of their sales come from China or Asia.",
+    "Broad index funds spread out the risk of any one company's rule fight."
+   ],
+   "risk": [
+    "China could retaliate against US companies.",
+    "Compliance costs could squeeze profits."
+   ],
+   "sources": [
+    {
+     "t": "Live updates: Bitcoin holds near $64,000 ahead of Nvidia earnings",
+     "d": "coindesk.com",
+     "u": "https://www.coindesk.com/business/2026/11/17/live-updates-bitcoin-holds-near-usd64-000-as-tech-slides-ahead-of-nvidia-earnings"
+    },
+    {
+     "t": "US Pre-Market: Nvidia rises nearly 1% as US tightens AI chip remote access",
+     "d": "tradingkey.com",
+     "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262308986-nvidia-earnings-ai-chip-remote-access-restrictions-tradingkey"
+    }
+   ]
+  },
+  {
+   "id": "bitwise-sol-2031-2026111714",
+   "type": "news",
+   "cat": "crypto",
+   "tags": [
+    "crypto"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T14:00:00Z",
+   "headline": "Bitwise's bull case sees Solana at $1,100 by 2031; its bear case is $80",
+   "caption": "Bitwise laid out three price paths for Solana. The bull case needs huge growth in tokenized stocks and payments.",
+   "visual": {
+    "type": "board",
+    "title": "Bitwise SOL targets for 2031",
+    "rows": [
+     {
+      "k": "Bull case",
+      "v": "$1,100",
+      "tone": "gain"
+     },
+     {
+      "k": "Base case",
+      "v": "$385",
+      "tone": "acc"
+     },
+     {
+      "k": "Bear case",
+      "v": "$80",
+      "tone": "loss"
+     },
+     {
+      "k": "SOL last week",
+      "s": "weekly change",
+      "v": "-19.7%",
+      "ch": -19.7,
+      "tone": "loss"
+     }
+    ],
+    "foot": "Forecasts, not promises"
+   },
+   "detail": [
+    "Asset manager Bitwise projects Solana could reach $1,100 by 2031 in its best case, $385 in its base case and $80 in its worst case.",
+    "The bull case assumes 5% of global stocks become tokenized, with Solana handling most of that trading. It would also need about 23 times today's transaction volume.",
+    "The forecast lands after a rough week: Solana fell 19.7%, bitcoin 14.2% and ether 18.2%."
+   ],
+   "money": [
+    "Long-range forecasts vary widely; size any crypto bet so a big drop won't hurt your budget.",
+    "Dollar-cost averaging can smooth out buying during big swings.",
+    "Compare fees on crypto apps and ETFs before buying."
+   ],
+   "risk": [
+    "Crypto can lose most of its value fast.",
+    "Bull cases depend on big assumptions that may not happen."
+   ],
+   "sources": [
+    {
+     "t": "CZ denies Binance sold crypto, Bitwise sees Solana at $1,100 by 2031, and more",
+     "d": "theblock.co",
+     "u": "https://www.theblock.co/newsletters/the-daily/2026-11-17-cz-binance-bitwise-solana-more-crypto-news-441584"
+    }
+   ]
+  },
+  {
+   "id": "crypto-alt-bounce-2026111714",
+   "type": "news",
+   "cat": "crypto",
+   "tags": [
+    "crypto",
+    "markets"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T14:00:00Z",
+   "headline": "Zcash jumps 5% and Hyperliquid 4% as bitcoin steadies near $64,000-$65,000",
+   "caption": "Some smaller coins bounced Tuesday after last week's rout. Ether stayed just under $1,800.",
+   "visual": {
+    "type": "stat",
+    "title": "Tuesday crypto moves",
+    "num": "+5%",
+    "tone": "gain",
+    "label": "Zcash led a small bounce in altcoins.",
+    "rows": [
+     [
+      "ZEC (~$927)",
+      5.0
+     ],
+     [
+      "HYPE",
+      4.0
+     ],
+     [
+      "SOL",
+      3.0
+     ]
+    ]
+   },
+   "detail": [
+    "Bitcoin held near $64,000 to $65,000 early Tuesday after sliding to about $62,000 over the weekend, its lowest since July.",
+    "Zcash rose about 5% to roughly $927, Hyperliquid's HYPE gained 4% and Solana nearly 3%. Ether was just under $1,800.",
+    "Analysts are watching bitcoin's 200-week moving average near $68,000 as a key level."
+   ],
+   "money": [
+    "Bounces after big drops can fade; set a plan before you buy.",
+    "Use limit orders to avoid overpaying in fast moves.",
+    "Track your cost basis for taxes if you trade often."
+   ],
+   "risk": [
+    "Smaller coins swing much more than bitcoin."
+   ],
+   "sources": [
+    {
+     "t": "Live updates: Bitcoin holds near $64,000 ahead of Nvidia earnings",
+     "d": "coindesk.com",
+     "u": "https://www.coindesk.com/business/2026/11/17/live-updates-bitcoin-holds-near-usd64-000-as-tech-slides-ahead-of-nvidia-earnings"
+    }
+   ]
+  },
+  {
+   "id": "nebraska-sgo-2026111714",
+   "type": "news",
+   "cat": "states",
+   "tags": [
+    "states",
+    "taxes"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T14:00:00Z",
+   "headline": "Nebraska opens sign-ups for groups in the new $1,700 federal school tax credit",
+   "caption": "Nebraska is now taking applications from scholarship groups for the federal tax credit program. Groups must apply by Jan. 15, 2027.",
+   "visual": {
+    "type": "points",
+    "title": "Nebraska's school tax credit step",
+    "items": [
+     "Scholarship groups can apply now",
+     "Deadline: Jan. 15, 2027",
+     "Donors get up to a $1,700 federal tax credit",
+     "Students under 300% of area median income qualify"
+    ]
+   },
+   "detail": [
+    "Gov. Jim Pillen announced Monday that Nebraska is accepting applications from Scholarship-Granting Organizations. The state Department of Revenue will review them.",
+    "The program comes from the 2025 federal tax law. Donors anywhere can get a federal income tax credit of up to $1,700 for qualifying gifts.",
+    "Public, private and homeschool students in Nebraska can get scholarships if their household income is under 300% of the area median. Groups must apply by Jan. 15, 2027."
+   ],
+   "money": [
+    "A tax credit cuts your tax bill dollar for dollar, so a $1,700 gift could cost you close to nothing.",
+    "Families under the income limit should watch for approved groups offering scholarships.",
+    "Check if your own state has opted in, since that decides where you can give."
+   ],
+   "risk": [
+    "Rules on donations and timing are still being set.",
+    "Not every state is joining the program."
+   ],
+   "sources": [
+    {
+     "t": "Pillen Announces First Step in Federal School Choice Scholarship Program",
+     "d": "plains-sentinel.com",
+     "u": "https://plains-sentinel.com/p/pillen-announces-first-step-in-federal"
+    }
+   ]
+  },
+  {
+   "id": "medicare-status-letters-2026111714",
+   "type": "news",
+   "cat": "benefits",
+   "tags": [
+    "benefits",
+    "immigration"
+   ],
+   "date": "This week",
+   "ts": "2026-11-17T14:00:00Z",
+   "headline": "About 32,000 could lose Medicare Feb. 1 if they can't prove an eligible status",
+   "caption": "Social Security is mailing notices to people whose immigration status it can't confirm. Coverage may end Feb. 1, 2027, without proof.",
+   "visual": {
+    "type": "timeline",
+    "title": "Medicare status check",
+    "items": [
+     {
+      "d": "NOV 10",
+      "t": "Social Security sends notices"
+     },
+     {
+      "d": "DEC",
+      "t": "Medicare mails pink notices",
+      "s": "to those who must respond"
+     },
+     {
+      "d": "BY LETTER DATE",
+      "t": "Send proof of status",
+      "now": true
+     },
+     {
+      "d": "FEB 1",
+      "t": "Coverage may end",
+      "s": "if not confirmed"
+     }
+    ]
+   },
+   "detail": [
+    "CMS estimates about 32,000 people could lose Medicare. They enrolled before July 4, 2025, and their immigration status can't be confirmed.",
+    "A 2025 law removed refugees, asylees, TPS holders and some others from Medicare eligibility. US citizens, green card holders, Cuban-Haitian entrants and some Pacific island migrants still qualify. Social Security benefits are not changing.",
+    "People can upload documents in their my Social Security account or bring them to a local office. Social Security's help line is 1-844-507-7131."
+   ],
+   "money": [
+    "If you or a parent gets a notice, respond early to avoid a gap in coverage.",
+    "If coverage ends, check employer, spouse or state programs; CMS says those losing Medicare this way won't get Marketplace premium help.",
+    "Watch for scams: only send documents to Social Security, never a third party."
+   ],
+   "risk": [
+    "Missing the deadline could mean losing coverage on Feb. 1.",
+    "Losing Medicare can bring large medical bills."
+   ],
+   "sources": [
+    {
+     "t": "32,000 To Lose Medicare As 2027 Deadline Approaches",
+     "d": "newsweek.com",
+     "u": "https://www.newsweek.com/32000-lose-medicare-2027-deadline-approaches-12705589"
+    },
+    {
+     "t": "Social Security Letters Say Medicare May End February 1",
+     "d": "medicaremonopoly.substack.com",
+     "u": "https://medicaremonopoly.substack.com/p/community-chest-social-security-medicare-letters-nov-16-2026"
+    }
+   ]
+  },
+  {
+   "id": "aon-usi-close-2026111714",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T14:00:00Z",
+   "headline": "Aon completes its $17 billion purchase of insurance broker USI",
+   "caption": "Aon closed its deal for USI, the 10th-largest US insurance broker. USI brings about $3 billion in yearly revenue.",
+   "visual": {
+    "type": "deals",
+    "title": "Insurance broker deal",
+    "items": [
+     {
+      "a": "Aon",
+      "b": "USI Insurance Services",
+      "amt": "$17B",
+      "st": "Completed Nov. 16",
+      "c": "ok"
+     }
+    ]
+   },
+   "detail": [
+    "Aon said it completed its $17 billion acquisition of USI on Nov. 16. USI has about $3 billion in annual revenue, more than 10,500 workers and nearly 200 US offices.",
+    "USI will operate as 'USI, an Aon company.' Mike Sicard becomes president of Aon and leads its mid-market business.",
+    "Aon expects about $395 million in yearly cost savings and other gains, and will update its 2027 outlook in early 2027."
+   ],
+   "money": [
+    "If your business uses USI, review your policies at renewal and compare quotes.",
+    "Broker mergers can change service teams; ask who your new contact is.",
+    "Insurance broker stocks can be steady earners; compare them in a diversified portfolio."
+   ],
+   "risk": [
+    "Big mergers can bring job cuts and service changes."
+   ],
+   "sources": [
+    {
+     "t": "Aon completes acquisition of USI (press release, Form 8-K)",
+     "d": "sec.gov",
+     "u": "https://www.sec.gov/Archives/edgar/data/0000315293/000119312526463733/d181018dex991.htm"
+    }
+   ]
+  },
+  {
+   "id": "thanksgiving-travel-2026111714",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business"
+   ],
+   "date": "This week",
+   "ts": "2026-11-17T14:00:00Z",
+   "headline": "81.5 million to travel for Thanksgiving as domestic airfares jump 39%",
+   "caption": "AAA expects about 81.5 million travelers next week, slightly fewer than last year. Hopper says Thanksgiving fares are the highest in at least 10 years.",
+   "visual": {
+    "type": "board",
+    "title": "Thanksgiving travel 2026",
+    "rows": [
+     {
+      "k": "Total travelers",
+      "s": "Nov 24-30, AAA",
+      "v": "81.5M"
+     },
+     {
+      "k": "By car",
+      "v": "~73M"
+     },
+     {
+      "k": "Flying",
+      "v": "~6M"
+     },
+     {
+      "k": "Domestic fares",
+      "s": "vs 2025, Hopper",
+      "v": "+39%",
+      "ch": 39,
+      "tone": "loss"
+     },
+     {
+      "k": "Sunday Nov 29 return",
+      "s": "avg round trip",
+      "v": "~$604"
+     }
+    ]
+   },
+   "detail": [
+    "AAA forecasts about 81.5 million people will travel from Nov. 24 to Nov. 30. That's down slightly from 81.6 million last year. Nearly 73 million will drive and almost 6 million will fly.",
+    "Hopper data shows domestic round-trip fares up 39% from 2025. Sunday, Nov. 29, is expected to be the busiest flying day.",
+    "Hopper earlier found returning Sunday costs about $604, versus roughly $350 for a Monday or Tuesday return."
+   ],
+   "money": [
+    "Flying home Monday or Tuesday instead of Sunday could save about $250 a ticket.",
+    "Leaving on Thanksgiving Day itself has been one of the cheaper departure days.",
+    "Book Amtrak early; it is adding extra trains on the DC-New York route."
+   ],
+   "risk": [
+    "Fares and gas prices can still rise.",
+    "FAA staffing problems may cause delays."
+   ],
+   "sources": [
+    {
+     "t": "Thanksgiving travel forecast: Record number of travelers expected",
+     "d": "abc30.com",
+     "u": "https://abc30.com/story/thanksgiving-travel-record-number-travelers-expected-fly-take-trains-drive-holiday/20032744/"
+    },
+    {
+     "t": "Holiday travelers face decade-high airfare",
+     "d": "foxweather.com",
+     "u": "https://www.foxweather.com/lifestyle/holiday-travel-costliest-decade-thanksgiving-christmas"
+    }
+   ]
+  },
+  {
+   "id": "vance-iran-tanker-2026111714",
+   "type": "news",
+   "cat": "world",
+   "tags": [
+    "world",
+    "markets"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T14:00:00Z",
+   "headline": "Vance rules out a 'forever war' as a third US carrier heads to the Middle East",
+   "caption": "Vice President Vance said Trump won't let the Iran conflict drag on, without setting a timeline. A gas tanker was hit near Oman late Monday.",
+   "visual": {
+    "type": "points",
+    "title": "Gulf tensions, latest",
+    "items": [
+     "Vance: no 'forever war,' no 'artificial timeline'",
+     "A third US aircraft carrier is headed to the region",
+     "LPG tanker Tara Gas hit near Khasab, Oman",
+     "Crew of 25 reported safe by India"
+    ]
+   },
+   "detail": [
+    "Vice President JD Vance said Trump will not let the conflict with Iran become a forever war, even as the US sends a third aircraft carrier to the region. He said he would not set an artificial timeline.",
+    "The Panama-flagged gas tanker Tara Gas was hit about 7 nautical miles north of Khasab, Oman, on Monday evening, starting an engine room fire. India said all 25 crew were safe.",
+    "Iran's Revolutionary Guards also said they fired drones at a US radar at a Bahrain air base. Bahrain later gave an all-clear."
+   ],
+   "money": [
+    "Shipping attacks can lift oil and gas prices; fill up when local prices dip.",
+    "Energy and defense stocks often move on Gulf news; keep any bets small.",
+    "Higher fuel costs feed into airfares and shipping, so budget extra for the holidays."
+   ],
+   "risk": [
+    "Escalation could spike oil prices quickly.",
+    "Markets can swing on headlines."
+   ],
+   "sources": [
+    {
+     "t": "US-Iran tensions: tanker incident near Hormuz as Vance rules out forever war",
+     "d": "gulfnews.com",
+     "u": "https://gulfnews.com/world/mena/middle-east-conflict-tanker-incident-near-hormuz-as-vance-rules-out-forever-war-1.500749924"
+    },
+    {
+     "t": "US, Israel, Iran war live updates, November 17",
+     "d": "khaleejtimes.com",
+     "u": "https://www.khaleejtimes.com/world/mena/us-israel-iran-saudi-arabia-yemen-war-live-updates-november-17-2026"
+    }
+   ]
+  },
+  {
+   "id": "disney-more-layoffs-2026111714",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T14:00:00Z",
+   "headline": "Disney's CFO says more layoffs are coming as it funds $26 billion in content",
+   "caption": "CFO Hugh Johnston told CNBC Disney expects more job cuts. They help fund a projected $26 billion content budget for fiscal 2027.",
+   "visual": {
+    "type": "timeline",
+    "title": "Disney job cuts in 2026",
+    "items": [
+     {
+      "d": "APR",
+      "t": "1,000 jobs",
+      "s": "TV and film"
+     },
+     {
+      "d": "JUL",
+      "t": "100+ jobs",
+      "s": "Pixar"
+     },
+     {
+      "d": "SEP",
+      "t": "Hundreds of jobs",
+      "s": "HR and tech"
+     },
+     {
+      "d": "NOV 17",
+      "t": "CFO: more layoffs expected",
+      "now": true
+     }
+    ]
+   },
+   "detail": [
+    "Disney CFO Hugh Johnston told CNBC the company expects more layoffs. Disney has not said which divisions or how many jobs.",
+    "The cuts are part of a plan to save about $3 billion by fiscal 2029 and help pay for an expected $26 billion in content spending in fiscal 2027.",
+    "Disney has already cut 1,000 TV and film jobs in April, more than 100 at Pixar in July and hundreds in HR and tech in September."
+   ],
+   "money": [
+    "If you work in media, update your resume and build an emergency fund now.",
+    "Disney shareholders get a higher dividend; consider reinvesting it.",
+    "Laid-off workers should check state unemployment and COBRA or ACA options quickly."
+   ],
+   "risk": [
+    "Job cuts may hit more media and entertainment workers.",
+    "Cost cuts don't guarantee higher profits."
+   ],
+   "sources": [
+    {
+     "t": "Disney says more layoffs are on the way",
+     "d": "fastcompany.com",
+     "u": "https://www.fastcompany.com/91643954/disney-layoffs-update-more-job-cuts-expected-revenue-soars?partner=rss"
+    }
+   ]
+  },
+  {
+   "id": "edu-ipo-pricing-2026111714",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "ai",
+    "markets"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-17T14:00:00Z",
+   "headline": "IPO pricing: what 'top of the range' really means",
+   "caption": "Anthropic is guiding its IPO at or above its range. Here's how IPO prices get set and what it means for you.",
+   "scenes": [
+    {
+     "k": "THE SETUP",
+     "t": "Companies set a price range first",
+     "s": "Anthropic picked $70 to $78 a share."
+    },
+    {
+     "k": "BOOK BUILDING",
+     "t": "Big investors place orders",
+     "s": "Banks collect orders to see how much demand there is.",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "Set range",
+       "Collect orders",
+       "Close books",
+       "Set final price",
+       "Trading starts"
+      ]
+     }
+    },
+    {
+     "k": "STRONG DEMAND",
+     "t": "Hot demand pushes price up",
+     "s": "Pricing at or above the top means orders beat supply."
+    },
+    {
+     "k": "THE MATH",
+     "t": "Higher price, bigger valuation",
+     "viz": {
+      "type": "split",
+      "items": [
+       [
+        "Shares",
+        "825M"
+       ],
+       [
+        "Top price",
+        "$78"
+       ],
+       [
+        "Value",
+        "~$1.4T",
+        "wide"
+       ]
+      ]
+     },
+     "say": "825 million shares at 78 dollars helps value Anthropic at about 1.4 trillion dollars."
+    },
+    {
+     "k": "DAY ONE",
+     "t": "First trades can swing wildly",
+     "s": "Most small investors buy only when trading opens, often above the IPO price."
+    },
+    {
+     "k": "YOUR MOVE",
+     "t": "Use limits, keep it small",
+     "s": "A limit order caps what you pay. Don't put money you need into one new stock."
+    }
+   ]
+  },
+  {
+   "id": "edu-airfare-timing-2026111714",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "business"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-17T14:00:00Z",
+   "headline": "Holiday airfare: why the day you fly changes the price",
+   "caption": "Thanksgiving fares are up 39%. Moving your flight by a day can save hundreds.",
+   "scenes": [
+    {
+     "k": "THE PROBLEM",
+     "t": "Thanksgiving fares are up 39%",
+     "s": "Hopper says they're the highest in at least 10 years."
+    },
+    {
+     "k": "WHY",
+     "t": "Airlines price by demand",
+     "s": "When everyone wants the same day, prices climb."
+    },
+    {
+     "k": "THE PEAK",
+     "t": "Sunday is the priciest return",
+     "s": "Nov. 29 is expected to be the busiest flying day."
+    },
+    {
+     "k": "THE GAP",
+     "t": "Shift one day, save big",
+     "viz": {
+      "type": "split",
+      "items": [
+       [
+        "Sunday return",
+        "~$604"
+       ],
+       [
+        "Mon/Tue return",
+        "~$350"
+       ],
+       [
+        "Possible savings",
+        "~$250",
+        "wide"
+       ]
+      ]
+     },
+     "say": "Returning Sunday averages about 604 dollars, versus about 350 for Monday or Tuesday."
+    },
+    {
+     "k": "CHEAP DAYS",
+     "t": "Fly on the holiday itself",
+     "s": "Leaving on Thanksgiving Day has been one of the cheaper options."
+    },
+    {
+     "k": "YOUR MOVE",
+     "t": "Be flexible, track prices",
+     "s": "Set fare alerts and compare nearby airports before you book."
+    }
+   ]
+  },
   {
    "id": "klarna-q3-2026111713",
    "type": "news",
@@ -10892,902 +11717,6 @@
     }
    ],
    "ts": "2026-11-17T02:00:00Z"
-  },
-  {
-   "id": "molina-movers-2026111702",
-   "type": "news",
-   "cat": "markets",
-   "tags": [
-    "markets",
-    "benefits"
-   ],
-   "date": "Mon Nov 16",
-   "headline": "Molina jumps 11% after the Medicaid work-rule delay; Bath & Body Works falls 10%",
-   "caption": "Medicaid insurer Molina led S&P 500 gainers on Monday. Only 145 S&P stocks rose while 355 fell.",
-   "visual": {
-    "type": "stat",
-    "title": "Monday's biggest S&P movers",
-    "num": "+11.3%",
-    "tone": "gain",
-    "label": "Molina led gainers after states got more time on Medicaid work rules.",
-    "rows": [
-     [
-      "Molina",
-      11.27
-     ],
-     [
-      "HubSpot",
-      6.78
-     ],
-     [
-      "Bath & Body Works",
-      -9.91
-     ],
-     [
-      "Adeia",
-      -9.06
-     ],
-     [
-      "Astera Labs",
-      -8.79
-     ]
-    ]
-   },
-   "detail": [
-    "Molina Healthcare rose 11.27% on Monday, the S&P 500's top gainer. The move followed news that states can delay enforcing Medicaid work requirements for six months.",
-    "Fewer people losing coverage means more members for Medicaid insurers. HubSpot also gained 6.78%.",
-    "On the losing side, Bath & Body Works fell 9.91%, Adeia 9.06% and Astera Labs 8.79%. Breadth was weak: 145 S&P stocks rose and 355 fell."
-   ],
-   "money": [
-    "Policy news can move health insurers fast; know what drives a stock before buying.",
-    "Health care often holds up when tech sells off.",
-    "Chasing a one-day jump can mean buying at the top."
-   ],
-   "risk": [
-    "The delay is optional, so states may not use it.",
-    "Insurer stocks can reverse on new rules."
-   ],
-   "sources": [
-    {
-     "t": "Closing Look — Monday, November 16, 2026",
-     "d": "cappnotes.substack.com",
-     "u": "https://cappnotes.substack.com/p/closing-look-monday-november-16-2026"
-    }
-   ],
-   "ts": "2026-11-17T02:00:00Z"
-  },
-  {
-   "id": "disney-earnings-preview-2026111702",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business",
-    "markets"
-   ],
-   "date": "Tue Nov 17",
-   "headline": "Disney reports before Tuesday's open: Wall Street expects $25.2B in sales",
-   "caption": "Analysts see revenue up about 10.7% and adjusted earnings of $1.68 a share. Parks, streaming and buybacks are in focus.",
-   "visual": {
-    "type": "board",
-    "title": "What analysts expect",
-    "rows": [
-     {
-      "k": "Revenue",
-      "v": "$25.19B",
-      "ch": 10.73,
-      "tone": "gain"
-     },
-     {
-      "k": "Adjusted EPS",
-      "v": "$1.68",
-      "ch": 60.41,
-      "tone": "gain"
-     },
-     {
-      "k": "Operating income",
-      "s": "EBIT est.",
-      "v": "$4.83B"
-     },
-     {
-      "k": "Buybacks",
-      "s": "fiscal 2026 plan",
-      "v": "$9B+"
-     }
-    ],
-    "foot": "Quarter includes an extra 53rd week."
-   },
-   "detail": [
-    "Disney reports results before the market opens Tuesday. Analysts expect revenue of about $25.19 billion, up 10.73% from a year ago, and adjusted earnings of $1.68 a share.",
-    "The quarter includes an extra 53rd week, which lifts the comparison. Investors will watch parks and cruises against streaming profits.",
-    "They will also look for updates on Disney's plan to buy back at least $9 billion of stock in fiscal 2026, and on cost cuts."
-   ],
-   "money": [
-    "Disney's parks results are a read on how families are spending on travel.",
-    "If you own Disney, buybacks can support the share price over time.",
-    "An extra week in a quarter can make growth look better than it is; compare carefully."
-   ],
-   "risk": [
-    "Weak park bookings or streaming costs could hit the stock.",
-    "Results land on a volatile day with Nvidia due after the close."
-   ],
-   "sources": [
-    {
-     "t": "Earning Preview: Walt Disney revenue expected to increase by 10.73%",
-     "d": "itiger.com",
-     "u": "https://www.itiger.com/news/1104300035"
-    }
-   ],
-   "ts": "2026-11-17T02:00:00Z"
-  },
-  {
-   "id": "mortgage-727-2026111702",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business",
-    "markets"
-   ],
-   "date": "Mon Nov 16",
-   "headline": "30-year mortgage rates climb to about 7.27%, up 0.37 point in a week",
-   "caption": "A $400,000 loan now costs about $2,731 a month in principal and interest. That's about $276 more than a year ago.",
-   "visual": {
-    "type": "vs",
-    "title": "Monthly payment on a $400K loan",
-    "a": [
-     "A year ago (6.22%)",
-     "$2,455",
-     0.9,
-     "acc"
-    ],
-    "b": [
-     "Now (7.26%)",
-     "$2,731",
-     1,
-     "loss"
-    ],
-    "foot": "Principal and interest only."
-   },
-   "detail": [
-    "The average 30-year fixed rate was 7.27% on Monday, according to NerdWallet's data. That's up 1 basis point from the day before and 37 basis points from a week ago.",
-    "Another tracker put the 30-year at 7.26%, against 6.22% a year ago. On a $400,000 loan, that means about $2,731 a month versus $2,455.",
-    "Rates are rising with the 10-year Treasury yield, which is above 5%, and with bets on a December Fed hike."
-   ],
-   "money": [
-    "Get quotes from at least three lenders; rates vary a lot from one to the next.",
-    "If you're buying soon, ask about rate locks and their cost.",
-    "Paying points can lower your rate, but only pays off if you keep the loan for years."
-   ],
-   "risk": [
-    "A December rate hike could push mortgage rates higher.",
-    "Rate quotes change daily."
-   ],
-   "sources": [
-    {
-     "t": "Mortgage Rates Today, Monday, November 16: A Little Higher",
-     "d": "nerdwallet.com",
-     "u": "https://www.nerdwallet.com/mortgages/news/mortgage-rates-today-monday-november-16-2026"
-    },
-    {
-     "t": "Mortgage Rates Today: 30-Year 7.26% — Nov 16, 2026",
-     "d": "mortgagedaily.com",
-     "u": "https://www.mortgagedaily.com/rates/mortgage-rates-today-2026-11-16/"
-    }
-   ],
-   "ts": "2026-11-17T02:00:00Z"
-  },
-  {
-   "id": "medicaid-work-delay-2026111702",
-   "type": "news",
-   "cat": "benefits",
-   "tags": [
-    "benefits",
-    "states",
-    "politics"
-   ],
-   "date": "This week",
-   "headline": "Medicaid work rules: states can delay penalties to June 30; they must tell CMS by Dec. 11",
-   "caption": "The work requirements still start Jan. 1, but states can opt for a six-month grace period. Up to 10.1 million people could lose coverage, one report estimates.",
-   "visual": {
-    "type": "timeline",
-    "title": "Medicaid work rule dates",
-    "items": [
-     {
-      "d": "DEC 11",
-      "t": "States must notify CMS",
-      "s": "To use the six-month delay",
-      "now": true
-     },
-     {
-      "d": "JAN 1",
-      "t": "Work rules begin",
-      "s": "80 hours a month of work, school or service"
-     },
-     {
-      "d": "JUN 30",
-      "t": "Grace period ends",
-      "s": "For states that opt in"
-     }
-    ]
-   },
-   "detail": [
-    "CMS says states can choose a six-month 'hold harmless' period before enforcing new Medicaid work requirements. States that want it must notify CMS by Dec. 11, and the delay runs through June 30, 2027.",
-    "The rules start Jan. 1. Many adults will need to show at least 80 hours a month of work, job training, school or community service.",
-    "A Robert Wood Johnson Foundation report estimates up to 10.1 million people could lose Medicaid. Nebraska started early and has seen many people dropped for paperwork reasons."
-   ],
-   "money": [
-    "If you're on Medicaid, keep pay stubs, school or volunteer records in one place now.",
-    "Update your address and contact info with your state so you don't miss notices.",
-    "If you lose Medicaid, ask about ACA marketplace plans; enrollment for Jan. 1 coverage ends Dec. 15."
-   ],
-   "risk": [
-    "Not every state will take the delay.",
-    "Paperwork problems can cut off coverage even for people who qualify."
-   ],
-   "sources": [
-    {
-     "t": "CMS gives states another 6 months to implement Medicaid work requirements",
-     "d": "healthcaredive.com",
-     "u": "https://www.healthcaredive.com/news/cms-gives-states-another-6-months-to-implement-medicaid-work-requirements/874773/"
-    },
-    {
-     "t": "CMS Announces Optional 6-Month Delay for Enforcing Medicaid Work Requirements",
-     "d": "kff.org",
-     "u": "https://www.kff.org/quick-insights/cms-announces-optional-6-month-delay-for-enforcing-medicaid-work-requirements/"
-    }
-   ],
-   "ts": "2026-11-17T02:00:00Z"
-  },
-  {
-   "id": "payroll-cap-6700-2026111702",
-   "type": "news",
-   "cat": "taxes",
-   "tags": [
-    "taxes",
-    "benefits",
-    "politics"
-   ],
-   "date": "This week",
-   "headline": "Raising the Social Security tax cap to $300K would cost top earners about $6,700",
-   "caption": "Democrats want to lift the payroll tax cap after the midterms. The cap rises to $192,300 in 2027 on its own.",
-   "visual": {
-    "type": "board",
-    "title": "Social Security payroll tax",
-    "rows": [
-     {
-      "k": "2026 wage cap",
-      "v": "$184,500"
-     },
-     {
-      "k": "2027 wage cap",
-      "v": "$192,300",
-      "tone": "acc"
-     },
-     {
-      "k": "Employee rate",
-      "s": "employer matches",
-      "v": "6.2%"
-     },
-     {
-      "k": "Extra tax at $300K",
-      "s": "if cap rose to $300K",
-      "v": "~$6,700",
-      "tone": "loss"
-     }
-    ],
-    "foot": "Nothing has passed Congress."
-   },
-   "detail": [
-    "Sen. Bernie Sanders says scrapping the Social Security payroll tax cap and raising benefits by at least $2,400 a year are top priorities. Congress has not passed anything.",
-    "Workers pay 6.2% on wages up to a cap, and employers match it. The cap is $184,500 this year and rises to $192,300 in 2027.",
-    "A Tax Policy Center economist estimates that raising the cap to $300,000 would cost someone earning that much about $6,700 a year. Self-employed people pay both halves, so their bill would roughly double."
-   ],
-   "money": [
-    "If you earn above the cap, your paychecks get bigger late in the year once you hit it; plan for that.",
-    "Self-employed high earners should watch this most, since they pay both halves.",
-    "Retirement income like pensions and IRA withdrawals isn't subject to payroll tax."
-   ],
-   "risk": [
-    "A presidential veto could block changes.",
-    "Plans differ, so final numbers could change a lot."
-   ],
-   "sources": [
-    {
-     "t": "After Democrats Sweep Congress, Your Social Security Taxes Could Rise by $6,700",
-     "d": "finance.yahoo.com",
-     "u": "https://finance.yahoo.com/economy/policy/articles/democrats-sweep-congress-social-security-163234400.html"
-    }
-   ],
-   "ts": "2026-11-17T02:00:00Z"
-  },
-  {
-   "id": "bia-10-day-deadline-2026111702",
-   "type": "news",
-   "cat": "immigration",
-   "tags": [
-    "immigration",
-    "politics"
-   ],
-   "date": "Tue Nov 17",
-   "headline": "New: DOJ rule cuts the time to file an immigration appeal from 30 days to 10",
-   "caption": "The rule is published Tuesday and takes effect 30 days later. Pending cases keep the old 30-day window.",
-   "visual": {
-    "type": "vs",
-    "title": "Deadline to appeal to the BIA",
-    "a": [
-     "Before",
-     "30 days",
-     1,
-     "acc"
-    ],
-    "b": [
-     "New rule",
-     "10 days",
-     0.33,
-     "loss"
-    ],
-    "foot": "Some asylum cases keep 30 days."
-   },
-   "detail": [
-    "A Justice Department rule published Nov. 17 shortens the deadline to appeal an immigration judge's decision to the Board of Immigration Appeals. It drops from 30 days to 10 calendar days. This adds detail to Monday's report on the same rule.",
-    "It takes effect 30 days after publication, so about mid-December. Cases already pending keep 30 days, and some asylum cases are exempt. The board can also dismiss more appeals without full review.",
-    "DOJ points to a backlog that grew from 35,837 pending appeals in 2017 to 325,774 in 2026. Lawyers' groups say 10 days is nearly impossible to meet. A judge struck down an earlier version in March over skipped public comment."
-   ],
-   "money": [
-    "Families facing immigration court should line up a lawyer before a judge rules, not after.",
-    "Nonprofit legal aid groups can help with appeal costs.",
-    "People who lose an appeal can still go to federal court, though it costs more."
-   ],
-   "risk": [
-    "New lawsuits are expected.",
-    "Detained people without lawyers may struggle most to meet the deadline."
-   ],
-   "sources": [
-    {
-     "t": "Immigrants Face 10-Day Deportation Appeal Deadline as Trump Administration Revives Blocked Rule",
-     "d": "mwakilishi.com",
-     "u": "https://mwakilishi.com/news/2026-11-16/immigrants-face-10-day-deportation-appeal-deadline-as-trump-administration-revives"
-    }
-   ],
-   "ts": "2026-11-17T02:00:00Z"
-  },
-  {
-   "id": "saylor-visa-limits-2026111702",
-   "type": "news",
-   "cat": "immigration",
-   "tags": [
-    "immigration",
-    "business"
-   ],
-   "date": "Mon Nov 16",
-   "headline": "Judge strikes down limits that would cap foreign student visas at four years",
-   "caption": "Judge Dennis Saylor tossed rules that also cut journalist stays to 240 days. The administration has appealed earlier rulings.",
-   "visual": {
-    "type": "board",
-    "title": "The rules the judge struck down",
-    "rows": [
-     {
-      "k": "Students",
-      "s": "was: length of studies",
-      "v": "4-year cap"
-     },
-     {
-      "k": "Journalists",
-      "s": "was: up to 5 years",
-      "v": "240 days"
-     },
-     {
-      "k": "Chinese journalists",
-      "s": "plus extensions",
-      "v": "90 days"
-     }
-    ],
-    "foot": "Over 1.1M international students came in 2023-24."
-   },
-   "detail": [
-    "US District Judge Dennis Saylor on Monday struck down a Homeland Security policy limiting how long foreign students and journalists can stay. He called it arbitrary and an abuse of discretion.",
-    "The rules would have capped student admission at four years, with extensions needed after that. Journalists would have been limited to 240-day stays, and Chinese journalists to 90 days.",
-    "Saylor said the limits would block longer programs like PhDs and joint degrees. Unions for universities, teachers and journalists brought the case. The rules had been paused before taking effect in September."
-   ],
-   "money": [
-    "International students in long programs keep their current status for now; save all school records.",
-    "Colleges rely on tuition from foreign students, so the ruling matters to campus budgets.",
-    "Watch for an appeal that could change the rules again."
-   ],
-   "risk": [
-    "The administration could win on appeal.",
-    "Visa rules can change quickly by new policy."
-   ],
-   "sources": [
-    {
-     "t": "US judge strikes down Trump visa restrictions on foreign students, journalists",
-     "d": "ca.news.yahoo.com",
-     "u": "https://ca.news.yahoo.com/us-judge-tosses-visa-rules-212321449.html"
-    }
-   ],
-   "ts": "2026-11-17T02:00:00Z"
-  },
-  {
-   "id": "ukraine-talks-berlin-2026111702",
-   "type": "news",
-   "cat": "world",
-   "tags": [
-    "world",
-    "politics"
-   ],
-   "date": "Tue Nov 17",
-   "headline": "New: Ukraine talks head to Berlin, but Russia says it never agreed to add Europe",
-   "caption": "Zelenskyy called Monday's online talks with US envoys and Europeans 'not easy.' The EU plans 113 new Russia sanctions.",
-   "visual": {
-    "type": "points",
-    "title": "Where peace talks stand",
-    "items": [
-     "Ukraine met online with Witkoff, Kushner and 5 European nations",
-     "Next: a Berlin meeting with the 'Coalition of the Willing'",
-     "Moscow says it hasn't agreed to widen talks",
-     "No date set for the next US-Ukraine-Russia round",
-     "EU plans 113 new sanctions on Russia"
-    ]
-   },
-   "detail": [
-    "Ukraine held online talks Monday with US envoys Steve Witkoff and Jared Kushner, plus France, Germany, Britain, Italy and Poland. They agreed to meet next in Berlin with the 'Coalition of the Willing.'",
-    "Russia says it has not agreed to expand talks beyond the US, Ukraine and Russia, despite US claims that Europe would join. No date is set for the next round. Kushner says progress is being made.",
-    "Fighting escalated as Ukraine hit the Crimea Bridge and refineries. Ireland's foreign minister said the EU plans 113 new sanctions on Russia."
-   ],
-   "money": [
-    "Peace headlines can swing oil and European stocks; avoid trading on rumors.",
-    "Defense stocks often move on talks news.",
-    "Energy prices could ease if a deal comes, but that is far from certain."
-   ],
-   "risk": [
-    "Talks could stall with no timeline.",
-    "New strikes could hit energy supplies."
-   ],
-   "sources": [
-    {
-     "t": "Ukraine holds peace talks with US, Europe as conflict escalates",
-     "d": "aljazeera.com",
-     "u": "https://www.aljazeera.com/news/2026/11/17/ukraine-holds-peace-talks-with-us-europe-as-conflict-escalates"
-    }
-   ],
-   "ts": "2026-11-17T02:00:00Z"
-  },
-  {
-   "id": "robinhood-crypto-rev-2026111702",
-   "type": "news",
-   "cat": "crypto",
-   "tags": [
-    "crypto",
-    "markets"
-   ],
-   "date": "Mon Nov 16",
-   "headline": "Crypto stocks slide: Robinhood -7.5%, Coinbase -6.1%; Robinhood crypto revenue fell 55%",
-   "caption": "Bitcoin hovered near $65,000 after a weekend dip toward $62,000. Robinhood's crypto trading revenue was $120 million last quarter.",
-   "visual": {
-    "type": "stat",
-    "title": "Crypto-linked stocks, Monday",
-    "num": "-55%",
-    "tone": "loss",
-    "label": "Drop in Robinhood's crypto trading revenue from a year earlier.",
-    "rows": [
-     [
-      "Strategy",
-      -7.7
-     ],
-     [
-      "Robinhood",
-      -7.45
-     ],
-     [
-      "Coinbase",
-      -6.12
-     ],
-     [
-      "IBIT (bitcoin ETF)",
-      -5.52
-     ]
-    ]
-   },
-   "detail": [
-    "Crypto-linked stocks fell hard Monday. Robinhood lost 7.45%, Coinbase 6.12% and Strategy 7.70%. The iShares Bitcoin Trust fell 5.52%.",
-    "Robinhood's crypto transaction revenue was $120 million last quarter, down 55% from a year earlier. That's about 8.5% of its $1.42 billion in revenue.",
-    "Bitcoin traded near $65,000 Monday evening after dipping toward $62,000 over the weekend. It is down about 13% in a week."
-   ],
-   "money": [
-    "Brokers earn less when crypto trading dries up; their stocks can fall faster than bitcoin.",
-    "If you buy crypto, compare fees across apps; spreads add up.",
-    "Keep crypto a small part of your portfolio given these swings."
-   ],
-   "risk": [
-    "Bitcoin's $60,000-$62,000 area is being tested.",
-    "More selling could hit crypto stocks again."
-   ],
-   "sources": [
-    {
-     "t": "Robinhood Stocks Fall 5.4% as Crypto Rout Pressures a Shrinking Revenue Line",
-     "d": "finance.yahoo.com",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/robinhood-stocks-fall-5-4-175615099.html"
-    },
-    {
-     "t": "Crypto Market Today, Nov. 16: Bitcoin Searches for Stability",
-     "d": "fool.com",
-     "u": "https://www.fool.com/coverage/stock-market-today/2026/11/16/crypto-market-today-nov-16-bitcoin-searches-for-stability-after-usd230-billion-crypto-sell-off/"
-    },
-    {
-     "t": "Closing Look — Monday, November 16, 2026",
-     "d": "cappnotes.substack.com",
-     "u": "https://cappnotes.substack.com/p/closing-look-monday-november-16-2026"
-    }
-   ],
-   "ts": "2026-11-17T02:00:00Z"
-  },
-  {
-   "id": "edu-payroll-cap-2026111702",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "taxes"
-   ],
-   "date": "Explainer",
-   "headline": "The Social Security tax cap: why some paychecks grow in December",
-   "caption": "Democrats want to raise or remove the cap. Here's how it works today.",
-   "scenes": [
-    {
-     "k": "TODAY'S NEWS",
-     "t": "Lawmakers eye the payroll tax cap",
-     "s": "Raising it to $300K would cost top earners about $6,700."
-    },
-    {
-     "k": "THE TAX",
-     "t": "6.2% of your pay goes to Social Security",
-     "s": "Your employer pays another 6.2% on top."
-    },
-    {
-     "k": "THE CAP",
-     "t": "It stops at a wage limit",
-     "viz": {
-      "type": "split",
-      "items": [
-       [
-        "2026 cap",
-        "$184,500"
-       ],
-       [
-        "2027 cap",
-        "$192,300"
-       ],
-       [
-        "Max employee tax in 2026",
-        "$11,439",
-        "wide"
-       ]
-      ]
-     },
-     "say": "The cap is 184,500 dollars this year and 192,300 next year. The most an employee pays in 2026 is 11,439 dollars."
-    },
-    {
-     "k": "THE PAYCHECK BUMP",
-     "t": "Hit the cap and take-home rises",
-     "s": "High earners stop paying the 6.2% for the rest of the year."
-    },
-    {
-     "k": "SELF-EMPLOYED",
-     "t": "You pay both halves",
-     "s": "That's 12.4% up to the cap, so changes hit you twice."
-    },
-    {
-     "k": "YOUR MOVE",
-     "t": "Plan for a mid-year raise in pay",
-     "s": "Save or invest the bump. General ideas, not advice."
-    }
-   ],
-   "ts": "2026-11-17T02:00:00Z"
-  },
-  {
-   "id": "edu-mortgage-math-2026111702",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "business"
-   ],
-   "date": "Explainer",
-   "headline": "Mortgage math: what one point of interest costs you",
-   "caption": "Rates are near 7.27%. See how a single point changes a monthly payment.",
-   "scenes": [
-    {
-     "k": "TODAY'S NEWS",
-     "t": "30-year rates near 7.27%",
-     "s": "They rose about 0.37 point in a week."
-    },
-    {
-     "k": "THE COMPARISON",
-     "t": "Same $400K loan, two rates",
-     "viz": {
-      "type": "split",
-      "items": [
-       [
-        "6.22% a year ago",
-        "$2,455"
-       ],
-       [
-        "7.26% now",
-        "$2,731"
-       ],
-       [
-        "Extra each month",
-        "about $276",
-        "wide"
-       ]
-      ]
-     },
-     "say": "At 6.22 percent, a 400,000 dollar loan costs about 2,455 dollars a month. At 7.26 percent, about 2,731. That's roughly 276 dollars more each month."
-    },
-    {
-     "k": "OVER TIME",
-     "t": "$276 a month is $3,300+ a year",
-     "s": "Over many years, that adds up to tens of thousands."
-    },
-    {
-     "k": "WHAT MOVES RATES",
-     "t": "Bond yields and the Fed",
-     "viz": {
-      "type": "flow",
-      "items": [
-       "Inflation runs hot",
-       "Fed signals hikes",
-       "10-year yield rises",
-       "Mortgage rates follow"
-      ]
-     },
-     "say": "Hot inflation leads the Fed to signal hikes. The 10-year yield rises, and mortgage rates follow."
-    },
-    {
-     "k": "YOUR LEVERS",
-     "t": "Shop lenders and compare APRs",
-     "s": "Rates differ by lender; a better credit score helps."
-    },
-    {
-     "k": "YOUR MOVE",
-     "t": "Buy what you can afford now",
-     "s": "Refinance later only if rates fall. General ideas, not advice."
-    }
-   ],
-   "ts": "2026-11-17T02:00:00Z"
-  },
-  {
-   "id": "kospi-below-5000-2026111701",
-   "type": "news",
-   "cat": "markets",
-   "tags": [
-    "markets",
-    "ai"
-   ],
-   "date": "Tue Nov 17",
-   "headline": "Asia follows Wall Street down: Kospi drops 2.3% below 5,000; SoftBank falls 4.8%",
-   "caption": "Chip and AI stocks led Asia lower at Tuesday's open after the Nasdaq's 2.5% drop. Nvidia reports after the US close.",
-   "visual": {
-    "type": "board",
-    "title": "Asia at Tuesday's open",
-    "rows": [
-     {
-      "k": "Kospi",
-      "s": "below 5,000",
-      "v": "4,984.83",
-      "ch": -2.27,
-      "tone": "loss"
-     },
-     {
-      "k": "Nikkei 225",
-      "s": "open",
-      "v": "59,068",
-      "ch": -1.0,
-      "tone": "loss"
-     },
-     {
-      "k": "Samsung Elec.",
-      "s": "won",
-      "v": "191,000",
-      "ch": -3.0,
-      "tone": "loss"
-     },
-     {
-      "k": "SoftBank",
-      "s": "yen",
-      "v": "3,255",
-      "ch": -4.77,
-      "tone": "loss"
-     },
-     {
-      "k": "Kioxia",
-      "s": "yen",
-      "v": "8,037",
-      "ch": -4.22,
-      "tone": "loss"
-     }
-    ],
-    "foot": "Nvidia's results come after the US close Tuesday."
-   },
-   "detail": [
-    "South Korea's Kospi fell 2.27% to 4,984.83 early Tuesday, slipping under the 5,000 mark. Samsung Electronics lost 3% and SK Hynix fell 1.43%.",
-    "Japan's Nikkei opened about 1% lower near 59,068. SoftBank dropped 4.77% and memory maker Kioxia fell 4.22%.",
-    "The selling followed Monday's US rout, when the Nasdaq fell 2.49% and the chip index lost more than 5%. Investors are waiting on Nvidia's earnings, due after Tuesday's US close."
-   ],
-   "money": [
-    "If you own international or emerging-market funds, check how much sits in Korean and Japanese chip stocks.",
-    "Big swings before a major earnings report can reverse fast; avoid panic selling on one day's move.",
-    "Steady monthly investing means today's lower prices buy more fund shares."
-   ],
-   "risk": [
-    "A weak Nvidia report could extend the chip selloff worldwide.",
-    "Asian markets can move sharply on currency swings too."
-   ],
-   "sources": [
-    {
-     "t": "Kospi Falls Below 5,000 Mark, Nikkei Drops 1% as Samsung Electronics Slides 3%",
-     "d": "tradingkey.com",
-     "u": "https://www.tradingkey.com/analysis/stocks/more/262307942-japan-korea-stocks-skhy-kospi-nikkei-samsung-skhynix-softbank-kioxia-nvda-tradingkey"
-    },
-    {
-     "t": "Kospi falls more than 1% and the Nikkei slips at Tuesday's open",
-     "d": "mlq.ai",
-     "u": "https://mlq.ai/news/kospi-falls-more-than-1-and-the-nikkei-slips-at-tuesdays-open-as-asia-follows-wall-streets-chip-selloff-before-nvidia-results/"
-    }
-   ],
-   "ts": "2026-11-17T01:00:00Z"
-  },
-  {
-   "id": "berkshire-13f-q3-2026111701",
-   "type": "news",
-   "cat": "markets",
-   "tags": [
-    "markets",
-    "business"
-   ],
-   "date": "Mon Nov 16",
-   "headline": "Berkshire's new filing: buys Bending Spoons, doubles Lennar, trims Bank of America again",
-   "caption": "Berkshire's third-quarter 13F shows one new stock and a bigger bet on homebuilder Lennar. It also cut Capital One by 62%.",
-   "visual": {
-    "type": "board",
-    "title": "Berkshire's Q3 moves",
-    "rows": [
-     {
-      "k": "Bending Spoons",
-      "s": "new stake",
-      "v": "$689M",
-      "tone": "gain"
-     },
-     {
-      "k": "Lennar",
-      "s": "13.1M to 26.0M shares",
-      "v": "~2x",
-      "tone": "gain"
-     },
-     {
-      "k": "Delta Air Lines",
-      "s": "64.45M shares",
-      "v": "+12%",
-      "ch": 12,
-      "tone": "gain"
-     },
-     {
-      "k": "Bank of America",
-      "s": "455.9M shares left",
-      "v": "-5.7%",
-      "ch": -5.7,
-      "tone": "loss"
-     },
-     {
-      "k": "Capital One",
-      "s": "stake cut",
-      "v": "-62%",
-      "ch": -62,
-      "tone": "loss"
-     },
-     {
-      "k": "VeriSign",
-      "s": "stake cut",
-      "v": "-34%",
-      "ch": -34,
-      "tone": "loss"
-     }
-    ],
-    "foot": "Positions as of Sept. 30. Record $9.6B in buybacks."
-   },
-   "detail": [
-    "Berkshire Hathaway's quarterly holdings report, due Monday, shows it bought 20.7 million shares of Bending Spoons, the owner of Evernote and Vimeo, worth $689 million on Sept. 30.",
-    "It nearly doubled its Lennar stake to about 26 million shares and added 12% to Delta. It sold more Bank of America (down 5.7%), cut VeriSign by 34%, Capital One by 62%, Kroger by 10% and Nucor by 15%.",
-    "Apple, American Express, Coca-Cola and Alphabet were unchanged. Its top five stocks make up about 68% of a $304 billion stock portfolio. Berkshire also bought back a record $9.6 billion of its own shares."
-   ],
-   "money": [
-    "13F filings are 45+ days old, so treat them as ideas to research, not buy signals.",
-    "Berkshire adding a homebuilder while trimming banks hints at where it sees value; compare with your own sector mix.",
-    "Big buybacks reduce share count, which can lift per-share earnings for existing holders."
-   ],
-   "risk": [
-    "Berkshire may already have changed these positions since Sept. 30.",
-    "Copying a famous investor ignores your own goals and timeline."
-   ],
-   "sources": [
-    {
-     "t": "Warren Buffett's Berkshire Just Revealed a New Stock and Sold More Bank of America",
-     "d": "247wallst.com",
-     "u": "https://247wallst.com/investing/2026/11/16/warren-buffetts-berkshire-just-revealed-a-new-stock-and-sold-more-bank-of-america-heres-what-a-68-year-old-with-400-shares-owns/"
-    },
-    {
-     "t": "Berkshire Hathaway's Q3 top trades include Bending Spoons stake",
-     "d": "tradingview.com",
-     "u": "https://www.tradingview.com/news/seekingalpha:6151f6f0c094b:0-berkshire-hathaway-s-q3-top-trades-include-bending-spoons-stake-increased-delta-air-lines-holding/"
-    }
-   ],
-   "ts": "2026-11-17T01:00:00Z"
-  },
-  {
-   "id": "after-hours-smallcap-misses-2026111701",
-   "type": "news",
-   "cat": "markets",
-   "tags": [
-    "markets",
-    "business"
-   ],
-   "date": "Mon Nov 16",
-   "headline": "After hours: 11 of 12 small tech firms miss or lack estimates; Stem cuts its outlook",
-   "caption": "Only ReposiTrak beat sales forecasts among Monday's after-the-bell tech reports. Energy storage firm Stem lowered its 2026 revenue range.",
-   "visual": {
-    "type": "board",
-    "title": "Monday after the bell: revenue vs. forecast",
-    "rows": [
-     {
-      "k": "ReposiTrak",
-      "v": "$5.8M vs $5.0M",
-      "tone": "gain"
-     },
-     {
-      "k": "Stem",
-      "s": "2026 cut to $132M-$142M",
-      "v": "$36.7M vs $38.8M",
-      "tone": "loss"
-     },
-     {
-      "k": "Infleqtion",
-      "s": "quantum",
-      "v": "$9.1M vs $11.0M",
-      "tone": "loss"
-     },
-     {
-      "k": "SharonAI",
-      "v": "$9.9M vs $25.3M",
-      "tone": "loss"
-     },
-     {
-      "k": "XBP Global",
-      "v": "$182.7M vs $202.6M",
-      "tone": "loss"
-     }
-    ]
-   },
-   "detail": [
-    "Twelve tech companies reported after Monday's close. None cleanly beat on both sales and earnings, and only ReposiTrak topped its revenue estimate, at $5.8 million versus $5.0 million expected.",
-    "Stem posted $36.7 million in revenue against $38.8 million expected and cut its 2026 revenue forecast to $132 million to $142 million. Quantum firm Infleqtion had $9.1 million versus $11 million expected.",
-    "SharonAI, Soluna, Duos, XBP Global and Cloudastructure also came in below sales forecasts. GoPro reported $96.2 million but gave no outlook because of a pending merger."
-   ],
-   "money": [
-    "Small caps that miss and cut guidance often keep falling; check any you own before Tuesday's open.",
-    "A guidance cut can matter more than one quarter's miss, so read the outlook line first.",
-    "If you hold small-cap tech, a broad fund spreads out single-company blowups."
-   ],
-   "risk": [
-    "Small stocks can swing 20% or more on one report.",
-    "Thin after-hours trading can exaggerate early moves."
-   ],
-   "sources": [
-    {
-     "t": "After-Hours Technology Earnings: Monday, November 16, 2026",
-     "d": "analysisofficial.substack.com",
-     "u": "https://analysisofficial.substack.com/p/after-hours-technology-earnings-monday-c9f"
-    }
-   ],
-   "ts": "2026-11-17T01:00:00Z"
   }
  ]
 }
