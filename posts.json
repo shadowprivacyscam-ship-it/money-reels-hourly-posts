@@ -1,6 +1,935 @@
 {
- "updated": "2026-11-17T03:00:00Z",
+ "updated": "2026-11-17T04:00:00Z",
  "items": [
+  {
+   "id": "ai-national-champions-2026111704",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "politics",
+    "markets"
+   ],
+   "date": "Sun Nov 15",
+   "ts": "2026-11-17T04:00:00Z",
+   "headline": "White House plans to name 20+ AI 'national champions,' including Nvidia and OpenAI",
+   "caption": "The WSJ says Nvidia, Amazon, Microsoft, OpenAI and Anthropic are on the list. The label aims to help US AI firms win deals abroad against Chinese rivals.",
+   "visual": {
+    "type": "points",
+    "title": "AI 'national champions' plan",
+    "items": [
+     "More than two dozen firms, per WSJ",
+     "Named: Nvidia, Amazon, Microsoft, OpenAI, Anthropic",
+     "Possible perks: advocacy, federal financing, faster export reviews",
+     "Commerce Sec. Lutnick could unveil it within a week",
+     "Not officially confirmed yet"
+    ]
+   },
+   "detail": [
+    "The Wall Street Journal reported that the Trump administration plans to name more than two dozen AI companies as US 'national champions.' Nvidia, Amazon, Microsoft, OpenAI and Anthropic are among them. The full list has not been released.",
+    "The goal is to help American AI firms sell abroad, especially against China. Bundled packages of US chips and models may get government advocacy, federal financing and faster export license reviews through Commerce's American AI Exports Program. Commerce said in July it had received 78 applications.",
+    "The news lands as AI stocks slump. CoinDesk notes an AI tech ETF is down 33% from its June record, and Nvidia is about a third below its October peak."
+   ],
+   "money": [
+    "Firms on the list could gain an edge in overseas sales; watch whether the list includes smaller names you own.",
+    "Government backing does not fix high valuations; check what you pay before buying the dip.",
+    "Broad AI or tech ETFs spread the risk if you can't pick winners."
+   ],
+   "risk": [
+    "The report is unconfirmed and timing could change.",
+    "Export politics with China can shift quickly and hit chip stocks."
+   ],
+   "sources": [
+    {
+     "t": "Trump to name Nvidia and others as AI national champions",
+     "d": "coindesk.com",
+     "u": "https://www.coindesk.com/markets/2026/11/16/trump-administration-to-name-nvidia-openai-and-several-others-as-u-s-ai-national-champions"
+    },
+    {
+     "t": "Nvidia, OpenAI and Anthropic to be named AI national champions, WSJ reports",
+     "d": "thenextweb.com",
+     "u": "https://thenextweb.com/news/ai-national-champions-nvidia-openai-anthropic-trump"
+    }
+   ]
+  },
+  {
+   "id": "bxdc-aws-5b-2026111704",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business",
+    "ai",
+    "markets"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T04:00:00Z",
+   "headline": "Blackstone's data center trust buys 75% of 13 Amazon data center buildings for about $5B",
+   "caption": "Amazon Web Services keeps 25% and leases everything back for 12 years, extendable to 32. The sites are in northern Indiana and Mississippi.",
+   "visual": {
+    "type": "board",
+    "title": "BXDC + AWS deal",
+    "rows": [
+     {
+      "k": "Price",
+      "v": "~$5B"
+     },
+     {
+      "k": "BXDC stake",
+      "v": "75%",
+      "s": "AWS keeps 25%"
+     },
+     {
+      "k": "Buildings",
+      "v": "13",
+      "s": "Indiana + Mississippi"
+     },
+     {
+      "k": "Lease",
+      "v": "12 yrs",
+      "s": "up to 32 with extensions"
+     },
+     {
+      "k": "Debt",
+      "v": "50%",
+      "s": "of price, borrowed at close"
+     }
+    ],
+    "foot": "Closing expected in 2026"
+   },
+   "detail": [
+    "Blackstone Digital Infrastructure Trust, a REIT that listed in May, agreed to buy a 75% stake in two joint ventures holding 13 newly built AWS data center shells. The price is roughly $5 billion. AWS keeps the other 25%.",
+    "AWS will lease back the whole portfolio for an initial 12 years, with extensions up to 32 years. The joint venture plans to borrow half the price at closing.",
+    "AWS's backlog stands at $578 billion, per CEO Andy Jassy. The deal comes as investors worry about how AI data centers get financed."
+   ],
+   "money": [
+    "Data center REITs pay rent-backed dividends; long leases to giant tenants can mean steadier income.",
+    "Sale-leasebacks let tech firms free up cash; watch who else copies the model.",
+    "Compare REIT yields with Treasury yields near 5% before buying for income."
+   ],
+   "risk": [
+    "Heavy reliance on one tenant (Amazon) is a concentration risk.",
+    "Rising rates can pressure REIT prices, and half the deal is debt-funded."
+   ],
+   "sources": [
+    {
+     "t": "Blackstone Reit to buy Amazon data centres in $5bn deal",
+     "d": "irishtimes.com",
+     "u": "https://irishtimes.com/business/2026/11/16/blackstone-reit-to-buy-amazon-data-centres-in-5bn-deal"
+    },
+    {
+     "t": "US Pre-Market: Nasdaq futures fall; Anthropic IPO debuts this week",
+     "d": "tradingkey.com",
+     "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262307008-us-nvda-nasdaq-futures-nvidia-jensen-huang-anthropic-ipo-tradingkey"
+    }
+   ]
+  },
+  {
+   "id": "fha-mmi-1029-2026111704",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business",
+    "benefits"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T04:00:00Z",
+   "headline": "FHA's insurance fund cushion slips to 10.29%; 530,000+ first-time buyers used FHA loans",
+   "caption": "The FHA's annual report shows its capital ratio fell 1.18 points but stays strong. Lenders are asking for a small cut to FHA insurance premiums.",
+   "visual": {
+    "type": "stat",
+    "title": "FHA fund, fiscal 2026",
+    "num": "10.29%",
+    "tone": "acc",
+    "label": "Capital ratio of FHA's insurance fund, down 1.18 points.",
+    "facts": [
+     [
+      "Fund capital",
+      "$182.6B",
+      "down $6.3B"
+     ],
+     [
+      "First-time buyers",
+      "530,000+",
+      "83% of purchase loans"
+     ],
+     [
+      "Active loans",
+      "8.4M",
+      "$1.7T balance"
+     ]
+    ]
+   },
+   "detail": [
+    "The Federal Housing Administration's yearly report shows its Mutual Mortgage Insurance Fund ended fiscal 2026 with a 10.29% capital ratio, down 1.18 points. Fund capital was $182.6 billion.",
+    "FHA backed more than 530,000 first-time buyers, who made up over 83% of its purchase loans. It insures 8.4 million single-family mortgages worth more than $1.7 trillion.",
+    "The Mortgage Bankers Association asked for a modest cut in annual FHA mortgage insurance premiums. That is a request, not an announced change."
+   ],
+   "money": [
+    "FHA loans allow small down payments; first-time buyers should compare FHA and conventional loan costs.",
+    "If premiums are cut later, existing FHA borrowers could look at refinancing.",
+    "Ask lenders for the full cost, including mortgage insurance, not just the rate."
+   ],
+   "risk": [
+    "No premium cut has been approved.",
+    "Mortgage rates near 7% still limit savings."
+   ],
+   "sources": [
+    {
+     "t": "FHA MMI Fund Ratio Falls to 10.29% in FY 2026",
+     "d": "wrenews.com",
+     "u": "https://wrenews.com/fha-mmi-fund-capital-ratio-2026-annual-report/"
+    }
+   ]
+  },
+  {
+   "id": "cnq-advantage-2026111704",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business",
+    "world",
+    "markets"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T04:00:00Z",
+   "headline": "Canadian Natural buys Advantage Energy for C$2.53B cash; Advantage stock jumps 24%",
+   "caption": "Advantage Energy soared about 24% in Toronto on the all-cash deal. Buyer Canadian Natural Resources fell about 3%.",
+   "visual": {
+    "type": "deals",
+    "title": "Monday energy deal",
+    "items": [
+     {
+      "a": "Canadian Natural",
+      "b": "Advantage Energy",
+      "amt": "C$2.53B",
+      "st": "All cash; AAV +23.7%",
+      "c": "pend"
+     }
+    ]
+   },
+   "detail": [
+    "Canadian Natural Resources agreed to buy Advantage Energy in an all-cash takeover worth C$2.53 billion. Advantage shares rose 23.74% in Toronto on Monday.",
+    "Canadian Natural shares fell 3.18%, a common reaction for buyers in large deals. The deal comes as oil prices slide, with Brent down 3.5% Monday to $92.44."
+   ],
+   "money": [
+    "Takeover targets often jump on the news; chasing after the pop rarely pays.",
+    "Buyers paying cash can trim buybacks; check dividend coverage if you own the acquirer.",
+    "Energy deals during falling oil prices can signal bargains; watch for more."
+   ],
+   "risk": [
+    "Deals can face regulatory or shareholder hurdles.",
+    "Lower oil prices could hurt the acquired assets' value."
+   ],
+   "sources": [
+    {
+     "t": "Closing Look — Monday, November 16, 2026",
+     "d": "cappnotes.substack.com",
+     "u": "https://cappnotes.substack.com/p/closing-look-monday-november-16-2026"
+    }
+   ]
+  },
+  {
+   "id": "taiex-another-drop-2026111704",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets",
+    "world",
+    "ai"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T04:00:00Z",
+   "headline": "New: Taiwan's Taiex falls another 1.7% Tuesday after Monday's 6% plunge",
+   "caption": "The chip-heavy index slid to about 40,336 ahead of Nvidia's results. Korea, Japan and Hong Kong also fell more than 1%.",
+   "visual": {
+    "type": "board",
+    "title": "Asia, Tuesday",
+    "rows": [
+     {
+      "k": "Taiex",
+      "v": "40,336",
+      "ch": -1.72,
+      "tone": "loss"
+     },
+     {
+      "k": "Nikkei 225",
+      "ch": -1.3,
+      "v": "-1.3%",
+      "tone": "loss"
+     },
+     {
+      "k": "Kospi",
+      "ch": -1.2,
+      "v": "-1.2%",
+      "tone": "loss"
+     },
+     {
+      "k": "Hang Seng",
+      "ch": -1.1,
+      "v": "-1.1%",
+      "tone": "loss"
+     }
+    ],
+    "foot": "Taiex fell 6% Monday; TSMC -5.7%"
+   },
+   "detail": [
+    "What's new: Taiwan's Taiex dropped 1.72% to 40,335.59 on Tuesday, adding to Monday's 6% plunge, its worst day since July 17.",
+    "TSMC fell 5.7% and MediaTek 7.9% on Monday. Options markets price about a 7.8% move in Nvidia after Tuesday's earnings, a UBS trader told Reuters.",
+    "Elsewhere in Asia, Korea's Kospi fell about 1.2%, the Nikkei 1.3% and the Hang Seng about 1.1%."
+   ],
+   "money": [
+    "Chip-heavy markets swing hard on Nvidia news; size positions so you can sleep.",
+    "Dollar-cost averaging into broad funds can soften timing risk in a selloff.",
+    "Check how much Taiwan and chip exposure hides in your emerging-market fund."
+   ],
+   "risk": [
+    "Nvidia's results could push Asian chips either way.",
+    "Foreign selling can deepen drops in Taiwan."
+   ],
+   "sources": [
+    {
+     "t": "Taiwan's TAIEX drops another 1.7% after Monday's 6% crash",
+     "d": "ibtimes.com.au",
+     "u": "https://www.ibtimes.com.au/taiwan-stocks-fall-ahead-nvidia-earnings-1878746"
+    }
+   ]
+  },
+  {
+   "id": "wyoming-supp-budget-2026111704",
+   "type": "news",
+   "cat": "states",
+   "tags": [
+    "states",
+    "benefits",
+    "taxes"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T04:00:00Z",
+   "headline": "Wyoming governor's last budget: property tax relief, $100M savings, summer food aid",
+   "caption": "Gov. Mark Gordon wants full funding for property tax relief programs and SUNBucks. About 37,000 Wyoming kids qualified for the summer food benefit.",
+   "visual": {
+    "type": "board",
+    "title": "Gordon's supplemental budget",
+    "rows": [
+     {
+      "k": "Permanent savings",
+      "v": "+$100M"
+     },
+     {
+      "k": "Property tax relief",
+      "v": "Fully fund",
+      "s": "was funded for 1 year"
+     },
+     {
+      "k": "SUNBucks",
+      "v": "37,000 kids",
+      "s": "summer 2027 food aid"
+     },
+     {
+      "k": "Wildlife/fire trust",
+      "v": "$30M"
+     }
+    ],
+    "foot": "Gov.-elect Eric Barlow takes office in January"
+   },
+   "detail": [
+    "Wyoming Gov. Mark Gordon released his final supplemental budget on Monday. It adds about $100 million to permanent savings and fully funds property tax relief programs that had money for only one year.",
+    "He also wants one-time funding to start SUNBucks for summer 2027. Federal funds cover the food; the state pays half the admin costs. About 37,000 Wyoming school children qualified.",
+    "The plan includes $30 million for invasive species, wildfire mitigation and recovery. Gov.-elect Eric Barlow takes office in January, and lawmakers must approve SUNBucks beyond year one."
+   ],
+   "money": [
+    "Wyoming homeowners: watch whether property tax relief survives the Legislature.",
+    "Families with kids on free or reduced lunch may qualify for SUNBucks next summer.",
+    "Compare your county's tax relief options once rules are final."
+   ],
+   "risk": [
+    "The Legislature can change or cut the plan.",
+    "A new governor may bring different priorities."
+   ],
+   "sources": [
+    {
+     "t": "Governor's Final Supplemental Budget Provides for Tax Relief, SUNBucks Programs",
+     "d": "sweetwaternow.com",
+     "u": "https://www.sweetwaternow.com/governors-final-supplemental-budget-provides-for-tax-relief-sunbucks-programs/"
+    }
+   ]
+  },
+  {
+   "id": "wisconsin-rebate-push-2026111704",
+   "type": "news",
+   "cat": "taxes",
+   "tags": [
+    "taxes",
+    "states"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T04:00:00Z",
+   "headline": "Wisconsin lawmaker seeks special session to send $1,000 surplus checks before January",
+   "caption": "Rep. Jim Piwowarczyk wants $2.6 billion returned: up to $1,000 per person and $2,000 per couple. Gov. Evers hasn't said if he will call a session.",
+   "visual": {
+    "type": "vs",
+    "title": "Proposed Wisconsin rebates",
+    "a": [
+     "Single filer",
+     "$1,000",
+     0.5,
+     "acc"
+    ],
+    "b": [
+     "Married couple",
+     "$2,000",
+     1,
+     "gain"
+    ],
+    "foot": "For those who owed 2024 state income tax; $2.6B surplus"
+   },
+   "detail": [
+    "Republican Rep. Jim Piwowarczyk asked Gov. Tony Evers to call a special session before Jan. 3. He wants to return $2.6 billion of the state surplus as checks.",
+    "The plan would pay up to $1,000 per individual and $2,000 per married couple who owed Wisconsin income tax for 2024. The Legislative Fiscal Bureau said Nov. 11 that the surplus would cover it.",
+    "An earlier $1.8 billion surplus bill failed 18-15 in the Senate in May. A new Democrat-led Legislature takes over in January."
+   ],
+   "money": [
+    "If you owed Wisconsin income tax for 2024, you could qualify if this passes.",
+    "Don't spend a rebate before it's law; most plans change.",
+    "Rebates are usually tied to your tax return, so keep your address current with the state."
+   ],
+   "risk": [
+    "The governor has not committed to a session.",
+    "The incoming Legislature may prefer school funding."
+   ],
+   "sources": [
+    {
+     "t": "Wisconsin lawmaker wants special session for $2.6B taxpayer surplus return",
+     "d": "newslinelocal.com",
+     "u": "https://www.newslinelocal.com/2026/11/16/wisconsin-lawmaker-wants-special-session-for-2-6b-taxpayer-surplus-return/"
+    }
+   ]
+  },
+  {
+   "id": "hud-mixed-status-rule-2026111704",
+   "type": "news",
+   "cat": "benefits",
+   "tags": [
+    "benefits",
+    "immigration",
+    "california"
+   ],
+   "date": "Effective Dec 14",
+   "ts": "2026-11-17T04:00:00Z",
+   "headline": "HUD rule: every household member must prove eligible status; 90 days to document",
+   "caption": "The rule takes effect Dec. 14. HUD estimates about 24,000 ineligible residents; advocates say about 80,000 people in mixed-status homes could be affected.",
+   "visual": {
+    "type": "timeline",
+    "title": "HUD mixed-status rule",
+    "items": [
+     {
+      "d": "NOV 12",
+      "t": "Final rule published"
+     },
+     {
+      "d": "DEC 14",
+      "t": "Rule takes effect",
+      "now": true
+     },
+     {
+      "d": "MID-MAR",
+      "t": "90-day deadline to submit papers",
+      "s": "about mid-March 2027"
+     }
+    ]
+   },
+   "detail": [
+    "HUD published a final rule requiring every member of an assisted household to show US citizenship or eligible immigration status. It takes effect Dec. 14, and households get 90 days to submit documents. Checks run through DHS's SAVE system.",
+    "Prorated aid for mixed-status households becomes temporary during verification. HUD estimates about 24,000 ineligible residents in roughly 20,000 households and frames the rule as protecting taxpayers.",
+    "Advocates estimate close to 80,000 people could lose aid or have to split up, including nearly 37,000 children, mostly US citizens. Nearly three-quarters of affected homes are in California, Texas and New York."
+   ],
+   "money": [
+    "Assisted tenants: confirm your housing authority has current papers for everyone on the lease.",
+    "Request a copy of your file to see what status info is on record.",
+    "Get legal advice before removing anyone from a lease."
+   ],
+   "risk": [
+    "SAVE has misidentified citizens before, per housing lawyers.",
+    "Missing the deadline could mean losing rental help."
+   ],
+   "sources": [
+    {
+     "t": "New HUD rule gives mixed-status families 90 days to document eligibility",
+     "d": "latintimes.com",
+     "u": "https://latintimes.com/hud-rule-mixed-status-families-housing-verification-601385"
+    }
+   ]
+  },
+  {
+   "id": "russia-retail-crypto-2026111704",
+   "type": "news",
+   "cat": "crypto",
+   "tags": [
+    "crypto",
+    "world"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T04:00:00Z",
+   "headline": "Russia lets everyday investors buy bitcoin, ether and USDT starting today, with a cap",
+   "caption": "Retail buyers can spend up to 300,000 rubles a year per broker after passing a test. The Moscow Exchange plans crypto trading from Dec. 1.",
+   "visual": {
+    "type": "timeline",
+    "title": "Russia opens crypto",
+    "items": [
+     {
+      "d": "NOV 17",
+      "t": "Retail can buy BTC, ETH, USDT",
+      "s": "300K rubles/yr per broker",
+      "now": true
+     },
+     {
+      "d": "NOV 22",
+      "t": "Exchanges may start organized trading",
+      "s": "if rules approved"
+     },
+     {
+      "d": "DEC 1",
+      "t": "Moscow Exchange crypto market",
+      "s": "pilot trades"
+     }
+    ]
+   },
+   "detail": [
+    "A Bank of Russia rule taking effect Nov. 17 lets non-qualified investors buy bitcoin, ether and Tether's USDT. Purchases are capped at 300,000 rubles per year through each intermediary.",
+    "Qualified investors have no cap and can buy other coins. Both groups must pass an assessment test first. The central bank picked only very liquid assets with at least five years of price history.",
+    "Russian exchanges can start organized crypto trading from Nov. 22 if their rules are approved. The Moscow Exchange plans to begin with pilot trades on Dec. 1."
+   ],
+   "money": [
+    "New legal buyers could add demand for bitcoin and ether over time.",
+    "Rules like caps and tests show how governments may open crypto carefully; watch for copycats.",
+    "Don't buy a coin just because a big country approves it; prices are still falling."
+   ],
+   "risk": [
+    "Sanctions and capital controls limit how much money can flow.",
+    "Crypto remains in a deep selloff."
+   ],
+   "sources": [
+    {
+     "t": "Bank of Russia opens Bitcoin, Ether and USDT to retail investors from Nov. 17",
+     "d": "primexbt.com",
+     "u": "https://primexbt.com/news/bank-of-russia-opens-bitcoin-ether-and-usdt-to-retail-investors-from-nov-17/"
+    },
+    {
+     "t": "FOMC minutes, Nvidia earnings, Russia's retail crypto rules: Crypto Week Ahead",
+     "d": "coindesk.com",
+     "u": "https://www.coindesk.com/markets/2026/11/16/fomc-minutes-nvidia-earnings-russia-s-retail-crypto-rules-crypto-week-ahead"
+    }
+   ]
+  },
+  {
+   "id": "hormuz-fourth-tanker-2026111704",
+   "type": "news",
+   "cat": "world",
+   "tags": [
+    "world",
+    "markets"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T04:00:00Z",
+   "headline": "New: Iran says a fourth tanker hit a mine near Hormuz in 24 hours; Iraq gas field alert",
+   "caption": "Iran's navy says the ship was in a restricted zone with navigation off. A drone over Iraq's Khor Mor gas field also set off sirens.",
+   "visual": {
+    "type": "points",
+    "title": "Hormuz, last 24 hours",
+    "items": [
+     "4 tankers hit mines or fires, per Iran",
+     "UKMTO: tanker disabled 7 nm north of Khasab, Oman",
+     "Crew safe in the Oman incident",
+     "Drone over Iraq's Khor Mor field; no damage reported",
+     "136 ship security incidents Mar 1-Nov 11, per IMO"
+    ]
+   },
+   "detail": [
+    "What's new: Iran's navy said a fourth tanker caught fire Tuesday after hitting a mine in a restricted zone near the Strait of Hormuz. It said the ship had its navigation systems off. The vessel was not named.",
+    "Separately, the UK's maritime agency reported a tanker disabled by an attack about seven nautical miles north of Khasab, Oman; the crew was safe. Iran's claims could not be independently verified.",
+    "In Iraq, sirens sounded after a drone flew over the Khor Mor gas field, which already halted output last week after a suspected attack. Talks to reopen the strait remain stalled."
+   ],
+   "money": [
+    "Oil has fallen despite attacks; don't assume every headline means higher gas prices.",
+    "Energy funds can hedge a household's fuel costs, but they swing hard.",
+    "Keep travel and heating budgets flexible this winter."
+   ],
+   "risk": [
+    "A wider attack could spike oil prices fast.",
+    "Unverified claims can move markets before facts are clear."
+   ],
+   "sources": [
+    {
+     "t": "Fourth oil tanker catches fire near Strait of Hormuz",
+     "d": "theweek.in",
+     "u": "https://www.theweek.in/news/middle-east/2026/11/17/fourth-oil-tanker-fire-strait-of-hormuz.html"
+    },
+    {
+     "t": "Tankers hit in Strait of Hormuz as drone raises alarm at Iraq gas field",
+     "d": "aljazeera.com",
+     "u": "https://www.aljazeera.com/news/2026/11/17/tankers-hit-in-strait-of-hormuz-as-drone-raises-alarm-at-iraq-gas-field"
+    }
+   ]
+  },
+  {
+   "id": "trump-manila-quad-2026111704",
+   "type": "news",
+   "cat": "politics",
+   "tags": [
+    "politics",
+    "world",
+    "business"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T04:00:00Z",
+   "headline": "Trump lands in Manila today for his first Quad meeting; a Thailand trade deal is expected",
+   "caption": "He skips the ASEAN summit itself but holds a US-ASEAN special summit Wednesday. US-China-Russia talks are set for Thursday.",
+   "visual": {
+    "type": "timeline",
+    "title": "Trump's Asia trip",
+    "items": [
+     {
+      "d": "NOV 17",
+      "t": "Arrives Manila; Quad meeting",
+      "s": "first in 2 years",
+      "now": true
+     },
+     {
+      "d": "NOV 18",
+      "t": "US-ASEAN summit; meets Marcos"
+     },
+     {
+      "d": "NOV 19",
+      "t": "US-China-Russia talks"
+     },
+     {
+      "d": "NEXT",
+      "t": "APEC in Shenzhen, China"
+     }
+    ]
+   },
+   "detail": [
+    "President Trump arrives in Manila late Tuesday at the end of the ASEAN summit. A Quad meeting with Japan, Australia and India is planned, the group's first in two years and Trump's first.",
+    "On the agenda: maritime security, export rules, critical minerals and AI. A joint statement on a US-Thailand reciprocal trade deal is expected. The US is Thailand's biggest export market, at 24% of shipments.",
+    "A US-ASEAN special summit and a meeting with President Marcos follow Wednesday, then trilateral talks with China and Russia Thursday, before APEC in Shenzhen."
+   ],
+   "money": [
+    "Trade deals can lower tariffs on imports; watch prices on Thai goods like electronics and food.",
+    "Critical-mineral deals could help mining and battery stocks.",
+    "Summit headlines can swing chip stocks; avoid trading on rumors."
+   ],
+   "risk": [
+    "A US-China truce is fragile and could break.",
+    "Protests or surprises could derail deals."
+   ],
+   "sources": [
+    {
+     "t": "Trump to kick off Asia trip with Quad talks in Manila ahead of China visit",
+     "d": "brecorder.com",
+     "u": "https://www.brecorder.com/news/40449312/trump-to-kick-off-asia-trip-with-quad-talks-in-manila-ahead-of-china-visit"
+    }
+   ]
+  },
+  {
+   "id": "williston-ice-demos-2026111704",
+   "type": "news",
+   "cat": "immigration",
+   "tags": [
+    "immigration",
+    "politics"
+   ],
+   "date": "Sat Nov 14",
+   "ts": "2026-11-17T04:00:00Z",
+   "headline": "Small dueling rallies at Vermont ICE center find rare common ground on citizenship paths",
+   "caption": "About 10 ICE supporters and six counterprotesters gathered in the rain in Williston. Some on both sides said legal pathways should improve.",
+   "visual": {
+    "type": "vs",
+    "title": "Williston, Vt., turnout",
+    "a": [
+     "Pro-ICE",
+     "~10",
+     1,
+     "acc"
+    ],
+    "b": [
+     "Counter",
+     "~6",
+     0.6,
+     "acc"
+    ],
+    "foot": "Peak counts by VTDigger"
+   },
+   "detail": [
+    "A group called Mass ICE Patriots held a pro-ICE rally Saturday outside ICE's Law Enforcement Support Center in Williston, Vermont. VTDigger counted about 10 supporters and roughly six counterprotesters and observers at the peak.",
+    "One supporter said backing ICE is about law and order, and also called for a one-time program letting undocumented residents be vetted and gain legal status. A counterprotester criticized ICE's tactics.",
+    "Some people on both sides agreed that pathways to citizenship should be improved. No ICE or government official commented in the report."
+   ],
+   "money": [
+    "Immigration policy affects labor costs in farming, building and care work; watch for changes.",
+    "Employers should keep work-eligibility records current.",
+    "Families with mixed status should keep documents organized and updated."
+   ],
+   "risk": [
+    "Enforcement priorities can change quickly.",
+    "Small events don't show broad public opinion."
+   ],
+   "sources": [
+    {
+     "t": "Protest at Williston ICE center draws opposing views",
+     "d": "vnews.com",
+     "u": "https://vnews.com/2026/11/16/ice-supporter-immigration-demonstration/"
+    }
+   ]
+  },
+  {
+   "id": "ice-boston-op-2026111704",
+   "type": "news",
+   "cat": "immigration",
+   "tags": [
+    "immigration",
+    "politics"
+   ],
+   "date": "Reported Mon",
+   "ts": "2026-11-17T04:00:00Z",
+   "headline": "ICE says a two-day Boston-area operation led to 8 arrests, some released despite detainers",
+   "caption": "ICE says it targeted noncitizens with criminal records, including alleged gang members. Local officials did not comment in the report.",
+   "visual": {
+    "type": "stat",
+    "title": "ICE Boston operation",
+    "num": "8",
+    "tone": "acc",
+    "label": "Arrests in a two-day operation starting Nov. 4, per ICE.",
+    "facts": [
+     [
+      "Named by ICE",
+      "5",
+      "4 Salvadoran, 1 Honduran"
+     ],
+     [
+      "Focus",
+      "Criminal records",
+      "per ICE"
+     ],
+     [
+      "Detainers",
+      "Some declined",
+      "by local jails, ICE says"
+     ]
+    ]
+   },
+   "detail": [
+    "ICE Boston said it arrested eight people in a targeted two-day operation in Greater Boston that began Nov. 4. The details come from ICE's own account.",
+    "ICE said the group included alleged MS-13 and 18th Street gang members, and that some had been released by local jails that declined to honor immigration detainers. Detainers ask local jails to hold someone for federal officers.",
+    "The report included no response from local officials or the jurisdictions ICE named."
+   ],
+   "money": [
+    "Detainer fights between cities and ICE can affect local budgets and legal costs.",
+    "Employers in affected areas may face staffing changes.",
+    "Know your rights resources are free from many legal aid groups."
+   ],
+   "risk": [
+    "Claims come from ICE and were not independently verified.",
+    "Policy clashes may lead to lawsuits."
+   ],
+   "sources": [
+    {
+     "t": "ICE Nabs 8 in Boston Immigration Crackdown",
+     "d": "yahoo.com",
+     "u": "https://www.yahoo.com/news/us/articles/ice-nabs-8-boston-immigration-185724455.html"
+    }
+   ]
+  },
+  {
+   "id": "ca-teacher-apprentice-2026111704",
+   "type": "news",
+   "cat": "california",
+   "tags": [
+    "california",
+    "benefits"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T04:00:00Z",
+   "headline": "California launches a paid 'earn-and-learn' path to become a teacher",
+   "caption": "A new law lets student teachers earn pay while training for their credential. Programs in Tulare, Santa Clara and Morgan Hill already run.",
+   "visual": {
+    "type": "points",
+    "title": "Teacher apprenticeships",
+    "items": [
+     "Law: AB 1904, signed Sept. 30",
+     "Paid on-the-job training while earning a credential",
+     "Entry points from associate degree to credential",
+     "Existing programs: Tulare/Hanford, Santa Clara, Morgan Hill"
+    ]
+   },
+   "detail": [
+    "Gov. Newsom announced a new earn-and-learn pathway for teachers. It builds on AB 1904, the Credentialed Educator Apprenticeship Act, which he signed Sept. 30.",
+    "Apprentices get paid on-the-job training while completing a credential. People can enter at different stages, from an associate degree up to a bachelor's and a teaching credential.",
+    "Registered programs already run in Tulare County/Hanford, Santa Clara County and a special education paraeducator-to-teacher program in Morgan Hill Unified."
+   ],
+   "money": [
+    "Paid training can cut the cost of becoming a teacher versus unpaid student teaching.",
+    "School aides can ask their district about paraeducator-to-teacher apprenticeships.",
+    "Pair with state teacher grants to lower debt."
+   ],
+   "risk": [
+    "Pay levels and slots vary by program.",
+    "Not every district offers an apprenticeship yet."
+   ],
+   "sources": [
+    {
+     "t": "Earn While You Learn: New Law Establishes Credentialed Educator Apprenticeship Act",
+     "d": "ctc.ca.gov",
+     "u": "https://www.ctc.ca.gov/commission/newsroom/stories/earn-and-learn/"
+    },
+    {
+     "t": "Governor Newsom cuts the cost of becoming a teacher with a new earn-and-learn pathway",
+     "d": "gov.ca.gov",
+     "u": "http://www.gov.ca.gov/2026/11/16/governor-newsom-cuts-the-cost-of-becoming-a-teacher-with-a-new-earn-and-learn-pathway/"
+    }
+   ]
+  },
+  {
+   "id": "edu-sale-leaseback-2026111704",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "business"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-17T04:00:00Z",
+   "headline": "Sale-leaseback: why Amazon sells buildings it keeps using",
+   "caption": "Blackstone's trust is buying 75% of 13 AWS data center buildings, and AWS will rent them back. Here's how that works.",
+   "scenes": [
+    {
+     "k": "TODAY'S NEWS",
+     "t": "Amazon sells data centers, then rents them",
+     "s": "Blackstone's trust pays about $5B for a 75% stake."
+    },
+    {
+     "k": "THE IDEA",
+     "t": "Sell what you own, keep using it",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "Company owns building",
+       "Sells it to investor",
+       "Signs long lease",
+       "Gets cash now"
+      ]
+     }
+    },
+    {
+     "k": "THIS DEAL",
+     "t": "Long leases, big tenant",
+     "viz": {
+      "type": "split",
+      "items": [
+       [
+        "Price",
+        "~$5B"
+       ],
+       [
+        "Lease",
+        "12 yrs"
+       ],
+       [
+        "Max term",
+        "32 yrs",
+        "wide"
+       ]
+      ]
+     },
+     "say": "About five billion dollars, a twelve-year lease, extendable to thirty-two years."
+    },
+    {
+     "k": "WHY SELL?",
+     "t": "Cash for new projects",
+     "s": "The seller frees up money to build more, instead of tying it up in buildings."
+    },
+    {
+     "k": "WHY BUY?",
+     "t": "Steady rent checks",
+     "s": "Investors get predictable rent from a strong tenant, often paid out as dividends."
+    },
+    {
+     "k": "YOUR TAKE",
+     "t": "Look at the tenant and the lease",
+     "s": "Income is only as safe as the renter. One big tenant means concentration risk."
+    }
+   ]
+  },
+  {
+   "id": "edu-surplus-rebates-2026111704",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "taxes"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-17T04:00:00Z",
+   "headline": "State surplus rebates: how they work and who gets them",
+   "caption": "A Wisconsin lawmaker wants $1,000 checks from a $2.6 billion surplus. Here's how state rebates usually work.",
+   "scenes": [
+    {
+     "k": "TODAY'S NEWS",
+     "t": "Wisconsin rebate push",
+     "s": "Up to $1,000 per person and $2,000 per couple, if passed."
+    },
+    {
+     "k": "WHAT'S A SURPLUS?",
+     "t": "More tax came in than was spent",
+     "s": "States must balance budgets, so extra money piles up."
+    },
+    {
+     "k": "HOW IT FLOWS",
+     "t": "From surplus to your mailbox",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "Surplus found",
+       "Lawmakers pass bill",
+       "Governor signs",
+       "State sends checks"
+      ]
+     }
+    },
+    {
+     "k": "WHO QUALIFIES",
+     "t": "Usually tied to your tax return",
+     "viz": {
+      "type": "split",
+      "items": [
+       [
+        "Single",
+        "$1,000"
+       ],
+       [
+        "Couple",
+        "$2,000"
+       ],
+       [
+        "Rule",
+        "Owed 2024 WI tax",
+        "wide"
+       ]
+      ]
+     },
+     "say": "In this plan, up to one thousand dollars for singles and two thousand for couples who owed 2024 Wisconsin tax."
+    },
+    {
+     "k": "THE CATCH",
+     "t": "Proposals often change",
+     "s": "Rebates compete with tax cuts and school funding for the same money."
+    },
+    {
+     "k": "YOUR MOVE",
+     "t": "Don't spend it until it's law",
+     "s": "Keep your address current with the state tax agency so a check can find you."
+    }
+   ]
+  },
   {
    "id": "nvidia-earnings-day-2026111703",
    "type": "news",
@@ -10993,936 +11922,6 @@
      "t": "IRS Sets November 19 FIRE Deadline as Information Return Filers Move to IRIS and IDES",
      "d": "visaverge.com",
      "u": "https://www.visaverge.com/travelrequirements/irs-sets-november-19-fire-deadline-as-information-return-filers-move-to-iris-and-ides/"
-    }
-   ]
-  },
-  {
-   "id": "edu-stablecoin-basics-2026111615",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "crypto"
-   ],
-   "date": "Explainer",
-   "ts": "2026-11-16T15:20:00Z",
-   "headline": "Stablecoins: what Zelle's dollar token actually is",
-   "caption": "Zelle plans a dollar stablecoin on Solana. Here's how stablecoins work and what to check before using one.",
-   "scenes": [
-    {
-     "k": "TODAY'S NEWS",
-     "t": "Zelle is launching ZelleUSD",
-     "s": "It will run on the Solana blockchain for payments abroad."
-    },
-    {
-     "k": "THE IDEA",
-     "t": "A digital dollar on a blockchain",
-     "s": "Each token aims to be worth exactly $1."
-    },
-    {
-     "k": "HOW IT HOLDS $1",
-     "t": "Backed by cash and safe assets",
-     "viz": {
-      "type": "flow",
-      "items": [
-       "You pay $1",
-       "Issuer holds $1 in reserves",
-       "You get 1 token",
-       "Redeem token for $1"
-      ]
-     }
-    },
-    {
-     "k": "WHY USE ONE",
-     "t": "Fast transfers, any day",
-     "s": "Money can move across borders in seconds, even on weekends."
-    },
-    {
-     "k": "THE CATCH",
-     "t": "Only as safe as the issuer",
-     "s": "Weak reserves or a hack can break the $1 peg."
-    },
-    {
-     "k": "YOUR MOVE",
-     "t": "Compare fees, pick regulated",
-     "s": "Use bank-backed, regulated stablecoins and compare total transfer costs."
-    }
-   ]
-  },
-  {
-   "id": "edu-vix-fear-gauge-2026111615",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "markets"
-   ],
-   "date": "Explainer",
-   "ts": "2026-11-16T15:20:00Z",
-   "headline": "The VIX at 20: what the market's fear gauge tells you",
-   "caption": "The VIX jumped above 20 before Nvidia's earnings. Here's what that number means.",
-   "scenes": [
-    {
-     "k": "TODAY'S NEWS",
-     "t": "The VIX rose about 6% to 20.5",
-     "s": "Investors are bracing for Nvidia's report Tuesday."
-    },
-    {
-     "k": "WHAT IT IS",
-     "t": "Expected S&P 500 swings",
-     "s": "It's built from options prices for the next 30 days."
-    },
-    {
-     "k": "READING IT",
-     "t": "Higher number, more nerves",
-     "viz": {
-      "type": "split",
-      "items": [
-       [
-        "Calm",
-        "Below 15"
-       ],
-       [
-        "Normal",
-        "15-20"
-       ],
-       [
-        "Stressed",
-        "Above 20",
-        "wide"
-       ]
-      ]
-     },
-     "say": "Below 15 is calm, 15 to 20 is normal, and above 20 means stress."
-    },
-    {
-     "k": "WHY IT MATTERS",
-     "t": "Fear makes options pricier",
-     "s": "Hedging costs more when the VIX is high."
-    },
-    {
-     "k": "THE TRAP",
-     "t": "Spikes often fade",
-     "s": "Selling in a panic can lock in losses right before a rebound."
-    },
-    {
-     "k": "YOUR MOVE",
-     "t": "Stick to your plan",
-     "s": "Keep an emergency fund so you never need to sell stocks in a scare."
-    }
-   ]
-  },
-  {
-   "id": "chip-rout-premarket-2026111614",
-   "type": "news",
-   "cat": "markets",
-   "tags": [
-    "markets",
-    "ai"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T14:20:00Z",
-   "headline": "Chip rout deepens before the open: Micron -5.7%, AMD -5.4%, CoreWeave -7.7%",
-   "caption": "What's new: Taiwan's market closed down about 6%, and US chip names fell hard premarket. Nasdaq 100 futures were off about 1.25% a day before Nvidia reports.",
-   "visual": {
-    "type": "board",
-    "title": "Premarket, Mon Nov 16",
-    "rows": [
-     {
-      "k": "CoreWeave",
-      "s": "AI data center financing worries",
-      "v": "CRWV",
-      "ch": -7.66,
-      "tone": "loss"
-     },
-     {
-      "k": "Micron",
-      "v": "MU",
-      "ch": -5.7,
-      "tone": "loss"
-     },
-     {
-      "k": "AMD",
-      "v": "AMD",
-      "ch": -5.38,
-      "tone": "loss"
-     },
-     {
-      "k": "Broadcom",
-      "v": "AVGO",
-      "ch": -4.09,
-      "tone": "loss"
-     },
-     {
-      "k": "Nvidia",
-      "s": "reports Tue. after close",
-      "v": "NVDA",
-      "ch": -4.0,
-      "tone": "loss"
-     },
-     {
-      "k": "Taiwan Taiex",
-      "s": "Monday close",
-      "v": "Index",
-      "ch": -6.0,
-      "tone": "loss"
-     }
-    ],
-    "foot": "Nasdaq 100 futures about -1.25%; S&P 500 futures about -0.56%."
-   },
-   "detail": [
-    "The AI chip sell-off spread on Monday. Taiwan's Taiex fell about 6%, Korea's Kospi about 3.6% and Japan's Nikkei about 2.4%. In US premarket trading, Micron dropped 5.7%, AMD 5.4% and Broadcom 4.1%.",
-    "Nvidia slid about 4% and is now roughly 32% below its early-October high. It reports fiscal third-quarter results after Tuesday's close, its first since CEO Jensen Huang left. CoreWeave fell about 7.7% on worries about how AI data centers get financed."
-   ],
-   "money": [
-    "If you own a tech-heavy index fund, today's drop is a reminder to check how much of your money sits in a few chip names.",
-    "Big swings around earnings can be costly for traders; long-term buyers often wait for the report instead of guessing.",
-    "Rebalancing back to your target mix after a big move locks in discipline, not a market call."
-   ],
-   "risk": [
-    "Premarket moves can change sharply after the 9:30 a.m. ET open.",
-    "Nvidia's report could push chip stocks sharply either way."
-   ],
-   "sources": [
-    {
-     "t": "US Pre-Market: Nasdaq Futures Fall Over 1%, Nvidia Drops About 4%",
-     "d": "tradingkey.com",
-     "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262307008-us-nvda-nasdaq-futures-nvidia-jensen-huang-anthropic-ipo-tradingkey"
-    },
-    {
-     "t": "Morning Brief, Nov 16, 2026: NVDA, AMD fall before the open",
-     "d": "currentlogic.substack.com",
-     "u": "https://currentlogic.substack.com/p/the-morning-brief-november-16-2026"
-    }
-   ]
-  },
-  {
-   "id": "analyst-calls-yeti-usar-2026111614",
-   "type": "news",
-   "cat": "markets",
-   "tags": [
-    "markets",
-    "business"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T14:20:00Z",
-   "headline": "Monday's analyst calls: Goldman cuts YETI, William Blair downgrades USA Rare Earth",
-   "caption": "YETI slipped after Goldman moved to Neutral and cut its target to $41 from $57. USA Rare Earth fell 4.3% on a downgrade tied to feedstock shortages.",
-   "visual": {
-    "type": "board",
-    "title": "Analyst moves, premarket",
-    "rows": [
-     {
-      "k": "USA Rare Earth",
-      "s": "Downgrade to Market Perform",
-      "v": "USAR",
-      "ch": -4.3,
-      "tone": "loss"
-     },
-     {
-      "k": "YETI",
-      "s": "Goldman: Neutral, target $41",
-      "v": "YETI",
-      "ch": -1.3,
-      "tone": "loss"
-     },
-     {
-      "k": "Deep Fission",
-      "s": "New Buy, $5 target",
-      "v": "FISN",
-      "ch": 4.6,
-      "tone": "gain"
-     },
-     {
-      "k": "J&J",
-      "s": "Ollin deal report",
-      "v": "JNJ",
-      "ch": 1.1,
-      "tone": "gain"
-     }
-    ],
-    "foot": "Moves as of about 6 a.m. ET."
-   },
-   "detail": [
-    "Goldman Sachs downgraded cooler maker YETI to Neutral from Buy and cut its price target to $41 from $57. It pointed to slowing US direct-to-consumer growth and rising costs. YETI's third-quarter revenue of $509.4 million missed estimates, and it trimmed full-year sales growth to about 6%.",
-    "William Blair cut USA Rare Earth to Market Perform, citing ongoing feedstock shortages, fast cash burn and negative gross margins. The company recently reported about $3 million in revenue versus roughly $14 million expected. Separately, ThinkEquity started coverage of nuclear startup Deep Fission with a Buy."
-   ],
-   "money": [
-    "A price-target cut is one analyst's view, not a verdict; read the reason before reacting.",
-    "Missed revenue plus cut guidance is a common pattern before longer slumps, so it is worth tracking.",
-    "Small, cash-burning companies can need to raise money, which can dilute existing shareholders."
-   ],
-   "risk": [
-    "Analyst ratings are often wrong and can reverse quickly."
-   ],
-   "sources": [
-    {
-     "t": "Premarket movers: Nvidia, Intel fall; J&J gains",
-     "d": "investing.com",
-     "u": "https://www.investing.com/news/stock-market-news/premarket-movers-nvidia-intel-fall-jj-gains-5029397"
-    }
-   ]
-  },
-  {
-   "id": "defensive-rotation-staples-2026111614",
-   "type": "news",
-   "cat": "markets",
-   "tags": [
-    "markets"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T14:20:00Z",
-   "headline": "Investors hide in staples and health care as tech sinks 1.6% before the bell",
-   "caption": "Health care and consumer staples funds rose premarket while the tech fund fell about 1.6%. Staples also led all 11 sectors on Friday.",
-   "visual": {
-    "type": "stat",
-    "title": "Sector funds, premarket",
-    "num": "-1.64%",
-    "tone": "loss",
-    "label": "Tech (XLK) led losses while defensive sectors rose.",
-    "rows": [
-     [
-      "Health care XLV",
-      0.69
-     ],
-     [
-      "Staples XLP",
-      0.6
-     ],
-     [
-      "Utilities XLU",
-      0.32
-     ],
-     [
-      "Real estate XLRE",
-      -0.2
-     ],
-     [
-      "Tech XLK",
-      -1.64
-     ]
-    ]
-   },
-   "detail": [
-    "Money is moving toward 'boring' sectors. Before Monday's open, the health care fund rose about 0.7% and the staples fund about 0.6%. The tech fund fell about 1.6%, led by AMD, Broadcom and Nvidia.",
-    "The shift started Friday. Staples led all 11 sectors with a 1.4% gain, helped by PepsiCo and Coca-Cola. The 10-year Treasury yield ended the week at 5.15%."
-   ],
-   "money": [
-    "Staples, health care and utilities tend to hold up better when growth stocks fall, which can steady a portfolio.",
-    "With the 10-year yield above 5%, Treasuries offer a real alternative to stocks for cautious money.",
-    "Spreading money across sectors lowers the damage when one hot area cools."
-   ],
-   "risk": [
-    "Defensive stocks can lag badly if tech rebounds after Nvidia's report."
-   ],
-   "sources": [
-    {
-     "t": "Morning Brief, Nov 16, 2026: NVDA, AMD fall before the open",
-     "d": "currentlogic.substack.com",
-     "u": "https://currentlogic.substack.com/p/the-morning-brief-november-16-2026"
-    }
-   ]
-  },
-  {
-   "id": "lilly-medtronic-deals-2026111614",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business",
-    "markets"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T14:20:00Z",
-   "headline": "Health care deal Monday: Lilly buys Calytrix for up to $1.5B; Medtronic adds Contego",
-   "caption": "Eli Lilly agreed to buy blood cancer biotech Calytrix Bio for up to $1.5 billion. Medtronic plans to buy Contego Medical, valued at $380 million.",
-   "visual": {
-    "type": "deals",
-    "title": "Deals announced Nov 16",
-    "items": [
-     {
-      "a": "Eli Lilly",
-      "b": "Calytrix Bio",
-      "amt": "Up to $1.5B",
-      "st": "Upfront plus milestones",
-      "c": "pend"
-     },
-     {
-      "a": "Medtronic",
-      "b": "Contego Medical",
-      "amt": "$380M",
-      "st": "Close expected fiscal Q3",
-      "c": "pend"
-     }
-    ]
-   },
-   "detail": [
-    "Eli Lilly is buying Calytrix Bio, a Massachusetts startup working on an antibody for two rare blood cancers, myelofibrosis and essential thrombocythemia. The deal is worth up to $1.5 billion, but the guaranteed cash portion wasn't disclosed. It extends Lilly's recent buying streak.",
-    "Medtronic plans to buy Contego Medical, which makes carotid artery and clot-removal devices. Medtronic already distributed Contego's products in the US. It expects a small hit to adjusted earnings per share in fiscal 2027 and 2028, then a neutral or positive effect."
-   ],
-   "money": [
-    "'Up to' deal prices include milestone payments that may never be paid, so the real cost is often lower.",
-    "Drug giants with big cash flow keep buying startups; health care funds give broad exposure without picking winners.",
-    "Small earnings dilution from deals is normal; watch whether the buyer delivers the promised growth later."
-   ],
-   "risk": [
-    "Early-stage drugs often fail in trials."
-   ],
-   "sources": [
-    {
-     "t": "Lilly adds to buyout streak with $1.5B purchase of startup Calytrix",
-     "d": "biopharmadive.com",
-     "u": "https://www.biopharmadive.com/news/lilly-calytrix-bio-acquire-deal-myelofibrosis-essential-thrombocythemiaenial-/874719/"
-    },
-    {
-     "t": "Medtronic plans US$380M Contego Medical acquisition",
-     "d": "mugglehead.com",
-     "u": "https://mugglehead.com/medtronic-contego-medical-acquisition-vascular-devices/"
-    }
-   ]
-  },
-  {
-   "id": "gta6-launch-week-2026111614",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business",
-    "markets"
-   ],
-   "date": "This week",
-   "ts": "2026-11-16T14:20:00Z",
-   "headline": "GTA VI launches Thursday; Take-Two's yearly sales outlook still trails Wall Street",
-   "caption": "Grand Theft Auto VI arrives Nov. 19 on PS5 and Xbox. Take-Two kept its $8.0B-$8.2B bookings target, but its revenue outlook sits below estimates.",
-   "visual": {
-    "type": "timeline",
-    "title": "Take-Two's big week",
-    "items": [
-     {
-      "d": "NOV 10",
-      "t": "Q2 results",
-      "s": "Loss of $0.29/share vs. profit expected"
-     },
-     {
-      "d": "NOV 16",
-      "t": "Launch week begins",
-      "now": true
-     },
-     {
-      "d": "NOV 19",
-      "t": "GTA VI release",
-      "s": "PS5 and Xbox Series X|S"
-     }
-    ]
-   },
-   "detail": [
-    "Take-Two's Grand Theft Auto VI goes on sale Thursday, Nov. 19, for PlayStation 5 and Xbox Series X|S. It is one of the most anticipated entertainment launches in years.",
-    "Last week Take-Two posted a second-quarter loss of $0.29 a share, far from the profit analysts expected, with bookings of about $1.5 billion. It reaffirmed full-year net bookings of $8.0 to $8.2 billion, but its revenue range of $7.98 to $8.18 billion sits below the $8.51 billion estimate."
-   ],
-   "money": [
-    "Big product launches are often priced in early; shares can fall even on strong sales.",
-    "If you're buying the game, compare console bundles and retailer deals before launch day.",
-    "Gaming stocks swing on single titles, so a broad fund spreads that hit-or-miss risk."
-   ],
-   "risk": [
-    "Delays or weak early sales could hit the stock hard."
-   ],
-   "sources": [
-    {
-     "t": "Take-Two shares rise over 3% after quarterly results as GTA VI Nov. 19 release confirmed",
-     "d": "finviz.com",
-     "u": "https://finviz.com/news/419805/take-two-shares-rise-over-3-after-quarterly-results-as-gta-vi-november-19-release-confirmed"
-    }
-   ]
-  },
-  {
-   "id": "apache-north-sea-strike-2026111614",
-   "type": "news",
-   "cat": "world",
-   "tags": [
-    "world",
-    "business"
-   ],
-   "date": "Nov 15-16",
-   "ts": "2026-11-16T14:20:00Z",
-   "headline": "Apache North Sea strike hits seven platforms; key UK oil pipeline at risk",
-   "caption": "About 170 Unite union workers are striking at Apache's North Sea platforms on Nov. 15-16. The union warns it could disrupt a pipeline carrying about 29% of UK oil.",
-   "visual": {
-    "type": "stat",
-    "title": "Apache UK North Sea dispute",
-    "num": "7",
-    "tone": "loss",
-    "label": "Apache platforms hit by the strike.",
-    "facts": [
-     [
-      "Workers",
-      "~170",
-      "Unite members"
-     ],
-     [
-      "Pay offer",
-      "4%",
-      "Apache's proposal"
-     ],
-     [
-      "Forties Pipeline",
-      "~29%",
-      "share of UK oil it carries"
-     ]
-    ]
-   },
-   "detail": [
-    "Unite union members at Apache's UK North Sea operations are striking again over jobs, pay and conditions. The Nov. 15-16 walkout covers Forties Charlie, Forties Echo and Beryl Alpha, after strikes on Nov. 13-14 at four other platforms. A Monday market brief said production at all seven assets was halted.",
-    "Apache offered a 4% raise, matching what non-union staff got. The union warns disruption at Forties Charlie could affect the Forties Pipeline System, which carries crude from more than 80 fields and about 29% of Britain's oil."
-   ],
-   "money": [
-    "Supply hiccups in the North Sea can nudge Brent crude, which affects fuel prices far beyond the UK.",
-    "Energy funds can benefit from supply scares, but these moves often fade fast.",
-    "Labor disputes are a real cost for oil producers; watch margins in upcoming results."
-   ],
-   "risk": [
-    "Third-party fields kept flowing during an October strike, which limited the impact."
-   ],
-   "sources": [
-    {
-     "t": "Apache Offshore Workers Strike Over Pay, Conditions",
-     "d": "oedigital.com",
-     "u": "https://www.oedigital.com/news/544124-apache-offshore-workers-strike-over-pay-conditions"
-    },
-    {
-     "t": "Morning Brief, Nov 16, 2026: NVDA, AMD fall before the open",
-     "d": "currentlogic.substack.com",
-     "u": "https://currentlogic.substack.com/p/the-morning-brief-november-16-2026"
-    }
-   ]
-  },
-  {
-   "id": "hormuz-mines-brent-2026111614",
-   "type": "news",
-   "cat": "world",
-   "tags": [
-    "world",
-    "markets"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T14:20:00Z",
-   "headline": "Iran's Guards say two more tankers hit mines in Hormuz; Brent holds near $96",
-   "caption": "What's new: Iran's Revolutionary Guards claimed two tankers struck mines. Oil barely moved, with Brent up 5 cents to about $95.89 after a 16% weekly drop.",
-   "visual": {
-    "type": "board",
-    "title": "Oil, Mon morning",
-    "rows": [
-     {
-      "k": "Brent",
-      "v": "$95.89",
-      "ch": 0.1,
-      "tone": "acc"
-     },
-     {
-      "k": "WTI",
-      "v": "$88.65",
-      "ch": 0.1,
-      "tone": "acc"
-     },
-     {
-      "k": "Brent last week",
-      "v": "-16%",
-      "tone": "loss"
-     },
-     {
-      "k": "IEA Q4 surplus",
-      "s": "supply over demand",
-      "v": "1.7M bpd"
-     }
-    ],
-    "foot": "Mine claims could not be independently verified."
-   },
-   "detail": [
-    "Iran's Revolutionary Guards said two tankers struck mines in the Strait of Hormuz, causing explosions. Six tankers have caught fire in similar incidents since the weekend. The reports could not be independently verified.",
-    "Markets shrugged. Brent rose 5 cents to about $95.89 and WTI 9 cents to $88.65 after both fell sharply last week. Shipments through the strait have mostly recovered, and the IEA now expects supply to beat demand by 1.7 million barrels a day this quarter."
-   ],
-   "money": [
-    "Falling crude usually reaches the gas pump with a lag, so fill-up costs may keep easing.",
-    "High shipping rates are keeping a floor under oil, so don't expect a straight-line drop.",
-    "Airlines and truckers gain when fuel falls; energy producers lose."
-   ],
-   "risk": [
-    "A confirmed attack could send prices jumping fast."
-   ],
-   "sources": [
-    {
-     "t": "Oil prices rise after Hormuz explosion claims",
-     "d": "rte.ie",
-     "u": "https://www.rte.ie/news/business/2026/1116/1599343-oil-prices/"
-    }
-   ]
-  },
-  {
-   "id": "2027-standard-deduction-2026111614",
-   "type": "news",
-   "cat": "taxes",
-   "tags": [
-    "taxes",
-    "benefits"
-   ],
-   "date": "For tax year 2027",
-   "ts": "2026-11-16T14:20:00Z",
-   "headline": "2027 standard deduction rises to $33,200 for couples; 65+ extra goes to $2,100",
-   "caption": "The standard deduction climbs $1,000 for married couples and $500 for singles in 2027. Older filers get a slightly bigger extra amount.",
-   "visual": {
-    "type": "board",
-    "title": "2027 standard deduction",
-    "rows": [
-     {
-      "k": "Married filing jointly",
-      "s": "up $1,000",
-      "v": "$33,200",
-      "tone": "gain"
-     },
-     {
-      "k": "Single",
-      "s": "up $500",
-      "v": "$16,600",
-      "tone": "gain"
-     },
-     {
-      "k": "Head of household",
-      "s": "up $775",
-      "v": "$24,950",
-      "tone": "gain"
-     },
-     {
-      "k": "Extra, 65+ single/HOH",
-      "s": "was $2,050",
-      "v": "$2,100",
-      "tone": "gain"
-     },
-     {
-      "k": "Extra, 65+ married",
-      "s": "per person, was $1,650",
-      "v": "$1,700",
-      "tone": "gain"
-     }
-    ],
-    "foot": "Separate $6,000 senior deduction runs 2025-2028."
-   },
-   "detail": [
-    "Inflation adjustments lift the 2027 standard deduction to $33,200 for married couples filing jointly, $16,600 for singles and $24,950 for heads of household. These apply to returns filed in 2028.",
-    "People 65 and older get an extra amount on top: $2,100 for single or head-of-household filers and $1,700 per qualifying spouse for married filers. Blind filers get double. The separate $6,000 senior deduction still runs through 2028 and phases out above $75,000 of income for singles and $150,000 for couples."
-   ],
-   "money": [
-    "Most people take the standard deduction; a higher one quietly lowers taxable income without extra work.",
-    "If your itemized deductions are close to the new amounts, 'bunching' gifts or payments into one year may help.",
-    "Seniors can stack the age-based extra with the $6,000 senior deduction if income qualifies."
-   ],
-   "risk": [
-    "The $6,000 senior deduction phases out at higher incomes."
-   ],
-   "sources": [
-    {
-     "t": "IRS Updates Tax Deduction for People Age 65 and Older",
-     "d": "kiplinger.com",
-     "u": "https://www.kiplinger.com/taxes/irs-updates-2027-tax-deduction-for-people-age-65-and-older"
-    }
-   ]
-  },
-  {
-   "id": "irs-ai-tax-pro-complaints-2026111614",
-   "type": "news",
-   "cat": "taxes",
-   "tags": [
-    "taxes",
-    "ai"
-   ],
-   "date": "This week",
-   "ts": "2026-11-16T14:20:00Z",
-   "headline": "IRS sees more complaints about tax preparers misusing AI; new guidance coming",
-   "caption": "The IRS office that disciplines tax pros says AI-related referrals are starting to rise. It plans more guidance within a couple of months.",
-   "visual": {
-    "type": "stat",
-    "title": "IRS Office of Professional Responsibility",
-    "num": "<5",
-    "tone": "acc",
-    "label": "Cases involving AI, out of about 200 open.",
-    "facts": [
-     [
-      "Total cases",
-      "~200",
-      "OPR caseload"
-     ],
-     [
-      "OPR staff",
-      "15",
-      "workers"
-     ],
-     [
-      "Next guidance",
-      "~2 months",
-      "per director"
-     ]
-    ]
-   },
-   "detail": [
-    "The IRS Office of Professional Responsibility, which oversees tax practitioner conduct, has fewer than five AI-related cases among about 200. Director Thomas Curtin says such referrals are starting to tick up.",
-    "The office issued an alert in June applying its practitioner rules, called Circular 230, to AI use. Curtin said more guidance is coming in the next couple of months. The office has just 15 staff."
-   ],
-   "money": [
-    "Ask your preparer how they use AI and who reviews the final return; you're responsible for what's filed.",
-    "Double-check AI-generated tax advice against IRS publications before acting on it.",
-    "A credentialed preparer (CPA, EA or attorney) is bound by IRS conduct rules, which gives you recourse."
-   ],
-   "risk": [
-    "Errors on your return can bring penalties even if a tool made them."
-   ],
-   "sources": [
-    {
-     "t": "IRS: Tax Pro AI Complaints Are on the Rise",
-     "d": "taxprofblog.aals.org",
-     "u": "https://taxprofblog.aals.org/2026/11/15/irs-tax-pro-ai-complaints-are-on-the-rise"
-    }
-   ]
-  },
-  {
-   "id": "ice-lawyer-phone-ruling-2026111614",
-   "type": "news",
-   "cat": "immigration",
-   "tags": [
-    "immigration"
-   ],
-   "date": "Late last week",
-   "ts": "2026-11-16T14:20:00Z",
-   "headline": "Judge bars ICE from reading an immigration lawyer's seized phone data for now",
-   "caption": "A federal judge in Boston found the lawyer is likely to prove his phone was seized in retaliation for his speech. The government says it was part of an investigation.",
-   "visual": {
-    "type": "points",
-    "title": "Lattarulo v. government",
-    "items": [
-     "Phone seized at Boston Logan without a warrant",
-     "Data copied; phone returned 8 days later",
-     "Judge: likely retaliation for 'know-your-rights' videos",
-     "Data must stay unreadable while the case goes on",
-     "Government cites a probe of his firm's hiring"
-    ]
-   },
-   "detail": [
-    "US District Judge Allison Burroughs granted a preliminary injunction for Andrew Lattarulo, part owner of an immigration law firm. Agents took his phone at Boston Logan Airport in September as he returned from Aruba, copied its data and returned it eight days later. He runs a popular Instagram account with know-your-rights videos.",
-    "The judge found he would likely show the search was retaliation for protected speech, and ordered the data kept unreadable until the case ends. She did not order it destroyed or rule on the Fourth Amendment. The government denies targeting his speech and says the search was tied to an inquiry into whether his firm employed unauthorized workers."
-   ],
-   "money": [
-    "Border searches of phones are legal in many cases; travelers can limit what's stored on devices they carry.",
-    "Businesses should keep work-authorization (I-9) records complete, since hiring probes can be costly.",
-    "Legal fights like this can raise costs for small law firms; budgeting for compliance helps."
-   ],
-   "risk": [
-    "This is an early ruling; the case continues."
-   ],
-   "sources": [
-    {
-     "t": "Judge blocks ICE from searching immigration lawyer's phone",
-     "d": "yahoo.com",
-     "u": "https://www.yahoo.com/news/us/articles/judge-blocks-ice-searching-immigration-102852356.html"
-    }
-   ]
-  },
-  {
-   "id": "solana-four-month-low-2026111614",
-   "type": "news",
-   "cat": "crypto",
-   "tags": [
-    "crypto",
-    "markets"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T14:20:00Z",
-   "headline": "Solana slides to its lowest since June as its ETFs log a sixth week of outflows",
-   "caption": "SOL dipped to $67.41 over the weekend before bouncing near $71. US spot Solana ETFs have lost about $197 million in six weeks.",
-   "visual": {
-    "type": "stat",
-    "title": "Solana (SOL)",
-    "num": "$70.80",
-    "tone": "loss",
-    "label": "Monday price, down about 32% in a month.",
-    "facts": [
-     [
-      "Weekend low",
-      "$67.41",
-      "lowest since late June"
-     ],
-     [
-      "7-day change",
-      "-16.8%",
-      ""
-     ],
-     [
-      "ETF outflows",
-      "$197.4M",
-      "over six weeks"
-     ]
-    ]
-   },
-   "detail": [
-    "Solana traded around $70.80 on Monday, down about 2.6% in a day and 16.8% in a week. It touched $67.41 over the weekend, its lowest since late June. It is down about 40% from its late-September weekly close near $122.",
-    "US spot Solana ETFs saw about $32 million in net outflows in the week ending Nov. 13. That made six straight weeks of withdrawals totaling roughly $197 million, after 14 weeks of inflows."
-   ],
-   "money": [
-    "ETF outflows show big holders pulling back; that can keep pressure on prices short term.",
-    "If you buy crypto, small regular amounts can lower the risk of buying at a bad moment.",
-    "Keep crypto to a slice of savings you can afford to see fall 40% or more."
-   ],
-   "risk": [
-    "Altcoins often fall faster than bitcoin in sell-offs."
-   ],
-   "sources": [
-    {
-     "t": "Solana price drops to four-month low as ETF outflows hit 6 weeks",
-     "d": "crypto.news",
-     "u": "https://crypto.news/why-is-solana-price-down-today-sol-etf-outflows/"
-    }
-   ]
-  },
-  {
-   "id": "texas-1500-checks-bill-2026111614",
-   "type": "news",
-   "cat": "states",
-   "tags": [
-    "states",
-    "politics"
-   ],
-   "date": "Filed last week",
-   "ts": "2026-11-16T14:20:00Z",
-   "headline": "Texas bill would send $1,500 relief checks to every adult, paid from the rainy day fund",
-   "caption": "State Sen. Roland Gutierrez filed SB 297, a $17 billion plan for one-time checks. It faces likely opposition in the Republican-led Senate.",
-   "visual": {
-    "type": "stat",
-    "title": "Texas SB 297",
-    "num": "$1,500",
-    "tone": "acc",
-    "label": "One-time check proposed for adult Texans.",
-    "facts": [
-     [
-      "Total cost",
-      "$17B",
-      "from rainy day fund"
-     ],
-     [
-      "Rainy day fund",
-      "~$27B",
-      "current balance"
-     ],
-     [
-      "Eligibility",
-      "18+",
-      "Texas resident by Jan. 1, 2027"
-     ]
-    ]
-   },
-   "detail": [
-    "Democratic State Sen. Roland Gutierrez of San Antonio filed Senate Bill 297. It would send $1,500 emergency relief checks to Texans 18 and older who lived in the state as of Jan. 1, 2027. People would apply online or by mail, and most checks would go out by the end of 2027.",
-    "The $17 billion cost would come from the state's roughly $27 billion rainy day fund, which needs legislative approval to tap. The bill argues an affordability crisis counts as a public calamity, the exception that allows direct payments. Democrats now control the Texas House, but the Republican Senate is likely to resist."
-   ],
-   "money": [
-    "Nothing is approved; don't budget around a check that may never come.",
-    "If it passes, applications would run through 2028, so watch for the official comptroller process.",
-    "Beware scams promising early access to 'relief checks'; states never charge to apply."
-   ],
-   "risk": [
-    "The bill faces long odds in the state Senate."
-   ],
-   "sources": [
-    {
-     "t": "Texas $1,500 relief checks: Lawmaker files bill to send one-time payment to every household",
-     "d": "fox4news.com",
-     "u": "https://www.fox4news.com/news/texas-1500-relief-checks-lawmaker-files-bill-send-one-time-payments-every-household"
-    }
-   ]
-  },
-  {
-   "id": "maine-pingree-1-3b-gap-2026111614",
-   "type": "news",
-   "cat": "states",
-   "tags": [
-    "states",
-    "benefits"
-   ],
-   "date": "Last week",
-   "ts": "2026-11-16T14:20:00Z",
-   "headline": "Maine's governor-elect faces a $1.3 billion budget gap while promising property tax relief",
-   "caption": "Hannah Pingree says there's no easy fix. She also wants to address federal Medicaid and SNAP cuts and heating oil help.",
-   "visual": {
-    "type": "points",
-    "title": "Maine budget outlook",
-    "items": [
-     "Projected gap: $1.3 billion",
-     "Top promise: property tax relief for the middle class",
-     "Worried about federal Medicaid and SNAP cuts",
-     "Wants heating oil relief",
-     "No word yet on taxes or rainy day fund"
-    ]
-   },
-   "detail": [
-    "Maine Governor-elect Hannah Pingree said the state faces a projected $1.3 billion budget shortfall and that tough choices lie ahead. She spoke at a press conference in Augusta.",
-    "Pingree still wants property tax relief, especially for middle-income families, which was central to her campaign. She is also focused on federal health care cuts to Medicaid and SNAP and on heating oil relief. She did not say whether she would raise taxes or tap the rainy day fund."
-   ],
-   "money": [
-    "Mainers who heat with oil should check current state and federal heating aid before winter peaks.",
-    "Property tax relief programs usually need an application; watch for new rules next year.",
-    "Budget gaps can bring fee hikes or program trims, so plan for some uncertainty."
-   ],
-   "risk": [
-    "Promises may shrink once the budget is written."
-   ],
-   "sources": [
-    {
-     "t": "Pingree on how she plans to tackle $1.3 billion state budget shortfall",
-     "d": "wmtw.com",
-     "u": "https://www.wmtw.com/article/pingree-how-she-plans-tackle-13-billion-budget-shortfall/74391991"
-    }
-   ]
-  },
-  {
-   "id": "california-gas-5-56-2026111614",
-   "type": "news",
-   "cat": "california",
-   "tags": [
-    "california",
-    "world"
-   ],
-   "date": "Week of Nov 9",
-   "ts": "2026-11-16T14:20:00Z",
-   "headline": "California gas falls to $5.56 a gallon, down 3.2% in a week but 24% above last year",
-   "caption": "The state's average regular gas price dropped from $5.75. It is still about $1 a gallon higher than a year ago.",
-   "visual": {
-    "type": "vs",
-    "title": "California regular gas",
-    "a": [
-     "Year ago",
-     "$4.50",
-     0.81,
-     "acc"
-    ],
-    "b": [
-     "Now",
-     "$5.56",
-     1,
-     "loss"
-    ],
-    "foot": "Week ago: $5.75. Weekly data for Nov. 9."
-   },
-   "detail": [
-    "California's average price for regular gasoline was $5.56 a gallon for the week of Nov. 9, down from $5.75 a week earlier, a 3.2% drop.",
-    "Prices remain about 24% above a year ago, when the average was $4.50. Crude oil fell sharply last week, which tends to reach pumps with a delay."
-   ],
-   "money": [
-    "Gas apps that compare nearby stations can save 20 cents or more a gallon in California.",
-    "Warehouse clubs and grocery fuel rewards often beat street prices.",
-    "If prices keep easing, filling up mid-week rather than before holidays can help."
-   ],
-   "risk": [
-    "Mideast flare-ups could reverse the drop quickly."
-   ],
-   "sources": [
-    {
-     "t": "Gas Prices in California Today: Weekly Price Chart",
-     "d": "kadoa.com",
-     "u": "https://www.kadoa.com/energy-prices/fuel/gasoline/california"
     }
    ]
   }
