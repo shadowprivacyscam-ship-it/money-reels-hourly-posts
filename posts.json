@@ -1,6 +1,944 @@
 {
- "updated": "2026-11-17T11:00:00Z",
+ "updated": "2026-11-17T12:00:00Z",
  "items": [
+  {
+   "id": "disney-q4-beat-dividend-2026111712",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business",
+    "markets"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T12:00:00Z",
+   "headline": "Disney beats with $25.9B in sales and raises its dividend 33% to $2 a year",
+   "caption": "Disney's revenue rose 16% and adjusted profit of $1.77 a share topped the $1.67 forecast. The stock rose about 2% before the open.",
+   "visual": {
+    "type": "board",
+    "title": "Disney fiscal Q4 2026",
+    "rows": [
+     {
+      "k": "Revenue",
+      "v": "$25.9B",
+      "ch": 16,
+      "tone": "gain"
+     },
+     {
+      "k": "Adjusted EPS",
+      "s": "forecast $1.67",
+      "v": "$1.77",
+      "tone": "gain"
+     },
+     {
+      "k": "Annual dividend",
+      "s": "two $1 payments",
+      "v": "$2.00",
+      "ch": 33,
+      "tone": "gain"
+     },
+     {
+      "k": "Streaming profit",
+      "s": "Disney+ and Hulu",
+      "v": "$824M",
+      "tone": "gain"
+     },
+     {
+      "k": "Premarket stock",
+      "s": "closed at $118.70",
+      "v": "$121.25",
+      "ch": 2.15,
+      "tone": "gain"
+     }
+    ],
+    "foot": "Dividend paid in January and July"
+   },
+   "detail": [
+    "Disney reported fiscal fourth-quarter revenue of $25.9 billion, up 16%. Adjusted earnings were $1.77 a share, ahead of the $1.67 analysts expected.",
+    "The company raised its annual dividend by a third, to $2 a share, paid as two $1 checks in January and July. Shares rose about 2.15% to $121.25 in early trading.",
+    "Streaming did well. Disney+ and Hulu earned $824 million, more than double a year ago, on revenue up 19% to $6.05 billion."
+   ],
+   "money": [
+    "A bigger dividend means more cash for shareholders, but check the yield before buying just for income.",
+    "If you own Disney through an index fund, a beat like this helps your fund a little, not a lot.",
+    "Streaming profits rising can mean fewer price cuts on Disney+ plans; compare bundles before renewing."
+   ],
+   "risk": [
+    "Premarket moves can fade once regular trading starts, especially on a shaky market day."
+   ],
+   "sources": [
+    {
+     "t": "Disney (DIS) Stock Pops as Dividend Jumps 33% After Q4 Beat",
+     "d": "coincentral.com",
+     "u": "https://coincentral.com/disney-dis-stock-pops-as-dividend-jumps-33-after-q4-beat"
+    },
+    {
+     "t": "Disney+ and Hulu's Combined Q4 Profit Climbs to $824 Million",
+     "d": "thewrap.com",
+     "u": "https://www.thewrap.com/industry-news/business/disney-earnings-q4-2026/"
+    }
+   ]
+  },
+  {
+   "id": "disney-3b-savings-parks-2026111712",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business",
+    "markets"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T12:00:00Z",
+   "headline": "Disney targets $3B in cost savings by 2029 as parks profit jumps 20%",
+   "caption": "Disney plans about $9B in buybacks next quarter and expects double-digit profit growth in 2027. Reports say more job cuts are being weighed.",
+   "visual": {
+    "type": "stat",
+    "title": "Disney parks & outlook",
+    "num": "+20%",
+    "tone": "gain",
+    "label": "Experiences profit rose to $2.25B in the quarter.",
+    "facts": [
+     [
+      "Cost savings goal",
+      "$3B",
+      "by fiscal 2029"
+     ],
+     [
+      "Q1 buybacks",
+      "~$9B",
+      "expected"
+     ],
+     [
+      "2027 free cash flow",
+      "~$11B",
+      "company view"
+     ]
+    ]
+   },
+   "detail": [
+    "Disney's parks and experiences unit grew revenue 15% to $10.1 billion and profit 20% to $2.25 billion. Global guests rose 11%, though Hong Kong and Shanghai stayed weak.",
+    "The company said it expects about $3 billion in savings by fiscal 2029. Some managers have been asked to aim for 20% yearly cost cuts, and the company is weighing thousands more job cuts, TheWrap reported.",
+    "For fiscal 2027, Disney guided to about 8% operating income growth, double-digit adjusted EPS growth and about $11 billion in free cash flow. It expects roughly $9 billion of buybacks in the first quarter."
+   ],
+   "money": [
+    "Strong park demand often means higher ticket prices; book trips early and watch for off-peak deals.",
+    "Big buybacks reduce share count, which can lift earnings per share for long-term holders.",
+    "If you work in media or entertainment, cost cuts like these are a reason to keep an emergency fund ready."
+   ],
+   "risk": [
+    "Cost cutting can hurt quality or morale, and guidance can change if the economy slows."
+   ],
+   "sources": [
+    {
+     "t": "Disney+ and Hulu's Combined Q4 Profit Climbs to $824 Million",
+     "d": "thewrap.com",
+     "u": "https://www.thewrap.com/industry-news/business/disney-earnings-q4-2026/"
+    }
+   ]
+  },
+  {
+   "id": "chip-curbs-five-countries-2026111712",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "world",
+    "markets"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T12:00:00Z",
+   "headline": "US requires licenses for top AI chips in 5 countries, from Malaysia to Brazil",
+   "caption": "A new rule bans remote access to certain AI chips in Indonesia, Malaysia, Singapore, Thailand and Brazil. The goal is to stop Chinese firms renting that power.",
+   "visual": {
+    "type": "points",
+    "title": "The new chip rule",
+    "items": [
+     "Covers Indonesia, Malaysia, Singapore, Thailand, Brazil",
+     "License needed to sell top AI chips and servers there",
+     "Bans remote access to certain GPUs in those data centers",
+     "Exempts shopping and social media recommender systems",
+     "Issued as an interim final rule by Commerce"
+    ]
+   },
+   "detail": [
+    "The Commerce Department's Bureau of Industry and Security now requires a license to sell the most advanced AI chips and servers into five countries: Indonesia, Malaysia, Singapore, Thailand and Brazil.",
+    "The rule also bans remote access to certain GPUs and servers in data centers there. US officials say Chinese tech firms had been renting computing power in these hubs to train AI models. Systems used for retail and social media recommendations are exempt.",
+    "An analyst told The Register the rule may shift the compliance burden onto data center and cloud operators. Separately, the US confirmed a criminal probe into Singapore's Megaspeed."
+   ],
+   "money": [
+    "Chip stocks can swing on export news; avoid piling into one chipmaker before Nvidia's results.",
+    "Broad index funds spread export-rule risk across many companies.",
+    "Cloud firms with US-only data centers may gain if rentals shift away from these hubs."
+   ],
+   "risk": [
+    "More rules could follow, and markets in Asia and Europe already fell on the news."
+   ],
+   "sources": [
+    {
+     "t": "US extends chip sale restrictions to more Asian countries",
+     "d": "theregister.com",
+     "u": "https://www.theregister.com/off-prem/2026/11/17/us-extends-chip-sale-restrictions-to-more-asian-countries-to-reduce-risk-of-diversion-to-china/5310307"
+    },
+    {
+     "t": "U.S. closes loophole that let Chinese companies use top AI chips",
+     "d": "nbcnews.com",
+     "u": "https://www.nbcnews.com/tech/tech-news/us-closes-loophole-let-chinese-companies-use-top-ai-chips-rcna609634"
+    }
+   ]
+  },
+  {
+   "id": "europe-falls-chip-curbs-2026111712",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets",
+    "world",
+    "ai"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T12:00:00Z",
+   "headline": "European stocks fall as new US chip curbs hit ASML and other chipmakers",
+   "caption": "The STOXX 600 slipped 0.5% and Germany's DAX lost 0.9%. Chip stocks like ASML and STMicro fell about 1.2% before Nvidia's results.",
+   "visual": {
+    "type": "stat",
+    "title": "Europe Tuesday morning",
+    "num": "-0.5%",
+    "tone": "loss",
+    "label": "STOXX 600 slips as chip curbs revive AI worries.",
+    "rows": [
+     [
+      "DAX",
+      -0.9
+     ],
+     [
+      "FTSE 100",
+      -0.8
+     ],
+     [
+      "CAC 40",
+      -0.5
+     ],
+     [
+      "ASML",
+      -1.2
+     ],
+     [
+      "Prosus",
+      -1.8
+     ]
+    ]
+   },
+   "detail": [
+    "European shares eased on Tuesday after Washington announced new curbs on advanced AI chip shipments to data centers in Southeast Asia.",
+    "The STOXX 600 fell 0.5%, the DAX 0.9%, the CAC 40 0.5% and London's FTSE 100 0.8%. Chip names ASML, STMicroelectronics and Soitec each fell about 1.2%, and Prosus lost 1.8%.",
+    "Investors are also bracing for Nvidia's results after the US close, its first report under an interim CEO."
+   ],
+   "money": [
+    "International funds hold big chip names like ASML; check how much of your fund is in tech.",
+    "Rough days before big earnings can offer better entry prices for long-term buyers who invest steadily.",
+    "Keep cash you need soon out of stocks during volatile weeks like this one."
+   ],
+   "risk": [
+    "Nvidia's report could move global markets sharply either way tonight."
+   ],
+   "sources": [
+    {
+     "t": "European shares slip on fresh U.S. chip curbs",
+     "d": "finance.yahoo.com",
+     "u": "https://finance.yahoo.com/technology/articles/european-shares-slip-fresh-u-083821310.html"
+    },
+    {
+     "t": "European Stocks Fall as US Chip Curbs Ignite Fresh AI Selloff",
+     "d": "bloomberg.com",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-17/european-stocks-fall-as-us-chip-curbs-ignite-fresh-ai-selloff"
+    }
+   ]
+  },
+  {
+   "id": "sp500-10pct-year-math-2026111712",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T12:00:00Z",
+   "headline": "S&P 500 is up about 8% this year; a 10% finish needs roughly 7,530",
+   "caption": "Futures dipped about 0.4% before a heavy day of data and Nvidia's report. Four straight double-digit years would be the first since the 1990s.",
+   "visual": {
+    "type": "board",
+    "title": "Tuesday before the open",
+    "rows": [
+     {
+      "k": "S&P 500 futures",
+      "v": "7,417.75",
+      "ch": -0.29,
+      "tone": "loss"
+     },
+     {
+      "k": "Dow futures",
+      "v": "51,448",
+      "ch": -0.43,
+      "tone": "loss"
+     },
+     {
+      "k": "VIX",
+      "s": "fear gauge",
+      "v": "23.54",
+      "ch": 2.75,
+      "tone": "acc"
+     },
+     {
+      "k": "10-year yield",
+      "v": "5.12%",
+      "tone": "acc"
+     },
+     {
+      "k": "Level for +10% in 2026",
+      "v": "~7,530",
+      "tone": "acc"
+     }
+    ],
+    "foot": "Due today: retail sales, industrial production, import prices, NAHB"
+   },
+   "detail": [
+    "The S&P 500 closed Monday up about 8% for 2026. It needs to reach roughly 7,530 to end the year up 10%, about 110 points higher. It closed above that level as recently as last Friday.",
+    "A fourth straight year of double-digit gains would be the first since the 1990s. BofA's Michael Hartnett counts only three such streaks since 1871.",
+    "Before the open, futures slipped. Traders get October retail sales (seen up 0.2%), industrial production, import prices and the NAHB builder index, plus Nvidia after the bell."
+   ],
+   "money": [
+    "Year-end targets are noise for long-term savers; stick to a set monthly investing plan.",
+    "If you are rebalancing, a strong multi-year run may mean your stock share has grown past your target.",
+    "With 10-year yields near 5.1%, high-yield savings and Treasurys still pay well for short-term cash."
+   ],
+   "risk": [
+    "A weak Nvidia report or hot data could push stocks further from that 10% mark."
+   ],
+   "sources": [
+    {
+     "t": "Stock market today: Dow, S&P 500 futures slip in countdown to Nvidia earnings",
+     "d": "finance.yahoo.com",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-17-dow-sp-500-nasdaq-nvidia-earnings-091546152.html"
+    }
+   ]
+  },
+  {
+   "id": "chatgpt-wallet-agents-2026111712",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "business"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T12:00:00Z",
+   "headline": "OpenAI launches ChatGPT Wallet so AI agents can shop for you, with your OK",
+   "caption": "The wallet, built with Amex, Mastercard and Visa, needs your approval for each purchase. It starts with US ChatGPT Pro subscribers.",
+   "visual": {
+    "type": "points",
+    "title": "ChatGPT Wallet basics",
+    "items": [
+     "AI agents can buy things on your behalf",
+     "You approve every single purchase",
+     "Built with American Express, Mastercard and Visa",
+     "Card details hidden from the agent and the store",
+     "First for US ChatGPT Pro subscribers"
+    ]
+   },
+   "detail": [
+    "OpenAI introduced ChatGPT Wallet, which lets AI agents make purchases for users. Each purchase needs the user's approval.",
+    "It was built with American Express, Mastercard and Visa. Card details stay hidden from both the agent and the merchant. It is rolling out first to US ChatGPT Pro subscribers.",
+    "The launch comes as companies fight over AI shopping. United Airlines has limited booking bots, while Shopify joined a protocol that tells agents what they may do."
+   ],
+   "money": [
+    "Use a single card with a low limit or virtual number for any agent purchases.",
+    "Agents can compare prices fast; still check return policies before approving.",
+    "Watch your statements for small unexpected charges if you try agent shopping."
+   ],
+   "risk": [
+    "AI agents can make mistakes, and dispute rules for agent purchases are still new."
+   ],
+   "sources": [
+    {
+     "t": "Everything That Happened in AI Today, Monday, November 16",
+     "d": "theneuron.ai",
+     "u": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-monday-november-16-2026/"
+    }
+   ]
+  },
+  {
+   "id": "elevenlabs-kotoba-100m-2026111712",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "business"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T12:00:00Z",
+   "headline": "ElevenLabs buys Japanese voice AI startup Kotoba in a reported $100M deal",
+   "caption": "The $22 billion voice AI company is adding Kotoba's Japanese speech model, already used by Salesforce. The deal should close this quarter.",
+   "visual": {
+    "type": "deals",
+    "title": "Voice AI deal",
+    "items": [
+     {
+      "a": "ElevenLabs",
+      "b": "Kotoba Technologies",
+      "amt": "~$100M",
+      "st": "Expected to close Q4",
+      "c": "pend"
+     },
+     {
+      "a": "ElevenLabs",
+      "b": "Employee tender, Sept.",
+      "amt": "$22B value",
+      "st": "Doubled from $11B",
+      "c": "ok"
+     }
+    ]
+   },
+   "detail": [
+    "ElevenLabs agreed to buy Kotoba Technologies, a voice AI developer focused on Japanese. It did not disclose terms, but Nikkei Asia reported a price of about $100 million.",
+    "Kotoba, founded in 2023, makes the Koto model for Japanese text-to-speech, speech-to-text and speech-to-speech. Salesforce uses it in Agentforce Voice. Kotoba had raised $23 million in total.",
+    "ElevenLabs was valued at $22 billion in a September employee share sale, double its February value. The deal is expected to close later in the fourth quarter."
+   ],
+   "money": [
+    "Private AI firms are growing fast; most people can only get exposure through public companies or funds.",
+    "Small businesses can use voice AI tools to cut call center and translation costs.",
+    "If a startup you own options in gets bought, learn how the deal pays out before it closes."
+   ],
+   "risk": [
+    "Private valuations can fall sharply, and deals need regulatory approval."
+   ],
+   "sources": [
+    {
+     "t": "ElevenLabs agrees to acquire Japan-focused voice AI company Kotoba",
+     "d": "musicbusinessworldwide.com",
+     "u": "https://www.musicbusinessworldwide.com/elevenlabs-agrees-to-acquire-japan-focused-voice-ai-company-kotoba-in-reported-100m-deal/"
+    }
+   ]
+  },
+  {
+   "id": "meituan-longcat-no-nvidia-2026111712",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "world"
+   ],
+   "date": "This week",
+   "ts": "2026-11-17T12:00:00Z",
+   "headline": "China's Meituan releases a 1.6 trillion parameter AI model trained without Nvidia",
+   "caption": "LongCat-2.5 is an open-weight coding agent model reportedly trained on Chinese hardware. A sample setup runs on 194 Huawei Ascend chips.",
+   "visual": {
+    "type": "stat",
+    "title": "Meituan LongCat-2.5",
+    "num": "1.6T",
+    "tone": "acc",
+    "label": "Parameters in an open-weight model built off Nvidia chips.",
+    "facts": [
+     [
+      "Chips in sample setup",
+      "194",
+      "Huawei Ascend"
+     ],
+     [
+      "Type",
+      "Open weights",
+      "coding agent"
+     ],
+     [
+      "Nvidia GPUs used",
+      "None",
+      "reported"
+     ]
+    ]
+   },
+   "detail": [
+    "Chinese delivery giant Meituan released LongCat-2.5, a 1.6 trillion parameter open-weight model built for coding agents.",
+    "It was reportedly trained on Chinese hardware, with no Nvidia GPUs. A sample deployment needs 194 Huawei Ascend chips, The Decoder reported.",
+    "The release lands the same week the US tightened chip rules in Southeast Asia and Nvidia reports results under an interim CEO."
+   ],
+   "money": [
+    "Chinese chip progress is a long-term risk for Nvidia; diversify beyond one AI stock.",
+    "Open-weight models can cut AI costs for small firms that run their own tools.",
+    "China tech funds carry extra policy risk; keep them a small slice if you own any."
+   ],
+   "risk": [
+    "Model claims are early and not independently tested at scale."
+   ],
+   "sources": [
+    {
+     "t": "Everything That Happened in AI Today, Monday, November 16",
+     "d": "theneuron.ai",
+     "u": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-monday-november-16-2026/"
+    }
+   ]
+  },
+  {
+   "id": "church-dwight-bali-225m-2026111712",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T12:00:00Z",
+   "headline": "Church & Dwight buys 45% of German-Austrian hair brand BALI for $225 million",
+   "caption": "The Arm & Hammer maker gets BALI CURLS and BALI GENTS, with about $100M in yearly sales, and can buy the rest in two years.",
+   "visual": {
+    "type": "deals",
+    "title": "Church & Dwight deal",
+    "items": [
+     {
+      "a": "Church & Dwight",
+      "b": "45% of BALI Treatment",
+      "amt": "$225M",
+      "st": "Close expected Q1 2027",
+      "c": "pend"
+     },
+     {
+      "a": "Option",
+      "b": "Remaining 55%",
+      "amt": "TBD",
+      "st": "From 2 years after close",
+      "c": "pend"
+     }
+    ]
+   },
+   "detail": [
+    "Church & Dwight agreed to buy a 45% stake in Vienna-based BALI Treatment for about $225 million. Its BALI CURLS and BALI GENTS brands lead in Germany and Austria.",
+    "BALI had about $100 million in net sales over the 12 months ended Oct. 31. Church & Dwight can buy the other 55% starting two years after closing.",
+    "The deal should close in the first quarter of 2027 and add to cash earnings that year. Church & Dwight shares rose about 1.3% to $114.50 Monday and are up about 37% this year."
+   ],
+   "money": [
+    "Consumer staples like this tend to hold up in rough markets; they can steady a portfolio.",
+    "A stock up 37% this year may already price in good news; avoid chasing it.",
+    "Store brands often copy popular hair products; compare unit prices to save."
+   ],
+   "risk": [
+    "Paying for minority stakes can tie up cash without full control of the business."
+   ],
+   "sources": [
+    {
+     "t": "Church & Dwight buys 45% stake in BALI Treatment GmbH for $225M",
+     "d": "roi-nj.com",
+     "u": "https://www.roi-nj.com/2026/11/17/industry/church-dwight-buys-45-stake-in-hair-care-and-styling-company-bali-treatment-gmbh-for-225m/"
+    }
+   ]
+  },
+  {
+   "id": "bnpl-holiday-21b-2026111712",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T12:00:00Z",
+   "headline": "Holiday shoppers forecast to put $21.3 billion on buy now, pay later",
+   "caption": "Adobe's forecast has BNPL up 6.6% this season, about 8% of holiday spending. Total online holiday spending is seen at $275.1 billion.",
+   "visual": {
+    "type": "stat",
+    "title": "Holiday buy now, pay later",
+    "num": "$21.3B",
+    "tone": "acc",
+    "label": "Forecast US BNPL spending, Nov. 1 to Dec. 31.",
+    "facts": [
+     [
+      "Growth",
+      "+6.6%",
+      "year over year"
+     ],
+     [
+      "Share of holiday spend",
+      "~8%",
+      "forecast"
+     ],
+     [
+      "Total online spend",
+      "$275.1B",
+      "forecast"
+     ]
+    ]
+   },
+   "detail": [
+    "Adobe forecasts that US shoppers will spend $21.3 billion using buy now, pay later this holiday season, up 6.6% from last year.",
+    "That is part of an expected $275.1 billion in online holiday spending from Nov. 1 to Dec. 31. BNPL would be about 8% of total holiday spend.",
+    "The forecast lands on the day Klarna, a top BNPL company, reports quarterly results."
+   ],
+   "money": [
+    "Pay-in-4 plans are interest-free only if every payment is on time; set autopay.",
+    "Track all BNPL plans in one list so payments don't stack up in January.",
+    "If a plan charges interest, compare it to your card's APR before you choose it."
+   ],
+   "risk": [
+    "Late fees and missed payments can hurt your budget, and some lenders now report to credit bureaus."
+   ],
+   "sources": [
+    {
+     "t": "Holiday Shoppers Are Forecast to Put $21.3 Billion on Buy Now, Pay Later",
+     "d": "prnewswire.com",
+     "u": "https://www.prnewswire.com/news-releases/holiday-shoppers-are-forecast-to-put-21-3-billion-on-buy-now-pay-later-302942050.html"
+    }
+   ]
+  },
+  {
+   "id": "oil-slips-bahrain-drones-2026111712",
+   "type": "news",
+   "cat": "world",
+   "tags": [
+    "world",
+    "markets"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T12:00:00Z",
+   "headline": "Oil slips about 1% as glut forecasts outweigh Iran drone attack on Bahrain",
+   "caption": "Brent fell to about $91.62 and WTI to $84.89. Bahrain said it shot down Iranian drones aimed at US facilities on Sunday.",
+   "visual": {
+    "type": "board",
+    "title": "Oil, Tuesday morning",
+    "rows": [
+     {
+      "k": "Brent",
+      "v": "$91.62",
+      "ch": -0.9,
+      "tone": "loss"
+     },
+     {
+      "k": "WTI",
+      "v": "$84.89",
+      "ch": -1.0,
+      "tone": "loss"
+     },
+     {
+      "k": "US emergency reserve",
+      "s": "lowest since Aug. 1982",
+      "v": "276.4M bbl",
+      "tone": "acc"
+     },
+     {
+      "k": "OPEC+ meeting",
+      "v": "Nov. 29",
+      "tone": "acc"
+     }
+    ]
+   },
+   "detail": [
+    "Brent crude fell 82 cents to $91.62 a barrel early Tuesday, and WTI dropped 83 cents to $84.89. Forecasts of a global supply surplus outweighed security worries.",
+    "On Sunday, Iran fired drones at US facilities in Bahrain. Bahrain said its air defenses destroyed several, the first such incident since September. Iran also keeps threatening tankers in the Strait of Hormuz.",
+    "The IEA expects a surplus in the fourth quarter as Middle East exports recover. OPEC+ meets Nov. 29 to set output for 2027 and beyond."
+   ],
+   "money": [
+    "Lower crude can ease gas prices over the coming weeks; avoid locking in high fuel rates.",
+    "Energy stocks swing with oil; don't overweight them on headlines.",
+    "Heating oil buyers may want to watch for dips before winter fill-ups."
+   ],
+   "risk": [
+    "A major Gulf attack could reverse the drop quickly."
+   ],
+   "sources": [
+    {
+     "t": "Oil prices fall as supply surplus forecasts outweigh Gulf tensions",
+     "d": "offshore-technology.com",
+     "u": "https://www.offshore-technology.com/news/oil-prices-fall-supply-surplus-gulf-tensions/"
+    }
+   ]
+  },
+  {
+   "id": "china-crop-pledge-summit-2026111712",
+   "type": "news",
+   "cat": "world",
+   "tags": [
+    "world",
+    "politics",
+    "business"
+   ],
+   "date": "This week",
+   "ts": "2026-11-17T12:00:00Z",
+   "headline": "China's $17B US farm pledge falters ahead of this week's Trump-Xi meeting",
+   "caption": "China is close to its soybean target, but buys of corn, wheat and beef are tiny. Trump and Xi are expected to meet at APEC in Shenzhen.",
+   "visual": {
+    "type": "points",
+    "title": "Where China's farm buying stands",
+    "items": [
+     "White House announced $17B extra pledge in May",
+     "Beijing never formally confirmed it",
+     "Soybeans: about 4M tons short of 25M target",
+     "No US corn or wheat booked for 2026-27",
+     "Trump-Xi meeting expected at APEC in Shenzhen"
+    ]
+   },
+   "detail": [
+    "The White House said in May that China would buy an extra $17 billion in US farm goods in 2026. Beijing never formally confirmed it.",
+    "China is nearing a separate goal of 25 million tons of US soybeans, with about 4 million tons left, per AgResource. But corn and wheat buying is a small fraction of past levels, and beef has barely recovered.",
+    "Trump and Xi Jinping are expected to meet this week at the APEC summit in Shenzhen, their third meeting this year."
+   ],
+   "money": [
+    "Farm-heavy stocks and grain prices can swing on summit headlines.",
+    "Food prices depend on many things; trade news alone rarely moves grocery bills fast.",
+    "Farmers can use forward contracts to lock prices if summit news lifts grain."
+   ],
+   "risk": [
+    "The summit could end without clear purchase numbers, as earlier meetings did."
+   ],
+   "sources": [
+    {
+     "t": "China's $17 Billion Crop Pledge Falters Ahead of Trump-Xi Summit",
+     "d": "ca.headtopics.com",
+     "u": "https://ca.headtopics.com/news/china-s-17-billion-crop-pledge-falters-ahead-of-trump-xi-89914326"
+    }
+   ]
+  },
+  {
+   "id": "eth-etf-7th-week-outflow-2026111712",
+   "type": "news",
+   "cat": "crypto",
+   "tags": [
+    "crypto",
+    "markets"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T12:00:00Z",
+   "headline": "Ether ETFs log a 7th straight week of outflows as bitcoin hovers near $64,900",
+   "caption": "Bitcoin is down about 13% in a week and ether about 14%. The crypto fear gauge sits at 13, deep in extreme fear.",
+   "visual": {
+    "type": "board",
+    "title": "Crypto check, Nov. 17",
+    "rows": [
+     {
+      "k": "Bitcoin",
+      "v": "$64,894",
+      "ch": -13.1,
+      "tone": "loss"
+     },
+     {
+      "k": "Ether",
+      "v": "$1,827.60",
+      "ch": -13.7,
+      "tone": "loss"
+     },
+     {
+      "k": "Solana",
+      "v": "$72.69",
+      "ch": -15.5,
+      "tone": "loss"
+     },
+     {
+      "k": "Ether ETF weekly flow",
+      "s": "week to Nov. 13",
+      "v": "-$398.9M",
+      "tone": "loss"
+     },
+     {
+      "k": "Fear & Greed",
+      "s": "48 a month ago",
+      "v": "13",
+      "tone": "loss"
+     }
+    ],
+    "foot": "Price changes are over 7 days"
+   },
+   "detail": [
+    "Spot ether ETFs had $398.9 million in net outflows in the week ending Nov. 13, their seventh negative week in a row. Their total assets are $10.85 billion.",
+    "Bitcoin ETFs lost $1.07 billion that week and about $1.91 billion over seven straight trading days. Bitcoin is near $64,894, down 13.1% in a week; ether is near $1,828.",
+    "Rising rates weigh on crypto. Futures pricing shows about a 93.5% chance of a quarter-point Fed hike in December."
+   ],
+   "money": [
+    "Only put money in crypto that you could lose without hurting your bills or savings.",
+    "If you buy, small regular amounts reduce the risk of buying at a bad moment.",
+    "Losses on crypto you sell can offset gains for taxes; ask a tax pro."
+   ],
+   "risk": [
+    "Prices could drop further; analysts flag support levels near $59,400 for bitcoin."
+   ],
+   "sources": [
+    {
+     "t": "Crypto Market Analysis Today (November 17, 2026)",
+     "d": "pintu.co.id",
+     "u": "https://pintu.co.id/en/academy/post/crypto-market-analysis-today-november-17-2026"
+    }
+   ]
+  },
+  {
+   "id": "dream-promise-one-short-2026111712",
+   "type": "news",
+   "cat": "immigration",
+   "tags": [
+    "immigration",
+    "politics"
+   ],
+   "date": "This week",
+   "ts": "2026-11-17T12:00:00Z",
+   "headline": "Dreamers bill stuck one signature short of forcing a House vote",
+   "caption": "A discharge petition for the American Dream and Promise Act has 217 of 218 signatures. Reports say a vote is now unlikely before Congress ends.",
+   "visual": {
+    "type": "vs",
+    "title": "Discharge petition No. 25",
+    "a": [
+     "Needed",
+     "218",
+     1,
+     "acc"
+    ],
+    "b": [
+     "Signed",
+     "217",
+     0.995,
+     "loss"
+    ],
+    "foot": "All 214 Democrats plus 3 Republicans have signed"
+   },
+   "detail": [
+    "Rep. Sylvia Garcia's discharge petition for the American Dream and Promise Act (H.R. 1589) has 217 of the 218 signatures needed to force a floor vote. All 214 House Democrats signed, plus Republicans Salazar, Fitzpatrick and Bacon.",
+    "The bill would create a path to permanent residency for people brought to the US as children, with 10 years of conditional status first. The Houston Chronicle reported the bill likely won't get a vote.",
+    "Time is short. The petition expires when this Congress ends in early January, and discharge motions are not allowed in a session's last six days."
+   ],
+   "money": [
+    "People with DACA should keep renewal dates on a calendar and file early.",
+    "Immigration filings cost money; budget for fees and use accredited legal help to avoid scams.",
+    "Employers of DACA workers can plan for possible renewal delays."
+   ],
+   "risk": [
+    "Policy can shift with the new Congress in January; nothing changes until a law passes."
+   ],
+   "sources": [
+    {
+     "t": "American Dream and Promise Act just one signature away from forcing a House vote",
+     "d": "rnlawgroup.com",
+     "u": "https://www.rnlawgroup.com/american-dream-and-promise-act-just-one-signature-away-from-forcing-a-house-vote/"
+    },
+    {
+     "t": "Daily Immigration News Clips - November 16, 2026",
+     "d": "aila.org",
+     "u": "https://www.aila.org/immigration-news/daily-immigration-news-clips-november-16-2026"
+    }
+   ]
+  },
+  {
+   "id": "edu-dividend-raise-2026111712",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "business"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-17T12:00:00Z",
+   "headline": "Dividend raises: what Disney's 33% hike means for you",
+   "caption": "Disney lifted its yearly dividend to $2 a share. Here's how dividends and yield work.",
+   "scenes": [
+    {
+     "k": "Today's news",
+     "t": "Disney dividend: $2 a year",
+     "s": "Up 33%, paid as two $1 payments."
+    },
+    {
+     "k": "What it is",
+     "t": "A cash payment to shareholders",
+     "s": "Companies share part of their profits."
+    },
+    {
+     "k": "Yield",
+     "t": "Dividend divided by price",
+     "viz": {
+      "type": "split",
+      "items": [
+       [
+        "Annual dividend",
+        "$2.00"
+       ],
+       [
+        "Share price",
+        "~$121"
+       ],
+       [
+        "Yield",
+        "~1.7%",
+        "wide"
+       ]
+      ]
+     },
+     "say": "Two dollars a year on a stock near 121 dollars is a yield of about 1.7 percent."
+    },
+    {
+     "k": "How it flows",
+     "t": "From profit to your account",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "Company earns profit",
+       "Board sets dividend",
+       "You get cash",
+       "Reinvest or spend"
+      ]
+     }
+    },
+    {
+     "k": "Watch out",
+     "t": "A high yield can be a warning",
+     "s": "Sometimes it's high because the stock price fell."
+    },
+    {
+     "k": "Takeaway",
+     "t": "Growth in dividends beats size alone",
+     "s": "Steady raises often signal confidence in future cash."
+    }
+   ]
+  },
+  {
+   "id": "edu-export-controls-2026111712",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "ai"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-17T12:00:00Z",
+   "headline": "Export controls: how chip rules can move your stocks",
+   "caption": "The US now requires licenses for top AI chips in five countries. Here's what export controls do.",
+   "scenes": [
+    {
+     "k": "Today's news",
+     "t": "New AI chip rules for 5 countries",
+     "s": "Indonesia, Malaysia, Singapore, Thailand, Brazil."
+    },
+    {
+     "k": "What they are",
+     "t": "Limits on selling key tech abroad",
+     "s": "Governments use them for national security."
+    },
+    {
+     "k": "How it works",
+     "t": "Ask permission before you sell",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "Rule names products",
+       "Seller applies for license",
+       "Government reviews",
+       "Sale allowed or blocked"
+      ]
+     }
+    },
+    {
+     "k": "The loophole",
+     "t": "Renting chips from afar",
+     "s": "This rule also bans some remote access in those data centers."
+    },
+    {
+     "k": "Market effect",
+     "t": "Fewer buyers can mean less revenue",
+     "s": "Chip stocks often fall when new limits appear."
+    },
+    {
+     "k": "Takeaway",
+     "t": "Policy risk is real in tech",
+     "s": "Diversify so one rule can't sink your portfolio."
+    }
+   ]
+  },
   {
    "id": "home-depot-q3-new-ceo-2026111711",
    "type": "news",
@@ -10872,1022 +11810,6 @@
      "t": "Stock market today: Dow and S&P 500 drop, Nasdaq sinks over 2%",
      "d": "finance.yahoo.com",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html"
-    }
-   ]
-  },
-  {
-   "id": "one-battery-spac-2026111623",
-   "type": "news",
-   "cat": "markets",
-   "tags": [
-    "markets",
-    "business"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T23:00:00Z",
-   "headline": "Battery maker Our Next Energy plans to go public in a $1B SPAC deal",
-   "caption": "The Michigan LFP battery company will merge with Wen Acquisition Corp and trade as ONEE. Closing is expected in the first half of 2027.",
-   "visual": {
-    "type": "board",
-    "title": "The ONE deal",
-    "rows": [
-     {
-      "k": "Equity value",
-      "s": "pro forma",
-      "v": "~$1B",
-      "tone": "acc"
-     },
-     {
-      "k": "Pre-money value",
-      "v": "$600M"
-     },
-     {
-      "k": "Cash in trust",
-      "s": "if no redemptions",
-      "v": "~$300M"
-     },
-     {
-      "k": "PIPE target",
-      "s": "$30M committed so far",
-      "v": "$100M"
-     },
-     {
-      "k": "New ticker",
-      "s": "Nasdaq",
-      "v": "ONEE"
-     }
-    ],
-    "foot": "Close expected first half of 2027."
-   },
-   "detail": [
-    "Our Next Energy, or ONE, said Monday it will go public by merging with Wen Acquisition Corp, a blank-check company listed on Nasdaq as WENN. The deal values ONE at about $1 billion, including up to $400 million in new money.",
-    "ONE makes lithium iron phosphate (LFP) battery cells, packs and container-sized energy storage systems. It has plants in Van Buren Township and Novi, Michigan, and sells to defense, rail and power grid customers.",
-    "The deal needs shareholder and regulatory approvals and a minimum cash level. Only $30 million of a targeted $100 million private investment is committed so far."
-   ],
-   "money": [
-    "SPAC trust shares usually can be redeemed for cash near $10 before a merger, which limits downside for trust holders.",
-    "Battery storage demand from the power grid is a theme worth tracking in clean-energy funds.",
-    "Compare any SPAC to listed battery peers before buying; valuations can look rich early."
-   ],
-   "risk": [
-    "Many SPAC stocks have fallen sharply after merging.",
-    "High redemptions could shrink the cash ONE actually receives."
-   ],
-   "sources": [
-    {
-     "t": "Our Next Energy to Go Public in $1 Billion Wen SPAC Deal",
-     "d": "theevreport.com",
-     "u": "https://theevreport.com/our-next-energy-go-public-wen-acquisition-spac"
-    }
-   ]
-  },
-  {
-   "id": "retail-earnings-week-guide-2026111623",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business",
-    "markets"
-   ],
-   "date": "This week",
-   "ts": "2026-11-16T23:00:00Z",
-   "headline": "Retail earnings week: what Home Depot, Target, Lowe's and Walmart told investors to expect",
-   "caption": "Home Depot reports Tuesday morning, Target and likely Lowe's Wednesday, and Walmart Thursday. Here is the guidance each set last time.",
-   "visual": {
-    "type": "timeline",
-    "title": "Retail report card week",
-    "items": [
-     {
-      "d": "NOV 17",
-      "t": "Home Depot, 9am ET",
-      "s": "Guided comps flat to +2%",
-      "now": true
-     },
-     {
-      "d": "NOV 18",
-      "t": "Target",
-      "s": "Guided sales growth ~5%"
-     },
-     {
-      "d": "NOV 18",
-      "t": "Lowe's (tentative)",
-      "s": "Guided flat comps, ~$92B sales"
-     },
-     {
-      "d": "NOV 19",
-      "t": "Walmart, 8am ET",
-      "s": "Guided Q3 sales +3% to 3.75%"
-     }
-    ]
-   },
-   "detail": [
-    "Big retailers report this week, giving a read on how shoppers are holding up before the holidays. Home Depot goes first on Tuesday at 9 a.m. ET.",
-    "Home Depot last guided for comparable sales about flat to up 2% and adjusted earnings per share flat to up 4% from $14.69. Lowe's guided for about $92 billion in sales and flat comps. Target guided for about 5% sales growth, with its earnings outlook including roughly $1.65 a share from tariff refunds.",
-    "Walmart reports Thursday. It guided third-quarter sales growth of 3% to 3.75% in constant currency and said a shopping event in India shifting to the next quarter is a headwind of more than 1 percentage point."
-   ],
-   "money": [
-    "Retail reports often move sale timing; strong guidance can mean fewer deep discounts later.",
-    "If you own a consumer or retail fund, watch whether companies raise or cut holiday outlooks.",
-    "Tariff refund boosts are one-time, so look at results without them."
-   ],
-   "risk": [
-    "Results that beat estimates can still drop if guidance disappoints.",
-    "Higher rates could weigh on big-ticket home spending."
-   ],
-   "sources": [
-    {
-     "t": "Retail earnings preview: Walmart, Home Depot, Target",
-     "d": "news.ifyouspent.com",
-     "u": "https://news.ifyouspent.com/en/news/retail-earnings-preview-walmart-home-depot-target-november-2026"
-    }
-   ]
-  },
-  {
-   "id": "geico-florida-legal-cuts-2026111623",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business",
-    "states"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T23:00:00Z",
-   "headline": "GEICO cuts 114 Florida legal staff as lawsuits against insurers dry up",
-   "caption": "GEICO says Florida's 2023 tort reforms shrank its caseload. Cuts start around Dec. 31 and finish by April 30, 2027.",
-   "visual": {
-    "type": "stat",
-    "title": "Florida's lawsuit drop",
-    "num": "114",
-    "tone": "loss",
-    "label": "GEICO legal jobs cut in Florida as insurance litigation falls.",
-    "facts": [
-     [
-      "Suits 2023 to 2024",
-      "-23%",
-      "Florida OIR"
-     ],
-     [
-      "Suits through 2025",
-      "-25% more",
-      "Florida OIR"
-     ],
-     [
-      "Top 5 auto insurers 2026",
-      "-8% avg rates",
-      "indicated"
-     ]
-    ]
-   },
-   "detail": [
-    "GEICO is cutting 114 legal jobs tied to its Florida operations, including staff lawyers and its personal injury protection unit. The workers are remote employees who report to its Lakeland office.",
-    "GEICO credits Florida's 2022 and 2023 legal reforms. Those ended one-way attorney fees and tightened rules on assignment of benefits and bad-faith claims. Insurance lawsuit filings fell 23% from 2023 to 2024 and another 25% through 2025, per state data.",
-    "The flip side for drivers is lower rates. GEICO has cut Florida auto rates three times in the past year, and the state's top five auto insurers indicated an average 8% rate cut for 2026."
-   ],
-   "money": [
-    "Florida drivers: shop your auto policy; several insurers have cut rates.",
-    "Ask about discounts when rates fall; renewals do not always pass on cuts automatically.",
-    "Legal staff affected should check severance timing against the Dec. 31 to April 30 window."
-   ],
-   "risk": [
-    "Rate cuts could reverse if claims costs rise again.",
-    "Fewer lawsuits can also mean less leverage for some policyholders in disputes."
-   ],
-   "sources": [
-    {
-     "t": "GEICO cuts 114 Florida legal staff as litigation dries up",
-     "d": "insurancebusinessmag.com",
-     "u": "https://www.insurancebusinessmag.com/us/news/breaking-news/geico-cuts-114-florida-legal-staff-as-litigation-dries-up-597489.aspx"
-    }
-   ]
-  },
-  {
-   "id": "mueller-nc-plant-closing-2026111623",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business",
-    "states"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T23:00:00Z",
-   "headline": "Mueller Systems will close its North Carolina water meter plant; about 70 jobs to go",
-   "caption": "The Cleveland, N.C., site near Salisbury will shut in phases starting March 31, 2027. The notice says the losses are permanent.",
-   "visual": {
-    "type": "timeline",
-    "title": "Mueller Systems plant wind-down",
-    "items": [
-     {
-      "d": "MAR 31 '27",
-      "t": "First layoffs",
-      "s": "Operators, handlers, inspectors"
-     },
-     {
-      "d": "APR 30 '27",
-      "t": "Second round",
-      "s": "Buyers, engineers, team leads"
-     },
-     {
-      "d": "SEP 30 '27",
-      "t": "Managers leave",
-      "s": "EHS and materials"
-     },
-     {
-      "d": "MAR 31 '28",
-      "t": "Plant manager exits",
-      "s": "Facility fully closed"
-     }
-    ]
-   },
-   "detail": [
-    "Water-metering company Mueller Systems plans to close its facility in Cleveland, North Carolina, laying off about 70 workers. The site has made and assembled products since 2010.",
-    "A state layoff notice lays out cuts in waves. The first group, including inventory analysts, material handlers, operators and quality inspectors, leaves March 31, 2027. Engineers, buyers and team leads follow April 30.",
-    "The last managers finish in March 2028. The notice says the whole facility will close and the job losses are expected to be permanent. No reason was given."
-   ],
-   "money": [
-    "Long notice periods give time to job hunt while still drawing a paycheck.",
-    "Laid-off workers can often file for unemployment right after their last day; ask about severance first.",
-    "North Carolina's NCWorks centers offer free retraining help for displaced manufacturing workers."
-   ],
-   "risk": [
-    "Rural plant closures can ripple to local suppliers and shops."
-   ],
-   "sources": [
-    {
-     "t": "Water meter company announces layoffs, plant closure",
-     "d": "salisburypost.com",
-     "u": "https://www.salisburypost.com/2026/11/16/water-meter-company-announces-layoffs-plant-closure/"
-    }
-   ]
-  },
-  {
-   "id": "bmw-tundra-recalls-2026111623",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T23:00:00Z",
-   "headline": "Recalls: BMW tells 720,796 owners to park outside; Toyota recalls 62,000 Tundras",
-   "caption": "BMW's water pump connector can short and start a fire even when the car is off, and no fix is ready yet. Some Tundras have camshafts that could break.",
-   "visual": {
-    "type": "board",
-    "title": "Two big recalls",
-    "rows": [
-     {
-      "k": "BMW",
-      "s": "2012-2018 models",
-      "v": "720,796",
-      "tone": "loss"
-     },
-     {
-      "k": "BMW risk",
-      "s": "water pump connector",
-      "v": "Fire, even parked"
-     },
-     {
-      "k": "BMW fix",
-      "s": "letters in December",
-      "v": "Not ready yet",
-      "tone": "acc"
-     },
-     {
-      "k": "Toyota Tundra",
-      "s": "2020-23, 2025-26",
-      "v": "~62,000",
-      "tone": "loss"
-     },
-     {
-      "k": "Tundra risk",
-      "s": "camshaft",
-      "v": "Could fracture"
-     }
-    ]
-   },
-   "detail": [
-    "BMW is recalling 720,796 U.S. vehicles from model years 2012 to 2018, including the 3 Series, 5 Series, X1, X3, X5 and Z4. A seal on the water pump's electrical connector can fail, letting water in and causing a short that can start a fire, even when parked.",
-    "An earlier fix did not solve the problem, and BMW is still building a new remedy. Owners are told to park outside and away from garages and other cars until repairs are ready. Letters go out in December, and VINs become searchable at NHTSA.gov from Dec. 25.",
-    "Separately, Toyota is recalling about 62,000 Tundra pickups from the 2020-23 and 2025-26 model years. Dealers will inspect and replace camshafts that may have been made wrong and could break while driving."
-   ],
-   "money": [
-    "Recall repairs are free at the dealer; never pay for a recall fix.",
-    "Check your VIN at NHTSA.gov; a garage fire can be far costlier than a short walk.",
-    "If you are buying a used BMW, ask whether this recall repair has been done."
-   ],
-   "risk": [
-    "Until BMW's fix arrives, affected cars carry an ongoing fire risk.",
-    "Recall-heavy models can see weaker resale values."
-   ],
-   "sources": [
-    {
-     "t": "BMW Recalls 720,000 Vehicles For Water Pump Fire Risk",
-     "d": "motor1.com",
-     "u": "https://motor1.com/news/815578/bmw-recall-26v733000-warning"
-    },
-    {
-     "t": "MCG Executive Briefing for November 16, 2026",
-     "d": "macsmotorcitygarage.com",
-     "u": "https://macsmotorcitygarage.com/mcg-executive-briefing-for-november-16-2026/"
-    }
-   ]
-  },
-  {
-   "id": "fed-fsr-ai-top-risk-2026111623",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "markets"
-   ],
-   "date": "Fri Nov 13",
-   "ts": "2026-11-16T23:00:00Z",
-   "headline": "Fed survey: 87% of market contacts now name AI as a top financial risk, up from 50%",
-   "caption": "AI data center debt passed $680B by October, versus $130B in all of 2023. Big banks have close to $1T of exposure to the build-out.",
-   "visual": {
-    "type": "vs",
-    "title": "Contacts naming AI as a risk",
-    "a": [
-     "Spring 2026",
-     "50%",
-     0.57,
-     "acc"
-    ],
-    "b": [
-     "Fall 2026",
-     "87%",
-     1,
-     "loss"
-    ],
-    "foot": "Fed Financial Stability Report, released Nov. 13."
-   },
-   "detail": [
-    "The Federal Reserve's latest Financial Stability Report found AI is the most-cited risk among the market contacts it surveys. 87% named it, up from 50% in the spring survey. Other top worries were a fall in risky assets (52%) and higher long-term rates (48%).",
-    "The report tracks how the AI build-out is being financed. Debt issued for AI computing infrastructure topped $680 billion by October, compared with $130 billion in all of 2023.",
-    "Seven large tech firms have more than $1 trillion in signed leases that have not started yet. The largest U.S. banks have close to $1 trillion of exposure to tech firms, data center developers, related financing vehicles and utilities."
-   ],
-   "money": [
-    "If AI stocks dominate your index fund, a diversified mix can soften an AI-specific drop.",
-    "Rising worry can mean higher yields on corporate bonds tied to data centers; know the risks before buying.",
-    "Keep an emergency fund in insured savings so you are not forced to sell in a downturn."
-   ],
-   "risk": [
-    "A survey of concerns is not a forecast; AI spending could still pay off.",
-    "Heavy debt loads can amplify losses if AI revenue disappoints."
-   ],
-   "sources": [
-    {
-     "t": "AI tops the risks to the financial system in the Fed's survey",
-     "d": "stockanalysis.com",
-     "u": "https://stockanalysis.com/news/fed-financial-stability-report-ai-risk-november-2026/"
-    },
-    {
-     "t": "Financial Stability Report",
-     "d": "federalreserve.gov",
-     "u": "https://www.federalreserve.gov/publications/files/financial-stability-report-20261113.pdf"
-    }
-   ]
-  },
-  {
-   "id": "ai-agent-shopping-rules-2026111623",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "business"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T23:00:00Z",
-   "headline": "Who lets AI agents shop? Shopify joins a rulebook as United limits booking bots",
-   "caption": "Sierra's Poppy protocol tells personal AI agents what a business allows, with 100+ companies on board. United is restricting unauthorized booking agents.",
-   "visual": {
-    "type": "points",
-    "title": "The AI shopping agent fight",
-    "items": [
-     "Sierra Poppy 1.0: tells AI agents which actions a business permits",
-     "Shopify enabled it; Meta's Muse uses it automatically",
-     "Over 100 companies participate",
-     "United is restricting unauthorized AI booking agents",
-     "Starling founder Anne Boden is building Lockwood, a bank for agent payments"
-    ]
-   },
-   "detail": [
-    "A new standard called Poppy 1.0, from AI company Sierra, lets businesses tell personal AI agents which actions they allow. Shopify has turned it on, Meta's Muse agent uses it automatically, and more than 100 companies take part.",
-    "Not every company wants bots in the middle. United Airlines is restricting unauthorized booking agents, part of a wider fight over who owns the customer relationship as AI does more shopping.",
-    "Banks are moving too. Starling Bank founder Anne Boden is developing Lockwood, a bank built for a world where AI agents start payments. No launch date has been set."
-   ],
-   "money": [
-    "Book flights directly when you can; airlines may not honor changes made through unapproved bots.",
-    "If you use an AI agent to shop, set spending limits and review each purchase.",
-    "Retailers on open agent standards may compete harder on price as agents compare deals."
-   ],
-   "risk": [
-    "Agent purchases can be harder to dispute if something goes wrong.",
-    "Rules are new and may change quickly."
-   ],
-   "sources": [
-    {
-     "t": "Everything That Happened in AI Today Monday, November 16",
-     "d": "theneuron.ai",
-     "u": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-monday-november-16-2026/"
-    }
-   ]
-  },
-  {
-   "id": "dol-perm-overhaul-2026111623",
-   "type": "news",
-   "cat": "immigration",
-   "tags": [
-    "immigration",
-    "business"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T23:00:00Z",
-   "headline": "Labor Dept. proposes the biggest green card job-test overhaul in about 20 years",
-   "caption": "Employers that laid off similar U.S. workers in the past two years could not file. Newspaper ads would give way to online recruiting.",
-   "visual": {
-    "type": "board",
-    "title": "Proposed PERM changes",
-    "rows": [
-     {
-      "k": "Layoff lookback",
-      "s": "now 6 months",
-      "v": "2 years",
-      "tone": "acc"
-     },
-     {
-      "k": "Recruiting",
-      "s": "replaces print ads",
-      "v": "Online, 90+ days"
-     },
-     {
-      "k": "Schedule A",
-      "s": "nurses, PTs",
-      "v": "Exemption ends",
-      "tone": "loss"
-     },
-     {
-      "k": "One PERM",
-      "s": "file within 180 days",
-      "v": "One I-140"
-     },
-     {
-      "k": "Comments",
-      "s": "after publication",
-      "v": "60 days"
-     }
-    ],
-    "foot": "Proposal only; current rules still apply."
-   },
-   "detail": [
-    "The Labor Department announced a proposed rule Monday to rewrite PERM, the labor-market test most employers must pass before sponsoring a worker for a job-based green card. Publication in the Federal Register was expected Nov. 17, starting a 60-day comment period.",
-    "Employers that laid off U.S. workers in the same or a similar job in the area within the past two years could not file, up from six months now. Required print newspaper ads would be replaced by online methods like job boards and career sites, each running at least 90 days.",
-    "The plan would also end a fast-track exemption for nurses and physical therapists, and limit each approved certification to one petition filed within 180 days. DOL is asking whether fully remote jobs should stay eligible."
-   ],
-   "money": [
-    "Employers planning to sponsor workers should review layoffs from the past two years now.",
-    "Green card applicants mid-process should ask their attorney how the transition rules may apply.",
-    "Hospitals that rely on Schedule A for nurses may face longer hiring timelines and higher legal costs."
-   ],
-   "risk": [
-    "Final rules can differ from proposals.",
-    "Longer recruiting could slow green card timelines."
-   ],
-   "sources": [
-    {
-     "t": "DOL Proposes Major PERM Overhaul",
-     "d": "krishdevarasetti.substack.com",
-     "u": "https://krishdevarasetti.substack.com/p/dol-proposes-major-perm-overhaul"
-    },
-    {
-     "t": "DOL advances PERM labor certification modernization proposal",
-     "d": "envoyglobal.com",
-     "u": "https://www.envoyglobal.com/news-alert/dol-advances-perm-labor-certification-modernization-proposal/"
-    }
-   ]
-  },
-  {
-   "id": "virginia-ice-arrest-lawsuit-2026111623",
-   "type": "news",
-   "cat": "immigration",
-   "tags": [
-    "immigration",
-    "politics"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T23:00:00Z",
-   "headline": "Lawsuit in Virginia challenges ICE warrantless arrests; DHS denies key claims",
-   "caption": "The ACLU of Virginia and others say agents skip required individual checks. DHS denies a man was beaten and says agents followed training.",
-   "visual": {
-    "type": "points",
-    "title": "The Virginia case",
-    "items": [
-     "Filed in federal court, Eastern District of Virginia",
-     "Cites six warrantless arrests in Virginia",
-     "Says ICE averaged ~970 arrests a month in VA and DC in 2025",
-     "That is nearly 5x the 2024 monthly average, per the suit",
-     "DHS denies fracturing a detainee's collarbone"
-    ]
-   },
-   "detail": [
-    "Several groups, including the ACLU of Virginia and the Washington Lawyers' Committee, sued the Department of Homeland Security and ICE in federal court in Virginia. The suit describes six warrantless arrests and asks the court to make DHS follow legal limits on arrests without warrants.",
-    "One plaintiff says agents pepper-sprayed his car, broke its windows and injured him during a June stop. Another, a U.S. citizen, says she was held in restraints for hours until her sister brought her birth certificate. The suit says ICE made about 970 arrests a month in Virginia and D.C. in 2025.",
-    "A DHS spokesperson denied that officers broke a detainee's collarbone or threw anyone to the ground, and called claims that agents did not identify themselves false. DHS said detainees were offered medical care."
-   ],
-   "money": [
-    "Keep proof of citizenship or status in a safe, reachable place; delays can mean lost work hours.",
-    "Legal aid groups often offer free know-your-rights help; it can save on attorney fees.",
-    "Employers in affected areas may want plans for sudden staff absences."
-   ],
-   "risk": [
-    "The claims have not been proven in court.",
-    "Outcomes may vary widely by state and judge."
-   ],
-   "sources": [
-    {
-     "t": "ICE Shot Pepper Spray Into a Car in a Traffic Stop, Then Broke a Detainee's Collarbone",
-     "d": "theintercept.com",
-     "u": "https://theintercept.com/2026/11/16/ice-violence-warrantless-arrest-lawsuit/"
-    }
-   ]
-  },
-  {
-   "id": "delta-college-ice-arrest-2026111623",
-   "type": "news",
-   "cat": "california",
-   "tags": [
-    "california",
-    "immigration"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T23:00:00Z",
-   "headline": "ICE detains a student's relative at Stockton's San Joaquin Delta College",
-   "caption": "It was ICE's second visit to the campus this month. The college says it will keep watching for enforcement activity.",
-   "visual": {
-    "type": "timeline",
-    "title": "ICE at Delta College",
-    "items": [
-     {
-      "d": "NOV 2",
-      "t": "Agents seen on campus",
-      "s": "No arrests"
-     },
-     {
-      "d": "NOV 16",
-      "t": "Relative of a student detained",
-      "s": "DeRicco parking lot",
-      "now": true
-     }
-    ]
-   },
-   "detail": [
-    "ICE agents detained a family member of a San Joaquin Delta College student in a campus parking lot in Stockton on Monday afternoon, the college said. It was not clear whether the person had any link to the school.",
-    "Campus police arrived as officers were leaving. The college said ICE has since left. Agents were also seen on campus Nov. 2 but made no arrests then.",
-    "In a statement, college officials said every student should be able to learn without fear and pledged to keep the community informed."
-   ],
-   "money": [
-    "Students worried about missing class can ask about emergency withdrawal or incomplete options that protect tuition.",
-    "Community colleges often run free legal clinics; check before paying for private help.",
-    "Families may want a plan for bills and childcare if a wage earner is detained."
-   ],
-   "risk": [
-    "Details are still limited and could change."
-   ],
-   "sources": [
-    {
-     "t": "ICE makes arrest at San Joaquin Delta College in Stockton",
-     "d": "yahoo.com",
-     "u": "https://www.yahoo.com/news/us/articles/ice-makes-arrest-san-joaquin-222436736.html"
-    }
-   ]
-  },
-  {
-   "id": "newsom-ukraine-aid-2026111623",
-   "type": "news",
-   "cat": "california",
-   "tags": [
-    "california",
-    "world",
-    "politics"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T23:00:00Z",
-   "headline": "Newsom visits Ukraine and sends a field hospital and 1,300+ beds from California surplus",
-   "caption": "The donation also includes over 11 million bandages and 20 generators. Newsom, who leaves office soon, is weighing a 2028 run.",
-   "visual": {
-    "type": "board",
-    "title": "California's donation to Ukraine",
-    "rows": [
-     {
-      "k": "Field hospital",
-      "v": "50 beds"
-     },
-     {
-      "k": "Hospital beds",
-      "v": "1,300+"
-     },
-     {
-      "k": "Bandages",
-      "v": "11M+"
-     },
-     {
-      "k": "Generators",
-      "s": "portable",
-      "v": "20"
-     },
-     {
-      "k": "Cost",
-      "s": "per AP",
-      "v": "Surplus; no $ given",
-      "tone": "acc"
-     }
-    ]
-   },
-   "detail": [
-    "Gov. Gavin Newsom visited Lviv, Ukraine, and announced Monday that California is donating medical supplies to treat people wounded in the war with Russia. He said the gear comes from state surplus stock.",
-    "The package includes a 50-bed field hospital with oxygen concentrators and wheelchairs, more than 1,300 more hospital beds, over 11 million bandages, thousands of wound-care kits and 20 portable generators. California earlier sent field medical stations, more than 4,300 ballistic vests and nearly 1,600 helmets.",
-    "No dollar value was given. Newsom is finishing his second term and is considering a 2028 presidential run. The trip came as EU countries accused Russia of dragging out peace talks."
-   ],
-   "money": [
-    "Using surplus gear avoids new spending, so California taxpayers should not see a new bill for it.",
-    "Defense tech and rebuilding firms are drawing interest as Ukraine talks continue; research before investing.",
-    "Donations to vetted relief groups may be tax-deductible; keep receipts."
-   ],
-   "risk": [
-    "Supporters and critics may see the trip through a 2028 lens."
-   ],
-   "sources": [
-    {
-     "t": "California Gov. Gavin Newsom visits Ukraine and announces donation of medical supplies",
-     "d": "yahoo.com",
-     "u": "https://www.yahoo.com/news/us/articles/california-gov-gavin-newsom-visits-194259580.html"
-    }
-   ]
-  },
-  {
-   "id": "oil-settles-iea-glut-2026111623",
-   "type": "news",
-   "cat": "world",
-   "tags": [
-    "world",
-    "markets"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T23:00:00Z",
-   "headline": "Update: Brent settles at $92.44, down 3.6%, as IEA sees a glut despite Hormuz attacks",
-   "caption": "New since earlier: the IEA says supply now tops demand for the first time since the war began. Hormuz traffic is still near zero.",
-   "visual": {
-    "type": "board",
-    "title": "Oil vs. the Strait",
-    "rows": [
-     {
-      "k": "Brent",
-      "s": "Jan contract",
-      "v": "$92.44",
-      "ch": -3.6,
-      "tone": "loss"
-     },
-     {
-      "k": "WTI",
-      "s": "Dec contract",
-      "v": "$85.72",
-      "ch": -3.2,
-      "tone": "loss"
-     },
-     {
-      "k": "IEA surplus",
-      "s": "this quarter",
-      "v": "~2M bbl/day",
-      "tone": "acc"
-     },
-     {
-      "k": "Hormuz transits",
-      "s": "Nov 8 vs normal",
-      "v": "3 vs 85/day",
-      "tone": "loss"
-     },
-     {
-      "k": "Ships holding",
-      "s": "Gulf watch box",
-      "v": "40"
-     }
-    ]
-   },
-   "detail": [
-    "Oil settled sharply lower Monday. Brent fell 3.6% to $92.44 a barrel and U.S. crude fell 3.2% to $85.72.",
-    "The big driver was supply. The International Energy Agency said global supply now exceeds demand for the first time since the war began, with a surplus near 2 million barrels a day this quarter. Saudi output was near multi-year highs, and money managers cut bullish Brent bets to a four-month low.",
-    "That is despite little traffic through the Strait of Hormuz. IMF data showed 3 transits on Nov. 8 versus about 85 a day before the crisis, and about 40 ships were holding position Monday night. Iran claims six tankers have hit mines."
-   ],
-   "money": [
-    "Falling crude usually reaches the pump within weeks; wait to top off if you can.",
-    "Heating oil users may get better prices locking in later rather than now.",
-    "Energy stocks and funds may stay volatile; avoid chasing swings."
-   ],
-   "risk": [
-    "A single big attack could send prices up fast.",
-    "Iran's mine claims are not independently confirmed."
-   ],
-   "sources": [
-    {
-     "t": "Oil Retreats as Traders Weigh Supply Glut",
-     "d": "rigzone.com",
-     "u": "https://www.rigzone.com/news/wire/oil_retreats_as_traders_weigh_supply_glut-16-nov-2026-185096-article/"
-    },
-    {
-     "t": "Strait of Hormuz News, November 16, 2026",
-     "d": "straits.live",
-     "u": "https://straits.live/briefs/2026-11-16"
-    }
-   ]
-  },
-  {
-   "id": "ether-below-2k-2026111623",
-   "type": "news",
-   "cat": "crypto",
-   "tags": [
-    "crypto",
-    "markets"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T23:00:00Z",
-   "headline": "Ether slips to about $1,818 as crypto's $230B selloff leaves bitcoin near $65K",
-   "caption": "Ether is down 14.6% in a week and bitcoin 13.2%. Analysts eye $60,000 to $62,000 as bitcoin's key support zone.",
-   "visual": {
-    "type": "stat",
-    "title": "Monday evening crypto",
-    "num": "$1,818",
-    "tone": "loss",
-    "label": "Ether's price, after falling below $2,000.",
-    "rows": [
-     [
-      "Bitcoin 7-day",
-      -13.2
-     ],
-     [
-      "Ether 7-day",
-      -14.6
-     ],
-     [
-      "Solana today",
-      -1.77
-     ],
-     [
-      "ETHA ETF today",
-      -6.57
-     ]
-    ]
-   },
-   "detail": [
-    "Ether traded around $1,818 early Monday evening, down about 0.9% on the day and well under the $2,000 level. Bitcoin was near $64,954 after briefly dipping toward $62,000. Solana was at $71.40.",
-    "The selloff erased about $230 billion in crypto value between Thursday and Saturday. Rising Treasury yields, weak tech stocks and forced selling of leveraged bets drove the drop.",
-    "Crypto funds fell with prices. BlackRock's bitcoin fund IBIT lost 5.52% and its ether fund ETHA fell 6.57% on Monday."
-   ],
-   "money": [
-    "Size crypto as a small slice you can afford to lose; 14% weekly swings are common.",
-    "Crypto losses in a taxable account can offset gains; check current IRS rules with a tax pro.",
-    "Avoid leverage; liquidations are what made this drop snowball."
-   ],
-   "risk": [
-    "Prices can fall further if support levels break.",
-    "Higher rates tend to pressure risky assets like crypto."
-   ],
-   "sources": [
-    {
-     "t": "Crypto Market Today, Nov. 16: Bitcoin Searches for Stability After $230 Billion Crypto Sell-Off",
-     "d": "fool.com",
-     "u": "https://www.fool.com/coverage/stock-market-today/2026/11/16/crypto-market-today-nov-16-bitcoin-searches-for-stability-after-usd230-billion-crypto-sell-off/"
-    }
-   ]
-  },
-  {
-   "id": "states-tax-top-earners-2026111623",
-   "type": "news",
-   "cat": "taxes",
-   "tags": [
-    "taxes",
-    "states",
-    "california"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T23:00:00Z",
-   "headline": "After California's wealth tax flop, states keep raising taxes on top earners",
-   "caption": "Washington kept a 9.9% tax on income over $1M, Colorado approved higher rates above $500K, and Hawaii added a 13% bracket.",
-   "visual": {
-    "type": "board",
-    "title": "Taxing high earners, state by state",
-    "rows": [
-     {
-      "k": "Washington",
-      "s": "income over $1M",
-      "v": "9.9% kept"
-     },
-     {
-      "k": "Colorado",
-      "s": "income over $500K",
-      "v": "Higher rates"
-     },
-     {
-      "k": "Hawaii",
-      "s": "new top bracket",
-      "v": "13%"
-     },
-     {
-      "k": "Rhode Island",
-      "s": "phased over 3 yrs",
-      "v": "Up to 3%"
-     },
-     {
-      "k": "Maine",
-      "s": "income over $1M",
-      "v": "+1%"
-     },
-     {
-      "k": "California",
-      "s": "Prop. 40 wealth tax",
-      "v": "Rejected",
-      "tone": "loss"
-     }
-    ],
-    "foot": "Missouri voters rejected ending the income tax."
-   },
-   "detail": [
-    "California voters rejected a one-time 5% tax on billionaires' net worth, but other states are finding different ways to collect more from the rich. Washington voters backed keeping a 9.9% tax on household income over $1 million, the state's first personal income tax.",
-    "Colorado voters approved a graduated income tax with higher rates above $500,000. Hawaii created a 13% bracket for single filers over $500,000, paired with cuts for lower brackets. Maine added a 1% surcharge on income over $1 million, and Rhode Island is phasing in a surcharge up to 3%.",
-    "Second homes are a target too. Montana taxes vacation homes and short-term rentals at 1.9%, and New York City's pied-a-terre tax took effect in July. North Carolina and Iowa went the other way, making such taxes harder to pass."
-   ],
-   "money": [
-    "High earners weighing a move should compare total state tax, not just income tax rates.",
-    "Timing bonuses or stock sales across tax years can matter when new brackets kick in.",
-    "Second-home owners in Montana, NYC or Rhode Island should check new surcharge bills."
-   ],
-   "risk": [
-    "New taxes face court challenges in some states.",
-    "Rules and thresholds can change before they take effect."
-   ],
-   "sources": [
-    {
-     "t": "While California's wealth tax failed, Maine and other states are taking other steps",
-     "d": "mainebeacon.com",
-     "u": "https://mainebeacon.com/while-californias-wealth-tax-failed-maine-and-other-states-are-taking-other-steps-to-collect-more-revenue-from-the-rich"
-    },
-    {
-     "t": "Tax the rich — sometimes. California voters sent mixed signals",
-     "d": "kpbs.org",
-     "u": "https://www.kpbs.org/news/politics/2026/11/16/tax-the-rich-sometimes-california-voters-sent-mixed-signals-with-ballot-measures"
-    }
-   ]
-  },
-  {
-   "id": "edu-correction-101-2026111623",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "markets"
-   ],
-   "date": "Explainer",
-   "ts": "2026-11-16T23:00:00Z",
-   "headline": "Correction 101: what it means when the Nasdaq falls 10%",
-   "caption": "The Nasdaq is now more than 10% below its record. Here is what a correction is, and what it is not.",
-   "scenes": [
-    {
-     "k": "TODAY'S NEWS",
-     "t": "Nasdaq enters a correction",
-     "s": "It closed more than 10% below its October 6 record."
-    },
-    {
-     "k": "THE DEFINITION",
-     "t": "Down 10% from a peak",
-     "viz": {
-      "type": "split",
-      "items": [
-       [
-        "Pullback",
-        "5-10%"
-       ],
-       [
-        "Correction",
-        "10-20%"
-       ],
-       [
-        "Bear market",
-        "20%+",
-        "wide"
-       ]
-      ]
-     },
-     "say": "A pullback is five to ten percent. A correction is ten to twenty. A bear market is twenty percent or more."
-    },
-    {
-     "k": "WHY IT HAPPENED",
-     "t": "Chips led the slide",
-     "s": "The chip index fell 5.3% Monday as AI worries grew."
-    },
-    {
-     "k": "THE HABIT",
-     "t": "Regular buying smooths it out",
-     "viz": {
-      "type": "dca",
-      "cols": [
-       [
-        50,
-        "2"
-       ],
-       [
-        40,
-        "2.5"
-       ],
-       [
-        25,
-        "4"
-       ],
-       [
-        50,
-        "2"
-       ]
-      ]
-     },
-     "say": "The same fifty dollars buys more shares when prices fall, so your average cost drops."
-    },
-    {
-     "k": "THE CHECK",
-     "t": "Rebalance, don't panic",
-     "s": "If tech grew too big in your mix, trimming back to your plan lowers risk."
-    },
-    {
-     "k": "YOUR MOVE",
-     "t": "Keep cash needs out of stocks",
-     "s": "Money you need within a few years belongs in safer places. General ideas, not advice."
-    }
-   ]
-  },
-  {
-   "id": "edu-oil-glut-2026111623",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "world"
-   ],
-   "date": "Explainer",
-   "ts": "2026-11-16T23:00:00Z",
-   "headline": "Oil glut: why prices fall even when tankers are hit",
-   "caption": "Brent dropped 3.6% on a day of Gulf attacks. Supply and demand explain why.",
-   "scenes": [
-    {
-     "k": "TODAY'S NEWS",
-     "t": "Oil fell 3.6% despite attacks",
-     "s": "Brent settled at $92.44 as Hormuz traffic stayed near zero."
-    },
-    {
-     "k": "THE BASICS",
-     "t": "Price = supply vs. demand",
-     "s": "When more oil is pumped than used, prices tend to fall."
-    },
-    {
-     "k": "THE GLUT",
-     "t": "Supply now tops demand",
-     "viz": {
-      "type": "split",
-      "items": [
-       [
-        "IEA surplus",
-        "~2M bbl/day"
-       ],
-       [
-        "Saudi output",
-        "Near highs"
-       ],
-       [
-        "Brent",
-        "$92.44",
-        "wide"
-       ]
-      ]
-     },
-     "say": "The IEA sees about two million extra barrels a day this quarter, with Saudi output near multi-year highs."
-    },
-    {
-     "k": "THE CHAIN",
-     "t": "How it reaches you",
-     "viz": {
-      "type": "flow",
-      "items": [
-       "Crude falls",
-       "Refiners pay less",
-       "Wholesale gas drops",
-       "Pump prices ease"
-      ]
-     }
-    },
-    {
-     "k": "THE CATCH",
-     "t": "Shocks can flip it fast",
-     "s": "One major attack or supply cut can push prices up overnight."
-    },
-    {
-     "k": "YOUR MOVE",
-     "t": "Don't lock in at the peak",
-     "s": "Compare fuel and heating oil prices before prepaying. General ideas, not advice."
     }
    ]
   }
