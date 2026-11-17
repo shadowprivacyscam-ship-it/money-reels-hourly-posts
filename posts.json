@@ -1,6 +1,888 @@
 {
- "updated": "2026-11-17T19:00:00Z",
+ "updated": "2026-11-17T20:00:00Z",
  "items": [
+  {
+   "id": "earnings-movers-tue-2026111720",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets",
+    "business"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T20:00:00Z",
+   "headline": "Earnings movers: Bridger Aerospace sinks 32%; Similarweb and AECOM rise",
+   "caption": "Smaller companies' results moved stocks hard on a down day. Guidance, not the past quarter, drove most of the swings.",
+   "visual": {
+    "type": "board",
+    "title": "Tuesday earnings reactions",
+    "rows": [
+     {
+      "k": "Bridger Aerospace",
+      "s": "Cut guidance, strategic review",
+      "v": "-32%",
+      "ch": -32,
+      "tone": "loss"
+     },
+     {
+      "k": "Omeros",
+      "s": "Beat, still sold off",
+      "v": "-10%",
+      "ch": -10,
+      "tone": "loss"
+     },
+     {
+      "k": "Similarweb",
+      "s": "Raised guidance",
+      "v": "+9.5%",
+      "ch": 9.5,
+      "tone": "gain"
+     },
+     {
+      "k": "AECOM",
+      "s": "After hours, strong outlook",
+      "v": "+6.9%",
+      "ch": 6.9,
+      "tone": "gain"
+     },
+     {
+      "k": "Energizer",
+      "s": "EPS beat, soft sales",
+      "v": "+4%",
+      "ch": 4,
+      "tone": "gain"
+     }
+    ],
+    "foot": "Approximate moves as reported midday"
+   },
+   "detail": [
+    "Bridger Aerospace, which fights wildfires from the air, earned $0.37 a share, well below forecasts. It cut its outlook and started a strategic review. The stock fell about 32%.",
+    "Similarweb beat by two cents and raised guidance, lifting shares about 9.5%. AECOM beat by four cents and rose about 6.9% after hours on its outlook. Energizer beat on profit but missed on sales and still gained about 4%.",
+    "Omeros beat on both sales and profit yet fell about 10%, a sign that a beat alone doesn't move a stock."
+   ],
+   "money": [
+    "Read the guidance line first: it moved these stocks more than the quarter did.",
+    "A 'strategic review' often means a sale or breakup is possible; it adds uncertainty for holders.",
+    "On a weak market day, single-stock surprises can be bigger; avoid market orders on small caps."
+   ],
+   "risk": [
+    "Small-cap moves can reverse quickly once the news is digested."
+   ],
+   "sources": [
+    {
+     "t": "Earnings Reports — November 17, 2026 — Midday Update",
+     "d": "everhint.com",
+     "u": "https://www.everhint.com/earnings-reports-november-17-2026-midday-update-last-24-hours-pacific-time/"
+    }
+   ]
+  },
+  {
+   "id": "bitwise-zday-etf-2026111720",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets",
+    "ai",
+    "crypto"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T20:00:00Z",
+   "headline": "Bitwise launches its first non-crypto ETF: ZDAY bets on AI cyber defense",
+   "caption": "The crypto fund firm's new NYSE fund holds 10 to 30 AI security stocks. It charges a 0.75% yearly fee.",
+   "visual": {
+    "type": "ticker",
+    "sym": "ZDAY",
+    "ex": "NYSE",
+    "rows": [
+     {
+      "k": "Issuer",
+      "s": "First non-crypto fund",
+      "v": "Bitwise"
+     },
+     {
+      "k": "Holdings",
+      "s": "AI-driven cybersecurity",
+      "v": "10-30 stocks"
+     },
+     {
+      "k": "Fee",
+      "s": "Per year",
+      "v": "0.75%"
+     },
+     {
+      "k": "Examples",
+      "s": "Named holdings",
+      "v": "CrowdStrike, Palo Alto"
+     }
+    ]
+   },
+   "detail": [
+    "Bitwise, known for crypto funds, listed ZDAY on the New York Stock Exchange. It is the firm's first ETF that isn't about crypto.",
+    "The fund holds about 10 to 30 stocks tied to AI-powered cyber defense, such as CrowdStrike and Palo Alto Networks. It charges 0.75% a year.",
+    "The launch comes as Google and others warn that attackers now use AI agents to find software flaws faster."
+   ],
+   "money": [
+    "A 0.75% fee is $75 a year per $10,000; compare it with broad tech index funds that charge far less.",
+    "A 10-30 stock fund is concentrated; check how much it overlaps with what you already own.",
+    "If you want the theme, a small slice limits the damage if it falls out of favor."
+   ],
+   "risk": [
+    "New thematic funds often launch near hype peaks and can trail the market.",
+    "Few holdings means one stock can swing the whole fund."
+   ],
+   "sources": [
+    {
+     "t": "Bitwise launches ZDAY AI cyber defense ETF",
+     "d": "theblock.co",
+     "u": "https://www.theblock.co/news/markets/2026-11-17-bitwise-zday-ai-cyber-defense-etf-442062"
+    },
+    {
+     "t": "Crypto industry digest — November 17, 2026",
+     "d": "gtokentool.com",
+     "u": "https://www.gtokentool.com/en/news/digest/2026-11-17"
+    }
+   ]
+  },
+  {
+   "id": "openai-academic-200k-2026111720",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T20:00:00Z",
+   "headline": "OpenAI expands free ChatGPT for researchers to 200,000; sign-ups open Nov. 23",
+   "caption": "OpenAI will add 50,000 grants of ChatGPT Plus for academic researchers. This round is first-come, first-served instead of a lottery.",
+   "visual": {
+    "type": "stat",
+    "title": "ChatGPT for Academic Researchers",
+    "num": "200K",
+    "tone": "acc",
+    "label": "Researchers the program will now reach worldwide.",
+    "facts": [
+     [
+      "New grants",
+      "50,000",
+      "Plus up to 2 collaborators"
+     ],
+     [
+      "Applications",
+      "Nov. 23",
+      "Monday, first-come"
+     ],
+     [
+      "July pilot",
+      "20,000",
+      "In 33 countries"
+     ]
+    ]
+   },
+   "detail": [
+    "OpenAI is growing its program for academic researchers to 200,000 people worldwide. It is adding 50,000 new grants that give ChatGPT Plus to a researcher and up to two collaborators.",
+    "Selection is changing from a lottery to first-come, first-served. Applications open Monday, Nov. 23.",
+    "The pilot in July covered 20,000 researchers in 33 countries."
+   ],
+   "money": [
+    "If you or a family member does academic research, applying early matters this time since it's first-come.",
+    "A Plus plan normally costs money each month; a free grant can replace that spending.",
+    "Lab teams can add up to two collaborators per grant, stretching the value."
+   ],
+   "risk": [
+    "Grant terms and eligibility rules may limit who qualifies."
+   ],
+   "sources": [
+    {
+     "t": "AI News - Nov 17, 2026 - AI Infrastructure Scale and Policy",
+     "d": "riorundown.substack.com",
+     "u": "https://riorundown.substack.com/p/ai-news-nov-17-2026-ai-infrastructure"
+    }
+   ]
+  },
+  {
+   "id": "lvmh-media-openai-2026111720",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "business"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T20:00:00Z",
+   "headline": "LVMH's media brands roll out ChatGPT Enterprise and bring their content to ChatGPT",
+   "caption": "The luxury group's media division will use ChatGPT across 17 brands. Its articles will also show up in ChatGPT with summaries and links.",
+   "visual": {
+    "type": "points",
+    "title": "LVMH Media x OpenAI",
+    "items": [
+     "ChatGPT Enterprise across 17 media brands",
+     "Used for research, comparison, draft translation",
+     "LVMH content in ChatGPT with summaries and links",
+     "Division reaches 27M+ people a month in France"
+    ]
+   },
+   "detail": [
+    "LVMH's media division signed a deal with OpenAI. Staff across its 17 brands will use ChatGPT Enterprise for research, comparisons and first-pass translation.",
+    "In return, LVMH content will appear inside ChatGPT with summaries and links back to the source. The division reaches more than 27 million people a month in France.",
+    "Publishers are split between licensing deals like this one and lawsuits against AI firms."
+   ],
+   "money": [
+    "Content licensing is becoming a revenue line for media owners, which can matter to investors in publishers.",
+    "AI translation and research tools can cut costs; small businesses can test similar tools before hiring.",
+    "When reading news in a chatbot, click the source link to check the full story."
+   ],
+   "risk": [
+    "Deal terms weren't disclosed, so the money impact is unclear."
+   ],
+   "sources": [
+    {
+     "t": "AI News - Nov 17, 2026 - AI Infrastructure Scale and Policy",
+     "d": "riorundown.substack.com",
+     "u": "https://riorundown.substack.com/p/ai-news-nov-17-2026-ai-infrastructure"
+    },
+    {
+     "t": "LVMH media division partnership",
+     "d": "openai.com",
+     "u": "https://openai.com/index/lvmh-media-division-partnership"
+    }
+   ]
+  },
+  {
+   "id": "amd-lux-world-labs-2026111720",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "markets"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T20:00:00Z",
+   "headline": "AMD's Lux supercomputer opens at Oak Ridge, and AMD closes its World Labs deal",
+   "caption": "Lux is the first AI Factory for the Energy Department's Genesis Mission. AMD also finished buying Fei-Fei Li's World Labs.",
+   "visual": {
+    "type": "timeline",
+    "title": "AMD's busy week",
+    "items": [
+     {
+      "d": "NOV 16",
+      "t": "Lux opens to scientists",
+      "s": "Ranks 14th on TOP500",
+      "now": true
+     },
+     {
+      "d": "NOV 16",
+      "t": "World Labs deal closes",
+      "s": "Fei-Fei Li joins as EVP"
+     },
+     {
+      "d": "NOV 17",
+      "t": "OpenAI-TensorWave deal",
+      "s": "457 MW of AMD chips"
+     },
+     {
+      "d": "2028",
+      "t": "Discovery system due",
+      "s": "Next Oak Ridge platform"
+     }
+    ]
+   },
+   "detail": [
+    "AMD's Lux supercomputer opened to scientific users at Oak Ridge National Laboratory on Nov. 16. It is the first AI Factory for the Energy Department's Genesis Mission and ranks 14th on the TOP500 list.",
+    "Lux runs AMD MI355X GPUs and EPYC chips, and HPE built it. A larger system called Discovery is due in 2028.",
+    "AMD also closed its purchase of World Labs. Its founder, Fei-Fei Li, joined AMD as executive vice president and chief scientist."
+   ],
+   "money": [
+    "Government AI contracts give chipmakers steady demand beyond big tech buyers.",
+    "If you hold AMD through an index fund, these deals add to its AI story; no need to buy more just on headlines.",
+    "Watch Nvidia's results tonight: they often move AMD too."
+   ],
+   "risk": [
+    "Chip stocks are volatile this week ahead of Nvidia's report."
+   ],
+   "sources": [
+    {
+     "t": "AI News - Nov 17, 2026 - AI Infrastructure Scale and Policy",
+     "d": "riorundown.substack.com",
+     "u": "https://riorundown.substack.com/p/ai-news-nov-17-2026-ai-infrastructure"
+    },
+    {
+     "t": "AMD-powered Lux supercomputer opens to scientific users at Oak Ridge",
+     "d": "ir.amd.com",
+     "u": "https://ir.amd.com/news-events/press-releases/detail/1307/amd-powered-lux-supercomputer-opens-to-scientific-users-at-oak-ridge-becoming-first-ai-factory-for-does-genesis-mission"
+    }
+   ]
+  },
+  {
+   "id": "irs-easement-97pct-2026111720",
+   "type": "news",
+   "cat": "taxes",
+   "tags": [
+    "taxes",
+    "politics"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T20:00:00Z",
+   "headline": "Study says IRS cut conservation easement values by 97% on average",
+   "caption": "A review of 130+ IRS valuation reviews found cuts of 99% or more were common. The IRS pointed to its new conservation easement office.",
+   "visual": {
+    "type": "vs",
+    "title": "Cleveland easement, two IRS reviews",
+    "a": [
+     "First review",
+     "$18.1M+",
+     1,
+     "acc"
+    ],
+    "b": [
+     "Follow-up",
+     "$400K",
+     0.03,
+     "loss"
+    ],
+    "foot": "Infinity Advisory study: avg cut ~97% across 115 cases"
+   },
+   "detail": [
+    "A study by Infinity Advisory Services looked at more than 130 IRS valuation reviews. In 115 conservation easement cases, the IRS cut appraised values by about 97% on average.",
+    "In one Cleveland case, an IRS reviewer first valued a building's easement at $18.1 million to $23.2 million, then lowered it to $400,000. A whistleblower also raised concerns. These are allegations; the IRS cited its August statement.",
+    "In August, the IRS ended standard settlement offers and created an Office of Conservation Easements. Courts this year upheld big IRS cuts and 40% penalties in two Georgia cases."
+   ],
+   "money": [
+    "Conservation easements can give real deductions, but big claims draw intense IRS review.",
+    "If someone pitches a deduction worth many times your investment, get an independent tax pro first.",
+    "Keep strong appraisals and records for any large donation deduction."
+   ],
+   "risk": [
+    "Courts have upheld 40% penalties on overvalued easements.",
+    "Syndicated easement deals are on the IRS watch list."
+   ],
+   "sources": [
+    {
+     "t": "Little-known IRS program could unfairly crush landowners, study and whistleblower say",
+     "d": "foxnews.com",
+     "u": "https://foxnews.com/politics/little-known-irs-program-could-unfairly-crushing-landowners-according-alarming-study-whistleblower"
+    }
+   ]
+  },
+  {
+   "id": "ma-star-ratings-suits-2026111720",
+   "type": "news",
+   "cat": "benefits",
+   "tags": [
+    "benefits",
+    "business"
+   ],
+   "date": "This week",
+   "ts": "2026-11-17T20:00:00Z",
+   "headline": "11 Medicare Advantage insurers sue over 2027 star ratings, claiming nearly $4B",
+   "caption": "CVS's Aetna alone claims more than $2 billion. Ratings set bonus payments, and no court has ruled yet.",
+   "visual": {
+    "type": "deals",
+    "title": "Claimed losses from 2027 ratings",
+    "items": [
+     {
+      "a": "CVS (Aetna)",
+      "b": "28 measures, 43 contracts",
+      "amt": "$2B+",
+      "st": "Suit filed",
+      "c": "pend"
+     },
+     {
+      "a": "Elevance",
+      "b": "Star ratings suit",
+      "amt": "$516M",
+      "st": "Suit filed",
+      "c": "pend"
+     },
+     {
+      "a": "Centene",
+      "b": "Star ratings suit",
+      "amt": "$448M",
+      "st": "Suit filed",
+      "c": "pend"
+     },
+     {
+      "a": "Healthfirst",
+      "b": "Star ratings suit",
+      "amt": "$380M+",
+      "st": "Suit filed",
+      "c": "pend"
+     }
+    ]
+   },
+   "detail": [
+    "Eleven Medicare Advantage insurers have sued the federal government over their 2027 star ratings. They filed between Oct. 9 and Nov. 6, mostly in Washington, D.C.",
+    "They say the ratings cost them nearly $4 billion, by their own estimates. CVS's challenge covers plans with about 7 million members.",
+    "In May, a judge ruled for Clover Health, and its rating rose from 3.5 to 4.5 stars. CMS is appealing. Medicare is expected to spend at least $13.4 billion on quality bonuses in 2026."
+   ],
+   "money": [
+    "Star ratings are a quick quality guide when picking a plan; check them on Medicare's plan finder before Dec. 7.",
+    "A plan's rating can change after lawsuits, so look at costs and your doctors too.",
+    "Five-star plans can allow switching outside open enrollment; ask Medicare if one is in your area."
+   ],
+   "risk": [
+    "The court cases won't be settled before open enrollment ends Dec. 7."
+   ],
+   "sources": [
+    {
+     "t": "11 Medicare Advantage Insurers Sue CMS Over 2027 Star Ratings",
+     "d": "medicaldaily.com",
+     "u": "https://www.medicaldaily.com/medicare-advantage-insurers-sue-cms-star-ratings-481277"
+    }
+   ]
+  },
+  {
+   "id": "colorado-medicaid-polis-2026111720",
+   "type": "news",
+   "cat": "states",
+   "tags": [
+    "states",
+    "benefits",
+    "taxes"
+   ],
+   "date": "This week",
+   "ts": "2026-11-17T20:00:00Z",
+   "headline": "Colorado's Polis warns Medicaid could swallow the new $2B income tax money",
+   "caption": "Voters passed a graduated income tax for health, schools and child care. Polis wants Medicaid growth capped at 4.3%.",
+   "visual": {
+    "type": "stat",
+    "title": "Colorado's Medicaid squeeze",
+    "num": "~40%",
+    "tone": "loss",
+    "label": "Medicaid's share of Colorado's yearly budget.",
+    "facts": [
+     [
+      "Amendment 87",
+      "~$2B/yr",
+      "New graduated income tax"
+     ],
+     [
+      "Polis cap",
+      "4.3%",
+      "Still ~$250M more"
+     ],
+     [
+      "Projected overage",
+      "$1B",
+      "Next fiscal year"
+     ]
+    ]
+   },
+   "detail": [
+    "Colorado voters approved Amendment 87, a graduated income tax expected to raise about $2 billion a year for health care, schools and child care.",
+    "Gov. Jared Polis warned that without limits, all of that money could go to Medicaid within three years. Medicaid already takes close to 40% of the budget and is growing about 15% a year.",
+    "He suggested capping growth at 4.3%, partly by ending adult dental coverage. A state commission rejected a hard cap 8-1. Phil Weiser takes office in January."
+   ],
+   "money": [
+    "Colorado Medicaid members who use adult dental care may want to book needed visits soon.",
+    "Higher earners in Colorado should plan for the new graduated tax in their withholding.",
+    "Watch the January budget for which programs gain or lose."
+   ],
+   "risk": [
+    "Federal rules require covering all eligible people, limiting how far cuts can go."
+   ],
+   "sources": [
+    {
+     "t": "Medicaid spending threatens to consume all new tax revenue, says Gov. Polis",
+     "d": "sentinelcolorado.com",
+     "u": "https://sentinelcolorado.com/state-and-region-news/colorado-news-state-and-region-news/medicaid-spending-threatens-to-consume-all-new-tax-revenue-says-gov-polis/"
+    }
+   ]
+  },
+  {
+   "id": "missouri-budget-cuts-2026111720",
+   "type": "news",
+   "cat": "states",
+   "tags": [
+    "states"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T20:00:00Z",
+   "headline": "Missouri may need $1.5B to $3.5B in cuts; school funding fix delayed to July",
+   "caption": "A task force studying school funding will wait until after the budget passes. Its ideas could cost $600 million more.",
+   "visual": {
+    "type": "board",
+    "title": "Missouri's budget math",
+    "rows": [
+     {
+      "k": "Possible agency cuts",
+      "v": "$1.5B-$3.5B",
+      "tone": "loss"
+     },
+     {
+      "k": "Formula shortfall",
+      "s": "Next fiscal year",
+      "v": "$300M",
+      "tone": "loss"
+     },
+     {
+      "k": "Task force ideas",
+      "s": "Added cost",
+      "v": "$600M+",
+      "tone": "acc"
+     },
+     {
+      "k": "Formula cost",
+      "s": "FY2028",
+      "v": "$4.53B"
+     }
+    ],
+    "foot": "Senate appropriations staff estimates"
+   },
+   "detail": [
+    "Missouri Senate budget staff say lawmakers may need to cut $1.5 billion to $3.5 billion from agency requests.",
+    "A school funding task force will hold its recommendations until July 2027, after the budget passes. Its proposals could add more than $600 million to the formula's cost.",
+    "The 21-year-old formula is already projected to be about $300 million underfunded next year. Democrats want the report made public."
+   ],
+   "money": [
+    "Missouri families may see school budget belt-tightening; watch your district's plans.",
+    "State workers and contractors should track which agencies face the deepest cuts.",
+    "Budget gaps can lead to fee increases; watch for changes in state fees and services."
+   ],
+   "risk": [
+    "Cut sizes are staff estimates and could change in session."
+   ],
+   "sources": [
+    {
+     "t": "Missouri's school funding task force delayed its recommendations as budget cuts loom",
+     "d": "kcur.org",
+     "u": "https://www.kcur.org/education/2026-11-17/missouris-school-funding-task-force-delayed-its-recommendations-as-budget-cuts-loom"
+    }
+   ]
+  },
+  {
+   "id": "mev-brothers-acquitted-2026111720",
+   "type": "news",
+   "cat": "crypto",
+   "tags": [
+    "crypto"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T20:00:00Z",
+   "headline": "Judge acquits MIT brothers in $25M Ethereum MEV case, ending the prosecution",
+   "caption": "The judge said prosecutors didn't prove the misrepresentation that wire fraud requires. A jury had deadlocked about a year ago.",
+   "visual": {
+    "type": "timeline",
+    "title": "The Peraire-Bueno case",
+    "items": [
+     {
+      "d": "2024",
+      "t": "Charged",
+      "s": "$25M Ethereum MEV scheme alleged"
+     },
+     {
+      "d": "~2025",
+      "t": "Jury deadlocks",
+      "s": "Mistrial"
+     },
+     {
+      "d": "NOV 17",
+      "t": "Acquitted",
+      "s": "No proof of material misrepresentation",
+      "now": true
+     }
+    ]
+   },
+   "detail": [
+    "A federal judge acquitted two MIT-trained brothers accused of taking $25 million through an Ethereum MEV trading strategy.",
+    "The judge ruled prosecutors failed to prove a material misrepresentation, which wire fraud requires. The ruling came about a year after a jury deadlocked.",
+    "MEV is profit taken by reordering transactions on a blockchain. The case had been watched as a test of how fraud law applies to code exploits."
+   ],
+   "money": [
+    "Crypto traders' bots can be exploited; use trusted tools and set tight slippage limits.",
+    "Losses from on-chain exploits may not be recoverable through the courts.",
+    "Keep records of any crypto losses; they may be deductible."
+   ],
+   "risk": [
+    "Other cases could reach different results on similar facts."
+   ],
+   "sources": [
+    {
+     "t": "Judge acquits MIT brothers in $25M Ethereum MEV case, ending prosecution",
+     "d": "decrypt.co",
+     "u": "https://decrypt.co/383408/judge-acquits-mit-brothers-in-25m-ethereum-mev-case-ending-prosecution"
+    }
+   ]
+  },
+  {
+   "id": "solana-coingecko-2026111720",
+   "type": "news",
+   "cat": "crypto",
+   "tags": [
+    "crypto",
+    "business"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T20:00:00Z",
+   "headline": "Solana Foundation takes a majority stake in CoinGecko and plans built-in trading",
+   "caption": "The price-tracking site could add Solana-powered trading to its website, GeckoTerminal and app. Terms weren't disclosed.",
+   "visual": {
+    "type": "deals",
+    "title": "Crypto deal of the day",
+    "items": [
+     {
+      "a": "Solana Foundation",
+      "b": "CoinGecko (majority stake)",
+      "amt": "Undisclosed",
+      "st": "Announced",
+      "c": "ok"
+     },
+     {
+      "a": "Plan",
+      "b": "Trading on site, GeckoTerminal, app",
+      "amt": "—",
+      "st": "Coming",
+      "c": "pend"
+     }
+    ]
+   },
+   "detail": [
+    "The Solana Foundation bought a majority stake in CoinGecko, one of the most-used crypto price and data sites.",
+    "It plans to add Solana-powered trading to CoinGecko's website, its GeckoTerminal tool and its app. The price and stake size weren't given.",
+    "The deal comes during a deep crypto slump, with Bitcoin near $64,000."
+   ],
+   "money": [
+    "If you use CoinGecko for prices, note it now has an owner with a stake in one blockchain.",
+    "Built-in trading is convenient, but compare fees with your current exchange.",
+    "Be wary of fake 'CoinGecko trading' links; use the official app or site."
+   ],
+   "risk": [
+    "Data neutrality questions may come up with a blockchain-tied owner."
+   ],
+   "sources": [
+    {
+     "t": "Solana Foundation takes majority stake in crypto data provider CoinGecko",
+     "d": "coindesk.com",
+     "u": "https://www.coindesk.com/business/2026/11/17/solana-foundation-takes-majority-stake-in-crypto-data-provider-coingecko"
+    },
+    {
+     "t": "Crypto industry digest — November 17, 2026",
+     "d": "gtokentool.com",
+     "u": "https://www.gtokentool.com/en/news/digest/2026-11-17"
+    }
+   ]
+  },
+  {
+   "id": "trezor-skladon-leak-2026111720",
+   "type": "news",
+   "cat": "crypto",
+   "tags": [
+    "crypto"
+   ],
+   "date": "This week",
+   "ts": "2026-11-17T20:00:00Z",
+   "headline": "Trezor hit by second partner breach in 3 months; 27,000 orders exposed",
+   "caption": "Customer data from a shipping partner leaked. Trezor warns of scam calls and even physical risks.",
+   "visual": {
+    "type": "stat",
+    "title": "Trezor's Skladon leak",
+    "num": "27,000",
+    "tone": "loss",
+    "label": "Orders whose customer details were exposed.",
+    "facts": [
+     [
+      "Partner",
+      "Skladon",
+      "Third-party shipper"
+     ],
+     [
+      "Order dates",
+      "Aug 9-Nov 7",
+      "Window affected"
+     ],
+     [
+      "Breaches",
+      "2nd",
+      "In about 3 months"
+     ]
+    ]
+   },
+   "detail": [
+    "Hardware wallet maker Trezor said a third-party partner, Skladon, was breached. Details from about 27,000 orders placed between Aug. 9 and Nov. 7 were exposed.",
+    "It's the second shipping partner breach in about three months. Trezor warned customers about scam calls and possible physical risks.",
+    "Wallet funds weren't reported stolen in this incident, but leaked names and addresses help scammers."
+   ],
+   "money": [
+    "Trezor will never call you or ask for your recovery phrase; hang up on anyone who does.",
+    "Never type your recovery words into a website or app.",
+    "Consider a PO box or pickup point for future crypto hardware orders."
+   ],
+   "risk": [
+    "Phishing waves often follow these leaks for months."
+   ],
+   "sources": [
+    {
+     "t": "Crypto industry digest — November 17, 2026",
+     "d": "gtokentool.com",
+     "u": "https://www.gtokentool.com/en/news/digest/2026-11-17"
+    }
+   ]
+  },
+  {
+   "id": "ukraine-imf-downgrade-2026111720",
+   "type": "news",
+   "cat": "world",
+   "tags": [
+    "world"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T20:00:00Z",
+   "headline": "IMF now sees Ukraine's economy shrinking 0.5% this year and 1% next year",
+   "caption": "It had forecast growth of 1% and 3.5%. Ukraine needs $32 to $34 billion more in 2027, and Germany pledged $300 million.",
+   "visual": {
+    "type": "vs",
+    "title": "IMF 2027 forecast for Ukraine",
+    "a": [
+     "Before",
+     "+3.5%",
+     1,
+     "gain"
+    ],
+    "b": [
+     "Now",
+     "-1%",
+     0.3,
+     "loss"
+    ],
+    "foot": "2026: -0.5% vs. +1% earlier"
+   },
+   "detail": [
+    "The IMF now expects Ukraine's GDP to fall 0.5% this year and 1% next year. It had expected growth of 1% and 3.5%.",
+    "It cited worse security and attacks on the economy, and assumes the war lasts through 2027. Ukraine needs an extra $32 to $34 billion in 2027 and $17 billion in 2028.",
+    "Germany announced $300 million on Nov. 17. Strikes left about 700,000 households in Dnipropetrovsk without power."
+   ],
+   "money": [
+    "War costs keep pressure on European budgets and energy prices; that can affect global stocks.",
+    "Defense firms keep getting orders from aid packages.",
+    "A long war supports higher grain and fuel price risk; budget with some cushion."
+   ],
+   "risk": [
+    "A roughly $1.6B IMF payment still needs a deal and board approval."
+   ],
+   "sources": [
+    {
+     "t": "Tuesday, November 17. Russia's War On Ukraine: News And Information From Ukraine",
+     "d": "forbes.com",
+     "u": "https://www.forbes.com/sites/katyasoldak/2026/11/17/tuesday-november-17-russias-war-on-ukraine-news-and-information-from-ukraine/"
+    }
+   ]
+  },
+  {
+   "id": "edu-star-ratings-2026111720",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "benefits"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-17T20:00:00Z",
+   "headline": "Medicare star ratings: why insurers fight over one star",
+   "caption": "Eleven insurers are suing over their 2027 ratings. Here's what stars mean for plans and for you.",
+   "scenes": [
+    {
+     "k": "THE NEWS",
+     "t": "11 insurers sue over star ratings",
+     "s": "They claim nearly $4 billion is at stake."
+    },
+    {
+     "k": "WHAT IT IS",
+     "t": "Stars grade plans from 1 to 5",
+     "s": "Medicare scores quality and service each year."
+    },
+    {
+     "k": "WHY IT PAYS",
+     "t": "Higher stars mean bonus money",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "Plan earns stars",
+       "4+ stars get bonuses",
+       "Bonuses fund extras",
+       "Better perks draw members"
+      ]
+     },
+     "say": "Plans with four or more stars get bonus payments, which help pay for extra benefits."
+    },
+    {
+     "k": "THE SIZE",
+     "t": "$13.4B+ in bonuses in 2026",
+     "s": "That's KFF's estimate for Medicare quality bonuses."
+    },
+    {
+     "k": "THE TIMING",
+     "t": "Open enrollment ends Dec. 7",
+     "s": "Court cases won't be decided before then."
+    },
+    {
+     "k": "FOR YOU",
+     "t": "Use stars as one clue",
+     "s": "Also check costs, drugs covered and your doctors."
+    }
+   ]
+  },
+  {
+   "id": "edu-expense-ratio-2026111720",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "markets"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-17T20:00:00Z",
+   "headline": "Expense ratios: what a 0.75% fund fee really costs",
+   "caption": "Bitwise's new AI cyber fund charges 0.75% a year. Here's how fund fees add up.",
+   "scenes": [
+    {
+     "k": "THE NEWS",
+     "t": "New ETF charges 0.75% a year",
+     "s": "Bitwise's ZDAY holds 10 to 30 AI security stocks."
+    },
+    {
+     "k": "WHAT IT IS",
+     "t": "A yearly fee taken from the fund",
+     "s": "You never get a bill; it comes out of returns."
+    },
+    {
+     "k": "THE MATH",
+     "t": "0.75% = $75 per $10,000",
+     "viz": {
+      "type": "split",
+      "items": [
+       [
+        "Invested",
+        "$10,000"
+       ],
+       [
+        "Yearly fee",
+        "$75"
+       ],
+       [
+        "Fee is paid every year, even in down years",
+        "",
+        "wide"
+       ]
+      ]
+     },
+     "say": "On ten thousand dollars, a 0.75% fee costs about seventy-five dollars each year."
+    },
+    {
+     "k": "WHY IT MATTERS",
+     "t": "Fees compound like returns",
+     "s": "Small yearly fees add up over decades."
+    },
+    {
+     "k": "COMPARE",
+     "t": "Theme funds cost more",
+     "s": "Broad index funds often charge a small fraction of that."
+    },
+    {
+     "k": "FOR YOU",
+     "t": "Check the fee before you buy",
+     "s": "It's listed on every fund's page as the expense ratio."
+    }
+   ]
+  },
   {
    "id": "huang-offers-return-2026111719",
    "type": "news",
@@ -10935,848 +11817,6 @@
      "t": "Moody's downgrades Hertz to Caa1 as 2028 refinancing risks mount",
      "d": "investing.com",
      "u": "https://www.investing.com/news/stock-market-news/moodys-downgrades-hertz-to-caa1-as-2028-refinancing-risks-mount-5031181"
-    }
-   ]
-  },
-  {
-   "id": "wells-fargo-ibit-2026111708",
-   "type": "news",
-   "cat": "crypto",
-   "tags": [
-    "crypto",
-    "markets"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-17T08:00:00Z",
-   "headline": "Wells Fargo doubled its BlackRock bitcoin ETF stake to $2.35B before the crash",
-   "caption": "A new filing shows Wells Fargo held 49.6 million IBIT shares at the end of September, up 103% from June. Since then, bitcoin ETFs have lost billions.",
-   "visual": {
-    "type": "vs",
-    "title": "Wells Fargo's IBIT shares",
-    "a": [
-     "June 30",
-     "24.4M",
-     0.49,
-     "acc"
-    ],
-    "b": [
-     "Sept 30",
-     "49.6M",
-     1,
-     "gain"
-    ],
-    "foot": "Worth about $2.35B on Sept 30, per its 13F"
-   },
-   "detail": [
-    "Wells Fargo's quarterly 13F filing, made Nov. 16, shows it held 49,577,094 shares of BlackRock's iShares Bitcoin Trust (IBIT) on Sept. 30, worth about $2.35 billion. In June it held about 24.4 million shares worth $812 million.",
-    "Galaxy Research says about 85% of the IBIT shares sit in client brokerage accounts. Barclays and Citigroup also raised their bitcoin fund holdings.",
-    "The snapshot is old news for prices. US spot bitcoin ETFs lost $1.28 billion in the first week of November and about $1.07 billion the next week."
-   ],
-   "money": [
-    "Big banks letting clients buy bitcoin ETFs makes access easier; compare fees (expense ratios) before you pick a fund.",
-    "13F filings show positions weeks after the fact; don't copy a bank's trade without checking today's price.",
-    "If you hold a bitcoin ETF, decide in advance how big a drop you can live with and size your position to match."
-   ],
-   "risk": [
-    "Bitcoin ETFs saw heavy outflows after the Sept. 30 snapshot, so these holdings may have shrunk."
-   ],
-   "sources": [
-    {
-     "t": "Wells Fargo reports 103% jump in BlackRock Bitcoin ETF holdings to $2.35B",
-     "d": "crypto.news",
-     "u": "https://crypto.news/wells-fargo-blackrock-bitcoin-etf-holdings-q3/"
-    }
-   ]
-  },
-  {
-   "id": "btc-six-weeks-2026111708",
-   "type": "news",
-   "cat": "crypto",
-   "tags": [
-    "crypto",
-    "markets"
-   ],
-   "date": "Tue Nov 17",
-   "ts": "2026-11-17T08:00:00Z",
-   "headline": "Bitcoin heads for a 7th weekly drop near $64,600 as Strategy keeps buying",
-   "caption": "Bitcoin has fallen six straight weeks and sits below its 200-week average. Strategy bought 485 more coins last week anyway.",
-   "visual": {
-    "type": "stat",
-    "title": "Bitcoin check-in",
-    "num": "$64.6K",
-    "tone": "loss",
-    "label": "Down about 12.7% in a week after six weekly declines.",
-    "facts": [
-     [
-      "Nov 15 low",
-      "$62,029",
-      "lowest since July 13"
-     ],
-     [
-      "200-day avg",
-      "~$72,920",
-      "price is below it"
-     ],
-     [
-      "Strategy holds",
-      "850,849 BTC",
-      "avg cost $75,452"
-     ]
-    ]
-   },
-   "detail": [
-    "Bitcoin traded near $64,600 early Tuesday, up slightly on the day but down about 12.7% over seven days. It touched $62,029 on Nov. 15, its lowest since mid-July, and has now dropped below its 200-week moving average near $67,992.",
-    "Strategy bought 485 BTC for $33.4 million from Nov. 9 to 15, bringing its total to 850,849 BTC. Its average cost of $75,452 is well above today's price.",
-    "Traders are watching Nvidia's earnings tonight and the Fed's October minutes on Wednesday. Options pricing points to a range of roughly $61,800 to $69,400 through Nov. 20."
-   ],
-   "money": [
-    "If you buy crypto, small regular buys (dollar-cost averaging) can lower the risk of buying everything at a bad moment.",
-    "Selling at a loss can offset gains for taxes; crypto losses count, so ask a tax pro about harvesting before Dec. 31.",
-    "Avoid leverage: about $2B in crypto bets were wiped out over the weekend when prices fell."
-   ],
-   "risk": [
-    "Analysts flag $60,000 as the next key level if $61,300 breaks.",
-    "Strategy's stock and bitcoin can fall together, adding pain for holders of both."
-   ],
-   "sources": [
-    {
-     "t": "Bitcoin price falls for six straight weeks as bulls defend $62,000",
-     "d": "crypto.news",
-     "u": "https://crypto.news/bitcoin-price-etf-outflows-july-support/"
-    }
-   ]
-  },
-  {
-   "id": "langchain-300m-2026111708",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "business"
-   ],
-   "date": "This week",
-   "ts": "2026-11-17T08:00:00Z",
-   "headline": "LangChain raises $300M at a $3B valuation to build AI agent tools",
-   "caption": "Google's CapitalG led the round in the AI agent software maker. It plans to grow to about 850 workers by the end of 2027.",
-   "visual": {
-    "type": "ticker",
-    "sym": "LangChain",
-    "ex": "Private",
-    "rows": [
-     {
-      "k": "New funding",
-      "s": "led by CapitalG",
-      "v": "$300M"
-     },
-     {
-      "k": "Valuation",
-      "v": "$3B"
-     },
-     {
-      "k": "Monthly downloads",
-      "s": "open-source tools",
-      "v": "~90M"
-     },
-     {
-      "k": "Hiring goal",
-      "s": "by end of 2027",
-      "v": "850 staff"
-     }
-    ]
-   },
-   "detail": [
-    "San Francisco startup LangChain raised $300 million at a $3 billion valuation, the Wall Street Journal reported. Alphabet's CapitalG led, with IVP, Sapphire Ventures, GIC and DFJ Growth joining.",
-    "LangChain makes free, open-source tools for building AI agents, plus a paid product called LangSmith for testing and tracking them. Autodesk and Cisco use LangSmith.",
-    "The company plans to nearly double its staff to about 850 people by the end of 2027."
-   ],
-   "money": [
-    "Skills in AI agent tools like LangChain are in demand; free courses can boost your pay or freelance rates.",
-    "Small businesses can try open-source agent tools before paying for pricey AI software.",
-    "Startup funding rounds are not stock you can buy; be wary of anyone selling 'pre-IPO' shares online."
-   ],
-   "risk": [
-    "High valuations can fall fast if AI spending slows, as recent AI stock drops show."
-   ],
-   "sources": [
-    {
-     "t": "AI agent tooling provider LangChain secures $300M investment",
-     "d": "siliconangle.com",
-     "u": "https://siliconangle.com/2026/11/12/ai-agent-tooling-provider-langchain-secures-300m-investment/"
-    }
-   ]
-  },
-  {
-   "id": "anthropic-amd-3-days-2026111708",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "markets"
-   ],
-   "date": "This week",
-   "ts": "2026-11-17T08:00:00Z",
-   "headline": "Anthropic tells IPO investors its AI got Claude running on AMD chips in 3 days",
-   "caption": "Anthropic says its Mythos model wrote nearly all the chip code needed, a job that used to take months. It covers one model's prompt processing only.",
-   "visual": {
-    "type": "vs",
-    "title": "Getting a model running on AMD chips",
-    "a": [
-     "Before",
-     "6-12 mo",
-     1,
-     "loss"
-    ],
-    "b": [
-     "With Mythos",
-     "3 days",
-     0.05,
-     "gain"
-    ],
-    "foot": "Anthropic's claim; covers prompt processing for one model"
-   },
-   "detail": [
-    "Anthropic told investors ahead of its IPO that its Mythos model got Claude running on AMD MI355X chips in about three days with little human help. Co-founder Tom Brown said the work used to take months.",
-    "The claim is narrow: it covers prompt processing for one model at useful speed, not moving all of Claude's training. Mythos wrote or ported nearly all the low-level chip code, called kernels.",
-    "Anthropic already uses chips from Nvidia, AMD, Amazon and Google. AMD agreed in July to supply up to 2 gigawatts of chips and to invest up to $5 billion in Anthropic."
-   ],
-   "money": [
-    "If AI can switch chip makers fast, Nvidia's grip may loosen; check how concentrated your tech funds are in one chip stock.",
-    "Anthropic prices its IPO this week; if you want in, know your broker's IPO rules and don't chase the first-day pop.",
-    "More chip competition can lower AI prices over time, which can cut costs for businesses using AI tools."
-   ],
-   "risk": [
-    "This is a company claim made while selling shares; it has not been independently verified."
-   ],
-   "sources": [
-    {
-     "t": "Anthropic Says Its AI Model Cut AMD Chip Switch to Three Days",
-     "d": "ibtimes.com",
-     "u": "https://www.ibtimes.com/anthropic-ai-ported-claude-amd-chips-3809680"
-    }
-   ]
-  },
-  {
-   "id": "dem-legislatures-flip-2026111708",
-   "type": "news",
-   "cat": "states",
-   "tags": [
-    "states",
-    "politics",
-    "taxes"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-17T08:00:00Z",
-   "headline": "Democrats will run 23 state legislatures in 2027, up from 18; 24 states face deficits",
-   "caption": "A post-election review says Democrats gained five legislatures and six trifectas. Many states will weigh new taxes as budgets tighten.",
-   "visual": {
-    "type": "vs",
-    "title": "Democratic-controlled legislatures",
-    "a": [
-     "Before vote",
-     "18",
-     0.78,
-     "acc"
-    ],
-    "b": [
-     "In 2027",
-     "23",
-     1,
-     "gain"
-    ],
-    "foot": "Republicans go from 28 to 22; 3 races uncalled"
-   },
-   "detail": [
-    "A review by law firm Brownstein says Democrats will control 23 state legislatures when 2027 sessions begin, up from 18. Republicans drop from 28 to 22, with two split and three still uncalled.",
-    "Democrats now hold 22 trifectas, meaning both chambers and the governor; Republicans hold 18. About 24 states are running deficits or report structural gaps.",
-    "In Michigan, Democrats regain a trifecta. Gov.-elect Benson has proposed a $5,000 credit for long-term caregivers. Texas keeps a $30 billion rainy day fund even after the House shifted toward Democrats."
-   ],
-   "money": [
-    "New state tax plans often start in January sessions; follow your state's budget so you can plan for changes to income, sales or property taxes.",
-    "Caregivers in Michigan should watch the proposed $5,000 credit as lawmakers take it up.",
-    "States with deficits may cut programs; if you rely on state aid, keep your paperwork current."
-   ],
-   "risk": [
-    "Proposals are not law yet; many will change or fail."
-   ],
-   "sources": [
-    {
-     "t": "Post-Election State of Play: States' Tax and Spend Plans for 2027-2028",
-     "d": "bhfs.com",
-     "u": "https://www.bhfs.com/insight/post-election-state-of-play-states-tax-and-spend-plans-for-2027-2028/"
-    }
-   ]
-  },
-  {
-   "id": "pa-skill-games-tax-2026111708",
-   "type": "news",
-   "cat": "states",
-   "tags": [
-    "states",
-    "taxes"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-17T08:00:00Z",
-   "headline": "Pennsylvania's $5B gap: Shapiro pushes a 52% skill-game tax and 26% pot tax",
-   "caption": "Pennsylvania's last budget carried an estimated $5 billion structural deficit. Gov. Shapiro wants to tax skill games and legal recreational marijuana.",
-   "visual": {
-    "type": "board",
-    "title": "Pennsylvania revenue ideas",
-    "rows": [
-     {
-      "k": "Structural deficit",
-      "v": "~$5B",
-      "tone": "loss"
-     },
-     {
-      "k": "Skill games tax",
-      "s": "of gross terminal revenue",
-      "v": "52%",
-      "tone": "acc"
-     },
-     {
-      "k": "Casino slots tax",
-      "s": "for comparison",
-      "v": "55%"
-     },
-     {
-      "k": "Recreational marijuana",
-      "s": "proposed sales tax",
-      "v": "26%",
-      "tone": "acc"
-     }
-    ],
-    "foot": "Per Brownstein's post-election review"
-   },
-   "detail": [
-    "Pennsylvania's most recent budget carried an estimated $5 billion structural deficit, according to a Brownstein review published Nov. 16.",
-    "Gov. Josh Shapiro has proposed taxing skill games, the slot-like machines found in bars and stores, at 52% of gross terminal revenue. That is close to the 55% the state takes from casino slots.",
-    "He has also proposed legalizing and taxing recreational marijuana sales at 26%."
-   ],
-   "money": [
-    "If you run a bar or store with skill games, a 52% tax could cut what you earn from the machines; plan for it.",
-    "New 'sin taxes' often get passed on to buyers; expect higher prices on taxed products if these pass.",
-    "Taxes on games and cannabis can ease pressure for wider tax hikes, which may help most households."
-   ],
-   "risk": [
-    "Both ideas need legislative approval and have stalled before."
-   ],
-   "sources": [
-    {
-     "t": "Post-Election State of Play: States' Tax and Spend Plans for 2027-2028",
-     "d": "bhfs.com",
-     "u": "https://www.bhfs.com/insight/post-election-state-of-play-states-tax-and-spend-plans-for-2027-2028/"
-    }
-   ]
-  },
-  {
-   "id": "ca-saas-sales-tax-2026111708",
-   "type": "news",
-   "cat": "california",
-   "tags": [
-    "california",
-    "taxes",
-    "business"
-   ],
-   "date": "Starts Jan 1",
-   "ts": "2026-11-17T08:00:00Z",
-   "headline": "In 6 weeks, California starts charging sales tax on downloaded software and SaaS",
-   "caption": "Starting Jan. 1, 2027, SB 122 makes most electronically delivered software taxable, including cloud apps. Custom software and streaming stay exempt.",
-   "visual": {
-    "type": "points",
-    "title": "California SB 122 basics",
-    "items": [
-     "Starts Jan. 1, 2027",
-     "Taxes prewritten software and SaaS, however delivered",
-     "Exempt: custom software, e-books, music, streaming, games",
-     "Taxed based on the buyer's billing address for remote sales",
-     "Buyers over $5M a year from one seller self-report"
-    ]
-   },
-   "detail": [
-    "California will treat electronically delivered prewritten software, including software-as-a-service, as taxable starting Jan. 1, 2027. Gov. Newsom signed SB 122 on June 29.",
-    "Digital goods like e-books, music, streaming, video games and NFTs stay exempt, as does custom software. Some cloud infrastructure services and products used only outside California are also excluded.",
-    "For remote sales, the tax follows the customer's billing address. If a buyer spends more than $5 million a year with one seller, the buyer must report and pay the use tax itself."
-   ],
-   "money": [
-    "Small businesses: budget for sales tax on software subscriptions starting in January; it can add several percent to each bill.",
-    "Prepaying an annual software plan before Jan. 1 may avoid tax on that term; check with the vendor and a tax pro.",
-    "Software sellers with California customers should update billing systems now to collect the tax correctly."
-   ],
-   "risk": [
-    "Rules on what counts as SaaS vs. a service can be gray; mistakes can lead to back taxes."
-   ],
-   "sources": [
-    {
-     "t": "California expands sales tax to electronically delivered software",
-     "d": "rsmus.com",
-     "u": "https://www.rsmus.com/insights/tax-alerts/2026/california-expands-sales-tax-to-electronically-delivered-software"
-    },
-    {
-     "t": "Post-Election State of Play: States' Tax and Spend Plans for 2027-2028",
-     "d": "bhfs.com",
-     "u": "https://www.bhfs.com/insight/post-election-state-of-play-states-tax-and-spend-plans-for-2027-2028/"
-    }
-   ]
-  },
-  {
-   "id": "ca-local-sales-tax-hikes-2026111708",
-   "type": "news",
-   "cat": "california",
-   "tags": [
-    "california",
-    "taxes"
-   ],
-   "date": "This week",
-   "ts": "2026-11-17T08:00:00Z",
-   "headline": "New California local sales taxes: LA goes to 10.75%, San Diego County adds half a point",
-   "caption": "Several California cities and counties approved sales tax hikes in the election. A half-point adds 50 cents to a $100 taxable purchase.",
-   "visual": {
-    "type": "deals",
-    "title": "Local tax measures",
-    "items": [
-     {
-      "a": "Los Angeles",
-      "b": "Measure FD, fire dept.",
-      "amt": "10.75%",
-      "st": "Passed; from 10.25%",
-      "c": "ok"
-     },
-     {
-      "a": "San Diego County",
-      "b": "Measure B, +0.5 pt",
-      "amt": "$400-450M/yr",
-      "st": "Narrowly passed",
-      "c": "ok"
-     },
-     {
-      "a": "Bay Area (5 counties)",
-      "b": "Transit tax, 14 yrs",
-      "amt": "+0.5 to +1 pt",
-      "st": "Passed",
-      "c": "ok"
-     },
-     {
-      "a": "San Clemente",
-      "b": "Measure M, +1 pt",
-      "amt": "-",
-      "st": "Rejected",
-      "c": "bad"
-     }
-    ]
-   },
-   "detail": [
-    "Los Angeles voters approved Measure FD, raising the city sales tax from 10.25% to 10.75% to raise about $345 million a year for the fire department.",
-    "San Diego County's Measure B narrowly passed, adding a half-point for health care, child care, wildfire prep and the Tijuana River sewage crisis. A 14-year Bay Area transit tax adds 1 point in San Francisco and 0.5 point in four other counties.",
-    "The city of Orange passed a 1-point increase for 13 years; San Clemente rejected one. Most groceries remain exempt from California sales tax."
-   ],
-   "money": [
-    "Make big taxable purchases, like electronics or furniture, before new rates start, if timing works for you.",
-    "Compare prices across nearby cities for large buys; sales tax can differ by up to a point.",
-    "Groceries are mostly exempt, so cooking at home avoids tax that applies to hot prepared meals."
-   ],
-   "risk": [
-    "Start dates vary by measure; check your city's effective date."
-   ],
-   "sources": [
-    {
-     "t": "Rising costs leave California residents questioning whether state policies are making life harder",
-     "d": "yahoo.com",
-     "u": "https://www.yahoo.com/news/us/articles/rising-costs-leave-california-residents-231500266.html"
-    }
-   ]
-  },
-  {
-   "id": "ice-record-deportations-2026111708",
-   "type": "news",
-   "cat": "immigration",
-   "tags": [
-    "immigration",
-    "politics"
-   ],
-   "date": "Last week",
-   "ts": "2026-11-17T08:00:00Z",
-   "headline": "DHS reports a record 483,200 ICE deportations in fiscal 2026",
-   "caption": "ICE also made more than 491,000 arrests, DHS said. Democrats taking Congress in January plan to investigate the policies.",
-   "visual": {
-    "type": "vs",
-    "title": "ICE deportations by fiscal year",
-    "a": [
-     "FY2025",
-     "442,640",
-     0.92,
-     "acc"
-    ],
-    "b": [
-     "FY2026",
-     "483,200",
-     1,
-     "loss"
-    ],
-    "foot": "DHS figures; methods questioned by some analysts"
-   },
-   "detail": [
-    "DHS said ICE carried out 483,200 deportations in fiscal 2026, the most in the agency's 23-year history, topping the 2025 record of 442,640. It reported more than 491,000 immigration arrests.",
-    "Steven Camarota of the Center for Immigration Studies said the figures do not clearly separate interior removals from people turned back at borders or airports.",
-    "Reuters/Ipsos polling shows approval of Trump's handling of immigration at 38%, down from 50% early in his term. Incoming House Homeland Security chair Bennie Thompson said Democrats will investigate."
-   ],
-   "money": [
-    "Mixed-status families can lower risk by keeping key documents, like IDs and court papers, organized and copied.",
-    "Use only accredited immigration lawyers or DOJ-recognized groups; scams spike when enforcement rises.",
-    "Employers in farming, building and food may face worker shortages; budgets for labor may need to rise."
-   ],
-   "risk": [
-    "Numbers are self-reported by DHS and hard to verify independently."
-   ],
-   "sources": [
-    {
-     "t": "US reports record number of deportations and arrests in 2026",
-     "d": "aljazeera.com",
-     "u": "https://aljazeera.com/news/2026/11/13/us-reports-record-number-of-deportations-and-arrests-in-2026"
-    }
-   ]
-  },
-  {
-   "id": "dollar-yen-160-2026111708",
-   "type": "news",
-   "cat": "markets",
-   "tags": [
-    "markets",
-    "world"
-   ],
-   "date": "Tue Nov 17",
-   "ts": "2026-11-17T08:00:00Z",
-   "headline": "Dollar peaks at its highest since April 2025; yen nears 160 as Japan watch begins",
-   "caption": "The euro fell to $1.0985 and the yen hovered near 160 per dollar. Traders now see a December Fed hike as certain.",
-   "visual": {
-    "type": "board",
-    "title": "Currencies & commodities, Tuesday Asia",
-    "rows": [
-     {
-      "k": "Dollar index peak",
-      "v": "103.69",
-      "tone": "gain"
-     },
-     {
-      "k": "Yen per dollar",
-      "s": "intervention watch",
-      "v": "~160",
-      "tone": "loss"
-     },
-     {
-      "k": "Euro",
-      "s": "lowest since Apr 2025",
-      "v": "$1.0985",
-      "tone": "loss"
-     },
-     {
-      "k": "Brent crude",
-      "v": "$91.62",
-      "ch": -0.9
-     },
-     {
-      "k": "Gold",
-      "v": "$3,860",
-      "ch": 0.1
-     }
-    ],
-    "foot": "Per Reuters via The Star"
-   },
-   "detail": [
-    "The US dollar climbed to 103.69 on a basket measure early Tuesday, its highest since April 2025, as markets bet on a Fed rate hike next month. The euro hit $1.0985 and the yen hovered near 160 per dollar.",
-    "Traders are watching for Japan to step in to support the yen. Minutes from Australia's central bank showed most members judged a hike was needed this month.",
-    "MSCI's Asia-Pacific index outside Japan fell 1.2% on the new US chip rules. Nasdaq futures rose 0.35% ahead of Nvidia's results."
-   ],
-   "money": [
-    "A strong dollar makes trips to Europe and Japan cheaper; it can be a good time to book.",
-    "Imported goods may get cheaper, but US firms that sell abroad can see profits squeezed.",
-    "International stock funds lose value in dollar terms when the dollar rises; keep that in mind before buying."
-   ],
-   "risk": [
-    "If Japan intervenes, the yen can jump suddenly and swing markets."
-   ],
-   "sources": [
-    {
-     "t": "Asia shares slide on tech weakness ahead of Nvidia earnings",
-     "d": "thestar.com.my",
-     "u": "https://www.thestar.com.my/business/business-news/2026/11/17/asia-shares-slide-on-tech-weakness-ahead-of-nvidia-earnings"
-    }
-   ]
-  },
-  {
-   "id": "irs-ira-error-fix-2026111708",
-   "type": "news",
-   "cat": "taxes",
-   "tags": [
-    "taxes",
-    "benefits"
-   ],
-   "date": "This week",
-   "ts": "2026-11-17T08:00:00Z",
-   "headline": "IRS creates a new way to fix IRA mistakes like missed RMDs, starting May 2027",
-   "caption": "A new IRA Compliance Resolution System will cover four common errors. The fee is $3,500 for regular filings made before 2028.",
-   "visual": {
-    "type": "timeline",
-    "title": "New IRA error-fix program",
-    "items": [
-     {
-      "d": "OCT 22",
-      "t": "Treasury and IRS announce changes"
-     },
-     {
-      "d": "NOV 16",
-      "t": "Details highlighted for savers",
-      "now": true
-     },
-     {
-      "d": "JAN 20",
-      "t": "Public comments due"
-     },
-     {
-      "d": "MAY 1",
-      "t": "IRA fix system opens",
-      "s": "$3,500 fee"
-     }
-    ]
-   },
-   "detail": [
-    "Treasury and the IRS created the IRA Compliance Resolution System (ICRS) under Revenue Procedure 2026-33. It opens May 1, 2027.",
-    "It covers four errors: missed required minimum distributions, IRA setup mistakes, errors by non-spouse heirs moving inherited money, and missed 60-day rollover deadlines. Regular filings before Jan. 1, 2028 cost $3,500.",
-    "A separate rule, Revenue Procedure 2026-34, widened the fix-it program for employer plans, including 403(b), SEP and SIMPLE IRA plans. Free automatic and self-certification options stay available."
-   ],
-   "money": [
-    "Check now that you took this year's required IRA withdrawal; fixing it before Dec. 31 avoids needing any new program.",
-    "Moving money between accounts? Do a direct trustee-to-trustee transfer to avoid the 60-day rollover deadline.",
-    "If you inherited an IRA, review the payout rules with a pro; heir errors are among the most common."
-   ],
-   "risk": [
-    "The $3,500 fee may cost more than some small errors; free self-correction may be better."
-   ],
-   "sources": [
-    {
-     "t": "The IRS Is Making a Major Change to IRA Rules in 2027",
-     "d": "aol.com",
-     "u": "https://aol.com/articles/irs-making-major-change-ira-120500000.html"
-    }
-   ]
-  },
-  {
-   "id": "trump-kim-apec-2026111708",
-   "type": "news",
-   "cat": "world",
-   "tags": [
-    "world",
-    "politics"
-   ],
-   "date": "Tue Nov 17",
-   "ts": "2026-11-17T08:00:00Z",
-   "headline": "Trump says he could meet Kim Jong Un in China at the APEC summit in Shenzhen",
-   "caption": "Trump is in Asia for the ASEAN summit in the Philippines before heading to China. Bessent and Rubio are traveling with him.",
-   "visual": {
-    "type": "timeline",
-    "title": "Trump's Asia trip",
-    "items": [
-     {
-      "d": "NOV 16",
-      "t": "Leaves Washington with Rubio, Bessent"
-     },
-     {
-      "d": "NOV 17",
-      "t": "ASEAN summit, Philippines",
-      "now": true
-     },
-     {
-      "d": "NEXT",
-      "t": "APEC in Shenzhen, China",
-      "s": "possible Kim meeting"
-     }
-    ]
-   },
-   "detail": [
-    "President Trump said he could possibly meet North Korean leader Kim Jong Un in China during the APEC summit in Shenzhen, South Korea's SBS reported.",
-    "Trump left Washington on Monday for Asia with Secretary of State Marco Rubio and Treasury Secretary Scott Bessent. The trip includes the ASEAN summit hosted by the Philippines.",
-    "South Korean President Lee Jae-myung and Japanese Prime Minister Takaichi are also meeting at ASEAN, their first talks in six months."
-   ],
-   "money": [
-    "Trade news from Asia trips can move stocks of exporters and chip makers; avoid big trades on headlines alone.",
-    "Lower tension with North Korea can lift South Korean stocks; broad international funds spread that risk.",
-    "Watch for tariff deals with Asian partners that could change prices on electronics and clothing."
-   ],
-   "risk": [
-    "A meeting is not confirmed and could fall through."
-   ],
-   "sources": [
-    {
-     "t": "Today's Major News (November 17, 2026)",
-     "d": "news.sbs.co.kr",
-     "u": "https://news.sbs.co.kr/english/article.do?news_id=N1008849649"
-    },
-    {
-     "t": "LIVE UPDATES: 49th ASEAN Summit and Related Summits (Nov. 17, 2026)",
-     "d": "gmanetwork.com",
-     "u": "https://www.gmanetwork.com/news/topstories/nation/1009740/live-updates-49th-asean-summit-and-related-summits-nov-17-2026/story/"
-    }
-   ]
-  },
-  {
-   "id": "edu-credit-ratings-2026111708",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "business"
-   ],
-   "date": "Explainer",
-   "ts": "2026-11-17T08:00:00Z",
-   "headline": "Credit ratings: what Hertz's drop to Caa1 means",
-   "caption": "Ratings tell lenders how likely a company is to pay back debt. Lower ratings mean higher borrowing costs.",
-   "scenes": [
-    {
-     "k": "Today's news",
-     "t": "Moody's cut Hertz to Caa1",
-     "s": "That is deep in 'junk' territory."
-    },
-    {
-     "k": "What a rating is",
-     "t": "A grade on paying back debt",
-     "s": "Agencies like Moody's and S&P grade companies and governments."
-    },
-    {
-     "k": "The ladder",
-     "t": "Aaa at top, C at bottom",
-     "viz": {
-      "type": "flow",
-      "items": [
-       "Aaa-Baa: investment grade",
-       "Ba-B: junk",
-       "Caa-C: high default risk"
-      ]
-     },
-     "say": "Aaa to Baa is investment grade. Ba and B are junk. Caa and below carry high default risk."
-    },
-    {
-     "k": "Why it matters",
-     "t": "Lower grade, higher interest",
-     "s": "Riskier borrowers must pay lenders more, which squeezes profits."
-    },
-    {
-     "k": "For you",
-     "t": "Check what your bond fund holds",
-     "s": "High-yield funds pay more because they own lower-rated debt."
-    },
-    {
-     "k": "Takeaway",
-     "t": "Higher yield means higher risk",
-     "s": "Match bond risk to when you'll need the money."
-    }
-   ]
-  },
-  {
-   "id": "edu-rmd-basics-2026111708",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "taxes"
-   ],
-   "date": "Explainer",
-   "ts": "2026-11-17T08:00:00Z",
-   "headline": "RMDs: the yearly withdrawal you can't skip",
-   "caption": "Required minimum distributions force money out of many retirement accounts each year. The IRS just created a new way to fix misses.",
-   "scenes": [
-    {
-     "k": "Today's news",
-     "t": "New IRS fix for missed RMDs",
-     "s": "A repair program for IRA errors opens May 1, 2027."
-    },
-    {
-     "k": "What's an RMD",
-     "t": "A required yearly withdrawal",
-     "s": "Once you reach a set age, traditional IRAs and 401(k)s must pay some out each year."
-    },
-    {
-     "k": "How it works",
-     "t": "Balance divided by a life factor",
-     "viz": {
-      "type": "flow",
-      "items": [
-       "Take Dec. 31 balance",
-       "Divide by IRS factor",
-       "Withdraw by deadline"
-      ]
-     },
-     "say": "Take last year's December 31 balance, divide by the IRS life expectancy factor, and withdraw that by the deadline."
-    },
-    {
-     "k": "The penalty",
-     "t": "Miss it and pay an extra tax",
-     "s": "The IRS charges an excise tax on the amount you failed to take."
-    },
-    {
-     "k": "Easy fixes",
-     "t": "Set a reminder or auto-withdraw",
-     "s": "Most providers can send your RMD automatically each year."
-    },
-    {
-     "k": "Takeaway",
-     "t": "Check your RMD before Dec. 31",
-     "s": "Fixing it early beats paying fees later."
-    }
-   ]
-  },
-  {
-   "id": "boeing-2500-cuts-2026111707",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business",
-    "markets"
-   ],
-   "date": "Tue Nov 17",
-   "ts": "2026-11-17T07:00:00Z",
-   "headline": "Boeing will cut about 2,500 commercial airplane jobs, roughly 5% of the unit",
-   "caption": "Production delays left Boeing's jet unit with more workers than it needs. Notices could go out as early as December.",
-   "visual": {
-    "type": "stat",
-    "title": "Boeing Commercial Airplanes",
-    "num": "~2,500",
-    "tone": "loss",
-    "label": "Jobs to be cut through attrition and layoffs.",
-    "facts": [
-     [
-      "Share of unit",
-      "~5%",
-      "vs. end-2025 staff"
-     ],
-     [
-      "Notices",
-      "Dec.",
-      "as early as"
-     ],
-     [
-      "737 MAX ramp",
-      "2027",
-      "pushed back"
-     ]
-    ]
-   },
-   "detail": [
-    "Boeing plans to cut about 2,500 jobs in its commercial airplane division. That is roughly 5% of the unit's workforce, based on staffing at the end of 2025. The unit's CEO, Stephanie Pope, told employees on November 9.",
-    "The reason is slower production than planned. Boeing pushed a 737 MAX output increase into 2027, expects to miss its 2026 737 delivery goal, and has struggled to speed up 787 Dreamliner output.",
-    "Cuts will mix attrition and layoffs. Notices could start in December. Boeing has not said which sites are affected. Affected workers get layoff benefits and job placement help."
-   ],
-   "money": [
-    "If you work at Boeing or a supplier, update your resume and check severance terms now.",
-    "Build a cash cushion of a few months' bills before notices arrive in December.",
-    "Aerospace workers may find openings at defense or other aviation firms that are hiring."
-   ],
-   "risk": [
-    "Slower jet output can ripple to suppliers and airline growth plans."
-   ],
-   "sources": [
-    {
-     "t": "Boeing to cut about 5% of commercial airplane staff, some 2,500 jobs",
-     "d": "outsourceaccelerator.com",
-     "u": "https://news.outsourceaccelerator.com/boeing-commercial-airplane-job-cuts/"
     }
    ]
   }
