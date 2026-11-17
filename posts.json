@@ -1,6 +1,880 @@
 {
- "updated": "2026-11-17T22:00:00Z",
+ "updated": "2026-11-17T23:00:00Z",
  "items": [
+  {
+   "id": "fomc-minutes-preview-2026111723",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets"
+   ],
+   "date": "Wed Nov 18",
+   "ts": "2026-11-17T23:00:00Z",
+   "headline": "Fed minutes due Wednesday 2 p.m. ET; traders price a 92% chance of a December hike",
+   "caption": "Minutes from the Oct. 27-28 meeting show how many officials wanted to raise rates. Markets see a 25-point hike on Dec. 9 as very likely.",
+   "visual": {
+    "type": "stat",
+    "title": "December Fed odds",
+    "num": "92%",
+    "tone": "acc",
+    "label": "Chance of a 25 bp hike on Dec. 9, per CME FedWatch (Nov. 17)",
+    "facts": [
+     [
+      "Current range",
+      "3.75-4.00%",
+      "after a Sept. hike"
+     ],
+     [
+      "Oct. vote",
+      "10-2",
+      "Cook, Hammack wanted a hike"
+     ],
+     [
+      "50 bp odds",
+      "8%",
+      "bigger move"
+     ]
+    ]
+   },
+   "detail": [
+    "The Federal Reserve releases minutes from its October meeting on Wednesday at 2 p.m. Eastern. The Fed held its rate range at 3.75% to 4.00% in a 10-2 vote. Lisa Cook and Beth Hammack dissented in favor of a quarter-point hike.",
+    "As of Tuesday morning, futures showed a 92% chance of a quarter-point hike on Dec. 9 and an 8% chance of a half-point move. On Nov. 6, the hike odds were about 77%.",
+    "Traders will look at wording. 'Many' or 'most' officials favoring a hike would signal broad support; 'a few' would suggest a smaller group. The talks happened before the hot October inflation data."
+   ],
+   "money": [
+    "Higher rates usually lift savings and CD yields; compare high-yield accounts before a hike.",
+    "If you carry a credit card balance, a hike can push your rate up within a billing cycle or two.",
+    "Locking a fixed rate on a loan before Dec. 9 may beat waiting if hikes come."
+   ],
+   "risk": [
+    "Odds can change fast with new data.",
+    "Minutes reflect views before October's inflation report."
+   ],
+   "sources": [
+    {
+     "t": "FOMC Minutes 18 November 2026: Time and What to Watch",
+     "d": "admiralmarkets.com",
+     "u": "https://admiralmarkets.com/analytics/traders-blog/fomc-minutes-november-2026"
+    }
+   ]
+  },
+  {
+   "id": "gold-lowest-since-sept-2025-2026111723",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T23:00:00Z",
+   "headline": "Gold opens at $3,859, its lowest since September 2025, as rate hike bets grow",
+   "caption": "December gold futures fell about 7% in a week. A strong dollar and expected Fed hikes are weighing on the metal.",
+   "visual": {
+    "type": "stat",
+    "title": "Gold futures, Tue Nov 17",
+    "num": "-7%",
+    "tone": "loss",
+    "label": "One-week drop; opened at $3,859.50 an ounce",
+    "rows": [
+     [
+      "1 week",
+      -7.0
+     ],
+     [
+      "1 month",
+      -7.9
+     ],
+     [
+      "1 year",
+      -5.5
+     ]
+    ]
+   },
+   "detail": [
+    "December gold futures opened Tuesday at $3,859.50 an ounce, down 0.3% from Monday's open and the lowest since Sept. 29, 2025. Prices edged up to about $3,870 in early trading.",
+    "Gold is down 7% in a week, 7.9% in a month and 5.5% over a year. As recently as late January, its one-year gain was about 96%.",
+    "Two forces are pushing it down: a strong dollar, which makes gold pricier abroad, and expectations that the Fed will raise rates next month, which makes interest-paying assets more attractive."
+   ],
+   "money": [
+    "If you've wanted gold exposure, buying in small amounts over time can smooth out swings like this.",
+    "Rising rates can make Treasury bills and CDs pay more than holding non-yielding gold.",
+    "When selling jewelry or coins, get several quotes; dealer spreads widen in volatile markets."
+   ],
+   "risk": [
+    "Gold can keep falling if the Fed hikes more than expected.",
+    "Physical gold has storage and dealer costs."
+   ],
+   "sources": [
+    {
+     "t": "Gold price today, Tuesday, November 17, 2026",
+     "d": "finance.yahoo.com",
+     "u": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-tuesday-november-17-2026-gold-opens-at-lowest-price-since-september-29-2025-121421264.html"
+    }
+   ]
+  },
+  {
+   "id": "wed-earnings-estimates-2026111723",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business",
+    "markets"
+   ],
+   "date": "Wed Nov 18",
+   "ts": "2026-11-17T23:00:00Z",
+   "headline": "Wednesday's bar: Lowe's seen at $2.89 a share, Target $2.07, TJX $1.34, Palo Alto $0.97",
+   "caption": "Three retailers report before the bell, and Palo Alto Networks reports after the close. Full-year guidance may matter more than the quarter.",
+   "visual": {
+    "type": "board",
+    "title": "Wed Nov 18 estimates",
+    "rows": [
+     {
+      "k": "Lowe's (LOW)",
+      "s": "6:00 a.m. ET, sales $22.40B",
+      "v": "$2.89"
+     },
+     {
+      "k": "Target (TGT)",
+      "s": "6:30 a.m. ET, sales $26.49B",
+      "v": "$2.07"
+     },
+     {
+      "k": "TJX (TJX)",
+      "s": "7:30 a.m. ET, sales $15.82B",
+      "v": "$1.34"
+     },
+     {
+      "k": "Palo Alto (PANW)",
+      "s": "after close, sales $3.31B",
+      "v": "$0.97"
+     }
+    ],
+    "foot": "EPS estimates. Source: Newsquawk"
+   },
+   "detail": [
+    "Lowe's, Target and TJX all report before Wednesday's open. Expected earnings per share are $2.89 for Lowe's, $2.07 for Target and $1.34 for TJX. Expected sales are $22.4 billion, $26.5 billion and $15.8 billion.",
+    "Palo Alto Networks reports after the close, with $0.97 a share expected on $3.31 billion in sales. Billings and future contracted revenue often move that stock more than profit does.",
+    "The retail trio may trade as a group. When shoppers trade down, off-price stores like TJX can gain while full-price chains like Target lose share."
+   ],
+   "money": [
+    "Retailer comments on promotions can hint at how big holiday discounts will be.",
+    "If TJX beats while Target lags, that's a sign deal hunting is strong; plan holiday buys around sales.",
+    "Avoid buying a stock right before earnings unless you can handle a big one-day swing."
+   ],
+   "risk": [
+    "Estimates come from one data provider and may differ elsewhere.",
+    "Report times can shift."
+   ],
+   "sources": [
+    {
+     "t": "Newsquawk Daily US Earnings Estimates: 18th November 2026",
+     "d": "newsquawk.com",
+     "u": "https://www.newsquawk.com/headlines/newsquawk-daily-us-earnings-estimates-18th-november-2026---low-tgt-tjx-panw"
+    }
+   ]
+  },
+  {
+   "id": "tn-grocery-tax-putnam-2026111723",
+   "type": "news",
+   "cat": "states",
+   "tags": [
+    "states",
+    "taxes"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T23:00:00Z",
+   "headline": "Tennessee county votes 21-2 against asking the state to end its 4% grocery tax",
+   "caption": "Putnam County commissioners said repeal would cost local budgets too much. A state bill puts the price at $823M for the state and $525M for locals.",
+   "visual": {
+    "type": "board",
+    "title": "Tennessee grocery tax",
+    "rows": [
+     {
+      "k": "State grocery rate",
+      "v": "4%"
+     },
+     {
+      "k": "Local add-on",
+      "s": "maximum",
+      "v": "up to 2.75%"
+     },
+     {
+      "k": "Repeal cost, state",
+      "s": "HB0002 fiscal note",
+      "v": "$823M",
+      "tone": "loss"
+     },
+     {
+      "k": "Repeal cost, local",
+      "v": "$525M",
+      "tone": "loss"
+     },
+     {
+      "k": "Projected FY27 surplus",
+      "v": "$1.2B",
+      "tone": "gain"
+     }
+    ]
+   },
+   "detail": [
+    "The Putnam County Commission voted 21-2 against a resolution asking Tennessee to eliminate its sales tax on groceries. The state charges 4% on food, and local governments can add up to 2.75%.",
+    "One commissioner cited a fiscal note for House Bill 2 showing repeal would cost the state $823 million and local governments $525 million. He warned that revenue growth comes partly from inflation and could vanish in a downturn, even with a projected $1.2 billion state surplus.",
+    "A supporter argued the state could find the money, for example by raising its 1.85% sports betting tax."
+   ],
+   "money": [
+    "Tennessee shoppers: state plus local grocery tax can reach $67.50 on every $1,000 of food, so watch the bill in the next session.",
+    "Buying non-food items at warehouse clubs doesn't change the tax, but bulk staples lower your per-meal cost.",
+    "Many states have cut grocery taxes recently; check your own state's rate."
+   ],
+   "risk": [
+    "A county resolution has no legal force; the legislature decides.",
+    "Repeal could lead to cuts or other taxes locally."
+   ],
+   "sources": [
+    {
+     "t": "TN county commission votes against resolution asking state to eliminate grocery tax",
+     "d": "wsmv.com",
+     "u": "https://www.wsmv.com/2026/11/17/tn-county-commission-votes-against-resolution-asking-state-eliminate-grocery-tax/"
+    }
+   ]
+  },
+  {
+   "id": "min-wage-2027-16-states-2026111723",
+   "type": "news",
+   "cat": "states",
+   "tags": [
+    "states",
+    "business"
+   ],
+   "date": "Jan 1, 2027",
+   "ts": "2026-11-17T23:00:00Z",
+   "headline": "Minimum wage rises in 16 states on Jan. 1; Washington hits $17.73 an hour",
+   "caption": "Michigan jumps $1.27 to $15 and Rhode Island goes to $17. Most other raises are 26 to 60 cents.",
+   "visual": {
+    "type": "board",
+    "title": "Jan. 1, 2027 raises",
+    "rows": [
+     {
+      "k": "Washington",
+      "s": "highest rate",
+      "v": "$17.73",
+      "ch": 3.5,
+      "tone": "gain"
+     },
+     {
+      "k": "Rhode Island",
+      "s": "from $16",
+      "v": "$17.00",
+      "ch": 6.3,
+      "tone": "gain"
+     },
+     {
+      "k": "Michigan",
+      "s": "from $13.73",
+      "v": "$15.00",
+      "ch": 9.2,
+      "tone": "gain"
+     },
+     {
+      "k": "Virginia",
+      "s": "from $12.77",
+      "v": "$13.75",
+      "ch": 7.7,
+      "tone": "gain"
+     },
+     {
+      "k": "Montana",
+      "s": "lowest new rate",
+      "v": "$11.20",
+      "tone": "acc"
+     }
+    ],
+    "foot": "Plus AZ, CA, CO, CT, ME, MN, NE, NJ, OH, SD, VT"
+   },
+   "detail": [
+    "Sixteen states will raise their minimum wage on Jan. 1, 2027. Washington will have the highest rate at $17.73 an hour, up 60 cents.",
+    "The biggest jumps are in Michigan, up $1.27 to $15, Rhode Island, up $1 to $17, and Virginia, up 98 cents to $13.75. California and Arizona each rise 50 cents, and Montana's new rate of $11.20 is the lowest of the group.",
+    "Alaska goes from $14 to $15 on July 1, 2027. New York's general rate stays at $17 in New York City, Long Island and Westchester, and $16 elsewhere."
+   ],
+   "money": [
+    "Minimum-wage workers: check your first January paycheck to make sure the new rate is applied.",
+    "A raise can change benefit eligibility; report income changes to programs like SNAP on time.",
+    "Employers: update payroll before Jan. 1 to avoid back-pay claims."
+   ],
+   "risk": [
+    "Some cities and counties set higher local rates.",
+    "Rates for tipped and young workers can differ."
+   ],
+   "sources": [
+    {
+     "t": "Minimum Wage Will Increase In 16 States On January 1, 2027",
+     "d": "allwork.space",
+     "u": "https://allwork.space/2026/11/minimum-wage-will-increase-in-16-states-on-january-1-2027"
+    }
+   ]
+  },
+  {
+   "id": "delta-college-ice-arrest-2026111723",
+   "type": "news",
+   "cat": "immigration",
+   "tags": [
+    "immigration",
+    "california"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T23:00:00Z",
+   "headline": "ICE arrests a man in a Stockton college parking lot after a traffic stop",
+   "caption": "DHS says officers followed a driver about a mile onto San Joaquin Delta College's campus. The college called the arrest deeply troubling.",
+   "visual": {
+    "type": "timeline",
+    "title": "Delta College arrest",
+    "items": [
+     {
+      "d": "NOV 2",
+      "t": "Earlier ICE sighting on campus",
+      "s": "No arrests"
+     },
+     {
+      "d": "NOV 16",
+      "t": "Traffic stop off campus",
+      "s": "About 1:10 p.m."
+     },
+     {
+      "d": "NOV 16",
+      "t": "Arrest in college lot",
+      "s": "Man held pending removal case",
+      "now": true
+     }
+    ]
+   },
+   "detail": [
+    "Immigration agents arrested a man Monday afternoon in a parking lot at San Joaquin Delta College in Stockton, California. DHS says officers started a traffic stop and the driver pulled into the college lot about a mile later.",
+    "DHS identified him as Cezar Ibarra Marquez, a Mexican national it says is in the country illegally. DHS says he refused to identify himself and that a woman who said she was his daughter grabbed an officer's wrist. He remains in ICE custody pending removal proceedings.",
+    "The college said a student's family member was detained, offered counseling to the student, and said it will keep monitoring enforcement on campus. Some commenters said the school isn't living up to its sanctuary pledge."
+   ],
+   "money": [
+    "Mixed-status families can keep key documents and a lawyer's contact handy to avoid costly delays.",
+    "Use reputable nonprofit legal aid for immigration help; avoid paid 'notarios' who charge for bad advice.",
+    "Students facing a family crisis can ask the college about emergency aid and fee waivers."
+   ],
+   "risk": [
+    "Accounts from DHS and the college differ on some details.",
+    "Policies on campus enforcement can change."
+   ],
+   "sources": [
+    {
+     "t": "Delta College ICE arrest in Stockton began off-campus, school says",
+     "d": "yahoo.com",
+     "u": "https://yahoo.com/news/us/articles/delta-college-ice-arrest-stockton-182333672.html"
+    }
+   ]
+  },
+  {
+   "id": "microsoft-ignite-2026-2026111723",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "business"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T23:00:00Z",
+   "headline": "Microsoft Ignite: Copilot gets 'Autopilot' agents as Cobalt 200 servers launch",
+   "caption": "Microsoft opened its Ignite conference with agent tools for Copilot and new cloud chips. Volkswagen is rolling Copilot out to 330,000+ workers.",
+   "visual": {
+    "type": "points",
+    "title": "Ignite 2026 highlights",
+    "items": [
+     "Autopilot: agent for recurring tasks",
+     "Copilot Code: build apps in plain English",
+     "Cobalt 200 VMs: up to 50% faster, out now",
+     "Microsoft Perception security agents: out now",
+     "VW: 330,000+ staff on Copilot"
+    ]
+   },
+   "detail": [
+    "Microsoft opened Ignite in San Francisco on Tuesday. It showed Copilot Workspaces for people and agents to work together, Autopilot for long-running recurring tasks, and Copilot Code to build dashboards and apps by describing them.",
+    "Its Cobalt 200 cloud servers are available now with up to 50% better performance than the last generation, and Cobalt will reach 23 Azure regions by the end of 2026. A security product called Microsoft Perception, run by AI agents, is also generally available.",
+    "Volkswagen Group is giving Copilot to more than 330,000 employees, and Estée Lauder expanded it to over 14,000. Microsoft did not share pricing for the new products."
+   ],
+   "money": [
+    "If your job uses Microsoft 365, learning Copilot agents now can make you more valuable at work.",
+    "Small businesses should test free trials before paying for new AI add-ons.",
+    "Investors: watch whether these tools lift Microsoft's cloud growth in coming quarters."
+   ],
+   "risk": [
+    "Many features have no release date or price yet.",
+    "Company demos may not match real-world results."
+   ],
+   "sources": [
+    {
+     "t": "Microsoft Ignite 2026: Empowering human ambition, intelligence and trust",
+     "d": "news.microsoft.com",
+     "u": "https://news.microsoft.com/source/2026/11/17/microsoft-ignite-2026-empowering-human-ambition-intelligence-and-trust/"
+    }
+   ]
+  },
+  {
+   "id": "lancedb-57m-series-b-2026111723",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "business"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T23:00:00Z",
+   "headline": "LanceDB raises $57.5M to organize AI training data for Netflix, Runway and Midjourney",
+   "caption": "The data startup's Series B was led by Bessemer and Innovation Endeavors. Total funding is now $98.5 million.",
+   "visual": {
+    "type": "stat",
+    "title": "LanceDB Series B",
+    "num": "$57.5M",
+    "tone": "gain",
+    "label": "New funding; total raised now $98.5M",
+    "facts": [
+     [
+      "Lead investors",
+      "Bessemer, Innovation Endeavors",
+      ""
+     ],
+     [
+      "Customers",
+      "Netflix, Runway, Midjourney",
+      "plus Microsoft AI, Luma"
+     ],
+     [
+      "Focus",
+      "video, image, sensor data",
+      "for AI training"
+     ]
+    ]
+   },
+   "detail": [
+    "LanceDB raised $57.5 million in a Series B round led by Bessemer Venture Partners and Innovation Endeavors, bringing its total funding to $98.5 million. Theory Ventures, CRV and Y Combinator also joined.",
+    "The company runs a 'multimodal lakehouse' that stores, searches and serves AI training data such as video, images and sensor readings. Customers include Netflix, Microsoft AI, Runway, Luma AI and Midjourney."
+   ],
+   "money": [
+    "Data tools are a less crowded way AI money flows; funds tracking AI infrastructure may hold related firms.",
+    "If you work in data engineering, skills with multimodal data are in demand.",
+    "Startups like this are private; most people can't invest directly, so be wary of 'pre-IPO' pitches."
+   ],
+   "risk": [
+    "Valuation was not disclosed.",
+    "Private AI startups can fail even after big rounds."
+   ],
+   "sources": [
+    {
+     "t": "LanceDB Raises $57.5M Series B to Expand Its Multimodal AI Lakehouse",
+     "d": "unite.ai",
+     "u": "https://www.unite.ai/lancedb-raises-57-5m-series-b-to-expand-its-multimodal-ai-lakehouse/"
+    }
+   ]
+  },
+  {
+   "id": "corma-125m-cyber-ai-2026111723",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T23:00:00Z",
+   "headline": "Cyber-defense AI startup Corma raises $125M at a $1B value, three months after launch",
+   "caption": "NEA led the round, bringing Corma's total to $185 million. Demand rose after October disclosures of major software flaws.",
+   "visual": {
+    "type": "stat",
+    "title": "Corma funding",
+    "num": "$1B",
+    "tone": "gain",
+    "label": "Valuation in a $125M Series A led by NEA",
+    "facts": [
+     [
+      "Total raised",
+      "$185M",
+      "incl. $60M seed in Aug."
+     ],
+     [
+      "Backers",
+      "Sequoia, Khosla, Coatue",
+      ""
+     ],
+     [
+      "Launched",
+      "August 2026",
+      "out of stealth"
+     ]
+    ]
+   },
+   "detail": [
+    "Corma, which builds AI models and agents to defend against cyberattacks, raised $125 million at a $1 billion valuation in a Series A led by NEA. Its total funding is $185 million.",
+    "The company came out of stealth in August with a $60 million round backed by Sequoia. Interest grew after Oct. 21 disclosures involving flaws in PHP and Node.js and a LiteLLM security incident."
+   ],
+   "money": [
+    "AI-powered attacks are rising; turn on two-factor login and auto-updates at home for free protection.",
+    "Cybersecurity skills remain a strong career bet as AI raises demand.",
+    "Diversified cybersecurity ETFs give exposure to the theme without picking one company."
+   ],
+   "risk": [
+    "Startup valuations can fall sharply in later rounds.",
+    "Details come from secondhand reports."
+   ],
+   "sources": [
+    {
+     "t": "Today in AI Business — November 17, 2026",
+     "d": "bizn.org",
+     "u": "https://www.bizn.org/news-2026-11-17"
+    },
+    {
+     "t": "Corma raised $60M from Sequoia to build defensive AI",
+     "d": "thenextweb.com",
+     "u": "https://thenextweb.com/news/corma-60m-seed-sequoia-defensive-cybersecurity-ai"
+    }
+   ]
+  },
+  {
+   "id": "snap-stocking-delay-2026111723",
+   "type": "news",
+   "cat": "benefits",
+   "tags": [
+    "benefits",
+    "business"
+   ],
+   "date": "This week",
+   "ts": "2026-11-17T23:00:00Z",
+   "headline": "USDA gives SNAP stores 90 more days to meet tougher stocking rules",
+   "caption": "Retailers must carry seven varieties in each of four food groups, up from three. Enforcement was set for Nov. 4 and now slides into 2027.",
+   "visual": {
+    "type": "vs",
+    "title": "SNAP store stocking rule",
+    "a": [
+     "Old rule",
+     "3 varieties",
+     0.43,
+     "acc"
+    ],
+    "b": [
+     "New rule",
+     "7 varieties",
+     1,
+     "gain"
+    ],
+    "foot": "Per category: proteins, grains, produce, dairy; 3 units each"
+   },
+   "detail": [
+    "USDA is delaying enforcement of new stocking standards for SNAP-authorized stores by 90 days. The rule, finalized in May, was set to take effect Nov. 4.",
+    "Stores must carry seven varieties in each of four categories, proteins, grains, fruits and vegetables, and dairy, with at least three units of each. The old rule required three varieties per category.",
+    "New York City's mayor said the delay came from talks with the administration. City officials and convenience store groups said many small shops, like bodegas, were still sorting out which products qualify, and guidance arrived only in October."
+   ],
+   "money": [
+    "SNAP shoppers should keep using nearby stores; the delay means fewer may drop out of the program for now.",
+    "Small store owners can use the extra time to line up suppliers and avoid losing SNAP sales.",
+    "Compare prices: stores adding more variety may run deals to move new stock."
+   ],
+   "risk": [
+    "Stores that still can't comply could stop taking SNAP in 2027.",
+    "The exact new deadline was not stated."
+   ],
+   "sources": [
+    {
+     "t": "USDA delaying new SNAP stocking standards",
+     "d": "grocerydive.com",
+     "u": "https://www.grocerydive.com/news/usda-delaying-new-snap-stocking-standards/874782/"
+    }
+   ]
+  },
+  {
+   "id": "zelle-solana-zelleusd-2026111723",
+   "type": "news",
+   "cat": "crypto",
+   "tags": [
+    "crypto",
+    "business"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T23:00:00Z",
+   "headline": "Zelle picks Solana for its ZelleUSD stablecoin and cross-border payments",
+   "caption": "The bank-owned payments network moved over $1.2 trillion in 2025. It plans to use Solana for international transfers, starting with India.",
+   "visual": {
+    "type": "points",
+    "title": "ZelleUSD on Solana",
+    "items": [
+     "Zelle moved $1.2T+ in US payments in 2025",
+     "Stablecoin issued by Anchorage Digital Bank",
+     "Blockchain: Solana",
+     "Amounts can be hidden publicly; banks can see them",
+     "First cross-border target: India"
+    ]
+   },
+   "detail": [
+    "Zelle will use the Solana blockchain for its ZelleUSD stablecoin and international payments, according to coverage of Solana's Breakpoint conference. ZelleUSD is issued by Anchorage Digital Bank.",
+    "Zelle processed more than $1.2 trillion in US payments in 2025. Transfers can be encrypted so amounts are hidden on the public chain, while member banks can decrypt them for compliance.",
+    "Zelle's operator said in June that India would be its first remittance market and that it aimed to launch by the end of 2026."
+   ],
+   "money": [
+    "If you send money abroad, compare fees and exchange rates once Zelle's service launches; remittance costs can run several percent.",
+    "Stablecoin transfers are not FDIC-insured deposits; know what you're holding.",
+    "Never send Zelle payments to strangers; scams remain the biggest risk."
+   ],
+   "risk": [
+    "Launch dates and fees haven't been announced.",
+    "Crypto networks can have outages."
+   ],
+   "sources": [
+    {
+     "t": "The Crypto Desk — Tuesday, 17 November 2026",
+     "d": "thecryptodesk.substack.com",
+     "u": "https://thecryptodesk.substack.com/p/the-crypto-desk-tuesday-17-november"
+    },
+    {
+     "t": "Zelle steps into crowded remittance market with a stablecoin",
+     "d": "americanbanker.com",
+     "u": "https://www.americanbanker.com/payments/news/zelle-steps-into-crowded-remittance-market-with-a-stablecoin"
+    }
+   ]
+  },
+  {
+   "id": "cftc-backpack-exchange-2026111723",
+   "type": "news",
+   "cat": "crypto",
+   "tags": [
+    "crypto"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T23:00:00Z",
+   "headline": "CFTC approves Backpack's US derivatives exchange, which plans 24-hour crypto perpetuals",
+   "caption": "TLD Markets, doing business as Backpack Exchange, became a designated contract market. No launch date has been set.",
+   "visual": {
+    "type": "points",
+    "title": "Backpack US approval",
+    "items": [
+     "Regulator: CFTC",
+     "Status: designated contract market",
+     "Plan: 24/7 crypto perpetual futures",
+     "Launch date: not set"
+    ]
+   },
+   "detail": [
+    "The Commodity Futures Trading Commission approved TLD Markets, trading as Backpack Exchange, as a designated contract market on Monday.",
+    "The exchange plans to offer around-the-clock crypto perpetual futures to US customers but has not set a launch date. Perpetuals are futures with no expiry that are popular on offshore exchanges."
+   ],
+   "money": [
+    "Regulated US venues can offer more protection than offshore exchanges if something goes wrong.",
+    "Perpetual futures use leverage; small price moves can wipe out your stake.",
+    "Beginners are usually better off with spot crypto or ETFs than leveraged products."
+   ],
+   "risk": [
+    "Leveraged crypto trading carries a high risk of loss.",
+    "Product details may change before launch."
+   ],
+   "sources": [
+    {
+     "t": "The Crypto Desk — Tuesday, 17 November 2026",
+     "d": "thecryptodesk.substack.com",
+     "u": "https://thecryptodesk.substack.com/p/the-crypto-desk-tuesday-17-november"
+    }
+   ]
+  },
+  {
+   "id": "ex-robinhood-engineer-plea-2026111723",
+   "type": "news",
+   "cat": "crypto",
+   "tags": [
+    "crypto"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T23:00:00Z",
+   "headline": "Ex-Robinhood engineer pleads guilty to trading ahead of token listings",
+   "caption": "He traded Hyperliquid perpetual futures before Robinhood listed tokens and agreed to forfeit $125,523. Sentencing is Feb. 25, 2027.",
+   "visual": {
+    "type": "stat",
+    "title": "Robinhood insider case",
+    "num": "$125,523",
+    "tone": "loss",
+    "label": "Amount forfeited in a wire fraud plea",
+    "facts": [
+     [
+      "Max sentence",
+      "20 years",
+      ""
+     ],
+     [
+      "Sentencing",
+      "Feb. 25, 2027",
+      ""
+     ],
+     [
+      "Co-worker",
+      "case pending",
+      "charged in Sept."
+     ]
+    ]
+   },
+   "detail": [
+    "Huaisong 'Jerry' Xiang, a former Robinhood engineer, pleaded guilty to wire fraud. He admitted trading Hyperliquid perpetual futures ahead of tokens being listed on Robinhood.",
+    "He agreed to forfeit $125,523 and faces up to 20 years in prison. Sentencing is set for Feb. 25, 2027. A colleague, Hefu Chai, was charged in September and his case is pending."
+   ],
+   "money": [
+    "Price pops after exchange listings can be driven by insiders; buying the hype often means buying from them.",
+    "Set limit orders instead of market orders on listing days to avoid paying spikes.",
+    "Prosecutors are policing crypto insider trading, which helps level the field for regular traders."
+   ],
+   "risk": [
+    "A plea is not yet a sentence.",
+    "The co-worker has not been convicted."
+   ],
+   "sources": [
+    {
+     "t": "The Crypto Desk — Tuesday, 17 November 2026",
+     "d": "thecryptodesk.substack.com",
+     "u": "https://thecryptodesk.substack.com/p/the-crypto-desk-tuesday-17-november"
+    }
+   ]
+  },
+  {
+   "id": "edu-fed-minutes-2026111723",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "markets"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-17T23:00:00Z",
+   "headline": "Fed minutes: why a three-week-old meeting can move markets",
+   "caption": "The minutes show how officials argued, not just what they decided. Here's what traders read between the lines.",
+   "scenes": [
+    {
+     "k": "WEDNESDAY 2 P.M. ET",
+     "t": "The Fed publishes its October minutes",
+     "s": "They come out about three weeks after each meeting."
+    },
+    {
+     "k": "WHAT THEY SHOW",
+     "t": "How officials debated, not just the vote",
+     "s": "October's vote was 10-2, with two wanting a hike."
+    },
+    {
+     "k": "WORD CLUES",
+     "t": "'Many' beats 'a few'",
+     "s": "The more officials favoring a hike, the likelier one comes.",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "A few",
+       "Several",
+       "Many",
+       "Most"
+      ]
+     }
+    },
+    {
+     "k": "WHAT'S PRICED",
+     "t": "92% odds of a December hike",
+     "viz": {
+      "type": "split",
+      "items": [
+       [
+        "25 bp hike",
+        "92%"
+       ],
+       [
+        "50 bp hike",
+        "8%"
+       ],
+       [
+        "Current range",
+        "3.75-4.00%",
+        "wide"
+       ]
+      ]
+     },
+     "say": "Futures show a 92 percent chance of a quarter-point hike, 8 percent for a half point, from a current range of 3.75 to 4 percent."
+    },
+    {
+     "k": "YOUR WALLET",
+     "t": "Hikes raise card and loan rates",
+     "s": "They also lift what savings accounts and CDs pay."
+    },
+    {
+     "k": "THE TAKEAWAY",
+     "t": "Shop for yield, pay down variable debt",
+     "s": "Act on what you control; don't trade on headlines."
+    }
+   ]
+  },
+  {
+   "id": "edu-min-wage-indexing-2026111723",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "states"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-17T23:00:00Z",
+   "headline": "Why minimum wages rise every January in some states",
+   "caption": "Many states tie their minimum wage to inflation, so it climbs a little each year. Others raise it in steps set by law.",
+   "scenes": [
+    {
+     "k": "JAN. 1, 2027",
+     "t": "16 states raise their minimum wage",
+     "s": "Washington will be highest at $17.73 an hour."
+    },
+    {
+     "k": "TWO WAYS",
+     "t": "Inflation links or scheduled steps",
+     "s": "Some states adjust by a price index; others follow a set schedule.",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "Law sets base",
+       "Prices rise",
+       "Wage adjusts",
+       "Repeats yearly"
+      ]
+     }
+    },
+    {
+     "k": "STEP RAISES",
+     "t": "Big jumps come from schedules",
+     "viz": {
+      "type": "split",
+      "items": [
+       [
+        "Michigan",
+        "+$1.27"
+       ],
+       [
+        "Rhode Island",
+        "+$1.00"
+       ],
+       [
+        "Virginia",
+        "+$0.98",
+        "wide"
+       ]
+      ]
+     },
+     "say": "Michigan rises a dollar twenty-seven, Rhode Island a dollar, and Virginia ninety-eight cents."
+    },
+    {
+     "k": "SMALL RAISES",
+     "t": "Most other raises: 26 to 60 cents",
+     "s": "Small yearly bumps often track rising prices."
+    },
+    {
+     "k": "CHECK YOUR PAY",
+     "t": "Look at your first January paycheck",
+     "s": "Make sure the new rate is applied from day one."
+    },
+    {
+     "k": "THE TAKEAWAY",
+     "t": "A raise can affect benefits too",
+     "s": "Report income changes so aid like SNAP stays accurate."
+    }
+   ]
+  },
   {
    "id": "nvidia-q3-beat-2026111722",
    "type": "news",
@@ -11082,893 +11956,6 @@
      "t": "CZ denies Binance sold crypto, Bitwise sees Solana at $1,100 by 2031, and more",
      "d": "theblock.co",
      "u": "https://theblock.co/newsletters/the-daily/2026-11-17-cz-binance-bitwise-solana-more-crypto-news-441584"
-    }
-   ]
-  },
-  {
-   "id": "ct-medicaid-hold-harmless-2026111711",
-   "type": "news",
-   "cat": "states",
-   "tags": [
-    "states",
-    "benefits",
-    "politics"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-17T11:00:00Z",
-   "headline": "Connecticut won't cut Medicaid over new work rules until July 2027",
-   "caption": "Work rules for HUSKY D still start Jan. 1. But the state took a federal option to hold off coverage losses for six months.",
-   "visual": {
-    "type": "board",
-    "title": "Connecticut HUSKY D work rules",
-    "rows": [
-     {
-      "k": "Rules start",
-      "v": "Jan. 1, 2027"
-     },
-     {
-      "k": "No coverage loss until",
-      "v": "July 2027",
-      "tone": "gain"
-     },
-     {
-      "k": "Work hours needed",
-      "s": "or school, service, training",
-      "v": "80/month"
-     },
-     {
-      "k": "Or earn at least",
-      "v": "$580/month"
-     }
-    ],
-    "foot": "Several exemptions apply"
-   },
-   "detail": [
-    "Connecticut will take a federal 'hold harmless' option that lets states delay Medicaid penalties through June 30, 2027. Gov. Ned Lamont announced the choice on Monday.",
-    "The work rules for HUSKY D, the state's adult Medicaid group, still begin Jan. 1. Enrollees need 80 hours a month of work, school, service or training, or must earn at least $580 a month. Some people are exempt.",
-    "The rules came from the 2025 federal tax and spending law. State leaders hope the new Congress repeals them, but that would need Trump's support."
-   ],
-   "money": [
-    "If you're on HUSKY D, start tracking your work or training hours now so you're ready.",
-    "Check if you qualify for an exemption. It can save you from paperwork later.",
-    "Losing Medicaid can mean big medical bills. Look at ACA marketplace plans as a backup."
-   ],
-   "risk": [
-    "Other states may not choose the delay.",
-    "Rules can change again if Congress acts."
-   ],
-   "sources": [
-    {
-     "t": "CT delays Medicaid losses from work requirements until July 2027",
-     "d": "ctpublic.org",
-     "u": "https://ctpublic.org/news/2026-11-17/ct-delays-medicaid-losses-from-work-requirements-until-july-2027"
-    }
-   ]
-  },
-  {
-   "id": "ny-scholarship-tax-credit-2026111711",
-   "type": "news",
-   "cat": "taxes",
-   "tags": [
-    "taxes",
-    "states"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-17T11:00:00Z",
-   "headline": "New York opens the new federal school tax credit: donate up to $1,700, get it back",
-   "caption": "Starting in 2027, donors to approved groups get a dollar-for-dollar federal credit. Groups can apply to New York through Dec. 31.",
-   "visual": {
-    "type": "board",
-    "title": "New federal scholarship tax credit in NY",
-    "rows": [
-     {
-      "k": "Max donation, single",
-      "v": "$1,700"
-     },
-     {
-      "k": "Married filing jointly",
-      "v": "$3,400"
-     },
-     {
-      "k": "Credit",
-      "s": "off your federal tax",
-      "v": "$1 for $1",
-      "tone": "gain"
-     },
-     {
-      "k": "Student income limit",
-      "s": "of area median",
-      "v": "300%"
-     },
-     {
-      "k": "Group applications due",
-      "v": "Dec. 31"
-     }
-    ]
-   },
-   "detail": [
-    "Gov. Kathy Hochul said New York opened applications for groups that want to join the federal scholarship tax credit program. Approved groups will count for the 2027 tax year.",
-    "Starting next year, taxpayers can give up to $1,700, or $3,400 for married couples, to approved groups and get a full credit on federal taxes. The money can pay for tutoring, special education, technology, afterschool programs and tuition.",
-    "Students qualify if household income is no more than 300% of the area median. Groups must spend at least 90% of income on scholarships."
-   ],
-   "money": [
-    "A dollar-for-dollar credit means a $1,700 gift could cut your federal tax by $1,700.",
-    "Families under the income limit may get help paying for tutoring or afterschool care.",
-    "Check your state's list of approved groups before giving, or you may not get the credit."
-   ],
-   "risk": [
-    "Only donations to state-approved groups qualify.",
-    "State tax treatment may differ from the federal credit."
-   ],
-   "sources": [
-    {
-     "t": "Governor Hochul Announces Applications Now Open for Federal Tax Credit Program",
-     "d": "governor.ny.gov",
-     "u": "https://www.governor.ny.gov/news/governor-hochul-announces-applications-now-open-federal-tax-credit-program-drive-resources-new"
-    }
-   ]
-  },
-  {
-   "id": "film-tax-credit-push-2026111711",
-   "type": "news",
-   "cat": "taxes",
-   "tags": [
-    "taxes",
-    "politics",
-    "business"
-   ],
-   "date": "This week",
-   "ts": "2026-11-17T11:00:00Z",
-   "headline": "Trump urges Congress to pass a 20% federal film tax credit before January",
-   "caption": "The bipartisan bill would credit 20% to 30% of US worker pay on film and TV projects. Critics say it could cost $3.3B to $4.9B a year.",
-   "visual": {
-    "type": "points",
-    "title": "Proposed federal film credit",
-    "items": [
-     "Base 20% credit on qualifying US labor",
-     "Projects must cost more than $1 million",
-     "75%+ of filming days in the US",
-     "No spending cap, per Tax Policy Center",
-     "Cato: $3.3B to $4.9B a year"
-    ]
-   },
-   "detail": [
-    "Trump is backing a bill that would create a federal tax credit for film and TV production. It was introduced in September by Sen. Tim Scott with bipartisan support, including Sen. Adam Schiff.",
-    "The base credit is 20% of qualifying US labor costs, on top of state credits. Projects must cost over $1 million and shoot at least 75% of days in the US.",
-    "Trump says it would bring back jobs. Critics at Cato estimate a cost of $3.3 billion to $4.9 billion a year. The bill sits in committee, and one Democrat called lame-duck odds 'pretty low.'"
-   ],
-   "money": [
-    "Film workers in high-cost states could see more local jobs if it passes.",
-    "Studios and production suppliers could benefit. Watch for it in any year-end tax deal.",
-    "As a taxpayer, uncapped credits can grow costs over time. Follow how it's paid for."
-   ],
-   "risk": [
-    "It may not pass before Democrats take over in January."
-   ],
-   "sources": [
-    {
-     "t": "Why Trump Is Throwing His Weight Behind a Hollywood Tax Credit",
-     "d": "time.com",
-     "u": "https://time.com/article/2026/11/16/why-trump-is-throwing-his-weight-behind-a-hollywood-tax-credit"
-    },
-    {
-     "t": "Lawmakers Scramble to Pass US Film Tax Credit After Midterms",
-     "d": "thewrap.com",
-     "u": "https://www.thewrap.com/industry-news/business/us-federal-tax-credit-american-film-market/"
-    }
-   ]
-  },
-  {
-   "id": "dec-11-shutdown-deadline-2026111711",
-   "type": "news",
-   "cat": "politics",
-   "tags": [
-    "politics",
-    "world"
-   ],
-   "date": "This week",
-   "ts": "2026-11-17T11:00:00Z",
-   "headline": "Shutdown clock: funding runs out Dec. 11, and Trump wants a $350B defense add-on",
-   "caption": "Republicans have four legislative weeks left in control. Democrats say they'll back funding only if it cuts off Iran war money.",
-   "visual": {
-    "type": "timeline",
-    "title": "Lame-duck deadlines",
-    "items": [
-     {
-      "d": "NOW",
-      "t": "4 legislative weeks left for GOP",
-      "now": true
-     },
-     {
-      "d": "DEC 11",
-      "t": "Government funding expires",
-      "s": "shutdown risk"
-     },
-     {
-      "d": "JAN",
-      "t": "Democrats take both chambers"
-     }
-    ]
-   },
-   "detail": [
-    "Government funding runs out Dec. 11. Congress needs another bill or the government shuts down.",
-    "Sen. Patty Murray floated a short-term bill. Democrats say they'll only support spending that cuts off defense funds for the Iran war, which Majority Leader John Thune called 'pretty complicated.'",
-    "Some Republicans want a final party-line reconciliation bill, and Trump asked for a $350 billion defense supplemental in it. Not all Republicans agree."
-   ],
-   "money": [
-    "A shutdown can delay some federal services and paychecks. Federal workers may want a cash cushion now.",
-    "Social Security checks keep coming in a shutdown, but customer service can slow.",
-    "Market dips on shutdown news are often short. Avoid panic selling."
-   ],
-   "risk": [
-    "Talks could stall and push a shutdown into the holidays."
-   ],
-   "sources": [
-    {
-     "t": "Republicans' final sprint: What will they get done while they're still in control?",
-     "d": "deseret.com",
-     "u": "https://www.deseret.com/politics/2026/11/16/republicans-final-sprint-in-majority/"
-    }
-   ]
-  },
-  {
-   "id": "medtronic-contego-380m-2026111711",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business",
-    "markets"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-17T11:00:00Z",
-   "headline": "Medtronic moves to buy stroke-device maker Contego Medical for $380 million",
-   "caption": "Medtronic has owned a minority stake in Contego since 2020. The deal should close in its fiscal third quarter.",
-   "visual": {
-    "type": "deals",
-    "title": "Medtronic deal",
-    "items": [
-     {
-      "a": "Medtronic",
-      "b": "Contego Medical (Raleigh, NC)",
-      "amt": "$380M",
-      "st": "Plus possible later payments",
-      "c": "pend"
-     }
-    ]
-   },
-   "detail": [
-    "Medtronic said it intends to buy Contego Medical for $380 million, plus possible payments later. Contego makes devices used to treat carotid artery disease, which can cause strokes.",
-    "Medtronic has held a minority stake since 2020 and got an option to buy in 2025. It says the deal will barely dent adjusted profit in fiscal 2027 and 2028, then help after that."
-   ],
-   "money": [
-    "Big medtech firms often buy partners they already know. Watch for similar deals in heart and stroke care.",
-    "Medtronic pays a dividend. Small add-on deals tend not to threaten payouts.",
-    "Health care stocks can steady a portfolio when tech is volatile."
-   ],
-   "risk": [
-    "The deal still needs normal closing approvals."
-   ],
-   "sources": [
-    {
-     "t": "Medtronic Contego Deal: A Smart, Proven $380m Bet",
-     "d": "globalbrandsmagazine.com",
-     "u": "https://www.globalbrandsmagazine.com/medtronic-contego-carotid-deal"
-    }
-   ]
-  },
-  {
-   "id": "vusion-pricer-offer-2026111711",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business",
-    "world"
-   ],
-   "date": "Tue Nov 17",
-   "ts": "2026-11-17T11:00:00Z",
-   "headline": "Vusion offers about SEK 980 million cash for Swedish retail tech firm Pricer",
-   "caption": "Pricer's board backs the SEK 6.00-a-share offer. The acceptance period should run from about Dec. 8 to Jan. 5.",
-   "visual": {
-    "type": "deals",
-    "title": "Retail tech takeover",
-    "items": [
-     {
-      "a": "Vusion",
-      "b": "Pricer",
-      "amt": "SEK 980M",
-      "st": "SEK 6.00 per share, board recommends",
-      "c": "pend"
-     }
-    ]
-   },
-   "detail": [
-    "Vusion made a cash offer of SEK 6.00 per share for all of Pricer, valuing it at about SEK 980.4 million. Both boards support the deal.",
-    "Shareholders can accept from around Dec. 8 to Jan. 5, and payment should start around Jan. 12, 2027."
-   ],
-   "money": [
-    "Retail tech consolidation can speed up store automation, which can affect in-store prices and jobs.",
-    "Takeover offers usually set a ceiling on a stock's near-term price. Holders weigh taking cash vs waiting.",
-    "International small caps can be thin and volatile. Size positions small."
-   ],
-   "risk": [
-    "The offer could change if terms or approvals shift."
-   ],
-   "sources": [
-    {
-     "t": "Vusion preps blockbuster Pricer acquisition",
-     "d": "retailtechinnovationhub.com",
-     "u": "https://retailtechinnovationhub.com/home/2026/11/17/vusion-preps-blockbuster-pricer-acquisition-as-2026-rtih-innovation-awards-winners-agree-terms"
-    }
-   ]
-  },
-  {
-   "id": "scotus-asylum-ban-case-2026111711",
-   "type": "news",
-   "cat": "immigration",
-   "tags": [
-    "immigration",
-    "politics"
-   ],
-   "date": "This week",
-   "ts": "2026-11-17T11:00:00Z",
-   "headline": "Supreme Court will decide if Trump's border asylum ban is legal; ruling due by June",
-   "caption": "Lower courts said the president went too far. The ban stays in place while the justices consider the case.",
-   "visual": {
-    "type": "timeline",
-    "title": "Asylum ban in court",
-    "items": [
-     {
-      "d": "JAN 2025",
-      "t": "Ban announced"
-     },
-     {
-      "d": "JUL 2025",
-      "t": "Judge rules against it"
-     },
-     {
-      "d": "APR 2026",
-      "t": "Appeals court agrees"
-     },
-     {
-      "d": "NOV 13",
-      "t": "Supreme Court takes the case",
-      "now": true
-     },
-     {
-      "d": "BY JUNE",
-      "t": "Ruling expected"
-     }
-    ]
-   },
-   "detail": [
-    "The Supreme Court agreed to decide whether Trump's limits on asylum at the southern border are legal. Lower courts ruled that the president exceeded his authority.",
-    "The policy bars migrants caught crossing illegally from seeking asylum. The administration says it reduced crossings; advocates say it denies people a fair hearing. Arguments come in the next few months, with a ruling expected by the end of June.",
-    "Separately, arguments on third-country deportations are set for Dec. 9."
-   ],
-   "money": [
-    "Employers that rely on immigrant labor may face ongoing uncertainty. Plan staffing with that in mind.",
-    "Families with pending cases should keep documents and legal help lined up; deadlines are shrinking.",
-    "Avoid paying 'notarios' or unlicensed helpers; use accredited legal aid."
-   ],
-   "risk": [
-    "The outcome could shift border policy for years."
-   ],
-   "sources": [
-    {
-     "t": "US Supreme Court to weigh asylum restrictions at southern border",
-     "d": "denvergazette.com",
-     "u": "https://www.denvergazette.com/2026/11/16/us-supreme-court-to-weigh-asylum-restrictions-at-southern-border/"
-    },
-    {
-     "t": "Here are the 3 major immigration cases U.S. Supreme Court will hear in coming months",
-     "d": "cbc.ca",
-     "u": "https://www.cbc.ca/news/world/us-scotus-major-immigration-cases-9.7423295"
-    }
-   ]
-  },
-  {
-   "id": "ice-san-mateo-six-2026111711",
-   "type": "news",
-   "cat": "immigration",
-   "tags": [
-    "immigration",
-    "california"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-17T11:00:00Z",
-   "headline": "ICE detains six people across San Mateo County in one morning",
-   "caption": "Arrests came in South San Francisco, Daly City, Millbrae and outside the Redwood City jail. ICE says it targets people in the US illegally.",
-   "visual": {
-    "type": "points",
-    "title": "Monday in San Mateo County",
-    "items": [
-     "2 near a bakery in South San Francisco",
-     "1 in Daly City, 1 in Millbrae",
-     "1 outside the Redwood City jail",
-     "1 more near Airport Blvd.",
-     "Five around 10 a.m., one at 11:18 a.m."
-    ]
-   },
-   "detail": [
-    "Immigration agents detained six people in San Mateo County on Monday morning, according to San Mateo County Rapid Response. Five were around 10 a.m. and a sixth was reported at 11:18 a.m.",
-    "The group said ICE appeared to target specific people. ICE San Francisco said it routinely works across Northern California and acts under federal immigration law."
-   ],
-   "money": [
-    "Local businesses can lose workers and customers during enforcement waves. Have a backup staffing plan.",
-    "Know your rights resources are free from county and nonprofit groups. Avoid paid scams.",
-    "Families may want a plan for bills and child care if a loved one is detained."
-   ],
-   "risk": [
-    "Reports from rapid-response groups may be updated as facts come in."
-   ],
-   "sources": [
-    {
-     "t": "ICE arrests 6 in San Mateo County",
-     "d": "kron4.com",
-     "u": "https://www.kron4.com/news/bay-area-ice-raids/ice-arrests-6-in-san-mateo-county/amp/"
-    }
-   ]
-  },
-  {
-   "id": "edu-comparable-sales-2026111711",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "markets"
-   ],
-   "date": "Explainer",
-   "ts": "2026-11-17T11:00:00Z",
-   "headline": "Comparable sales: the retail number Wall Street watches most",
-   "caption": "Home Depot's sales rose 4.9%, but 'comps' rose just 2.2%. Here's why that gap matters.",
-   "scenes": [
-    {
-     "k": "Today's news",
-     "t": "Home Depot sales up 4.9%",
-     "s": "But comparable sales rose only 2.2%."
-    },
-    {
-     "k": "What comps are",
-     "t": "Sales at stores open a year+",
-     "s": "It strips out growth from new stores and deals."
-    },
-    {
-     "k": "Two parts",
-     "t": "Trips times ticket",
-     "viz": {
-      "type": "split",
-      "items": [
-       [
-        "Transactions",
-        "-0.5%"
-       ],
-       [
-        "Avg. ticket",
-        "+3.0%"
-       ],
-       [
-        "Comparable sales",
-        "+2.2%",
-        "wide"
-       ]
-      ]
-     },
-     "say": "Transactions fell half a percent, the average ticket rose 3 percent, and comparable sales rose 2.2 percent."
-    },
-    {
-     "k": "Read it right",
-     "t": "Higher tickets may mean higher prices",
-     "s": "Fewer trips can hint shoppers are pulling back."
-    },
-    {
-     "k": "Why it matters",
-     "t": "Comps show real demand",
-     "s": "Total sales can grow just by opening or buying stores."
-    },
-    {
-     "k": "Takeaway",
-     "t": "Check comps, not just sales",
-     "s": "It's a clearer sign of a retailer's health."
-    }
-   ]
-  },
-  {
-   "id": "edu-tax-credit-vs-deduction-2026111711",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "taxes"
-   ],
-   "date": "Explainer",
-   "ts": "2026-11-17T11:00:00Z",
-   "headline": "Tax credit vs. deduction: why a credit is worth more",
-   "caption": "New York's new school donation credit is dollar-for-dollar. Here's how a credit beats a deduction.",
-   "scenes": [
-    {
-     "k": "Today's news",
-     "t": "Give $1,700, get a $1,700 credit",
-     "s": "New York opened the new federal scholarship credit."
-    },
-    {
-     "k": "A deduction",
-     "t": "Lowers the income you're taxed on",
-     "s": "Its value depends on your tax bracket."
-    },
-    {
-     "k": "A credit",
-     "t": "Cuts your tax bill directly",
-     "s": "Each dollar of credit is a dollar less tax."
-    },
-    {
-     "k": "Same $1,000",
-     "t": "Very different savings",
-     "viz": {
-      "type": "split",
-      "items": [
-       [
-        "Deduction, 22% bracket",
-        "$220 saved"
-       ],
-       [
-        "Credit",
-        "$1,000 saved"
-       ],
-       [
-        "Credit wins by",
-        "$780",
-        "wide"
-       ]
-      ]
-     },
-     "say": "A 1,000 dollar deduction saves 220 dollars in the 22 percent bracket. A 1,000 dollar credit saves the full 1,000."
-    },
-    {
-     "k": "The catch",
-     "t": "Rules and limits apply",
-     "s": "Credits often have caps, and some aren't refundable."
-    },
-    {
-     "k": "Takeaway",
-     "t": "Look for credits first",
-     "s": "They usually save you the most per dollar."
-    }
-   ]
-  },
-  {
-   "id": "futures-slip-vix-24-2026111710",
-   "type": "news",
-   "cat": "markets",
-   "tags": [
-    "markets",
-    "ai"
-   ],
-   "date": "Tue Nov 17",
-   "ts": "2026-11-17T10:00:00Z",
-   "headline": "New: Futures turn lower before Nvidia; VIX jumps 5.5% to about 24",
-   "caption": "Stock futures slipped about half a percent early Tuesday after an earlier bounce faded. Nvidia reports after the bell, and options price in a move of roughly 7.8%.",
-   "visual": {
-    "type": "board",
-    "title": "Early Tuesday snapshot",
-    "rows": [
-     {
-      "k": "S&P 500 futures",
-      "v": "7,397.50",
-      "ch": -0.56,
-      "tone": "loss"
-     },
-     {
-      "k": "Nasdaq-100 futures",
-      "v": "27,109.50",
-      "ch": -0.64,
-      "tone": "loss"
-     },
-     {
-      "k": "Russell 2000 futures",
-      "v": "2,729.90",
-      "ch": -0.78,
-      "tone": "loss"
-     },
-     {
-      "k": "VIX fear gauge",
-      "v": "24.17",
-      "ch": 5.5,
-      "tone": "acc"
-     },
-     {
-      "k": "10-year yield",
-      "s": "down 0.03",
-      "v": "5.12%"
-     },
-     {
-      "k": "Gold",
-      "v": "$3,865",
-      "ch": 0.32,
-      "tone": "gain"
-     }
-    ],
-    "foot": "Snapshot via Yahoo Finance; levels move all morning"
-   },
-   "detail": [
-    "Futures for the S&P 500, Dow and Nasdaq were all down about half a percent in early trading, after rising earlier in the night. Small caps were weaker still. The VIX, which tracks expected swings in the S&P 500, rose to about 24.",
-    "Disney reports before the open, and Nvidia reports after the close. It is Nvidia's first report with Colette Kress as interim CEO. The stock closed Monday at $156.14, down about 12.6% in five days. Options imply a move of about 7.8% either way.",
-    "October retail sales, industrial production and import prices also come out today. Economists expect retail sales to rise just 0.2%."
-   ],
-   "money": [
-    "Big earnings days can swing prices. If you plan to buy, consider spreading purchases out instead of going all in.",
-    "A VIX in the mid-20s means option prices are high. Selling covered calls pays more now, but caps your upside.",
-    "Bond yields above 5% mean cash and short Treasuries still pay well while stocks are choppy."
-   ],
-   "risk": [
-    "A weak Nvidia report or forecast could drag the whole tech sector lower.",
-    "Hot data could add to fears of bigger Fed hikes."
-   ],
-   "sources": [
-    {
-     "t": "Stock market today: futures slip in countdown to Nvidia earnings",
-     "d": "finance.yahoo.com",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-17-dow-sp-500-nasdaq-nvidia-earnings-091546152.html"
-    },
-    {
-     "t": "Asia shares slide on tech weakness ahead of Nvidia earnings",
-     "d": "marketscreener.com",
-     "u": "https://www.marketscreener.com/news/asia-shares-stumble-on-tech-weakness-ahead-of-nvidia-earnings-ce785edfdf8df626"
-    }
-   ]
-  },
-  {
-   "id": "anthropic-ipo-14t-target-2026111710",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "markets"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-17T10:00:00Z",
-   "headline": "Anthropic IPO: target value about $1.4 trillion; raise could top $90 billion",
-   "caption": "Altimeter's Brad Gerstner says the offering is 10 to 20 times oversubscribed. Final pricing is expected Wednesday, with Nasdaq trading Thursday.",
-   "visual": {
-    "type": "board",
-    "title": "Anthropic IPO by the numbers",
-    "rows": [
-     {
-      "k": "Target valuation",
-      "s": "was floated at $2T months ago",
-      "v": "$1.4T",
-      "tone": "acc"
-     },
-     {
-      "k": "Max raise",
-      "s": "IPO + private placement",
-      "v": "$90.4B"
-     },
-     {
-      "k": "SpaceX base deal",
-      "s": "for comparison",
-      "v": "$75B"
-     },
-     {
-      "k": "Demand (Gerstner)",
-      "v": "10-20x",
-      "tone": "gain"
-     },
-     {
-      "k": "Pricing / trading",
-      "v": "Wed / Thu"
-     }
-    ],
-    "foot": "Figures per Bloomberg and Altimeter via Yahoo Finance"
-   },
-   "detail": [
-    "New details are out on Anthropic's stock market debut. The AI company is aiming for a value of about $1.4 trillion. That is below the $2 trillion talked about months ago, but above the $1.1 trillion some analysts suggested during the recent tech selloff.",
-    "Bloomberg reports Anthropic could raise up to $90.4 billion through the IPO and a separate private placement. That would beat SpaceX's $75 billion base deal and be the largest listing ever.",
-    "Altimeter CEO Brad Gerstner says demand is 10 to 20 times the shares on offer. Earlier reports said about six times. Final pricing is expected Wednesday, and the stock is expected to trade on Nasdaq on Thursday."
-   ],
-   "money": [
-    "Most everyday investors won't get IPO shares at the offer price. Buying on day one often means paying a big pop.",
-    "Index funds may add Anthropic later, so you could get exposure without chasing the first-day price.",
-    "Set a price limit if you do buy; hot IPOs can swing wildly in the first hours."
-   ],
-   "risk": [
-    "Huge first-day demand can fade fast, especially in a shaky tech market.",
-    "Oversubscription numbers come from people with a stake in the deal."
-   ],
-   "sources": [
-    {
-     "t": "Altimeter Capital says Anthropic IPO '10-20 times oversubscribed,' bets $5B",
-     "d": "finance.yahoo.com",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/altimeter-capital-says-anthropic-ipo-065905955.html"
-    },
-    {
-     "t": "Anthropic's IPO is said to be about six times oversubscribed",
-     "d": "bloomberg.com",
-     "u": "https://www.bloomberg.com/news/articles/2026-11-12/anthropic-s-ipo-is-said-to-be-about-six-times-oversubscribed"
-    }
-   ]
-  },
-  {
-   "id": "grayscale-btc-entry-2026111710",
-   "type": "news",
-   "cat": "crypto",
-   "tags": [
-    "crypto",
-    "markets"
-   ],
-   "date": "Tue Nov 17",
-   "ts": "2026-11-17T10:00:00Z",
-   "headline": "Grayscale calls bitcoin near $64,000 a 'compelling entry point' after a 21% monthly drop",
-   "caption": "Grayscale's research head says crypto's fundamentals are still strong. He blames stablecoin outflows, AI-stock selling and technical signals for the slide.",
-   "visual": {
-    "type": "stat",
-    "title": "Bitcoin's slide",
-    "num": "-20.8%",
-    "tone": "loss",
-    "label": "Bitcoin's drop over the past 30 days, to about $64,000.",
-    "facts": [
-     [
-      "7-day change",
-      "-13%",
-      "Bitcoin"
-     ],
-     [
-      "Top 30 coins",
-      "-13.8%",
-      "GMCI 30, 7 days"
-     ],
-     [
-      "Key level lost",
-      "Nov. 12",
-      "200-day average"
-     ]
-    ]
-   },
-   "detail": [
-    "Grayscale's Zach Pandl says today's prices offer good entry points for medium- and long-term investors. Bitcoin is down about 13% in a week and nearly 21% in a month, per The Block.",
-    "He points to three causes. Money left stablecoins for regular cash after a big Binance security incident in late October. Growth investors sold crypto along with AI stocks like Nvidia. And bitcoin fell below its 200-day average on Nov. 12, which triggers selling by trend-following funds.",
-    "He said ETF outflows were not extreme. He named high inflation, possible Fed hikes and wars as risks."
-   ],
-   "money": [
-    "If you buy crypto, small regular buys can lower your average cost in a falling market.",
-    "Keep crypto to a slice you can afford to see drop by half.",
-    "Losses in a taxable account can be sold to offset gains; check the rules with a tax pro."
-   ],
-   "risk": [
-    "Grayscale sells crypto funds, so it benefits when people buy.",
-    "Fed hikes could keep pressure on risky assets."
-   ],
-   "sources": [
-    {
-     "t": "Grayscale says crypto pullback offers 'compelling entry points' as bitcoin falls to $64,000",
-     "d": "theblock.co",
-     "u": "https://theblock.co/news/markets/2026-11-17-grayscale-compelling-entry-points-bitcoin-442083"
-    }
-   ]
-  },
-  {
-   "id": "quebecor-telus-31b-2026111710",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business",
-    "markets"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-17T10:00:00Z",
-   "headline": "Quebecor makes a $31 billion cash-and-stock bid for Canada's Telus",
-   "caption": "Quebecor values its offer at $19.45 per Telus share, well above Friday's $12.14 close. Telus says the deal raises serious concerns.",
-   "visual": {
-    "type": "deals",
-    "title": "Canadian telecom takeover fight",
-    "items": [
-     {
-      "a": "Quebecor",
-      "b": "Telus",
-      "amt": "$31B",
-      "st": "Cash + stock, unsolicited",
-      "c": "pend"
-     },
-     {
-      "a": "Per share",
-      "b": "$6.35 cash + 0.17 QBR.B",
-      "amt": "$19.45",
-      "st": "vs. $12.14 close",
-      "c": "ok"
-     },
-     {
-      "a": "Telus board",
-      "b": "Special committee",
-      "amt": "Review",
-      "st": "Also exploring options",
-      "c": "bad"
-     }
-    ]
-   },
-   "detail": [
-    "Quebecor proposed combining with Telus in a deal valued at about $31 billion. Each Telus share would get $6.35 in cash plus 0.17 of a Quebecor class B share.",
-    "Quebecor says that adds up to $19.45 per share, based on Friday's prices. Telus closed at $12.14 in Toronto. Quebecor first pitched the idea in June and sent an improved offer on Nov. 9.",
-    "Telus formed a special committee of independent directors. Its chair said Quebecor has not explained how regulators could approve the deal. Telus says it will keep talking."
-   ],
-   "money": [
-    "A bid far above the market price can lift the target's stock; check if you hold Telus through a fund.",
-    "Fewer big phone companies can mean less price competition for customers.",
-    "Deal stocks often trade below the offer until approval; that gap is the market's bet on risk."
-   ],
-   "risk": [
-    "Regulators may block a merger of two of Canada's big carriers.",
-    "Part of the offer is in stock, so its value moves with Quebecor's price."
-   ],
-   "sources": [
-    {
-     "t": "Telus sees 'serious concerns' with Quebecor's $31B takeover bid",
-     "d": "ca.finance.yahoo.com",
-     "u": "https://ca.finance.yahoo.com/news/cp-newsalert-quebecor-makes-offer-131005288.html"
-    }
-   ]
-  },
-  {
-   "id": "home-sales-2010-low-hd-2026111710",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business",
-    "markets"
-   ],
-   "date": "This week",
-   "ts": "2026-11-17T10:00:00Z",
-   "headline": "Home sales sink to a 16-year low as Home Depot reports today and Lowe's tomorrow",
-   "caption": "Existing-home sales fell to a 3.75 million yearly pace in October, the lowest since 2010. Both home improvement chains trade about 20% below their highs.",
-   "visual": {
-    "type": "board",
-    "title": "Housing and home improvement",
-    "rows": [
-     {
-      "k": "Existing-home sales",
-      "s": "October, annual pace",
-      "v": "3.75M",
-      "ch": -8.8,
-      "tone": "loss"
-     },
-     {
-      "k": "30-year mortgage",
-      "v": "7.11%"
-     },
-     {
-      "k": "Home Depot guidance",
-      "s": "full-year same-store sales",
-      "v": "~+1%"
-     },
-     {
-      "k": "Lowe's guidance",
-      "s": "full-year same-store sales",
-      "v": "~flat"
-     },
-     {
-      "k": "HD / LOW dividend yield",
-      "v": "2.66% / 2.15%"
-     }
-    ],
-    "foot": "Prices as of Nov. 13, per The Motley Fool"
-   },
-   "detail": [
-    "Existing-home sales fell 8.8% from a year earlier in October to a 3.75 million annual pace. That is the lowest since August 2010. The average 30-year mortgage rate is 7.11%.",
-    "Fewer home sales usually means fewer big renovation projects. Home Depot reports third-quarter results today, and Lowe's reports Wednesday. Last quarter, same-store sales rose 1.7% at Home Depot and 0.2% at Lowe's.",
-    "Investors will watch whether sales keep pace with guidance and whether store traffic is falling."
-   ],
-   "money": [
-    "A slow housing market can give buyers more room to negotiate on price and closing costs.",
-    "If you plan a remodel, ask contractors about slow-season pricing; demand is soft.",
-    "Dividend investors: both stocks pay over 2% and are about 20% off their highs."
-   ],
-   "risk": [
-    "Higher rates from Fed hikes could push mortgages and home sales lower still.",
-    "Weak guidance could hit both stocks."
-   ],
-   "sources": [
-    {
-     "t": "Home Sales Just Sank to a 16-Year Low. Here's What This Means for Home Depot and Lowe's Investors.",
-     "d": "fool.com",
-     "u": "https://www.fool.com/investing/2026/11/15/home-sales-16-year-low-what-this-means-home-depot-lowes-investors/"
     }
    ]
   }
