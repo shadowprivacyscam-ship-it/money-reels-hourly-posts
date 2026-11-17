@@ -1,6 +1,686 @@
 {
- "updated": "2026-11-17T21:00:00Z",
+ "updated": "2026-11-17T22:00:00Z",
  "items": [
+  {
+   "id": "nvidia-q3-beat-2026111722",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "markets"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T22:00:00Z",
+   "headline": "Nvidia beats: $115.8B in sales, up 103%, and guides to $130B next quarter",
+   "caption": "Nvidia topped forecasts by about $7 billion in its first report without Jensen Huang. Shares rose about 2% after hours.",
+   "visual": {
+    "type": "vs",
+    "title": "Nvidia Q3 revenue",
+    "a": [
+     "Expected",
+     "$108.8B",
+     0.94,
+     "acc"
+    ],
+    "b": [
+     "Actual",
+     "$115.8B",
+     1,
+     "gain"
+    ],
+    "foot": "Q4 guide: $130B ±3% vs. about $125B expected"
+   },
+   "detail": [
+    "Nvidia said sales for the quarter that ended Oct. 25 hit $115.8 billion. That is up 103% from a year ago and 20% from last quarter. Data center sales were $107.6 billion. Adjusted profit was $2.68 a share, versus $2.47 expected.",
+    "For the current quarter, Nvidia expects about $130 billion, give or take 3%. Analysts expected about $125 billion. The forecast assumes no data center chip sales to China. Gross margin is guided to 71% to 72%, down from 74.8%.",
+    "Interim CEO Colette Kress led the report. Board chairman Harvey Jones said the board does not plan to bring back Jensen Huang. Nvidia returned $28.1 billion to shareholders in the quarter and still has $227.3 billion left in buyback room."
+   ],
+   "money": [
+    "Nvidia is a top weight in most S&P 500 and Nasdaq index funds, so its results move many retirement accounts.",
+    "A forecast that beats by about $5 billion often matters more to the stock than last quarter's beat.",
+    "The $0.25 dividend goes to holders of record on Dec. 2 and is paid Dec. 23."
+   ],
+   "risk": [
+    "The margin forecast falls about 3 points, and China sales are still excluded.",
+    "Shares had fallen sharply this week, so the bounce could fade."
+   ],
+   "sources": [
+    {
+     "t": "NVIDIA Q3 FY2027 results (8-K)",
+     "d": "sec.gov",
+     "u": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000088/q3fy27pr.htm"
+    },
+    {
+     "t": "Nvidia tops estimates, issues strong guidance",
+     "d": "coindesk.com",
+     "u": "https://www.coindesk.com/markets/2026/11/17/nvidia-tops-estimates-issues-strong-guidance-adds-usd150-billion-to-buyback-authorization"
+    },
+    {
+     "t": "Live updates: Bitcoin and stocks continue slump",
+     "d": "coindesk.com",
+     "u": "https://www.coindesk.com/business/2026/11/17/live-updates-bitcoin-holds-near-usd64-000-as-tech-slides-ahead-of-nvidia-earnings"
+    }
+   ]
+  },
+  {
+   "id": "stocks-close-dow-955-2026111722",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets",
+    "ai"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T22:00:00Z",
+   "headline": "Final: Dow sheds 955 points as software stocks sink; Salesforce ends down 9.6%",
+   "caption": "The Dow fell about 1.85% and the S&P 500 about 1% before Nvidia's report. Big software names led the losses.",
+   "visual": {
+    "type": "board",
+    "title": "Tuesday close",
+    "rows": [
+     {
+      "k": "Dow",
+      "s": "-955 pts",
+      "v": "-1.85%",
+      "ch": -1.85,
+      "tone": "loss"
+     },
+     {
+      "k": "S&P 500",
+      "v": "-1.05%",
+      "ch": -1.05,
+      "tone": "loss"
+     },
+     {
+      "k": "Nasdaq",
+      "v": "-0.91%",
+      "ch": -0.91,
+      "tone": "loss"
+     },
+     {
+      "k": "Russell 2000",
+      "v": "-1.26%",
+      "ch": -1.26,
+      "tone": "loss"
+     },
+     {
+      "k": "BILL Holdings",
+      "s": "top gainer",
+      "v": "+13.2%",
+      "ch": 13.2,
+      "tone": "gain"
+     }
+    ],
+    "foot": "Source: 24/7 Wall St. closing data"
+   },
+   "detail": [
+    "Stocks closed sharply lower on Tuesday. The Dow lost 955 points, or about 1.85%. The S&P 500 fell about 1.05% and the Nasdaq about 0.91%. Small caps in the Russell 2000 fell about 1.3%.",
+    "Enterprise software took the worst hit. Salesforce fell 9.6%, Intuit 7.1%, ServiceNow 6.8% and C3.ai 6.9%. Quantum stock IonQ dropped 6.7%.",
+    "A few names rose. BILL Holdings jumped 13.2%, Snap gained 7.5%, Arm rose 4% and Coherent added 3.1%."
+   ],
+   "money": [
+    "Big down days are a test of your plan, not a signal to sell everything.",
+    "If you buy on a schedule, a lower price means each dollar buys more shares.",
+    "Check whether one sector, like software, makes up too much of your portfolio."
+   ],
+   "risk": [
+    "Selling can continue for days when worries about AI and rates linger."
+   ],
+   "sources": [
+    {
+     "t": "S&P 500 Closes Down 1% as the Dow Sheds 955 Points",
+     "d": "247wallst.com",
+     "u": "https://247wallst.com/cards/the-dow-s-955-point-drop-led-the-selling-a-sharper-hit-than-gspc-market-bell-01m7nn5ym7r5nqbd4d83yt9zt1"
+    }
+   ]
+  },
+  {
+   "id": "after-hours-coreweave-aaoi-2026111722",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets",
+    "ai"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T22:00:00Z",
+   "headline": "After hours: CoreWeave up 5% on Nvidia; AAOI and SELLAS fall on stock sales",
+   "caption": "AI cloud stocks rose with Nvidia's results. Two big gainers from the day slid after announcing new share sales.",
+   "visual": {
+    "type": "stat",
+    "title": "After-hours movers",
+    "num": "+5%",
+    "tone": "gain",
+    "label": "CoreWeave led AI cloud names higher after Nvidia's beat.",
+    "rows": [
+     [
+      "CoreWeave",
+      5
+     ],
+     [
+      "Nebius",
+      4
+     ],
+     [
+      "Nvidia",
+      2
+     ],
+     [
+      "Applied Opto",
+      -8
+     ],
+     [
+      "SELLAS",
+      -10
+     ]
+    ]
+   },
+   "detail": [
+    "CoreWeave rose about 5% and Nebius about 4% in late trading. Both rent out Nvidia chips, so a strong Nvidia forecast lifted them.",
+    "Applied Optoelectronics fell 5% to 8% after it set up a plan to sell up to $550 million in new stock. SELLAS Life Sciences fell about 10% after a $150 million stock offering. Its shares had surged about 160% during the day on cancer vaccine trial results."
+   ],
+   "money": [
+    "New stock sales can dilute existing owners, so check for offerings after a big run-up.",
+    "Companies often raise cash right after a stock jumps, because they get more money per share.",
+    "After-hours prices can change a lot by the next morning's open."
+   ],
+   "risk": [
+    "After-hours trading is thin, so moves can be exaggerated."
+   ],
+   "sources": [
+    {
+     "t": "After-Hours Movers: NVDA, CRWV, NBIS, AAOI, SLS",
+     "d": "investing.com",
+     "u": "https://www.investing.com/news/stock-market-news/afterhours-movers-nvda-crwv-nbis-aaoi-sls-432SI-5034129"
+    }
+   ]
+  },
+  {
+   "id": "blackstone-aws-datacenters-2026111722",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business",
+    "ai"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T22:00:00Z",
+   "headline": "Blackstone's new data center REIT buys 75% of $5B in Amazon data centers",
+   "caption": "BXDC is buying a stake in 13 AWS buildings in Indiana and Mississippi. Amazon will lease them back for at least 12 years.",
+   "visual": {
+    "type": "deals",
+    "title": "BXDC deal with AWS",
+    "items": [
+     {
+      "a": "Blackstone BXDC",
+      "b": "75% of 13 AWS data centers",
+      "amt": "~$5B",
+      "st": "Closing expected Q4 2026",
+      "c": "pend"
+     },
+     {
+      "a": "AWS",
+      "b": "keeps 25%, leases buildings",
+      "amt": "12 yrs",
+      "st": "Options up to 32 years",
+      "c": "ok"
+     }
+    ]
+   },
+   "detail": [
+    "Blackstone Digital Infrastructure Trust, a public REIT run by Blackstone, agreed to buy 75% of two joint ventures holding 13 new Amazon data center buildings. The buildings are valued at about $5 billion and have 647 megawatts of capacity.",
+    "Nine buildings are in northern Indiana and four are in Mississippi. AWS keeps 25% and leases the buildings for an initial 12 years, with options up to 32 years. The deal starts at a 7% yield, and debt covers half the price at closing."
+   ],
+   "money": [
+    "Data center REITs pay rent-based income, a way to own part of the AI build-out besides chip stocks.",
+    "A long lease to a big tenant like Amazon can make income steadier.",
+    "Compare a REIT's yield with Treasury yields near 5% before buying."
+   ],
+   "risk": [
+    "REIT prices can fall when interest rates rise.",
+    "Heavy reliance on one tenant adds risk."
+   ],
+   "sources": [
+    {
+     "t": "Blackstone's BXDC Agrees to Buy Controlling Stake in Amazon Data Centers for $5B",
+     "d": "rebusinessonline.com",
+     "u": "https://rebusinessonline.com/blackstones-bxdc-agrees-to-buy-controlling-stake-in-amazon-data-centers-for-5b/"
+    }
+   ]
+  },
+  {
+   "id": "retail-earnings-week-2026111722",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business",
+    "markets"
+   ],
+   "date": "This week",
+   "ts": "2026-11-17T22:00:00Z",
+   "headline": "Retail earnings week: Target reports Wednesday, Walmart and Ross on Thursday",
+   "caption": "After Home Depot, the big chains report this week. Their own forecasts include tariff refunds, which can blur comparisons.",
+   "visual": {
+    "type": "timeline",
+    "title": "Retail earnings",
+    "items": [
+     {
+      "d": "NOV 17",
+      "t": "Home Depot",
+      "s": "Reported"
+     },
+     {
+      "d": "NOV 18",
+      "t": "Target, Lowe's",
+      "s": "Lowe's date tentative",
+      "now": true
+     },
+     {
+      "d": "NOV 19",
+      "t": "Walmart, Ross",
+      "s": "Walmart 8 a.m. ET; Ross after close"
+     },
+     {
+      "d": "NOV 24",
+      "t": "Best Buy"
+     }
+    ]
+   },
+   "detail": [
+    "Target reports Wednesday morning, and Lowe's is expected the same day. Walmart reports Thursday at 8 a.m. Eastern, and Ross Stores reports after the close Thursday. Best Buy follows on Nov. 24.",
+    "Company forecasts set the bar. Walmart guided to adjusted profit of $0.62 to $0.64 a share. Ross expects comparable sales up 6% to 7%. Target's full-year forecast of $9.90 to $10.90 a share includes about $1.65 from tariff refunds."
+   ],
+   "money": [
+    "These reports hint at holiday discounts and how shoppers are spending.",
+    "Retail stocks can swing 5% or more on earnings day.",
+    "Watch comments on prices; they can signal where holiday deals will be."
+   ],
+   "risk": [
+    "Tariff refunds can make results look better than core sales.",
+    "Dates can shift; confirm on each company's site."
+   ],
+   "sources": [
+    {
+     "t": "Retail earnings preview: Walmart, Home Depot, Target",
+     "d": "ifyouspent.com",
+     "u": "https://news.ifyouspent.com/en/news/retail-earnings-preview-walmart-home-depot-target-november-2026"
+    }
+   ]
+  },
+  {
+   "id": "wyoming-supplemental-budget-2026111722",
+   "type": "news",
+   "cat": "states",
+   "tags": [
+    "states",
+    "taxes"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T22:00:00Z",
+   "headline": "Wyoming governor asks for $527M more, including property tax relief through mid-2028",
+   "caption": "Gov. Gordon's supplemental budget extends property tax relief programs another year. It also adds $100 million to permanent savings.",
+   "visual": {
+    "type": "board",
+    "title": "Wyoming supplemental budget",
+    "rows": [
+     {
+      "k": "Total request",
+      "v": "$527M",
+      "tone": "acc"
+     },
+     {
+      "k": "Permanent savings",
+      "v": "$100M"
+     },
+     {
+      "k": "University of Wyoming",
+      "v": "$40.4M"
+     },
+     {
+      "k": "Schools",
+      "v": "$31.6M"
+     },
+     {
+      "k": "Property tax relief",
+      "s": "through June 2028",
+      "v": "$16.6M",
+      "tone": "gain"
+     }
+    ]
+   },
+   "detail": [
+    "Wyoming Gov. Mark Gordon unveiled a $527 million supplemental budget on Monday. It includes $16.6 million to keep property tax relief programs running through June 2028. The current budget pays for them only through June 2027.",
+    "The plan also puts $100 million into permanent savings. It adds $40.4 million for the University of Wyoming, $31.6 million for schools and $30 million for wildlife and wildfire work. Lawmakers must approve it."
+   ],
+   "money": [
+    "Wyoming homeowners who use the relief programs would keep getting help for another year if lawmakers agree.",
+    "Check your county's deadlines for property tax relief applications.",
+    "State budget fights can change which relief survives, so watch the session."
+   ],
+   "risk": [
+    "It is a proposal; the legislature can change or cut it."
+   ],
+   "sources": [
+    {
+     "t": "Gordon would extend property tax relief with new supplemental budget",
+     "d": "wyofile.com",
+     "u": "https://wyofile.com/gordon-would-extend-property-tax-relief-with-new-supplemental-budget"
+    }
+   ]
+  },
+  {
+   "id": "dems-aca-subsidies-medicaid-2026111722",
+   "type": "news",
+   "cat": "benefits",
+   "tags": [
+    "benefits",
+    "politics"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T22:00:00Z",
+   "headline": "New Democratic Congress expected to push to restore ACA subsidies and undo Medicaid cuts",
+   "caption": "Democrats take both chambers in January 2027. They are expected to target the expired ACA tax credits and nearly $1 trillion in Medicaid cuts.",
+   "visual": {
+    "type": "points",
+    "title": "What to watch in 2027",
+    "items": [
+     "New Congress seated in January 2027",
+     "Goal: bring back enhanced ACA tax credits",
+     "Goal: reverse ~$1T in 2025 Medicaid cuts",
+     "Cost could reach hundreds of billions",
+     "Any bill can still face a veto"
+    ]
+   },
+   "detail": [
+    "After winning the midterms, Democrats will control the House and Senate in January for the first time in four years. Health policy watchers expect them to try to restore the bigger ACA tax credits that expired after 2025.",
+    "They are also expected to try to reverse nearly $1 trillion in Medicaid cuts passed in July 2025. One AEI fellow estimates the two changes could cost hundreds of billions of dollars, maybe $1 trillion. Any bill would still need the president's signature."
+   ],
+   "money": [
+    "If you buy ACA coverage, pick a 2027 plan now based on today's prices, not hoped-for changes.",
+    "Report income changes to the marketplace so your credit stays accurate.",
+    "If help passes later, there may be a special chance to update your plan."
+   ],
+   "risk": [
+    "Nothing is law yet, and a veto could block changes."
+   ],
+   "sources": [
+    {
+     "t": "Healthcare in America might change after Democratic midterm victory",
+     "d": "deseret.com",
+     "u": "https://deseret.com/u-s-world/2026/11/17/healthcare-after-midterm-elections"
+    },
+    {
+     "t": "Holland & Knight Health Dose: November 17, 2026",
+     "d": "hklaw.com",
+     "u": "https://www.hklaw.com/en/insights/publications/2026/11/holland-knight-health-dose-november-17-2026"
+    }
+   ]
+  },
+  {
+   "id": "fda-nominee-vote-hh-moratorium-2026111722",
+   "type": "news",
+   "cat": "politics",
+   "tags": [
+    "politics",
+    "benefits"
+   ],
+   "date": "Wed Nov 18",
+   "ts": "2026-11-17T22:00:00Z",
+   "headline": "Senate panel votes Wednesday on FDA nominee Heidi Overton; chair Cassidy undecided",
+   "caption": "The HELP Committee takes up the FDA pick on Nov. 18. Separately, CMS extended a Medicare home health enrollment freeze for new agencies.",
+   "visual": {
+    "type": "timeline",
+    "title": "Health policy dates",
+    "items": [
+     {
+      "d": "NOV 12",
+      "t": "Home health freeze extended",
+      "s": "6 months, new agencies only"
+     },
+     {
+      "d": "NOV 18",
+      "t": "HELP vote on Overton",
+      "now": true
+     },
+     {
+      "d": "DEC 11",
+      "t": "Federal funding runs out"
+     }
+    ]
+   },
+   "detail": [
+    "The Senate HELP Committee plans to vote on Dr. Heidi Overton's nomination to lead the FDA on Wednesday. Committee Chair Bill Cassidy has said he is undecided.",
+    "CMS also extended its moratorium on new Medicare home health agencies for six months. It now covers only agencies enrolling for the first time. The freeze on current agencies adding branches ended Nov. 12."
+   ],
+   "money": [
+    "The FDA chief shapes how fast new drugs and generics reach the market, which affects drug prices.",
+    "Health stocks can move on FDA leadership news.",
+    "If you use home health care, existing agencies can now open new branches."
+   ],
+   "risk": [
+    "Committee votes can be delayed."
+   ],
+   "sources": [
+    {
+     "t": "Holland & Knight Health Dose: November 17, 2026",
+     "d": "hklaw.com",
+     "u": "https://www.hklaw.com/en/insights/publications/2026/11/holland-knight-health-dose-november-17-2026"
+    }
+   ]
+  },
+  {
+   "id": "anthropic-amazon-google-stake-2026111722",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "markets"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T22:00:00Z",
+   "headline": "Amazon and Google set to own about 28% of Anthropic after its IPO",
+   "caption": "Bloomberg reports the two tech giants will hold roughly 28% after the listing. Their stakes could be worth hundreds of billions.",
+   "visual": {
+    "type": "board",
+    "title": "Big Tech's Anthropic bets",
+    "rows": [
+     {
+      "k": "Amazon invested",
+      "v": "$18B"
+     },
+     {
+      "k": "Amazon stake value",
+      "s": "at up to $1.4T valuation",
+      "v": "$250B+",
+      "tone": "gain"
+     },
+     {
+      "k": "Google invested",
+      "v": "$33B"
+     },
+     {
+      "k": "Google stake value",
+      "s": "at up to $1.4T valuation",
+      "v": "~$140B",
+      "tone": "gain"
+     },
+     {
+      "k": "Combined ownership",
+      "v": "~28%",
+      "tone": "acc"
+     }
+    ]
+   },
+   "detail": [
+    "Amazon and Google will own about 28% of Anthropic after its IPO, Bloomberg reported Tuesday.",
+    "Amazon has invested $18 billion, starting with $1.25 billion in 2023. Google has put in $33 billion. At a value of up to $1.4 trillion, Amazon's stake could be worth over $250 billion and Google's about $140 billion. Google and Microsoft also plan to buy more shares alongside the IPO."
+   ],
+   "money": [
+    "Owning Amazon or Alphabet already gives you indirect exposure to Anthropic.",
+    "Big paper gains on these stakes can lift the two companies' reported profits.",
+    "New IPOs are often volatile, so many investors wait for prices to settle."
+   ],
+   "risk": [
+    "Values depend on the final IPO price and how the stock trades."
+   ],
+   "sources": [
+    {
+     "t": "Amazon, Google to Have About 28% of Anthropic Stock After IPO",
+     "d": "bloomberg.com",
+     "u": "https://bloomberg.com/news/articles/2026-11-17/amazon-google-to-have-about-28-of-anthropic-stock-after-ipo"
+    },
+    {
+     "t": "Tech's biggest companies will see a giant payday from Anthropic's IPO",
+     "d": "khaleejtimes.com",
+     "u": "https://www.khaleejtimes.com/business/anthropic-ipo-winners"
+    }
+   ]
+  },
+  {
+   "id": "edu-beat-and-raise-2026111722",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "markets"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-17T22:00:00Z",
+   "headline": "Beat and raise: why the forecast matters more than the quarter",
+   "caption": "Nvidia beat by $7 billion, but investors cared most about next quarter. Here's why guidance moves stocks.",
+   "scenes": [
+    {
+     "k": "THE NEWS",
+     "t": "Nvidia beat and raised",
+     "s": "Sales of $115.8B topped forecasts, and it guided to $130B."
+    },
+    {
+     "k": "THE BEAT",
+     "t": "Last quarter is already history",
+     "viz": {
+      "type": "split",
+      "items": [
+       [
+        "Expected",
+        "$108.8B"
+       ],
+       [
+        "Actual",
+        "$115.8B"
+       ],
+       [
+        "Beat",
+        "about $7B",
+        "wide"
+       ]
+      ]
+     },
+     "say": "Analysts expected 108.8 billion dollars. Nvidia reported 115.8 billion, a beat of about 7 billion."
+    },
+    {
+     "k": "THE RAISE",
+     "t": "Guidance is the company's own forecast",
+     "s": "Nvidia expects about $130B next quarter vs. about $125B expected."
+    },
+    {
+     "k": "WHY IT MATTERS",
+     "t": "Prices look ahead, not back",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "Guidance beats",
+       "Analysts raise estimates",
+       "Future profits look bigger",
+       "Stock can rise"
+      ]
+     },
+     "say": "When guidance beats, analysts raise estimates, future profits look bigger, and the stock can rise."
+    },
+    {
+     "k": "THE CATCH",
+     "t": "A beat can still disappoint",
+     "s": "If hopes were sky-high, even good news can get a muted reaction."
+    },
+    {
+     "k": "YOUR MOVE",
+     "t": "Read the outlook, not just the headline",
+     "s": "Check guidance and margins before reacting to an earnings move."
+    }
+   ]
+  },
+  {
+   "id": "edu-dilution-offerings-2026111722",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "markets"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-17T22:00:00Z",
+   "headline": "Stock offerings: why shares drop when a company sells more",
+   "caption": "SELLAS and Applied Optoelectronics fell after announcing new share sales. Here's how dilution works.",
+   "scenes": [
+    {
+     "k": "THE NEWS",
+     "t": "Two hot stocks fell after hours",
+     "s": "Both announced new stock sales after big gains."
+    },
+    {
+     "k": "THE OFFERINGS",
+     "t": "Hundreds of millions in new shares",
+     "viz": {
+      "type": "split",
+      "items": [
+       [
+        "SELLAS",
+        "$150M"
+       ],
+       [
+        "Applied Opto",
+        "up to $550M"
+       ],
+       [
+        "Move after hours",
+        "-5% to -10%",
+        "wide"
+       ]
+      ]
+     },
+     "say": "SELLAS plans a 150 million dollar offering. Applied Optoelectronics set up a plan to sell up to 550 million dollars. Both fell between 5 and 10 percent after hours."
+    },
+    {
+     "k": "THE IDEA",
+     "t": "Same pie, more slices",
+     "s": "New shares mean each old share owns a smaller piece of the company."
+    },
+    {
+     "k": "HOW IT PLAYS OUT",
+     "t": "Why companies sell after a run-up",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "Stock jumps",
+       "Company sells new shares",
+       "More shares exist",
+       "Each share is diluted",
+       "Price often dips"
+      ]
+     },
+     "say": "The stock jumps, the company sells new shares, more shares exist, each share is diluted, and the price often dips."
+    },
+    {
+     "k": "THE UPSIDE",
+     "t": "Cash can fund growth",
+     "s": "If the money builds real value, dilution can pay off later."
+    },
+    {
+     "k": "YOUR MOVE",
+     "t": "Check the share count over time",
+     "s": "A rising share count can quietly shrink your slice."
+    }
+   ]
+  },
   {
    "id": "oil-settles-bahrain-2026111721",
    "type": "news",
@@ -11289,603 +11969,6 @@
      "t": "Home Sales Just Sank to a 16-Year Low. Here's What This Means for Home Depot and Lowe's Investors.",
      "d": "fool.com",
      "u": "https://www.fool.com/investing/2026/11/15/home-sales-16-year-low-what-this-means-home-depot-lowes-investors/"
-    }
-   ]
-  },
-  {
-   "id": "warn-6613-week-2026111710",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business",
-    "california",
-    "states"
-   ],
-   "date": "This week",
-   "ts": "2026-11-17T10:00:00Z",
-   "headline": "About 6,613 workers face scheduled layoffs this week; California leads WARN filings",
-   "caption": "Layoff notices filed under the WARN Act show the week of Nov. 17 is one of the heaviest on the calendar. Nearly 29,000 workers are scheduled from early November to Dec. 8.",
-   "visual": {
-    "type": "board",
-    "title": "WARN notices, past 90 days",
-    "rows": [
-     {
-      "k": "California",
-      "v": "18,196"
-     },
-     {
-      "k": "Washington",
-      "v": "17,336"
-     },
-     {
-      "k": "Illinois",
-      "v": "3,649"
-     },
-     {
-      "k": "Texas",
-      "v": "2,978"
-     },
-     {
-      "k": "Maryland",
-      "v": "2,429"
-     }
-    ],
-    "foot": "Workers in filings tracked by Layoff Atlas; planned, not final"
-   },
-   "detail": [
-    "Companies with 100 or more workers usually must give 60 days' notice of big layoffs under the WARN Act. Layoff Atlas counts about 6,613 workers with layoffs taking effect this week. Only the weeks of Nov. 10 and Nov. 24 are bigger.",
-    "Over the last 90 days, it tracked 666 notices covering about 62,948 workers. California and Washington account for most of them. Recent filings include Alaska Airlines in Washington and GEICO in Florida.",
-    "These are planned cuts. Some may be cut back, delayed or canceled."
-   ],
-   "money": [
-    "If you get a WARN notice, you may be owed pay for the full notice period; check your state's rules.",
-    "File for unemployment right after your last day; waiting can cost you weeks of benefits.",
-    "Build or top up an emergency fund now if your industry is on these lists."
-   ],
-   "risk": [
-    "Not all states' filings are captured, so the real number may be higher.",
-    "Layoffs often cluster around year-end budgets."
-   ],
-   "sources": [
-    {
-     "t": "Week Ahead: November 17 Brings 6,613 Scheduled Layoffs as November Stays Heavy",
-     "d": "dev.to",
-     "u": "https://dev.to/layoffatlas/week-ahead-november-17-brings-6613-scheduled-layoffs-as-november-stays-heavy-376"
-    }
-   ]
-  },
-  {
-   "id": "houston-ice-officer-indicted-2026111710",
-   "type": "news",
-   "cat": "immigration",
-   "tags": [
-    "immigration",
-    "states"
-   ],
-   "date": "This week",
-   "ts": "2026-11-17T10:00:00Z",
-   "headline": "Houston ICE officer charged with assault after hitting a man with an SUV; man still held",
-   "caption": "A Harris County grand jury indicted an ICE officer after a man was struck during an October operation. ICE says the man ran in front of the vehicle; his family says it was deliberate.",
-   "visual": {
-    "type": "timeline",
-    "title": "The Houston case",
-    "items": [
-     {
-      "d": "OCT 10",
-      "t": "Man struck by unmarked ICE SUV",
-      "s": "Broken leg, hip injuries"
-     },
-     {
-      "d": "LATE OCT",
-      "t": "Grand jury indicts the officer",
-      "s": "Aggravated assault with a deadly weapon"
-     },
-     {
-      "d": "NOV 15",
-      "t": "Family speaks to CBS News",
-      "s": "Says it was intentional"
-     },
-     {
-      "d": "NOW",
-      "t": "Man remains in ICE custody",
-      "s": "Lawmakers seek his release",
-      "now": true
-     }
-    ]
-   },
-   "detail": [
-    "Miguel Parra Hernandez, 48, a construction worker who has lived in the US for 34 years, was hit by an unmarked ICE SUV in Houston on Oct. 10. He was not the target of the operation and has no criminal record, which ICE has not disputed.",
-    "The Harris County DA says the officer steered his vehicle into the man. A grand jury indicted the officer on a felony charge. His lawyer calls it an accident, and ICE calls the prosecution a political stunt.",
-    "ICE says Parra Hernandez is in the country illegally and can be deported. He remains in custody. Democratic lawmakers led by Rep. Lizzie Fletcher want him released."
-   ],
-   "money": [
-    "Cases like this can lead to civil suits; legal costs and settlements are paid by taxpayers.",
-    "Employers in construction and other fields watch enforcement closely; labor shortages can raise project costs.",
-    "If you face an immigration issue, nonprofit legal aid groups often offer free or low-cost help."
-   ],
-   "risk": [
-    "The criminal case has not been decided.",
-    "Both sides' accounts are disputed."
-   ],
-   "sources": [
-    {
-     "t": "Siblings of man in Texas run over by ICE agent say incident was \"intentional\"",
-     "d": "cbsnews.com",
-     "u": "https://cbsnews.com/news/ice-agent-siblings-man-run-over-incident-texas"
-    }
-   ]
-  },
-  {
-   "id": "linares-ice-custody-2026111710",
-   "type": "news",
-   "cat": "immigration",
-   "tags": [
-    "immigration",
-    "world"
-   ],
-   "date": "Tue Nov 17",
-   "ts": "2026-11-17T10:00:00Z",
-   "headline": "ICE holds ex-boxing champ Jorge Linares in El Paso; lawyers say he is legally present",
-   "caption": "ICE's online locator lists the retired Venezuelan champion as in custody. No reason, charge or court date has been made public.",
-   "visual": {
-    "type": "points",
-    "title": "What we know",
-    "items": [
-     "Jorge Linares is a former world champion from Venezuela",
-     "ICE locator lists him in custody in El Paso",
-     "His lawyers say he is in the US legally",
-     "No reason, charge or court date published",
-     "ICE has made no public statement"
-    ]
-   },
-   "detail": [
-    "Jorge Linares, a retired Venezuelan boxer and former world champion, is being held at the El Paso detention center in Texas, according to reports citing ICE's detainee locator.",
-    "His lawyers say he is legally present in the US, has cooperated fully, and is working with ICE and DHS to resolve the matter. The head of the World Boxing Association confirmed he is in custody.",
-    "No public statement from ICE was found, and no reason for the detention has been released."
-   ],
-   "money": [
-    "Anyone with a pending status should keep copies of all immigration papers handy.",
-    "Detention can stop income suddenly; families can plan with a power of attorney for bills and accounts.",
-    "Check that any immigration lawyer is licensed; scams target families in a crisis."
-   ],
-   "risk": [
-    "The lawyers' account has not been confirmed by officials."
-   ],
-   "sources": [
-    {
-     "t": "Ex-Boxing Champion Held by US Immigration",
-     "d": "riotimesonline.com",
-     "u": "https://riotimesonline.com/jorge-linares-ice-custody-el-paso"
-    }
-   ]
-  },
-  {
-   "id": "medicare-oe-dec7-scams-2026111710",
-   "type": "news",
-   "cat": "benefits",
-   "tags": [
-    "benefits",
-    "states"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-17T10:00:00Z",
-   "headline": "Medicare open enrollment ends Dec. 7; Pennsylvania opens a scam hotline as fraud rises",
-   "caption": "Social Security reminds enrollees they have three weeks to switch plans for 2027. Pennsylvania's new hotline helps seniors report Medicare scams.",
-   "visual": {
-    "type": "timeline",
-    "title": "Medicare open enrollment",
-    "items": [
-     {
-      "d": "OCT 15",
-      "t": "Open enrollment began"
-     },
-     {
-      "d": "NOV 16",
-      "t": "SSA reminder; PA scam hotline promoted",
-      "now": true
-     },
-     {
-      "d": "DEC 7",
-      "t": "Last day to change plans"
-     },
-     {
-      "d": "JAN 1",
-      "t": "New plan choices take effect"
-     }
-    ]
-   },
-   "detail": [
-    "Medicare open enrollment runs through Dec. 7. You can switch between Original Medicare and Medicare Advantage, change Advantage plans, or join or change a Part D drug plan. Changes start Jan. 1, 2027. If you're happy with your plan, you generally don't need to act.",
-    "Pennsylvania Senior Medicare Patrol launched a free scam hotline at 877-435-7014, open weekdays 8 a.m. to 5 p.m. Common scams include callers posing as Medicare reps, fake free equipment offers, and unordered supplies billed to Medicare.",
-    "Free plan counseling is available through state SHIP programs, like PA MEDI at 1-800-783-7067."
-   ],
-   "money": [
-    "Compare Part D plans every year; drug prices and covered drugs change and switching can save hundreds.",
-    "Use free state counselors instead of paid brokers if you want unbiased plan advice.",
-    "Never give your Medicare number to an unexpected caller; Medicare won't call to ask for it."
-   ],
-   "risk": [
-    "Missing Dec. 7 can lock you into a costly plan for all of 2027."
-   ],
-   "sources": [
-    {
-     "t": "Reminder: Medicare Open Enrollment",
-     "d": "ssa.gov",
-     "u": "https://www.ssa.gov/news/en/advocates/2026-11-16.html"
-    },
-    {
-     "t": "Pennsylvania Launches a Medicare Fraud Hotline as Scammers Target Seniors",
-     "d": "medicaldaily.com",
-     "u": "https://www.medicaldaily.com/pennsylvania-medicare-fraud-hotline-open-enrollment-481300"
-    }
-   ]
-  },
-  {
-   "id": "shapiro-15-min-wage-2026111710",
-   "type": "news",
-   "cat": "states",
-   "tags": [
-    "states",
-    "politics"
-   ],
-   "date": "This week",
-   "ts": "2026-11-17T10:00:00Z",
-   "headline": "Pennsylvania's Shapiro vows to raise the $7.25 minimum wage to $15 as his first bill",
-   "caption": "After Democrats won full control in Harrisburg, the governor says a $15 wage is the first bill he'll sign in January. About half a million workers earn less than $15.",
-   "visual": {
-    "type": "vs",
-    "title": "Pennsylvania minimum wage",
-    "a": [
-     "Now",
-     "$7.25",
-     0.48,
-     "acc"
-    ],
-    "b": [
-     "Proposed",
-     "$15",
-     1,
-     "gain"
-    ],
-    "foot": "About a 107% raise; Seattle's rises to $22.14 in January"
-   },
-   "detail": [
-    "Pennsylvania Gov. Josh Shapiro wants to raise the state's minimum wage from $7.25, the federal floor, to $15 an hour. He says about 500,000 workers in the state earn less than $15.",
-    "Democrats flipped the state Senate in the midterms, giving them full control. Shapiro says Republicans had blocked past wage bills.",
-    "Some economists warn steep hikes can lead to fewer hours, slower hiring or higher prices, especially for entry-level jobs. Studies of Seattle's increases have found mixed results."
-   ],
-   "money": [
-    "Low-wage workers in Pennsylvania could see a big raise if the bill passes; watch the phase-in dates.",
-    "Small businesses there should start budgeting for higher labor costs now.",
-    "Higher pay can affect benefits like SNAP or Medicaid; check eligibility if your income rises."
-   ],
-   "risk": [
-    "The bill's final number and timeline could change.",
-    "Some businesses may cut hours instead of hiring."
-   ],
-   "sources": [
-    {
-     "t": "Josh Shapiro vows to more than double Pennsylvania's minimum wage",
-     "d": "foxnews.com",
-     "u": "https://www.foxnews.com/politics/democrats-seize-midterm-wins-push-massive-minimum-wage-hikes-economists-see-trouble-ahead"
-    }
-   ]
-  },
-  {
-   "id": "dove-fire-nonrenewal-ban-2026111710",
-   "type": "news",
-   "cat": "california",
-   "tags": [
-    "california",
-    "benefits"
-   ],
-   "date": "This week",
-   "ts": "2026-11-17T10:00:00Z",
-   "headline": "California bars insurers from dropping 50,000 homes near the Dove Fire for a year",
-   "caption": "The one-year moratorium covers 15 ZIP codes in Tuolumne, Stanislaus and Calaveras counties. Insurers must offer to undo wildfire-related nonrenewals sent since Oct. 15.",
-   "visual": {
-    "type": "stat",
-    "title": "Dove Fire insurance freeze",
-    "num": "50,000",
-    "tone": "acc",
-    "label": "Residential policies protected from cancellation or nonrenewal for one year.",
-    "facts": [
-     [
-      "Counties",
-      "3",
-      "Tuolumne, Stanislaus, Calaveras"
-     ],
-     [
-      "ZIP codes",
-      "15",
-      "In or near the fire"
-     ],
-     [
-      "Lasts",
-      "1 year",
-      "From the emergency"
-     ]
-    ]
-   },
-   "detail": [
-    "California Insurance Commissioner Ricardo Lara ordered insurers not to cancel or decline to renew about 50,000 home policies near the Dove Fire. It applies in 15 ZIP codes whether or not a home was damaged.",
-    "The order follows Gov. Newsom's Oct. 15 emergency declaration and lasts one year. It also covers some commercial policies, like HOAs, apartments and condo associations.",
-    "If an insurer sent a wildfire-related cancellation or nonrenewal notice on or after the declaration, it must offer to take it back and renew the policy."
-   ],
-   "money": [
-    "If you got a nonrenewal notice in the area, call your insurer and ask for reinstatement under the moratorium.",
-    "Use this year to shop for coverage and do home-hardening work that can earn discounts.",
-    "Keep records and photos of your home; it speeds up any future claim."
-   ],
-   "risk": [
-    "The protection ends after a year, and rates can still rise."
-   ],
-   "sources": [
-    {
-     "t": "California Orders Insurance Nonrenewal Moratorium for 50,000 Following Dove Fire",
-     "d": "insurancejournal.com",
-     "u": "https://www.insurancejournal.com/news/west/2026/11/13/892491.htm"
-    }
-   ]
-  },
-  {
-   "id": "senate-gop-irs-cut-2026111710",
-   "type": "news",
-   "cat": "taxes",
-   "tags": [
-    "taxes",
-    "politics"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-17T10:00:00Z",
-   "headline": "Senate GOP's opening spending offer cuts IRS enforcement funds",
-   "caption": "Sen. Susan Collins released a $26.8 billion bill funding the Treasury, SEC and other agencies. It's a starting point to restart budget talks before the Dec. 11 funding deadline.",
-   "visual": {
-    "type": "points",
-    "title": "The Senate GOP offer",
-    "items": [
-     "$26.8B Financial Services and General Government bill",
-     "Cuts IRS enforcement money",
-     "Also funds Treasury, the SEC and DC",
-     "Released by Appropriations Chair Susan Collins",
-     "Aims to restart stalled spending talks"
-    ]
-   },
-   "detail": [
-    "Senate Republicans released a $26.8 billion spending bill covering the Treasury Department, the SEC and other agencies. It proposes cutting money for IRS enforcement.",
-    "Appropriations Committee Chair Susan Collins of Maine put out the draft to restart annual spending talks that stalled before the election. The exact size of the IRS cut was not in the public summary.",
-    "Government funding runs out on Dec. 11, so lawmakers have about three weeks to agree on bills or pass a stopgap."
-   ],
-   "money": [
-    "Less IRS enforcement can mean fewer audits, but also slower help lines and refunds.",
-    "File early and electronically next season to avoid delays if the IRS is short-staffed.",
-    "Keep good records anyway; audit rules don't change even if audits are less common."
-   ],
-   "risk": [
-    "A funding lapse after Dec. 11 could slow some federal services.",
-    "The final bill could look very different."
-   ],
-   "sources": [
-    {
-     "t": "Senate GOP Seeks Cut in IRS Enforcement in Opening Offer",
-     "d": "news.bloombergtax.com",
-     "u": "https://news.bloombergtax.com/daily-tax-report-international/senate-gop-seeks-cut-in-irs-enforcement-in-opening-offer"
-    }
-   ]
-  },
-  {
-   "id": "china-october-data-miss-2026111710",
-   "type": "news",
-   "cat": "world",
-   "tags": [
-    "world",
-    "markets"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-17T10:00:00Z",
-   "headline": "China's October data misses across the board; retail sales grow just 0.4%",
-   "caption": "Factory output, retail sales and investment all came in below forecasts. Investment is now down 8.1% this year.",
-   "visual": {
-    "type": "board",
-    "title": "China, October vs. forecast",
-    "rows": [
-     {
-      "k": "Retail sales",
-      "s": "forecast +0.8%",
-      "v": "+0.4%",
-      "tone": "loss"
-     },
-     {
-      "k": "Industrial output",
-      "s": "forecast +5.3%",
-      "v": "+4.8%",
-      "tone": "loss"
-     },
-     {
-      "k": "Fixed-asset investment",
-      "s": "Jan-Oct, forecast -7.0%",
-      "v": "-8.1%",
-      "tone": "loss"
-     },
-     {
-      "k": "Urban jobless rate",
-      "s": "Sept: 5.2%",
-      "v": "5.1%",
-      "tone": "gain"
-     }
-    ],
-    "foot": "National Bureau of Statistics via Business Standard"
-   },
-   "detail": [
-    "China's economy slowed further in October. Retail sales rose just 0.4% from a year earlier, half the 0.8% economists expected and down from 1.1% in September.",
-    "Industrial output grew 4.8%, below the 5.3% forecast. Fixed-asset investment for January through October fell 8.1%, worse than expected. The urban jobless rate dipped to 5.1%.",
-    "Third-quarter growth is running at 4.5% a year."
-   ],
-   "money": [
-    "Weak Chinese demand can pull down prices for oil, copper and other raw materials.",
-    "US companies that sell a lot in China may report softer sales; check your funds' exposure.",
-    "Emerging-market funds heavy in China may stay volatile; diversification helps."
-   ],
-   "risk": [
-    "Beijing could launch new stimulus, which would change the picture quickly."
-   ],
-   "sources": [
-    {
-     "t": "China's economy slows in Oct as factory output, retail sales miss forecasts",
-     "d": "business-standard.com",
-     "u": "https://www.business-standard.com/amp/world-news/china-s-economy-slows-in-oct-as-factory-output-retail-sales-miss-forecasts-126111600592_1.html"
-    }
-   ]
-  },
-  {
-   "id": "apple-health-ai-study-2026111710",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "benefits"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-17T10:00:00Z",
-   "headline": "Apple opens a health AI study for up to 200,000 US adults",
-   "caption": "The research app, built with OpenEvidence, tests how good AI answers to health questions are. It's one of several AI health pushes this month.",
-   "visual": {
-    "type": "points",
-    "title": "Apple Health AI Study",
-    "items": [
-     "Research app built with OpenEvidence",
-     "Up to 200,000 US adults can join",
-     "Evaluates AI answers to health questions",
-     "Comes as OpenAI pushes AI health agents"
-    ]
-   },
-   "detail": [
-    "Apple launched a research app called the Apple Health AI Study with OpenEvidence, a medical AI company. It will accept up to 200,000 adults in the US.",
-    "The goal is to measure how good AI answers to health questions are. Big tech firms are racing into health care, an area where accuracy matters a lot.",
-    "Separately, AI firms are adding agents that can shop and book things for users, raising new questions about safety and control."
-   ],
-   "money": [
-    "Free AI health tools can help you prep questions for a doctor visit, saving appointment time.",
-    "Don't skip a doctor based on AI advice; a wrong answer can cost more later.",
-    "Read the privacy terms before sharing health data with any study or app."
-   ],
-   "risk": [
-    "AI health answers can be wrong or out of date."
-   ],
-   "sources": [
-    {
-     "t": "Everything That Happened in AI Today, Monday, November 16",
-     "d": "theneuron.ai",
-     "u": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-monday-november-16-2026/"
-    }
-   ]
-  },
-  {
-   "id": "nidus-30m-defense-robots-2026111710",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "business"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-17T10:00:00Z",
-   "headline": "Nidus raises $30 million for AI robots that build wiring for US defense makers",
-   "caption": "Kleiner Perkins and Costanoa backed the startup. It is starting with wire-harness assembly, a slow, hands-on job in weapons and vehicle plants.",
-   "visual": {
-    "type": "deals",
-    "title": "AI funding",
-    "items": [
-     {
-      "a": "Nidus",
-      "b": "AI robotics for defense manufacturing",
-      "amt": "$30M",
-      "st": "Kleiner Perkins, Costanoa",
-      "c": "ok"
-     }
-    ]
-   },
-   "detail": [
-    "Nidus raised $30 million from Kleiner Perkins and Costanoa Ventures. It builds AI-driven robots for US defense manufacturing.",
-    "Its first target is wire-harness assembly, the bundles of cables that run through planes, vehicles and weapons. Much of that work is still done by hand.",
-    "Investors are pouring money into robotics and defense tech as factories look to automate."
-   ],
-   "money": [
-    "Defense and automation are growing themes; sector ETFs offer exposure without picking startups.",
-    "Skilled trades that work alongside robots, like technicians, are in demand.",
-    "Early-stage startups are risky; most investors can't buy in until much later."
-   ],
-   "risk": [
-    "Young startups often fail or take years to turn a profit."
-   ],
-   "sources": [
-    {
-     "t": "Everything That Happened in AI Today, Monday, November 16",
-     "d": "theneuron.ai",
-     "u": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-monday-november-16-2026/"
-    }
-   ]
-  },
-  {
-   "id": "edu-vix-fear-gauge-2026111710",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "markets"
-   ],
-   "date": "Explainer",
-   "ts": "2026-11-17T10:00:00Z",
-   "headline": "The VIX: what Wall Street's 'fear gauge' is telling you",
-   "caption": "The VIX jumped to about 24 before Nvidia's earnings. Here's what that number means.",
-   "scenes": [
-    {
-     "k": "Today's news",
-     "t": "The VIX rose 5.5% to about 24",
-     "s": "Traders braced for Nvidia's report after the bell."
-    },
-    {
-     "k": "What it is",
-     "t": "Expected swings in the S&P 500",
-     "s": "It comes from S&P 500 option prices over the next 30 days."
-    },
-    {
-     "k": "How to read it",
-     "t": "Higher number, more fear",
-     "viz": {
-      "type": "split",
-      "items": [
-       [
-        "Calm",
-        "Below 15"
-       ],
-       [
-        "Normal",
-        "15 to 20"
-       ],
-       [
-        "Nervous markets",
-        "Mid-20s and up",
-        "wide"
-       ]
-      ]
-     },
-     "say": "Below 15 is calm. 15 to 20 is normal. The mid-20s and up means nervous markets."
-    },
-    {
-     "k": "Rough math",
-     "t": "VIX 24 means about 1.5% a day",
-     "s": "Divide by about 16 to get a typical daily move."
-    },
-    {
-     "k": "Watch out",
-     "t": "It's not a crystal ball",
-     "s": "A high VIX shows worry, not which way stocks will go."
-    },
-    {
-     "k": "Takeaway",
-     "t": "Stick to your plan",
-     "s": "Fear spikes often pass; selling in a panic locks in losses."
     }
    ]
   }
