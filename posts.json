@@ -1,6 +1,1022 @@
 {
- "updated": "2026-11-17T18:00:00Z",
+ "updated": "2026-11-17T19:00:00Z",
  "items": [
+  {
+   "id": "huang-offers-return-2026111719",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "markets"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T19:00:00Z",
+   "headline": "Jensen Huang says he'd return as Nvidia CEO if asked; board reportedly isn't interested",
+   "caption": "Hours before Nvidia's earnings, its ousted founder said he would come back if the board wanted. Reports say the board is not weighing it.",
+   "visual": {
+    "type": "timeline",
+    "title": "Nvidia's CEO shake-up",
+    "items": [
+     {
+      "d": "NOV 8",
+      "t": "Board opens probe",
+      "s": "Into a reported foreign intelligence effort"
+     },
+     {
+      "d": "NOV 11",
+      "t": "Huang resigns",
+      "s": "Colette Kress becomes interim CEO"
+     },
+     {
+      "d": "NOV 17",
+      "t": "Huang offers to return",
+      "s": "Board reportedly says no",
+      "now": true
+     },
+     {
+      "d": "NOV 17",
+      "t": "Earnings after the close",
+      "s": "First report without Huang"
+     },
+     {
+      "d": "DEC 1",
+      "t": "House interview",
+      "s": "Huang set to speak to 3 committees"
+     }
+    ]
+   },
+   "detail": [
+    "Jensen Huang said Tuesday he would be honored to come back as Nvidia's CEO if the board asked. He apologized, said he made serious mistakes, and said he will cooperate with the independent investigation.",
+    "Reuters, the Wall Street Journal and the Financial Times all reported that the board is not considering bringing him back. A petition backing his return passed 190,000 signatures, and President Trump said he would support it.",
+    "Nvidia shares rose nearly 3% on the reports but were still down more than 1% on the day. The company reports quarterly results after the bell, with interim CEO Colette Kress leading the call."
+   ],
+   "money": [
+    "Leadership drama can swing a stock hard around earnings; size any Nvidia position so a big move won't hurt you.",
+    "If you own an S&P 500 or Nasdaq fund, you already hold a lot of Nvidia; check your total exposure before buying more.",
+    "Waiting a day after earnings to act can help you avoid paying up for a first-hour spike."
+   ],
+   "risk": [
+    "The board's stance could change, and a reversal could move the stock either way.",
+    "The investigation's findings are still unknown."
+   ],
+   "sources": [
+    {
+     "t": "Jensen Huang says he would return as Nvidia CEO if asked, shares gain",
+     "d": "finance.yahoo.com",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/jensen-huang-says-return-nvidia-163847401.html"
+    },
+    {
+     "t": "'I Would Be Honored': Jensen Huang Offers To Return As Nvidia CEO. Board Reportedly Not Interested.",
+     "d": "ibtimes.com",
+     "u": "https://www.ibtimes.com/jensen-huang-offers-return-nvidia-ceo-3809868"
+    }
+   ]
+  },
+  {
+   "id": "microsoft-mai-code-2-2026111719",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "business"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T19:00:00Z",
+   "headline": "Microsoft unveils MAI Code 2 and a cyber model to take on OpenAI and Anthropic",
+   "caption": "At its Ignite event, Microsoft launched cheaper, specialized AI models for coding and security. It says its coding model nearly matches rivals at a fraction of the cost.",
+   "visual": {
+    "type": "points",
+    "title": "Microsoft's new AI models",
+    "items": [
+     "MAI Code 2: a coding model",
+     "A cybersecurity model for select customers",
+     "New image and transcription models",
+     "Pitch: near-rival quality, far lower cost"
+    ]
+   },
+   "detail": [
+    "Microsoft announced a set of its own AI models at its Ignite conference in San Francisco on Tuesday. The lead model, MAI Code 2, is built for programming.",
+    "A separate cybersecurity model will go to a limited group of customers, aimed at the flood of software flaws AI tools are now finding. Image and transcription models launched too.",
+    "Microsoft AI chief Mustafa Suleyman said focused models keep costs down while matching rivals. Microsoft did not share prices or benchmark scores."
+   ],
+   "money": [
+    "Cheaper AI coding tools can cut costs for small businesses and freelancers; compare prices before renewing any AI subscription.",
+    "Price wars among AI makers tend to lower what users pay over time, so avoid long prepaid plans.",
+    "If you invest in big tech, note Microsoft is now competing more directly with its own partner OpenAI."
+   ],
+   "risk": [
+    "Microsoft gave no benchmark data, so claims of near-rival quality are unverified."
+   ],
+   "sources": [
+    {
+     "t": "Microsoft unveils AI models for coding, cybersecurity as it takes on Anthropic, OpenAI",
+     "d": "investing.com",
+     "u": "https://www.investing.com/news/stock-market-news/microsoft-unveils-ai-models-for-coding-cybersecurity-as-it-takes-on-anthropic-openai-5033766"
+    },
+    {
+     "t": "Microsoft unveils AI models for coding, cybersecurity as it takes on Anthropic, OpenAI",
+     "d": "usnews.com",
+     "u": "https://www.usnews.com/news/top-news/articles/2026-11-17/microsoft-unveils-ai-models-for-coding-cybersecurity-as-it-takes-on-anthropic-openai"
+    }
+   ]
+  },
+  {
+   "id": "openai-goodfire-5b-2026111719",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "business"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T19:00:00Z",
+   "headline": "OpenAI floated a $5B+ deal for Anthropic-backed safety lab Goodfire; talks ended",
+   "caption": "A senior OpenAI executive pitched buying the two-year-old startup, which was valued at $1.25 billion in February. Goodfire thinks it's worth more on its own.",
+   "visual": {
+    "type": "vs",
+    "title": "Goodfire's value",
+    "a": [
+     "Feb. round",
+     "$1.25B",
+     0.25,
+     "acc"
+    ],
+    "b": [
+     "OpenAI floated",
+     "$5B+",
+     1,
+     "gain"
+    ],
+    "foot": "No deal followed, per The Information"
+   },
+   "detail": [
+    "The Information reported Monday that a senior OpenAI executive floated buying Goodfire for more than $5 billion. Goodfire studies how AI models work inside, a field called interpretability.",
+    "Goodfire's leaders believe the company is worth over $5 billion alone and could sell its tools to many AI labs. A source said that view helped end the talks.",
+    "The same day, OpenAI named Goodfire one of four outside groups that will test its models for safety."
+   ],
+   "money": [
+    "AI safety tools are turning into a big business; watch for public companies that sell testing and security services.",
+    "Startup valuations jumping 4x in months is a sign of a hot market; be careful chasing AI hype stocks.",
+    "Anthropic's IPO is expected to price Wednesday; if you plan to buy, set a max price in advance."
+   ],
+   "risk": [
+    "Private valuations can fall fast if the AI market cools."
+   ],
+   "sources": [
+    {
+     "t": "OpenAI floated $5B+ for the lab trying to stop rogue models",
+     "d": "thestreet.com",
+     "u": "https://www.thestreet.com/technology/anthropic-backed-goodfire-openai-5-billion-rogue-models"
+    }
+   ]
+  },
+  {
+   "id": "mortgage-rates-7-34-2026111719",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets",
+    "business"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T19:00:00Z",
+   "headline": "Mortgage rates climb again: 30-year average hits 7.34%, up 0.34 points in a week",
+   "caption": "Rates kept rising as inflation stays hot and markets expect a Fed hike in December. The 15-year fixed averages 6.67%.",
+   "visual": {
+    "type": "board",
+    "title": "Mortgage rates today (APR)",
+    "rows": [
+     {
+      "k": "30-year fixed",
+      "s": "vs. a week ago",
+      "v": "7.34%",
+      "tone": "loss"
+     },
+     {
+      "k": "15-year fixed",
+      "v": "6.67%"
+     },
+     {
+      "k": "5-year ARM",
+      "v": "7.06%"
+     },
+     {
+      "k": "1-day change",
+      "s": "30-year",
+      "v": "+0.07 pts",
+      "tone": "loss"
+     },
+     {
+      "k": "1-week change",
+      "s": "30-year",
+      "v": "+0.34 pts",
+      "tone": "loss"
+     }
+    ],
+    "foot": "Source: NerdWallet, Nov. 17"
+   },
+   "detail": [
+    "The average 30-year fixed mortgage rate rose to 7.34% APR on Tuesday, NerdWallet reported. That is 0.07 points higher than Monday and 0.34 points higher than a week ago.",
+    "The 15-year fixed averaged 6.67%, and a 5-year adjustable loan averaged 7.06%.",
+    "NerdWallet tied the rise to inflation. Wholesale prices were up 6.5% from a year earlier in October, and investors expect the Fed to raise rates again in December."
+   ],
+   "money": [
+    "Get quotes from at least three lenders; small rate gaps add up to thousands over a loan.",
+    "If you're close to buying, ask about a rate lock so a further jump doesn't raise your payment.",
+    "A 15-year loan has a lower rate but higher payments; run both numbers before choosing."
+   ],
+   "risk": [
+    "Rates could keep rising if the Fed hikes in December.",
+    "Rate averages vary by source and by your credit score."
+   ],
+   "sources": [
+    {
+     "t": "Mortgage Rates Today, Tuesday, November 17: A Little Higher",
+     "d": "nerdwallet.com",
+     "u": "https://www.nerdwallet.com/mortgages/news/mortgage-rates-today-tuesday-november-17-2026"
+    }
+   ]
+  },
+  {
+   "id": "irs-get-ready-2027-2026111719",
+   "type": "news",
+   "cat": "taxes",
+   "tags": [
+    "taxes"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T19:00:00Z",
+   "headline": "IRS kicks off 'Get Ready' for 2027 filing: new deductions, and paper refunds are fading",
+   "caption": "The IRS says set up direct deposit now, since paper refund checks are being phased out. New deductions for tips, overtime and car loan interest apply.",
+   "visual": {
+    "type": "points",
+    "title": "IRS: do these before tax season",
+    "items": [
+     "Have your bank routing and account numbers",
+     "Collect every W-2 and 1099, incl. payment apps",
+     "Track digital asset sales",
+     "Set up an IRS online account",
+     "Learn the new tips and overtime deductions"
+    ]
+   },
+   "detail": [
+    "The IRS issued the first of its 'Get Ready' reminders on Monday for the 2027 filing season, when people file 2026 returns.",
+    "It says paper refund checks are being phased out, so most people will need direct deposit details. It also urges gathering W-2s, 1099s from payment apps and online marketplaces, and crypto records.",
+    "New deductions cover qualified tips, overtime pay, car loan interest and a bigger deduction for seniors. The IRS says more details are still coming."
+   ],
+   "money": [
+    "If you earned tips or overtime in 2026, save pay stubs now so you can claim the new deductions.",
+    "Bought a new car with a loan? Keep the interest statement for the car loan interest deduction.",
+    "Set up direct deposit to get your refund faster and avoid check delays."
+   ],
+   "risk": [
+    "Rules for the new deductions are still being finalized; check IRS updates before you file."
+   ],
+   "sources": [
+    {
+     "t": "IRS reminder: Take steps now to make tax filing in 2027 easier",
+     "d": "irs.gov",
+     "u": "https://www.irs.gov/newsroom/irs-reminder-take-steps-now-to-make-tax-filing-in-2027-easier"
+    }
+   ]
+  },
+  {
+   "id": "snap-bbce-senators-2026111719",
+   "type": "news",
+   "cat": "benefits",
+   "tags": [
+    "benefits",
+    "politics"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T19:00:00Z",
+   "headline": "Senate Democrats demand USDA drop a SNAP rule that could cut 6.3 million people",
+   "caption": "The rule would end a state option that widens SNAP eligibility. USDA's own analysis says nearly 1.8 million children would lose benefits.",
+   "visual": {
+    "type": "stat",
+    "title": "USDA's SNAP eligibility rule",
+    "num": "6.3M",
+    "tone": "loss",
+    "label": "People who would lose SNAP, per USDA's own analysis.",
+    "facts": [
+     [
+      "Children affected",
+      "~1.8M",
+      "USDA estimate"
+     ],
+     [
+      "Michigan already cut",
+      "150K+",
+      "From earlier law changes"
+     ],
+     [
+      "Status",
+      "Proposed",
+      "Not final yet"
+     ]
+    ]
+   },
+   "detail": [
+    "Senate Agriculture Committee Democrats sent USDA a letter demanding it withdraw a proposed rule on SNAP. The rule would restrict 'broad-based categorical eligibility,' which lets states extend food aid to more households.",
+    "USDA's own analysis says about 6.3 million people, including nearly 1.8 million children, would lose benefits. Senators say some kids could also lose automatic free school meals.",
+    "The rule is only proposed. It would need to be finalized before taking effect."
+   ],
+   "money": [
+    "If you get SNAP, keep your case info current so any change doesn't catch you off guard.",
+    "Proposed rules accept public comments; you can share how a change would affect your household.",
+    "If your kids get free school meals through SNAP, know you can apply for meals directly through your school."
+   ],
+   "risk": [
+    "The final rule could differ from the proposal.",
+    "Court challenges could delay it."
+   ],
+   "sources": [
+    {
+     "t": "Slotkin Joins Colleagues Demanding USDA Withdraw Rule Restricting Food Assistance for Michiganders",
+     "d": "slotkin.senate.gov",
+     "u": "https://www.slotkin.senate.gov/2026/11/17/slotkin-joins-colleagues-demanding-usda-withdraw-rule-restricting-food-assistance-for-michiganders/"
+    },
+    {
+     "t": "Luján, Bennet, Senate Agriculture Democrats Demand USDA Withdraw Proposed Rule Restricting Food Assistance",
+     "d": "lujan.senate.gov",
+     "u": "https://www.lujan.senate.gov/newsroom/press-releases/lujan-bennet-senate-agriculture-democrats-demand-usda-withdraw-proposed-rule-restricting-food-assistance/"
+    }
+   ]
+  },
+  {
+   "id": "washington-4b-shortfall-2026111719",
+   "type": "news",
+   "cat": "states",
+   "tags": [
+    "states",
+    "taxes"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T19:00:00Z",
+   "headline": "Washington faces a $4B budget gap; Gov. Ferguson asks agencies for up to 15% cuts",
+   "caption": "Ferguson says he won't propose new taxes. A new millionaire income tax voters upheld doesn't start until 2028.",
+   "visual": {
+    "type": "timeline",
+    "title": "Washington's budget path",
+    "items": [
+     {
+      "d": "NOV 16",
+      "t": "Cuts ordered",
+      "s": "Up to 15% through mid-2028",
+      "now": true
+     },
+     {
+      "d": "NOV 23",
+      "t": "More cut options due"
+     },
+     {
+      "d": "DEC 20",
+      "t": "Budget proposal released"
+     },
+     {
+      "d": "JAN 2028",
+      "t": "Millionaire tax starts",
+      "s": "~$3.5B in its 2nd budget year"
+     }
+    ]
+   },
+   "detail": [
+    "Washington Gov. Bob Ferguson projects a shortfall of about $4 billion in the first year of the next budget. He told state agencies to find ways to cut up to 15% of spending through mid-2028.",
+    "Agencies must send more options by Nov. 23. Hiring, travel and contract freezes are being updated, and his budget plan comes out Dec. 20.",
+    "Ferguson says he won't seek new revenue. A tax on households earning over $1 million, upheld by voters Nov. 3, starts in January 2028 if it survives a court fight."
+   ],
+   "money": [
+    "If you rely on a state program in Washington, watch the Dec. 20 budget for cuts that could affect you.",
+    "State contractors and nonprofits there should plan for possible delays or smaller grants.",
+    "High earners in Washington can start planning now for the 2028 millionaire tax."
+   ],
+   "risk": [
+    "Cuts could hit services residents use.",
+    "The millionaire tax still faces a legal challenge."
+   ],
+   "sources": [
+    {
+     "t": "Ferguson looks to cut spending in face of $4B budget shortfall",
+     "d": "kentreporter.com",
+     "u": "https://www.kentreporter.com/2026/11/17/ferguson-looks-to-cut-spending-in-face-of-4b-budget-shortfall/"
+    }
+   ]
+  },
+  {
+   "id": "wisconsin-surplus-session-2026111719",
+   "type": "news",
+   "cat": "states",
+   "tags": [
+    "states",
+    "taxes",
+    "politics"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T19:00:00Z",
+   "headline": "Wisconsin GOP lawmaker calls for special session to return the $2.5B surplus",
+   "caption": "Republicans earlier backed rebates of $500 per person and $1,000 per couple. Gov. Evers rejected that and wants more school money instead.",
+   "visual": {
+    "type": "stat",
+    "title": "Wisconsin's surplus fight",
+    "num": "$2.5B",
+    "tone": "acc",
+    "label": "State budget surplus at stake.",
+    "facts": [
+     [
+      "Rebate plan",
+      "$500 / $1,000",
+      "Single / couple"
+     ],
+     [
+      "Governor",
+      "Opposed",
+      "Wants school funding"
+     ],
+     [
+      "Next step",
+      "Special session?",
+      "Needs a deal"
+     ]
+    ]
+   },
+   "detail": [
+    "A Republican Wisconsin lawmaker on Tuesday called for a special session to give the state's budget surplus back to taxpayers.",
+    "Wisconsin has about $2.5 billion in surplus money. Senate Republicans had proposed rebate checks of $500 per person and $1,000 per couple, and both chambers later agreed on direct rebates.",
+    "Democratic Gov. Tony Evers rejected the rebates as a short-term fix. He wants more school funding to ease property tax hikes. GOP Sen. John Jagler has said a deal could still happen in an extraordinary session."
+   ],
+   "money": [
+    "Wisconsin residents: don't count on a rebate until a law passes; no checks are approved yet.",
+    "If a rebate does pass, make sure your address is current with the state revenue department.",
+    "Property tax relief could matter more for homeowners; watch which option wins."
+   ],
+   "risk": [
+    "Talks could stall again with no rebate at all."
+   ],
+   "sources": [
+    {
+     "t": "Republican state lawmaker calls for special session to return budget surplus to Wisconsin taxpayers",
+     "d": "wtmj.com",
+     "u": "https://wtmj.com/news/2026/11/17/republican-state-lawmaker-calls-for-special-session-to-return-budget-surplus-to-wisconsin-taxpayers/"
+    },
+    {
+     "t": "Sen. Jagler: Return Budget Surplus to Taxpayers",
+     "d": "dailydodge.com",
+     "u": "https://dailydodge.com/jagler-says-2-5-billion-surplus-should-go-back-to-taxpayers/"
+    }
+   ]
+  },
+  {
+   "id": "jane-kim-disaster-insurance-2026111719",
+   "type": "news",
+   "cat": "california",
+   "tags": [
+    "california",
+    "business"
+   ],
+   "date": "This week",
+   "ts": "2026-11-17T19:00:00Z",
+   "headline": "California's next insurance chief wants a state-run disaster policy for every homeowner",
+   "caption": "Commissioner-elect Jane Kim proposes a single public plan for wildfire and other disaster losses. She says it would need no taxpayer money.",
+   "visual": {
+    "type": "board",
+    "title": "Jane Kim's insurance plan",
+    "rows": [
+     {
+      "k": "Takes office",
+      "v": "Jan. 4"
+     },
+     {
+      "k": "Home insurance spending",
+      "s": "Californians, per year",
+      "v": "~$18B"
+     },
+     {
+      "k": "Share for wildfire",
+      "v": "$3B–$6B",
+      "tone": "acc"
+     },
+     {
+      "k": "Taxpayer cost",
+      "s": "Her claim",
+      "v": "$0"
+     }
+    ],
+    "foot": "Models cited: Spain, France, New Zealand"
+   },
+   "detail": [
+    "Jane Kim, elected California insurance commissioner, wants a single public insurance policy that would cover catastrophic losses like wildfires instead of private insurers.",
+    "Californians spend about $18 billion a year on home insurance, with $3 billion to $6 billion of that for wildfire. Kim would redirect that money to the state plan, which she says needs no taxpayer funding.",
+    "She takes office Jan. 4. Republican leader Roger Niello objects to putting taxpayers at risk. Any plan would likely need the Legislature."
+   ],
+   "money": [
+    "California homeowners: keep shopping your policy now; any state plan is years away.",
+    "Home-hardening upgrades can lower premiums today and may count under future programs.",
+    "If you're on the FAIR Plan, file smoke-damage claims fully; Kim says she'll enforce them."
+   ],
+   "risk": [
+    "The plan needs legislative approval and may change a lot.",
+    "Critics warn the state could be on the hook after a huge disaster."
+   ],
+   "sources": [
+    {
+     "t": "Insurance commissioner-elect pushes plan for homeowners",
+     "d": "timesofsandiego.com",
+     "u": "https://timesofsandiego.com/housing/2026/11/14/insurance-commissioner-elect-pushes-plan-for-homeowners/"
+    }
+   ]
+  },
+  {
+   "id": "albany-ice-order-2026111719",
+   "type": "news",
+   "cat": "immigration",
+   "tags": [
+    "immigration",
+    "politics"
+   ],
+   "date": "Reported Nov 17",
+   "ts": "2026-11-17T19:00:00Z",
+   "headline": "Albany mayor bars federal immigration agents from using city property for staging",
+   "caption": "A new executive order blocks staging, processing or detention on city land. It does not stop federal agents from enforcing immigration law in the city.",
+   "visual": {
+    "type": "points",
+    "title": "What Albany's order does",
+    "items": [
+     "No staging, processing or detention on city property",
+     "Tracks federal enforcement tied to city sites",
+     "Sets a response plan for city events",
+     "Requires local police to be clearly identified"
+    ]
+   },
+   "detail": [
+    "Albany, New York, Mayor Dorcey Applyrs signed an executive order limiting how federal immigration agents can use city-owned property, including for staging, processing or detention.",
+    "The order also requires records of federal enforcement linked to city sites, and puts police practices like visible badges and body cameras in writing.",
+    "Albany County passed a similar rule for county land in March, set to expire Dec. 31. The city order does not prevent federal immigration enforcement."
+   ],
+   "money": [
+    "Local rules like this can change how cities spend on policing and legal costs; watch your city budget.",
+    "Know your rights resources from local groups are usually free.",
+    "Business owners near city sites may want to know the new rules for public events."
+   ],
+   "risk": [
+    "The order's effect depends on how it's carried out and on federal law."
+   ],
+   "sources": [
+    {
+     "t": "Albany takes a new step to restrict ICE activity on municipal land",
+     "d": "yahoo.com",
+     "u": "https://www.yahoo.com/news/politics/articles/albany-takes-step-restrict-ice-175900427.html"
+    }
+   ]
+  },
+  {
+   "id": "nj-ag-ice-portal-2026111719",
+   "type": "news",
+   "cat": "immigration",
+   "tags": [
+    "immigration",
+    "states"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T19:00:00Z",
+   "headline": "New Jersey reminds residents they can report possible misconduct by federal agents online",
+   "caption": "The attorney general's office points to a state portal for complaints about ICE and other federal agents. Reports can be anonymous.",
+   "visual": {
+    "type": "points",
+    "title": "NJ's reporting portal",
+    "items": [
+     "Covers excessive force and profiling",
+     "Covers warrantless arrests or searches",
+     "Photos and videos can be added",
+     "Anonymous reports allowed",
+     "Emergencies: call 911"
+    ]
+   },
+   "detail": [
+    "New Jersey's attorney general's office on Tuesday reminded residents they can use a state website to report possible misconduct by ICE and other federal agents.",
+    "The portal covers issues like excessive force, racial profiling, arrests or searches without a warrant, and unlawful detention. People can stay anonymous, but follow-up may be harder.",
+    "The state says a report doesn't mean legal action will follow. For emergencies, residents should call 911."
+   ],
+   "money": [
+    "Reporting through official channels is free; avoid paying anyone who promises to 'file' for you.",
+    "Keep copies of any photos or documents you submit.",
+    "Free legal aid groups can help if you face an immigration issue."
+   ],
+   "risk": [
+    "Filing a report does not guarantee any outcome."
+   ],
+   "sources": [
+    {
+     "t": "New Jersey reminds residents how to report potential ICE misconduct: AG",
+     "d": "yahoo.com",
+     "u": "https://yahoo.com/news/us/articles/jersey-reminds-residents-report-potential-165108204.html"
+    }
+   ]
+  },
+  {
+   "id": "childrens-place-gift-cards-2026111719",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T19:00:00Z",
+   "headline": "Children's Place in bankruptcy: use gift cards and rewards by Dec. 12; sales are final",
+   "caption": "The kids' clothing chain will close some stores as it looks for a buyer. Purchases since Nov. 6 can't be returned.",
+   "visual": {
+    "type": "timeline",
+    "title": "Children's Place deadlines",
+    "items": [
+     {
+      "d": "NOV 6",
+      "t": "Sales become final",
+      "s": "No returns or exchanges"
+     },
+     {
+      "d": "NOW",
+      "t": "Stores open with sales",
+      "s": "Gymboree too",
+      "now": true
+     },
+     {
+      "d": "DEC 12",
+      "t": "Gift cards and rewards end"
+     },
+     {
+      "d": "END 2026",
+      "t": "Sale of company expected"
+     }
+    ]
+   },
+   "detail": [
+    "The Children's Place, which has more than 500 stores in the US and Canada, filed for Chapter 11 and plans to sell nearly all its assets to a new owner.",
+    "The company says some stores will close but hasn't said how many. All stores and websites, including Gymboree, stay open with inventory sales for now.",
+    "Gift cards work until Dec. 12, and My Place Rewards end that day. Sales made after Nov. 6 are final."
+   ],
+   "money": [
+    "Spend any Children's Place gift card or rewards points before Dec. 12; leftover balances can't be cashed out.",
+    "Since you can't return items, check sizes and condition before you buy.",
+    "Compare 'liquidation' prices with other stores; they aren't always the lowest."
+   ],
+   "risk": [
+    "Store closures could come with short notice."
+   ],
+   "sources": [
+    {
+     "t": "The Children's Place to close several stores after filing for bankruptcy",
+     "d": "fox13seattle.com",
+     "u": "https://www.fox13seattle.com/news/childrens-place-close-several-stores-after-filing-bankruptcy"
+    }
+   ]
+  },
+  {
+   "id": "shale-hedging-losses-2026111719",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business",
+    "world",
+    "markets"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T19:00:00Z",
+   "headline": "Shale drillers lose $1.3B+ on hedges, and only 6-7% of 2027 output is locked in",
+   "caption": "Oil producers who locked in prices lost money as crude rose. Now they've hedged little for next year, leaving them exposed to price swings.",
+   "visual": {
+    "type": "stat",
+    "title": "US shale hedging",
+    "num": "$1.3B+",
+    "tone": "loss",
+    "label": "Net hedging losses for shale producers in Q3.",
+    "facts": [
+     [
+      "Q3 output hedged",
+      "~17%"
+     ],
+     [
+      "2027 output hedged",
+      "6-7%",
+      "Lowest in years"
+     ],
+     [
+      "Biggest loss",
+      "Devon",
+      "$262M"
+     ]
+    ]
+   },
+   "detail": [
+    "About 17% of US shale oil output in the third quarter was hedged, and those hedges produced net losses of at least $1.3 billion, Oilprice.com reported.",
+    "Devon had the largest hedging loss at $262 million. Only 6% to 7% of 2027 production is hedged, the lowest share in years.",
+    "Brent was near $93 on Tuesday, as record tanker attacks in the Strait of Hormuz offset rising Middle East exports."
+   ],
+   "money": [
+    "Oil company profits will swing more with oil prices now; energy stocks may get bumpier.",
+    "If you hold an energy fund, check whether it leans toward producers or pipelines, which are steadier.",
+    "Rising oil can mean higher gas and heating costs; budget extra this winter."
+   ],
+   "risk": [
+    "Oil could fall if the expected supply glut arrives, hitting unhedged drillers hard."
+   ],
+   "sources": [
+    {
+     "t": "Brent Stuck Near $93 as Hormuz Tanker Attacks Offset Gulf Export Surge",
+     "d": "oilprice.com",
+     "u": "https://oilprice.com/Energy/Energy-General/Brent-Stuck-Near-93-as-Hormuz-Tanker-Attacks-Offset-Gulf-Export-Surge.html"
+    }
+   ]
+  },
+  {
+   "id": "oil-deals-cnrl-chevron-2026111719",
+   "type": "news",
+   "cat": "world",
+   "tags": [
+    "world",
+    "business"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T19:00:00Z",
+   "headline": "Oil deals roll on: Canadian Natural buys Advantage for $1.77B; Chevron eyes Beacon",
+   "caption": "Big producers keep buying as oil holds near $93. Exxon also started oil at a new Guyana project.",
+   "visual": {
+    "type": "deals",
+    "title": "Energy deals this week",
+    "items": [
+     {
+      "a": "Canadian Natural",
+      "b": "Advantage Energy",
+      "amt": "$1.77B",
+      "st": "Agreed, ~79K boe/d",
+      "c": "ok"
+     },
+     {
+      "a": "Chevron",
+      "b": "Beacon Offshore",
+      "amt": "~$5B",
+      "st": "Reportedly near",
+      "c": "pend"
+     },
+     {
+      "a": "Sinochem",
+      "b": "Pirelli shares",
+      "amt": "$500M",
+      "st": "Sold at discount",
+      "c": "ok"
+     },
+     {
+      "a": "ExxonMobil",
+      "b": "Uaru, Guyana",
+      "amt": "1.1M b/d",
+      "st": "First oil; country capacity",
+      "c": "ok"
+     }
+    ]
+   },
+   "detail": [
+    "Canadian Natural Resources agreed to buy Advantage Energy for $1.77 billion, adding about 79,000 barrels of oil equivalent a day.",
+    "Chevron is reportedly close to a deal worth about $5 billion for Beacon Offshore Energy. China's Sinochem sold $500 million of Pirelli shares at a discount.",
+    "ExxonMobil started first oil at its Uaru project off Guyana, lifting the country's output capacity to 1.1 million barrels a day."
+   ],
+   "money": [
+    "More supply from places like Guyana could ease oil prices over time, which helps at the pump.",
+    "Takeover targets often jump on deal news; buying after the news is out rarely captures that gain.",
+    "Energy mergers can lead to dividend changes; check if you own the buyers."
+   ],
+   "risk": [
+    "The Chevron deal is not confirmed and may not happen."
+   ],
+   "sources": [
+    {
+     "t": "Brent Stuck Near $93 as Hormuz Tanker Attacks Offset Gulf Export Surge",
+     "d": "oilprice.com",
+     "u": "https://oilprice.com/Energy/Energy-General/Brent-Stuck-Near-93-as-Hormuz-Tanker-Attacks-Offset-Gulf-Export-Surge.html"
+    }
+   ]
+  },
+  {
+   "id": "evernorth-xrp-writedown-2026111719",
+   "type": "news",
+   "cat": "crypto",
+   "tags": [
+    "crypto",
+    "markets"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T19:00:00Z",
+   "headline": "XRP holder Evernorth writes down its coins 60%, from $847M to $342M",
+   "caption": "The Nasdaq-listed company marked down XRP it held before listing. Separately, the Binance hacker moved about $63 million in ether.",
+   "visual": {
+    "type": "board",
+    "title": "Crypto check, Tuesday",
+    "rows": [
+     {
+      "k": "Evernorth XRP stash",
+      "s": "Pre-listing holdings",
+      "v": "$342M",
+      "ch": -60,
+      "tone": "loss"
+     },
+     {
+      "k": "Bitcoin",
+      "v": "$63,810",
+      "ch": -1.88,
+      "tone": "loss"
+     },
+     {
+      "k": "Ether",
+      "v": "$1,792"
+     },
+     {
+      "k": "XRP",
+      "v": "$0.96"
+     },
+     {
+      "k": "Binance hacker move",
+      "s": "After 2 weeks idle",
+      "v": "$63M ETH",
+      "tone": "acc"
+     }
+    ],
+    "foot": "Prices per CoinDesk, Tuesday"
+   },
+   "detail": [
+    "Evernorth, a Nasdaq-listed company that holds XRP, wrote down the value of its pre-listing XRP by 60%, from $847 million to $342 million, CoinDesk reported.",
+    "XRP traded near $0.96 and bitcoin near $63,810, down almost 2%. Bitcoin is sitting near a trendline that held as support in June.",
+    "Also, a hacker tied to the $6.3 billion Binance theft moved about $63 million in ether after two weeks of no activity."
+   ],
+   "money": [
+    "Crypto treasury companies can lose value faster than the coins they hold; know what you own.",
+    "Large hacker wallet moves can signal selling; avoid big trades on headlines alone.",
+    "Keep crypto to a small share of your savings you can afford to lose."
+   ],
+   "risk": [
+    "Crypto prices are very volatile and could fall further."
+   ],
+   "sources": [
+    {
+     "t": "Crypto's 'Casino Chips' Are Disappearing, Adding to Pain From Spot ETF Outflows",
+     "d": "coindesk.com",
+     "u": "https://www.coindesk.com/daybook-us/2026/11/17/crypto-s-casino-chips-are-disappearing-adding-to-pain-from-spot-etf-outflows"
+    }
+   ]
+  },
+  {
+   "id": "soybeans-apec-asks-2026111719",
+   "type": "news",
+   "cat": "politics",
+   "tags": [
+    "politics",
+    "world",
+    "business"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T19:00:00Z",
+   "headline": "Soybean growers ask Trump to drop China's last 10% tariff at this week's APEC talks",
+   "caption": "Trump is set to meet Xi at APEC in Shenzhen on Nov. 18-19. Farmers say the tariff helps South American rivals.",
+   "visual": {
+    "type": "points",
+    "title": "What soybean growers want",
+    "items": [
+     "End China's 10% tariff on US soybeans",
+     "Label soybeans 'nonsensitive' in trade talks",
+     "Keep Chinese ship port fees suspended",
+     "Summit: APEC, Shenzhen, Nov. 18-19"
+    ]
+   },
+   "detail": [
+    "President Trump is expected to meet Chinese leader Xi Jinping this week on the sidelines of the APEC summit, which runs Nov. 18-19 in Shenzhen.",
+    "The American Soybean Association wants a remaining 10% Chinese tariff on US soybeans removed. It says the tariff gives South American growers an edge.",
+    "The group also wants whole soybeans named a 'nonsensitive' good in US-China trade talks, and a long-term pause on port fees for Chinese-built ships."
+   ],
+   "money": [
+    "A tariff cut could lift farm income and farm-equipment stocks; watch summit headlines.",
+    "Trade deals can move grain prices fast; farmers may consider locking in sales prices.",
+    "Lower trade tensions can help stocks broadly, but don't trade on rumors."
+   ],
+   "risk": [
+    "A pledge at the summit may not turn into real purchases."
+   ],
+   "sources": [
+    {
+     "t": "Daybreak Nov. 16: Trump, Xi set to meet",
+     "d": "agri-pulse.com",
+     "u": "https://www.agri-pulse.com/articles/25508-daybreak-nov-16-trump-xi-set-to-meet"
+    }
+   ]
+  },
+  {
+   "id": "edu-hedging-2026111719",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "business"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-17T19:00:00Z",
+   "headline": "Hedging: why oil drillers lost $1.3 billion on purpose",
+   "caption": "Shale companies locked in oil prices and lost when crude rose. Here's how hedging works and why it still matters.",
+   "scenes": [
+    {
+     "k": "THE NEWS",
+     "t": "Shale hedges lost $1.3B+",
+     "s": "Prices rose above what drillers locked in."
+    },
+    {
+     "k": "WHAT IT IS",
+     "t": "A hedge locks in a price ahead of time",
+     "s": "It's like insurance against prices moving the wrong way."
+    },
+    {
+     "k": "HOW IT WORKS",
+     "t": "Lock now, sell later",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "Driller sets a price",
+       "Oil rises",
+       "Driller still gets set price",
+       "Records a hedge loss"
+      ]
+     }
+    },
+    {
+     "k": "THE TRADE-OFF",
+     "t": "Safety costs you the upside",
+     "s": "If prices fall instead, the hedge protects profits."
+    },
+    {
+     "k": "NOW",
+     "t": "Only 6-7% of 2027 is hedged",
+     "s": "That means bigger swings in profits next year."
+    },
+    {
+     "k": "FOR YOU",
+     "t": "You hedge too",
+     "s": "A fixed-rate loan or fixed energy plan locks in a price, for better or worse."
+    }
+   ]
+  },
+  {
+   "id": "edu-gift-cards-bankruptcy-2026111719",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "business"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-17T19:00:00Z",
+   "headline": "Gift cards and bankruptcy: spend them fast",
+   "caption": "When a store files for bankruptcy, gift cards can lose value. Children's Place set a Dec. 12 cutoff.",
+   "scenes": [
+    {
+     "k": "THE NEWS",
+     "t": "Children's Place sets a Dec. 12 cutoff",
+     "s": "Gift cards and rewards end that day."
+    },
+    {
+     "k": "WHY IT HAPPENS",
+     "t": "A gift card is a store IOU",
+     "s": "In bankruptcy, you're an unsecured creditor."
+    },
+    {
+     "k": "THE RISK",
+     "t": "Unused balances can vanish",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "Store files",
+       "Deadline set",
+       "Cards stop working",
+       "Balance is lost"
+      ]
+     }
+    },
+    {
+     "k": "WATCH OUT",
+     "t": "Liquidation sales are final",
+     "s": "No returns, so check items before you buy."
+    },
+    {
+     "k": "YOUR MOVE",
+     "t": "Use cards early, not as savings",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "List your gift cards",
+       "Spend shaky ones first",
+       "Note any deadlines"
+      ]
+     }
+    },
+    {
+     "k": "TAKEAWAY",
+     "t": "Treat gift cards like cash that can expire",
+     "s": "Spend them soon after you get them."
+    }
+   ]
+  },
   {
    "id": "software-selloff-crm-2026111718",
    "type": "news",
@@ -10761,1076 +11777,6 @@
      "t": "Boeing to cut about 5% of commercial airplane staff, some 2,500 jobs",
      "d": "outsourceaccelerator.com",
      "u": "https://news.outsourceaccelerator.com/boeing-commercial-airplane-job-cuts/"
-    }
-   ]
-  },
-  {
-   "id": "ameris-bank-central-florida-2026111707",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business",
-    "markets"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-17T07:00:00Z",
-   "headline": "Ameris agrees to buy Bank of Central Florida in a $180 million all-stock deal",
-   "caption": "Atlanta's Ameris is adding a Lakeland-Tampa lender with about $1.1 billion in deposits. The deal should close early in 2027.",
-   "visual": {
-    "type": "deals",
-    "title": "Bank deal",
-    "items": [
-     {
-      "a": "Ameris Bancorp",
-      "b": "Bank of Central Florida",
-      "amt": "$180M",
-      "st": "All-stock; close Q1 2027",
-      "c": "pend"
-     }
-    ]
-   },
-   "detail": [
-    "Ameris Bancorp, based in Atlanta, agreed on November 16 to buy Bank of Central Florida Holding Company. The deal is valued at about $180 million and is paid all in stock.",
-    "Target holders get 0.6279 Ameris shares per share. That works out to about $51.80 a share, based on Ameris's November 12 close of $82.50.",
-    "Bank of Central Florida had about $1.2 billion in assets, $1.1 billion in deposits and $851 million in loans as of September 30. Closing is expected in the first quarter of 2027, pending approvals. Ameris stock barely moved Monday."
-   ],
-   "money": [
-    "If you bank there, your accounts should stay FDIC-insured; watch for letters about any fee or account changes.",
-    "Small bank buyouts can bring new products; compare rates before you stay or switch.",
-    "In an all-stock deal, target shareholders' payout moves with the buyer's share price."
-   ],
-   "risk": [
-    "Deals can be delayed or blocked by regulators or a shareholder vote."
-   ],
-   "sources": [
-    {
-     "t": "Ameris agrees to $180 million Florida bank deal as funding takes focus",
-     "d": "finchannel.com",
-     "u": "https://finchannel.com/ameris-agrees-to-180-million-florida-bank-deal-as-funding-takes-focus/141888/american-business-trends/2026/11/"
-    }
-   ]
-  },
-  {
-   "id": "indiana-aca-17pct-2026111707",
-   "type": "news",
-   "cat": "benefits",
-   "tags": [
-    "benefits",
-    "states"
-   ],
-   "date": "Tue Nov 17",
-   "ts": "2026-11-17T07:00:00Z",
-   "headline": "Indiana ACA plans rise more than 17% on average for 2027 as one insurer exits",
-   "caption": "With extra subsidies gone, some Indiana families face huge bills. CareSource is also leaving the state's marketplace.",
-   "visual": {
-    "type": "board",
-    "title": "ACA costs: Indiana",
-    "rows": [
-     {
-      "k": "Avg. approved rate hike",
-      "s": "2027 plans",
-      "v": "17%+",
-      "tone": "loss"
-     },
-     {
-      "k": "Indiana enrollment",
-      "s": "this year",
-      "v": "-28%",
-      "tone": "loss"
-     },
-     {
-      "k": "Avg. net premium (US)",
-      "s": "after tax credits, per KFF",
-      "v": "+58%",
-      "tone": "loss"
-     },
-     {
-      "k": "Subsidy cutoff, family of 4",
-      "s": "400% of poverty",
-      "v": "$132K",
-      "tone": "acc"
-     }
-    ],
-    "foot": "Source: WNDU, citing state filings and KFF"
-   },
-   "detail": [
-    "Indiana's marketplace insurers won average rate increases of more than 17% for 2027, based on state filings. One couple profiled faces premiums near $2,800 a month next year.",
-    "Enhanced pandemic-era subsidies ended last year. KFF says the average amount people paid after tax credits rose 58%. Indiana's marketplace enrollment fell about 28% this year, among the steepest drops in the country.",
-    "CareSource is leaving Indiana's marketplace next year, so its members must pick new plans and may lose some doctors."
-   ],
-   "money": [
-    "Don't auto-renew: compare plans at healthcare.gov, since terms can change a lot.",
-    "Check gold plans; some cost less than the benchmark silver plan and have lower deductibles.",
-    "Give your best income estimate; families of four up to about $132,000 may still get help."
-   ],
-   "risk": [
-    "Picking a cheap plan with a $14,000 deductible can leave you exposed if you get sick."
-   ],
-   "sources": [
-    {
-     "t": "Obamacare is getting more expensive in Indiana",
-     "d": "wndu.com",
-     "u": "https://wndu.com/2026/11/17/obamacare-is-getting-more-expensive-indiana"
-    }
-   ]
-  },
-  {
-   "id": "dem-100-days-money-agenda-2026111707",
-   "type": "news",
-   "cat": "politics",
-   "tags": [
-    "politics",
-    "benefits",
-    "taxes",
-    "states"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-17T07:00:00Z",
-   "headline": "Democrats' early-2027 wish list: restore Medicaid, ACA credits and SNAP",
-   "caption": "Incoming Democrats want to undo 2025 cuts and pay for it with taxes on the rich. They lack veto-proof numbers.",
-   "visual": {
-    "type": "board",
-    "title": "Price tags cited (10 years)",
-    "rows": [
-     {
-      "k": "2025 Medicaid cuts",
-      "s": "CBO, 2026-2035",
-      "v": "$1.2T"
-     },
-     {
-      "k": "Permanent ACA credits",
-      "s": "added deficits, CBO",
-      "v": "$350B"
-     },
-     {
-      "k": "Millionaire surtax",
-      "s": "Penn estimate",
-      "v": "$264B"
-     },
-     {
-      "k": "4% buyback tax",
-      "s": "est. revenue",
-      "v": "$242-300B"
-     }
-    ],
-    "foot": "Texas also has a bill for $1,500 per household"
-   },
-   "detail": [
-    "Democrats taking office in early 2027 are lining up a 'first 100 days' agenda. Top items: reverse the 2025 law's Medicaid cuts, extend enhanced ACA tax credits and restore SNAP funding.",
-    "The CBO says the Medicaid cuts trim about $1.2 trillion over 10 years. Making ACA credits permanent would add about $350 billion to deficits. Proposed offsets include a millionaire surtax and raising the stock buyback tax from 1% to 4%.",
-    "Democrats can't override a veto, so they need Republican or White House support. In Texas, a state senator filed a bill for Gov.-elect Gina Hinojosa's $1,500-per-household checks, about $17 billion from the rainy day fund; it needs two-thirds votes."
-   ],
-   "money": [
-    "If you buy ACA coverage, watch for any credit extension before you lock in a plan.",
-    "Medicaid and SNAP users should keep paperwork current; rules may change again in 2027.",
-    "Texans: don't budget on the $1,500 check until it passes; it faces steep odds."
-   ],
-   "risk": [
-    "Most of this is proposals; it may never become law."
-   ],
-   "sources": [
-    {
-     "t": "Democrats plot massive spending spree after midterm rout",
-     "d": "foxnews.com",
-     "u": "https://foxnews.com/politics/democrats-plot-massive-spending-spree-after-midterm-rout-trump-could-help-them-pull-off"
-    },
-    {
-     "t": "Bill filed to give every Texas household $1,500",
-     "d": "tpr.org",
-     "u": "https://www.tpr.org/government-politics/2026-11-12/bill-filed-to-give-every-texas-household-1-500-a-gov-elect-gina-hinojosa-campaign-promise"
-    }
-   ]
-  },
-  {
-   "id": "ca-voters-tax-mixed-2026111707",
-   "type": "news",
-   "cat": "california",
-   "tags": [
-    "california",
-    "taxes",
-    "politics"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-17T07:00:00Z",
-   "headline": "California voters kept the tax on income over $360K but banned wealth taxes",
-   "caption": "Prop. 3 made a high-income bracket permanent with nearly 59%. Prop. 42, a ban on wealth taxes, passed with 51.3%.",
-   "visual": {
-    "type": "board",
-    "title": "Nov. 3 tax measures",
-    "rows": [
-     {
-      "k": "Prop. 3",
-      "s": "high-earner bracket made permanent",
-      "v": "Yes ~59%",
-      "tone": "gain"
-     },
-     {
-      "k": "Prop. 42",
-      "s": "bans wealth and retroactive taxes",
-      "v": "Yes 51.3%",
-      "tone": "gain"
-     },
-     {
-      "k": "Prop. 40",
-      "s": "billionaire wealth tax",
-      "v": "No",
-      "tone": "loss"
-     },
-     {
-      "k": "Prop. 43",
-      "s": "2/3 vote for some local taxes",
-      "v": "No",
-      "tone": "loss"
-     }
-    ],
-    "foot": "Vote shares per AP"
-   },
-   "detail": [
-    "California voters sent mixed signals on taxes. They approved Prop. 3, which makes permanent a higher tax bracket on earned income above $360,000. It has applied since 2012 as a temporary fix.",
-    "They rejected Prop. 40, a first-of-its-kind billionaire wealth tax, and approved Prop. 42, which bans wealth taxes and retroactive taxes. Opponents of Prop. 40 raised $378 million, mostly from tech billionaires.",
-    "Voters also approved Bay Area transit taxes and a half-cent sales tax in Los Angeles for firefighting. The Legislative Analyst's Office still projects yearly deficits of $8 billion to $10 billion."
-   ],
-   "money": [
-    "High earners: plan on the top bracket staying, not expiring.",
-    "LA shoppers will pay a bit more sales tax; time big purchases with that in mind.",
-    "Wealth-tax fears are off the table for now, which matters for anyone weighing a move."
-   ],
-   "risk": [
-    "Ongoing deficits could still bring other tax or fee changes."
-   ],
-   "sources": [
-    {
-     "t": "Tax the rich - sometimes. California voters sent mixed signals",
-     "d": "kpbs.org",
-     "u": "https://www.kpbs.org/news/politics/2026/11/16/tax-the-rich-sometimes-california-voters-sent-mixed-signals-with-ballot-measures"
-    }
-   ]
-  },
-  {
-   "id": "modesto-ice-pregnant-citizen-2026111707",
-   "type": "news",
-   "cat": "immigration",
-   "tags": [
-    "immigration",
-    "california"
-   ],
-   "date": "Tue Nov 17",
-   "ts": "2026-11-17T07:00:00Z",
-   "headline": "Lawyer says ICE agents threw a pregnant US citizen to the ground in Modesto",
-   "caption": "Video shows an agent using pepper spray near the 23-year-old outside a jail. ICE says she assaulted an agent; she denies it.",
-   "visual": {
-    "type": "points",
-    "title": "What we know",
-    "items": [
-     "Where: outside Stanislaus County Jail, Modesto",
-     "Who: Lizbeth Vargas Andrade, 23, US citizen",
-     "Held several hours, then released",
-     "Hospital check: baby unharmed",
-     "No charges filed, her lawyer says"
-    ]
-   },
-   "detail": [
-    "Lizbeth Vargas Andrade, a 23-year-old pregnant US citizen, was detained Sunday outside the Stanislaus County Jail in Modesto. Her lawyer says agents threw her onto her stomach and handcuffed her. Her husband filmed it.",
-    "Her lawyer says agents first blocked her sister-in-law's car and detained a man inside. Video shows an agent spraying pepper spray toward Vargas Andrade, though not where it landed. She is part of a group that monitors ICE in Modesto.",
-    "ICE accused her of assaulting an agent, which she denies. She was held for hours and released without charges, her lawyer says. A hospital found the baby unharmed. ABC News asked DHS for comment."
-   ],
-   "money": [
-    "If you're stopped, stay calm and ask for a lawyer; legal aid groups offer free help.",
-    "Keep proof of citizenship or status copies somewhere safe and easy to reach.",
-    "Medical bills after an arrest may be covered by insurance; keep all records."
-   ],
-   "risk": [
-    "Accounts differ; ICE has not detailed its version publicly in this report."
-   ],
-   "sources": [
-    {
-     "t": "ICE agents accused of throwing pregnant US citizen to ground, pepper-spraying her",
-     "d": "abcnews.com",
-     "u": "https://abcnews.com/US/ice-agents-accused-throwing-pregnant-us-citizen-ground/story?id=138199352"
-    }
-   ]
-  },
-  {
-   "id": "openai-lvmh-media-2026111707",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "business"
-   ],
-   "date": "Tue Nov 17",
-   "ts": "2026-11-17T07:00:00Z",
-   "headline": "OpenAI signs a multi-year deal with LVMH's media arm, including Les Echos",
-   "caption": "ChatGPT will show summaries that link to 17 French titles. LVMH's media staff get ChatGPT Enterprise.",
-   "visual": {
-    "type": "stat",
-    "title": "OpenAI x LVMH Media",
-    "num": "17",
-    "tone": "acc",
-    "label": "French titles covered, such as Les Echos and Paris Match.",
-    "facts": [
-     [
-      "Monthly readers",
-      "~27M",
-      "cited"
-     ],
-     [
-      "Staff",
-      "~1,800",
-      "get ChatGPT Enterprise"
-     ],
-     [
-      "Journalists",
-      "~700",
-      "included"
-     ]
-    ]
-   },
-   "detail": [
-    "OpenAI signed a multi-year partnership with LVMH's Media Division. It covers 17 French titles, including Les Echos, Le Parisien, Challenges and Paris Match, with about 27 million monthly readers.",
-    "ChatGPT will show summaries of their stories with links back to the original articles.",
-    "About 1,800 LVMH media staff, including around 700 journalists, will get ChatGPT Enterprise. Terms were not disclosed."
-   ],
-   "money": [
-    "Publishers with licensing deals can earn new revenue as AI search grows.",
-    "Readers: links back to sources mean you can check the full story, not just a summary.",
-    "Investors can watch whether more media firms sign paid AI deals."
-   ],
-   "risk": [
-    "Licensing deals can shift traffic away from publishers' own sites."
-   ],
-   "sources": [
-    {
-     "t": "AI News Today, November 17",
-     "d": "aiweekly.co",
-     "u": "https://aiweekly.co/ai-news-today"
-    },
-    {
-     "t": "OpenAI and LVMH Media Division partnership",
-     "d": "openai.com",
-     "u": "https://openai.com/index/lvmh-media-division-partnership/"
-    }
-   ]
-  },
-  {
-   "id": "google-exploit-agent-2026111707",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "business"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-17T07:00:00Z",
-   "headline": "Google spots the first fully automated AI hacking tool used in the wild",
-   "caption": "The tool turned software patches into working attacks with no human involved. It mostly hit French media and school sites.",
-   "visual": {
-    "type": "timeline",
-    "title": "How 'exploit_agent' worked",
-    "items": [
-     {
-      "d": "STEP 1",
-      "t": "Compares patched code",
-      "s": "finds what was fixed"
-     },
-     {
-      "d": "STEP 2",
-      "t": "Writes a working exploit"
-     },
-     {
-      "d": "STEP 3",
-      "t": "Runs it on unpatched sites",
-      "s": "no human in the loop",
-      "now": true
-     }
-    ]
-   },
-   "detail": [
-    "Google's Threat Intelligence Group described what it calls the first fully autonomous AI attack pipeline it has seen in real use. It was nicknamed 'exploit_agent.'",
-    "The tool compared patched web-app code to find the fix, drafted a working exploit and launched it, all without a person stepping in.",
-    "Its operator mainly targeted French media, entertainment and education websites. The finding suggests the window between a patch and an attack is shrinking."
-   ],
-   "money": [
-    "Turn on automatic updates for apps, phones and website plugins; patches now get attacked fast.",
-    "Small business owners should apply security patches the same day they ship.",
-    "Use unique passwords and two-factor login to limit damage if a site you use is breached."
-   ],
-   "risk": [
-    "Expect more automated attacks; cyber insurance costs may rise."
-   ],
-   "sources": [
-    {
-     "t": "AI News Today, November 17",
-     "d": "aiweekly.co",
-     "u": "https://aiweekly.co/ai-news-today"
-    },
-    {
-     "t": "Google says an AI framework turned security patches into exploits with no human in the loop",
-     "d": "siliconangle.com",
-     "u": "https://www.siliconangle.com/2026/11/16/google-says-an-ai-framework-turned-security-patches-into-exploits-with-no-human-in-the-loop/"
-    }
-   ]
-  },
-  {
-   "id": "amd-world-labs-closes-2026111707",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "business",
-    "markets"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-17T07:00:00Z",
-   "headline": "AMD closes its World Labs deal; Fei-Fei Li becomes AMD's chief scientist",
-   "caption": "The all-stock deal was first valued at about $8.2 billion. Li will report directly to CEO Lisa Su.",
-   "visual": {
-    "type": "deals",
-    "title": "AMD buys World Labs",
-    "items": [
-     {
-      "a": "AMD",
-      "b": "World Labs",
-      "amt": "~$8.2B",
-      "st": "Completed Nov. 16; all stock",
-      "c": "ok"
-     }
-    ]
-   },
-   "detail": [
-    "AMD completed its purchase of World Labs, the AI startup co-founded by Fei-Fei Li. The all-stock deal was originally valued at about $8.2 billion.",
-    "Li joins AMD as executive vice president and chief scientist and reports to CEO Lisa Su. Co-founders Justin Johnson and Ben Mildenhall keep leading the team.",
-    "AMD is also a key chip supplier to OpenAI under a 6-gigawatt deal."
-   ],
-   "money": [
-    "All-stock deals add shares; AMD holders should watch for dilution in coming reports.",
-    "Chipmakers buying AI model teams may signal where they see future profits.",
-    "Index funds already give broad exposure if you don't want single-stock risk."
-   ],
-   "risk": [
-    "Big acquisitions can be hard to integrate and may not pay off."
-   ],
-   "sources": [
-    {
-     "t": "AI News Today, November 17",
-     "d": "aiweekly.co",
-     "u": "https://aiweekly.co/ai-news-today"
-    },
-    {
-     "t": "AMD completes acquisition of World Labs",
-     "d": "amd.com",
-     "u": "https://newsroom.amd.com/news/amd-completes-acquisition-world-labs/"
-    }
-   ]
-  },
-  {
-   "id": "openai-healthcare-agents-2026111707",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "benefits",
-    "business"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-17T07:00:00Z",
-   "headline": "OpenAI launches AI agents for health care; CVS and Cigna are early partners",
-   "caption": "The agents can work inside medical record systems. Doctors rated 99% of one model's actions clinically safe in testing.",
-   "visual": {
-    "type": "board",
-    "title": "ChatGPT for Healthcare",
-    "rows": [
-     {
-      "k": "Astra: safe actions",
-      "s": "325 EHR inbox tasks",
-      "v": "99%",
-      "tone": "gain"
-     },
-     {
-      "k": "Rated very helpful",
-      "s": "646 outputs",
-      "v": "93%",
-      "tone": "gain"
-     },
-     {
-      "k": "Luna admin score",
-      "s": "benchmarks",
-      "v": "91.8%"
-     },
-     {
-      "k": "Luna cost",
-      "s": "per task",
-      "v": "8.5¢"
-     }
-    ],
-    "foot": "Results reported by OpenAI's reviewers"
-   },
-   "detail": [
-    "OpenAI launched computer-use agents for health care, built on GPT-6 Astra and GPT-6 Luna. They come with more than 20 plugins and a new clinical search tool.",
-    "Physician reviewers rated 99% of Astra's actions on 325 medical record inbox tasks as clinically safe, and 93% of 646 outputs as very or extremely helpful. Luna scored 91.8% on admin tests at 8.5 cents per task.",
-    "Launch partners include CVS Health, Cigna, Abridge, UpToDate and Redox."
-   ],
-   "money": [
-    "Faster paperwork could speed up prior approvals and claims; follow up if yours stall.",
-    "Health workers in admin roles may want AI tool skills to stay in demand.",
-    "Always double-check AI-written notes or bills you receive for errors."
-   ],
-   "risk": [
-    "AI mistakes in medical records can affect care and billing."
-   ],
-   "sources": [
-    {
-     "t": "AI News Today, November 17",
-     "d": "aiweekly.co",
-     "u": "https://aiweekly.co/ai-news-today"
-    },
-    {
-     "t": "OpenAI launches healthcare computer-use agents",
-     "d": "hitconsultant.net",
-     "u": "https://hitconsultant.net/2026/11/16/openai-launches-healthcare-computer-use-agents-clinical-search-20-plugins/"
-    }
-   ]
-  },
-  {
-   "id": "vera-rubin-mlperf-2026111707",
-   "type": "news",
-   "cat": "markets",
-   "tags": [
-    "markets",
-    "ai"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-17T07:00:00Z",
-   "headline": "Hours before earnings, Nvidia's Vera Rubin sweeps a key AI training benchmark",
-   "caption": "Nvidia says its new system doubles per-chip speed versus the prior generation. CoreWeave posted the first cloud results.",
-   "visual": {
-    "type": "vs",
-    "title": "Per-GPU training speed",
-    "a": [
-     "GB300 NVL72",
-     "1x",
-     0.5,
-     "acc"
-    ],
-    "b": [
-     "Vera Rubin NVL72",
-     "up to 2x",
-     1,
-     "gain"
-    ],
-    "foot": "MLPerf Training v6.1, per Nvidia"
-   },
-   "detail": [
-    "Nvidia's Vera Rubin NVL72 system swept MLPerf Training v6.1 results, delivering up to twice the per-GPU performance of the GB300 NVL72, Nvidia said.",
-    "Training on DeepSeek-V3 scaled from 256 to 1,024 GPUs at about 97% efficiency, cutting training time from 16 to about 4 minutes. CoreWeave reported the first multi-rack Vera Rubin cloud results.",
-    "Nvidia reports third-quarter results after the bell today, under an interim CEO."
-   ],
-   "money": [
-    "Strong chip benchmarks support Nvidia's sales story, but earnings guidance matters more.",
-    "Before earnings, consider position size; big swings cut both ways.",
-    "AI cloud firms like CoreWeave can benefit when new chips arrive first."
-   ],
-   "risk": [
-    "Benchmarks are run by vendors and may not match real-world results."
-   ],
-   "sources": [
-    {
-     "t": "AI News Today, November 17",
-     "d": "aiweekly.co",
-     "u": "https://aiweekly.co/ai-news-today"
-    },
-    {
-     "t": "MLPerf Training: Vera Rubin",
-     "d": "nvidia.com",
-     "u": "https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/"
-    }
-   ]
-  },
-  {
-   "id": "altimeter-anthropic-5b-2026111707",
-   "type": "news",
-   "cat": "markets",
-   "tags": [
-    "markets",
-    "ai"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-17T07:00:00Z",
-   "headline": "Altimeter's Gerstner puts in a $5 billion order for Anthropic's IPO",
-   "caption": "That is five times his biggest IPO bet ever. Anthropic is expected to price Thursday at up to about $1.4 trillion.",
-   "visual": {
-    "type": "ticker",
-    "sym": "ANT",
-    "ex": "NASDAQ",
-    "rows": [
-     {
-      "k": "Price range",
-      "s": "per share",
-      "v": "$70-$78"
-     },
-     {
-      "k": "Shares",
-      "s": "offered",
-      "v": "825M"
-     },
-     {
-      "k": "Altimeter order",
-      "s": "5x its prior record",
-      "v": "$5B"
-     },
-     {
-      "k": "Strategic placements",
-      "s": "AMD, Google, Nvidia, others",
-      "v": "$26B"
-     }
-    ]
-   },
-   "detail": [
-    "Brad Gerstner of Altimeter told CNBC he is placing a $5 billion order in Anthropic's IPO. He said it is five times his largest previous IPO investment.",
-    "It sits next to $26 billion in placements from AMD, Broadcom, Google, Micron, Microsoft, Nvidia and TSMC.",
-    "Anthropic plans to sell 825 million shares at $70 to $78 and price Thursday on Nasdaq, at a value of roughly $1.4 trillion."
-   ],
-   "money": [
-    "Huge demand can push a first-day pop; buying at the open often means paying a premium.",
-    "Set a price limit if you plan to buy shares on day one.",
-    "Many index funds add big IPOs later, so you may get exposure anyway."
-   ],
-   "risk": [
-    "Hot IPOs can fall well below their first-day price."
-   ],
-   "sources": [
-    {
-     "t": "AI News Today, November 17",
-     "d": "aiweekly.co",
-     "u": "https://aiweekly.co/ai-news-today"
-    },
-    {
-     "t": "Altimeter's Brad Gerstner investing $5 billion in Anthropic IPO",
-     "d": "cnbc.com",
-     "u": "https://www.cnbc.com/2026/11/16/altimeters-brad-gerstner-investing-5-billion-in-anthropic-ipo.html"
-    }
-   ]
-  },
-  {
-   "id": "facestealer-doj-2026111707",
-   "type": "news",
-   "cat": "crypto",
-   "tags": [
-    "crypto",
-    "ai"
-   ],
-   "date": "Sun Nov 15",
-   "ts": "2026-11-17T07:00:00Z",
-   "headline": "DOJ shuts down a North Korean deepfake-call scheme that stole $400M+ in crypto",
-   "caption": "Hackers used fake Zoom and Teams calls with replayed webcam video. Over 80% of targets were founders or executives.",
-   "visual": {
-    "type": "board",
-    "title": "FaceStealer takedown",
-    "rows": [
-     {
-      "k": "Crypto stolen",
-      "s": "over 18 months",
-      "v": "$400M+",
-      "tone": "loss"
-     },
-     {
-      "k": "Targets",
-      "s": "in 58 countries",
-      "v": "677"
-     },
-     {
-      "k": "Clips recovered",
-      "s": "by FBI",
-      "v": "900+"
-     },
-     {
-      "k": "Frozen",
-      "s": "tied to $6.4B Binance heist",
-      "v": "$2.7B",
-      "tone": "gain"
-     }
-    ]
-   },
-   "detail": [
-    "US authorities seized the setup behind an 18-month North Korean hacking campaign tied to the BlueNoroff group. It stole more than $400 million in crypto.",
-    "The hackers ran fake Zoom and Teams calls using replayed webcam footage to trick victims. Arctic Wolf found 677 targets in 58 countries; more than 80% were founders or top executives. The FBI recovered 900+ recorded clips.",
-    "The Justice Department also froze $2.7 billion tied to a $6.4 billion Binance heist and moved to seize $1.2 billion more."
-   ],
-   "money": [
-    "Never install software or 'fix audio' links sent during a video call.",
-    "Verify unexpected meeting invites by calling the person on a known number.",
-    "Keep most crypto in cold storage, away from devices you use for calls."
-   ],
-   "risk": [
-    "Deepfake video makes familiar faces untrustworthy on calls."
-   ],
-   "sources": [
-    {
-     "t": "AI News Today, November 17",
-     "d": "aiweekly.co",
-     "u": "https://aiweekly.co/ai-news-today"
-    },
-    {
-     "t": "US disrupts North Korean campaign behind $400 million crypto theft",
-     "d": "bleepingcomputer.com",
-     "u": "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/"
-    }
-   ]
-  },
-  {
-   "id": "senior-deduction-2027-2026111707",
-   "type": "news",
-   "cat": "taxes",
-   "tags": [
-    "taxes",
-    "benefits"
-   ],
-   "date": "This week",
-   "ts": "2026-11-17T07:00:00Z",
-   "headline": "2027 taxes: extra standard deduction for 65+ rises to $2,100 for singles",
-   "caption": "Married seniors get $1,700 each. The separate $6,000 senior bonus deduction still runs through tax year 2028.",
-   "visual": {
-    "type": "board",
-    "title": "Age 65+ deductions, 2027",
-    "rows": [
-     {
-      "k": "Single / head of household",
-      "s": "was $2,050",
-      "v": "$2,100",
-      "tone": "gain"
-     },
-     {
-      "k": "Married, per person",
-      "s": "was $1,650",
-      "v": "$1,700",
-      "tone": "gain"
-     },
-     {
-      "k": "65+ and blind, single",
-      "v": "$4,200"
-     },
-     {
-      "k": "Senior bonus deduction",
-      "s": "phases out above $75K / $150K",
-      "v": "$6,000",
-      "tone": "acc"
-     }
-    ]
-   },
-   "detail": [
-    "The IRS raised the extra standard deduction for people 65 and older for tax year 2027. Single filers and heads of household get $2,100, up from $2,050. Married filers get $1,700 per qualifying person, up from $1,650.",
-    "Those who are 65 or older and blind get double: $4,200 for singles and $3,400 per married person.",
-    "Separately, the $6,000 senior bonus deduction remains for tax years 2025 through 2028. It starts phasing out above $75,000 of income for singles and $150,000 for couples, and works whether or not you itemize."
-   ],
-   "money": [
-    "Seniors near the $75,000 or $150,000 lines can time IRA withdrawals to keep more of the $6,000 deduction.",
-    "Update your withholding or estimated payments for the larger 2027 deduction.",
-    "Plan Roth conversions with the 2028 sunset in mind."
-   ],
-   "risk": [
-    "The $6,000 bonus deduction ends after 2028 unless Congress extends it."
-   ],
-   "sources": [
-    {
-     "t": "IRS Updates 2027 Tax Deduction for People Age 65 and Older",
-     "d": "kiplinger.com",
-     "u": "https://www.kiplinger.com/taxes/irs-updates-2027-tax-deduction-for-people-age-65-and-older"
-    }
-   ]
-  },
-  {
-   "id": "ustr-301-exclusions-2026111707",
-   "type": "news",
-   "cat": "taxes",
-   "tags": [
-    "taxes",
-    "business",
-    "world"
-   ],
-   "date": "This week",
-   "ts": "2026-11-17T07:00:00Z",
-   "headline": "US extends 178 tariff exemptions on Chinese goods to Jan. 9; port fees delayed too",
-   "caption": "Covered products can still enter without extra Section 301 tariffs. Fees on Chinese ship services are paused to Jan. 10.",
-   "visual": {
-    "type": "timeline",
-    "title": "Tariff dates to watch",
-    "items": [
-     {
-      "d": "NOW",
-      "t": "178 China exclusions extended",
-      "now": true
-     },
-     {
-      "d": "JAN 9",
-      "t": "Exclusions expire",
-      "s": "11:59 p.m. ET, unless renewed"
-     },
-     {
-      "d": "JAN 10",
-      "t": "Maritime fee pause ends"
-     },
-     {
-      "d": "FEB 28",
-      "t": "Vietnam IP probe decision due"
-     }
-    ]
-   },
-   "detail": [
-    "The US Trade Representative extended all 178 existing exclusions from Section 301 tariffs on certain Chinese products. Covered goods entering before 11:59 p.m. ET on January 9, 2027 avoid the extra duties.",
-    "USTR also kept suspended its actions on China's shipping and shipbuilding sectors through January 10, 2027. That delays fees on some maritime services and extra duties on ship-to-shore cranes.",
-    "Separately, USTR extended its probe of Vietnam's intellectual property practices to February 28, 2027. Vietnam already faces a 12.5% extra duty since July 24, 2026."
-   ],
-   "money": [
-    "Importers can bring in covered goods before Jan. 9 to lock in the lower cost.",
-    "Retail prices on some Chinese goods may hold steady through the holidays.",
-    "Businesses sourcing from Vietnam should price in the risk of more tariffs after Feb. 28."
-   ],
-   "risk": [
-    "Exclusions may not be renewed, raising costs in January."
-   ],
-   "sources": [
-    {
-     "t": "Americas Tax Roundup, 16 November 2026",
-     "d": "taxnews.ey.com",
-     "u": "https://taxnews.ey.com/news/2026-2449-americas-tax-roundup-16-november-2026"
-    }
-   ]
-  },
-  {
-   "id": "futures-steady-tuesday-2026111707",
-   "type": "news",
-   "cat": "markets",
-   "tags": [
-    "markets",
-    "world"
-   ],
-   "date": "Tue Nov 17",
-   "ts": "2026-11-17T07:00:00Z",
-   "headline": "Futures steady after Monday's rout; 10-year yield holds at 5.13%",
-   "caption": "S&P 500 futures dipped 0.1% while Nasdaq futures edged up 0.1%. Gold rose 0.4% but stayed under $3,900.",
-   "visual": {
-    "type": "board",
-    "title": "Early Tuesday",
-    "rows": [
-     {
-      "k": "S&P 500",
-      "s": "Mon close 7,420",
-      "v": "-1.88%",
-      "ch": -1.88
-     },
-     {
-      "k": "E-mini S&P",
-      "s": "futures",
-      "v": "-0.1%",
-      "ch": -0.1
-     },
-     {
-      "k": "E-mini Nasdaq 100",
-      "s": "futures",
-      "v": "+0.1%",
-      "ch": 0.1
-     },
-     {
-      "k": "US 10-year yield",
-      "v": "5.13%",
-      "tone": "acc"
-     },
-     {
-      "k": "Spot gold",
-      "s": "below $3,900",
-      "v": "+0.4%",
-      "ch": 0.4
-     }
-    ],
-    "foot": "As of 06:20 GMT"
-   },
-   "detail": [
-    "US stock futures were mostly flat early Tuesday after Monday's selloff, when the S&P 500 fell 1.88% to 7,420 and the Nasdaq 100 dropped 2.49%. Only consumer staples rose Monday.",
-    "The 10-year Treasury yield sat at 5.13%. Gold rose 0.4% but stayed below $3,900 an ounce. US crude fell 0.9% after a roughly 4% drop Monday, as the IEA sees supply topping demand.",
-    "Cleveland Fed's Beth Hammack said she favors steady, slow rate hikes. Retail sales come out today, and Nvidia reports after the close."
-   ],
-   "money": [
-    "A 5%+ 10-year yield means high-yield savings and Treasuries pay well; compare rates.",
-    "Avoid panic-selling after one bad day; review your long-term plan instead.",
-    "Lower oil can mean cheaper gas soon; hold off on filling up early."
-   ],
-   "risk": [
-    "Retail sales or Nvidia results could swing markets sharply today."
-   ],
-   "sources": [
-    {
-     "t": "Newsquawk Daily European Opening News - 17th November 2026",
-     "d": "newsquawk.com",
-     "u": "https://www.newsquawk.com/headlines/newsquawk-daily-european-opening-news---17th-november-2026"
-    }
-   ]
-  },
-  {
-   "id": "ecb-dec-hike-de-cos-2026111707",
-   "type": "news",
-   "cat": "world",
-   "tags": [
-    "world",
-    "markets"
-   ],
-   "date": "Tue Nov 17",
-   "ts": "2026-11-17T07:00:00Z",
-   "headline": "ECB's Simkus says a December rate hike is his base case; ECB top job race shifts",
-   "caption": "Reports say Klaas Knot may drop out and Germany and France back Spain's de Cos. Australia's central bank also sounds wary.",
-   "visual": {
-    "type": "points",
-    "title": "Central banks, Tuesday",
-    "items": [
-     "ECB's Simkus: December hike is his central scenario",
-     "More tightening possible in 2027, he says",
-     "Knot reportedly set to withdraw from ECB race",
-     "Germany, France agree in principle to back de Cos",
-     "RBA minutes: inflation too high for another year"
-    ]
-   },
-   "detail": [
-    "European Central Bank policymaker Gediminas Simkus said a December rate hike is his main scenario, with more tightening possible in 2027.",
-    "The race to lead the ECB is shifting. Dutch central banker Klaas Knot is reportedly set to withdraw, and Germany and France have agreed in principle to back Spain's Pablo Hernandez de Cos.",
-    "In Australia, the RBA's November minutes said inflation is still too high and likely to stay that way for another year, with excess demand into mid-2027."
-   ],
-   "money": [
-    "Rising rates abroad can strengthen the euro and raise costs for US travelers to Europe.",
-    "Bond funds can drop when global rates rise; check your fund's duration.",
-    "International stock investors should expect currency swings to affect returns."
-   ],
-   "risk": [
-    "Leadership reports are unconfirmed and could change."
-   ],
-   "sources": [
-    {
-     "t": "Newsquawk Daily European Opening News - 17th November 2026",
-     "d": "newsquawk.com",
-     "u": "https://www.newsquawk.com/headlines/newsquawk-daily-european-opening-news---17th-november-2026"
-    }
-   ]
-  },
-  {
-   "id": "edu-aca-tax-credits-2026111707",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "benefits"
-   ],
-   "date": "Explainer",
-   "ts": "2026-11-17T07:00:00Z",
-   "headline": "ACA tax credits: how the subsidy shrinks your premium",
-   "caption": "Indiana plans jump 17% in 2027. Here's how the premium tax credit works and why picking well matters.",
-   "scenes": [
-    {
-     "k": "Today's news",
-     "t": "Indiana ACA rates up 17%+ for 2027",
-     "s": "Extra pandemic-era help ended last year."
-    },
-    {
-     "k": "The basics",
-     "t": "A tax credit pays part of your premium",
-     "s": "It's based on your expected income for the year."
-    },
-    {
-     "k": "How it's set",
-     "t": "Tied to the benchmark silver plan",
-     "viz": {
-      "type": "flow",
-      "items": [
-       "Estimate income",
-       "Find benchmark plan",
-       "Credit fills the gap"
-      ]
-     },
-     "say": "You estimate your income, the system finds the benchmark silver plan, and the credit covers the gap above what you're expected to pay."
-    },
-    {
-     "k": "Who qualifies",
-     "t": "Family of 4 up to about $132,000",
-     "s": "That's 400% of the poverty line, cited for this year."
-    },
-    {
-     "k": "Smart shopping",
-     "t": "Compare; don't auto-renew",
-     "viz": {
-      "type": "split",
-      "items": [
-       [
-        "Silver",
-        "benchmark"
-       ],
-       [
-        "Gold",
-        "sometimes cheaper"
-       ],
-       [
-        "Bronze",
-        "low premium, high deductible",
-        "wide"
-       ]
-      ]
-     },
-     "say": "Silver is the benchmark. Gold can sometimes cost less with a lower deductible. Bronze has a low premium but a high deductible."
-    },
-    {
-     "k": "Bottom line",
-     "t": "Your income guess drives your credit",
-     "s": "If income changes, update it to avoid a surprise at tax time."
-    }
-   ]
-  },
-  {
-   "id": "edu-ipo-orders-2026111707",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "markets"
-   ],
-   "date": "Explainer",
-   "ts": "2026-11-17T07:00:00Z",
-   "headline": "IPO orders: what a $5 billion bid really means",
-   "caption": "Altimeter wants $5B of Anthropic's IPO. Here's how orders, allocations and first-day pops work.",
-   "scenes": [
-    {
-     "k": "Today's news",
-     "t": "One fund bids $5B for Anthropic shares",
-     "s": "The IPO is set to price Thursday at $70-$78."
-    },
-    {
-     "k": "Book building",
-     "t": "Banks collect orders before pricing",
-     "s": "Big funds say how many shares they'd buy, and at what price."
-    },
-    {
-     "k": "Oversubscribed",
-     "t": "More orders than shares",
-     "viz": {
-      "type": "flow",
-      "items": [
-       "Orders pour in",
-       "Demand tops supply",
-       "Price set high in range",
-       "Shares rationed"
-      ]
-     },
-     "say": "When orders pour in and demand tops supply, the price is often set at the high end and shares get rationed."
-    },
-    {
-     "k": "Allocation",
-     "t": "Big bids rarely get filled in full",
-     "s": "Banks spread shares among many buyers."
-    },
-    {
-     "k": "Day one",
-     "t": "Unfilled demand can cause a pop",
-     "s": "Buyers who missed out may chase shares when trading opens."
-    },
-    {
-     "k": "Bottom line",
-     "t": "A pop isn't a promise",
-     "s": "Use limit orders and size positions you can hold through swings."
     }
    ]
   }
