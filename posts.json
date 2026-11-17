@@ -1,6 +1,1016 @@
 {
- "updated": "2026-11-17T20:00:00Z",
+ "updated": "2026-11-17T21:00:00Z",
  "items": [
+  {
+   "id": "oil-settles-bahrain-2026111721",
+   "type": "news",
+   "cat": "world",
+   "tags": [
+    "world",
+    "markets"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T21:00:00Z",
+   "headline": "Oil settles higher: Brent ends at $93.14 after a third Iranian strike on Bahrain",
+   "caption": "Brent rose 0.8% and US crude 0.3% in a choppy day with a $3 range. Tanker attacks near Hormuz offset forecasts of a big supply glut.",
+   "visual": {
+    "type": "board",
+    "title": "Oil settle, Tue Nov 17",
+    "rows": [
+     {
+      "k": "Brent (Jan)",
+      "v": "$93.14",
+      "ch": 0.8,
+      "tone": "gain"
+     },
+     {
+      "k": "WTI (Dec)",
+      "v": "$86.01",
+      "ch": 0.3,
+      "tone": "gain"
+     },
+     {
+      "k": "Hormuz flows Q3",
+      "s": "up 78% vs Q2",
+      "v": "9.1M b/d",
+      "tone": "acc"
+     },
+     {
+      "k": "IEA surplus",
+      "s": "this quarter",
+      "v": "~2M b/d",
+      "tone": "acc"
+     }
+    ],
+    "foot": "Source: Rigzone"
+   },
+   "detail": [
+    "Oil closed higher Tuesday. Brent for January rose 0.8% to $93.14 a barrel, and US crude for December rose 0.3% to $86.01. Prices swung in a range of about $3.",
+    "Iran hit Bahrain for the third time in under a week, ships were attacked near the Strait of Hormuz, and US aircraft struck an Iranian missile site on Qeshm Island. Iran's president said Tehran wants a diplomatic way out, and Qatar says mediation goes on.",
+    "Supply is improving. Hormuz flows rose 78% in the third quarter to 9.1 million barrels a day, still below last year. The IEA sees a surplus near 2 million barrels a day this quarter, and US gasoline is at its lowest since March."
+   ],
+   "money": [
+    "Gas and diesel prices are falling even with oil near $90, so it may pay to fill up as prices drift down rather than panic-buy on scary headlines.",
+    "Brent has tended to rise Fridays on weekend fears and fade early in the week; traders watch that pattern, but it is not a sure thing.",
+    "If you own energy funds, a glut forecast can weigh on prices even while war news stays hot."
+   ],
+   "risk": [
+    "One major escalation could send prices sharply higher in hours.",
+    "A peace deal plus a supply glut could push oil and energy stocks lower."
+   ],
+   "sources": [
+    {
+     "t": "Oil Prices Swing as Gulf Attacks Continue",
+     "d": "rigzone.com",
+     "u": "https://www.rigzone.com/news/oil_prices_swing_as_gulf_attacks_continue-17-nov-2026-185107-article"
+    }
+   ]
+  },
+  {
+   "id": "senate-faa-bill-atc-2026111721",
+   "type": "news",
+   "cat": "politics",
+   "tags": [
+    "politics",
+    "business"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T21:00:00Z",
+   "headline": "Senate bill gives FAA nearly $24B and funds 2,300 new controllers, but skips the $50B ask",
+   "caption": "Senate appropriators released their final funding bills, including the FAA. The plan doesn't take up the White House's new $50 billion air traffic control request.",
+   "visual": {
+    "type": "board",
+    "title": "Senate FY2027 FAA bill",
+    "rows": [
+     {
+      "k": "Total FAA",
+      "v": "~$24B"
+     },
+     {
+      "k": "Operations",
+      "s": "up $600M+",
+      "v": "$14.36B",
+      "tone": "gain"
+     },
+     {
+      "k": "Facilities & equipment",
+      "s": "up $500M",
+      "v": "$4.5B",
+      "tone": "gain"
+     },
+     {
+      "k": "Telecom upgrades",
+      "v": "$716.7M"
+     },
+     {
+      "k": "Controller hiring",
+      "s": "2,300 hires",
+      "v": "$95.4M"
+     },
+     {
+      "k": "Airport grants",
+      "v": "~$4.7B"
+     }
+    ],
+    "foot": "Funding deadline: Dec. 11"
+   },
+   "detail": [
+    "The Senate Appropriations Committee released its last five full-year funding bills, including transportation. The FAA would get nearly $24 billion.",
+    "Operations would rise to $14.36 billion, and equipment spending would climb $500 million to $4.5 billion. The bill sets aside $95.4 million to hire 2,300 air traffic controllers, $716.7 million for telecom upgrades tied to a recent nationwide ground stop, and $300 million as a first payment on a common automation platform.",
+    "The bill does not address the administration's new request for another $50 billion for air traffic control, up from an earlier $30 billion ask. Senate leaders want it to go through normal budgeting and are asking how already approved money is being spent. Government funding runs out Dec. 11."
+   ],
+   "money": [
+    "Flying over the holidays? Delays tied to old systems remain a risk, so book early flights and nonstops when you can.",
+    "Contractors in aviation tech and telecom could see work if this money is approved; watch for awards.",
+    "A shutdown after Dec. 11 could slow FAA hiring and other federal services, so keep some cash cushion if your income depends on federal work."
+   ],
+   "risk": [
+    "The bill still has to pass both chambers before Dec. 11.",
+    "Without a deal, a stopgap or shutdown could freeze new spending."
+   ],
+   "sources": [
+    {
+     "t": "Senate FAA Bill To Boost ATC, Operations Funding",
+     "d": "ainonline.com",
+     "u": "https://ainonline.com/aviation-news/air-transport/2026-11-17/senate-faa-bill-boost-boost-atc-ops-funding"
+    }
+   ]
+  },
+  {
+   "id": "open-doors-intl-students-2026111721",
+   "type": "news",
+   "cat": "immigration",
+   "tags": [
+    "immigration",
+    "business"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T21:00:00Z",
+   "headline": "New international students fall 17.7%, and early fall 2026 data shows a further 9% drop",
+   "caption": "The Open Doors report shows about 1.1 million foreign students in 2025-26, down 2.7%. A fall 2026 snapshot points to deeper declines.",
+   "visual": {
+    "type": "stat",
+    "title": "International students in the US",
+    "num": "-17.7%",
+    "tone": "loss",
+    "label": "Drop in new international students in 2025-26, the second straight yearly decline.",
+    "facts": [
+     [
+      "Total students",
+      "~1.1M",
+      "down 2.7%"
+     ],
+     [
+      "Master's",
+      "237,655",
+      "down 22.4%"
+     ],
+     [
+      "Fall 2026 snapshot",
+      "-9%",
+      "809 colleges"
+     ]
+    ]
+   },
+   "detail": [
+    "The yearly Open Doors report, released Monday, counted about 1.1 million international students in the US in 2025-26, down 2.7%. New students fell 17.7%.",
+    "Master's students dropped 22.4% to 237,655, while doctoral students rose 3.1%. Students on OPT work training rose 14.1% to 335,785. India still sent the most students, but its count fell 6.5%; China's fell 4.3%.",
+    "An early survey of 809 colleges for fall 2026 shows total international enrollment down 9% and new students down 15%. Visa and work rule changes are among the reasons cited."
+   ],
+   "money": [
+    "Colleges that rely on full-price foreign students may push harder to recruit US students, which can mean more aid offers; compare packages.",
+    "College towns may see softer rental demand near campuses; renters there may have more room to negotiate.",
+    "Investors in student housing or education stocks should watch enrollment trends closely."
+   ],
+   "risk": [
+    "Fall 2026 numbers are preliminary and could change.",
+    "Policy shifts could speed up or reverse the trend."
+   ],
+   "sources": [
+    {
+     "t": "International student enrollment fell 2.7% in 2025-26",
+     "d": "highereddive.com",
+     "u": "https://www.highereddive.com/news/international-student-enrollment-fell-27-in-2025-26/874661/"
+    },
+    {
+     "t": "Open Doors 2026 Fast Facts",
+     "d": "opendoorsdata.org",
+     "u": "https://opendoorsdata.org/wp-content/uploads/2026/11/OD26_Fast-Facts.pdf"
+    }
+   ]
+  },
+  {
+   "id": "crypto-kiosk-bans-2026111721",
+   "type": "news",
+   "cat": "crypto",
+   "tags": [
+    "crypto",
+    "states"
+   ],
+   "date": "This week",
+   "ts": "2026-11-17T21:00:00Z",
+   "headline": "Four states now ban crypto ATMs as kiosk scam losses near $389M in a year",
+   "caption": "Indiana, Minnesota, Tennessee and Vermont banned the machines in 2026. People over 50 lost more than $302 million to kiosk scams in 2025.",
+   "visual": {
+    "type": "stat",
+    "title": "Crypto kiosk scams, 2025",
+    "num": "$389M",
+    "tone": "loss",
+    "label": "Reported losses tied to crypto kiosks in 2025, up 58% from 2024 (FBI).",
+    "facts": [
+     [
+      "Complaints",
+      "13,460",
+      "FBI data"
+     ],
+     [
+      "Losses, age 50+",
+      "$302M+",
+      "over half of complaints"
+     ],
+     [
+      "Statewide bans",
+      "4",
+      "IN, MN, TN, VT"
+     ]
+    ]
+   },
+   "detail": [
+    "Indiana, Minnesota, Tennessee and Vermont banned crypto kiosks this year. Hawaii now bars cash deposits into the machines, and at least 20 Massachusetts towns plus cities like Jackson, Michigan, have their own bans.",
+    "FBI data show 13,460 kiosk complaints in 2025 and nearly $389 million in losses, up 58%. People over 50 filed more than half the complaints. An Iowa probe found most transactions at two big operators were linked to scams.",
+    "Bitcoin Depot filed for bankruptcy and took its kiosks offline in May, citing bans. Operators say better safeguards would work better than bans."
+   ],
+   "money": [
+    "No real agency, bank or utility will ever ask you to pay at a crypto ATM. Hang up and call the company yourself.",
+    "Talk with older relatives about this scam; a two-minute chat can save thousands.",
+    "If you were scammed, report it fast to the FBI's IC3 site and your state attorney general; some states are suing operators."
+   ],
+   "risk": [
+    "Crypto sent through a kiosk is very hard to get back.",
+    "Scammers move to gift cards or wire transfers when kiosks disappear."
+   ],
+   "sources": [
+    {
+     "t": "Four States Ban Crypto Kiosks as Scams Cost Americans Nearly $389,000,000 in One Year",
+     "d": "dailyhodl.com",
+     "u": "https://dailyhodl.com/2026/11/17/four-states-ban-crypto-kiosks-as-scams-cost-americans-nearly-389000000-in-one-year"
+    },
+    {
+     "t": "States, cities move to ban cryptocurrency kiosks as scams mount",
+     "d": "stateline.org",
+     "u": "https://stateline.org/2026/11/16/states-cities-move-to-ban-cryptocurrency-kiosks-as-scams-mount/"
+    }
+   ]
+  },
+  {
+   "id": "tariff-refunds-bonuses-2026111721",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business",
+    "politics"
+   ],
+   "date": "This week",
+   "ts": "2026-11-17T21:00:00Z",
+   "headline": "Some companies steer tariff refunds into bonuses; TJX sets aside $112M of $331M",
+   "caption": "ProPublica found at least nine firms using refunds from struck-down tariffs for pay. Others, like Walmart and Target, say they'll cut prices.",
+   "visual": {
+    "type": "deals",
+    "title": "Tariff refunds and bonuses",
+    "items": [
+     {
+      "a": "TJX",
+      "b": "$112M to bonuses",
+      "amt": "$331M",
+      "st": "refund",
+      "c": "bad"
+     },
+     {
+      "a": "American Eagle",
+      "b": "$18M to bonuses",
+      "amt": "$196M",
+      "st": "refund",
+      "c": "bad"
+     },
+     {
+      "a": "Acushnet",
+      "b": "$12M to bonuses",
+      "amt": "$45M",
+      "st": "refund",
+      "c": "bad"
+     },
+     {
+      "a": "Walmart, Target, Costco",
+      "b": "price cuts",
+      "amt": "—",
+      "st": "pledged",
+      "c": "ok"
+     }
+    ]
+   },
+   "detail": [
+    "After the Supreme Court ruled 6-3 that the president lacked authority for the broad tariffs, the government owes about $166 billion in refunds, and more than $100 billion was paid by the end of July.",
+    "ProPublica, as reported by Forbes, found at least nine companies using refunds for bonuses. TJX got $331 million and set aside $112 million for incentive pay. American Eagle and Acushnet did similar. Many firms haven't said what they'll do.",
+    "Some are sharing: FedEx, UPS and DHL opened refund portals, and Burlington, Target, Walmart, Costco and others said they'll lower prices. Amazon said it will refund shoppers where a specific tariff charge was passed on."
+   ],
+   "money": [
+    "If you paid a tariff or duty fee on a FedEx, UPS or DHL delivery, check their refund portals.",
+    "Look at old Amazon orders for a listed tariff charge; it may come back automatically.",
+    "Shop at retailers that pledged price cuts, and compare prices before big holiday buys."
+   ],
+   "risk": [
+    "Most consumers won't get money back directly.",
+    "Lawsuits seeking refund sharing may take years."
+   ],
+   "sources": [
+    {
+     "t": "Some Corporations Reportedly Using Tariff Refunds For Executive Bonuses",
+     "d": "forbes.com",
+     "u": "https://www.forbes.com/sites/maryroeloffs/2026/11/16/some-corporations-reportedly-using-tariff-refunds-for-executive-bonuses-instead-of-repaying-shoppers/"
+    }
+   ]
+  },
+  {
+   "id": "foxconn-sony-camera-2026111721",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business",
+    "ai"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T21:00:00Z",
+   "headline": "Foxconn moves to buy Sony's car camera module business for about ¥7.24 billion",
+   "caption": "The iPhone assembler wants a bigger role in smart cars. The early price leaves out some overseas gear and inventory still being negotiated.",
+   "visual": {
+    "type": "deals",
+    "title": "Foxconn auto push",
+    "items": [
+     {
+      "a": "Foxconn",
+      "b": "Sony auto camera modules",
+      "amt": "¥7.24B",
+      "st": "preliminary",
+      "c": "pend"
+     }
+    ]
+   },
+   "detail": [
+    "Foxconn, also called Hon Hai, said Tuesday it intends to buy Sony's automotive camera module business. The preliminary value is about 7.24 billion yen.",
+    "That price excludes some assets still in talks, such as overseas production equipment and inventory. No closing timeline was given.",
+    "Foxconn says the deal grows its presence in smart mobility and car electronics, a key part of its plan to rely less on phone assembly."
+   ],
+   "money": [
+    "Car cameras power safety features that can lower insurance costs; ask your insurer about discounts for driver-assist systems.",
+    "Investors following EV and auto tech suppliers may see more deals like this as electronics makers move into cars.",
+    "Small deals don't move big stocks much, so don't trade on this alone."
+   ],
+   "risk": [
+    "Terms are preliminary and could change.",
+    "Auto demand is slowing in some markets."
+   ],
+   "sources": [
+    {
+     "t": "Foxconn to Acquire Sony's Automotive Camera Module Business",
+     "d": "gurufocus.com",
+     "u": "https://www.gurufocus.com/news/9204624/foxconn-to-acquire-sonys-automotive-camera-module-business"
+    }
+   ]
+  },
+  {
+   "id": "ca-insurance-ai-survey-2026111721",
+   "type": "news",
+   "cat": "california",
+   "tags": [
+    "california",
+    "ai"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T21:00:00Z",
+   "headline": "California asks insurers how they use AI; public workshop set for Dec. 15",
+   "caption": "The Department of Insurance launched a survey on AI use and wants public input on safeguards. Insurer answers are due Dec. 30.",
+   "visual": {
+    "type": "timeline",
+    "title": "California insurance AI review",
+    "items": [
+     {
+      "d": "NOV 16",
+      "t": "Survey launched",
+      "s": "AI use, vendors, governance",
+      "now": true
+     },
+     {
+      "d": "DEC 15",
+      "t": "Public workshop",
+      "s": "Virtual, 10 a.m."
+     },
+     {
+      "d": "DEC 30",
+      "t": "Survey due"
+     }
+    ]
+   },
+   "detail": [
+    "The California Department of Insurance launched a survey on how insurers use artificial intelligence, govern it, and rely on outside vendors.",
+    "It is also asking the public to weigh in on possible rules for transparency, fairness, privacy and accountability. A virtual workshop is set for Dec. 15 at 10 a.m., open to consumers, insurers and researchers.",
+    "Survey responses are due Dec. 30. The department will use the results to decide if new consumer protections or guidance are needed."
+   ],
+   "money": [
+    "If an insurer denied a claim or raised your rate and you suspect an automated decision, ask for the reason in writing.",
+    "Consumers can join the Dec. 15 workshop to share experiences with AI-driven pricing or claims.",
+    "Shop your home and auto policy each year; pricing models differ a lot between insurers."
+   ],
+   "risk": [
+    "New rules, if any, are months away.",
+    "Insurers may say more rules raise costs."
+   ],
+   "sources": [
+    {
+     "t": "California Seeks Insurer Input on AI Use, Public Workshop Planned",
+     "d": "insurancejournal.com",
+     "u": "https://insurancejournal.com/news/west/2026/11/16/892628.htm"
+    }
+   ]
+  },
+  {
+   "id": "nvidia-ibm-quantum-2026111721",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "markets"
+   ],
+   "date": "This week",
+   "ts": "2026-11-17T21:00:00Z",
+   "headline": "Nvidia, IBM and Fermilab launch a quantum platform claiming 13,000x faster error research",
+   "caption": "The platform links Nvidia DGX B200 systems with IBM's Nighthawk quantum chip. The partners say a design task fell from 12 weeks to 45 minutes.",
+   "visual": {
+    "type": "vs",
+    "title": "Error-correction design time",
+    "a": [
+     "Before",
+     "12 weeks",
+     1,
+     "loss"
+    ],
+    "b": [
+     "New platform",
+     "45 min",
+     0.05,
+     "gain"
+    ],
+    "foot": "Claimed by Nvidia; up to 13,000x faster"
+   },
+   "detail": [
+    "Nvidia announced a joint platform with IBM and Fermi National Accelerator Laboratory that pairs its DGX B200 AI systems with IBM's Nighthawk quantum processor.",
+    "A tool in the project claims up to 13,000 times faster quantum error-correction research, cutting one design job from 12 weeks to 45 minutes.",
+    "Separately, Nvidia marked 20 years of CUDA, its software platform, which it says has over 11 million developers. The news came hours before Nvidia's earnings report."
+   ],
+   "money": [
+    "Quantum stocks tend to jump on headlines like this; don't chase a spike without real revenue behind it.",
+    "Broad tech index funds already give some exposure to Nvidia and IBM without single-stock risk.",
+    "Claims of big speedups are company figures; wait for outside tests before betting on them."
+   ],
+   "risk": [
+    "Useful quantum computers are still years away.",
+    "Speedup numbers come from the companies themselves."
+   ],
+   "sources": [
+    {
+     "t": "NVIDIA Announces Collaboration With IBM and Fermi National Accelerator Laboratory",
+     "d": "nvidianews.nvidia.com",
+     "u": "https://nvidianews.nvidia.com/news/nvidia-announces-collaboration-with-ibm-and-fermi-national-accelerator-laboratory-to-launch-quantum-classical-codesign-platform-plus-error-correction-breakthrough-to-advance-practical-quantum-computing"
+    },
+    {
+     "t": "20 Years of CUDA",
+     "d": "blogs.nvidia.com",
+     "u": "https://blogs.nvidia.com/blog/20-years-cuda"
+    }
+   ]
+  },
+  {
+   "id": "sc26-chip-race-2026111721",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "markets"
+   ],
+   "date": "This week",
+   "ts": "2026-11-17T21:00:00Z",
+   "headline": "Supercomputing show: AMD says training is 16% faster; Intel shows a 256-core chip",
+   "caption": "At SC26, AMD posted new training results and Intel detailed its Diamond Rapids server chip. Nvidia showed a four-node desktop AI cluster.",
+   "visual": {
+    "type": "board",
+    "title": "SC26 chip news",
+    "rows": [
+     {
+      "k": "AMD MI350",
+      "s": "MLPerf, Llama runs",
+      "v": "~16% faster",
+      "tone": "gain"
+     },
+     {
+      "k": "Intel Diamond Rapids",
+      "s": "server CPU",
+      "v": "256 cores"
+     },
+     {
+      "k": "Intel GPU D-series",
+      "s": "memory",
+      "v": "480GB"
+     },
+     {
+      "k": "Nvidia DGX Spark HPC kit",
+      "s": "4 nodes",
+      "v": "700B-param models"
+     }
+    ]
+   },
+   "detail": [
+    "At the SC26 supercomputing conference, AMD said its MI350-series GPUs cut average training time about 16% across four Llama setups in MLPerf Training tests.",
+    "Intel said its Diamond Rapids server chip scales to 256 performance cores with 1.6 TB/s of memory bandwidth, and its D-series GPU offers up to 480GB of memory.",
+    "Nvidia showed a DGX Spark HPC developer kit: a four-node desktop cluster with 512GB of combined memory that it says can run models up to 700 billion parameters."
+   ],
+   "money": [
+    "Competition among chipmakers can lower AI computing costs over time, which helps businesses that rent cloud AI.",
+    "If you hold chip stocks, a diversified semiconductor fund spreads risk across AMD, Intel and Nvidia.",
+    "Benchmarks are company-run; treat them as marketing until independent tests confirm."
+   ],
+   "risk": [
+    "Chip stocks are volatile around Nvidia earnings.",
+    "Benchmarks may not match real-world use."
+   ],
+   "sources": [
+    {
+     "t": "AMD advances AI training across more workloads in MLPerf Training",
+     "d": "amd.com",
+     "u": "https://www.amd.com/en/blogs/2026/amd-advances-ai-training-across-more-workloads-in-mlperf-training.html"
+    },
+    {
+     "t": "DGX Spark HPC Developer Kit",
+     "d": "blogs.nvidia.com",
+     "u": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26"
+    }
+   ]
+  },
+  {
+   "id": "tencent-hy4-flash-2026111721",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "business"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T21:00:00Z",
+   "headline": "Tencent's Hy4 Flash prices AI at 7 cents per million input tokens",
+   "caption": "The new fast model handles text, images and video with a 1 million token context. Tencent says it is far cheaper per task than its bigger Hy4.",
+   "visual": {
+    "type": "board",
+    "title": "Price per million tokens",
+    "rows": [
+     {
+      "k": "Hy4 Flash input",
+      "v": "$0.07",
+      "tone": "gain"
+     },
+     {
+      "k": "Hy4 Flash output",
+      "v": "$0.28",
+      "tone": "gain"
+     },
+     {
+      "k": "Context window",
+      "v": "1M tokens"
+     },
+     {
+      "k": "Size",
+      "s": "active per token",
+      "v": "224B / 12B"
+     }
+    ],
+    "foot": "Tencent figures"
+   },
+   "detail": [
+    "Tencent released Hy4 Flash on Nov. 16. It has 224 billion total parameters, with 12 billion active per token, and reads text, images and video with a 1 million token context.",
+    "Pricing is $0.07 per million input tokens and about $0.28 per million output tokens. Tencent claims much lower cost per task than its flagship Hy4 in its own tests.",
+    "It is free in Tencent's WorkBuddy until Nov. 30 and half off on Tencent Cloud TokenHub for the same period. Open weights are reportedly planned, with no date."
+   ],
+   "money": [
+    "Small businesses using AI tools should compare prices often; costs per task keep falling fast.",
+    "Free trial periods like this one through Nov. 30 let you test before paying.",
+    "Falling AI prices can squeeze margins at AI model makers, which matters for investors."
+   ],
+   "risk": [
+    "Speed and cost claims come from Tencent's own tests.",
+    "Using Chinese cloud services may raise data and compliance questions for US firms."
+   ],
+   "sources": [
+    {
+     "t": "AI News Today: November 17, 2026",
+     "d": "unrot.co",
+     "u": "https://www.unrot.co/ai-news/2026/11/17"
+    }
+   ]
+  },
+  {
+   "id": "medicaid-education-data-match-2026111721",
+   "type": "news",
+   "cat": "benefits",
+   "tags": [
+    "benefits",
+    "politics"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T21:00:00Z",
+   "headline": "CMS will check Medicaid applicants against school records for new work rules",
+   "caption": "The Education Department will share student enrollment data to verify Medicaid's community engagement rules. Comments are due Dec. 16.",
+   "visual": {
+    "type": "timeline",
+    "title": "Medicaid work-rule timeline",
+    "items": [
+     {
+      "d": "NOV 16",
+      "t": "CMS-Education data match posted",
+      "s": "18-month program",
+      "now": true
+     },
+     {
+      "d": "DEC 11",
+      "t": "States tell CMS if they want delay"
+     },
+     {
+      "d": "DEC 16",
+      "t": "Comments due on data match"
+     },
+     {
+      "d": "JAN 1",
+      "t": "Work rules start",
+      "s": "2027"
+     },
+     {
+      "d": "JUN 30",
+      "t": "Optional hold-harmless ends",
+      "s": "2027"
+     }
+    ]
+   },
+   "detail": [
+    "CMS and the Department of Education plan to match Medicaid applicants against student enrollment records. The goal is to verify the new community engagement, or work, requirement, since school can count toward it.",
+    "The data-matching program would run 18 months. Public comments are due Dec. 16, 2026.",
+    "The requirements start Jan. 1, 2027. CMS has offered states an optional hold-harmless period through June 30, 2027, and states must tell CMS by Dec. 11 if they want it."
+   ],
+   "money": [
+    "If you get Medicaid and are in school, keep proof of enrollment handy; it can count toward the work rule.",
+    "Make sure your state Medicaid office has your current address and contact info so you don't miss notices.",
+    "Ask your state whether it is taking the delay to June 30, which affects when coverage could be cut."
+   ],
+   "risk": [
+    "Data errors could wrongly flag people as not meeting the rule.",
+    "Rules and timing vary by state."
+   ],
+   "sources": [
+    {
+     "t": "Holland & Knight Health Dose: November 17, 2026",
+     "d": "hklaw.com",
+     "u": "https://www.hklaw.com/en/insights/publications/2026/11/holland-knight-health-dose-november-17-2026"
+    }
+   ]
+  },
+  {
+   "id": "social-security-nov18-2026111721",
+   "type": "news",
+   "cat": "benefits",
+   "tags": [
+    "benefits",
+    "politics"
+   ],
+   "date": "Wed Nov 18",
+   "ts": "2026-11-17T21:00:00Z",
+   "headline": "Social Security: Wednesday pay goes to birthdays 11-20 as Senate holds a hearing",
+   "caption": "Retirees born on the 11th to 20th get November checks on Nov. 18. The Senate Budget Committee holds a Social Security hearing this week.",
+   "visual": {
+    "type": "timeline",
+    "title": "This week in Social Security",
+    "items": [
+     {
+      "d": "NOV 18",
+      "t": "Payments: birthdays 11th-20th",
+      "now": true
+     },
+     {
+      "d": "NOV 18-19",
+      "t": "Senate Budget hearing on Social Security"
+     },
+     {
+      "d": "NOV 25",
+      "t": "Payments: birthdays 21st-31st"
+     },
+     {
+      "d": "JAN",
+      "t": "3.6% COLA starts",
+      "s": "2027"
+     }
+    ]
+   },
+   "detail": [
+    "Social Security pays most retirees on Wednesdays based on birthday. Those born from the 11th to the 20th get their November payment on Wednesday, Nov. 18. The next group, born the 21st to the 31st, is paid Nov. 25.",
+    "In Congress, the Senate Budget Committee has a hearing on Social Security set for Nov. 18-19, and the Senate Aging Committee is holding one on reforming the safety net.",
+    "Benefits rise 3.6% in January under the 2027 cost-of-living adjustment."
+   ],
+   "money": [
+    "Set up direct deposit and a my Social Security account to see payments and your new COLA amount.",
+    "If a payment is late, wait three mail days before calling SSA.",
+    "Plan for 2027 Medicare Part B premiums, which come out of your check and can eat into the 3.6% raise."
+   ],
+   "risk": [
+    "Hearings don't change benefits by themselves.",
+    "Scammers often pose as SSA around payment days; SSA won't demand payment by phone."
+   ],
+   "sources": [
+    {
+     "t": "Confirmed: third November payment arrives Wednesday, Nov. 18",
+     "d": "cronista.com",
+     "u": "https://www.cronista.com/en/finance/confirmed-by-the-government-the-third-november-payment-will-arrive-wednesday-nov-18-for-retirees-born-between-the-11th-and-20th/"
+    },
+    {
+     "t": "Holland & Knight Health Dose: November 17, 2026",
+     "d": "hklaw.com",
+     "u": "https://www.hklaw.com/en/insights/publications/2026/11/holland-knight-health-dose-november-17-2026"
+    }
+   ]
+  },
+  {
+   "id": "medicaid-expansion-holdouts-2026111721",
+   "type": "news",
+   "cat": "states",
+   "tags": [
+    "states",
+    "benefits",
+    "politics"
+   ],
+   "date": "This week",
+   "ts": "2026-11-17T21:00:00Z",
+   "headline": "Medicaid expansion back in play: 2.6 million could gain coverage in holdout states",
+   "caption": "New Democratic governors in Georgia, Kansas, Texas and Wisconsin want to expand Medicaid. KFF says legislatures and tight budgets remain big hurdles.",
+   "visual": {
+    "type": "stat",
+    "title": "Medicaid expansion holdouts",
+    "num": "2.6M",
+    "tone": "acc",
+    "label": "Uninsured adults who could become eligible if all 10 holdout states expanded; nearly half live in Texas.",
+    "facts": [
+     [
+      "Holdout states",
+      "10",
+      "GA, KS, TX, WI to watch"
+     ],
+     [
+      "Federal match",
+      "90%",
+      "for expansion adults"
+     ],
+     [
+      "Georgia gap risk",
+      "185,000",
+      "as Pathways waiver ends"
+     ]
+    ]
+   },
+   "detail": [
+    "Ten states have not adopted the ACA Medicaid expansion. After the elections, Georgia, Kansas, Texas and Wisconsin have new Democratic governors, and Democrats gained some legislative chambers.",
+    "KFF estimates 2.6 million uninsured adults could become eligible if all ten expanded, nearly half in Texas. That includes about 185,000 Georgians who could fall into a coverage gap when the state's Pathways waiver ends.",
+    "Hurdles remain: Republican-led legislatures, states paying 10% of costs, new limits on provider taxes, and work requirements starting Jan. 1, 2027. About two-thirds of residents in these states support expansion."
+   ],
+   "money": [
+    "If you live in a holdout state and earn too much for Medicaid but too little for ACA help, watch your legislature's session; rules could change.",
+    "Check HealthCare.gov now during open enrollment; some low earners still qualify for cheap plans.",
+    "Hospitals and insurers in these states could benefit from expansion, which matters for local jobs and health stocks."
+   ],
+   "risk": [
+    "Expansion needs legislatures, and many remain opposed.",
+    "Federal cuts could make expansion costlier for states."
+   ],
+   "sources": [
+    {
+     "t": "What the Recent Elections Could Mean for Medicaid Expansion Efforts in 2027",
+     "d": "kff.org",
+     "u": "https://www.kff.org/medicaid/what-the-recent-elections-and-an-evolving-federal-policy-landscape-could-mean-for-medicaid-expansion-efforts-in-2027/"
+    },
+    {
+     "t": "Democratic wins put Medicaid expansion back in play in holdout states",
+     "d": "wisconsinexaminer.com",
+     "u": "https://wisconsinexaminer.com/2026/11/09/repub/democratic-wins-put-medicaid-expansion-back-in-play-in-holdout-states/"
+    }
+   ]
+  },
+  {
+   "id": "irs-2027-thresholds-2026111721",
+   "type": "news",
+   "cat": "taxes",
+   "tags": [
+    "taxes"
+   ],
+   "date": "This week",
+   "ts": "2026-11-17T21:00:00Z",
+   "headline": "2027 tax year: standard deduction rises to $33,200 for couples, $16,600 for singles",
+   "caption": "The IRS raised income limits for all seven brackets; rates stay the same. The estate tax exemption climbs to $15.48 million.",
+   "visual": {
+    "type": "board",
+    "title": "2027 tax year (returns filed in 2028)",
+    "rows": [
+     {
+      "k": "Standard deduction, joint",
+      "v": "$33,200",
+      "tone": "gain"
+     },
+     {
+      "k": "Standard deduction, single",
+      "v": "$16,600",
+      "tone": "gain"
+     },
+     {
+      "k": "Estate/gift exemption",
+      "s": "up ~$480K",
+      "v": "$15.48M",
+      "tone": "gain"
+     },
+     {
+      "k": "Bracket rates",
+      "s": "thresholds rise",
+      "v": "Unchanged"
+     }
+    ]
+   },
+   "detail": [
+    "The IRS announced inflation adjustments for tax year 2027, which covers returns filed in 2028. The thresholds for all seven brackets rose, while the rates stayed the same.",
+    "The standard deduction will be $33,200 for married couples filing jointly and $16,600 for single filers. The estate and gift tax exemption rises about $480,000 to $15.48 million.",
+    "Long-term capital gains brackets, the earned income credit and the child credit also rise, according to the report."
+   ],
+   "money": [
+    "Higher brackets mean a raise that just keeps up with inflation won't push more of your pay into a higher rate.",
+    "Compare your deductions to the new standard amount; if you are close, bunching charity gifts into one year can help you itemize.",
+    "Review your W-4 in January so your withholding matches the new brackets."
+   ],
+   "risk": [
+    "These numbers apply to 2027 income, not the return you file next spring.",
+    "Congress could change tax law before then."
+   ],
+   "sources": [
+    {
+     "t": "IRS announces higher income thresholds for 2027 tax year",
+     "d": "abc30.com",
+     "u": "https://abc30.com/post/watching-wallet-irs-announces-higher-income-thresholds-2027-tax-year/20045104"
+    }
+   ]
+  },
+  {
+   "id": "edu-crypto-kiosk-scam-2026111721",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "crypto"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-17T21:00:00Z",
+   "headline": "Crypto ATM scams: the one payment request that's always fake",
+   "caption": "Kiosk scams cost Americans nearly $389 million in 2025. Here's how they work and how to stop one.",
+   "scenes": [
+    {
+     "k": "THE NEWS",
+     "t": "4 states just banned crypto ATMs",
+     "s": "Indiana, Minnesota, Tennessee and Vermont acted after scam losses soared."
+    },
+    {
+     "k": "THE SCALE",
+     "t": "$389M lost in one year",
+     "s": "FBI data show losses rose 58% in 2025.",
+     "viz": {
+      "type": "split",
+      "items": [
+       [
+        "Complaints",
+        "13,460"
+       ],
+       [
+        "Age 50+ losses",
+        "$302M+"
+       ],
+       [
+        "Total losses, 2025",
+        "$389M",
+        "wide"
+       ]
+      ]
+     },
+     "say": "There were 13,460 complaints, more than 302 million dollars lost by people over 50, and 389 million dollars lost in total."
+    },
+    {
+     "k": "HOW IT WORKS",
+     "t": "Panic, then a trip to the kiosk",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "Scary call or pop-up",
+       "Fake 'agent' takes charge",
+       "Told to withdraw cash",
+       "Feed cash into crypto ATM",
+       "Money gone"
+      ]
+     },
+     "say": "A scary call leads to a fake agent, who tells you to pull out cash and feed it into a crypto ATM. Then the money is gone."
+    },
+    {
+     "k": "THE RULE",
+     "t": "No real agency takes payment at a crypto ATM",
+     "s": "Not the IRS, police, your bank or a utility."
+    },
+    {
+     "k": "WHAT TO DO",
+     "t": "Hang up. Call back on a number you trust",
+     "s": "Use the number on your card, bill or the official website."
+    },
+    {
+     "k": "IF IT HAPPENED",
+     "t": "Report it fast",
+     "s": "File at the FBI's IC3 site and tell your state attorney general; speed matters."
+    }
+   ]
+  },
+  {
+   "id": "edu-standard-vs-itemize-2026111721",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "taxes"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-17T21:00:00Z",
+   "headline": "Standard deduction vs. itemizing: which one wins?",
+   "caption": "The 2027 standard deduction rises to $33,200 for couples. Here's how to tell if itemizing still makes sense.",
+   "scenes": [
+    {
+     "k": "THE NEWS",
+     "t": "Standard deduction keeps climbing",
+     "s": "For 2027: $33,200 for couples, $16,600 for singles."
+    },
+    {
+     "k": "THE BASICS",
+     "t": "You take the bigger of two numbers",
+     "s": "Either the flat standard deduction or your itemized total, not both."
+    },
+    {
+     "k": "WHAT COUNTS",
+     "t": "Itemized = add up eligible costs",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "Mortgage interest",
+       "State and local taxes",
+       "Charity gifts",
+       "Big medical bills"
+      ]
+     },
+     "say": "Itemized deductions include mortgage interest, state and local taxes, charity gifts, and large medical bills."
+    },
+    {
+     "k": "AN EXAMPLE",
+     "t": "A single filer with $14,000 itemized",
+     "viz": {
+      "type": "split",
+      "items": [
+       [
+        "Itemized total",
+        "$14,000"
+       ],
+       [
+        "2027 standard",
+        "$16,600"
+       ],
+       [
+        "Better choice",
+        "Standard, by $2,600",
+        "wide"
+       ]
+      ]
+     },
+     "say": "A single filer with 14,000 dollars in itemized costs should take the 16,600 dollar standard deduction. It is 2,600 dollars bigger."
+    },
+    {
+     "k": "A TRICK",
+     "t": "Bunch deductions into one year",
+     "s": "Giving two years of charity in one year can push you over the line, then take the standard the next year."
+    },
+    {
+     "k": "BOTTOM LINE",
+     "t": "Run both numbers every year",
+     "s": "Tax software does it for you; a tax pro can help if your case is complex."
+    }
+   ]
+  },
   {
    "id": "earnings-movers-tue-2026111720",
    "type": "news",
@@ -10876,947 +11886,6 @@
      "k": "Takeaway",
      "t": "Stick to your plan",
      "s": "Fear spikes often pass; selling in a panic locks in losses."
-    }
-   ]
-  },
-  {
-   "id": "edu-insurance-moratorium-2026111710",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "california"
-   ],
-   "date": "Explainer",
-   "ts": "2026-11-17T10:00:00Z",
-   "headline": "Insurance moratoriums: how a wildfire can freeze your policy in place",
-   "caption": "California just protected 50,000 homes near the Dove Fire. Here's how these orders work.",
-   "scenes": [
-    {
-     "k": "Today's news",
-     "t": "50,000 homes can't be dropped",
-     "s": "California froze nonrenewals near the Dove Fire for a year."
-    },
-    {
-     "k": "The trigger",
-     "t": "A governor declares an emergency",
-     "s": "Then the insurance commissioner can order a moratorium."
-    },
-    {
-     "k": "How it works",
-     "t": "Three steps",
-     "viz": {
-      "type": "flow",
-      "items": [
-       "Emergency declared",
-       "ZIP codes listed",
-       "Policies can't be dropped for 1 year"
-      ]
-     },
-     "say": "An emergency is declared, ZIP codes are listed, and policies can't be dropped for one year."
-    },
-    {
-     "k": "Who's covered",
-     "t": "Damaged or not",
-     "s": "Homes in the listed areas are covered even with no loss."
-    },
-    {
-     "k": "What it doesn't do",
-     "t": "It doesn't freeze your price",
-     "s": "Premiums can still go up at renewal."
-    },
-    {
-     "k": "Takeaway",
-     "t": "Use the year to prepare",
-     "s": "Shop around and harden your home before protection ends."
-    }
-   ]
-  },
-  {
-   "id": "uk-jobs-46-2026111709",
-   "type": "news",
-   "cat": "world",
-   "tags": [
-    "world",
-    "markets"
-   ],
-   "date": "Tue Nov 17",
-   "ts": "2026-11-17T09:00:00Z",
-   "headline": "UK unemployment falls to 4.6%, beating forecasts, but payrolls and job openings drop",
-   "caption": "Britain's jobless rate dipped to 4.6% in the three months to September, lower than the 4.7% expected. Payrolls and vacancies both fell, so the job market is still cooling.",
-   "visual": {
-    "type": "vs",
-    "title": "UK jobless rate, 3 months to Sept",
-    "a": [
-     "Expected",
-     "4.7%",
-     1,
-     "acc"
-    ],
-    "b": [
-     "Actual",
-     "4.6%",
-     0.98,
-     "gain"
-    ],
-    "foot": "Lowest since early 2025, per ONS via Investing.com"
-   },
-   "detail": [
-    "The UK's unemployment rate fell to 4.6% in the three months to September, the lowest since the period ending April 2025. Economists had expected 4.7%. The number of jobless people fell by 88,000 to about 1.68 million.",
-    "The details were weaker. The number of workers on company payrolls fell, vacancies dropped again, and regular pay growth slowed. Employers said higher labor and running costs are holding back hiring.",
-    "The statistics office said part of the drop came from changes in its survey sample, and the rate has a margin of error of 0.3 points. The next report is due December 15."
-   ],
-   "money": [
-    "A cooler UK job market can ease wage-driven inflation, which matters for UK rates and the pound.",
-    "If you hold international stock funds, UK data like this can move British shares and the currency.",
-    "Planning a UK trip? Watch the pound; currency swings change what your dollars buy."
-   ],
-   "risk": [
-    "Survey changes make the headline rate less reliable than usual.",
-    "Falling payrolls could point to more weakness ahead."
-   ],
-   "sources": [
-    {
-     "t": "UK unemployment falls to 4.6%, beats forecast; payrolls, vacancies drop",
-     "d": "investing.com",
-     "u": "https://www.investing.com/news/economic-indicators/uk-unemployment-falls-to-46-beats-forecast-payrolls-vacancies-drop-5031844"
-    }
-   ]
-  },
-  {
-   "id": "goldman-brent-2027-2026111709",
-   "type": "news",
-   "cat": "world",
-   "tags": [
-    "world",
-    "markets"
-   ],
-   "date": "Tue Nov 17",
-   "ts": "2026-11-17T09:00:00Z",
-   "headline": "Goldman sees Brent averaging $88 next year and $78 by late 2027 as a glut builds",
-   "caption": "Brent slipped to about $91.66 early Tuesday. Goldman Sachs expects oil to keep falling in 2027 as supply outruns demand, with OPEC+ meeting Nov. 29.",
-   "visual": {
-    "type": "board",
-    "title": "Brent crude: now vs. Goldman's path",
-    "rows": [
-     {
-      "k": "Brent, Tue morning",
-      "v": "$91.66",
-      "ch": -0.8,
-      "tone": "loss"
-     },
-     {
-      "k": "Monday close",
-      "s": "fell 3.55%",
-      "v": "$92.44"
-     },
-     {
-      "k": "Goldman 2027 average",
-      "v": "$88",
-      "tone": "acc"
-     },
-     {
-      "k": "Goldman Dec 2027",
-      "v": "$78",
-      "tone": "loss"
-     }
-    ],
-    "foot": "Per FinanceFeeds; not a forecast by Money Reels"
-   },
-   "detail": [
-    "Brent crude futures traded near $91.66 a barrel early Tuesday, down about 0.8%, after a 3.55% drop on Monday. US crude was near $85.",
-    "Goldman Sachs expects Brent to average $88 a barrel in 2027 and to fall to $78 by December 2027 as the market returns to surplus. The IEA sees supply topping demand by about 1.7 million barrels a day this quarter.",
-    "Tanker attacks near Hormuz have not been enough to lift prices. Next up: the weekly US oil report Wednesday and an OPEC+ meeting on November 29 that sets 2027 output."
-   ],
-   "money": [
-    "Lower crude over time usually means cheaper gas and heating oil; avoid locking in long fuel contracts at today's prices.",
-    "Energy stock dividends can shrink when oil falls, so check how much of your income relies on them.",
-    "Airlines and shippers often benefit from cheaper fuel."
-   ],
-   "risk": [
-    "Mideast fighting can spike prices fast.",
-    "OPEC+ could cut output on Nov. 29 to prop up prices."
-   ],
-   "sources": [
-    {
-     "t": "Brent Oil $91.66 as Glut Fears Grow: Bull $96, Bear $88",
-     "d": "financefeeds.com",
-     "u": "https://financefeeds.com/brent-crude-oil-price-91-66-tuesday-goldman-glut-warning-bull-96-bear-88/"
-    }
-   ]
-  },
-  {
-   "id": "warsh-si-scenarios-2026111709",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "markets"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-17T09:00:00Z",
-   "headline": "Fed Chair Warsh lays out three ways 'superintelligence' could hit the economy",
-   "caption": "At a Fed event in San Francisco, Warsh walked through a boom, a jobs-shock and a bust scenario for advanced AI. He said they are illustrations, not forecasts.",
-   "visual": {
-    "type": "points",
-    "title": "Warsh's three AI scenarios",
-    "items": [
-     "1. Shared boom: workers and owners both gain",
-     "2. Fast growth, but jobs get displaced",
-     "3. AI returns disappoint and growth slows",
-     "Built by Fed staff models, not forecasts"
-    ]
-   },
-   "detail": [
-    "Fed Chair Kevin Warsh spoke Monday at a conference in San Francisco run by the Fed Board and the San Francisco Fed. It feeds a Fed task force studying how new technology affects jobs and productivity.",
-    "He outlined three paths. In the first, AI lifts productivity and gains are widely shared. In the second, growth speeds up but some jobs disappear and workers struggle to move. In the third, heavy AI spending and stock gains fail to pay off, and the economy slows.",
-    "Speakers included leaders from Stripe, Palo Alto Networks and Affirm. Warsh has said he wants to know if a productivity boom is coming fast or slowly, and what it means for jobs and prices."
-   ],
-   "money": [
-    "Scenario 3 is a reminder: don't put too much of your portfolio in AI stocks alone.",
-    "Build skills that pair with AI tools; that can protect your income if jobs shift.",
-    "Keep an emergency fund; job shocks are easier to ride out with cash on hand."
-   ],
-   "risk": [
-    "None of these paths is a Fed forecast.",
-    "AI views can shift rate expectations and move markets."
-   ],
-   "sources": [
-    {
-     "t": "Warsh: three scenarios show how superintelligence impacts US economy",
-     "d": "tradingkey.com",
-     "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262307622-warsh-speech-superintelligence-impact-us-economic-growth-employment-tradingkey"
-    },
-    {
-     "t": "Fed's Kevin Warsh to hear from tech leaders on SI's impact on jobs, economy",
-     "d": "wchstv.com",
-     "u": "https://wchstv.com/news/nation-world/federal-reserve-chair-kevin-warsh-to-hear-from-tech-leaders-on-super-intelligence-impact-on-jobs-economy-san-francisco-jobs-task-force-economic-impact"
-    }
-   ]
-  },
-  {
-   "id": "megaspeed-probe-2026111709",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "world",
-    "markets"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-17T09:00:00Z",
-   "headline": "US confirms a criminal probe of Singapore's Megaspeed over Nvidia AI chips",
-   "caption": "Commerce and Justice say they are investigating whether Megaspeed helped move top Nvidia chips to China. The news lands on the day Nvidia reports earnings.",
-   "visual": {
-    "type": "timeline",
-    "title": "The Megaspeed probe",
-    "items": [
-     {
-      "d": "2024",
-      "t": "Commerce opens export probe"
-     },
-     {
-      "d": "MAY 2025",
-      "t": "Commerce asks Nvidia for records"
-     },
-     {
-      "d": "JUN 2025",
-      "t": "Nvidia puts Megaspeed on no-sell list"
-     },
-     {
-      "d": "NOV 16",
-      "t": "US confirms criminal probe",
-      "now": true
-     },
-     {
-      "d": "BY NOV 26",
-      "t": "Huang to testify to House",
-      "s": "closed door"
-     }
-    ]
-   },
-   "detail": [
-    "The US Commerce and Justice departments said Monday they are investigating Singapore data center firm Megaspeed over suspected AI chip export violations. They said they will pursue any criminal conduct to the full extent of the law.",
-    "Officials suspect Megaspeed helped move Nvidia's most powerful chips to China around US rules. Nvidia had already put the company on a no-sell list in June 2025.",
-    "Former Nvidia CEO Jensen Huang, who stepped down last week, is set to testify to the House behind closed doors before Thanksgiving. Commerce Secretary Lutnick has agreed to testify to the Senate."
-   ],
-   "money": [
-    "If you own Nvidia or chip funds, expect extra swings around tonight's earnings and this probe.",
-    "Tighter export rules can hit chip sales to Asia; check how concentrated your tech holdings are.",
-    "Long-term investors can use volatility to rebalance instead of chasing moves."
-   ],
-   "risk": [
-    "The probe could widen to other firms or buyers.",
-    "No charges have been announced."
-   ],
-   "sources": [
-    {
-     "t": "US confirms criminal probe into Singapore cloud firm Megaspeed over Nvidia AI chips",
-     "d": "malaymail.com",
-     "u": "https://www.malaymail.com/news/singapore/2026/11/17/us-confirms-criminal-probe-into-singapore-cloud-firm-megaspeed-over-nvidia-ai-chips/243584"
-    }
-   ]
-  },
-  {
-   "id": "dreamteam-53m-2026111709",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "business",
-    "california"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-17T09:00:00Z",
-   "headline": "Ex-Freshworks leaders raise $53M for Dreamteam, an AI-first rival to Salesforce",
-   "caption": "Sacramento-based Dreamteam came out of stealth with $53 million from Accel, Together Fund and Premji Invest. Its CRM uses AI 'teammates' to research, sell and forecast.",
-   "visual": {
-    "type": "ticker",
-    "sym": "DREAMTEAM",
-    "ex": "PRIVATE",
-    "rows": [
-     {
-      "k": "Raised",
-      "v": "$53M"
-     },
-     {
-      "k": "Investors",
-      "s": "lead + others",
-      "v": "Accel, Together, Premji"
-     },
-     {
-      "k": "HQ",
-      "v": "Sacramento, CA"
-     },
-     {
-      "k": "Founded",
-      "v": "2025"
-     }
-    ]
-   },
-   "detail": [
-    "Dreamteam, a startup founded in 2025 by three former senior Freshworks executives, announced $53 million in funding on Monday. Accel, Together Fund and Premji Invest backed the round. No valuation was given.",
-    "Its customer-management software is built around a shared 'Company Brain' that learns from emails, meetings and customer chats. Four AI teammates handle research, sales prep, pipeline forecasting and setup.",
-    "The company says hundreds of businesses already use it. It is going after big players like Salesforce and SAP."
-   ],
-   "money": [
-    "Small businesses: AI-native CRMs may cost less than legacy tools; ask for trials before renewing contracts.",
-    "Sales workers who learn AI tools may get more done and earn more commission.",
-    "Salesforce and SAP shareholders should watch for price pressure from new AI rivals."
-   ],
-   "risk": [
-    "Early startups can fail or change pricing fast.",
-    "Moving customer data to a new tool takes time and care."
-   ],
-   "sources": [
-    {
-     "t": "AI-native CRM Dreamteam raises $53M from Accel and Together Fund",
-     "d": "thenextweb.com",
-     "u": "https://thenextweb.com/news/dreamteam-ai-native-crm-53m-accel"
-    }
-   ]
-  },
-  {
-   "id": "part-b-2027-pending-2026111709",
-   "type": "news",
-   "cat": "benefits",
-   "tags": [
-    "benefits"
-   ],
-   "date": "This week",
-   "ts": "2026-11-17T09:00:00Z",
-   "headline": "Medicare's 2027 Part B premium is still not out; trustees project $209.50",
-   "caption": "CMS hasn't announced next year's Part B premium yet. The trustees' projection is $209.50 a month, up $6.60, while Social Security checks rise 3.6% in January.",
-   "visual": {
-    "type": "board",
-    "title": "Part B premium, per month",
-    "rows": [
-     {
-      "k": "2025",
-      "v": "$185"
-     },
-     {
-      "k": "2026",
-      "s": "up 9.7%",
-      "v": "$202.90"
-     },
-     {
-      "k": "2027 projected",
-      "s": "trustees, not final",
-      "v": "$209.50",
-      "ch": 3.25,
-      "tone": "acc"
-     },
-     {
-      "k": "2027 COLA",
-      "s": "avg +$75/mo",
-      "v": "+3.6%",
-      "tone": "gain"
-     }
-    ],
-    "foot": "Per OregonLive via Yahoo"
-   },
-   "detail": [
-    "As of Monday, CMS had not released the 2027 standard Part B premium. Last year's figure came out November 14. The Medicare Trustees Report projects $209.50 a month, up $6.60 or about 3.25% from $202.90.",
-    "Social Security says beneficiaries can see their 2027 premium online in late November, and mailed notices arrive in December.",
-    "The 2027 cost-of-living raise is 3.6%, about $75 more a month on average. A 'hold harmless' rule keeps many people's net checks from shrinking when Part B rises."
-   ],
-   "money": [
-    "Part B is usually taken out of Social Security, so your January deposit = new benefit minus new premium.",
-    "Higher earners pay extra (IRMAA); check whether lower income in recent years can cut your bill.",
-    "Open enrollment ends Dec. 7: compare drug and Advantage plans before premiums change."
-   ],
-   "risk": [
-    "$209.50 is a projection; the final number could differ.",
-    "Income-based surcharges can be much higher."
-   ],
-   "sources": [
-    {
-     "t": "Did Medicare announce the 2027 Part B premium yet? What enrollees can expect",
-     "d": "yahoo.com",
-     "u": "https://yahoo.com/news/us/articles/did-medicare-announce-2027-part-182200054.html"
-    }
-   ]
-  },
-  {
-   "id": "hospice-freeze-extended-2026111709",
-   "type": "news",
-   "cat": "benefits",
-   "tags": [
-    "benefits"
-   ],
-   "date": "This week",
-   "ts": "2026-11-17T09:00:00Z",
-   "headline": "Medicare keeps new hospice and home health agencies out for 6 more months",
-   "caption": "CMS extended its nationwide freeze on new hospice and home health enrollments, citing fraud. Existing agencies keep serving patients and can now add locations.",
-   "visual": {
-    "type": "points",
-    "title": "What the freeze extension means",
-    "items": [
-     "No new Medicare hospice or home health agencies",
-     "Some majority ownership changes also blocked",
-     "Enrolled agencies may now add locations",
-     "Current patients' care is not affected",
-     "Oct. California sweep: 145 revocations, $703M+ tied"
-    ]
-   },
-   "detail": [
-    "CMS said it will keep its nationwide moratorium on new Medicare hospice and home health agencies for six more months. The first freeze began May 13. Federal Register notices were set for November 16.",
-    "New agencies still can't enroll, and certain majority ownership changes are blocked. One change: agencies already enrolled can now add practice locations under their current enrollment.",
-    "CMS chief Mehmet Oz said fraud in these areas persists. In October, a two-day sweep in California led to 145 provider revocations tied to more than $703 million in Medicare and Medicaid payments."
-   ],
-   "money": [
-    "Choosing an agency for a parent? Confirm it is already Medicare-enrolled and in your plan's network.",
-    "Check your Medicare statements for services you never got; report fraud to 1-800-MEDICARE.",
-    "Investors in home health companies may see less new competition."
-   ],
-   "risk": [
-    "Fewer new agencies could mean longer waits in some areas.",
-    "Rules may change again when the freeze ends."
-   ],
-   "sources": [
-    {
-     "t": "CMS extends nationwide freeze on new hospice, home health providers",
-     "d": "beckershospitalreview.com",
-     "u": "https://www.beckershospitalreview.com/uncategorized/cms-extends-nationwide-freeze-on-new-hospice-home-health-providers/"
-    }
-   ]
-  },
-  {
-   "id": "ct-snap-giftcards-2026111709",
-   "type": "news",
-   "cat": "states",
-   "tags": [
-    "states",
-    "benefits"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-17T09:00:00Z",
-   "headline": "Connecticut extends $300 grocery cards for ex-SNAP families to Dec. 31; few claimed",
-   "caption": "Connecticut gave people who lost SNAP more time to pick up a $300 grocery gift card. Only about 2,000 of 25,000 eligible residents had one by late October.",
-   "visual": {
-    "type": "stat",
-    "title": "Connecticut's $300 grocery cards",
-    "num": "8%",
-    "tone": "acc",
-    "label": "Share of eligible ex-SNAP residents who got a card by Oct. 27.",
-    "facts": [
-     [
-      "Card value",
-      "$300",
-      "per person"
-     ],
-     [
-      "Eligible",
-      "~25,000",
-      "former SNAP users"
-     ],
-     [
-      "New deadline",
-      "Dec. 31",
-      "was Nov. 30"
-     ]
-    ]
-   },
-   "detail": [
-    "Connecticut's Department of Social Services confirmed Monday it pushed the deadline for its $300 grocery gift cards from November 30 to December 31. The cards go to about 25,000 people who lost federal SNAP food aid.",
-    "Gov. Ned Lamont launched the $7.5 million program in June using state surplus money. As of October 27, only about 2,000 people had received a card.",
-    "Eligible residents can show ID at a local community action agency and get a card on the spot. The state plans another round of text messages."
-   ],
-   "money": [
-    "If you lost SNAP in Connecticut, claim your $300 card at a community action agency before Dec. 31.",
-    "Know someone who lost SNAP? Share this; most eligible people haven't claimed it.",
-    "Check if your state has similar one-time food help; programs vary."
-   ],
-   "risk": [
-    "Unclaimed cards after Dec. 31 may be lost.",
-    "Watch for scam texts; verify through the state or agency."
-   ],
-   "sources": [
-    {
-     "t": "CT extends deadline to get gift cards to ex-SNAP beneficiaries",
-     "d": "ctmirror.org",
-     "u": "https://ctmirror.org/2026/11/16/ct-extends-deadline-to-get-gift-cards-to-ex-snap-beneficiaries"
-    }
-   ]
-  },
-  {
-   "id": "homan-fy27-record-2026111709",
-   "type": "news",
-   "cat": "immigration",
-   "tags": [
-    "immigration",
-    "politics"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-17T09:00:00Z",
-   "headline": "Homan says ICE aims to top last year's record 483,200 deportations in 2027",
-   "caption": "Border czar Tom Homan said ICE plans to break its deportation record again in fiscal 2027. He said the agency still has a couple thousand agents to hire.",
-   "visual": {
-    "type": "board",
-    "title": "ICE by the numbers",
-    "rows": [
-     {
-      "k": "FY2026 deportations",
-      "v": "483,200",
-      "tone": "acc"
-     },
-     {
-      "k": "FY2027 goal",
-      "s": "per Homan",
-      "v": "New record"
-     },
-     {
-      "k": "Agents still to hire",
-      "s": "per Homan",
-      "v": "~2,000"
-     },
-     {
-      "k": "Habeas cases",
-      "s": "Homan's estimate",
-      "v": "~100,000"
-     }
-    ]
-   },
-   "detail": [
-    "In a Fox News interview Monday, border czar Tom Homan said ICE plans to set a new deportation record in fiscal 2027. DHS has reported 483,200 deportations in fiscal 2026.",
-    "Homan said ICE still has a couple thousand agents to hire. He said the agency faces more than 100 nationwide court orders and close to 100,000 habeas cases seeking release of detainees.",
-    "The comments came after Republican losses in the midterms. Critics point to court data showing many rulings against the administration's enforcement moves."
-   ],
-   "money": [
-    "Industries that rely on immigrant labor, like farming and construction, may face worker shortages and higher costs.",
-    "Employers should keep I-9 and work authorization records current.",
-    "Families affected should know legal aid options; many groups offer free help."
-   ],
-   "risk": [
-    "Court rulings could slow or change enforcement plans.",
-    "Hiring goals may not be met."
-   ],
-   "sources": [
-    {
-     "t": "Trump's Border Czar Insists ICE Will Arrest Even More People in 2027",
-     "d": "yahoo.com",
-     "u": "https://www.yahoo.com/news/politics/articles/trump-border-czar-insists-ice-224144698.html"
-    }
-   ]
-  },
-  {
-   "id": "eth-whales-2026111709",
-   "type": "news",
-   "cat": "crypto",
-   "tags": [
-    "crypto"
-   ],
-   "date": "Tue Nov 17",
-   "ts": "2026-11-17T09:00:00Z",
-   "headline": "Ether ticks up to about $1,833 as whales buy the dip and ETF outflows ease",
-   "caption": "Wallets tied to Erik Voorhees have bought about 82,277 ETH over several days. US ether ETFs lost $398.9M last week but saw a small inflow Friday.",
-   "visual": {
-    "type": "board",
-    "title": "Ether this week",
-    "rows": [
-     {
-      "k": "ETH price",
-      "v": "$1,833",
-      "ch": 1.0,
-      "tone": "gain"
-     },
-     {
-      "k": "Weekend low",
-      "v": "~$1,712"
-     },
-     {
-      "k": "Voorhees-linked buys",
-      "s": "avg ~$1,921",
-      "v": "82,277 ETH"
-     },
-     {
-      "k": "ETF flows Nov 9-13",
-      "v": "-$398.9M",
-      "tone": "loss"
-     },
-     {
-      "k": "ETF flow Nov 13",
-      "v": "+$2.3M",
-      "tone": "gain"
-     }
-    ],
-    "foot": "Per crypto.news, Onchain Lens, Farside"
-   },
-   "detail": [
-    "Ether rose more than 1% to about $1,833 on Tuesday, up from weekend lows near $1,712.",
-    "Wallets that Onchain Lens links to crypto pioneer Erik Voorhees bought 6,382 ETH in 12 hours and about 82,277 ETH over several days, paying about $158 million. Bitmine also added 7,653 ETH last week.",
-    "US spot ether ETFs saw $398.9 million in net withdrawals from November 9 to 13, led by BlackRock's fund. Friday brought a $2.3 million inflow, ending a six-day outflow streak."
-   ],
-   "money": [
-    "Big buyers are not a guarantee; only invest what you can afford to lose.",
-    "If you buy crypto, consider small regular buys instead of one big bet.",
-    "Track your cost basis now; crypto sales are taxable."
-   ],
-   "risk": [
-    "Crypto remains in a downtrend with heavy fund outflows.",
-    "Wallet ownership links are estimates."
-   ],
-   "sources": [
-    {
-     "t": "Ethereum price gains as whales buy the dip, but ETF withdrawals persist",
-     "d": "crypto.news",
-     "u": "https://crypto.news/ethereum-price-up-today-whale-buying-etf-outflows/"
-    }
-   ]
-  },
-  {
-   "id": "barclays-ib-cuts-2026111709",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business",
-    "ai"
-   ],
-   "date": "Starts Tue Nov 17",
-   "ts": "2026-11-17T09:00:00Z",
-   "headline": "Barclays starts cutting about 200 more investment bank jobs, on top of 5,000",
-   "caption": "Barclays is cutting about 200 more investment banking roles, mostly in New York and London. It's part of an AI-backed cost plan that already targets about 5,000 jobs.",
-   "visual": {
-    "type": "stat",
-    "title": "Barclays cost cuts",
-    "num": "~200",
-    "tone": "loss",
-    "label": "Extra investment bank jobs being cut, starting Tuesday.",
-    "facts": [
-     [
-      "Earlier plan",
-      "~5,000 jobs",
-      "announced Oct. 22"
-     ],
-     [
-      "Savings so far",
-      "~£700M",
-      "last 2 years"
-     ],
-     [
-      "2027 goal",
-      "£1.1B+",
-      "gross savings"
-     ]
-    ]
-   },
-   "detail": [
-    "Barclays plans about 200 more layoffs in its investment bank, according to Bloomberg sources. The round begins Tuesday and hits staff at several levels, mostly in New York and London.",
-    "The cuts add to roughly 5,000 job reductions the bank announced with third-quarter results on October 22. Barclays is leaning on technology such as AI to cut costs.",
-    "Finance chief Anna Gross said the bank saved close to £700 million a year over the last two years and expects more than £1.1 billion in gross savings in 2027."
-   ],
-   "money": [
-    "Finance workers: refresh your resume and network now; banks are trimming roles as AI spreads.",
-    "Bank cost cuts can lift profits and dividends for shareholders.",
-    "If laid off, check severance terms and roll your 401(k) carefully."
-   ],
-   "risk": [
-    "More cuts could follow in 2027.",
-    "Cost cuts don't guarantee higher earnings."
-   ],
-   "sources": [
-    {
-     "t": "Barclays eliminates an additional 200 jobs in investment banking",
-     "d": "democrata.es",
-     "u": "https://www.democrata.es/en/economy/barclays-eliminates-an-additional-200-jobs-in-investment-banking-on-top-of-the-5-000-already-announced/"
-    }
-   ]
-  },
-  {
-   "id": "xpeng-q3-2026111709",
-   "type": "news",
-   "cat": "markets",
-   "tags": [
-    "markets",
-    "business"
-   ],
-   "date": "Tue Nov 17",
-   "ts": "2026-11-17T09:00:00Z",
-   "headline": "XPeng's sales jump 19% to a record, but its loss more than doubles",
-   "caption": "Chinese EV maker XPeng delivered a record 118,390 cars last quarter. Revenue rose 19% while the net loss grew to about $130M and margins slipped.",
-   "visual": {
-    "type": "board",
-    "title": "XPeng Q3 2026",
-    "rows": [
-     {
-      "k": "Deliveries",
-      "s": "record",
-      "v": "118,390",
-      "ch": 2.1,
-      "tone": "gain"
-     },
-     {
-      "k": "Revenue",
-      "v": "$3.62B",
-      "ch": 19.1,
-      "tone": "gain"
-     },
-     {
-      "k": "Gross margin",
-      "s": "was 20.1%",
-      "v": "18.9%",
-      "tone": "loss"
-     },
-     {
-      "k": "Net loss",
-      "s": "was RMB0.38B",
-      "v": "$0.13B",
-      "tone": "loss"
-     },
-     {
-      "k": "Q4 deliveries guide",
-      "v": "169K-174K",
-      "tone": "gain"
-     }
-    ],
-    "foot": "Per XPeng's SEC filing"
-   },
-   "detail": [
-    "XPeng said Tuesday it delivered 118,390 vehicles in the third quarter, up 2.1% from a year earlier and a company record. Revenue rose 19.1% to about RMB24.3 billion, or $3.62 billion.",
-    "Profitability went the wrong way. Gross margin fell to 18.9% from 20.1%, and the net loss widened to RMB0.87 billion from RMB0.38 billion.",
-    "For the fourth quarter, XPeng expects 169,000 to 174,000 deliveries and revenue up about 37% to 43%. It targets more than 100,000 overseas sales this year."
-   ],
-   "money": [
-    "Growth stocks can rise on sales but fall on losses; read both lines before you buy.",
-    "EV price wars help car buyers; compare deals before purchasing.",
-    "Want China exposure? A broad fund spreads risk better than one stock."
-   ],
-   "risk": [
-    "Price wars in China keep squeezing margins.",
-    "Trade rules can limit overseas sales."
-   ],
-   "sources": [
-    {
-     "t": "XPENG Inc. Form 6-K (Q3 2026 results)",
-     "d": "sec.gov",
-     "u": "https://www.sec.gov/Archives/edgar/data/0001810997/000119312526461897/d182197dex991.htm"
-    },
-    {
-     "t": "XPENG Reports Q3 2026 Results",
-     "d": "manilatimes.net",
-     "u": "https://www.manilatimes.net/2026/11/17/tmt-newswire/globenewswire/xpeng-reports-q3-2026-results-both-deliveries-and-revenue-reach-record-highs-overseas-market-2026-full-year-sales-target-exceeds-100000-units/2471502"
-    }
-   ]
-  },
-  {
-   "id": "edu-part-b-hold-harmless-2026111709",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "benefits"
-   ],
-   "date": "Explainer",
-   "ts": "2026-11-17T09:00:00Z",
-   "headline": "Part B and your Social Security check: how 'hold harmless' works",
-   "caption": "Medicare Part B usually comes out of your Social Security. Here's how the raise and premium combine in January.",
-   "scenes": [
-    {
-     "k": "Today's news",
-     "t": "2027 Part B premium is coming",
-     "s": "Trustees project $209.50 a month, up from $202.90."
-    },
-    {
-     "k": "Where it's paid",
-     "t": "Taken right out of your check",
-     "s": "Most retirees never write a Part B check; Social Security deducts it."
-    },
-    {
-     "k": "The math",
-     "t": "New benefit minus new premium",
-     "viz": {
-      "type": "split",
-      "items": [
-       [
-        "COLA raise",
-        "+3.6%"
-       ],
-       [
-        "Part B change",
-        "+$6.60 proj."
-       ],
-       [
-        "Your deposit",
-        "benefit minus premium",
-        "wide"
-       ]
-      ]
-     },
-     "say": "Your raise is 3.6 percent. Part B is projected up 6 dollars 60. Your deposit is the new benefit minus the new premium."
-    },
-    {
-     "k": "Hold harmless",
-     "t": "Your net check can't shrink",
-     "s": "For many, the Part B increase can't be bigger than the dollar raise."
-    },
-    {
-     "k": "Who's not covered",
-     "t": "High earners and new enrollees",
-     "s": "People paying income surcharges or new to Medicare can see bigger hits."
-    },
-    {
-     "k": "Takeaway",
-     "t": "Check your notice in December",
-     "s": "Plan your 2027 budget on the net deposit, not the raise."
-    }
-   ]
-  },
-  {
-   "id": "edu-unemployment-rate-2026111709",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "world"
-   ],
-   "date": "Explainer",
-   "ts": "2026-11-17T09:00:00Z",
-   "headline": "The unemployment rate: what it does and doesn't tell you",
-   "caption": "The UK rate fell to 4.6% even as payrolls dropped. Here's why both can happen.",
-   "scenes": [
-    {
-     "k": "Today's news",
-     "t": "UK jobless rate falls to 4.6%",
-     "s": "But payrolls and job openings fell at the same time."
-    },
-    {
-     "k": "The formula",
-     "t": "Jobless ÷ people in the labor force",
-     "s": "Only people looking for work count as unemployed."
-    },
-    {
-     "k": "Two sources",
-     "t": "Surveys vs. payroll records",
-     "viz": {
-      "type": "flow",
-      "items": [
-       "Household survey: jobless rate",
-       "Payroll data: jobs on the books",
-       "They can disagree"
-      ]
-     },
-     "say": "A household survey gives the jobless rate. Payroll data counts jobs on the books. The two can disagree."
-    },
-    {
-     "k": "Why they split",
-     "t": "Survey samples can shift",
-     "s": "Officials said sample changes helped push the UK rate down."
-    },
-    {
-     "k": "Look deeper",
-     "t": "Watch openings and pay too",
-     "s": "Falling vacancies and slower wages hint at a cooling market."
-    },
-    {
-     "k": "Takeaway",
-     "t": "One number never tells all",
-     "s": "Check several job signals before reacting with your money."
-    }
-   ]
-  },
-  {
-   "id": "hertz-caa1-2026111708",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business",
-    "markets"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-17T08:00:00Z",
-   "headline": "Moody's cuts Hertz deeper into junk at Caa1 as 2028 debt walls loom",
-   "caption": "Moody's dropped Hertz two notches, from B2 to Caa1, with a negative outlook. About $3.7B of credit lines and loans come due in 2028.",
-   "visual": {
-    "type": "board",
-    "title": "Hertz by the numbers",
-    "rows": [
-     {
-      "k": "Moody's rating",
-      "s": "was B2",
-      "v": "Caa1",
-      "tone": "loss"
-     },
-     {
-      "k": "Cash (Sep 30)",
-      "v": "$531M"
-     },
-     {
-      "k": "Revolver room",
-      "v": "$415M"
-     },
-     {
-      "k": "Notes due Dec 2026",
-      "v": "$200M",
-      "tone": "acc"
-     },
-     {
-      "k": "Term loans due Jun 2028",
-      "v": "~$2B",
-      "tone": "loss"
-     }
-    ],
-    "foot": "Per Moody's via Investing.com"
-   },
-   "detail": [
-    "Moody's cut Hertz Global's corporate family rating to Caa1 from B2 on Monday and kept the outlook negative. It also lowered the company's liquidity score and the ratings on most of its debt.",
-    "The worry is refinancing. About $1.7 billion of revolving credit expires in March 2028 and nearly $2 billion of term loans come due that June. Moody's expects Hertz to lose money before taxes through 2027, with debt near 6.5 times earnings.",
-    "Hertz had $531 million in cash and $415 million of unused credit at the end of September. Another $200 million of unsecured notes matures next month."
-   ],
-   "money": [
-    "Renting a car? Big rental firms under pressure may push prices or fees; compare Hertz, rivals and car-share apps before you book.",
-    "If you own Hertz bonds or a high-yield fund, check how much is in Caa-rated debt, which has a higher default risk.",
-    "A falling credit rating can mean cheap used rental cars hit the market; watch dealer prices if you shop for a used car."
-   ],
-   "risk": [
-    "Moody's says more cuts could follow if refinancing stalls or used-car prices drop sharply.",
-    "Hertz stock was down about 6.7% when the downgrade report came out."
-   ],
-   "sources": [
-    {
-     "t": "Moody's downgrades Hertz to Caa1 as 2028 refinancing risks mount",
-     "d": "investing.com",
-     "u": "https://www.investing.com/news/stock-market-news/moodys-downgrades-hertz-to-caa1-as-2028-refinancing-risks-mount-5031181"
     }
    ]
   }
