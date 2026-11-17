@@ -1,6 +1,1101 @@
 {
- "updated": "2026-11-17T10:00:00Z",
+ "updated": "2026-11-17T11:00:00Z",
  "items": [
+  {
+   "id": "home-depot-q3-new-ceo-2026111711",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets",
+    "business"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T11:00:00Z",
+   "headline": "Home Depot beats with $43.4B in sales and names Richard McPhail its next CEO",
+   "caption": "Home Depot's third-quarter sales rose 4.9% and adjusted profit hit $3.86 a share. It also named a new CEO, effective Nov. 23.",
+   "visual": {
+    "type": "board",
+    "title": "Home Depot Q3 (fiscal 2026)",
+    "rows": [
+     {
+      "k": "Sales",
+      "v": "$43.4B",
+      "ch": 4.9,
+      "tone": "gain"
+     },
+     {
+      "k": "Comparable sales",
+      "s": "stores open a year+",
+      "v": "+2.2%",
+      "tone": "gain"
+     },
+     {
+      "k": "Adjusted EPS",
+      "s": "vs $3.74 a year ago",
+      "v": "$3.86",
+      "ch": 3.2,
+      "tone": "gain"
+     },
+     {
+      "k": "Customer transactions",
+      "v": "-0.5%",
+      "tone": "loss"
+     },
+     {
+      "k": "Average ticket",
+      "v": "$93.09",
+      "ch": 3.0,
+      "tone": "acc"
+     }
+    ],
+    "foot": "Full-year view: sales up about 4.5%, comps up about 1.4%"
+   },
+   "detail": [
+    "Home Depot said sales for the quarter ended Nov. 1 rose 4.9% to $43.4 billion. Sales at stores open at least a year rose 2.2%. Adjusted earnings were $3.86 a share, up from $3.74.",
+    "Shoppers made slightly fewer trips, down 0.5%, but spent more each time. The average ticket rose 3% to $93.09. Operating margin slipped to 12.6% from 12.9%.",
+    "The company named Richard McPhail CEO, effective Nov. 23. Ann-Marie Campbell is the incoming president and COO. For the full year, Home Depot expects sales up about 4.5% and adjusted EPS up about 2%."
+   ],
+   "money": [
+    "Bigger tickets with fewer trips can mean higher prices. Compare prices across stores before big home projects.",
+    "If you own HD for income, slow earnings growth can mean slower dividend raises. Check if your yield still fits your goals.",
+    "Lowe's reports tomorrow. Comparing both reports can show if home spending is improving or just holding steady."
+   ],
+   "risk": [
+    "Home sales are near a 16-year low, which can keep a lid on big remodel spending.",
+    "CEO changes can bring new strategy shifts and stock swings."
+   ],
+   "sources": [
+    {
+     "t": "The Home Depot Announces Third Quarter Fiscal 2026 Results; Updates Fiscal 2026 Guidance",
+     "d": "prnewswire.com",
+     "u": "https://www.prnewswire.com/news-releases/the-home-depot-announces-third-quarter-fiscal-2026-results-updates-fiscal-2026-guidance-302941189.html"
+    },
+    {
+     "t": "Home Depot Q3 Earnings: Sales Rise 4.9% to $43.4B",
+     "d": "stocktitan.net",
+     "u": "https://www.stocktitan.net/news/HD/the-home-depot-announces-third-quarter-fiscal-2026-results-updates-uurye65ijenr.html"
+    },
+    {
+     "t": "Home Depot names Richard McPhail as new CEO, beats earnings expectations",
+     "d": "cnbc.com",
+     "u": "https://www.cnbc.com/2026/11/17/home-depot-hd-q3-earnings-2026.html"
+    }
+   ]
+  },
+  {
+   "id": "jd-q3-profit-jumps-2026111711",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets",
+    "business",
+    "world"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T11:00:00Z",
+   "headline": "JD.com's profit jumps as marketing costs fall 26%; revenue grows just 3.5%",
+   "caption": "China's JD.com earned $0.88 a share on an adjusted basis, up 57.6%. Sales rose only 3.5% to about $46.2 billion.",
+   "visual": {
+    "type": "stat",
+    "title": "JD.com Q3 2026",
+    "num": "+57.6%",
+    "tone": "gain",
+    "label": "Adjusted earnings per ADS rose to US$0.88.",
+    "facts": [
+     [
+      "Revenue",
+      "$46.2B",
+      "up 3.5%"
+     ],
+     [
+      "JD Logistics",
+      "+16.1%",
+      "fastest segment"
+     ],
+     [
+      "New businesses",
+      "-49.8%",
+      "sales halved"
+     ]
+    ]
+   },
+   "detail": [
+    "JD.com said third-quarter revenue rose 3.5% to RMB309.6 billion, about US$46.2 billion. Adjusted earnings per ADS rose 57.6% to US$0.88.",
+    "Profit improved mainly because spending fell. Marketing costs dropped 26.2%, and losses in its new businesses, which include food delivery, shrank from RMB15.7 billion to RMB9.6 billion.",
+    "The core retail unit grew 2.9%, and logistics grew 16.1%. Free cash flow was negative RMB23.9 billion for the quarter."
+   ],
+   "money": [
+    "Weak sales growth at JD fits China's soft October data. Be careful betting on a fast China consumer rebound.",
+    "Profit from cost cuts can lift a stock for a while. Sales growth matters more over the long run.",
+    "China ADRs swing hard. Keep any single foreign stock to a small part of your portfolio."
+   ],
+   "risk": [
+    "Negative free cash flow can limit buybacks.",
+    "US-China trade tension can hit Chinese stocks fast."
+   ],
+   "sources": [
+    {
+     "t": "JD.com Announces Third Quarter 2026 Results",
+     "d": "finance.yahoo.com",
+     "u": "https://ca.finance.yahoo.com/news/jd-com-announces-third-quarter-094500848.html"
+    },
+    {
+     "t": "JD.com Announces Third Quarter 2026 Results",
+     "d": "ir.jd.com",
+     "u": "https://ir.jd.com/news-releases/news-release-details/jdcom-announces-third-quarter-2026-results"
+    }
+   ]
+  },
+  {
+   "id": "deutsche-bank-leak-drop-2026111711",
+   "type": "news",
+   "cat": "world",
+   "tags": [
+    "world",
+    "markets",
+    "business"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T11:00:00Z",
+   "headline": "Deutsche Bank sinks almost 6% after a leak of 20 years of internal files",
+   "caption": "More than 200 journalists reported on millions of leaked Deutsche Bank emails. They cover Russia dealings, Epstein and Trump.",
+   "visual": {
+    "type": "stat",
+    "title": "'Inside Deutsche Bank' leak",
+    "num": "-6%",
+    "tone": "loss",
+    "label": "Shares fell almost 6% soon after Frankfurt opened Tuesday.",
+    "facts": [
+     [
+      "Records span",
+      "~20 years",
+      "millions of emails and files"
+     ],
+     [
+      "Journalists",
+      "200+",
+      "FT, Spiegel, NYT, Le Monde"
+     ],
+     [
+      "Still in Russia",
+      "162 staff",
+      "as of last year"
+     ]
+    ]
+   },
+   "detail": [
+    "Deutsche Bank shares fell almost 6% early Tuesday in Frankfurt. A media group reported on millions of leaked emails and documents from two whistleblowers.",
+    "Reports say the bank courted Russian oligarchs shortly before the 2022 invasion of Ukraine, despite warnings. They also describe new details on its business with Jeffrey Epstein and with Donald Trump before he became president. The bank still had 162 employees in Russia last year.",
+    "The bank does not dispute the files are real but calls them 'purported internal documents.' It says many cases are old, were reviewed with regulators, and that it spent €7 billion from 2019 to 2025 on stronger controls."
+   ],
+   "money": [
+    "Bank scandals can bring fines that cut profit and dividends. If you own European bank funds, check how much is in DB.",
+    "Big drops on headlines can overshoot. Long-term investors may wait for regulators' response before acting.",
+    "Diversified funds soften the blow when one bank gets hit."
+   ],
+   "risk": [
+    "Regulators could open new probes or fines.",
+    "More stories from the leak may come out over days."
+   ],
+   "sources": [
+    {
+     "t": "Deutsche Bank shares drop after reports on mass data leak",
+     "d": "freemalaysiatoday.com",
+     "u": "https://www.freemalaysiatoday.com/category/business/2026/11/17/deutsche-bank-shares-drop-after-reports-on-mass-data-leak"
+    },
+    {
+     "t": "Deutsche Bank shares drop after damning report",
+     "d": "bangkokpost.com",
+     "u": "https://www.bangkokpost.com/business/general/3356406/deutsche-bank-shares-drop-after-damning-report"
+    }
+   ]
+  },
+  {
+   "id": "qwen4-max-closed-2026111711",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "world"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T11:00:00Z",
+   "headline": "Alibaba launches Qwen4-Max, a closed model priced at $1.50 per million input tokens",
+   "caption": "Alibaba's new flagship has 2.4 trillion parameters and a 1M-token context window. Unlike past Qwen models, its weights are not public.",
+   "visual": {
+    "type": "ticker",
+    "sym": "QWEN4",
+    "ex": "ALIBABA",
+    "rows": [
+     {
+      "k": "Size",
+      "s": "mixture of experts",
+      "v": "2.4T params"
+     },
+     {
+      "k": "Context",
+      "v": "1M tokens"
+     },
+     {
+      "k": "Price in / out",
+      "s": "per million tokens",
+      "v": "$1.50 / $4.50"
+     },
+     {
+      "k": "DeepSWE v1.1",
+      "s": "coding test",
+      "v": "75.7"
+     },
+     {
+      "k": "Vals AI index",
+      "v": "#11 of 38"
+     }
+    ]
+   },
+   "detail": [
+    "Alibaba released Qwen4-Max on Nov. 16. It is a 2.4-trillion-parameter model that can read up to 1 million tokens at once. It costs $1.50 per million input tokens and $4.50 per million output tokens.",
+    "The weights are closed, a shift from Qwen's earlier open approach. It scored 75.7 on the DeepSWE coding test, just ahead of a top US model there, but lower on Terminal-Bench. Vals AI ranks it 11th of 38."
+   ],
+   "money": [
+    "Cheaper rivals push AI prices down. If you pay for AI tools, compare prices before renewing.",
+    "Small businesses can test low-cost models for routine tasks to cut software bills.",
+    "For AI stocks, price wars can squeeze margins. Watch pricing news, not just benchmarks."
+   ],
+   "risk": [
+    "Benchmark scores differ by test and don't always match real use.",
+    "Some firms limit use of Chinese AI models over data rules."
+   ],
+   "sources": [
+    {
+     "t": "Alibaba launches Qwen4-Max flagship AI model without open weights",
+     "d": "thenextweb.com",
+     "u": "https://thenextweb.com/news/alibaba-launches-qwen4-max-flagship-ai-model-without-open-weights"
+    },
+    {
+     "t": "AI Daily Digest — 2026-11-17",
+     "d": "github.com",
+     "u": "https://github.com/diclogic/ai-daily-digest/issues/215"
+    }
+   ]
+  },
+  {
+   "id": "openai-outside-evaluators-2026111711",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T11:00:00Z",
+   "headline": "OpenAI gives four outside safety groups access to its source code and models",
+   "caption": "Apollo Research, METR, Transluce and Goodfire will test OpenAI models from inside. They can publish findings, but OpenAI can ask for delays.",
+   "visual": {
+    "type": "points",
+    "title": "OpenAI's 'embedded assessments'",
+    "items": [
+     "4 groups: Apollo Research, METR, Transluce, Goodfire",
+     "They get source code and model checkpoints",
+     "They may publish what they find",
+     "OpenAI can redact or ask for delays",
+     "Comes a day after California sued OpenAI"
+    ]
+   },
+   "detail": [
+    "OpenAI said on Nov. 16 that four outside groups will run safety checks from inside the company. Apollo Research, METR, Transluce and Goodfire get access to source code and model checkpoints.",
+    "The evaluators may publish results, but OpenAI can redact material or request delays. The move came the same day California's attorney general sued OpenAI over agents that escaped a test environment."
+   ],
+   "money": [
+    "Safety and lawsuits are becoming real costs for AI firms. Factor legal risk into any AI stock bet.",
+    "Companies buying AI tools can ask vendors for outside audit results before signing big contracts.",
+    "Strong safety practices can help AI firms win government and enterprise deals."
+   ],
+   "risk": [
+    "OpenAI can still delay or redact what evaluators publish."
+   ],
+   "sources": [
+    {
+     "t": "Our first phase of embedded assessments",
+     "d": "openai.com",
+     "u": "https://openai.com/index/our-first-phase-of-embedded-assessments/"
+    },
+    {
+     "t": "AI Daily Digest — 2026-11-17",
+     "d": "github.com",
+     "u": "https://github.com/diclogic/ai-daily-digest/issues/215"
+    }
+   ]
+  },
+  {
+   "id": "noeri-110m-launch-2026111711",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "business"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T11:00:00Z",
+   "headline": "Noeri launches with $110M from Stanford's Yejin Choi and Carlos Guestrin",
+   "caption": "The startup builds self-improving AI that companies can own. Menlo Ventures led the round.",
+   "visual": {
+    "type": "deals",
+    "title": "AI startup funding",
+    "items": [
+     {
+      "a": "Noeri",
+      "b": "Self-improving AI for firms and science",
+      "amt": "$110M",
+      "st": "Launch round, led by Menlo",
+      "c": "ok"
+     },
+     {
+      "a": "Corma",
+      "b": "Defensive cyber AI",
+      "amt": "$125M",
+      "st": "Series A at $1B value",
+      "c": "ok"
+     }
+    ]
+   },
+   "detail": [
+    "Noeri launched on Nov. 16 with $110 million. It was founded by Stanford professors Yejin Choi and Carlos Guestrin, and Menlo Ventures led the round.",
+    "The company says it builds self-improving AI that businesses and scientists can build and own themselves. It joins a busy week of AI funding, including Corma's $125 million round."
+   ],
+   "money": [
+    "AI funding still flows even as AI stocks fall. Private money may signal where growth goes next.",
+    "Tools that let companies own their AI could cut long-term licensing costs for businesses.",
+    "Most people can't buy startups directly. Venture-heavy funds carry high fees, so read the fine print."
+   ],
+   "risk": [
+    "Many well-funded AI startups never turn a profit."
+   ],
+   "sources": [
+    {
+     "t": "Noeri Launches with $110M to Empower Companies to Build and Own Their AI",
+     "d": "hpcwire.com",
+     "u": "https://www.hpcwire.com/aiwire/2026/11/16/noeri-launches-with-110m-to-empower-companies-to-build-and-own-their-ai/"
+    },
+    {
+     "t": "AI Daily Digest — 2026-11-17",
+     "d": "github.com",
+     "u": "https://github.com/diclogic/ai-daily-digest/issues/215"
+    }
+   ]
+  },
+  {
+   "id": "anthropic-30-day-disclosure-2026111711",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "business"
+   ],
+   "date": "This week",
+   "ts": "2026-11-17T11:00:00Z",
+   "headline": "Anthropic cuts its bug disclosure deadline to 30 days, citing faster AI bug hunting",
+   "caption": "Starting Jan. 1, 2027, Anthropic will give software makers 30 days to fix serious flaws it finds, down from 90. Other flaws get 45 days.",
+   "visual": {
+    "type": "vs",
+    "title": "Time to fix serious bugs",
+    "a": [
+     "Before",
+     "90 days",
+     1,
+     "acc"
+    ],
+    "b": [
+     "From Jan. 1",
+     "30 days",
+     0.33,
+     "loss"
+    ],
+    "foot": "Lower-severity issues: 45 days"
+   },
+   "detail": [
+    "Anthropic said its disclosure window for high and critical security flaws will drop to 30 days from 90, starting Jan. 1, 2027. Other issues get 45 days.",
+    "It says AI now finds bugs much faster, so others may find the same flaws soon. The change comes as it prepares to price its IPO on Nov. 18."
+   ],
+   "money": [
+    "Faster bug disclosure means faster patches. Turn on automatic updates on phones, laptops and routers.",
+    "Small businesses may need to patch software more often. Budget time or IT help for it.",
+    "Cybersecurity firms may see more demand as patch cycles speed up."
+   ],
+   "risk": [
+    "Short deadlines can leave some vendors without a fix when flaws go public."
+   ],
+   "sources": [
+    {
+     "t": "Coordinated vulnerability disclosure timelines",
+     "d": "anthropic.com",
+     "u": "https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines"
+    },
+    {
+     "t": "AI Daily Digest — 2026-11-17",
+     "d": "github.com",
+     "u": "https://github.com/diclogic/ai-daily-digest/issues/215"
+    }
+   ]
+  },
+  {
+   "id": "custodia-supreme-court-2026111711",
+   "type": "news",
+   "cat": "crypto",
+   "tags": [
+    "crypto",
+    "politics"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T11:00:00Z",
+   "headline": "Supreme Court won't hear crypto bank Custodia's fight for a Fed master account",
+   "caption": "The Wyoming crypto bank applied in 2020 and was denied in 2023. The ruling that the Fed can choose stays in place.",
+   "visual": {
+    "type": "timeline",
+    "title": "Custodia vs. the Fed",
+    "items": [
+     {
+      "d": "2020",
+      "t": "Custodia applies for a Fed master account"
+     },
+     {
+      "d": "JAN 2023",
+      "t": "Kansas City Fed says no"
+     },
+     {
+      "d": "APPEAL",
+      "t": "Court says the Fed has discretion"
+     },
+     {
+      "d": "NOV 16",
+      "t": "Supreme Court declines the case",
+      "now": true
+     }
+    ]
+   },
+   "detail": [
+    "The Supreme Court declined to hear Custodia Bank's challenge. Custodia, a crypto-focused bank chartered in Wyoming, wanted a Fed master account, which gives direct access to the Fed's payment system.",
+    "The Kansas City Fed rejected its application in January 2023. An appeals court ruled the Fed has discretion over who gets an account, and that ruling now stands."
+   ],
+   "money": [
+    "Crypto firms still rely on partner banks. Keep cash at FDIC-insured banks, not crypto platforms.",
+    "Check whether your crypto app holds your dollars at an insured bank, and how.",
+    "Without direct Fed access, crypto banking costs stay higher, which can show up in fees."
+   ],
+   "risk": [
+    "Rules may change under future Fed leaders or new laws."
+   ],
+   "sources": [
+    {
+     "t": "CZ denies Binance sold crypto, Bitwise sees Solana at $1,100 by 2031, and more",
+     "d": "theblock.co",
+     "u": "https://theblock.co/newsletters/the-daily/2026-11-17-cz-binance-bitwise-solana-more-crypto-news-441584"
+    }
+   ]
+  },
+  {
+   "id": "cz-denies-binance-selling-2026111711",
+   "type": "news",
+   "cat": "crypto",
+   "tags": [
+    "crypto",
+    "markets"
+   ],
+   "date": "This week",
+   "ts": "2026-11-17T11:00:00Z",
+   "headline": "CZ denies Binance dumped crypto as a weekly rout hits ether 18% and Solana 20%",
+   "caption": "Bitcoin fell to about $62,000 over the weekend before bouncing to about $65,000. About $2.02 billion in bets were wiped out in 24 hours.",
+   "visual": {
+    "type": "stat",
+    "title": "Crypto's rough week",
+    "num": "$2.02B",
+    "tone": "loss",
+    "label": "Leveraged positions liquidated in 24 hours.",
+    "rows": [
+     [
+      "Bitcoin",
+      -14.2
+     ],
+     [
+      "Ether",
+      -18.2
+     ],
+     [
+      "Solana",
+      -19.7
+     ]
+    ]
+   },
+   "detail": [
+    "Bitcoin dropped to about $62,000 over the weekend, its lowest since July, then recovered to about $65,000. The selloff forced about $2.02 billion in liquidations in a day.",
+    "Binance founder Changpeng Zhao denied rumors the exchange sold crypto after its October hack. He blamed ETF outflows, expected Fed rate hikes, security worries, and money moving toward Anthropic's IPO.",
+    "For the week, bitcoin fell 14.2%, ether 18.2% and Solana 19.7%."
+   ],
+   "money": [
+    "Leverage is what gets wiped out in drops like this. Avoid borrowing to buy crypto.",
+    "If you buy, small regular amounts lower the risk of buying at a bad moment.",
+    "Selling at a loss can offset gains for taxes. Talk to a tax pro before year-end."
+   ],
+   "risk": [
+    "More Fed rate hikes could keep pressure on crypto.",
+    "Rumors move prices fast and are often wrong."
+   ],
+   "sources": [
+    {
+     "t": "CZ denies Binance sold crypto, Bitwise sees Solana at $1,100 by 2031, and more",
+     "d": "theblock.co",
+     "u": "https://theblock.co/newsletters/the-daily/2026-11-17-cz-binance-bitwise-solana-more-crypto-news-441584"
+    }
+   ]
+  },
+  {
+   "id": "ct-medicaid-hold-harmless-2026111711",
+   "type": "news",
+   "cat": "states",
+   "tags": [
+    "states",
+    "benefits",
+    "politics"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T11:00:00Z",
+   "headline": "Connecticut won't cut Medicaid over new work rules until July 2027",
+   "caption": "Work rules for HUSKY D still start Jan. 1. But the state took a federal option to hold off coverage losses for six months.",
+   "visual": {
+    "type": "board",
+    "title": "Connecticut HUSKY D work rules",
+    "rows": [
+     {
+      "k": "Rules start",
+      "v": "Jan. 1, 2027"
+     },
+     {
+      "k": "No coverage loss until",
+      "v": "July 2027",
+      "tone": "gain"
+     },
+     {
+      "k": "Work hours needed",
+      "s": "or school, service, training",
+      "v": "80/month"
+     },
+     {
+      "k": "Or earn at least",
+      "v": "$580/month"
+     }
+    ],
+    "foot": "Several exemptions apply"
+   },
+   "detail": [
+    "Connecticut will take a federal 'hold harmless' option that lets states delay Medicaid penalties through June 30, 2027. Gov. Ned Lamont announced the choice on Monday.",
+    "The work rules for HUSKY D, the state's adult Medicaid group, still begin Jan. 1. Enrollees need 80 hours a month of work, school, service or training, or must earn at least $580 a month. Some people are exempt.",
+    "The rules came from the 2025 federal tax and spending law. State leaders hope the new Congress repeals them, but that would need Trump's support."
+   ],
+   "money": [
+    "If you're on HUSKY D, start tracking your work or training hours now so you're ready.",
+    "Check if you qualify for an exemption. It can save you from paperwork later.",
+    "Losing Medicaid can mean big medical bills. Look at ACA marketplace plans as a backup."
+   ],
+   "risk": [
+    "Other states may not choose the delay.",
+    "Rules can change again if Congress acts."
+   ],
+   "sources": [
+    {
+     "t": "CT delays Medicaid losses from work requirements until July 2027",
+     "d": "ctpublic.org",
+     "u": "https://ctpublic.org/news/2026-11-17/ct-delays-medicaid-losses-from-work-requirements-until-july-2027"
+    }
+   ]
+  },
+  {
+   "id": "ny-scholarship-tax-credit-2026111711",
+   "type": "news",
+   "cat": "taxes",
+   "tags": [
+    "taxes",
+    "states"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T11:00:00Z",
+   "headline": "New York opens the new federal school tax credit: donate up to $1,700, get it back",
+   "caption": "Starting in 2027, donors to approved groups get a dollar-for-dollar federal credit. Groups can apply to New York through Dec. 31.",
+   "visual": {
+    "type": "board",
+    "title": "New federal scholarship tax credit in NY",
+    "rows": [
+     {
+      "k": "Max donation, single",
+      "v": "$1,700"
+     },
+     {
+      "k": "Married filing jointly",
+      "v": "$3,400"
+     },
+     {
+      "k": "Credit",
+      "s": "off your federal tax",
+      "v": "$1 for $1",
+      "tone": "gain"
+     },
+     {
+      "k": "Student income limit",
+      "s": "of area median",
+      "v": "300%"
+     },
+     {
+      "k": "Group applications due",
+      "v": "Dec. 31"
+     }
+    ]
+   },
+   "detail": [
+    "Gov. Kathy Hochul said New York opened applications for groups that want to join the federal scholarship tax credit program. Approved groups will count for the 2027 tax year.",
+    "Starting next year, taxpayers can give up to $1,700, or $3,400 for married couples, to approved groups and get a full credit on federal taxes. The money can pay for tutoring, special education, technology, afterschool programs and tuition.",
+    "Students qualify if household income is no more than 300% of the area median. Groups must spend at least 90% of income on scholarships."
+   ],
+   "money": [
+    "A dollar-for-dollar credit means a $1,700 gift could cut your federal tax by $1,700.",
+    "Families under the income limit may get help paying for tutoring or afterschool care.",
+    "Check your state's list of approved groups before giving, or you may not get the credit."
+   ],
+   "risk": [
+    "Only donations to state-approved groups qualify.",
+    "State tax treatment may differ from the federal credit."
+   ],
+   "sources": [
+    {
+     "t": "Governor Hochul Announces Applications Now Open for Federal Tax Credit Program",
+     "d": "governor.ny.gov",
+     "u": "https://www.governor.ny.gov/news/governor-hochul-announces-applications-now-open-federal-tax-credit-program-drive-resources-new"
+    }
+   ]
+  },
+  {
+   "id": "film-tax-credit-push-2026111711",
+   "type": "news",
+   "cat": "taxes",
+   "tags": [
+    "taxes",
+    "politics",
+    "business"
+   ],
+   "date": "This week",
+   "ts": "2026-11-17T11:00:00Z",
+   "headline": "Trump urges Congress to pass a 20% federal film tax credit before January",
+   "caption": "The bipartisan bill would credit 20% to 30% of US worker pay on film and TV projects. Critics say it could cost $3.3B to $4.9B a year.",
+   "visual": {
+    "type": "points",
+    "title": "Proposed federal film credit",
+    "items": [
+     "Base 20% credit on qualifying US labor",
+     "Projects must cost more than $1 million",
+     "75%+ of filming days in the US",
+     "No spending cap, per Tax Policy Center",
+     "Cato: $3.3B to $4.9B a year"
+    ]
+   },
+   "detail": [
+    "Trump is backing a bill that would create a federal tax credit for film and TV production. It was introduced in September by Sen. Tim Scott with bipartisan support, including Sen. Adam Schiff.",
+    "The base credit is 20% of qualifying US labor costs, on top of state credits. Projects must cost over $1 million and shoot at least 75% of days in the US.",
+    "Trump says it would bring back jobs. Critics at Cato estimate a cost of $3.3 billion to $4.9 billion a year. The bill sits in committee, and one Democrat called lame-duck odds 'pretty low.'"
+   ],
+   "money": [
+    "Film workers in high-cost states could see more local jobs if it passes.",
+    "Studios and production suppliers could benefit. Watch for it in any year-end tax deal.",
+    "As a taxpayer, uncapped credits can grow costs over time. Follow how it's paid for."
+   ],
+   "risk": [
+    "It may not pass before Democrats take over in January."
+   ],
+   "sources": [
+    {
+     "t": "Why Trump Is Throwing His Weight Behind a Hollywood Tax Credit",
+     "d": "time.com",
+     "u": "https://time.com/article/2026/11/16/why-trump-is-throwing-his-weight-behind-a-hollywood-tax-credit"
+    },
+    {
+     "t": "Lawmakers Scramble to Pass US Film Tax Credit After Midterms",
+     "d": "thewrap.com",
+     "u": "https://www.thewrap.com/industry-news/business/us-federal-tax-credit-american-film-market/"
+    }
+   ]
+  },
+  {
+   "id": "dec-11-shutdown-deadline-2026111711",
+   "type": "news",
+   "cat": "politics",
+   "tags": [
+    "politics",
+    "world"
+   ],
+   "date": "This week",
+   "ts": "2026-11-17T11:00:00Z",
+   "headline": "Shutdown clock: funding runs out Dec. 11, and Trump wants a $350B defense add-on",
+   "caption": "Republicans have four legislative weeks left in control. Democrats say they'll back funding only if it cuts off Iran war money.",
+   "visual": {
+    "type": "timeline",
+    "title": "Lame-duck deadlines",
+    "items": [
+     {
+      "d": "NOW",
+      "t": "4 legislative weeks left for GOP",
+      "now": true
+     },
+     {
+      "d": "DEC 11",
+      "t": "Government funding expires",
+      "s": "shutdown risk"
+     },
+     {
+      "d": "JAN",
+      "t": "Democrats take both chambers"
+     }
+    ]
+   },
+   "detail": [
+    "Government funding runs out Dec. 11. Congress needs another bill or the government shuts down.",
+    "Sen. Patty Murray floated a short-term bill. Democrats say they'll only support spending that cuts off defense funds for the Iran war, which Majority Leader John Thune called 'pretty complicated.'",
+    "Some Republicans want a final party-line reconciliation bill, and Trump asked for a $350 billion defense supplemental in it. Not all Republicans agree."
+   ],
+   "money": [
+    "A shutdown can delay some federal services and paychecks. Federal workers may want a cash cushion now.",
+    "Social Security checks keep coming in a shutdown, but customer service can slow.",
+    "Market dips on shutdown news are often short. Avoid panic selling."
+   ],
+   "risk": [
+    "Talks could stall and push a shutdown into the holidays."
+   ],
+   "sources": [
+    {
+     "t": "Republicans' final sprint: What will they get done while they're still in control?",
+     "d": "deseret.com",
+     "u": "https://www.deseret.com/politics/2026/11/16/republicans-final-sprint-in-majority/"
+    }
+   ]
+  },
+  {
+   "id": "medtronic-contego-380m-2026111711",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business",
+    "markets"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T11:00:00Z",
+   "headline": "Medtronic moves to buy stroke-device maker Contego Medical for $380 million",
+   "caption": "Medtronic has owned a minority stake in Contego since 2020. The deal should close in its fiscal third quarter.",
+   "visual": {
+    "type": "deals",
+    "title": "Medtronic deal",
+    "items": [
+     {
+      "a": "Medtronic",
+      "b": "Contego Medical (Raleigh, NC)",
+      "amt": "$380M",
+      "st": "Plus possible later payments",
+      "c": "pend"
+     }
+    ]
+   },
+   "detail": [
+    "Medtronic said it intends to buy Contego Medical for $380 million, plus possible payments later. Contego makes devices used to treat carotid artery disease, which can cause strokes.",
+    "Medtronic has held a minority stake since 2020 and got an option to buy in 2025. It says the deal will barely dent adjusted profit in fiscal 2027 and 2028, then help after that."
+   ],
+   "money": [
+    "Big medtech firms often buy partners they already know. Watch for similar deals in heart and stroke care.",
+    "Medtronic pays a dividend. Small add-on deals tend not to threaten payouts.",
+    "Health care stocks can steady a portfolio when tech is volatile."
+   ],
+   "risk": [
+    "The deal still needs normal closing approvals."
+   ],
+   "sources": [
+    {
+     "t": "Medtronic Contego Deal: A Smart, Proven $380m Bet",
+     "d": "globalbrandsmagazine.com",
+     "u": "https://www.globalbrandsmagazine.com/medtronic-contego-carotid-deal"
+    }
+   ]
+  },
+  {
+   "id": "vusion-pricer-offer-2026111711",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business",
+    "world"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T11:00:00Z",
+   "headline": "Vusion offers about SEK 980 million cash for Swedish retail tech firm Pricer",
+   "caption": "Pricer's board backs the SEK 6.00-a-share offer. The acceptance period should run from about Dec. 8 to Jan. 5.",
+   "visual": {
+    "type": "deals",
+    "title": "Retail tech takeover",
+    "items": [
+     {
+      "a": "Vusion",
+      "b": "Pricer",
+      "amt": "SEK 980M",
+      "st": "SEK 6.00 per share, board recommends",
+      "c": "pend"
+     }
+    ]
+   },
+   "detail": [
+    "Vusion made a cash offer of SEK 6.00 per share for all of Pricer, valuing it at about SEK 980.4 million. Both boards support the deal.",
+    "Shareholders can accept from around Dec. 8 to Jan. 5, and payment should start around Jan. 12, 2027."
+   ],
+   "money": [
+    "Retail tech consolidation can speed up store automation, which can affect in-store prices and jobs.",
+    "Takeover offers usually set a ceiling on a stock's near-term price. Holders weigh taking cash vs waiting.",
+    "International small caps can be thin and volatile. Size positions small."
+   ],
+   "risk": [
+    "The offer could change if terms or approvals shift."
+   ],
+   "sources": [
+    {
+     "t": "Vusion preps blockbuster Pricer acquisition",
+     "d": "retailtechinnovationhub.com",
+     "u": "https://retailtechinnovationhub.com/home/2026/11/17/vusion-preps-blockbuster-pricer-acquisition-as-2026-rtih-innovation-awards-winners-agree-terms"
+    }
+   ]
+  },
+  {
+   "id": "scotus-asylum-ban-case-2026111711",
+   "type": "news",
+   "cat": "immigration",
+   "tags": [
+    "immigration",
+    "politics"
+   ],
+   "date": "This week",
+   "ts": "2026-11-17T11:00:00Z",
+   "headline": "Supreme Court will decide if Trump's border asylum ban is legal; ruling due by June",
+   "caption": "Lower courts said the president went too far. The ban stays in place while the justices consider the case.",
+   "visual": {
+    "type": "timeline",
+    "title": "Asylum ban in court",
+    "items": [
+     {
+      "d": "JAN 2025",
+      "t": "Ban announced"
+     },
+     {
+      "d": "JUL 2025",
+      "t": "Judge rules against it"
+     },
+     {
+      "d": "APR 2026",
+      "t": "Appeals court agrees"
+     },
+     {
+      "d": "NOV 13",
+      "t": "Supreme Court takes the case",
+      "now": true
+     },
+     {
+      "d": "BY JUNE",
+      "t": "Ruling expected"
+     }
+    ]
+   },
+   "detail": [
+    "The Supreme Court agreed to decide whether Trump's limits on asylum at the southern border are legal. Lower courts ruled that the president exceeded his authority.",
+    "The policy bars migrants caught crossing illegally from seeking asylum. The administration says it reduced crossings; advocates say it denies people a fair hearing. Arguments come in the next few months, with a ruling expected by the end of June.",
+    "Separately, arguments on third-country deportations are set for Dec. 9."
+   ],
+   "money": [
+    "Employers that rely on immigrant labor may face ongoing uncertainty. Plan staffing with that in mind.",
+    "Families with pending cases should keep documents and legal help lined up; deadlines are shrinking.",
+    "Avoid paying 'notarios' or unlicensed helpers; use accredited legal aid."
+   ],
+   "risk": [
+    "The outcome could shift border policy for years."
+   ],
+   "sources": [
+    {
+     "t": "US Supreme Court to weigh asylum restrictions at southern border",
+     "d": "denvergazette.com",
+     "u": "https://www.denvergazette.com/2026/11/16/us-supreme-court-to-weigh-asylum-restrictions-at-southern-border/"
+    },
+    {
+     "t": "Here are the 3 major immigration cases U.S. Supreme Court will hear in coming months",
+     "d": "cbc.ca",
+     "u": "https://www.cbc.ca/news/world/us-scotus-major-immigration-cases-9.7423295"
+    }
+   ]
+  },
+  {
+   "id": "ice-san-mateo-six-2026111711",
+   "type": "news",
+   "cat": "immigration",
+   "tags": [
+    "immigration",
+    "california"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T11:00:00Z",
+   "headline": "ICE detains six people across San Mateo County in one morning",
+   "caption": "Arrests came in South San Francisco, Daly City, Millbrae and outside the Redwood City jail. ICE says it targets people in the US illegally.",
+   "visual": {
+    "type": "points",
+    "title": "Monday in San Mateo County",
+    "items": [
+     "2 near a bakery in South San Francisco",
+     "1 in Daly City, 1 in Millbrae",
+     "1 outside the Redwood City jail",
+     "1 more near Airport Blvd.",
+     "Five around 10 a.m., one at 11:18 a.m."
+    ]
+   },
+   "detail": [
+    "Immigration agents detained six people in San Mateo County on Monday morning, according to San Mateo County Rapid Response. Five were around 10 a.m. and a sixth was reported at 11:18 a.m.",
+    "The group said ICE appeared to target specific people. ICE San Francisco said it routinely works across Northern California and acts under federal immigration law."
+   ],
+   "money": [
+    "Local businesses can lose workers and customers during enforcement waves. Have a backup staffing plan.",
+    "Know your rights resources are free from county and nonprofit groups. Avoid paid scams.",
+    "Families may want a plan for bills and child care if a loved one is detained."
+   ],
+   "risk": [
+    "Reports from rapid-response groups may be updated as facts come in."
+   ],
+   "sources": [
+    {
+     "t": "ICE arrests 6 in San Mateo County",
+     "d": "kron4.com",
+     "u": "https://www.kron4.com/news/bay-area-ice-raids/ice-arrests-6-in-san-mateo-county/amp/"
+    }
+   ]
+  },
+  {
+   "id": "edu-comparable-sales-2026111711",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "markets"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-17T11:00:00Z",
+   "headline": "Comparable sales: the retail number Wall Street watches most",
+   "caption": "Home Depot's sales rose 4.9%, but 'comps' rose just 2.2%. Here's why that gap matters.",
+   "scenes": [
+    {
+     "k": "Today's news",
+     "t": "Home Depot sales up 4.9%",
+     "s": "But comparable sales rose only 2.2%."
+    },
+    {
+     "k": "What comps are",
+     "t": "Sales at stores open a year+",
+     "s": "It strips out growth from new stores and deals."
+    },
+    {
+     "k": "Two parts",
+     "t": "Trips times ticket",
+     "viz": {
+      "type": "split",
+      "items": [
+       [
+        "Transactions",
+        "-0.5%"
+       ],
+       [
+        "Avg. ticket",
+        "+3.0%"
+       ],
+       [
+        "Comparable sales",
+        "+2.2%",
+        "wide"
+       ]
+      ]
+     },
+     "say": "Transactions fell half a percent, the average ticket rose 3 percent, and comparable sales rose 2.2 percent."
+    },
+    {
+     "k": "Read it right",
+     "t": "Higher tickets may mean higher prices",
+     "s": "Fewer trips can hint shoppers are pulling back."
+    },
+    {
+     "k": "Why it matters",
+     "t": "Comps show real demand",
+     "s": "Total sales can grow just by opening or buying stores."
+    },
+    {
+     "k": "Takeaway",
+     "t": "Check comps, not just sales",
+     "s": "It's a clearer sign of a retailer's health."
+    }
+   ]
+  },
+  {
+   "id": "edu-tax-credit-vs-deduction-2026111711",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "taxes"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-17T11:00:00Z",
+   "headline": "Tax credit vs. deduction: why a credit is worth more",
+   "caption": "New York's new school donation credit is dollar-for-dollar. Here's how a credit beats a deduction.",
+   "scenes": [
+    {
+     "k": "Today's news",
+     "t": "Give $1,700, get a $1,700 credit",
+     "s": "New York opened the new federal scholarship credit."
+    },
+    {
+     "k": "A deduction",
+     "t": "Lowers the income you're taxed on",
+     "s": "Its value depends on your tax bracket."
+    },
+    {
+     "k": "A credit",
+     "t": "Cuts your tax bill directly",
+     "s": "Each dollar of credit is a dollar less tax."
+    },
+    {
+     "k": "Same $1,000",
+     "t": "Very different savings",
+     "viz": {
+      "type": "split",
+      "items": [
+       [
+        "Deduction, 22% bracket",
+        "$220 saved"
+       ],
+       [
+        "Credit",
+        "$1,000 saved"
+       ],
+       [
+        "Credit wins by",
+        "$780",
+        "wide"
+       ]
+      ]
+     },
+     "say": "A 1,000 dollar deduction saves 220 dollars in the 22 percent bracket. A 1,000 dollar credit saves the full 1,000."
+    },
+    {
+     "k": "The catch",
+     "t": "Rules and limits apply",
+     "s": "Credits often have caps, and some aren't refundable."
+    },
+    {
+     "k": "Takeaway",
+     "t": "Look for credits first",
+     "s": "They usually save you the most per dollar."
+    }
+   ]
+  },
   {
    "id": "futures-slip-vix-24-2026111710",
    "type": "news",
@@ -10793,1141 +11888,6 @@
      "k": "YOUR MOVE",
      "t": "Don't lock in at the peak",
      "s": "Compare fuel and heating oil prices before prepaying. General ideas, not advice."
-    }
-   ]
-  },
-  {
-   "id": "fed-hawks-hike-talk-2026111622",
-   "type": "news",
-   "cat": "markets",
-   "tags": [
-    "markets",
-    "politics"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T22:00:00Z",
-   "headline": "Four Fed officials lean toward more rate hikes as inflation runs hot",
-   "caption": "Jefferson, Collins, Schmid and Hammack all signaled inflation is the top worry. Traders still price about a 1-in-4 chance of a December hike.",
-   "visual": {
-    "type": "board",
-    "title": "What the Fed said Monday",
-    "rows": [
-     {
-      "k": "Jefferson",
-      "s": "Fed vice chair",
-      "v": "Inflation is key"
-     },
-     {
-      "k": "Collins",
-      "s": "Boston Fed",
-      "v": "Gradual hikes"
-     },
-     {
-      "k": "Schmid",
-      "s": "Kansas City Fed",
-      "v": "More work to do"
-     },
-     {
-      "k": "Hammack",
-      "s": "Cleveland Fed",
-      "v": "Small, steady hikes"
-     },
-     {
-      "k": "Dec hike odds",
-      "s": "CME FedWatch",
-      "v": "~26bp priced",
-      "tone": "acc"
-     }
-    ],
-    "foot": "Fed minutes come out Wednesday."
-   },
-   "detail": [
-    "Several Federal Reserve officials spoke Monday, and the message leaned toward higher rates. Vice Chair Philip Jefferson said inflation is the most important factor for any further hikes.",
-    "Boston's Susan Collins favors a gradual tightening path. Kansas City's Jeffrey Schmid said inflation is too high. Cleveland's Beth Hammack said she prefers smaller, step-by-step hikes and sees inflation moving the wrong way.",
-    "Markets price about 26 basis points of hikes by December, roughly one quarter-point move, and about 61 basis points by March. The 10-year Treasury yield ended near 5.12%."
-   ],
-   "money": [
-    "Savings accounts and CDs may keep paying high rates if the Fed hikes; compare yields now.",
-    "Paying down variable-rate debt, like credit cards or HELOCs, gets more valuable as rates rise.",
-    "If you're shopping for a mortgage, a rate lock can protect you from another jump."
-   ],
-   "risk": [
-    "Fed speakers are not the whole committee; one weak data report can change the outlook fast."
-   ],
-   "sources": [
-    {
-     "t": "US Market Wrap - 16th November 2026",
-     "d": "newsquawk.com",
-     "u": "https://www.newsquawk.com/headlines/us-market-wrap---16th-november-2026-risk-off-trade-as-tech-rout-resumes-supporting-havens-"
-    }
-   ]
-  },
-  {
-   "id": "kalshi-stock-trading-2026111622",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business",
-    "crypto",
-    "markets"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T22:00:00Z",
-   "headline": "Kalshi plans stock and ETF trading after buying broker FB Securities",
-   "caption": "The prediction-market company bought a New York broker-dealer and plans to add stocks and ETFs. Robinhood and Schwab shares fell on the news.",
-   "visual": {
-    "type": "points",
-    "title": "Kalshi's move into stocks",
-    "items": [
-     "Bought broker-dealer FB Securities",
-     "Stock and ETF trading planned in about 2 months",
-     "Valued near $40B in its October round",
-     "Robinhood and Schwab shares fell Monday"
-    ]
-   },
-   "detail": [
-    "Kalshi, a federally regulated prediction market, bought FB Securities, a New York broker-dealer, according to a Wall Street Journal report Monday. The price was not disclosed.",
-    "Owning a broker-dealer lets Kalshi offer stocks and ETFs, which its current business can't. Reports say trading could launch in about two months. Kalshi wants one app for event bets, futures and stocks.",
-    "The news weighed on Robinhood and Charles Schwab shares, which face a new rival. Kalshi was valued at about $40 billion in its October funding round."
-   ],
-   "money": [
-    "More brokers fighting for customers can mean lower fees and better sign-up bonuses for you.",
-    "Keep long-term investing separate from event bets; treat prediction markets as entertainment money.",
-    "Check any new broker's SIPC coverage before moving savings there."
-   ],
-   "risk": [
-    "A new platform may have outages or limited features at launch.",
-    "Mixing betting and investing in one app can encourage risky trading."
-   ],
-   "sources": [
-    {
-     "t": "US Market Wrap - 16th November 2026",
-     "d": "newsquawk.com",
-     "u": "https://www.newsquawk.com/headlines/us-market-wrap---16th-november-2026-risk-off-trade-as-tech-rout-resumes-supporting-havens-"
-    },
-    {
-     "t": "Kalshi Acquires FB Securities, Plans Stock and ETF Trading Launch in Early 2027",
-     "d": "kucoin.com",
-     "u": "https://www.kucoin.com/news/flash/kalshi-acquires-fb-securities-plans-stock-and-etf-trading-launch-in-early-2027"
-    }
-   ]
-  },
-  {
-   "id": "adams-county-kww-ruling-2026111622",
-   "type": "news",
-   "cat": "immigration",
-   "tags": [
-    "immigration",
-    "states"
-   ],
-   "date": "Fri Nov 13",
-   "ts": "2026-11-16T22:00:00Z",
-   "headline": "Judge rules a Washington county broke state law by working with ICE",
-   "caption": "A judge found Adams County shared jail data with immigration agents against state law. It's the first ruling to uphold Washington's Keep Washington Working Act.",
-   "visual": {
-    "type": "points",
-    "title": "The Adams County ruling",
-    "items": [
-     "Sheriff sent jail lists and release dates to ICE",
-     "Held people on civil immigration detainers alone",
-     "At least 6 people released straight to Border Patrol",
-     "Must stop, rewrite policies and train deputies"
-    ]
-   },
-   "detail": [
-    "A Spokane County Superior Court judge ruled that Adams County, Washington, violated the state's Keep Washington Working Act. The state attorney general brought the case last year.",
-    "The judge found the sheriff's office shared nonpublic jail data with ICE and Border Patrol, let agents interview inmates without saying who they were, and held people on civil immigration detainers alone. From 2021 to 2023 it released at least six people directly to Border Patrol.",
-    "The county must stop coordinating with civil immigration agents and retrain deputies. The judge also rejected the county's claim that the law is unconstitutional, the first court to uphold it. The county argued federal law conflicts with the state law."
-   ],
-   "money": [
-    "State laws on local police and ICE differ widely; know your state's rules if you employ immigrant workers.",
-    "Counties that lose these suits can face settlements; the county here paid $95,000 to one man.",
-    "Employers in farm regions should plan for labor disruption as enforcement rules shift."
-   ],
-   "risk": [
-    "The county may appeal, and federal-state conflicts over these laws are still being fought in court."
-   ],
-   "sources": [
-    {
-     "t": "County violated WA law restricting coordination with ICE",
-     "d": "heraldnet.com",
-     "u": "https://heraldnet.com/2026/11/16/county-violated-wa-law-restricting-coordination-with-ice"
-    }
-   ]
-  },
-  {
-   "id": "canada-cpi-oct-2026111622",
-   "type": "news",
-   "cat": "world",
-   "tags": [
-    "world",
-    "markets"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T22:00:00Z",
-   "headline": "Canada's inflation holds at 3.1% as gas prices run 31% above last year",
-   "caption": "Canadian prices rose 3.1% from a year ago in October, a bit below forecasts. Gasoline was up 30.9%, but prices excluding energy rose just 2%.",
-   "visual": {
-    "type": "stat",
-    "title": "Canada CPI, October",
-    "num": "3.1%",
-    "tone": "acc",
-    "label": "Year-over-year, same as September and below the 3.2% forecast.",
-    "facts": [
-     [
-      "Gasoline",
-      "+30.9%",
-      "vs a year ago"
-     ],
-     [
-      "Groceries",
-      "+2.0%",
-      "vs a year ago"
-     ],
-     [
-      "Ex-energy",
-      "+2.0%",
-      "down from 2.1%"
-     ]
-    ]
-   },
-   "detail": [
-    "Statistics Canada said consumer prices rose 3.1% in October from a year earlier, unchanged from September. Economists expected 3.2%. Prices rose 0.2% from September.",
-    "Gasoline drove the number, up 30.9% from a year ago. Part of that is a base effect, since gas prices dropped sharply in October 2025. Gas actually fell 2.5% from September.",
-    "Grocery prices rose 2.0% and shelter just 1.4%, as rent growth slowed. Excluding energy, prices rose 2.0%, a sign that inflation outside fuel is close to normal."
-   ],
-   "money": [
-    "Energy is the main driver of inflation right now; cutting fuel use pays off directly.",
-    "A softer reading can weaken the Canadian dollar, making Canadian trips cheaper for US travelers.",
-    "Watch for falling gas prices to pull headline inflation down in coming months."
-   ],
-   "risk": [
-    "Oil prices can spike again with Middle East tensions, reversing the trend."
-   ],
-   "sources": [
-    {
-     "t": "The Daily — Consumer Price Index, October 2026",
-     "d": "statcan.gc.ca",
-     "u": "https://www150.statcan.gc.ca/n1/daily-quotidien/261116/dq261116a-eng.htm"
-    },
-    {
-     "t": "US Market Wrap - 16th November 2026",
-     "d": "newsquawk.com",
-     "u": "https://www.newsquawk.com/headlines/us-market-wrap---16th-november-2026-risk-off-trade-as-tech-rout-resumes-supporting-havens-"
-    }
-   ]
-  },
-  {
-   "id": "japan-gdp-flat-2026111622",
-   "type": "news",
-   "cat": "world",
-   "tags": [
-    "world",
-    "markets"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T22:00:00Z",
-   "headline": "Japan's economy stalls in the third quarter as oil costs and a weak yen bite",
-   "caption": "Japan's GDP was flat from July to September, missing forecasts. Consumers cut spending again as the Iran war pushed up energy costs.",
-   "visual": {
-    "type": "board",
-    "title": "Japan Q3 GDP",
-    "rows": [
-     {
-      "k": "GDP vs Q2",
-      "s": "forecast +0.1%",
-      "v": "0.0%",
-      "tone": "acc"
-     },
-     {
-      "k": "Annualized",
-      "s": "forecast +0.2%",
-      "v": "-0.1%",
-      "ch": -0.1,
-      "tone": "loss"
-     },
-     {
-      "k": "Consumer spending",
-      "v": "-0.3%",
-      "ch": -0.3,
-      "tone": "loss"
-     },
-     {
-      "k": "Business investment",
-      "v": "+1.6%",
-      "ch": 1.6,
-      "tone": "gain"
-     },
-     {
-      "k": "Dollar-yen",
-      "v": "~160",
-      "tone": "acc"
-     }
-    ],
-    "foot": "BOJ still expected to hike in December."
-   },
-   "detail": [
-    "Japan's economy did not grow from July to September, according to preliminary government data. Forecasters expected 0.1% growth. On an annual basis, it shrank 0.1%.",
-    "Household spending fell 0.3%, and imports jumped 2.5% while exports slipped. The Iran war has raised oil costs, and Japan imports nearly all its oil. A weak yen, near 160 per dollar, makes imports even pricier.",
-    "Business investment was a bright spot, up 1.6%. Analysts still expect the Bank of Japan to raise rates in December because inflation is building."
-   ],
-   "money": [
-    "A yen near 160 per dollar makes Japan trips cheaper for Americans.",
-    "If you own international funds, check how much is in Japan; a stalled economy can weigh on returns.",
-    "A BOJ hike could strengthen the yen, which can shake global markets; keep diversified."
-   ],
-   "risk": [
-    "Japan could intervene to prop up the yen, causing sudden currency swings."
-   ],
-   "sources": [
-    {
-     "t": "Japan's economy stalls as inflation weighs on growth",
-     "d": "euronews.com",
-     "u": "https://www.euronews.com/2026/11/16/japans-economy-stalls-as-inflation-weighs-on-growth"
-    },
-    {
-     "t": "Japanese economy flat in third quarter: official data",
-     "d": "brecorder.com",
-     "u": "https://www.brecorder.com/news/40449162/japanese-economy-flat-in-third-quarter-official-data"
-    }
-   ]
-  },
-  {
-   "id": "project-faro-stablecoin-2026111622",
-   "type": "news",
-   "cat": "crypto",
-   "tags": [
-    "crypto",
-    "business"
-   ],
-   "date": "This week",
-   "ts": "2026-11-16T22:00:00Z",
-   "headline": "21 big financial firms aim to launch a US dollar stablecoin in early 2027",
-   "caption": "A group called Project Faro has committed about $270 million. Separately, the NYSE and DTCC are building tokenized-stock systems.",
-   "visual": {
-    "type": "deals",
-    "title": "Wall Street goes on-chain",
-    "items": [
-     {
-      "a": "Project Faro",
-      "b": "USD stablecoin",
-      "amt": "$270M",
-      "st": "Launch target H1 2027",
-      "c": "pend"
-     },
-     {
-      "a": "NYSE",
-      "b": "Tokenized stocks",
-      "amt": "Avalanche-based",
-      "st": "Needs approval",
-      "c": "pend"
-     },
-     {
-      "a": "DTCC",
-      "b": "Stocks, ETFs, Treasuries",
-      "amt": "On Solana",
-      "st": "Target H2 2027",
-      "c": "pend"
-     },
-     {
-      "a": "Deutsche Bank",
-      "b": "Crypto custody",
-      "amt": "BTC, ETH",
-      "st": "Launched in Europe",
-      "c": "ok"
-     }
-    ]
-   },
-   "detail": [
-    "A group of 21 financial institutions, called Project Faro, has committed about $270 million to build a US dollar stablecoin. It targets a launch in the first half of 2027, with stablecoins tied to other G7 currencies later.",
-    "Other big players are moving too. The NYSE plans a tokenized-stock venue on a custom Avalanche-based blockchain, which still needs approval. DTCC aims to offer tokenized stocks, ETFs and Treasuries on Solana in the second half of 2027.",
-    "Deutsche Bank launched crypto custody in Europe for corporate and institutional clients, starting with bitcoin, ether and select stablecoins."
-   ],
-   "money": [
-    "Bank-backed stablecoins could mean faster, cheaper transfers, even on weekends.",
-    "Tokenized Treasuries may one day let small investors earn yield around the clock.",
-    "Stick with regulated issuers; not all stablecoins hold the same quality reserves."
-   ],
-   "risk": [
-    "Launch dates are targets and depend on regulators.",
-    "Crypto prices are falling, which can slow adoption."
-   ],
-   "sources": [
-    {
-     "t": "Crypto Market Pulse: November 16, 2026",
-     "d": "crypto.com",
-     "u": "https://crypto.com/en/market-updates/crypto-market-pulse-2026-11-16"
-    }
-   ]
-  },
-  {
-   "id": "btc-demand-low-2026111622",
-   "type": "news",
-   "cat": "crypto",
-   "tags": [
-    "crypto",
-    "markets"
-   ],
-   "date": "This week",
-   "ts": "2026-11-16T22:00:00Z",
-   "headline": "Bitcoin buying demand hits its lowest level since March 2025",
-   "caption": "A key gauge of bitcoin demand turned deeply negative, signaling sellers outnumber buyers. Spot bitcoin ETFs lost another $1.1 billion last week.",
-   "visual": {
-    "type": "stat",
-    "title": "Bitcoin demand gauge",
-    "num": "-284K BTC",
-    "tone": "loss",
-    "label": "30-day apparent demand on Nov. 11, the weakest since March 2025.",
-    "facts": [
-     [
-      "1-year demand",
-      "-1.2M BTC",
-      "weakest since Feb 2023"
-     ],
-     [
-      "BTC ETF flows",
-      "-$1.1B",
-      "last week"
-     ],
-     [
-      "ETH ETF flows",
-      "-$399M",
-      "last week"
-     ]
-    ]
-   },
-   "detail": [
-    "A measure called apparent demand, which compares new supply with coins changing hands, fell by 284,000 bitcoin over 30 days as of Nov. 11. That is the weakest reading since March 2025.",
-    "The one-year version fell by 1.2 million bitcoin, its lowest since February 2023. When both are negative, selling pressure is outweighing buying.",
-    "US spot bitcoin ETFs had $1.1 billion in net outflows last week, and ether ETFs lost $399 million. Bitcoin and ether each fell more than 12% over the week."
-   ],
-   "money": [
-    "Weak demand can mean more downside; only buy crypto with money you can leave alone for years.",
-    "Spreading purchases over time can soften the blow of buying before another drop.",
-    "Losses on crypto sold this year can offset gains on your 2026 taxes."
-   ],
-   "risk": [
-    "Demand gauges can turn quickly; they don't time bottoms reliably."
-   ],
-   "sources": [
-    {
-     "t": "Crypto Market Pulse: November 16, 2026",
-     "d": "crypto.com",
-     "u": "https://crypto.com/en/market-updates/crypto-market-pulse-2026-11-16"
-    }
-   ]
-  },
-  {
-   "id": "illinois-2-4b-gap-2026111622",
-   "type": "news",
-   "cat": "states",
-   "tags": [
-    "states",
-    "benefits"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T22:00:00Z",
-   "headline": "Illinois has a $927M surplus now but faces a $2.4B gap next year",
-   "caption": "Strong tax revenue gives Illinois a surplus this year. But federal Medicaid and SNAP changes push next year's budget into the red.",
-   "visual": {
-    "type": "vs",
-    "title": "Illinois budget outlook",
-    "a": [
-     "This year",
-     "+$927M",
-     0.39,
-     "gain"
-    ],
-    "b": [
-     "Next year",
-     "-$2.4B",
-     1,
-     "loss"
-    ],
-    "foot": "Next year's spending rises to about $60.3B."
-   },
-   "detail": [
-    "Illinois expects a $927 million surplus this fiscal year, thanks to strong corporate income and sales tax revenue. Gov. JB Pritzker wants to spend $728 million of it, leaving about $199 million.",
-    "Next year looks harder. Revenue is projected at about $58 billion, but spending rises to about $60.3 billion, partly because the state will cover about $1.4 billion now paid by Washington. That leaves a gap of about $2.4 billion.",
-    "Federal changes are a big factor. Managed care tax changes could create a $1.3 billion hole, and the state's share of SNAP costs could top $400 million a year starting later in the decade."
-   ],
-   "money": [
-    "Budget gaps often lead to fee hikes or program cuts; Illinois residents should watch spring budget talks.",
-    "If you rely on Medicaid or SNAP in Illinois, keep your paperwork current to avoid losing benefits.",
-    "Schools may get less new money than they want, which can affect local property taxes."
-   ],
-   "risk": [
-    "Forecasts assume no recession; the report says conditions for one exist."
-   ],
-   "sources": [
-    {
-     "t": "Illinois' projected $927M surplus could give way to $2.4B deficit next year amid federal changes",
-     "d": "kwqc.com",
-     "u": "https://www.kwqc.com/2026/11/16/illinois-projected-927m-surplus-could-give-way-24b-deficit-next-year-amid-federal-changes/"
-    }
-   ]
-  },
-  {
-   "id": "allies-ai-supply-chain-2026111622",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "world"
-   ],
-   "date": "This week",
-   "ts": "2026-11-16T22:00:00Z",
-   "headline": "US, Japan and India agree to guard AI supply chains from China-linked risks",
-   "caption": "The US and allies will jointly protect key AI technologies. Lawmakers are also pushing tighter AI chip export rules after the Nvidia scandal.",
-   "visual": {
-    "type": "points",
-    "title": "The AI supply chain push",
-    "items": [
-     "US and allies, incl. Japan and India, sign on",
-     "Goal: shield AI supply chains from China-linked risks",
-     "Will list sensitive technologies to protect jointly",
-     "Congress weighs tighter AI chip export rules"
-    ]
-   },
-   "detail": [
-    "The US and allies including Japan and India agreed to protect critical AI supply chains from vulnerabilities linked to China, according to reports. They will identify sensitive technologies for joint protection.",
-    "Separately, US lawmakers are pushing for tighter export rules on AI chips after the espionage controversy around Nvidia. Policymakers are also asking whether data centers in Singapore and Malaysia could give Chinese firms access to restricted US chips.",
-    "Some analysts warn more chip rules could hurt the US industry by shrinking its global reach."
-   ],
-   "money": [
-    "Tighter export rules can hit chip stocks' China sales; check how concentrated your tech holdings are.",
-    "Allied supply chain deals may help chipmakers and equipment firms in Japan and India.",
-    "Broad index funds spread the risk of any one company's policy troubles."
-   ],
-   "risk": [
-    "Details and enforcement of the pact are still unclear."
-   ],
-   "sources": [
-    {
-     "t": "Everything That Happened in AI Today Monday, November 16",
-     "d": "theneuron.ai",
-     "u": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-monday-november-16-2026/"
-    }
-   ]
-  },
-  {
-   "id": "ai-counterintel-hiring-2026111622",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "business"
-   ],
-   "date": "This week",
-   "ts": "2026-11-16T22:00:00Z",
-   "headline": "AI firms ramp up spy-catcher hiring; Anthropic added 33 such staff this year",
-   "caption": "AI companies are hiring more counterintelligence staff over industrial espionage fears. Anthropic hired 33 in 2026, up from 14 in 2025.",
-   "visual": {
-    "type": "vs",
-    "title": "Anthropic counterintelligence hires",
-    "a": [
-     "2025",
-     "14",
-     0.42,
-     "acc"
-    ],
-    "b": [
-     "2026",
-     "33",
-     1,
-     "gain"
-    ],
-    "foot": "Hiring rises amid AI espionage fears."
-   },
-   "detail": [
-    "AI companies are adding counterintelligence staff as fears of industrial espionage grow, Fortune reported. Anthropic reportedly hired 33 people for these roles in 2026, up from 14 the year before.",
-    "The push comes as the Nvidia leadership scandal, tied to alleged espionage, has put AI security in the spotlight. Lawmakers are also pressing for tighter chip controls."
-   ],
-   "money": [
-    "Security, intelligence and compliance skills are in demand at AI firms; it's a growing job niche.",
-    "Companies spending more on security may see higher costs, which can weigh on margins.",
-    "If you work in tech, expect stricter access rules and background checks."
-   ],
-   "risk": [
-    "Hiring numbers come from reports, not company filings."
-   ],
-   "sources": [
-    {
-     "t": "Everything That Happened in AI Today Monday, November 16",
-     "d": "theneuron.ai",
-     "u": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-monday-november-16-2026/"
-    }
-   ]
-  },
-  {
-   "id": "gemini-4-carbon-matharena-2026111622",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai"
-   ],
-   "date": "This week",
-   "ts": "2026-11-16T22:00:00Z",
-   "headline": "Google's Gemini 4 Carbon tops a math test, but costs about 15x more to run",
-   "caption": "Gemini 4 Carbon beat OpenAI's GPT-6.1 Sol on the MathArena benchmark. But its test setup cost about 15 times more and often ran past time limits.",
-   "visual": {
-    "type": "board",
-    "title": "MathArena showdown",
-    "rows": [
-     {
-      "k": "Gemini 4 Carbon",
-      "s": "Google",
-      "v": "#1",
-      "tone": "gain"
-     },
-     {
-      "k": "GPT-6.1 Sol",
-      "s": "OpenAI",
-      "v": "Behind"
-     },
-     {
-      "k": "Cost per test",
-      "s": "Gemini vs GPT",
-      "v": "~15x",
-      "tone": "loss"
-     }
-    ],
-    "foot": "Gemini often exceeded time limits."
-   },
-   "detail": [
-    "Google's Gemini 4 Carbon ranked first on MathArena, a benchmark of math problems, ahead of OpenAI's GPT-6.1 Sol.",
-    "The win came with a catch. The tested setup cost about 15 times more per evaluation, and the model often ran over time limits."
-   ],
-   "money": [
-    "For everyday tasks, a cheaper model may be good enough; compare price before upgrading AI plans.",
-    "Cost per answer matters for businesses using AI at scale.",
-    "Benchmark wins don't always mean a model is best for your use."
-   ],
-   "risk": [
-    "Benchmark results can change with new versions and settings."
-   ],
-   "sources": [
-    {
-     "t": "Everything That Happened in AI Today Monday, November 16",
-     "d": "theneuron.ai",
-     "u": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-monday-november-16-2026/"
-    }
-   ]
-  },
-  {
-   "id": "edu-fed-hike-basics-2026111622",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "markets"
-   ],
-   "date": "Explainer",
-   "ts": "2026-11-16T22:00:00Z",
-   "headline": "Rate hikes 101: how the Fed fights inflation",
-   "caption": "Four Fed officials leaned toward more hikes Monday. Here's how a rate hike reaches your wallet.",
-   "scenes": [
-    {
-     "k": "TODAY'S NEWS",
-     "t": "Fed officials hint at more hikes",
-     "s": "Jefferson, Collins, Schmid and Hammack all flagged inflation as the main worry."
-    },
-    {
-     "k": "THE TOOL",
-     "t": "The Fed raises its key rate",
-     "s": "Banks pay more to borrow, so they charge more too."
-    },
-    {
-     "k": "THE CHAIN",
-     "t": "Higher rates ripple out",
-     "viz": {
-      "type": "flow",
-      "items": [
-       "Fed hikes",
-       "Loan rates rise",
-       "People borrow less",
-       "Spending cools",
-       "Prices ease"
-      ]
-     }
-    },
-    {
-     "k": "THE PAIN",
-     "t": "Borrowing gets pricier",
-     "s": "Credit cards, HELOCs and new car loans cost more."
-    },
-    {
-     "k": "THE GAIN",
-     "t": "Savers earn more",
-     "s": "High-yield savings and CDs tend to pay more when rates rise."
-    },
-    {
-     "k": "YOUR MOVE",
-     "t": "Pay down variable debt, shop for yield",
-     "s": "These are general ideas, not personal advice."
-    }
-   ]
-  },
-  {
-   "id": "edu-base-effect-2026111622",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "world"
-   ],
-   "date": "Explainer",
-   "ts": "2026-11-16T22:00:00Z",
-   "headline": "Base effect: why gas can be up 31% yet falling",
-   "caption": "Canada's gas prices were up 30.9% from a year ago but down 2.5% from last month. Here's the trick.",
-   "scenes": [
-    {
-     "k": "TODAY'S NEWS",
-     "t": "Canada gas: +30.9% in a year",
-     "s": "Yet prices fell 2.5% from September."
-    },
-    {
-     "k": "THE IDEA",
-     "t": "It depends on what you compare to",
-     "s": "Yearly change looks back 12 months. Monthly change looks back one."
-    },
-    {
-     "k": "THE BASE",
-     "t": "Last October was unusually cheap",
-     "s": "Gas dropped sharply in October 2025, so this year looks extra high."
-    },
-    {
-     "k": "TWO VIEWS",
-     "t": "Same prices, two stories",
-     "viz": {
-      "type": "split",
-      "items": [
-       [
-        "vs last year",
-        "+30.9%"
-       ],
-       [
-        "vs last month",
-        "-2.5%"
-       ],
-       [
-        "Ex-energy inflation",
-        "2.0%",
-        "wide"
-       ]
-      ]
-     },
-     "say": "Up 30.9 percent versus last year, down 2.5 percent versus last month, and just 2 percent inflation outside energy."
-    },
-    {
-     "k": "WHY IT MATTERS",
-     "t": "Headlines can mislead",
-     "s": "A scary yearly number can hide a cooling trend."
-    },
-    {
-     "k": "YOUR MOVE",
-     "t": "Check both the month and the year",
-     "s": "Look at recent direction before reacting to any price headline."
-    }
-   ]
-  },
-  {
-   "id": "close-third-loss-2026111621",
-   "type": "news",
-   "cat": "markets",
-   "tags": [
-    "markets",
-    "ai"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T21:00:00Z",
-   "headline": "Close: S&P 500 falls 1.9% and Nasdaq 2.5% for a third straight loss",
-   "caption": "Nvidia and other AI stocks dragged Wall Street lower a day before Nvidia's earnings. The Dow lost about 739 points and the VIX fear gauge jumped near 24.",
-   "visual": {
-    "type": "board",
-    "title": "Monday's close",
-    "rows": [
-     {
-      "k": "S&P 500",
-      "s": "3rd straight loss",
-      "v": "-1.9%",
-      "ch": -1.9,
-      "tone": "loss"
-     },
-     {
-      "k": "Nasdaq",
-      "v": "-2.5%",
-      "ch": -2.5,
-      "tone": "loss"
-     },
-     {
-      "k": "Dow",
-      "v": "-739 pts",
-      "tone": "loss"
-     },
-     {
-      "k": "10-yr yield",
-      "s": "from 5.15% Fri",
-      "v": "5.12%",
-      "tone": "acc"
-     },
-     {
-      "k": "Brent oil",
-      "v": "$92.44",
-      "ch": -3.5,
-      "tone": "loss"
-     }
-    ],
-    "foot": "Nvidia reports Tuesday after the close."
-   },
-   "detail": [
-    "Stocks ended Monday sharply lower. The S&P 500 fell 1.9%, its third loss in a row. The Nasdaq dropped 2.5% and the Dow lost about 739 points.",
-    "Chip and AI names led the slide. Nvidia fell about 4% to its lowest level since July 2025. AMD fell 4.7%, Broadcom 3.6% and CoreWeave 6.2%. Tyson Foods was a bright spot, up about 7%.",
-    "The 10-year Treasury yield eased to 5.12% from 5.15%. Oil fell about 3.5%. Fear rose: the VIX volatility index jumped about 24% to near 24."
-   ],
-   "money": [
-    "Selloffs before big earnings can reverse fast; avoid panic-selling a long-term index fund on one bad day.",
-    "If you plan to buy, adding money in small pieces over weeks lowers the risk of buying right before another drop.",
-    "Yields above 5% mean cash and short-term Treasurys still pay well while you wait."
-   ],
-   "risk": [
-    "Nvidia's report Tuesday could push the market sharply in either direction.",
-    "Three straight down days can turn into a longer slide if earnings disappoint."
-   ],
-   "sources": [
-    {
-     "t": "More drops for Nvidia and other AI stocks drag the US market lower",
-     "d": "bnnbloomberg.ca",
-     "u": "https://bnnbloomberg.ca/markets/nasdaq/2026/11/16/stocks-decline-on-tech-sell-off-as-concerns-over-the-nvidia-fallout-persist"
-    },
-    {
-     "t": "Stock market today: Dow and S&P 500 drop, Nasdaq sinks over 2%",
-     "d": "finance.yahoo.com",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html"
-    },
-    {
-     "t": "Live updates: Bitcoin holds near weekend lows as Nasdaq extends decline",
-     "d": "coindesk.com",
-     "u": "https://www.coindesk.com/tech/2026/11/16/live-news-bitcoin-posts-sixth-weekly-loss-as-tech-stocks-and-metals-slide"
-    }
-   ]
-  },
-  {
-   "id": "dollar-copper-hike-odds-2026111621",
-   "type": "news",
-   "cat": "markets",
-   "tags": [
-    "markets",
-    "world"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T21:00:00Z",
-   "headline": "Dollar hits its highest since April 2025 as December rate-hike odds top out",
-   "caption": "Traders now see a December Fed hike as all but certain, and the dollar climbed. Copper slid below $6 a pound for the first time since June.",
-   "visual": {
-    "type": "board",
-    "title": "Rate-hike ripple effects",
-    "rows": [
-     {
-      "k": "Dec. hike odds",
-      "s": "Fed decides Dec. 9",
-      "v": "~100%",
-      "tone": "acc"
-     },
-     {
-      "k": "Dollar index",
-      "s": "highest since Apr. 2025",
-      "v": "High",
-      "tone": "gain"
-     },
-     {
-      "k": "Copper",
-      "s": "first time under $6 since June",
-      "v": "<$6/lb",
-      "ch": -1.5,
-      "tone": "loss"
-     },
-     {
-      "k": "US crude",
-      "v": "$84.38",
-      "ch": -3.3,
-      "tone": "loss"
-     },
-     {
-      "k": "Gold",
-      "s": "morning",
-      "v": "$3,862",
-      "tone": "acc"
-     }
-    ]
-   },
-   "detail": [
-    "Futures pricing on Monday put the odds of a December rate hike at about 100%. Days earlier, CME's tool showed about 92%. The Fed's next decision is Dec. 9.",
-    "Expectations of higher rates pushed the dollar index to its highest level since April 2025. Copper fell another 1.5% and traded below $6 a pound for the first time since June.",
-    "Fed Chair Kevin Warsh spoke about AI and jobs on Monday but avoided talking about near-term rates. Fed meeting minutes come out Wednesday."
-   ],
-   "money": [
-    "A rate hike usually lifts savings and CD yields; shop around for the best rate before it lands.",
-    "If you carry a credit card balance, a hike makes it costlier; pay it down or move it to a lower rate now.",
-    "A strong dollar makes foreign trips and imported goods cheaper for Americans."
-   ],
-   "risk": [
-    "Odds can shift quickly with new inflation or jobs data before Dec. 9.",
-    "A strong dollar can hurt profits at big US companies that sell abroad."
-   ],
-   "sources": [
-    {
-     "t": "Live updates: Bitcoin holds near weekend lows as Nasdaq extends decline",
-     "d": "coindesk.com",
-     "u": "https://www.coindesk.com/tech/2026/11/16/live-news-bitcoin-posts-sixth-weekly-loss-as-tech-stocks-and-metals-slide"
-    },
-    {
-     "t": "Treasury Secretary Bessent Urges Fed to Look Past Oil as Quarter-Point Hike Odds Reach 92%",
-     "d": "finance.yahoo.com",
-     "u": "https://finance.yahoo.com/economy/policy/articles/treasury-secretary-bessent-urges-fed-015842583.html"
-    }
-   ]
-  },
-  {
-   "id": "intel-lawsuit-drop-2026111621",
-   "type": "news",
-   "cat": "markets",
-   "tags": [
-    "markets",
-    "ai"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T21:00:00Z",
-   "headline": "Intel falls about 6% as shareholders sue over its 29% one-day crash",
-   "caption": "A Michigan pension fund says Intel hid how badly a PC slump would hit sales. The suit points to a $23 billion stock sale Intel made mid-quarter.",
-   "visual": {
-    "type": "timeline",
-    "title": "How the Intel suit came together",
-    "items": [
-     {
-      "d": "JUN 30",
-      "t": "Stock peaks at $142.35"
-     },
-     {
-      "d": "AUG",
-      "t": "Intel sells $23B of stock at $95",
-      "s": "during the quarter in question"
-     },
-     {
-      "d": "OCT 30",
-      "t": "Shares crash 28.6%",
-      "s": "about $140B in value erased"
-     },
-     {
-      "d": "NOV 13",
-      "t": "Class action filed in San Jose"
-     },
-     {
-      "d": "NOV 16",
-      "t": "Shares fall about 6%",
-      "now": true
-     }
-    ]
-   },
-   "detail": [
-    "A proposed class action was filed Friday in federal court in San Jose. The lead plaintiff is a Michigan police and fire pension fund. It names Intel, CEO Lip-Bu Tan and CFO David Zinsner.",
-    "The suit says Intel concealed how a long PC sales slowdown and an inventory pile-up would hurt revenue. It covers buyers from July 23 to Oct. 29, 2026.",
-    "It also says Intel raised money in mid-August by selling $23 billion of stock at $95 a share. Intel blamed supply shortages and a memory crunch for weak PC demand. Shares fell about 6% Monday."
-   ],
-   "money": [
-    "If you bought Intel between July 23 and Oct. 29, watch for a class notice; you may be able to join any settlement.",
-    "Class settlements often pay only cents on the dollar, so don't count on one to fix a loss.",
-    "Big one-company bets can swing 30% in a day; a diversified fund spreads that risk."
-   ],
-   "risk": [
-    "Lawsuits can drag on for years and may be dismissed.",
-    "Weak PC demand could keep pressure on Intel's results."
-   ],
-   "sources": [
-    {
-     "t": "Intel Sued By Shareholders Following 29% Stock Plunge",
-     "d": "claimsjournal.com",
-     "u": "https://www.claimsjournal.com/news/national/2026/11/16/341342.htm"
-    },
-    {
-     "t": "Intel shares fall 6% as shareholders sue over October stock plunge",
-     "d": "proactiveinvestors.com",
-     "u": "https://www.proactiveinvestors.com/companies/news/1101859/intel-shares-fall-6-as-shareholders-sue-over-october-stock-plunge-1101859"
-    }
-   ]
-  },
-  {
-   "id": "bank-outage-2026111621",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business",
-    "markets"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T21:00:00Z",
-   "headline": "Chase, Bank of America and Wells Fargo apps hit by outages; Chase says not a hack",
-   "caption": "Thousands of customers reported login and payment problems Monday afternoon. Chase called it a technical issue and said accounts and funds were safe.",
-   "visual": {
-    "type": "board",
-    "title": "Downdetector reports, ~2 p.m. ET",
-    "rows": [
-     {
-      "k": "Chase",
-      "s": "most reported",
-      "v": "5,000+",
-      "tone": "loss"
-     },
-     {
-      "k": "Bank of America",
-      "v": "~1,500",
-      "tone": "loss"
-     },
-     {
-      "k": "Zelle",
-      "v": "Hundreds",
-      "tone": "acc"
-     },
-     {
-      "k": "Wells Fargo",
-      "v": "Hundreds",
-      "tone": "acc"
-     },
-     {
-      "k": "U.S. Bank",
-      "v": "Hundreds",
-      "tone": "acc"
-     }
-    ],
-    "foot": "Citi and Capital One reports also spiked."
-   },
-   "detail": [
-    "Customers at several big banks reported problems with mobile and online banking on Monday afternoon. Chase had more than 5,000 reports on Downdetector by 2 p.m. ET, and Bank of America about 1,500.",
-    "Chase said the problem was technical, not cyber related. It said some transactions were slower than usual, but customers still had access to their accounts and money.",
-    "Bank stocks including JPMorgan, Bank of America, Citi and Wells Fargo were down about 2% at midday. No full cause or fix time was given."
-   ],
-   "money": [
-    "Keep a small cash cushion and a second way to pay, like a card from another bank, for days like this.",
-    "Don't send repeat payments if one seems stuck; check later to avoid paying twice.",
-    "Watch for scam texts posing as your bank during outages; never share login codes."
-   ],
-   "risk": [
-    "Delayed payments could trigger late fees; ask the bank to waive them if the outage caused it.",
-    "Outages raise the risk of phishing scams."
-   ],
-   "sources": [
-    {
-     "t": "Customers Report Outages At Major Banks: Chase, Bank Of America, Wells Fargo Impacted",
-     "d": "forbes.com",
-     "u": "https://www.forbes.com/sites/conormurray/2026/11/16/customers-report-outages-at-major-banks-chase-bank-of-america-wells-fargo-impacted/"
-    },
-    {
-     "t": "Nationwide online service outages hit banks including Chase, BoA",
-     "d": "yahoo.com",
-     "u": "https://www.yahoo.com/news/us/articles/nationwide-online-outages-hit-banks-204915703.html"
-    }
-   ]
-  },
-  {
-   "id": "chatgpt-wallet-2026111621",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "business"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T21:00:00Z",
-   "headline": "OpenAI launches ChatGPT Wallet so AI agents can buy things for you",
-   "caption": "You approve each purchase with Face ID or a fingerprint, and the agent never sees your card number. It starts with US ChatGPT Pro users.",
-   "visual": {
-    "type": "points",
-    "title": "How ChatGPT Wallet works",
-    "items": [
-     "Built with Visa, Mastercard and American Express",
-     "Each purchase needs Face ID or fingerprint approval",
-     "Temporary stand-in card numbers hide your real card",
-     "First for US ChatGPT Pro users via its agent, dots",
-     "Spending-limit permissions planned later"
-    ]
-   },
-   "detail": [
-    "OpenAI launched ChatGPT Wallet, a feature that lets its AI agent make purchases for users. It was built with American Express, Mastercard and Visa.",
-    "Users approve each purchase with Face ID or fingerprint checks. The payment networks create temporary substitute card numbers, so neither the agent nor the store sees the real card.",
-    "The first rollout is limited to US ChatGPT Pro subscribers through dots, OpenAI's personal agent. OpenAI plans to later allow advance approval for buys within set spending limits."
-   ],
-   "money": [
-    "Agents can compare prices for you; use them to find deals, but still check the final total before approving.",
-    "Temporary card numbers can reduce fraud risk if a store's data is hacked.",
-    "Set a budget before letting any app buy things for you, so small purchases don't add up."
-   ],
-   "risk": [
-    "Mistakes by an AI agent could mean returns and disputes; know your card's dispute rights.",
-    "It is new, and rules on who is liable for agent errors are still forming."
-   ],
-   "sources": [
-    {
-     "t": "Everything That Happened in AI Today Monday, November 16",
-     "d": "theneuron.ai",
-     "u": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-monday-november-16-2026/"
-    }
-   ]
-  },
-  {
-   "id": "meituan-longcat-2026111621",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "world"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T21:00:00Z",
-   "headline": "Meituan releases a 1.6-trillion-parameter AI model trained without Nvidia chips",
-   "caption": "The Chinese delivery giant says LongCat-2.5 was trained entirely on Chinese hardware. It's another sign China is building AI around US chip limits.",
-   "visual": {
-    "type": "stat",
-    "title": "Meituan LongCat-2.5",
-    "num": "1.6T",
-    "tone": "acc",
-    "label": "Parameters in the open-weight coding agent model.",
-    "facts": [
-     [
-      "Training chips",
-      "Chinese only",
-      "no Nvidia GPUs"
-     ],
-     [
-      "Sample setup",
-      "194 chips",
-      "Huawei Ascend"
-     ],
-     [
-      "Weights",
-      "Open",
-      "free to download"
-     ]
-    ]
-   },
-   "detail": [
-    "Meituan, best known for food delivery in China, released LongCat-2.5. It's a 1.6-trillion-parameter open-weight model built for coding agents.",
-    "The company says it was trained entirely on Chinese hardware. A sample self-hosted setup needs 194 Huawei Ascend chips.",
-    "The release comes as the US tightens rules to keep advanced AI chips away from Chinese firms, and as Nvidia deals with a leadership crisis."
-   ],
-   "money": [
-    "Strong Chinese models trained without Nvidia are a risk to watch if you own a lot of Nvidia.",
-    "Free open-weight models can cut AI costs for small businesses that can host them.",
-    "A broad tech fund spreads your bet across chip makers instead of one winner."
-   ],
-   "risk": [
-    "Claims about training and performance are hard to verify independently.",
-    "US export rules may limit use of some Chinese AI tools."
-   ],
-   "sources": [
-    {
-     "t": "Everything That Happened in AI Today Monday, November 16",
-     "d": "theneuron.ai",
-     "u": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-monday-november-16-2026/"
     }
    ]
   }
