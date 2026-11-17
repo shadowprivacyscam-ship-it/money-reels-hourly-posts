@@ -1,6 +1,993 @@
 {
- "updated": "2026-11-17T09:00:00Z",
+ "updated": "2026-11-17T10:00:00Z",
  "items": [
+  {
+   "id": "futures-slip-vix-24-2026111710",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets",
+    "ai"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T10:00:00Z",
+   "headline": "New: Futures turn lower before Nvidia; VIX jumps 5.5% to about 24",
+   "caption": "Stock futures slipped about half a percent early Tuesday after an earlier bounce faded. Nvidia reports after the bell, and options price in a move of roughly 7.8%.",
+   "visual": {
+    "type": "board",
+    "title": "Early Tuesday snapshot",
+    "rows": [
+     {
+      "k": "S&P 500 futures",
+      "v": "7,397.50",
+      "ch": -0.56,
+      "tone": "loss"
+     },
+     {
+      "k": "Nasdaq-100 futures",
+      "v": "27,109.50",
+      "ch": -0.64,
+      "tone": "loss"
+     },
+     {
+      "k": "Russell 2000 futures",
+      "v": "2,729.90",
+      "ch": -0.78,
+      "tone": "loss"
+     },
+     {
+      "k": "VIX fear gauge",
+      "v": "24.17",
+      "ch": 5.5,
+      "tone": "acc"
+     },
+     {
+      "k": "10-year yield",
+      "s": "down 0.03",
+      "v": "5.12%"
+     },
+     {
+      "k": "Gold",
+      "v": "$3,865",
+      "ch": 0.32,
+      "tone": "gain"
+     }
+    ],
+    "foot": "Snapshot via Yahoo Finance; levels move all morning"
+   },
+   "detail": [
+    "Futures for the S&P 500, Dow and Nasdaq were all down about half a percent in early trading, after rising earlier in the night. Small caps were weaker still. The VIX, which tracks expected swings in the S&P 500, rose to about 24.",
+    "Disney reports before the open, and Nvidia reports after the close. It is Nvidia's first report with Colette Kress as interim CEO. The stock closed Monday at $156.14, down about 12.6% in five days. Options imply a move of about 7.8% either way.",
+    "October retail sales, industrial production and import prices also come out today. Economists expect retail sales to rise just 0.2%."
+   ],
+   "money": [
+    "Big earnings days can swing prices. If you plan to buy, consider spreading purchases out instead of going all in.",
+    "A VIX in the mid-20s means option prices are high. Selling covered calls pays more now, but caps your upside.",
+    "Bond yields above 5% mean cash and short Treasuries still pay well while stocks are choppy."
+   ],
+   "risk": [
+    "A weak Nvidia report or forecast could drag the whole tech sector lower.",
+    "Hot data could add to fears of bigger Fed hikes."
+   ],
+   "sources": [
+    {
+     "t": "Stock market today: futures slip in countdown to Nvidia earnings",
+     "d": "finance.yahoo.com",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-17-dow-sp-500-nasdaq-nvidia-earnings-091546152.html"
+    },
+    {
+     "t": "Asia shares slide on tech weakness ahead of Nvidia earnings",
+     "d": "marketscreener.com",
+     "u": "https://www.marketscreener.com/news/asia-shares-stumble-on-tech-weakness-ahead-of-nvidia-earnings-ce785edfdf8df626"
+    }
+   ]
+  },
+  {
+   "id": "anthropic-ipo-14t-target-2026111710",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "markets"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T10:00:00Z",
+   "headline": "Anthropic IPO: target value about $1.4 trillion; raise could top $90 billion",
+   "caption": "Altimeter's Brad Gerstner says the offering is 10 to 20 times oversubscribed. Final pricing is expected Wednesday, with Nasdaq trading Thursday.",
+   "visual": {
+    "type": "board",
+    "title": "Anthropic IPO by the numbers",
+    "rows": [
+     {
+      "k": "Target valuation",
+      "s": "was floated at $2T months ago",
+      "v": "$1.4T",
+      "tone": "acc"
+     },
+     {
+      "k": "Max raise",
+      "s": "IPO + private placement",
+      "v": "$90.4B"
+     },
+     {
+      "k": "SpaceX base deal",
+      "s": "for comparison",
+      "v": "$75B"
+     },
+     {
+      "k": "Demand (Gerstner)",
+      "v": "10-20x",
+      "tone": "gain"
+     },
+     {
+      "k": "Pricing / trading",
+      "v": "Wed / Thu"
+     }
+    ],
+    "foot": "Figures per Bloomberg and Altimeter via Yahoo Finance"
+   },
+   "detail": [
+    "New details are out on Anthropic's stock market debut. The AI company is aiming for a value of about $1.4 trillion. That is below the $2 trillion talked about months ago, but above the $1.1 trillion some analysts suggested during the recent tech selloff.",
+    "Bloomberg reports Anthropic could raise up to $90.4 billion through the IPO and a separate private placement. That would beat SpaceX's $75 billion base deal and be the largest listing ever.",
+    "Altimeter CEO Brad Gerstner says demand is 10 to 20 times the shares on offer. Earlier reports said about six times. Final pricing is expected Wednesday, and the stock is expected to trade on Nasdaq on Thursday."
+   ],
+   "money": [
+    "Most everyday investors won't get IPO shares at the offer price. Buying on day one often means paying a big pop.",
+    "Index funds may add Anthropic later, so you could get exposure without chasing the first-day price.",
+    "Set a price limit if you do buy; hot IPOs can swing wildly in the first hours."
+   ],
+   "risk": [
+    "Huge first-day demand can fade fast, especially in a shaky tech market.",
+    "Oversubscription numbers come from people with a stake in the deal."
+   ],
+   "sources": [
+    {
+     "t": "Altimeter Capital says Anthropic IPO '10-20 times oversubscribed,' bets $5B",
+     "d": "finance.yahoo.com",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/altimeter-capital-says-anthropic-ipo-065905955.html"
+    },
+    {
+     "t": "Anthropic's IPO is said to be about six times oversubscribed",
+     "d": "bloomberg.com",
+     "u": "https://www.bloomberg.com/news/articles/2026-11-12/anthropic-s-ipo-is-said-to-be-about-six-times-oversubscribed"
+    }
+   ]
+  },
+  {
+   "id": "grayscale-btc-entry-2026111710",
+   "type": "news",
+   "cat": "crypto",
+   "tags": [
+    "crypto",
+    "markets"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T10:00:00Z",
+   "headline": "Grayscale calls bitcoin near $64,000 a 'compelling entry point' after a 21% monthly drop",
+   "caption": "Grayscale's research head says crypto's fundamentals are still strong. He blames stablecoin outflows, AI-stock selling and technical signals for the slide.",
+   "visual": {
+    "type": "stat",
+    "title": "Bitcoin's slide",
+    "num": "-20.8%",
+    "tone": "loss",
+    "label": "Bitcoin's drop over the past 30 days, to about $64,000.",
+    "facts": [
+     [
+      "7-day change",
+      "-13%",
+      "Bitcoin"
+     ],
+     [
+      "Top 30 coins",
+      "-13.8%",
+      "GMCI 30, 7 days"
+     ],
+     [
+      "Key level lost",
+      "Nov. 12",
+      "200-day average"
+     ]
+    ]
+   },
+   "detail": [
+    "Grayscale's Zach Pandl says today's prices offer good entry points for medium- and long-term investors. Bitcoin is down about 13% in a week and nearly 21% in a month, per The Block.",
+    "He points to three causes. Money left stablecoins for regular cash after a big Binance security incident in late October. Growth investors sold crypto along with AI stocks like Nvidia. And bitcoin fell below its 200-day average on Nov. 12, which triggers selling by trend-following funds.",
+    "He said ETF outflows were not extreme. He named high inflation, possible Fed hikes and wars as risks."
+   ],
+   "money": [
+    "If you buy crypto, small regular buys can lower your average cost in a falling market.",
+    "Keep crypto to a slice you can afford to see drop by half.",
+    "Losses in a taxable account can be sold to offset gains; check the rules with a tax pro."
+   ],
+   "risk": [
+    "Grayscale sells crypto funds, so it benefits when people buy.",
+    "Fed hikes could keep pressure on risky assets."
+   ],
+   "sources": [
+    {
+     "t": "Grayscale says crypto pullback offers 'compelling entry points' as bitcoin falls to $64,000",
+     "d": "theblock.co",
+     "u": "https://theblock.co/news/markets/2026-11-17-grayscale-compelling-entry-points-bitcoin-442083"
+    }
+   ]
+  },
+  {
+   "id": "quebecor-telus-31b-2026111710",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business",
+    "markets"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T10:00:00Z",
+   "headline": "Quebecor makes a $31 billion cash-and-stock bid for Canada's Telus",
+   "caption": "Quebecor values its offer at $19.45 per Telus share, well above Friday's $12.14 close. Telus says the deal raises serious concerns.",
+   "visual": {
+    "type": "deals",
+    "title": "Canadian telecom takeover fight",
+    "items": [
+     {
+      "a": "Quebecor",
+      "b": "Telus",
+      "amt": "$31B",
+      "st": "Cash + stock, unsolicited",
+      "c": "pend"
+     },
+     {
+      "a": "Per share",
+      "b": "$6.35 cash + 0.17 QBR.B",
+      "amt": "$19.45",
+      "st": "vs. $12.14 close",
+      "c": "ok"
+     },
+     {
+      "a": "Telus board",
+      "b": "Special committee",
+      "amt": "Review",
+      "st": "Also exploring options",
+      "c": "bad"
+     }
+    ]
+   },
+   "detail": [
+    "Quebecor proposed combining with Telus in a deal valued at about $31 billion. Each Telus share would get $6.35 in cash plus 0.17 of a Quebecor class B share.",
+    "Quebecor says that adds up to $19.45 per share, based on Friday's prices. Telus closed at $12.14 in Toronto. Quebecor first pitched the idea in June and sent an improved offer on Nov. 9.",
+    "Telus formed a special committee of independent directors. Its chair said Quebecor has not explained how regulators could approve the deal. Telus says it will keep talking."
+   ],
+   "money": [
+    "A bid far above the market price can lift the target's stock; check if you hold Telus through a fund.",
+    "Fewer big phone companies can mean less price competition for customers.",
+    "Deal stocks often trade below the offer until approval; that gap is the market's bet on risk."
+   ],
+   "risk": [
+    "Regulators may block a merger of two of Canada's big carriers.",
+    "Part of the offer is in stock, so its value moves with Quebecor's price."
+   ],
+   "sources": [
+    {
+     "t": "Telus sees 'serious concerns' with Quebecor's $31B takeover bid",
+     "d": "ca.finance.yahoo.com",
+     "u": "https://ca.finance.yahoo.com/news/cp-newsalert-quebecor-makes-offer-131005288.html"
+    }
+   ]
+  },
+  {
+   "id": "home-sales-2010-low-hd-2026111710",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business",
+    "markets"
+   ],
+   "date": "This week",
+   "ts": "2026-11-17T10:00:00Z",
+   "headline": "Home sales sink to a 16-year low as Home Depot reports today and Lowe's tomorrow",
+   "caption": "Existing-home sales fell to a 3.75 million yearly pace in October, the lowest since 2010. Both home improvement chains trade about 20% below their highs.",
+   "visual": {
+    "type": "board",
+    "title": "Housing and home improvement",
+    "rows": [
+     {
+      "k": "Existing-home sales",
+      "s": "October, annual pace",
+      "v": "3.75M",
+      "ch": -8.8,
+      "tone": "loss"
+     },
+     {
+      "k": "30-year mortgage",
+      "v": "7.11%"
+     },
+     {
+      "k": "Home Depot guidance",
+      "s": "full-year same-store sales",
+      "v": "~+1%"
+     },
+     {
+      "k": "Lowe's guidance",
+      "s": "full-year same-store sales",
+      "v": "~flat"
+     },
+     {
+      "k": "HD / LOW dividend yield",
+      "v": "2.66% / 2.15%"
+     }
+    ],
+    "foot": "Prices as of Nov. 13, per The Motley Fool"
+   },
+   "detail": [
+    "Existing-home sales fell 8.8% from a year earlier in October to a 3.75 million annual pace. That is the lowest since August 2010. The average 30-year mortgage rate is 7.11%.",
+    "Fewer home sales usually means fewer big renovation projects. Home Depot reports third-quarter results today, and Lowe's reports Wednesday. Last quarter, same-store sales rose 1.7% at Home Depot and 0.2% at Lowe's.",
+    "Investors will watch whether sales keep pace with guidance and whether store traffic is falling."
+   ],
+   "money": [
+    "A slow housing market can give buyers more room to negotiate on price and closing costs.",
+    "If you plan a remodel, ask contractors about slow-season pricing; demand is soft.",
+    "Dividend investors: both stocks pay over 2% and are about 20% off their highs."
+   ],
+   "risk": [
+    "Higher rates from Fed hikes could push mortgages and home sales lower still.",
+    "Weak guidance could hit both stocks."
+   ],
+   "sources": [
+    {
+     "t": "Home Sales Just Sank to a 16-Year Low. Here's What This Means for Home Depot and Lowe's Investors.",
+     "d": "fool.com",
+     "u": "https://www.fool.com/investing/2026/11/15/home-sales-16-year-low-what-this-means-home-depot-lowes-investors/"
+    }
+   ]
+  },
+  {
+   "id": "warn-6613-week-2026111710",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business",
+    "california",
+    "states"
+   ],
+   "date": "This week",
+   "ts": "2026-11-17T10:00:00Z",
+   "headline": "About 6,613 workers face scheduled layoffs this week; California leads WARN filings",
+   "caption": "Layoff notices filed under the WARN Act show the week of Nov. 17 is one of the heaviest on the calendar. Nearly 29,000 workers are scheduled from early November to Dec. 8.",
+   "visual": {
+    "type": "board",
+    "title": "WARN notices, past 90 days",
+    "rows": [
+     {
+      "k": "California",
+      "v": "18,196"
+     },
+     {
+      "k": "Washington",
+      "v": "17,336"
+     },
+     {
+      "k": "Illinois",
+      "v": "3,649"
+     },
+     {
+      "k": "Texas",
+      "v": "2,978"
+     },
+     {
+      "k": "Maryland",
+      "v": "2,429"
+     }
+    ],
+    "foot": "Workers in filings tracked by Layoff Atlas; planned, not final"
+   },
+   "detail": [
+    "Companies with 100 or more workers usually must give 60 days' notice of big layoffs under the WARN Act. Layoff Atlas counts about 6,613 workers with layoffs taking effect this week. Only the weeks of Nov. 10 and Nov. 24 are bigger.",
+    "Over the last 90 days, it tracked 666 notices covering about 62,948 workers. California and Washington account for most of them. Recent filings include Alaska Airlines in Washington and GEICO in Florida.",
+    "These are planned cuts. Some may be cut back, delayed or canceled."
+   ],
+   "money": [
+    "If you get a WARN notice, you may be owed pay for the full notice period; check your state's rules.",
+    "File for unemployment right after your last day; waiting can cost you weeks of benefits.",
+    "Build or top up an emergency fund now if your industry is on these lists."
+   ],
+   "risk": [
+    "Not all states' filings are captured, so the real number may be higher.",
+    "Layoffs often cluster around year-end budgets."
+   ],
+   "sources": [
+    {
+     "t": "Week Ahead: November 17 Brings 6,613 Scheduled Layoffs as November Stays Heavy",
+     "d": "dev.to",
+     "u": "https://dev.to/layoffatlas/week-ahead-november-17-brings-6613-scheduled-layoffs-as-november-stays-heavy-376"
+    }
+   ]
+  },
+  {
+   "id": "houston-ice-officer-indicted-2026111710",
+   "type": "news",
+   "cat": "immigration",
+   "tags": [
+    "immigration",
+    "states"
+   ],
+   "date": "This week",
+   "ts": "2026-11-17T10:00:00Z",
+   "headline": "Houston ICE officer charged with assault after hitting a man with an SUV; man still held",
+   "caption": "A Harris County grand jury indicted an ICE officer after a man was struck during an October operation. ICE says the man ran in front of the vehicle; his family says it was deliberate.",
+   "visual": {
+    "type": "timeline",
+    "title": "The Houston case",
+    "items": [
+     {
+      "d": "OCT 10",
+      "t": "Man struck by unmarked ICE SUV",
+      "s": "Broken leg, hip injuries"
+     },
+     {
+      "d": "LATE OCT",
+      "t": "Grand jury indicts the officer",
+      "s": "Aggravated assault with a deadly weapon"
+     },
+     {
+      "d": "NOV 15",
+      "t": "Family speaks to CBS News",
+      "s": "Says it was intentional"
+     },
+     {
+      "d": "NOW",
+      "t": "Man remains in ICE custody",
+      "s": "Lawmakers seek his release",
+      "now": true
+     }
+    ]
+   },
+   "detail": [
+    "Miguel Parra Hernandez, 48, a construction worker who has lived in the US for 34 years, was hit by an unmarked ICE SUV in Houston on Oct. 10. He was not the target of the operation and has no criminal record, which ICE has not disputed.",
+    "The Harris County DA says the officer steered his vehicle into the man. A grand jury indicted the officer on a felony charge. His lawyer calls it an accident, and ICE calls the prosecution a political stunt.",
+    "ICE says Parra Hernandez is in the country illegally and can be deported. He remains in custody. Democratic lawmakers led by Rep. Lizzie Fletcher want him released."
+   ],
+   "money": [
+    "Cases like this can lead to civil suits; legal costs and settlements are paid by taxpayers.",
+    "Employers in construction and other fields watch enforcement closely; labor shortages can raise project costs.",
+    "If you face an immigration issue, nonprofit legal aid groups often offer free or low-cost help."
+   ],
+   "risk": [
+    "The criminal case has not been decided.",
+    "Both sides' accounts are disputed."
+   ],
+   "sources": [
+    {
+     "t": "Siblings of man in Texas run over by ICE agent say incident was \"intentional\"",
+     "d": "cbsnews.com",
+     "u": "https://cbsnews.com/news/ice-agent-siblings-man-run-over-incident-texas"
+    }
+   ]
+  },
+  {
+   "id": "linares-ice-custody-2026111710",
+   "type": "news",
+   "cat": "immigration",
+   "tags": [
+    "immigration",
+    "world"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T10:00:00Z",
+   "headline": "ICE holds ex-boxing champ Jorge Linares in El Paso; lawyers say he is legally present",
+   "caption": "ICE's online locator lists the retired Venezuelan champion as in custody. No reason, charge or court date has been made public.",
+   "visual": {
+    "type": "points",
+    "title": "What we know",
+    "items": [
+     "Jorge Linares is a former world champion from Venezuela",
+     "ICE locator lists him in custody in El Paso",
+     "His lawyers say he is in the US legally",
+     "No reason, charge or court date published",
+     "ICE has made no public statement"
+    ]
+   },
+   "detail": [
+    "Jorge Linares, a retired Venezuelan boxer and former world champion, is being held at the El Paso detention center in Texas, according to reports citing ICE's detainee locator.",
+    "His lawyers say he is legally present in the US, has cooperated fully, and is working with ICE and DHS to resolve the matter. The head of the World Boxing Association confirmed he is in custody.",
+    "No public statement from ICE was found, and no reason for the detention has been released."
+   ],
+   "money": [
+    "Anyone with a pending status should keep copies of all immigration papers handy.",
+    "Detention can stop income suddenly; families can plan with a power of attorney for bills and accounts.",
+    "Check that any immigration lawyer is licensed; scams target families in a crisis."
+   ],
+   "risk": [
+    "The lawyers' account has not been confirmed by officials."
+   ],
+   "sources": [
+    {
+     "t": "Ex-Boxing Champion Held by US Immigration",
+     "d": "riotimesonline.com",
+     "u": "https://riotimesonline.com/jorge-linares-ice-custody-el-paso"
+    }
+   ]
+  },
+  {
+   "id": "medicare-oe-dec7-scams-2026111710",
+   "type": "news",
+   "cat": "benefits",
+   "tags": [
+    "benefits",
+    "states"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T10:00:00Z",
+   "headline": "Medicare open enrollment ends Dec. 7; Pennsylvania opens a scam hotline as fraud rises",
+   "caption": "Social Security reminds enrollees they have three weeks to switch plans for 2027. Pennsylvania's new hotline helps seniors report Medicare scams.",
+   "visual": {
+    "type": "timeline",
+    "title": "Medicare open enrollment",
+    "items": [
+     {
+      "d": "OCT 15",
+      "t": "Open enrollment began"
+     },
+     {
+      "d": "NOV 16",
+      "t": "SSA reminder; PA scam hotline promoted",
+      "now": true
+     },
+     {
+      "d": "DEC 7",
+      "t": "Last day to change plans"
+     },
+     {
+      "d": "JAN 1",
+      "t": "New plan choices take effect"
+     }
+    ]
+   },
+   "detail": [
+    "Medicare open enrollment runs through Dec. 7. You can switch between Original Medicare and Medicare Advantage, change Advantage plans, or join or change a Part D drug plan. Changes start Jan. 1, 2027. If you're happy with your plan, you generally don't need to act.",
+    "Pennsylvania Senior Medicare Patrol launched a free scam hotline at 877-435-7014, open weekdays 8 a.m. to 5 p.m. Common scams include callers posing as Medicare reps, fake free equipment offers, and unordered supplies billed to Medicare.",
+    "Free plan counseling is available through state SHIP programs, like PA MEDI at 1-800-783-7067."
+   ],
+   "money": [
+    "Compare Part D plans every year; drug prices and covered drugs change and switching can save hundreds.",
+    "Use free state counselors instead of paid brokers if you want unbiased plan advice.",
+    "Never give your Medicare number to an unexpected caller; Medicare won't call to ask for it."
+   ],
+   "risk": [
+    "Missing Dec. 7 can lock you into a costly plan for all of 2027."
+   ],
+   "sources": [
+    {
+     "t": "Reminder: Medicare Open Enrollment",
+     "d": "ssa.gov",
+     "u": "https://www.ssa.gov/news/en/advocates/2026-11-16.html"
+    },
+    {
+     "t": "Pennsylvania Launches a Medicare Fraud Hotline as Scammers Target Seniors",
+     "d": "medicaldaily.com",
+     "u": "https://www.medicaldaily.com/pennsylvania-medicare-fraud-hotline-open-enrollment-481300"
+    }
+   ]
+  },
+  {
+   "id": "shapiro-15-min-wage-2026111710",
+   "type": "news",
+   "cat": "states",
+   "tags": [
+    "states",
+    "politics"
+   ],
+   "date": "This week",
+   "ts": "2026-11-17T10:00:00Z",
+   "headline": "Pennsylvania's Shapiro vows to raise the $7.25 minimum wage to $15 as his first bill",
+   "caption": "After Democrats won full control in Harrisburg, the governor says a $15 wage is the first bill he'll sign in January. About half a million workers earn less than $15.",
+   "visual": {
+    "type": "vs",
+    "title": "Pennsylvania minimum wage",
+    "a": [
+     "Now",
+     "$7.25",
+     0.48,
+     "acc"
+    ],
+    "b": [
+     "Proposed",
+     "$15",
+     1,
+     "gain"
+    ],
+    "foot": "About a 107% raise; Seattle's rises to $22.14 in January"
+   },
+   "detail": [
+    "Pennsylvania Gov. Josh Shapiro wants to raise the state's minimum wage from $7.25, the federal floor, to $15 an hour. He says about 500,000 workers in the state earn less than $15.",
+    "Democrats flipped the state Senate in the midterms, giving them full control. Shapiro says Republicans had blocked past wage bills.",
+    "Some economists warn steep hikes can lead to fewer hours, slower hiring or higher prices, especially for entry-level jobs. Studies of Seattle's increases have found mixed results."
+   ],
+   "money": [
+    "Low-wage workers in Pennsylvania could see a big raise if the bill passes; watch the phase-in dates.",
+    "Small businesses there should start budgeting for higher labor costs now.",
+    "Higher pay can affect benefits like SNAP or Medicaid; check eligibility if your income rises."
+   ],
+   "risk": [
+    "The bill's final number and timeline could change.",
+    "Some businesses may cut hours instead of hiring."
+   ],
+   "sources": [
+    {
+     "t": "Josh Shapiro vows to more than double Pennsylvania's minimum wage",
+     "d": "foxnews.com",
+     "u": "https://www.foxnews.com/politics/democrats-seize-midterm-wins-push-massive-minimum-wage-hikes-economists-see-trouble-ahead"
+    }
+   ]
+  },
+  {
+   "id": "dove-fire-nonrenewal-ban-2026111710",
+   "type": "news",
+   "cat": "california",
+   "tags": [
+    "california",
+    "benefits"
+   ],
+   "date": "This week",
+   "ts": "2026-11-17T10:00:00Z",
+   "headline": "California bars insurers from dropping 50,000 homes near the Dove Fire for a year",
+   "caption": "The one-year moratorium covers 15 ZIP codes in Tuolumne, Stanislaus and Calaveras counties. Insurers must offer to undo wildfire-related nonrenewals sent since Oct. 15.",
+   "visual": {
+    "type": "stat",
+    "title": "Dove Fire insurance freeze",
+    "num": "50,000",
+    "tone": "acc",
+    "label": "Residential policies protected from cancellation or nonrenewal for one year.",
+    "facts": [
+     [
+      "Counties",
+      "3",
+      "Tuolumne, Stanislaus, Calaveras"
+     ],
+     [
+      "ZIP codes",
+      "15",
+      "In or near the fire"
+     ],
+     [
+      "Lasts",
+      "1 year",
+      "From the emergency"
+     ]
+    ]
+   },
+   "detail": [
+    "California Insurance Commissioner Ricardo Lara ordered insurers not to cancel or decline to renew about 50,000 home policies near the Dove Fire. It applies in 15 ZIP codes whether or not a home was damaged.",
+    "The order follows Gov. Newsom's Oct. 15 emergency declaration and lasts one year. It also covers some commercial policies, like HOAs, apartments and condo associations.",
+    "If an insurer sent a wildfire-related cancellation or nonrenewal notice on or after the declaration, it must offer to take it back and renew the policy."
+   ],
+   "money": [
+    "If you got a nonrenewal notice in the area, call your insurer and ask for reinstatement under the moratorium.",
+    "Use this year to shop for coverage and do home-hardening work that can earn discounts.",
+    "Keep records and photos of your home; it speeds up any future claim."
+   ],
+   "risk": [
+    "The protection ends after a year, and rates can still rise."
+   ],
+   "sources": [
+    {
+     "t": "California Orders Insurance Nonrenewal Moratorium for 50,000 Following Dove Fire",
+     "d": "insurancejournal.com",
+     "u": "https://www.insurancejournal.com/news/west/2026/11/13/892491.htm"
+    }
+   ]
+  },
+  {
+   "id": "senate-gop-irs-cut-2026111710",
+   "type": "news",
+   "cat": "taxes",
+   "tags": [
+    "taxes",
+    "politics"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T10:00:00Z",
+   "headline": "Senate GOP's opening spending offer cuts IRS enforcement funds",
+   "caption": "Sen. Susan Collins released a $26.8 billion bill funding the Treasury, SEC and other agencies. It's a starting point to restart budget talks before the Dec. 11 funding deadline.",
+   "visual": {
+    "type": "points",
+    "title": "The Senate GOP offer",
+    "items": [
+     "$26.8B Financial Services and General Government bill",
+     "Cuts IRS enforcement money",
+     "Also funds Treasury, the SEC and DC",
+     "Released by Appropriations Chair Susan Collins",
+     "Aims to restart stalled spending talks"
+    ]
+   },
+   "detail": [
+    "Senate Republicans released a $26.8 billion spending bill covering the Treasury Department, the SEC and other agencies. It proposes cutting money for IRS enforcement.",
+    "Appropriations Committee Chair Susan Collins of Maine put out the draft to restart annual spending talks that stalled before the election. The exact size of the IRS cut was not in the public summary.",
+    "Government funding runs out on Dec. 11, so lawmakers have about three weeks to agree on bills or pass a stopgap."
+   ],
+   "money": [
+    "Less IRS enforcement can mean fewer audits, but also slower help lines and refunds.",
+    "File early and electronically next season to avoid delays if the IRS is short-staffed.",
+    "Keep good records anyway; audit rules don't change even if audits are less common."
+   ],
+   "risk": [
+    "A funding lapse after Dec. 11 could slow some federal services.",
+    "The final bill could look very different."
+   ],
+   "sources": [
+    {
+     "t": "Senate GOP Seeks Cut in IRS Enforcement in Opening Offer",
+     "d": "news.bloombergtax.com",
+     "u": "https://news.bloombergtax.com/daily-tax-report-international/senate-gop-seeks-cut-in-irs-enforcement-in-opening-offer"
+    }
+   ]
+  },
+  {
+   "id": "china-october-data-miss-2026111710",
+   "type": "news",
+   "cat": "world",
+   "tags": [
+    "world",
+    "markets"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T10:00:00Z",
+   "headline": "China's October data misses across the board; retail sales grow just 0.4%",
+   "caption": "Factory output, retail sales and investment all came in below forecasts. Investment is now down 8.1% this year.",
+   "visual": {
+    "type": "board",
+    "title": "China, October vs. forecast",
+    "rows": [
+     {
+      "k": "Retail sales",
+      "s": "forecast +0.8%",
+      "v": "+0.4%",
+      "tone": "loss"
+     },
+     {
+      "k": "Industrial output",
+      "s": "forecast +5.3%",
+      "v": "+4.8%",
+      "tone": "loss"
+     },
+     {
+      "k": "Fixed-asset investment",
+      "s": "Jan-Oct, forecast -7.0%",
+      "v": "-8.1%",
+      "tone": "loss"
+     },
+     {
+      "k": "Urban jobless rate",
+      "s": "Sept: 5.2%",
+      "v": "5.1%",
+      "tone": "gain"
+     }
+    ],
+    "foot": "National Bureau of Statistics via Business Standard"
+   },
+   "detail": [
+    "China's economy slowed further in October. Retail sales rose just 0.4% from a year earlier, half the 0.8% economists expected and down from 1.1% in September.",
+    "Industrial output grew 4.8%, below the 5.3% forecast. Fixed-asset investment for January through October fell 8.1%, worse than expected. The urban jobless rate dipped to 5.1%.",
+    "Third-quarter growth is running at 4.5% a year."
+   ],
+   "money": [
+    "Weak Chinese demand can pull down prices for oil, copper and other raw materials.",
+    "US companies that sell a lot in China may report softer sales; check your funds' exposure.",
+    "Emerging-market funds heavy in China may stay volatile; diversification helps."
+   ],
+   "risk": [
+    "Beijing could launch new stimulus, which would change the picture quickly."
+   ],
+   "sources": [
+    {
+     "t": "China's economy slows in Oct as factory output, retail sales miss forecasts",
+     "d": "business-standard.com",
+     "u": "https://www.business-standard.com/amp/world-news/china-s-economy-slows-in-oct-as-factory-output-retail-sales-miss-forecasts-126111600592_1.html"
+    }
+   ]
+  },
+  {
+   "id": "apple-health-ai-study-2026111710",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "benefits"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T10:00:00Z",
+   "headline": "Apple opens a health AI study for up to 200,000 US adults",
+   "caption": "The research app, built with OpenEvidence, tests how good AI answers to health questions are. It's one of several AI health pushes this month.",
+   "visual": {
+    "type": "points",
+    "title": "Apple Health AI Study",
+    "items": [
+     "Research app built with OpenEvidence",
+     "Up to 200,000 US adults can join",
+     "Evaluates AI answers to health questions",
+     "Comes as OpenAI pushes AI health agents"
+    ]
+   },
+   "detail": [
+    "Apple launched a research app called the Apple Health AI Study with OpenEvidence, a medical AI company. It will accept up to 200,000 adults in the US.",
+    "The goal is to measure how good AI answers to health questions are. Big tech firms are racing into health care, an area where accuracy matters a lot.",
+    "Separately, AI firms are adding agents that can shop and book things for users, raising new questions about safety and control."
+   ],
+   "money": [
+    "Free AI health tools can help you prep questions for a doctor visit, saving appointment time.",
+    "Don't skip a doctor based on AI advice; a wrong answer can cost more later.",
+    "Read the privacy terms before sharing health data with any study or app."
+   ],
+   "risk": [
+    "AI health answers can be wrong or out of date."
+   ],
+   "sources": [
+    {
+     "t": "Everything That Happened in AI Today, Monday, November 16",
+     "d": "theneuron.ai",
+     "u": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-monday-november-16-2026/"
+    }
+   ]
+  },
+  {
+   "id": "nidus-30m-defense-robots-2026111710",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "business"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T10:00:00Z",
+   "headline": "Nidus raises $30 million for AI robots that build wiring for US defense makers",
+   "caption": "Kleiner Perkins and Costanoa backed the startup. It is starting with wire-harness assembly, a slow, hands-on job in weapons and vehicle plants.",
+   "visual": {
+    "type": "deals",
+    "title": "AI funding",
+    "items": [
+     {
+      "a": "Nidus",
+      "b": "AI robotics for defense manufacturing",
+      "amt": "$30M",
+      "st": "Kleiner Perkins, Costanoa",
+      "c": "ok"
+     }
+    ]
+   },
+   "detail": [
+    "Nidus raised $30 million from Kleiner Perkins and Costanoa Ventures. It builds AI-driven robots for US defense manufacturing.",
+    "Its first target is wire-harness assembly, the bundles of cables that run through planes, vehicles and weapons. Much of that work is still done by hand.",
+    "Investors are pouring money into robotics and defense tech as factories look to automate."
+   ],
+   "money": [
+    "Defense and automation are growing themes; sector ETFs offer exposure without picking startups.",
+    "Skilled trades that work alongside robots, like technicians, are in demand.",
+    "Early-stage startups are risky; most investors can't buy in until much later."
+   ],
+   "risk": [
+    "Young startups often fail or take years to turn a profit."
+   ],
+   "sources": [
+    {
+     "t": "Everything That Happened in AI Today, Monday, November 16",
+     "d": "theneuron.ai",
+     "u": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-monday-november-16-2026/"
+    }
+   ]
+  },
+  {
+   "id": "edu-vix-fear-gauge-2026111710",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "markets"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-17T10:00:00Z",
+   "headline": "The VIX: what Wall Street's 'fear gauge' is telling you",
+   "caption": "The VIX jumped to about 24 before Nvidia's earnings. Here's what that number means.",
+   "scenes": [
+    {
+     "k": "Today's news",
+     "t": "The VIX rose 5.5% to about 24",
+     "s": "Traders braced for Nvidia's report after the bell."
+    },
+    {
+     "k": "What it is",
+     "t": "Expected swings in the S&P 500",
+     "s": "It comes from S&P 500 option prices over the next 30 days."
+    },
+    {
+     "k": "How to read it",
+     "t": "Higher number, more fear",
+     "viz": {
+      "type": "split",
+      "items": [
+       [
+        "Calm",
+        "Below 15"
+       ],
+       [
+        "Normal",
+        "15 to 20"
+       ],
+       [
+        "Nervous markets",
+        "Mid-20s and up",
+        "wide"
+       ]
+      ]
+     },
+     "say": "Below 15 is calm. 15 to 20 is normal. The mid-20s and up means nervous markets."
+    },
+    {
+     "k": "Rough math",
+     "t": "VIX 24 means about 1.5% a day",
+     "s": "Divide by about 16 to get a typical daily move."
+    },
+    {
+     "k": "Watch out",
+     "t": "It's not a crystal ball",
+     "s": "A high VIX shows worry, not which way stocks will go."
+    },
+    {
+     "k": "Takeaway",
+     "t": "Stick to your plan",
+     "s": "Fear spikes often pass; selling in a panic locks in losses."
+    }
+   ]
+  },
+  {
+   "id": "edu-insurance-moratorium-2026111710",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "california"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-17T10:00:00Z",
+   "headline": "Insurance moratoriums: how a wildfire can freeze your policy in place",
+   "caption": "California just protected 50,000 homes near the Dove Fire. Here's how these orders work.",
+   "scenes": [
+    {
+     "k": "Today's news",
+     "t": "50,000 homes can't be dropped",
+     "s": "California froze nonrenewals near the Dove Fire for a year."
+    },
+    {
+     "k": "The trigger",
+     "t": "A governor declares an emergency",
+     "s": "Then the insurance commissioner can order a moratorium."
+    },
+    {
+     "k": "How it works",
+     "t": "Three steps",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "Emergency declared",
+       "ZIP codes listed",
+       "Policies can't be dropped for 1 year"
+      ]
+     },
+     "say": "An emergency is declared, ZIP codes are listed, and policies can't be dropped for one year."
+    },
+    {
+     "k": "Who's covered",
+     "t": "Damaged or not",
+     "s": "Homes in the listed areas are covered even with no loss."
+    },
+    {
+     "k": "What it doesn't do",
+     "t": "It doesn't freeze your price",
+     "s": "Premiums can still go up at renewal."
+    },
+    {
+     "k": "Takeaway",
+     "t": "Use the year to prepare",
+     "s": "Shop around and harden your home before protection ends."
+    }
+   ]
+  },
   {
    "id": "uk-jobs-46-2026111709",
    "type": "news",
@@ -10941,1004 +11928,6 @@
      "t": "Everything That Happened in AI Today Monday, November 16",
      "d": "theneuron.ai",
      "u": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-monday-november-16-2026/"
-    }
-   ]
-  },
-  {
-   "id": "faa-smart-ai-2026111621",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "business"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T21:00:00Z",
-   "headline": "FAA takes its $875 million AI air traffic tool nationwide after a DC trial",
-   "caption": "The SMART system will expand across the country after its Washington, DC, debut. Human controllers keep the final say, but lawmakers have questioned the pace.",
-   "visual": {
-    "type": "stat",
-    "title": "FAA SMART tool",
-    "num": "$875M",
-    "tone": "acc",
-    "label": "Cost of the AI air traffic tool now rolling out nationwide.",
-    "facts": [
-     [
-      "First used",
-      "Washington, DC",
-      ""
-     ],
-     [
-      "Final authority",
-      "Humans",
-      "controllers decide"
-     ],
-     [
-      "Concern",
-      "Testing pace",
-      "raised by lawmakers"
-     ]
-    ]
-   },
-   "detail": [
-    "The FAA is expanding its $875 million SMART AI tool nationwide after first deploying it in Washington, DC.",
-    "Human air traffic controllers keep final authority over decisions. Some lawmakers have questioned how fast it is being rolled out and how much it was tested.",
-    "The news follows a recent FAA outage that disrupted flights and renewed calls for more air traffic control spending."
-   ],
-   "money": [
-    "Air travel disruptions are costly; travel insurance or a card with trip-delay coverage can help.",
-    "Companies that supply aviation tech could gain from new federal spending; research before investing.",
-    "Book flights early in the day; delays tend to pile up later."
-   ],
-   "risk": [
-    "New systems can bring early glitches and delays.",
-    "Congress could slow the rollout."
-   ],
-   "sources": [
-    {
-     "t": "Everything That Happened in AI Today Monday, November 16",
-     "d": "theneuron.ai",
-     "u": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-monday-november-16-2026/"
-    }
-   ]
-  },
-  {
-   "id": "crypto-etf-weekly-outflow-2026111621",
-   "type": "news",
-   "cat": "crypto",
-   "tags": [
-    "crypto",
-    "markets"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T21:00:00Z",
-   "headline": "Crypto ETFs lose $1.52B in a week; Binance founder CZ says he bought the dip",
-   "caption": "Bitcoin funds made up about 70% of the outflows. CZ said he bought as bitcoin hit about $62,000, but gave no amounts.",
-   "visual": {
-    "type": "board",
-    "title": "Weekly crypto ETF flows",
-    "rows": [
-     {
-      "k": "Bitcoin",
-      "v": "-$1.07B",
-      "tone": "loss"
-     },
-     {
-      "k": "Ether",
-      "v": "-$399M",
-      "tone": "loss"
-     },
-     {
-      "k": "Solana",
-      "v": "-$32M",
-      "tone": "loss"
-     },
-     {
-      "k": "XRP",
-      "v": "-$19M",
-      "tone": "loss"
-     },
-     {
-      "k": "Bitcoin price",
-      "s": "4 p.m. ET",
-      "v": "~$65,000",
-      "tone": "acc"
-     }
-    ],
-    "foot": "Total: about $1.52 billion out."
-   },
-   "detail": [
-    "US spot crypto ETFs saw about $1.52 billion in net outflows last week. Bitcoin funds lost $1.07 billion and ether funds about $399 million.",
-    "Binance founder Changpeng Zhao said he bought crypto during the slide to about $62,000. He denied that Binance sold, but didn't name amounts. He listed ETF outflows, rising prices and the Anthropic IPO as possible reasons for the drop.",
-    "Bitcoin was near $65,000 late Monday, down about 17% in November after a sixth straight weekly loss. Ether was near $1,819."
-   ],
-   "money": [
-    "Big-name 'I bought' claims are not a plan; set your own max amount for crypto.",
-    "If you buy, small regular purchases reduce the risk of bad timing.",
-    "Losses in a taxable account can offset gains; ask about tax-loss harvesting before year-end."
-   ],
-   "risk": [
-    "Outflows can keep pressure on prices for weeks.",
-    "Crypto can fall much further than stocks in a selloff."
-   ],
-   "sources": [
-    {
-     "t": "Crypto ETF Outflows Reach $1.52B as Bitcoin Leads Withdrawals",
-     "d": "kucoin.com",
-     "u": "https://www.kucoin.com/news/flash/crypto-etf-outflows-reach-1-52b-as-bitcoin-leads-withdrawals"
-    },
-    {
-     "t": "CZ Explain Why Crypto is Falling, Says He Bought Crypto",
-     "d": "thecryptobasic.com",
-     "u": "https://thecryptobasic.com/2026/11/16/cz-explain-why-crypto-is-falling-says-he-bought-crypto-and-denies-binance-sold"
-    },
-    {
-     "t": "Live updates: Bitcoin holds near weekend lows",
-     "d": "coindesk.com",
-     "u": "https://www.coindesk.com/tech/2026/11/16/live-news-bitcoin-posts-sixth-weekly-loss-as-tech-stocks-and-metals-slide"
-    }
-   ]
-  },
-  {
-   "id": "us-iran-three-carriers-2026111621",
-   "type": "news",
-   "cat": "world",
-   "tags": [
-    "world",
-    "markets"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T21:00:00Z",
-   "headline": "Third US carrier arrives as US hits Iranian missile sites; Iran threatens Europe bases",
-   "caption": "The USS Theodore Roosevelt makes three US carriers in the Middle East for the first time since the Iraq war. Strikes and tanker attacks widened since Sunday.",
-   "visual": {
-    "type": "timeline",
-    "title": "US-Iran escalation",
-    "items": [
-     {
-      "d": "SUN",
-      "t": "Iran drones target US base in Bahrain",
-      "s": "CENTCOM says no damage"
-     },
-     {
-      "d": "SUN NIGHT",
-      "t": "US hits launchers in southern Iran",
-      "s": "Bandar Lengeh and Sirik"
-     },
-     {
-      "d": "MON",
-      "t": "IRGC claims 6 tankers on fire since Sunday",
-      "s": "unconfirmed"
-     },
-     {
-      "d": "MON",
-      "t": "3rd US carrier arrives",
-      "now": true
-     }
-    ]
-   },
-   "detail": [
-    "The US and Iran traded wider strikes since Sunday. After an Iranian drone attack on a US base in Bahrain, the US hit Iranian missile launchers in Bandar Lengeh and Sirik, a wider area than before.",
-    "The USS Theodore Roosevelt joined two other carrier groups. It's the first time since the Iraq war that the US has three carriers in the region, with about 19 warships total.",
-    "Iran's Revolutionary Guard claims six tankers have caught fire since Sunday, which is unconfirmed. Iranian officials threatened US bases in Europe. Oil still fell Monday, with US crude near $84."
-   ],
-   "money": [
-    "Gas prices are falling for now, but a wider war could reverse that fast; don't lock in big fuel-dependent plans on today's prices.",
-    "Energy and defense stocks often react to escalation; a broad fund avoids betting on headlines.",
-    "Keep an emergency fund; oil shocks can push up prices for many goods."
-   ],
-   "risk": [
-    "A wider war could spike oil and shipping costs.",
-    "Reports from both sides are hard to verify quickly."
-   ],
-   "sources": [
-    {
-     "t": "US and Iran slide closer to fresh all-out war as new exchange of fire increases",
-     "d": "euronews.com",
-     "u": "https://euronews.com/2026/11/16/us-and-iran-slide-closer-to-fresh-all-out-war-as-new-exchange-of-fire-increases"
-    }
-   ]
-  },
-  {
-   "id": "disney-abc-buyouts-2026111621",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business",
-    "markets"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T21:00:00Z",
-   "headline": "ABC News veterans take Disney buyouts as more cuts loom; Disney reports Tuesday",
-   "caption": "Fewer than 20 ABC News staffers took early retirement, per reports. Disney is said to plan thousands more job cuts, likely in January.",
-   "visual": {
-    "type": "timeline",
-    "title": "Disney's 2026 cost cuts",
-    "items": [
-     {
-      "d": "APR",
-      "t": "About 1,000 corporate jobs cut"
-     },
-     {
-      "d": "AUG",
-      "t": "Early retirement offer",
-      "s": "50+ with 10+ years"
-     },
-     {
-      "d": "OCT",
-      "t": "100-200 cut at Disney Experiences"
-     },
-     {
-      "d": "NOV 17",
-      "t": "Earnings call, 8:30 a.m. ET",
-      "now": true
-     },
-     {
-      "d": "JAN",
-      "t": "Next round expected",
-      "s": "per Deadline"
-     }
-    ]
-   },
-   "detail": [
-    "Several longtime ABC News senior staffers took Disney's voluntary early retirement offer. Most worked behind the scenes, and fewer than 20 ABC News people accepted, according to the New York Post.",
-    "The offer went to workers at least 50 years old with 10 or more years at Disney. Disney has cut jobs several times this year, including about 1,000 corporate roles in April.",
-    "Bloomberg reported Disney plans thousands more cuts, with some managers asked to target up to 20% in annual savings. Disney reports full-year results Tuesday at 8:30 a.m. ET."
-   ],
-   "money": [
-    "If you're offered a buyout, compare it to severance you might get in a later layoff before deciding.",
-    "Check how a buyout affects your health coverage and retirement plan before signing.",
-    "Cost cuts can lift profits short term; watch Tuesday's guidance if you own Disney."
-   ],
-   "risk": [
-    "More layoffs could hit Disney workers in early 2027.",
-    "Earnings misses can move the stock sharply."
-   ],
-   "sources": [
-    {
-     "t": "ABC News veterans take Disney buyouts amid 'brain drain' fears",
-     "d": "piratesandprincesses.net",
-     "u": "https://piratesandprincesses.net/abc-news-veterans-take-disney-buyouts-amid-brain-drain-fears/"
-    }
-   ]
-  },
-  {
-   "id": "diesel-under-6-2026111621",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business",
-    "world"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T21:00:00Z",
-   "headline": "New: Diesel drops under $6 for the first time since September; gas average now $3.81",
-   "caption": "Gas fell about 20 cents in a week, and one analyst expects it under $3.72 this week, the lowest since March. Hawaii and California still pay the most.",
-   "visual": {
-    "type": "board",
-    "title": "AAA averages, Nov. 16",
-    "rows": [
-     {
-      "k": "US regular gas",
-      "s": "$4.01 a week ago",
-      "v": "$3.812",
-      "tone": "gain"
-     },
-     {
-      "k": "US diesel",
-      "s": "record $6.52 on Sept. 22",
-      "v": "$5.999",
-      "tone": "gain"
-     },
-     {
-      "k": "Hawaii",
-      "s": "highest",
-      "v": "$5.616",
-      "tone": "loss"
-     },
-     {
-      "k": "California",
-      "v": "$5.566",
-      "tone": "loss"
-     },
-     {
-      "k": "North Carolina",
-      "s": "lowest",
-      "v": "$3.092",
-      "tone": "gain"
-     }
-    ]
-   },
-   "detail": [
-    "New since this morning's update: the national average for regular gas fell to $3.812 a gallon, down from $4.009 a week ago. It's still higher than $3.072 a year ago.",
-    "Diesel slipped to $5.999, under $6 for the first time since September. Its record was $6.52 on Sept. 22.",
-    "GasBuddy's Patrick De Haan expects the national average to fall below $3.72 this week, the lowest since March. Hawaii is highest at $5.616 and California next at $5.566."
-   ],
-   "money": [
-    "Prices are falling, so fill up only what you need now and top off later in the week.",
-    "Use a gas app to compare stations; gaps of 30 cents or more a gallon are common.",
-    "Lower diesel costs can ease shipping and food prices over time."
-   ],
-   "risk": [
-    "Middle East conflict could quickly push prices back up.",
-    "Prices remain well above last year."
-   ],
-   "sources": [
-    {
-     "t": "Gas prices for 11/16/26: Diesel below $6",
-     "d": "yahoo.com",
-     "u": "https://yahoo.com/news/us/articles/gas-prices-11-16-26-173213492.html"
-    }
-   ]
-  },
-  {
-   "id": "snap-five-million-2026111621",
-   "type": "news",
-   "cat": "benefits",
-   "tags": [
-    "benefits",
-    "california",
-    "states"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T21:00:00Z",
-   "headline": "About 5 million have lost SNAP since the 2025 law; San Diego office now hands out food",
-   "caption": "The drop is the fastest in decades and well above federal estimates. San Diego County has 36,000 fewer people on SNAP and is running free grocery events.",
-   "visual": {
-    "type": "board",
-    "title": "SNAP losses since July 2025",
-    "rows": [
-     {
-      "k": "Nationwide",
-      "v": "~5 million",
-      "tone": "loss"
-     },
-     {
-      "k": "Texas",
-      "s": "backlog 175K in Sept.",
-      "v": "700,000+",
-      "tone": "loss"
-     },
-     {
-      "k": "Louisiana",
-      "v": "154,000",
-      "tone": "loss"
-     },
-     {
-      "k": "San Diego County",
-      "v": "36,000",
-      "tone": "loss"
-     },
-     {
-      "k": "Arizona",
-      "s": "steepest drop",
-      "v": "~half of rolls",
-      "tone": "loss"
-     }
-    ]
-   },
-   "detail": [
-    "About five million people have lost SNAP food benefits since the One Big Beautiful Bill passed in July 2025. The law cut funding, tightened eligibility and added new work rules.",
-    "In San Diego County, 36,000 fewer people were on SNAP in September than in July 2025. The county teamed up with food banks to hold free grocery giveaways outside social service offices, reaching over 5,200 people through September.",
-    "Elsewhere, Texas's application backlog grew from 3,700 in January to 175,000 in September. In Louisiana, three-quarters of removals came from paperwork issues like missed forms or interviews."
-   ],
-   "money": [
-    "If you get SNAP, answer every notice and keep copies; many people lose benefits over missing paperwork.",
-    "Food banks and county grocery events can stretch a tight food budget; call 211 to find one.",
-    "If you were cut off, ask your county if you qualify for an exemption to the work rules."
-   ],
-   "risk": [
-    "A new USDA proposal could remove millions more from SNAP.",
-    "Rules vary by state, so check with your local office."
-   ],
-   "sources": [
-    {
-     "t": "As millions lose food aid nationwide, this SNAP office is doubling up as a food pantry",
-     "d": "whro.org",
-     "u": "https://www.whro.org/2026-11-16/as-millions-lose-food-aid-nationwide-this-snap-office-is-doubling-up-as-a-food-pantry"
-    }
-   ]
-  },
-  {
-   "id": "edu-bank-outage-plan-2026111621",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "business"
-   ],
-   "date": "Explainer",
-   "ts": "2026-11-16T21:00:00Z",
-   "headline": "Bank app down? A simple backup plan for your money",
-   "caption": "Chase, Bank of America and Wells Fargo apps stumbled Monday. Here's how to stay calm and keep paying bills when tech fails.",
-   "scenes": [
-    {
-     "k": "Today's news",
-     "t": "Big bank apps went down Monday",
-     "s": "Chase said it was a technical issue, not a hack."
-    },
-    {
-     "k": "First fact",
-     "t": "An outage isn't lost money",
-     "s": "Your balance is still recorded, and FDIC insurance covers deposits up to $250,000 per bank."
-    },
-    {
-     "k": "Your backup",
-     "t": "Have a second way to pay",
-     "viz": {
-      "type": "flow",
-      "items": [
-       "Some cash at home",
-       "Card from a 2nd bank",
-       "Bills paid early",
-       "Check later, don't re-send"
-      ]
-     }
-    },
-    {
-     "k": "Avoid double pay",
-     "t": "Don't hit send twice",
-     "s": "A stuck payment may go through later, and a repeat could pay twice."
-    },
-    {
-     "k": "Scam alert",
-     "t": "Outages bring fake bank texts",
-     "s": "Your bank won't ask for your login code by text or call."
-    },
-    {
-     "k": "Takeaway",
-     "t": "Two banks, a little cash, calm",
-     "s": "A small backup turns an outage into a minor hassle."
-    }
-   ]
-  },
-  {
-   "id": "edu-strong-dollar-2026111621",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "markets"
-   ],
-   "date": "Explainer",
-   "ts": "2026-11-16T21:00:00Z",
-   "headline": "Strong dollar: who wins and who loses",
-   "caption": "The dollar hit its highest since April 2025 as traders bet on a December rate hike. Here's what that means for your wallet.",
-   "scenes": [
-    {
-     "k": "Today's news",
-     "t": "Dollar at its highest since April 2025",
-     "s": "Traders see a December Fed hike as nearly certain."
-    },
-    {
-     "k": "Why it rises",
-     "t": "Higher rates pull in money",
-     "viz": {
-      "type": "flow",
-      "items": [
-       "Fed may hike",
-       "US savings pay more",
-       "Global money flows in",
-       "Dollar gets stronger"
-      ]
-     }
-    },
-    {
-     "k": "Winners",
-     "t": "Travelers and shoppers",
-     "s": "Foreign trips and imported goods get cheaper for Americans."
-    },
-    {
-     "k": "Losers",
-     "t": "US exporters and global firms",
-     "s": "Their goods cost more abroad, and foreign profits shrink when converted."
-    },
-    {
-     "k": "Your funds",
-     "t": "Foreign stocks feel it too",
-     "s": "A strong dollar can lower returns on international funds for US investors."
-    },
-    {
-     "k": "Takeaway",
-     "t": "Plan trips, don't chase currency",
-     "s": "Use the strong dollar for travel; keep investments diversified."
-    }
-   ]
-  },
-  {
-   "id": "neocloud-selloff-2026111620",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "markets"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T20:00:00Z",
-   "headline": "AI cloud stocks slide: IREN -7%, Nebius -6%, CoreWeave -4% on funding worries",
-   "caption": "Companies that rent out Nvidia chips fell hard as Nvidia's leadership turmoil raised questions about who pays for their data centers. Several are down 20% to 45% in a month.",
-   "visual": {
-    "type": "stat",
-    "title": "Neocloud stocks at Monday's open",
-    "num": "-7%",
-    "tone": "loss",
-    "label": "IREN led the drop; it is down about 45% in a month.",
-    "rows": [
-     [
-      "IREN",
-      -7
-     ],
-     [
-      "Nebius",
-      -6
-     ],
-     [
-      "CoreWeave",
-      -4
-     ]
-    ]
-   },
-   "detail": [
-    "So-called neoclouds rent AI computing power built on Nvidia chips. They fell Monday as tech was the weakest sector, down about 2%, and money rotated out of AI and chip stocks.",
-    "The worry is funding. IREN's net debt jumped to about $4.43 billion from $216 million in one quarter, and it has a funding gap of roughly $6 billion. Nebius raised its 2026 spending plan to about $27 billion.",
-    "CoreWeave's revenue grew 168% to $3.66 billion last quarter, but its quarterly interest bill was $846 million. Nvidia's role in financing some of these build-outs is why its turmoil hits them."
-   ],
-   "money": [
-    "Check if your tech fund holds these names; high-debt growth stocks can swing far more than the index.",
-    "Big backlogs are not cash; look at debt and interest costs before buying a fast grower.",
-    "If you want AI exposure with less risk, a broad index fund spreads it across many companies."
-   ],
-   "risk": [
-    "Nvidia's earnings Tuesday could move these stocks sharply either way.",
-    "Prices quoted are from the open and may have changed during the day."
-   ],
-   "sources": [
-    {
-     "t": "IREN Drops 7% as NVIDIA Turmoil and Financing Worries Hit Neocloud Stocks",
-     "d": "247wallst.com",
-     "u": "https://247wallst.com/investing/2026/11/16/iren-drops-7-as-nvidia-turmoil-and-financing-worries-hit-neocloud-stocks-nebius-falls-6-coreweave-slides-4/"
-    }
-   ]
-  },
-  {
-   "id": "childrens-place-ch11-2026111620",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T20:00:00Z",
-   "headline": "The Children's Place files for Chapter 11; 732 New Jersey jobs to be cut",
-   "caption": "The kids' clothing chain filed for bankruptcy in New Jersey and plans to sell nearly all its assets. A state notice lists 732 layoffs by February 2027.",
-   "visual": {
-    "type": "board",
-    "title": "The Children's Place filing",
-    "rows": [
-     {
-      "k": "North America stores",
-      "v": "498"
-     },
-     {
-      "k": "US stores",
-      "v": "436"
-     },
-     {
-      "k": "NJ layoffs (WARN)",
-      "s": "by Feb 2027",
-      "v": "732",
-      "tone": "loss"
-     },
-     {
-      "k": "Global staff (Jan)",
-      "s": "~5,300 part-time",
-      "v": "7,800"
-     }
-    ],
-    "foot": "Company plans a sale of substantially all assets."
-   },
-   "detail": [
-    "The Children's Place filed for Chapter 11 protection in federal bankruptcy court in New Jersey, where it is based.",
-    "A New Jersey layoff notice covers 732 workers in 14 counties, with job losses expected by February 2027. The company did not say which stores will be affected.",
-    "It does not own its stores and says it will seek to sell substantially all of its assets through a market process."
-   ],
-   "money": [
-    "Use any gift cards or store credit soon; bankrupt retailers can change or end those policies.",
-    "Watch for liquidation sales, but compare prices; early 'closing' discounts are often small.",
-    "Affected workers in NJ can check WARN notice timing to plan job searches and unemployment claims."
-   ],
-   "risk": [
-    "The article does not say how gift cards or returns will be handled.",
-    "Store closures and timing are not yet announced."
-   ],
-   "sources": [
-    {
-     "t": "The Children's Place Files for Bankruptcy, Set to Lay Off 700+ Workers in New Jersey",
-     "d": "jerseydigs.com",
-     "u": "https://jerseydigs.com/the-childrens-place-files-for-bankruptcy/"
-    }
-   ]
-  },
-  {
-   "id": "jnj-ollin-2026111620",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business",
-    "markets"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T20:00:00Z",
-   "headline": "J&J buys eye-drug maker Ollin for $2.2B upfront; Blackstone chips in $750M",
-   "caption": "Johnson & Johnson adds a late-stage drug for wet AMD and diabetic eye swelling. Blackstone will help pay for the final trials in exchange for royalties.",
-   "visual": {
-    "type": "deals",
-    "title": "Monday's pharma deals",
-    "items": [
-     {
-      "a": "J&J",
-      "b": "Ollin Biosciences",
-      "amt": "$2.2B",
-      "st": "+ up to ~$1.1B milestones",
-      "c": "pend"
-     },
-     {
-      "a": "Blackstone",
-      "b": "OLN324 trial funding",
-      "amt": "$750M",
-      "st": "for royalties",
-      "c": "ok"
-     },
-     {
-      "a": "Sanofi",
-      "b": "Seawolf Therapeutics",
-      "amt": "$1.2B",
-      "st": "milestones max",
-      "c": "ok"
-     },
-     {
-      "a": "Novartis",
-      "b": "OBI Pharma",
-      "amt": "$30M",
-      "st": "upfront; $2B+ potential",
-      "c": "ok"
-     }
-    ]
-   },
-   "detail": [
-    "J&J agreed to buy Ollin Biosciences for $2.2 billion upfront plus up to about $1.125 billion in milestones. The prize is OLN324, a Phase 3 drug for wet age-related macular degeneration and diabetic macular edema.",
-    "Blackstone will pay J&J $750 million over several years to fund the Phase 3 program, and gets milestone payments and single-digit royalties back. The deal should close before year-end.",
-    "Novartis and Sanofi also signed licensing deals Monday worth up to $2 billion and $1.2 billion."
-   ],
-   "money": [
-    "Big pharma keeps buying late-stage drugs; health care funds can benefit from steady deal flow.",
-    "Milestone payments are 'maybe' money; value deals on the upfront cash.",
-    "Royalty deals like Blackstone's show private funds chasing drug income, a theme in some alternatives funds."
-   ],
-   "risk": [
-    "Phase 3 drugs can still fail, as Monday's FDA rejection of another drug showed.",
-    "Deal still needs to close."
-   ],
-   "sources": [
-    {
-     "t": "Deals Roundup: J&J Buys Ollin, Lilly Adds Calytrix, and Novartis and Sanofi Strike Platform Pacts",
-     "d": "biopharminternational.com",
-     "u": "https://www.biopharminternational.com/view/deals-roundup-j-j-buys-ollin-lilly-adds-calytrix-and-novartis-and-sanofi-strike-platform-pacts"
-    }
-   ]
-  },
-  {
-   "id": "cumulus-layoffs-2026111620",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T20:00:00Z",
-   "headline": "Cumulus Media cuts radio staff in about 23 markets, weeks after leaving bankruptcy",
-   "caption": "The radio giant's second layoff round of 2026 hit cities from Atlanta to Minneapolis, plus its Westwood One network. The total number is not known.",
-   "visual": {
-    "type": "timeline",
-    "title": "Cumulus in 2026",
-    "items": [
-     {
-      "d": "AUG",
-      "t": "First layoff round"
-     },
-     {
-      "d": "OCT",
-      "t": "Exits Chapter 11",
-      "s": "FCC approval received"
-     },
-     {
-      "d": "NOV 16",
-      "t": "Second round reported",
-      "s": "~23 markets",
-      "now": true
-     }
-    ]
-   },
-   "detail": [
-    "Cumulus Media began another round of layoffs, with departures reported in about 23 markets including Chicago, Dallas, Houston, Nashville and Atlanta.",
-    "Westwood One, its network arm, is also affected. The company emerged from Chapter 11 in October after its restructuring was approved.",
-    "The total number of jobs cut is unknown, and more departures may surface."
-   ],
-   "money": [
-    "Companies fresh out of bankruptcy often keep cutting costs; workers there should keep a job-search plan ready.",
-    "Old stock is usually wiped out in Chapter 11; don't assume a familiar name means a safe stock.",
-    "Local radio cuts can mean fewer ad options; small businesses may find cheaper streaming or podcast ads."
-   ],
-   "risk": [
-    "Full scope of cuts is not disclosed."
-   ],
-   "sources": [
-    {
-     "t": "Cumulus Media Begins Another Round of Layoffs Following Bankruptcy Restructuring",
-     "d": "barrettmedia.com",
-     "u": "https://barrettmedia.com/2026/11/16/cumulus-media-layoffs-bankruptcy-restructuring/"
-    }
-   ]
-  },
-  {
-   "id": "btc-november-rout-2026111620",
-   "type": "news",
-   "cat": "crypto",
-   "tags": [
-    "crypto",
-    "markets"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T20:00:00Z",
-   "headline": "Bitcoin is down nearly 16% in November, its 2nd-worst start to a month since 2016",
-   "caption": "Only the FTX crash month of November 2022 started worse. Crypto stocks like Coinbase and Strategy fell about 5% Monday morning.",
-   "visual": {
-    "type": "stat",
-    "title": "Bitcoin's rough November",
-    "num": "-16%",
-    "tone": "loss",
-    "label": "Bitcoin touched $64,000 Monday, down about 25% this year.",
-    "facts": [
-     [
-      "November so far",
-      "-16%",
-      "2nd worst since 2016"
-     ],
-     [
-      "Year to date",
-      "-25%",
-      "3rd worst in a decade"
-     ],
-     [
-      "Since record",
-      "13+ mo",
-      "peak was Oct 2025"
-     ]
-    ]
-   },
-   "detail": [
-    "Bitcoin fell as low as $64,000 and is down nearly 16% this month. Only November 2022, when FTX collapsed, had a worse first half of a month in that span.",
-    "It is down about 25% this year, behind only 2018 and 2022. A Yahoo Finance analysis found the last three bear markets bottomed about 12 to 13 months after the peak, and bitcoin is now just past 13 months.",
-    "Robinhood, Circle, Coinbase and Strategy fell roughly 3% to 5% Monday morning."
-   ],
-   "money": [
-    "If you buy crypto, small regular buys reduce the risk of going all in at the wrong time.",
-    "Past bottoms timing is a pattern, not a promise; never use money you need soon.",
-    "Losses in a taxable account can offset gains elsewhere; ask a tax pro about harvesting losses."
-   ],
-   "risk": [
-    "Bitcoin could fall further; prior bear markets dropped far more than 25%."
-   ],
-   "sources": [
-    {
-     "t": "Bitcoin's November rout echoes past crypto downturns",
-     "d": "finance.yahoo.com",
-     "u": "https://finance.yahoo.com/markets/article/bitcoins-november-rout-echoes-past-crypto-downturns-142926241.html"
-    }
-   ]
-  },
-  {
-   "id": "strategy-msci-exit-2026111620",
-   "type": "news",
-   "cat": "crypto",
-   "tags": [
-    "crypto",
-    "markets"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T20:00:00Z",
-   "headline": "Strategy falls about 7% as its Nov. 30 removal from MSCI's US index nears",
-   "caption": "Index funds tracking the MSCI USA must sell Strategy at the end of the month. Bitcoin's slide is adding pressure.",
-   "visual": {
-    "type": "timeline",
-    "title": "Strategy and MSCI",
-    "items": [
-     {
-      "d": "NOV 11",
-      "t": "MSCI lists Strategy for removal",
-      "s": "stock -2.6% after hours"
-     },
-     {
-      "d": "NOV 16",
-      "t": "Stock down ~7% midday",
-      "now": true
-     },
-     {
-      "d": "NOV 30",
-      "t": "Removal takes effect at close"
-     }
-    ]
-   },
-   "detail": [
-    "MSCI said last week it will drop Strategy, the biggest corporate bitcoin holder, from its MSCI USA Index at the close of Nov. 30. Japan's Metaplanet is leaving an MSCI small-cap index too.",
-    "On Monday Strategy fell about 7% as investors weighed selling tied to the removal and bitcoin's losses.",
-    "MSCI did not give company-specific reasons, and no estimate of forced selling was given."
-   ],
-   "money": [
-    "Index changes are known in advance; prices often move before the effective date.",
-    "If you own Strategy as a bitcoin proxy, know it swings more than bitcoin itself.",
-    "Check whether your index funds held it; most hold tiny weights, so impact is small."
-   ],
-   "risk": [
-    "Stock could stay volatile through the Nov. 30 rebalance."
-   ],
-   "sources": [
-    {
-     "t": "Strategy, Metaplanet lose MSCI index membership in November reshuffle",
-     "d": "theblock.co",
-     "u": "https://theblock.co/news/markets/2026-11-11-strategy-metaplanet-lose-msci-index-membership-november-reshuffle-438437"
-    },
-    {
-     "t": "Stock Market Midday, Nov. 16",
-     "d": "fool.com",
-     "u": "https://www.fool.com/coverage/stock-market-today/2026/11/16/stock-market-midday-nov-16-stocks-slide-as-tech-selling-intensifies-across-the-market/"
-    }
-   ]
-  },
-  {
-   "id": "sec-nominees-hearing-2026111620",
-   "type": "news",
-   "cat": "crypto",
-   "tags": [
-    "crypto",
-    "politics"
-   ],
-   "date": "This week",
-   "ts": "2026-11-16T20:00:00Z",
-   "headline": "Senate hearing Thursday for two SEC nominees could shape crypto rules",
-   "caption": "Steven Levine and Kristin Johnson face the Senate Banking Committee on Nov. 19. The crypto industry wants clearer rules on tokens, custody and trading.",
-   "visual": {
-    "type": "points",
-    "title": "SEC nominee hearing",
-    "items": [
-     "Date: Thursday, Nov. 19",
-     "Committee: Senate Banking",
-     "Nominees: Steven Levine, Kristin Johnson",
-     "Crypto asks: token offerings, custody, trading venues",
-     "A hearing is not a confirmation"
-    ]
-   },
-   "detail": [
-    "Two nominees for the Securities and Exchange Commission, Steven Levine and Kristin Johnson, are set for a Senate Banking Committee hearing on Thursday.",
-    "Crypto firms want clear SEC rules on token offerings, custody and trading platforms, and will watch the nominees' answers closely.",
-    "A hearing does not guarantee confirmation, and new members do not instantly change existing rules."
-   ],
-   "money": [
-    "Clearer rules could lower risk for regulated crypto products like ETFs over time.",
-    "Stick with regulated platforms while rules are in flux.",
-    "Policy headlines can move crypto prices; avoid trading on hearing-day hype."
-   ],
-   "risk": [
-    "Rule changes, if any, take months or years."
-   ],
-   "sources": [
-    {
-     "t": "Senate Hearing Could Shape the SEC's Next Chapter for Crypto Oversight",
-     "d": "newsbtc.com",
-     "u": "https://newsbtc.com/regulation/us-senate-sec-nominees-november-19-hearing-crypto"
-    }
-   ]
-  },
-  {
-   "id": "doj-bia-appeal-rule-2026111620",
-   "type": "news",
-   "cat": "immigration",
-   "tags": [
-    "immigration"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T20:00:00Z",
-   "headline": "DOJ final rule: immigrants have no constitutional right to an appeals board review",
-   "caption": "The rule lets the Board of Immigration Appeals pick which cases to review and quickly dismiss others. DOJ cites a big backlog; advocates say it cuts due process.",
-   "visual": {
-    "type": "points",
-    "title": "What the final rule does",
-    "items": [
-     "Lets the appeals board quickly dismiss more cases",
-     "Says no constitutional right to a board appeal",
-     "Federal court challenges still possible",
-     "10-day appeal deadline in lawyer discipline cases (was 30)",
-     "Ran as an interim rule earlier in 2026"
-    ]
-   },
-   "detail": [
-    "The Justice Department's immigration court office released a final rule Monday, due in the Federal Register the next day. It says there is no constitutional due process right to an administrative appeal before the Board of Immigration Appeals.",
-    "The rule gives board members wider discretion to choose cases and summarily dismiss others. It notes people can still challenge orders in federal court.",
-    "It took effect on an interim basis earlier this year. Advocates sued, saying it strips due process; DOJ says it is needed to cut a large backlog."
-   ],
-   "money": [
-    "People in immigration court should confirm appeal deadlines with a qualified lawyer right away.",
-    "Nonprofit legal aid groups can lower the cost of representation.",
-    "Employers with immigrant staff may want to plan for faster case outcomes."
-   ],
-   "risk": [
-    "Legal challenges to the rule may continue."
-   ],
-   "sources": [
-    {
-     "t": "DOJ Says Migrants Lack Constitutional Right to Appeal Orders",
-     "d": "news.bloomberglaw.com",
-     "u": "https://news.bloomberglaw.com/us-law-week/immigrants-lack-constitutional-right-to-appeal-orders-doj-says"
-    }
-   ]
-  },
-  {
-   "id": "scotus-asylum-ban-2026111620",
-   "type": "news",
-   "cat": "immigration",
-   "tags": [
-    "immigration",
-    "politics"
-   ],
-   "date": "This week",
-   "ts": "2026-11-16T20:00:00Z",
-   "headline": "Supreme Court will decide if Trump's border asylum ban went too far",
-   "caption": "Lower courts said the president exceeded his authority by barring asylum claims from people who cross illegally. A ruling is expected by the end of June.",
-   "visual": {
-    "type": "timeline",
-    "title": "The asylum ban case",
-    "items": [
-     {
-      "d": "JAN 2025",
-      "t": "Ban announced on day one"
-     },
-     {
-      "d": "JUL 2025",
-      "t": "DC judge rules against it"
-     },
-     {
-      "d": "APR 2026",
-      "t": "Appeals court agrees, stays ruling"
-     },
-     {
-      "d": "NOV 13",
-      "t": "Supreme Court takes the case",
-      "now": true
-     },
-     {
-      "d": "BY JUNE",
-      "t": "Decision expected"
-     }
-    ]
-   },
-   "detail": [
-    "The Supreme Court agreed Friday to hear the administration's appeal of rulings against its asylum restrictions at the southern border.",
-    "The policy, announced Jan. 20, 2025, bars people caught crossing illegally from seeking asylum and allows fast-track removals. It lasts until the president decides the 'invasion' has ended.",
-    "A DC judge ruled for immigrant groups in July 2025, and an appeals court agreed in April but largely paused its ruling so the case could go up. Arguments are expected in coming months."
-   ],
-   "money": [
-    "Businesses relying on immigrant labor should plan for either outcome next summer.",
-    "Families with pending cases should keep documents current and seek legal advice.",
-    "Watch for scams promising asylum help; use accredited legal providers."
-   ],
-   "risk": [
-    "The policy stays largely in place while the case is pending."
-   ],
-   "sources": [
-    {
-     "t": "US Supreme Court to weigh asylum restrictions at southern border",
-     "d": "gazette.com",
-     "u": "https://gazette.com/2026/11/16/us-supreme-court-to-weigh-asylum-restrictions-at-southern-border/"
     }
    ]
   }
