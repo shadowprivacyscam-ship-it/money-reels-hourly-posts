@@ -1,6 +1,829 @@
 {
- "updated": "2026-11-17T08:00:00Z",
+ "updated": "2026-11-17T09:00:00Z",
  "items": [
+  {
+   "id": "uk-jobs-46-2026111709",
+   "type": "news",
+   "cat": "world",
+   "tags": [
+    "world",
+    "markets"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T09:00:00Z",
+   "headline": "UK unemployment falls to 4.6%, beating forecasts, but payrolls and job openings drop",
+   "caption": "Britain's jobless rate dipped to 4.6% in the three months to September, lower than the 4.7% expected. Payrolls and vacancies both fell, so the job market is still cooling.",
+   "visual": {
+    "type": "vs",
+    "title": "UK jobless rate, 3 months to Sept",
+    "a": [
+     "Expected",
+     "4.7%",
+     1,
+     "acc"
+    ],
+    "b": [
+     "Actual",
+     "4.6%",
+     0.98,
+     "gain"
+    ],
+    "foot": "Lowest since early 2025, per ONS via Investing.com"
+   },
+   "detail": [
+    "The UK's unemployment rate fell to 4.6% in the three months to September, the lowest since the period ending April 2025. Economists had expected 4.7%. The number of jobless people fell by 88,000 to about 1.68 million.",
+    "The details were weaker. The number of workers on company payrolls fell, vacancies dropped again, and regular pay growth slowed. Employers said higher labor and running costs are holding back hiring.",
+    "The statistics office said part of the drop came from changes in its survey sample, and the rate has a margin of error of 0.3 points. The next report is due December 15."
+   ],
+   "money": [
+    "A cooler UK job market can ease wage-driven inflation, which matters for UK rates and the pound.",
+    "If you hold international stock funds, UK data like this can move British shares and the currency.",
+    "Planning a UK trip? Watch the pound; currency swings change what your dollars buy."
+   ],
+   "risk": [
+    "Survey changes make the headline rate less reliable than usual.",
+    "Falling payrolls could point to more weakness ahead."
+   ],
+   "sources": [
+    {
+     "t": "UK unemployment falls to 4.6%, beats forecast; payrolls, vacancies drop",
+     "d": "investing.com",
+     "u": "https://www.investing.com/news/economic-indicators/uk-unemployment-falls-to-46-beats-forecast-payrolls-vacancies-drop-5031844"
+    }
+   ]
+  },
+  {
+   "id": "goldman-brent-2027-2026111709",
+   "type": "news",
+   "cat": "world",
+   "tags": [
+    "world",
+    "markets"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T09:00:00Z",
+   "headline": "Goldman sees Brent averaging $88 next year and $78 by late 2027 as a glut builds",
+   "caption": "Brent slipped to about $91.66 early Tuesday. Goldman Sachs expects oil to keep falling in 2027 as supply outruns demand, with OPEC+ meeting Nov. 29.",
+   "visual": {
+    "type": "board",
+    "title": "Brent crude: now vs. Goldman's path",
+    "rows": [
+     {
+      "k": "Brent, Tue morning",
+      "v": "$91.66",
+      "ch": -0.8,
+      "tone": "loss"
+     },
+     {
+      "k": "Monday close",
+      "s": "fell 3.55%",
+      "v": "$92.44"
+     },
+     {
+      "k": "Goldman 2027 average",
+      "v": "$88",
+      "tone": "acc"
+     },
+     {
+      "k": "Goldman Dec 2027",
+      "v": "$78",
+      "tone": "loss"
+     }
+    ],
+    "foot": "Per FinanceFeeds; not a forecast by Money Reels"
+   },
+   "detail": [
+    "Brent crude futures traded near $91.66 a barrel early Tuesday, down about 0.8%, after a 3.55% drop on Monday. US crude was near $85.",
+    "Goldman Sachs expects Brent to average $88 a barrel in 2027 and to fall to $78 by December 2027 as the market returns to surplus. The IEA sees supply topping demand by about 1.7 million barrels a day this quarter.",
+    "Tanker attacks near Hormuz have not been enough to lift prices. Next up: the weekly US oil report Wednesday and an OPEC+ meeting on November 29 that sets 2027 output."
+   ],
+   "money": [
+    "Lower crude over time usually means cheaper gas and heating oil; avoid locking in long fuel contracts at today's prices.",
+    "Energy stock dividends can shrink when oil falls, so check how much of your income relies on them.",
+    "Airlines and shippers often benefit from cheaper fuel."
+   ],
+   "risk": [
+    "Mideast fighting can spike prices fast.",
+    "OPEC+ could cut output on Nov. 29 to prop up prices."
+   ],
+   "sources": [
+    {
+     "t": "Brent Oil $91.66 as Glut Fears Grow: Bull $96, Bear $88",
+     "d": "financefeeds.com",
+     "u": "https://financefeeds.com/brent-crude-oil-price-91-66-tuesday-goldman-glut-warning-bull-96-bear-88/"
+    }
+   ]
+  },
+  {
+   "id": "warsh-si-scenarios-2026111709",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "markets"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T09:00:00Z",
+   "headline": "Fed Chair Warsh lays out three ways 'superintelligence' could hit the economy",
+   "caption": "At a Fed event in San Francisco, Warsh walked through a boom, a jobs-shock and a bust scenario for advanced AI. He said they are illustrations, not forecasts.",
+   "visual": {
+    "type": "points",
+    "title": "Warsh's three AI scenarios",
+    "items": [
+     "1. Shared boom: workers and owners both gain",
+     "2. Fast growth, but jobs get displaced",
+     "3. AI returns disappoint and growth slows",
+     "Built by Fed staff models, not forecasts"
+    ]
+   },
+   "detail": [
+    "Fed Chair Kevin Warsh spoke Monday at a conference in San Francisco run by the Fed Board and the San Francisco Fed. It feeds a Fed task force studying how new technology affects jobs and productivity.",
+    "He outlined three paths. In the first, AI lifts productivity and gains are widely shared. In the second, growth speeds up but some jobs disappear and workers struggle to move. In the third, heavy AI spending and stock gains fail to pay off, and the economy slows.",
+    "Speakers included leaders from Stripe, Palo Alto Networks and Affirm. Warsh has said he wants to know if a productivity boom is coming fast or slowly, and what it means for jobs and prices."
+   ],
+   "money": [
+    "Scenario 3 is a reminder: don't put too much of your portfolio in AI stocks alone.",
+    "Build skills that pair with AI tools; that can protect your income if jobs shift.",
+    "Keep an emergency fund; job shocks are easier to ride out with cash on hand."
+   ],
+   "risk": [
+    "None of these paths is a Fed forecast.",
+    "AI views can shift rate expectations and move markets."
+   ],
+   "sources": [
+    {
+     "t": "Warsh: three scenarios show how superintelligence impacts US economy",
+     "d": "tradingkey.com",
+     "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262307622-warsh-speech-superintelligence-impact-us-economic-growth-employment-tradingkey"
+    },
+    {
+     "t": "Fed's Kevin Warsh to hear from tech leaders on SI's impact on jobs, economy",
+     "d": "wchstv.com",
+     "u": "https://wchstv.com/news/nation-world/federal-reserve-chair-kevin-warsh-to-hear-from-tech-leaders-on-super-intelligence-impact-on-jobs-economy-san-francisco-jobs-task-force-economic-impact"
+    }
+   ]
+  },
+  {
+   "id": "megaspeed-probe-2026111709",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "world",
+    "markets"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T09:00:00Z",
+   "headline": "US confirms a criminal probe of Singapore's Megaspeed over Nvidia AI chips",
+   "caption": "Commerce and Justice say they are investigating whether Megaspeed helped move top Nvidia chips to China. The news lands on the day Nvidia reports earnings.",
+   "visual": {
+    "type": "timeline",
+    "title": "The Megaspeed probe",
+    "items": [
+     {
+      "d": "2024",
+      "t": "Commerce opens export probe"
+     },
+     {
+      "d": "MAY 2025",
+      "t": "Commerce asks Nvidia for records"
+     },
+     {
+      "d": "JUN 2025",
+      "t": "Nvidia puts Megaspeed on no-sell list"
+     },
+     {
+      "d": "NOV 16",
+      "t": "US confirms criminal probe",
+      "now": true
+     },
+     {
+      "d": "BY NOV 26",
+      "t": "Huang to testify to House",
+      "s": "closed door"
+     }
+    ]
+   },
+   "detail": [
+    "The US Commerce and Justice departments said Monday they are investigating Singapore data center firm Megaspeed over suspected AI chip export violations. They said they will pursue any criminal conduct to the full extent of the law.",
+    "Officials suspect Megaspeed helped move Nvidia's most powerful chips to China around US rules. Nvidia had already put the company on a no-sell list in June 2025.",
+    "Former Nvidia CEO Jensen Huang, who stepped down last week, is set to testify to the House behind closed doors before Thanksgiving. Commerce Secretary Lutnick has agreed to testify to the Senate."
+   ],
+   "money": [
+    "If you own Nvidia or chip funds, expect extra swings around tonight's earnings and this probe.",
+    "Tighter export rules can hit chip sales to Asia; check how concentrated your tech holdings are.",
+    "Long-term investors can use volatility to rebalance instead of chasing moves."
+   ],
+   "risk": [
+    "The probe could widen to other firms or buyers.",
+    "No charges have been announced."
+   ],
+   "sources": [
+    {
+     "t": "US confirms criminal probe into Singapore cloud firm Megaspeed over Nvidia AI chips",
+     "d": "malaymail.com",
+     "u": "https://www.malaymail.com/news/singapore/2026/11/17/us-confirms-criminal-probe-into-singapore-cloud-firm-megaspeed-over-nvidia-ai-chips/243584"
+    }
+   ]
+  },
+  {
+   "id": "dreamteam-53m-2026111709",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "business",
+    "california"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T09:00:00Z",
+   "headline": "Ex-Freshworks leaders raise $53M for Dreamteam, an AI-first rival to Salesforce",
+   "caption": "Sacramento-based Dreamteam came out of stealth with $53 million from Accel, Together Fund and Premji Invest. Its CRM uses AI 'teammates' to research, sell and forecast.",
+   "visual": {
+    "type": "ticker",
+    "sym": "DREAMTEAM",
+    "ex": "PRIVATE",
+    "rows": [
+     {
+      "k": "Raised",
+      "v": "$53M"
+     },
+     {
+      "k": "Investors",
+      "s": "lead + others",
+      "v": "Accel, Together, Premji"
+     },
+     {
+      "k": "HQ",
+      "v": "Sacramento, CA"
+     },
+     {
+      "k": "Founded",
+      "v": "2025"
+     }
+    ]
+   },
+   "detail": [
+    "Dreamteam, a startup founded in 2025 by three former senior Freshworks executives, announced $53 million in funding on Monday. Accel, Together Fund and Premji Invest backed the round. No valuation was given.",
+    "Its customer-management software is built around a shared 'Company Brain' that learns from emails, meetings and customer chats. Four AI teammates handle research, sales prep, pipeline forecasting and setup.",
+    "The company says hundreds of businesses already use it. It is going after big players like Salesforce and SAP."
+   ],
+   "money": [
+    "Small businesses: AI-native CRMs may cost less than legacy tools; ask for trials before renewing contracts.",
+    "Sales workers who learn AI tools may get more done and earn more commission.",
+    "Salesforce and SAP shareholders should watch for price pressure from new AI rivals."
+   ],
+   "risk": [
+    "Early startups can fail or change pricing fast.",
+    "Moving customer data to a new tool takes time and care."
+   ],
+   "sources": [
+    {
+     "t": "AI-native CRM Dreamteam raises $53M from Accel and Together Fund",
+     "d": "thenextweb.com",
+     "u": "https://thenextweb.com/news/dreamteam-ai-native-crm-53m-accel"
+    }
+   ]
+  },
+  {
+   "id": "part-b-2027-pending-2026111709",
+   "type": "news",
+   "cat": "benefits",
+   "tags": [
+    "benefits"
+   ],
+   "date": "This week",
+   "ts": "2026-11-17T09:00:00Z",
+   "headline": "Medicare's 2027 Part B premium is still not out; trustees project $209.50",
+   "caption": "CMS hasn't announced next year's Part B premium yet. The trustees' projection is $209.50 a month, up $6.60, while Social Security checks rise 3.6% in January.",
+   "visual": {
+    "type": "board",
+    "title": "Part B premium, per month",
+    "rows": [
+     {
+      "k": "2025",
+      "v": "$185"
+     },
+     {
+      "k": "2026",
+      "s": "up 9.7%",
+      "v": "$202.90"
+     },
+     {
+      "k": "2027 projected",
+      "s": "trustees, not final",
+      "v": "$209.50",
+      "ch": 3.25,
+      "tone": "acc"
+     },
+     {
+      "k": "2027 COLA",
+      "s": "avg +$75/mo",
+      "v": "+3.6%",
+      "tone": "gain"
+     }
+    ],
+    "foot": "Per OregonLive via Yahoo"
+   },
+   "detail": [
+    "As of Monday, CMS had not released the 2027 standard Part B premium. Last year's figure came out November 14. The Medicare Trustees Report projects $209.50 a month, up $6.60 or about 3.25% from $202.90.",
+    "Social Security says beneficiaries can see their 2027 premium online in late November, and mailed notices arrive in December.",
+    "The 2027 cost-of-living raise is 3.6%, about $75 more a month on average. A 'hold harmless' rule keeps many people's net checks from shrinking when Part B rises."
+   ],
+   "money": [
+    "Part B is usually taken out of Social Security, so your January deposit = new benefit minus new premium.",
+    "Higher earners pay extra (IRMAA); check whether lower income in recent years can cut your bill.",
+    "Open enrollment ends Dec. 7: compare drug and Advantage plans before premiums change."
+   ],
+   "risk": [
+    "$209.50 is a projection; the final number could differ.",
+    "Income-based surcharges can be much higher."
+   ],
+   "sources": [
+    {
+     "t": "Did Medicare announce the 2027 Part B premium yet? What enrollees can expect",
+     "d": "yahoo.com",
+     "u": "https://yahoo.com/news/us/articles/did-medicare-announce-2027-part-182200054.html"
+    }
+   ]
+  },
+  {
+   "id": "hospice-freeze-extended-2026111709",
+   "type": "news",
+   "cat": "benefits",
+   "tags": [
+    "benefits"
+   ],
+   "date": "This week",
+   "ts": "2026-11-17T09:00:00Z",
+   "headline": "Medicare keeps new hospice and home health agencies out for 6 more months",
+   "caption": "CMS extended its nationwide freeze on new hospice and home health enrollments, citing fraud. Existing agencies keep serving patients and can now add locations.",
+   "visual": {
+    "type": "points",
+    "title": "What the freeze extension means",
+    "items": [
+     "No new Medicare hospice or home health agencies",
+     "Some majority ownership changes also blocked",
+     "Enrolled agencies may now add locations",
+     "Current patients' care is not affected",
+     "Oct. California sweep: 145 revocations, $703M+ tied"
+    ]
+   },
+   "detail": [
+    "CMS said it will keep its nationwide moratorium on new Medicare hospice and home health agencies for six more months. The first freeze began May 13. Federal Register notices were set for November 16.",
+    "New agencies still can't enroll, and certain majority ownership changes are blocked. One change: agencies already enrolled can now add practice locations under their current enrollment.",
+    "CMS chief Mehmet Oz said fraud in these areas persists. In October, a two-day sweep in California led to 145 provider revocations tied to more than $703 million in Medicare and Medicaid payments."
+   ],
+   "money": [
+    "Choosing an agency for a parent? Confirm it is already Medicare-enrolled and in your plan's network.",
+    "Check your Medicare statements for services you never got; report fraud to 1-800-MEDICARE.",
+    "Investors in home health companies may see less new competition."
+   ],
+   "risk": [
+    "Fewer new agencies could mean longer waits in some areas.",
+    "Rules may change again when the freeze ends."
+   ],
+   "sources": [
+    {
+     "t": "CMS extends nationwide freeze on new hospice, home health providers",
+     "d": "beckershospitalreview.com",
+     "u": "https://www.beckershospitalreview.com/uncategorized/cms-extends-nationwide-freeze-on-new-hospice-home-health-providers/"
+    }
+   ]
+  },
+  {
+   "id": "ct-snap-giftcards-2026111709",
+   "type": "news",
+   "cat": "states",
+   "tags": [
+    "states",
+    "benefits"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T09:00:00Z",
+   "headline": "Connecticut extends $300 grocery cards for ex-SNAP families to Dec. 31; few claimed",
+   "caption": "Connecticut gave people who lost SNAP more time to pick up a $300 grocery gift card. Only about 2,000 of 25,000 eligible residents had one by late October.",
+   "visual": {
+    "type": "stat",
+    "title": "Connecticut's $300 grocery cards",
+    "num": "8%",
+    "tone": "acc",
+    "label": "Share of eligible ex-SNAP residents who got a card by Oct. 27.",
+    "facts": [
+     [
+      "Card value",
+      "$300",
+      "per person"
+     ],
+     [
+      "Eligible",
+      "~25,000",
+      "former SNAP users"
+     ],
+     [
+      "New deadline",
+      "Dec. 31",
+      "was Nov. 30"
+     ]
+    ]
+   },
+   "detail": [
+    "Connecticut's Department of Social Services confirmed Monday it pushed the deadline for its $300 grocery gift cards from November 30 to December 31. The cards go to about 25,000 people who lost federal SNAP food aid.",
+    "Gov. Ned Lamont launched the $7.5 million program in June using state surplus money. As of October 27, only about 2,000 people had received a card.",
+    "Eligible residents can show ID at a local community action agency and get a card on the spot. The state plans another round of text messages."
+   ],
+   "money": [
+    "If you lost SNAP in Connecticut, claim your $300 card at a community action agency before Dec. 31.",
+    "Know someone who lost SNAP? Share this; most eligible people haven't claimed it.",
+    "Check if your state has similar one-time food help; programs vary."
+   ],
+   "risk": [
+    "Unclaimed cards after Dec. 31 may be lost.",
+    "Watch for scam texts; verify through the state or agency."
+   ],
+   "sources": [
+    {
+     "t": "CT extends deadline to get gift cards to ex-SNAP beneficiaries",
+     "d": "ctmirror.org",
+     "u": "https://ctmirror.org/2026/11/16/ct-extends-deadline-to-get-gift-cards-to-ex-snap-beneficiaries"
+    }
+   ]
+  },
+  {
+   "id": "homan-fy27-record-2026111709",
+   "type": "news",
+   "cat": "immigration",
+   "tags": [
+    "immigration",
+    "politics"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T09:00:00Z",
+   "headline": "Homan says ICE aims to top last year's record 483,200 deportations in 2027",
+   "caption": "Border czar Tom Homan said ICE plans to break its deportation record again in fiscal 2027. He said the agency still has a couple thousand agents to hire.",
+   "visual": {
+    "type": "board",
+    "title": "ICE by the numbers",
+    "rows": [
+     {
+      "k": "FY2026 deportations",
+      "v": "483,200",
+      "tone": "acc"
+     },
+     {
+      "k": "FY2027 goal",
+      "s": "per Homan",
+      "v": "New record"
+     },
+     {
+      "k": "Agents still to hire",
+      "s": "per Homan",
+      "v": "~2,000"
+     },
+     {
+      "k": "Habeas cases",
+      "s": "Homan's estimate",
+      "v": "~100,000"
+     }
+    ]
+   },
+   "detail": [
+    "In a Fox News interview Monday, border czar Tom Homan said ICE plans to set a new deportation record in fiscal 2027. DHS has reported 483,200 deportations in fiscal 2026.",
+    "Homan said ICE still has a couple thousand agents to hire. He said the agency faces more than 100 nationwide court orders and close to 100,000 habeas cases seeking release of detainees.",
+    "The comments came after Republican losses in the midterms. Critics point to court data showing many rulings against the administration's enforcement moves."
+   ],
+   "money": [
+    "Industries that rely on immigrant labor, like farming and construction, may face worker shortages and higher costs.",
+    "Employers should keep I-9 and work authorization records current.",
+    "Families affected should know legal aid options; many groups offer free help."
+   ],
+   "risk": [
+    "Court rulings could slow or change enforcement plans.",
+    "Hiring goals may not be met."
+   ],
+   "sources": [
+    {
+     "t": "Trump's Border Czar Insists ICE Will Arrest Even More People in 2027",
+     "d": "yahoo.com",
+     "u": "https://www.yahoo.com/news/politics/articles/trump-border-czar-insists-ice-224144698.html"
+    }
+   ]
+  },
+  {
+   "id": "eth-whales-2026111709",
+   "type": "news",
+   "cat": "crypto",
+   "tags": [
+    "crypto"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T09:00:00Z",
+   "headline": "Ether ticks up to about $1,833 as whales buy the dip and ETF outflows ease",
+   "caption": "Wallets tied to Erik Voorhees have bought about 82,277 ETH over several days. US ether ETFs lost $398.9M last week but saw a small inflow Friday.",
+   "visual": {
+    "type": "board",
+    "title": "Ether this week",
+    "rows": [
+     {
+      "k": "ETH price",
+      "v": "$1,833",
+      "ch": 1.0,
+      "tone": "gain"
+     },
+     {
+      "k": "Weekend low",
+      "v": "~$1,712"
+     },
+     {
+      "k": "Voorhees-linked buys",
+      "s": "avg ~$1,921",
+      "v": "82,277 ETH"
+     },
+     {
+      "k": "ETF flows Nov 9-13",
+      "v": "-$398.9M",
+      "tone": "loss"
+     },
+     {
+      "k": "ETF flow Nov 13",
+      "v": "+$2.3M",
+      "tone": "gain"
+     }
+    ],
+    "foot": "Per crypto.news, Onchain Lens, Farside"
+   },
+   "detail": [
+    "Ether rose more than 1% to about $1,833 on Tuesday, up from weekend lows near $1,712.",
+    "Wallets that Onchain Lens links to crypto pioneer Erik Voorhees bought 6,382 ETH in 12 hours and about 82,277 ETH over several days, paying about $158 million. Bitmine also added 7,653 ETH last week.",
+    "US spot ether ETFs saw $398.9 million in net withdrawals from November 9 to 13, led by BlackRock's fund. Friday brought a $2.3 million inflow, ending a six-day outflow streak."
+   ],
+   "money": [
+    "Big buyers are not a guarantee; only invest what you can afford to lose.",
+    "If you buy crypto, consider small regular buys instead of one big bet.",
+    "Track your cost basis now; crypto sales are taxable."
+   ],
+   "risk": [
+    "Crypto remains in a downtrend with heavy fund outflows.",
+    "Wallet ownership links are estimates."
+   ],
+   "sources": [
+    {
+     "t": "Ethereum price gains as whales buy the dip, but ETF withdrawals persist",
+     "d": "crypto.news",
+     "u": "https://crypto.news/ethereum-price-up-today-whale-buying-etf-outflows/"
+    }
+   ]
+  },
+  {
+   "id": "barclays-ib-cuts-2026111709",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business",
+    "ai"
+   ],
+   "date": "Starts Tue Nov 17",
+   "ts": "2026-11-17T09:00:00Z",
+   "headline": "Barclays starts cutting about 200 more investment bank jobs, on top of 5,000",
+   "caption": "Barclays is cutting about 200 more investment banking roles, mostly in New York and London. It's part of an AI-backed cost plan that already targets about 5,000 jobs.",
+   "visual": {
+    "type": "stat",
+    "title": "Barclays cost cuts",
+    "num": "~200",
+    "tone": "loss",
+    "label": "Extra investment bank jobs being cut, starting Tuesday.",
+    "facts": [
+     [
+      "Earlier plan",
+      "~5,000 jobs",
+      "announced Oct. 22"
+     ],
+     [
+      "Savings so far",
+      "~£700M",
+      "last 2 years"
+     ],
+     [
+      "2027 goal",
+      "£1.1B+",
+      "gross savings"
+     ]
+    ]
+   },
+   "detail": [
+    "Barclays plans about 200 more layoffs in its investment bank, according to Bloomberg sources. The round begins Tuesday and hits staff at several levels, mostly in New York and London.",
+    "The cuts add to roughly 5,000 job reductions the bank announced with third-quarter results on October 22. Barclays is leaning on technology such as AI to cut costs.",
+    "Finance chief Anna Gross said the bank saved close to £700 million a year over the last two years and expects more than £1.1 billion in gross savings in 2027."
+   ],
+   "money": [
+    "Finance workers: refresh your resume and network now; banks are trimming roles as AI spreads.",
+    "Bank cost cuts can lift profits and dividends for shareholders.",
+    "If laid off, check severance terms and roll your 401(k) carefully."
+   ],
+   "risk": [
+    "More cuts could follow in 2027.",
+    "Cost cuts don't guarantee higher earnings."
+   ],
+   "sources": [
+    {
+     "t": "Barclays eliminates an additional 200 jobs in investment banking",
+     "d": "democrata.es",
+     "u": "https://www.democrata.es/en/economy/barclays-eliminates-an-additional-200-jobs-in-investment-banking-on-top-of-the-5-000-already-announced/"
+    }
+   ]
+  },
+  {
+   "id": "xpeng-q3-2026111709",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets",
+    "business"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T09:00:00Z",
+   "headline": "XPeng's sales jump 19% to a record, but its loss more than doubles",
+   "caption": "Chinese EV maker XPeng delivered a record 118,390 cars last quarter. Revenue rose 19% while the net loss grew to about $130M and margins slipped.",
+   "visual": {
+    "type": "board",
+    "title": "XPeng Q3 2026",
+    "rows": [
+     {
+      "k": "Deliveries",
+      "s": "record",
+      "v": "118,390",
+      "ch": 2.1,
+      "tone": "gain"
+     },
+     {
+      "k": "Revenue",
+      "v": "$3.62B",
+      "ch": 19.1,
+      "tone": "gain"
+     },
+     {
+      "k": "Gross margin",
+      "s": "was 20.1%",
+      "v": "18.9%",
+      "tone": "loss"
+     },
+     {
+      "k": "Net loss",
+      "s": "was RMB0.38B",
+      "v": "$0.13B",
+      "tone": "loss"
+     },
+     {
+      "k": "Q4 deliveries guide",
+      "v": "169K-174K",
+      "tone": "gain"
+     }
+    ],
+    "foot": "Per XPeng's SEC filing"
+   },
+   "detail": [
+    "XPeng said Tuesday it delivered 118,390 vehicles in the third quarter, up 2.1% from a year earlier and a company record. Revenue rose 19.1% to about RMB24.3 billion, or $3.62 billion.",
+    "Profitability went the wrong way. Gross margin fell to 18.9% from 20.1%, and the net loss widened to RMB0.87 billion from RMB0.38 billion.",
+    "For the fourth quarter, XPeng expects 169,000 to 174,000 deliveries and revenue up about 37% to 43%. It targets more than 100,000 overseas sales this year."
+   ],
+   "money": [
+    "Growth stocks can rise on sales but fall on losses; read both lines before you buy.",
+    "EV price wars help car buyers; compare deals before purchasing.",
+    "Want China exposure? A broad fund spreads risk better than one stock."
+   ],
+   "risk": [
+    "Price wars in China keep squeezing margins.",
+    "Trade rules can limit overseas sales."
+   ],
+   "sources": [
+    {
+     "t": "XPENG Inc. Form 6-K (Q3 2026 results)",
+     "d": "sec.gov",
+     "u": "https://www.sec.gov/Archives/edgar/data/0001810997/000119312526461897/d182197dex991.htm"
+    },
+    {
+     "t": "XPENG Reports Q3 2026 Results",
+     "d": "manilatimes.net",
+     "u": "https://www.manilatimes.net/2026/11/17/tmt-newswire/globenewswire/xpeng-reports-q3-2026-results-both-deliveries-and-revenue-reach-record-highs-overseas-market-2026-full-year-sales-target-exceeds-100000-units/2471502"
+    }
+   ]
+  },
+  {
+   "id": "edu-part-b-hold-harmless-2026111709",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "benefits"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-17T09:00:00Z",
+   "headline": "Part B and your Social Security check: how 'hold harmless' works",
+   "caption": "Medicare Part B usually comes out of your Social Security. Here's how the raise and premium combine in January.",
+   "scenes": [
+    {
+     "k": "Today's news",
+     "t": "2027 Part B premium is coming",
+     "s": "Trustees project $209.50 a month, up from $202.90."
+    },
+    {
+     "k": "Where it's paid",
+     "t": "Taken right out of your check",
+     "s": "Most retirees never write a Part B check; Social Security deducts it."
+    },
+    {
+     "k": "The math",
+     "t": "New benefit minus new premium",
+     "viz": {
+      "type": "split",
+      "items": [
+       [
+        "COLA raise",
+        "+3.6%"
+       ],
+       [
+        "Part B change",
+        "+$6.60 proj."
+       ],
+       [
+        "Your deposit",
+        "benefit minus premium",
+        "wide"
+       ]
+      ]
+     },
+     "say": "Your raise is 3.6 percent. Part B is projected up 6 dollars 60. Your deposit is the new benefit minus the new premium."
+    },
+    {
+     "k": "Hold harmless",
+     "t": "Your net check can't shrink",
+     "s": "For many, the Part B increase can't be bigger than the dollar raise."
+    },
+    {
+     "k": "Who's not covered",
+     "t": "High earners and new enrollees",
+     "s": "People paying income surcharges or new to Medicare can see bigger hits."
+    },
+    {
+     "k": "Takeaway",
+     "t": "Check your notice in December",
+     "s": "Plan your 2027 budget on the net deposit, not the raise."
+    }
+   ]
+  },
+  {
+   "id": "edu-unemployment-rate-2026111709",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "world"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-17T09:00:00Z",
+   "headline": "The unemployment rate: what it does and doesn't tell you",
+   "caption": "The UK rate fell to 4.6% even as payrolls dropped. Here's why both can happen.",
+   "scenes": [
+    {
+     "k": "Today's news",
+     "t": "UK jobless rate falls to 4.6%",
+     "s": "But payrolls and job openings fell at the same time."
+    },
+    {
+     "k": "The formula",
+     "t": "Jobless ÷ people in the labor force",
+     "s": "Only people looking for work count as unemployed."
+    },
+    {
+     "k": "Two sources",
+     "t": "Surveys vs. payroll records",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "Household survey: jobless rate",
+       "Payroll data: jobs on the books",
+       "They can disagree"
+      ]
+     },
+     "say": "A household survey gives the jobless rate. Payroll data counts jobs on the books. The two can disagree."
+    },
+    {
+     "k": "Why they split",
+     "t": "Survey samples can shift",
+     "s": "Officials said sample changes helped push the UK rate down."
+    },
+    {
+     "k": "Look deeper",
+     "t": "Watch openings and pay too",
+     "s": "Falling vacancies and slower wages hint at a cooling market."
+    },
+    {
+     "k": "Takeaway",
+     "t": "One number never tells all",
+     "s": "Check several job signals before reacting with your money."
+    }
+   ]
+  },
   {
    "id": "hertz-caa1-2026111708",
    "type": "news",
@@ -11118,828 +11941,6 @@
      "u": "https://gazette.com/2026/11/16/us-supreme-court-to-weigh-asylum-restrictions-at-southern-border/"
     }
    ]
-  },
-  {
-   "id": "federal-film-credit-2026111620",
-   "type": "news",
-   "cat": "taxes",
-   "tags": [
-    "taxes",
-    "politics",
-    "california"
-   ],
-   "date": "This week",
-   "ts": "2026-11-16T20:00:00Z",
-   "headline": "First federal film tax credit gets Trump's support, but lame-duck odds look low",
-   "caption": "A bipartisan bill would create a national incentive for film and TV shoots. Backers eye the Dec. 11 spending bill, or January if that fails.",
-   "visual": {
-    "type": "timeline",
-    "title": "Federal film credit path",
-    "items": [
-     {
-      "d": "NOV 13",
-      "t": "Trump backs the credit"
-     },
-     {
-      "d": "DEC 11",
-      "t": "Spending deadline",
-      "s": "likely vehicle",
-      "now": true
-     },
-     {
-      "d": "JAN 2027",
-      "t": "New Congress",
-      "s": "Plan B"
-     }
-    ]
-   },
-   "detail": [
-    "The Motion Picture, Television and Entertainment Revitalization Act would create the first US federal film tax incentive. Co-sponsors include Sen. Adam Schiff and Rep. Laura Friedman of California.",
-    "President Trump said Friday he supports it. But Rep. Don Beyer called the odds of any tax bill passing in the lame duck 'pretty low.'",
-    "Supporters hope to attach it to the government spending bill due Dec. 11. If not, they say it could pass in January when Democrats hold bigger majorities."
-   ],
-   "money": [
-    "Film workers and vendors could see more US shoots if a credit passes.",
-    "California production businesses should track both this and state credits.",
-    "Investors in studios can watch how a credit changes production costs."
-   ],
-   "risk": [
-    "The bill may stall; productions planning 2027 shoots face uncertainty."
-   ],
-   "sources": [
-    {
-     "t": "Lawmakers Scramble to Pass US Film Tax Credit After Midterms",
-     "d": "thewrap.com",
-     "u": "https://thewrap.com/industry-news/business/us-federal-tax-credit-american-film-market"
-    }
-   ]
-  },
-  {
-   "id": "liheap-opens-2026111620",
-   "type": "news",
-   "cat": "benefits",
-   "tags": [
-    "benefits",
-    "states"
-   ],
-   "date": "This week",
-   "ts": "2026-11-16T20:00:00Z",
-   "headline": "Heating bill help is open: Pennsylvania offers up to $1,000; Memphis portal opened today",
-   "caption": "LIHEAP grants help low-income households pay heating bills this winter. Pennsylvania's window runs to April 23, and Shelby County, Tenn., opened online Monday.",
-   "visual": {
-    "type": "board",
-    "title": "Pennsylvania LIHEAP 2026-27",
-    "rows": [
-     {
-      "k": "Cash grant",
-      "v": "$200-$1,000"
-     },
-     {
-      "k": "Crisis grant",
-      "s": "shutoff or low fuel",
-      "v": "up to $1,000"
-     },
-     {
-      "k": "Income limit, 1 person",
-      "v": "$23,940"
-     },
-     {
-      "k": "Income limit, family of 4",
-      "v": "$49,500"
-     },
-     {
-      "k": "Deadline",
-      "v": "Apr 23, 2027",
-      "tone": "acc"
-     }
-    ],
-    "foot": "Shutoff moratorium Dec 1 - Mar 31 (doesn't erase bills)."
-   },
-   "detail": [
-    "Pennsylvania's LIHEAP program is taking applications through April 23, 2027. Cash grants run $200 to $1,000, and crisis grants up to $1,000 help if you face a shutoff or are low on fuel.",
-    "The income limit is 150% of the poverty line: $23,940 for one person or $49,500 for a family of four. Apply online through COMPASS or call 1-866-857-7095.",
-    "In Shelby County, Tennessee, the LIHEAP portal opened Monday, Nov. 16, online only, on Mondays and Wednesdays from 9 a.m. to noon."
-   ],
-   "money": [
-    "Apply early; many programs run out of money before winter ends.",
-    "Ask your utility about reduced-bill or debt-forgiveness programs when you apply.",
-    "Check your own state's LIHEAP office; every state runs a version."
-   ],
-   "risk": [
-    "Winter shutoff bans pause disconnections but unpaid bills still come due."
-   ],
-   "sources": [
-    {
-     "t": "Low-Income Home Energy Assistance Program applications open",
-     "d": "altoonamirror.com",
-     "u": "https://www.altoonamirror.com/news/local-news/2026/11/pa-liheap-energyassistance-applications-open/"
-    },
-    {
-     "t": "Shelby County utility assistance program applications open Monday",
-     "d": "fox13memphis.com",
-     "u": "https://www.fox13memphis.com/news/shelby-county-utility-assistance-program-applications-open-monday-for-eligible-residents/article_5b09723c-54e8-488c-8a3c-7231e74a388f.html"
-    }
-   ]
-  },
-  {
-   "id": "ca-utility-rate-fights-2026111620",
-   "type": "news",
-   "cat": "california",
-   "tags": [
-    "california",
-    "business"
-   ],
-   "date": "This week",
-   "ts": "2026-11-16T20:00:00Z",
-   "headline": "California power bills: Pacific Power seeks a 57% hike; PG&E vote set for Thursday",
-   "caption": "A far-north utility wants residential rates up about 57% to cover wildfire and insurance costs. Regulators vote Nov. 19 on $456M in interim money for PG&E.",
-   "visual": {
-    "type": "board",
-    "title": "Rate requests before the CPUC",
-    "rows": [
-     {
-      "k": "Pacific Power hike",
-      "s": "~46,000 customers",
-      "v": "+57%",
-      "tone": "loss"
-     },
-     {
-      "k": "Extra revenue sought",
-      "v": "$103.4M"
-     },
-     {
-      "k": "Requested start",
-      "v": "Jan 1, 2027"
-     },
-     {
-      "k": "PG&E interim recovery",
-      "s": "vote Nov 19",
-      "v": "$456M",
-      "tone": "acc"
-     }
-    ]
-   },
-   "detail": [
-    "Pacific Power filed Nov. 6 to raise rates about 57%, or roughly $103.4 million, for about 46,000 customers in Siskiyou, Del Norte, Modoc and Shasta counties. A 14% cut on Jan. 1 would partly offset it.",
-    "It cites about $93.8 million in unrecovered wildfire prevention costs and $11.1 million in insurance premiums, to be recovered over six years.",
-    "Separately, consumer groups want regulators to drop a proposed $456 million interim recovery for PG&E. The CPUC vote is set for Thursday."
-   ],
-   "money": [
-    "Check if you qualify for CARE or FERA discounts, which cut California utility bills.",
-    "Public comment periods let customers weigh in before rate decisions.",
-    "Shifting heavy use to off-peak hours can trim bills on time-of-use plans."
-   ],
-   "risk": [
-    "The CPUC may approve less than requested; review could take months."
-   ],
-   "sources": [
-    {
-     "t": "Rural California Utility Asks To Raise Power Rates By More Than Half",
-     "d": "dailycaller.com",
-     "u": "https://dailycaller.com/2026/11/15/pacific-power-57-percent-rate-hike-wildfire-costs-gavin-newsom/"
-    },
-    {
-     "t": "Consumer Watchdog Calls on CPUC Commissioner Baker to Withdraw Approval of $456 Million PG&E Rate Hike",
-     "d": "prnewswire.com",
-     "u": "https://www.prnewswire.com/news-releases/consumer-watchdog-every-fire-survivors-network-call-on-cpuc-commissioner-baker-to-withdraw-approval-of-456-million-pge-rate-hike-amid-2-billion-in-spending-302933916.html"
-    }
-   ]
-  },
-  {
-   "id": "colorado-deficit-2026111620",
-   "type": "news",
-   "cat": "states",
-   "tags": [
-    "states",
-    "benefits"
-   ],
-   "date": "Thu Nov 12",
-   "ts": "2026-11-16T20:00:00Z",
-   "headline": "Colorado faces a $1.6B gap for a third year; Polis says 'no money left'",
-   "caption": "Rising Medicaid costs are the main driver. Gov. Polis wants to slow Medicaid growth and nearly double the state's reserve.",
-   "visual": {
-    "type": "board",
-    "title": "Colorado's 2027-28 budget plan",
-    "rows": [
-     {
-      "k": "Shortfall",
-      "v": "~$1.6B",
-      "tone": "loss"
-     },
-     {
-      "k": "Total budget",
-      "s": "+$579M",
-      "v": "$51.2B"
-     },
-     {
-      "k": "General fund",
-      "s": "+$479M",
-      "v": "$18.9B"
-     },
-     {
-      "k": "Reserve target",
-      "s": "from 7.25%",
-      "v": "13.05%",
-      "tone": "acc"
-     }
-    ],
-    "foot": "Updated plan due Jan. 2, 2027."
-   },
-   "detail": [
-    "Gov. Jared Polis presented his final budget Nov. 12 to the Joint Budget Committee, facing a nearly $1.6 billion shortfall, the third year in a row above $1 billion.",
-    "Medicaid costs are growing faster than the budget. He proposes a $51.2 billion budget and raising the reserve to 13.05% from 7.25%.",
-    "No TABOR refund is expected for fiscal 2026. An updated plan is due Jan. 2, and Governor-elect Phil Weiser's team will shape the final deal."
-   ],
-   "money": [
-    "Coloradans shouldn't count on a TABOR refund this cycle when budgeting.",
-    "Medicaid enrollees should watch for benefit or eligibility changes as the state cuts costs.",
-    "Contractors and nonprofits paid by the state may face delays; plan cash flow."
-   ],
-   "risk": [
-    "Specific cuts have not been named yet."
-   ],
-   "sources": [
-    {
-     "t": "'No money left': Colorado faces $1.6 billion budget deficit",
-     "d": "coloradopolitics.com",
-     "u": "https://www.coloradopolitics.com/2026/11/13/no-money-left-colorado-faces-1-6-billion-budget-deficit/"
-    }
-   ]
-  },
-  {
-   "id": "week-ahead-macro-2026111620",
-   "type": "news",
-   "cat": "markets",
-   "tags": [
-    "markets"
-   ],
-   "date": "This week",
-   "ts": "2026-11-16T20:00:00Z",
-   "headline": "Big week: retail sales Tue, Fed minutes Wed, Walmart Thu; options see 8.6% Nvidia swing",
-   "caption": "Traders price a December rate hike at 100%. Options imply Nvidia could move about 8.6% either way after its report Tuesday.",
-   "visual": {
-    "type": "timeline",
-    "title": "Market calendar",
-    "items": [
-     {
-      "d": "TUE 17",
-      "t": "Retail sales, Nvidia, Home Depot",
-      "s": "sales est. +0.2%"
-     },
-     {
-      "d": "WED 18",
-      "t": "Fed minutes, housing starts, Lowe's"
-     },
-     {
-      "d": "THU 19",
-      "t": "Jobless claims, Walmart, Intuit",
-      "s": "claims est. 200K"
-     },
-     {
-      "d": "FRI 20",
-      "t": "Consumer sentiment final",
-      "s": "prelim 51"
-     }
-    ]
-   },
-   "detail": [
-    "October retail sales are expected up 0.2% on Tuesday, alongside industrial production and the homebuilder index. Nvidia and Home Depot report the same day.",
-    "Wednesday brings housing starts and minutes from the Fed's Oct. 27-28 meeting. Walmart and jobless claims come Thursday.",
-    "Option prices imply an 8.63% Nvidia move either way. Nvidia fell 12.75% last week. Fed funds futures show 100% odds of a December hike."
-   ],
-   "money": [
-    "A rate hike would lift savings and CD yields; shop for the best rates now.",
-    "Avoid new variable-rate debt if hikes are coming.",
-    "Big event weeks can swing prices; don't make rushed trades on headlines."
-   ],
-   "risk": [
-    "Data surprises could move markets sharply either way."
-   ],
-   "sources": [
-    {
-     "t": "Weekly Playbook: Nvidia Reports Into an 8.63% Implied Move",
-     "d": "avaloncapitalresearch.substack.com",
-     "u": "https://avaloncapitalresearch.substack.com/p/weekly-playbook-nvidia-reports-into"
-    }
-   ]
-  },
-  {
-   "id": "ukraine-uae-talks-2026111620",
-   "type": "news",
-   "cat": "world",
-   "tags": [
-    "world"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T20:00:00Z",
-   "headline": "New: US-mediated talks in UAE yield a prisoner swap, but no path to end the war",
-   "caption": "Two days of Russia-Ukraine talks produced a prisoner exchange deal. The EU sent Kyiv $1.88B more for drones and air defense.",
-   "visual": {
-    "type": "points",
-    "title": "Monday's war update",
-    "items": [
-     "UAE talks: prisoner swap agreed, no breakthrough",
-     "EU sends Kyiv $1.88B from a $99B loan",
-     "Russian attacks kill at least 3 in Ukraine",
-     "EU's Kallas: ceasefire must come first"
-    ]
-   },
-   "detail": [
-    "Two days of talks in the United Arab Emirates, mediated by the US, ended with an agreement to exchange prisoners but no breakthrough toward ending the war.",
-    "Kyiv received $1.88 billion from the European Commission for drones, ammunition and air defense, part of a $99 billion loan approved in February.",
-    "EU foreign policy chief Kaja Kallas said Russia's demands are a pretext to keep fighting. Russian attacks killed at least three people in Ukraine Monday."
-   ],
-   "money": [
-    "No deal means war risk stays priced into oil and gas; budget for higher heating costs.",
-    "Defense stocks often benefit from continued European spending.",
-    "Avoid betting your portfolio on a peace deal headline."
-   ],
-   "risk": [
-    "Talks could resume or collapse quickly."
-   ],
-   "sources": [
-    {
-     "t": "Russian attacks kill three in Ukraine, EU accuses Moscow of prolonging war",
-     "d": "aljazeera.com",
-     "u": "https://www.aljazeera.com/news/2026/11/16/russian-attacks-kill-three-in-ukraine-eu-accuses-moscow-of-prolonging-war"
-    }
-   ]
-  },
-  {
-   "id": "edu-index-deletion-2026111620",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "crypto",
-    "markets"
-   ],
-   "date": "Explainer",
-   "ts": "2026-11-16T20:00:00Z",
-   "headline": "Kicked out of an index: why it can sink a stock",
-   "caption": "Strategy leaves MSCI's US index on Nov. 30. Here's why index changes force selling, and what it means for you.",
-   "scenes": [
-    {
-     "k": "Today's news",
-     "t": "Strategy is leaving the MSCI USA Index",
-     "s": "The change takes effect at the close on Nov. 30."
-    },
-    {
-     "k": "What an index is",
-     "t": "A list of stocks funds copy",
-     "s": "Index funds must hold exactly what's on the list."
-    },
-    {
-     "k": "The chain",
-     "t": "Removed means forced selling",
-     "viz": {
-      "type": "flow",
-      "items": [
-       "Index drops stock",
-       "Funds must sell",
-       "More sellers than buyers",
-       "Price pressure"
-      ]
-     }
-    },
-    {
-     "k": "Timing",
-     "t": "Moves often come early",
-     "s": "Traders sell ahead of the date, so the drop can happen before it."
-    },
-    {
-     "k": "For you",
-     "t": "Your index fund barely feels it",
-     "s": "One stock is a tiny slice of a broad fund."
-    },
-    {
-     "k": "Takeaway",
-     "t": "Know why a stock is falling",
-     "s": "Forced selling isn't the same as bad business news."
-    }
-   ]
-  },
-  {
-   "id": "edu-implied-move-2026111620",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "markets",
-    "ai"
-   ],
-   "date": "Explainer",
-   "ts": "2026-11-16T20:00:00Z",
-   "headline": "Implied move: how options guess Nvidia's earnings swing",
-   "caption": "Options imply Nvidia could move about 8.6% after Tuesday's report. Here's what that number means.",
-   "scenes": [
-    {
-     "k": "Today's news",
-     "t": "Options price an 8.6% Nvidia move",
-     "s": "Nvidia reports Tuesday after the close."
-    },
-    {
-     "k": "What it is",
-     "t": "The market's expected swing",
-     "s": "It's based on what traders pay for options."
-    },
-    {
-     "k": "Either way",
-     "t": "Up or down, not a direction",
-     "viz": {
-      "type": "split",
-      "items": [
-       [
-        "Up case",
-        "+8.6%"
-       ],
-       [
-        "Down case",
-        "-8.6%"
-       ],
-       [
-        "Direction",
-        "Unknown",
-        "wide"
-       ]
-      ]
-     },
-     "say": "An 8.6 percent implied move means traders expect a swing of about that size, up or down."
-    },
-    {
-     "k": "Pricey options",
-     "t": "Big expected moves cost more",
-     "s": "Options get expensive before big events, then cheapen after."
-    },
-    {
-     "k": "For you",
-     "t": "Expect bumps in tech funds",
-     "s": "Nvidia is a big part of many index funds."
-    },
-    {
-     "k": "Takeaway",
-     "t": "Don't trade on a guess",
-     "s": "Long-term investors can ride out one-day swings."
-    }
-   ]
-  },
-  {
-   "id": "nvidia-board-no-huang-2026111619",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "markets"
-   ],
-   "date": "Mon Nov 16",
-   "headline": "New: Nvidia's board is not considering bringing Huang back; stock falls 4.5%",
-   "caption": "A source told CNBC the board isn't weighing a Jensen Huang return while a national security probe continues. Nvidia hit session lows a day before earnings.",
-   "visual": {
-    "type": "stat",
-    "title": "Nvidia, Monday afternoon",
-    "num": "-4.5%",
-    "tone": "loss",
-    "label": "Shares hit session lows after the CNBC report.",
-    "facts": [
-     [
-      "Price",
-      "$155.54",
-      "as of 1:18 p.m. ET"
-     ],
-     [
-      "Earnings",
-      "Tue",
-      "after the close"
-     ],
-     [
-      "Interim CEO",
-      "Colette Kress",
-      "since Huang left"
-     ]
-    ]
-   },
-   "detail": [
-    "Earlier Monday, President Trump said Huang returning as CEO would not be a bad idea. A few hours later, CNBC reported that Nvidia's board is not considering it.",
-    "The source said Huang is focused on a national security investigation. Nvidia shares fell to their low of the day, down about 4.5% at $155.54 in early afternoon trading.",
-    "This is new since this morning's reports of a possible comeback. Nvidia reports third-quarter results Tuesday, with interim CEO Colette Kress expected to speak to investors."
-   ],
-   "money": [
-    "Leadership news can swing a stock more than results. Avoid big bets right before earnings if a drop would hurt you.",
-    "If you own an S&P 500 or Nasdaq fund, you hold Nvidia already. Check how much of your money rides on it.",
-    "Set a price where you would trim or add before Tuesday's report, so emotion doesn't decide for you."
-   ],
-   "risk": [
-    "The situation is fluid; the board's stance could change as the probe develops.",
-    "Earnings-day moves in Nvidia can be large in either direction."
-   ],
-   "sources": [
-    {
-     "t": "Nvidia board is not considering bringing Jensen Huang back as CEO, source tells CNBC",
-     "d": "cnbc.com",
-     "u": "https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html"
-    },
-    {
-     "t": "Stock market today: Dow, S&P 500, Nasdaq drop ahead of pivotal week for AI",
-     "d": "finance.yahoo.com",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html"
-    }
-   ],
-   "ts": "2026-11-16T19:00:00Z"
-  },
-  {
-   "id": "bofa-ipos-pushed-2027-2026111619",
-   "type": "news",
-   "cat": "markets",
-   "tags": [
-    "markets",
-    "ai",
-    "business"
-   ],
-   "date": "Mon Nov 16",
-   "headline": "BofA CEO: Anthropic's IPO is pushing some smaller listings, like biotech, into 2027",
-   "caption": "Brian Moynihan says other companies want the market to settle after Anthropic's huge debut. Evercore estimates BofA earns about $9M in fees on the deal.",
-   "visual": {
-    "type": "points",
-    "title": "IPO traffic jam",
-    "items": [
-     "Anthropic is set to list this week",
-     "Some smaller IPOs, incl. biotech, slide to 2027",
-     "BofA's estimated fee: about $9M (Evercore ISI)",
-     "Moynihan: let the market settle first"
-    ]
-   },
-   "detail": [
-    "Bank of America CEO Brian Moynihan said Monday that Anthropic's IPO is leading some smaller companies to wait until 2027 to go public. He named biotech as one area affected.",
-    "His point: issuers want the market to absorb this one major deal before they try their own. Evercore ISI estimates Bank of America will earn about $9 million underwriting Anthropic's offering.",
-    "Fewer listings late in the year means fewer new stocks for investors to choose from until 2027."
-   ],
-   "money": [
-    "If you were waiting on a specific IPO, check its filing status; it may now be a 2027 event.",
-    "Big IPOs can pull cash out of other stocks for a few days. Don't panic-sell on that noise.",
-    "IPO shares often swing hard early. Consider waiting a few weeks before buying any new listing."
-   ],
-   "risk": [
-    "IPO timing depends on market mood and can change quickly."
-   ],
-   "sources": [
-    {
-     "t": "Stock market today: Dow, S&P 500, Nasdaq drop ahead of pivotal week for AI",
-     "d": "finance.yahoo.com",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html"
-    }
-   ],
-   "ts": "2026-11-16T19:00:00Z"
-  },
-  {
-   "id": "summit-fda-rejects-2026111619",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business",
-    "markets"
-   ],
-   "date": "Mon Nov 16",
-   "headline": "Summit Therapeutics falls about 13% after the FDA rejects its lung cancer drug filing",
-   "caption": "The FDA turned down ivonescimab for a type of previously treated lung cancer. Shares dropped nearly 20% after hours Sunday and were still down sharply Monday.",
-   "visual": {
-    "type": "board",
-    "title": "Summit (SMMT)",
-    "rows": [
-     {
-      "k": "After hours Sun.",
-      "v": "~-20%",
-      "ch": -20.0,
-      "tone": "loss"
-     },
-     {
-      "k": "Monday morning",
-      "v": "-13.4%",
-      "ch": -13.4,
-      "tone": "loss"
-     },
-     {
-      "k": "Drug",
-      "s": "ivonescimab",
-      "v": "Not approved",
-      "tone": "loss"
-     }
-    ],
-    "foot": "For EGFR-mutated non-small cell lung cancer"
-   },
-   "detail": [
-    "Summit Therapeutics said the FDA could not approve its application for ivonescimab in previously treated, EGFR-mutated non-small cell lung cancer.",
-    "Shares fell nearly 20% in extended trading Sunday night. By Monday morning, the stock was down about 13.4%.",
-    "FDA decisions are a big, all-or-nothing event for drug makers, especially when one product drives most of a company's value."
-   ],
-   "money": [
-    "Single-drug biotech stocks can lose a big chunk in one night. Keep any one of them a small slice of your portfolio.",
-    "Biotech funds spread this risk across many companies.",
-    "Check FDA decision dates before buying a drug stock, so you know when the big event is."
-   ],
-   "risk": [
-    "Summit may still pursue other paths for the drug; the stock could swing on any update."
-   ],
-   "sources": [
-    {
-     "t": "Dow, S&P 500, Nasdaq Futures Edge Lower As Markets Brace For Nvidia Earnings, Anthropic IPO, Fed Minutes",
-     "d": "finance.yahoo.com",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/dow-p-500-nasdaq-futures-020421221.html"
-    },
-    {
-     "t": "Wall Street Falls as Nvidia Leadership Uncertainty Weighs on AI Stocks",
-     "d": "newslooks.com",
-     "u": "https://www.newslooks.com/wall-street-falls-as-nvidia-leadership-uncertainty-weighs-on-ai-stocks/"
-    }
-   ],
-   "ts": "2026-11-16T19:00:00Z"
-  },
-  {
-   "id": "crypto-liquidations-funding-2026111619",
-   "type": "news",
-   "cat": "crypto",
-   "tags": [
-    "crypto",
-    "markets"
-   ],
-   "date": "Mon Nov 16",
-   "headline": "Weekend crypto wipeout: $1.96B in bets liquidated; bitcoin funding turns negative",
-   "caption": "Forced selling hit leveraged traders as bitcoin sank near $62,000. Funding rates flipped negative for the first time since March, a sign traders now lean bearish.",
-   "visual": {
-    "type": "board",
-    "title": "Crypto stress gauges",
-    "rows": [
-     {
-      "k": "Weekend liquidations",
-      "v": "$1.96B",
-      "tone": "loss"
-     },
-     {
-      "k": "BTC longs wiped",
-      "v": "~$600M",
-      "tone": "loss"
-     },
-     {
-      "k": "Spot BTC ETF outflows",
-      "s": "7 sessions to Nov. 13",
-      "v": "$1.91B",
-      "tone": "loss"
-     },
-     {
-      "k": "Bitcoin now",
-      "v": "~$64,800",
-      "tone": "acc"
-     }
-    ],
-    "foot": "Coin-margined open interest fell from $1.55B to $1.1B (CryptoQuant)"
-   },
-   "detail": [
-    "About $1.96 billion of leveraged crypto positions were forcibly closed over the weekend, including roughly $600 million in bitcoin bets on rising prices.",
-    "CryptoQuant said funding rates on bitcoin futures turned negative for the first time since March. That means traders betting on a drop are now paying to hold those bets. Bitcoin was back near $64,800 Monday after a low near $62,000.",
-    "Crypto stocks fell too. Coinbase, Circle and Strategy were down 7% to 8% in early trading, per Yahoo Finance."
-   ],
-   "money": [
-    "Avoid borrowed money in crypto. Liquidations sell you out at the worst price, automatically.",
-    "If you buy, use small, regular amounts instead of one big buy during a crash.",
-    "Crypto stocks often move more than bitcoin itself. Size them like the high-risk bets they are."
-   ],
-   "risk": [
-    "Analysts flag $60,000 and the summer low near $59,000 as levels that could break.",
-    "Negative funding can also set up sharp short squeezes upward."
-   ],
-   "sources": [
-    {
-     "t": "Bitcoin price prediction this week: Will BTC crash to $60K or reclaim $70K?",
-     "d": "crypto.news",
-     "u": "https://crypto.news/bitcoin-price-prediction-btc-62k-rebound/"
-    },
-    {
-     "t": "Stock market today: Dow, S&P 500, Nasdaq drop ahead of pivotal week for AI",
-     "d": "finance.yahoo.com",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html"
-    }
-   ],
-   "ts": "2026-11-16T19:00:00Z"
-  },
-  {
-   "id": "florida-towns-budget-holes-2026111619",
-   "type": "news",
-   "cat": "states",
-   "tags": [
-    "states",
-    "taxes"
-   ],
-   "date": "Mon Nov 16",
-   "headline": "Florida's property tax cut leaves towns facing budget holes and new fees",
-   "caption": "Amendment 3 could cost local governments $4.9 billion in year one. Cities like Sanford are weighing cuts and new fire fees to fill the gap.",
-   "visual": {
-    "type": "board",
-    "title": "Amendment 3 fallout",
-    "rows": [
-     {
-      "k": "Local revenue lost",
-      "s": "first year",
-      "v": "$4.9B",
-      "tone": "loss"
-     },
-     {
-      "k": "Over 5 years",
-      "v": "$45.8B",
-      "tone": "loss"
-     },
-     {
-      "k": "Sanford",
-      "s": "over 2 years",
-      "v": "-$15M",
-      "tone": "loss"
-     },
-     {
-      "k": "Oakland",
-      "s": "fiscal 2028",
-      "v": "-$820K",
-      "tone": "loss"
-     }
-    ],
-    "foot": "Estimates: Florida TaxWatch and city officials"
-   },
-   "detail": [
-    "Florida voters approved Amendment 3, which raises the homestead exemption on non-school property taxes to $150,000 in 2027 and $250,000 in 2028. That cuts bills for eligible homeowners.",
-    "The other side: Florida TaxWatch estimates local governments lose $4.9 billion in the first year. Sanford expects a $15 million hole over two years, about 18% of its budget, and has floated a fire fee on property owners. Oakland plans a December vote on new fire and stormwater assessments.",
-    "A former state senator warned the state could raise sales taxes to help local governments. North Carolina voters also approved a cap on local property tax increases."
-   ],
-   "money": [
-    "Florida homeowners: confirm your homestead exemption is filed so you get the bigger cut.",
-    "Watch your city's agenda for new fees; they can eat into your tax savings, and renters and businesses may pay them too.",
-    "If you're comparing places to live, look at total local costs, not just the property tax rate."
-   ],
-   "risk": [
-    "New fees and service cuts are still being debated and could change.",
-    "A statewide sales tax increase is a prediction, not a plan."
-   ],
-   "sources": [
-    {
-     "t": "Florida voters push for lower property taxes may force local governments to rely more on the state",
-     "d": "fortune.com",
-     "u": "https://fortune.com/2026/11/16/florida-property-tax-cuts-amendment-3-towns-budget-holes-fee-revenue-state-bailout/"
-    }
-   ],
-   "ts": "2026-11-16T19:00:00Z"
-  },
-  {
-   "id": "oil-slides-3pct-2026111619",
-   "type": "news",
-   "cat": "world",
-   "tags": [
-    "world",
-    "markets"
-   ],
-   "date": "Mon Nov 16",
-   "headline": "Oil slides about 3%: US crude falls under $86 despite Gulf tanker attacks",
-   "caption": "December WTI fell about $2.65 to near $85.91 by early afternoon. The IEA said this week global supply now tops demand for the first time since the war began.",
-   "visual": {
-    "type": "stat",
-    "title": "US crude (Dec WTI)",
-    "num": "-3.0%",
-    "tone": "loss",
-    "label": "Oil fell even as Iran-related tensions stayed high.",
-    "facts": [
-     [
-      "WTI",
-      "$85.91",
-      "about 1:18 p.m. ET"
-     ],
-     [
-      "Brent",
-      "under $96",
-      "earlier Monday"
-     ],
-     [
-      "IEA",
-      "Supply > demand",
-      "first time since war began"
-     ]
-    ]
-   },
-   "detail": [
-    "US crude for December delivery fell about 3% to roughly $85.91 a barrel by early afternoon Monday, based on Yahoo Finance data. Brent was already below $96 earlier in the day.",
-    "Prices dropped even with reports of Iranian attacks in the Gulf region. The International Energy Agency said global oil supply has exceeded demand for the first time since the war began.",
-    "Lower crude can feed through to gas and heating oil prices over the following weeks."
-   ],
-   "money": [
-    "Falling crude can mean cheaper gas soon. Don't overpay to lock in a heating oil price at today's peak worries.",
-    "Energy stocks can drop when oil does; check how much of your portfolio sits in that sector.",
-    "If you drive a lot, a gas rewards card or warehouse club fuel can add to the savings."
-   ],
-   "risk": [
-    "Any new strike on Gulf shipping could send prices back up fast."
-   ],
-   "sources": [
-    {
-     "t": "Stock market today: Dow, S&P 500, Nasdaq drop ahead of pivotal week for AI",
-     "d": "finance.yahoo.com",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html"
-    }
-   ],
-   "ts": "2026-11-16T19:00:00Z"
   }
  ]
 }
