@@ -1,6 +1,856 @@
 {
- "updated": "2026-11-17T07:00:00Z",
+ "updated": "2026-11-17T08:00:00Z",
  "items": [
+  {
+   "id": "hertz-caa1-2026111708",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business",
+    "markets"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T08:00:00Z",
+   "headline": "Moody's cuts Hertz deeper into junk at Caa1 as 2028 debt walls loom",
+   "caption": "Moody's dropped Hertz two notches, from B2 to Caa1, with a negative outlook. About $3.7B of credit lines and loans come due in 2028.",
+   "visual": {
+    "type": "board",
+    "title": "Hertz by the numbers",
+    "rows": [
+     {
+      "k": "Moody's rating",
+      "s": "was B2",
+      "v": "Caa1",
+      "tone": "loss"
+     },
+     {
+      "k": "Cash (Sep 30)",
+      "v": "$531M"
+     },
+     {
+      "k": "Revolver room",
+      "v": "$415M"
+     },
+     {
+      "k": "Notes due Dec 2026",
+      "v": "$200M",
+      "tone": "acc"
+     },
+     {
+      "k": "Term loans due Jun 2028",
+      "v": "~$2B",
+      "tone": "loss"
+     }
+    ],
+    "foot": "Per Moody's via Investing.com"
+   },
+   "detail": [
+    "Moody's cut Hertz Global's corporate family rating to Caa1 from B2 on Monday and kept the outlook negative. It also lowered the company's liquidity score and the ratings on most of its debt.",
+    "The worry is refinancing. About $1.7 billion of revolving credit expires in March 2028 and nearly $2 billion of term loans come due that June. Moody's expects Hertz to lose money before taxes through 2027, with debt near 6.5 times earnings.",
+    "Hertz had $531 million in cash and $415 million of unused credit at the end of September. Another $200 million of unsecured notes matures next month."
+   ],
+   "money": [
+    "Renting a car? Big rental firms under pressure may push prices or fees; compare Hertz, rivals and car-share apps before you book.",
+    "If you own Hertz bonds or a high-yield fund, check how much is in Caa-rated debt, which has a higher default risk.",
+    "A falling credit rating can mean cheap used rental cars hit the market; watch dealer prices if you shop for a used car."
+   ],
+   "risk": [
+    "Moody's says more cuts could follow if refinancing stalls or used-car prices drop sharply.",
+    "Hertz stock was down about 6.7% when the downgrade report came out."
+   ],
+   "sources": [
+    {
+     "t": "Moody's downgrades Hertz to Caa1 as 2028 refinancing risks mount",
+     "d": "investing.com",
+     "u": "https://www.investing.com/news/stock-market-news/moodys-downgrades-hertz-to-caa1-as-2028-refinancing-risks-mount-5031181"
+    }
+   ]
+  },
+  {
+   "id": "wells-fargo-ibit-2026111708",
+   "type": "news",
+   "cat": "crypto",
+   "tags": [
+    "crypto",
+    "markets"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T08:00:00Z",
+   "headline": "Wells Fargo doubled its BlackRock bitcoin ETF stake to $2.35B before the crash",
+   "caption": "A new filing shows Wells Fargo held 49.6 million IBIT shares at the end of September, up 103% from June. Since then, bitcoin ETFs have lost billions.",
+   "visual": {
+    "type": "vs",
+    "title": "Wells Fargo's IBIT shares",
+    "a": [
+     "June 30",
+     "24.4M",
+     0.49,
+     "acc"
+    ],
+    "b": [
+     "Sept 30",
+     "49.6M",
+     1,
+     "gain"
+    ],
+    "foot": "Worth about $2.35B on Sept 30, per its 13F"
+   },
+   "detail": [
+    "Wells Fargo's quarterly 13F filing, made Nov. 16, shows it held 49,577,094 shares of BlackRock's iShares Bitcoin Trust (IBIT) on Sept. 30, worth about $2.35 billion. In June it held about 24.4 million shares worth $812 million.",
+    "Galaxy Research says about 85% of the IBIT shares sit in client brokerage accounts. Barclays and Citigroup also raised their bitcoin fund holdings.",
+    "The snapshot is old news for prices. US spot bitcoin ETFs lost $1.28 billion in the first week of November and about $1.07 billion the next week."
+   ],
+   "money": [
+    "Big banks letting clients buy bitcoin ETFs makes access easier; compare fees (expense ratios) before you pick a fund.",
+    "13F filings show positions weeks after the fact; don't copy a bank's trade without checking today's price.",
+    "If you hold a bitcoin ETF, decide in advance how big a drop you can live with and size your position to match."
+   ],
+   "risk": [
+    "Bitcoin ETFs saw heavy outflows after the Sept. 30 snapshot, so these holdings may have shrunk."
+   ],
+   "sources": [
+    {
+     "t": "Wells Fargo reports 103% jump in BlackRock Bitcoin ETF holdings to $2.35B",
+     "d": "crypto.news",
+     "u": "https://crypto.news/wells-fargo-blackrock-bitcoin-etf-holdings-q3/"
+    }
+   ]
+  },
+  {
+   "id": "btc-six-weeks-2026111708",
+   "type": "news",
+   "cat": "crypto",
+   "tags": [
+    "crypto",
+    "markets"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T08:00:00Z",
+   "headline": "Bitcoin heads for a 7th weekly drop near $64,600 as Strategy keeps buying",
+   "caption": "Bitcoin has fallen six straight weeks and sits below its 200-week average. Strategy bought 485 more coins last week anyway.",
+   "visual": {
+    "type": "stat",
+    "title": "Bitcoin check-in",
+    "num": "$64.6K",
+    "tone": "loss",
+    "label": "Down about 12.7% in a week after six weekly declines.",
+    "facts": [
+     [
+      "Nov 15 low",
+      "$62,029",
+      "lowest since July 13"
+     ],
+     [
+      "200-day avg",
+      "~$72,920",
+      "price is below it"
+     ],
+     [
+      "Strategy holds",
+      "850,849 BTC",
+      "avg cost $75,452"
+     ]
+    ]
+   },
+   "detail": [
+    "Bitcoin traded near $64,600 early Tuesday, up slightly on the day but down about 12.7% over seven days. It touched $62,029 on Nov. 15, its lowest since mid-July, and has now dropped below its 200-week moving average near $67,992.",
+    "Strategy bought 485 BTC for $33.4 million from Nov. 9 to 15, bringing its total to 850,849 BTC. Its average cost of $75,452 is well above today's price.",
+    "Traders are watching Nvidia's earnings tonight and the Fed's October minutes on Wednesday. Options pricing points to a range of roughly $61,800 to $69,400 through Nov. 20."
+   ],
+   "money": [
+    "If you buy crypto, small regular buys (dollar-cost averaging) can lower the risk of buying everything at a bad moment.",
+    "Selling at a loss can offset gains for taxes; crypto losses count, so ask a tax pro about harvesting before Dec. 31.",
+    "Avoid leverage: about $2B in crypto bets were wiped out over the weekend when prices fell."
+   ],
+   "risk": [
+    "Analysts flag $60,000 as the next key level if $61,300 breaks.",
+    "Strategy's stock and bitcoin can fall together, adding pain for holders of both."
+   ],
+   "sources": [
+    {
+     "t": "Bitcoin price falls for six straight weeks as bulls defend $62,000",
+     "d": "crypto.news",
+     "u": "https://crypto.news/bitcoin-price-etf-outflows-july-support/"
+    }
+   ]
+  },
+  {
+   "id": "langchain-300m-2026111708",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "business"
+   ],
+   "date": "This week",
+   "ts": "2026-11-17T08:00:00Z",
+   "headline": "LangChain raises $300M at a $3B valuation to build AI agent tools",
+   "caption": "Google's CapitalG led the round in the AI agent software maker. It plans to grow to about 850 workers by the end of 2027.",
+   "visual": {
+    "type": "ticker",
+    "sym": "LangChain",
+    "ex": "Private",
+    "rows": [
+     {
+      "k": "New funding",
+      "s": "led by CapitalG",
+      "v": "$300M"
+     },
+     {
+      "k": "Valuation",
+      "v": "$3B"
+     },
+     {
+      "k": "Monthly downloads",
+      "s": "open-source tools",
+      "v": "~90M"
+     },
+     {
+      "k": "Hiring goal",
+      "s": "by end of 2027",
+      "v": "850 staff"
+     }
+    ]
+   },
+   "detail": [
+    "San Francisco startup LangChain raised $300 million at a $3 billion valuation, the Wall Street Journal reported. Alphabet's CapitalG led, with IVP, Sapphire Ventures, GIC and DFJ Growth joining.",
+    "LangChain makes free, open-source tools for building AI agents, plus a paid product called LangSmith for testing and tracking them. Autodesk and Cisco use LangSmith.",
+    "The company plans to nearly double its staff to about 850 people by the end of 2027."
+   ],
+   "money": [
+    "Skills in AI agent tools like LangChain are in demand; free courses can boost your pay or freelance rates.",
+    "Small businesses can try open-source agent tools before paying for pricey AI software.",
+    "Startup funding rounds are not stock you can buy; be wary of anyone selling 'pre-IPO' shares online."
+   ],
+   "risk": [
+    "High valuations can fall fast if AI spending slows, as recent AI stock drops show."
+   ],
+   "sources": [
+    {
+     "t": "AI agent tooling provider LangChain secures $300M investment",
+     "d": "siliconangle.com",
+     "u": "https://siliconangle.com/2026/11/12/ai-agent-tooling-provider-langchain-secures-300m-investment/"
+    }
+   ]
+  },
+  {
+   "id": "anthropic-amd-3-days-2026111708",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "markets"
+   ],
+   "date": "This week",
+   "ts": "2026-11-17T08:00:00Z",
+   "headline": "Anthropic tells IPO investors its AI got Claude running on AMD chips in 3 days",
+   "caption": "Anthropic says its Mythos model wrote nearly all the chip code needed, a job that used to take months. It covers one model's prompt processing only.",
+   "visual": {
+    "type": "vs",
+    "title": "Getting a model running on AMD chips",
+    "a": [
+     "Before",
+     "6-12 mo",
+     1,
+     "loss"
+    ],
+    "b": [
+     "With Mythos",
+     "3 days",
+     0.05,
+     "gain"
+    ],
+    "foot": "Anthropic's claim; covers prompt processing for one model"
+   },
+   "detail": [
+    "Anthropic told investors ahead of its IPO that its Mythos model got Claude running on AMD MI355X chips in about three days with little human help. Co-founder Tom Brown said the work used to take months.",
+    "The claim is narrow: it covers prompt processing for one model at useful speed, not moving all of Claude's training. Mythos wrote or ported nearly all the low-level chip code, called kernels.",
+    "Anthropic already uses chips from Nvidia, AMD, Amazon and Google. AMD agreed in July to supply up to 2 gigawatts of chips and to invest up to $5 billion in Anthropic."
+   ],
+   "money": [
+    "If AI can switch chip makers fast, Nvidia's grip may loosen; check how concentrated your tech funds are in one chip stock.",
+    "Anthropic prices its IPO this week; if you want in, know your broker's IPO rules and don't chase the first-day pop.",
+    "More chip competition can lower AI prices over time, which can cut costs for businesses using AI tools."
+   ],
+   "risk": [
+    "This is a company claim made while selling shares; it has not been independently verified."
+   ],
+   "sources": [
+    {
+     "t": "Anthropic Says Its AI Model Cut AMD Chip Switch to Three Days",
+     "d": "ibtimes.com",
+     "u": "https://www.ibtimes.com/anthropic-ai-ported-claude-amd-chips-3809680"
+    }
+   ]
+  },
+  {
+   "id": "dem-legislatures-flip-2026111708",
+   "type": "news",
+   "cat": "states",
+   "tags": [
+    "states",
+    "politics",
+    "taxes"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T08:00:00Z",
+   "headline": "Democrats will run 23 state legislatures in 2027, up from 18; 24 states face deficits",
+   "caption": "A post-election review says Democrats gained five legislatures and six trifectas. Many states will weigh new taxes as budgets tighten.",
+   "visual": {
+    "type": "vs",
+    "title": "Democratic-controlled legislatures",
+    "a": [
+     "Before vote",
+     "18",
+     0.78,
+     "acc"
+    ],
+    "b": [
+     "In 2027",
+     "23",
+     1,
+     "gain"
+    ],
+    "foot": "Republicans go from 28 to 22; 3 races uncalled"
+   },
+   "detail": [
+    "A review by law firm Brownstein says Democrats will control 23 state legislatures when 2027 sessions begin, up from 18. Republicans drop from 28 to 22, with two split and three still uncalled.",
+    "Democrats now hold 22 trifectas, meaning both chambers and the governor; Republicans hold 18. About 24 states are running deficits or report structural gaps.",
+    "In Michigan, Democrats regain a trifecta. Gov.-elect Benson has proposed a $5,000 credit for long-term caregivers. Texas keeps a $30 billion rainy day fund even after the House shifted toward Democrats."
+   ],
+   "money": [
+    "New state tax plans often start in January sessions; follow your state's budget so you can plan for changes to income, sales or property taxes.",
+    "Caregivers in Michigan should watch the proposed $5,000 credit as lawmakers take it up.",
+    "States with deficits may cut programs; if you rely on state aid, keep your paperwork current."
+   ],
+   "risk": [
+    "Proposals are not law yet; many will change or fail."
+   ],
+   "sources": [
+    {
+     "t": "Post-Election State of Play: States' Tax and Spend Plans for 2027-2028",
+     "d": "bhfs.com",
+     "u": "https://www.bhfs.com/insight/post-election-state-of-play-states-tax-and-spend-plans-for-2027-2028/"
+    }
+   ]
+  },
+  {
+   "id": "pa-skill-games-tax-2026111708",
+   "type": "news",
+   "cat": "states",
+   "tags": [
+    "states",
+    "taxes"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T08:00:00Z",
+   "headline": "Pennsylvania's $5B gap: Shapiro pushes a 52% skill-game tax and 26% pot tax",
+   "caption": "Pennsylvania's last budget carried an estimated $5 billion structural deficit. Gov. Shapiro wants to tax skill games and legal recreational marijuana.",
+   "visual": {
+    "type": "board",
+    "title": "Pennsylvania revenue ideas",
+    "rows": [
+     {
+      "k": "Structural deficit",
+      "v": "~$5B",
+      "tone": "loss"
+     },
+     {
+      "k": "Skill games tax",
+      "s": "of gross terminal revenue",
+      "v": "52%",
+      "tone": "acc"
+     },
+     {
+      "k": "Casino slots tax",
+      "s": "for comparison",
+      "v": "55%"
+     },
+     {
+      "k": "Recreational marijuana",
+      "s": "proposed sales tax",
+      "v": "26%",
+      "tone": "acc"
+     }
+    ],
+    "foot": "Per Brownstein's post-election review"
+   },
+   "detail": [
+    "Pennsylvania's most recent budget carried an estimated $5 billion structural deficit, according to a Brownstein review published Nov. 16.",
+    "Gov. Josh Shapiro has proposed taxing skill games, the slot-like machines found in bars and stores, at 52% of gross terminal revenue. That is close to the 55% the state takes from casino slots.",
+    "He has also proposed legalizing and taxing recreational marijuana sales at 26%."
+   ],
+   "money": [
+    "If you run a bar or store with skill games, a 52% tax could cut what you earn from the machines; plan for it.",
+    "New 'sin taxes' often get passed on to buyers; expect higher prices on taxed products if these pass.",
+    "Taxes on games and cannabis can ease pressure for wider tax hikes, which may help most households."
+   ],
+   "risk": [
+    "Both ideas need legislative approval and have stalled before."
+   ],
+   "sources": [
+    {
+     "t": "Post-Election State of Play: States' Tax and Spend Plans for 2027-2028",
+     "d": "bhfs.com",
+     "u": "https://www.bhfs.com/insight/post-election-state-of-play-states-tax-and-spend-plans-for-2027-2028/"
+    }
+   ]
+  },
+  {
+   "id": "ca-saas-sales-tax-2026111708",
+   "type": "news",
+   "cat": "california",
+   "tags": [
+    "california",
+    "taxes",
+    "business"
+   ],
+   "date": "Starts Jan 1",
+   "ts": "2026-11-17T08:00:00Z",
+   "headline": "In 6 weeks, California starts charging sales tax on downloaded software and SaaS",
+   "caption": "Starting Jan. 1, 2027, SB 122 makes most electronically delivered software taxable, including cloud apps. Custom software and streaming stay exempt.",
+   "visual": {
+    "type": "points",
+    "title": "California SB 122 basics",
+    "items": [
+     "Starts Jan. 1, 2027",
+     "Taxes prewritten software and SaaS, however delivered",
+     "Exempt: custom software, e-books, music, streaming, games",
+     "Taxed based on the buyer's billing address for remote sales",
+     "Buyers over $5M a year from one seller self-report"
+    ]
+   },
+   "detail": [
+    "California will treat electronically delivered prewritten software, including software-as-a-service, as taxable starting Jan. 1, 2027. Gov. Newsom signed SB 122 on June 29.",
+    "Digital goods like e-books, music, streaming, video games and NFTs stay exempt, as does custom software. Some cloud infrastructure services and products used only outside California are also excluded.",
+    "For remote sales, the tax follows the customer's billing address. If a buyer spends more than $5 million a year with one seller, the buyer must report and pay the use tax itself."
+   ],
+   "money": [
+    "Small businesses: budget for sales tax on software subscriptions starting in January; it can add several percent to each bill.",
+    "Prepaying an annual software plan before Jan. 1 may avoid tax on that term; check with the vendor and a tax pro.",
+    "Software sellers with California customers should update billing systems now to collect the tax correctly."
+   ],
+   "risk": [
+    "Rules on what counts as SaaS vs. a service can be gray; mistakes can lead to back taxes."
+   ],
+   "sources": [
+    {
+     "t": "California expands sales tax to electronically delivered software",
+     "d": "rsmus.com",
+     "u": "https://www.rsmus.com/insights/tax-alerts/2026/california-expands-sales-tax-to-electronically-delivered-software"
+    },
+    {
+     "t": "Post-Election State of Play: States' Tax and Spend Plans for 2027-2028",
+     "d": "bhfs.com",
+     "u": "https://www.bhfs.com/insight/post-election-state-of-play-states-tax-and-spend-plans-for-2027-2028/"
+    }
+   ]
+  },
+  {
+   "id": "ca-local-sales-tax-hikes-2026111708",
+   "type": "news",
+   "cat": "california",
+   "tags": [
+    "california",
+    "taxes"
+   ],
+   "date": "This week",
+   "ts": "2026-11-17T08:00:00Z",
+   "headline": "New California local sales taxes: LA goes to 10.75%, San Diego County adds half a point",
+   "caption": "Several California cities and counties approved sales tax hikes in the election. A half-point adds 50 cents to a $100 taxable purchase.",
+   "visual": {
+    "type": "deals",
+    "title": "Local tax measures",
+    "items": [
+     {
+      "a": "Los Angeles",
+      "b": "Measure FD, fire dept.",
+      "amt": "10.75%",
+      "st": "Passed; from 10.25%",
+      "c": "ok"
+     },
+     {
+      "a": "San Diego County",
+      "b": "Measure B, +0.5 pt",
+      "amt": "$400-450M/yr",
+      "st": "Narrowly passed",
+      "c": "ok"
+     },
+     {
+      "a": "Bay Area (5 counties)",
+      "b": "Transit tax, 14 yrs",
+      "amt": "+0.5 to +1 pt",
+      "st": "Passed",
+      "c": "ok"
+     },
+     {
+      "a": "San Clemente",
+      "b": "Measure M, +1 pt",
+      "amt": "-",
+      "st": "Rejected",
+      "c": "bad"
+     }
+    ]
+   },
+   "detail": [
+    "Los Angeles voters approved Measure FD, raising the city sales tax from 10.25% to 10.75% to raise about $345 million a year for the fire department.",
+    "San Diego County's Measure B narrowly passed, adding a half-point for health care, child care, wildfire prep and the Tijuana River sewage crisis. A 14-year Bay Area transit tax adds 1 point in San Francisco and 0.5 point in four other counties.",
+    "The city of Orange passed a 1-point increase for 13 years; San Clemente rejected one. Most groceries remain exempt from California sales tax."
+   ],
+   "money": [
+    "Make big taxable purchases, like electronics or furniture, before new rates start, if timing works for you.",
+    "Compare prices across nearby cities for large buys; sales tax can differ by up to a point.",
+    "Groceries are mostly exempt, so cooking at home avoids tax that applies to hot prepared meals."
+   ],
+   "risk": [
+    "Start dates vary by measure; check your city's effective date."
+   ],
+   "sources": [
+    {
+     "t": "Rising costs leave California residents questioning whether state policies are making life harder",
+     "d": "yahoo.com",
+     "u": "https://www.yahoo.com/news/us/articles/rising-costs-leave-california-residents-231500266.html"
+    }
+   ]
+  },
+  {
+   "id": "ice-record-deportations-2026111708",
+   "type": "news",
+   "cat": "immigration",
+   "tags": [
+    "immigration",
+    "politics"
+   ],
+   "date": "Last week",
+   "ts": "2026-11-17T08:00:00Z",
+   "headline": "DHS reports a record 483,200 ICE deportations in fiscal 2026",
+   "caption": "ICE also made more than 491,000 arrests, DHS said. Democrats taking Congress in January plan to investigate the policies.",
+   "visual": {
+    "type": "vs",
+    "title": "ICE deportations by fiscal year",
+    "a": [
+     "FY2025",
+     "442,640",
+     0.92,
+     "acc"
+    ],
+    "b": [
+     "FY2026",
+     "483,200",
+     1,
+     "loss"
+    ],
+    "foot": "DHS figures; methods questioned by some analysts"
+   },
+   "detail": [
+    "DHS said ICE carried out 483,200 deportations in fiscal 2026, the most in the agency's 23-year history, topping the 2025 record of 442,640. It reported more than 491,000 immigration arrests.",
+    "Steven Camarota of the Center for Immigration Studies said the figures do not clearly separate interior removals from people turned back at borders or airports.",
+    "Reuters/Ipsos polling shows approval of Trump's handling of immigration at 38%, down from 50% early in his term. Incoming House Homeland Security chair Bennie Thompson said Democrats will investigate."
+   ],
+   "money": [
+    "Mixed-status families can lower risk by keeping key documents, like IDs and court papers, organized and copied.",
+    "Use only accredited immigration lawyers or DOJ-recognized groups; scams spike when enforcement rises.",
+    "Employers in farming, building and food may face worker shortages; budgets for labor may need to rise."
+   ],
+   "risk": [
+    "Numbers are self-reported by DHS and hard to verify independently."
+   ],
+   "sources": [
+    {
+     "t": "US reports record number of deportations and arrests in 2026",
+     "d": "aljazeera.com",
+     "u": "https://aljazeera.com/news/2026/11/13/us-reports-record-number-of-deportations-and-arrests-in-2026"
+    }
+   ]
+  },
+  {
+   "id": "dollar-yen-160-2026111708",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets",
+    "world"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T08:00:00Z",
+   "headline": "Dollar peaks at its highest since April 2025; yen nears 160 as Japan watch begins",
+   "caption": "The euro fell to $1.0985 and the yen hovered near 160 per dollar. Traders now see a December Fed hike as certain.",
+   "visual": {
+    "type": "board",
+    "title": "Currencies & commodities, Tuesday Asia",
+    "rows": [
+     {
+      "k": "Dollar index peak",
+      "v": "103.69",
+      "tone": "gain"
+     },
+     {
+      "k": "Yen per dollar",
+      "s": "intervention watch",
+      "v": "~160",
+      "tone": "loss"
+     },
+     {
+      "k": "Euro",
+      "s": "lowest since Apr 2025",
+      "v": "$1.0985",
+      "tone": "loss"
+     },
+     {
+      "k": "Brent crude",
+      "v": "$91.62",
+      "ch": -0.9
+     },
+     {
+      "k": "Gold",
+      "v": "$3,860",
+      "ch": 0.1
+     }
+    ],
+    "foot": "Per Reuters via The Star"
+   },
+   "detail": [
+    "The US dollar climbed to 103.69 on a basket measure early Tuesday, its highest since April 2025, as markets bet on a Fed rate hike next month. The euro hit $1.0985 and the yen hovered near 160 per dollar.",
+    "Traders are watching for Japan to step in to support the yen. Minutes from Australia's central bank showed most members judged a hike was needed this month.",
+    "MSCI's Asia-Pacific index outside Japan fell 1.2% on the new US chip rules. Nasdaq futures rose 0.35% ahead of Nvidia's results."
+   ],
+   "money": [
+    "A strong dollar makes trips to Europe and Japan cheaper; it can be a good time to book.",
+    "Imported goods may get cheaper, but US firms that sell abroad can see profits squeezed.",
+    "International stock funds lose value in dollar terms when the dollar rises; keep that in mind before buying."
+   ],
+   "risk": [
+    "If Japan intervenes, the yen can jump suddenly and swing markets."
+   ],
+   "sources": [
+    {
+     "t": "Asia shares slide on tech weakness ahead of Nvidia earnings",
+     "d": "thestar.com.my",
+     "u": "https://www.thestar.com.my/business/business-news/2026/11/17/asia-shares-slide-on-tech-weakness-ahead-of-nvidia-earnings"
+    }
+   ]
+  },
+  {
+   "id": "irs-ira-error-fix-2026111708",
+   "type": "news",
+   "cat": "taxes",
+   "tags": [
+    "taxes",
+    "benefits"
+   ],
+   "date": "This week",
+   "ts": "2026-11-17T08:00:00Z",
+   "headline": "IRS creates a new way to fix IRA mistakes like missed RMDs, starting May 2027",
+   "caption": "A new IRA Compliance Resolution System will cover four common errors. The fee is $3,500 for regular filings made before 2028.",
+   "visual": {
+    "type": "timeline",
+    "title": "New IRA error-fix program",
+    "items": [
+     {
+      "d": "OCT 22",
+      "t": "Treasury and IRS announce changes"
+     },
+     {
+      "d": "NOV 16",
+      "t": "Details highlighted for savers",
+      "now": true
+     },
+     {
+      "d": "JAN 20",
+      "t": "Public comments due"
+     },
+     {
+      "d": "MAY 1",
+      "t": "IRA fix system opens",
+      "s": "$3,500 fee"
+     }
+    ]
+   },
+   "detail": [
+    "Treasury and the IRS created the IRA Compliance Resolution System (ICRS) under Revenue Procedure 2026-33. It opens May 1, 2027.",
+    "It covers four errors: missed required minimum distributions, IRA setup mistakes, errors by non-spouse heirs moving inherited money, and missed 60-day rollover deadlines. Regular filings before Jan. 1, 2028 cost $3,500.",
+    "A separate rule, Revenue Procedure 2026-34, widened the fix-it program for employer plans, including 403(b), SEP and SIMPLE IRA plans. Free automatic and self-certification options stay available."
+   ],
+   "money": [
+    "Check now that you took this year's required IRA withdrawal; fixing it before Dec. 31 avoids needing any new program.",
+    "Moving money between accounts? Do a direct trustee-to-trustee transfer to avoid the 60-day rollover deadline.",
+    "If you inherited an IRA, review the payout rules with a pro; heir errors are among the most common."
+   ],
+   "risk": [
+    "The $3,500 fee may cost more than some small errors; free self-correction may be better."
+   ],
+   "sources": [
+    {
+     "t": "The IRS Is Making a Major Change to IRA Rules in 2027",
+     "d": "aol.com",
+     "u": "https://aol.com/articles/irs-making-major-change-ira-120500000.html"
+    }
+   ]
+  },
+  {
+   "id": "trump-kim-apec-2026111708",
+   "type": "news",
+   "cat": "world",
+   "tags": [
+    "world",
+    "politics"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T08:00:00Z",
+   "headline": "Trump says he could meet Kim Jong Un in China at the APEC summit in Shenzhen",
+   "caption": "Trump is in Asia for the ASEAN summit in the Philippines before heading to China. Bessent and Rubio are traveling with him.",
+   "visual": {
+    "type": "timeline",
+    "title": "Trump's Asia trip",
+    "items": [
+     {
+      "d": "NOV 16",
+      "t": "Leaves Washington with Rubio, Bessent"
+     },
+     {
+      "d": "NOV 17",
+      "t": "ASEAN summit, Philippines",
+      "now": true
+     },
+     {
+      "d": "NEXT",
+      "t": "APEC in Shenzhen, China",
+      "s": "possible Kim meeting"
+     }
+    ]
+   },
+   "detail": [
+    "President Trump said he could possibly meet North Korean leader Kim Jong Un in China during the APEC summit in Shenzhen, South Korea's SBS reported.",
+    "Trump left Washington on Monday for Asia with Secretary of State Marco Rubio and Treasury Secretary Scott Bessent. The trip includes the ASEAN summit hosted by the Philippines.",
+    "South Korean President Lee Jae-myung and Japanese Prime Minister Takaichi are also meeting at ASEAN, their first talks in six months."
+   ],
+   "money": [
+    "Trade news from Asia trips can move stocks of exporters and chip makers; avoid big trades on headlines alone.",
+    "Lower tension with North Korea can lift South Korean stocks; broad international funds spread that risk.",
+    "Watch for tariff deals with Asian partners that could change prices on electronics and clothing."
+   ],
+   "risk": [
+    "A meeting is not confirmed and could fall through."
+   ],
+   "sources": [
+    {
+     "t": "Today's Major News (November 17, 2026)",
+     "d": "news.sbs.co.kr",
+     "u": "https://news.sbs.co.kr/english/article.do?news_id=N1008849649"
+    },
+    {
+     "t": "LIVE UPDATES: 49th ASEAN Summit and Related Summits (Nov. 17, 2026)",
+     "d": "gmanetwork.com",
+     "u": "https://www.gmanetwork.com/news/topstories/nation/1009740/live-updates-49th-asean-summit-and-related-summits-nov-17-2026/story/"
+    }
+   ]
+  },
+  {
+   "id": "edu-credit-ratings-2026111708",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "business"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-17T08:00:00Z",
+   "headline": "Credit ratings: what Hertz's drop to Caa1 means",
+   "caption": "Ratings tell lenders how likely a company is to pay back debt. Lower ratings mean higher borrowing costs.",
+   "scenes": [
+    {
+     "k": "Today's news",
+     "t": "Moody's cut Hertz to Caa1",
+     "s": "That is deep in 'junk' territory."
+    },
+    {
+     "k": "What a rating is",
+     "t": "A grade on paying back debt",
+     "s": "Agencies like Moody's and S&P grade companies and governments."
+    },
+    {
+     "k": "The ladder",
+     "t": "Aaa at top, C at bottom",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "Aaa-Baa: investment grade",
+       "Ba-B: junk",
+       "Caa-C: high default risk"
+      ]
+     },
+     "say": "Aaa to Baa is investment grade. Ba and B are junk. Caa and below carry high default risk."
+    },
+    {
+     "k": "Why it matters",
+     "t": "Lower grade, higher interest",
+     "s": "Riskier borrowers must pay lenders more, which squeezes profits."
+    },
+    {
+     "k": "For you",
+     "t": "Check what your bond fund holds",
+     "s": "High-yield funds pay more because they own lower-rated debt."
+    },
+    {
+     "k": "Takeaway",
+     "t": "Higher yield means higher risk",
+     "s": "Match bond risk to when you'll need the money."
+    }
+   ]
+  },
+  {
+   "id": "edu-rmd-basics-2026111708",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "taxes"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-17T08:00:00Z",
+   "headline": "RMDs: the yearly withdrawal you can't skip",
+   "caption": "Required minimum distributions force money out of many retirement accounts each year. The IRS just created a new way to fix misses.",
+   "scenes": [
+    {
+     "k": "Today's news",
+     "t": "New IRS fix for missed RMDs",
+     "s": "A repair program for IRA errors opens May 1, 2027."
+    },
+    {
+     "k": "What's an RMD",
+     "t": "A required yearly withdrawal",
+     "s": "Once you reach a set age, traditional IRAs and 401(k)s must pay some out each year."
+    },
+    {
+     "k": "How it works",
+     "t": "Balance divided by a life factor",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "Take Dec. 31 balance",
+       "Divide by IRS factor",
+       "Withdraw by deadline"
+      ]
+     },
+     "say": "Take last year's December 31 balance, divide by the IRS life expectancy factor, and withdraw that by the deadline."
+    },
+    {
+     "k": "The penalty",
+     "t": "Miss it and pay an extra tax",
+     "s": "The IRS charges an excise tax on the amount you failed to take."
+    },
+    {
+     "k": "Easy fixes",
+     "t": "Set a reminder or auto-withdraw",
+     "s": "Most providers can send your RMD automatically each year."
+    },
+    {
+     "k": "Takeaway",
+     "t": "Check your RMD before Dec. 31",
+     "s": "Fixing it early beats paying fees later."
+    }
+   ]
+  },
   {
    "id": "boeing-2500-cuts-2026111707",
    "type": "news",
@@ -11090,905 +11940,6 @@
     }
    ],
    "ts": "2026-11-16T19:00:00Z"
-  },
-  {
-   "id": "milestone-pharma-cuts-2026111619",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business"
-   ],
-   "date": "Fri Nov 13",
-   "headline": "Milestone Pharmaceuticals cuts about 20% of its headquarters staff to stretch its cash",
-   "caption": "The heart-drug maker wants to cut operating costs 30% and fund itself into late 2028. Its CFO resigned and its chief medical officer was let go.",
-   "visual": {
-    "type": "stat",
-    "title": "Milestone's cost plan",
-    "num": "-30%",
-    "tone": "acc",
-    "label": "Target cut to operating expenses.",
-    "facts": [
-     [
-      "HQ staff cut",
-      "~20%",
-      "done by Q1 2027"
-     ],
-     [
-      "Cash",
-      "$145.4M",
-      "as of Sept. 30"
-     ],
-     [
-      "Runway",
-      "late 2028",
-      "goal"
-     ]
-    ]
-   },
-   "detail": [
-    "Montreal-based Milestone Pharmaceuticals is cutting about 20% of its headquarters workforce. It had 38 full-time employees at the end of 2025, so roughly eight jobs could be affected.",
-    "The company aims to cut operating expenses by 30% and extend its cash into late 2028. It had $145.4 million in cash as of Sept. 30. Its chief medical officer was let go and its CFO resigned.",
-    "Milestone is testing its drug etripamil in a late-stage trial for a common heart rhythm problem."
-   ],
-   "money": [
-    "Cash runway is a key number for small drug stocks. Longer runway means less risk of new shares diluting you.",
-    "Executive departures during cuts can signal strain. Read the company's filings before buying.",
-    "If you work in biotech, keep your resume and network current; small-company cuts are common this year."
-   ],
-   "risk": [
-    "Cost cuts don't guarantee trial success."
-   ],
-   "sources": [
-    {
-     "t": "Layoff Tracker",
-     "d": "biospace.com",
-     "u": "https://www.biospace.com/biospace-layoff-tracker"
-    }
-   ],
-   "ts": "2026-11-16T19:00:00Z"
-  },
-  {
-   "id": "savers-match-2027-2026111619",
-   "type": "news",
-   "cat": "taxes",
-   "tags": [
-    "taxes",
-    "benefits"
-   ],
-   "date": "This week",
-   "headline": "Saver's Match starts in 2027: up to $1,000 a year from the government for saving",
-   "caption": "It replaces the old Saver's Credit for low- and moderate-income savers. Meanwhile, you can still fund 2026 IRAs and HSAs until April 15, 2027.",
-   "visual": {
-    "type": "board",
-    "title": "Year-end tax checklist",
-    "rows": [
-     {
-      "k": "Saver's Match",
-      "s": "from 2027",
-      "v": "up to $1,000",
-      "tone": "gain"
-     },
-     {
-      "k": "2026 IRA",
-      "s": "50+: $8,600",
-      "v": "$7,500",
-      "tone": "acc"
-     },
-     {
-      "k": "2026 HSA",
-      "s": "self / family",
-      "v": "$4,400 / $8,750",
-      "tone": "acc"
-     },
-     {
-      "k": "2027 401(k)",
-      "v": "$25,500",
-      "tone": "acc"
-     }
-    ],
-    "foot": "2026 IRA and HSA money can go in until April 15, 2027"
-   },
-   "detail": [
-    "Starting with tax years after Dec. 31, 2026, the Saver's Match replaces the Saver's Credit. Eligible low- and moderate-income savers can get a federal match of up to 50%, capped at $1,000 per person, according to CPA Practice Advisor.",
-    "For 2026, you still have until April 15, 2027 to put money in a traditional IRA (up to $7,500, or $8,600 if 50 or older) or an HSA ($4,400 self-only, $8,750 family, plus $1,000 at 55+).",
-    "The 401(k) limit for 2027 rises to $25,500. Some year-end moves still need to happen by Dec. 31."
-   ],
-   "money": [
-    "If your income is modest, plan to save in a retirement account in 2027 so you can collect the match.",
-    "Fill an HSA if you have a high-deductible plan; it can cut taxes now and later.",
-    "Bump your 401(k) percentage in January to use the higher $25,500 limit."
-   ],
-   "risk": [
-    "Eligibility rules for the match have income limits; check IRS guidance before counting on it."
-   ],
-   "sources": [
-    {
-     "t": "Think About Your April 2027 Income Taxes Now",
-     "d": "cpapracticeadvisor.com",
-     "u": "https://cpapracticeadvisor.com/2026/11/14/think-about-your-april-2027-income-taxes-now/193959"
-    }
-   ],
-   "ts": "2026-11-16T19:00:00Z"
-  },
-  {
-   "id": "zoox-uber-vegas-2026111619",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "business"
-   ],
-   "date": "Mon Nov 16",
-   "headline": "Zoox robotaxis go live on the Uber app in Las Vegas, with LA planned for 2027",
-   "caption": "It's the first time Amazon's Zoox offers rides through another company's app. A multi-year MGM Resorts deal adds pickups at Strip hotels.",
-   "visual": {
-    "type": "timeline",
-    "title": "Zoox on Uber",
-    "items": [
-     {
-      "d": "MAR 11",
-      "t": "Deal announced",
-      "s": "multiyear partnership"
-     },
-     {
-      "d": "NOV 16",
-      "t": "Live in Las Vegas",
-      "s": "MGM Strip pickups",
-      "now": true
-     },
-     {
-      "d": "2027",
-      "t": "Los Angeles next"
-     }
-    ]
-   },
-   "detail": [
-    "Zoox, owned by Amazon, is now taking rides through the Uber app in Las Vegas, TechCrunch reported. It is Zoox's first third-party ride-hailing partner. A multi-year tie-up with MGM Resorts puts pickups at Strip hotels.",
-    "When the deal was announced in March, Zoox said it had logged more than 1 million driverless miles. Zoox keeps its own app, too.",
-    "Los Angeles is slated for 2027. Rivals include Waymo, which reported about 400,000 paid rides a week earlier this year."
-   ],
-   "money": [
-    "Compare robotaxi and regular ride prices in the app; new services often run promos.",
-    "Robotaxi growth affects Uber, Amazon and Tesla stocks. Know which ones you own through funds.",
-    "If you drive for rideshare in Las Vegas, track how much demand shifts to driverless cars."
-   ],
-   "risk": [
-    "Robotaxi services can pause after incidents or regulatory action."
-   ],
-   "sources": [
-    {
-     "t": "Zoox robotaxis are now on the Uber app in Las Vegas",
-     "d": "techcrunch.com",
-     "u": "https://techcrunch.com/2026/11/16/zoox-robotaxis-are-now-on-the-uber-app-in-las-vegas/"
-    },
-    {
-     "t": "Zoox Robotaxis to Debut on Uber App in Las Vegas",
-     "d": "mexicobusiness.news",
-     "u": "https://mexicobusiness.news/automotive/news/zoox-robotaxis-debut-uber-app-las-vegas"
-    }
-   ],
-   "ts": "2026-11-16T19:00:00Z"
-  },
-  {
-   "id": "hudson-co-ice-center-protest-2026111619",
-   "type": "news",
-   "cat": "immigration",
-   "tags": [
-    "immigration",
-    "states"
-   ],
-   "date": "Sun Nov 15",
-   "headline": "Hundreds march in Hudson, Colorado, against a planned ICE detention center",
-   "caption": "GEO Group would run the center in a prison that closed 12 years ago. The state is suing to stop it; DHS says it is enforcing laws Congress passed.",
-   "visual": {
-    "type": "timeline",
-    "title": "Hudson detention center fight",
-    "items": [
-     {
-      "d": "JULY",
-      "t": "Resident and Together Colorado sue"
-     },
-     {
-      "d": "SEPT",
-      "t": "State AG Weiser sues",
-      "s": "now governor-elect"
-     },
-     {
-      "d": "NOV 15",
-      "t": "Hundreds march",
-      "now": true
-     }
-    ]
-   },
-   "detail": [
-    "Hundreds of people marched Sunday in Hudson, in eastern Colorado, against a proposed ICE detention center. GEO Group would operate it in the former Hudson correctional facility, closed for 12 years.",
-    "Colorado Attorney General Phil Weiser, now governor-elect, sued in September to stop the project. A resident and the group Together Colorado filed a separate suit in July. The town says it has no say in the decision.",
-    "The Department of Homeland Security said it is simply enforcing the laws passed by Congress."
-   ],
-   "money": [
-    "Detention contracts are a big revenue line for private prison companies; that drives their stock moves.",
-    "Local projects like this can affect nearby jobs, property values and town budgets.",
-    "If you hold socially screened funds, check how they treat private prison operators."
-   ],
-   "risk": [
-    "Court rulings could stop or speed up the project."
-   ],
-   "sources": [
-    {
-     "t": "Protesters rally against proposed ICE detention center in eastern Colorado",
-     "d": "cbsnews.com",
-     "u": "https://www.cbsnews.com/colorado/news/protesters-rally-against-proposed-ice-detention-center-eastern-colorado/"
-    }
-   ],
-   "ts": "2026-11-16T19:00:00Z"
-  },
-  {
-   "id": "jpmorgan-warn-cuts-2026111619",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business",
-    "ai"
-   ],
-   "date": "Fri Nov 13",
-   "headline": "JPMorgan files its 6th New Jersey layoff notice this year, even as headcount grows",
-   "caption": "Notices cover at least 929 jobs in three states, yet the bank added about 4,800 workers in a year. AI was cited in about 20% of US job cuts through October.",
-   "visual": {
-    "type": "board",
-    "title": "Bank job cuts",
-    "rows": [
-     {
-      "k": "JPMorgan WARN total",
-      "s": "NJ, TX, CA",
-      "v": "929+",
-      "tone": "loss"
-     },
-     {
-      "k": "JPMorgan headcount",
-      "s": "vs. a year ago",
-      "v": "+4,811",
-      "tone": "gain"
-     },
-     {
-      "k": "American Express",
-      "s": "about 5%",
-      "v": "~3,500",
-      "tone": "loss"
-     },
-     {
-      "k": "PNC (Colorado)",
-      "v": "~777",
-      "tone": "loss"
-     }
-    ],
-    "foot": "Challenger: AI cited in 121,401 cuts through October"
-   },
-   "detail": [
-    "JPMorgan Chase filed a sixth New Jersey WARN notice this year, cutting 91 jobs in Jersey City. Its notices across New Jersey, Texas and California cover at least 929 positions, including 204 fraud specialist roles in Plano, Texas.",
-    "Even so, the bank had 322,964 workers at the end of September, 4,811 more than a year earlier. American Express plans to cut about 3,500 jobs, and PNC about 777 in Colorado after a merger.",
-    "Challenger, Gray & Christmas says AI was cited in 121,401 job cuts across all industries through October, about 20% of the total."
-   ],
-   "money": [
-    "Bank cuts are hitting back-office and fraud roles; if you're in one, build skills that AI tools can't easily copy.",
-    "Keep 3 to 6 months of expenses saved if your industry is trimming.",
-    "A WARN notice gives at least 60 days' warning; use it to line up severance, benefits and job leads."
-   ],
-   "risk": [
-    "WARN filings don't show every cut a company makes nationwide."
-   ],
-   "sources": [
-    {
-     "t": "JPMorgan Chase announces 6th layoff round as workforce grows by over 4,800",
-     "d": "thestreet.com",
-     "u": "https://thestreet.com/employment/jpmorgan-chase-6th-layoff-round-workforce-grows-by-over-4800"
-    }
-   ],
-   "ts": "2026-11-16T19:00:00Z"
-  },
-  {
-   "id": "edu-liquidations-2026111619",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "crypto"
-   ],
-   "date": "Explainer",
-   "headline": "Liquidations: why crypto crashes snowball",
-   "caption": "Nearly $2 billion in crypto bets were force-closed this weekend. Here's how borrowed money turns a dip into a plunge.",
-   "scenes": [
-    {
-     "k": "THIS WEEKEND",
-     "t": "$1.96B in crypto bets force-closed",
-     "s": "Most were traders using borrowed money."
-    },
-    {
-     "k": "LEVERAGE",
-     "t": "Borrow to make a bigger bet",
-     "s": "With 10x leverage, $100 controls $1,000 of bitcoin."
-    },
-    {
-     "k": "THE CATCH",
-     "t": "A small drop wipes you out",
-     "viz": {
-      "type": "split",
-      "items": [
-       [
-        "Your cash",
-        "$100"
-       ],
-       [
-        "Position",
-        "$1,000"
-       ],
-       [
-        "Drop that erases you",
-        "about 10%",
-        "wide"
-       ]
-      ]
-     },
-     "say": "With ten times leverage, a drop of about ten percent can wipe out your whole stake."
-    },
-    {
-     "k": "THE SNOWBALL",
-     "t": "Forced sales push prices lower",
-     "viz": {
-      "type": "flow",
-      "items": [
-       "Price dips",
-       "Exchange sells your coins",
-       "More selling",
-       "Next traders get liquidated"
-      ]
-     }
-    },
-    {
-     "k": "FUNDING RATES",
-     "t": "Negative now, first time since March",
-     "s": "It means more traders are betting on further drops."
-    },
-    {
-     "k": "YOUR MOVE",
-     "t": "Skip the leverage",
-     "s": "Buy only what you can hold through a crash, in small regular amounts."
-    }
-   ],
-   "ts": "2026-11-16T19:00:00Z"
-  },
-  {
-   "id": "edu-fda-binary-risk-2026111619",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "business"
-   ],
-   "date": "Explainer",
-   "headline": "FDA day: the all-or-nothing risk in drug stocks",
-   "caption": "Summit lost about a fifth of its value overnight on an FDA rejection. Here's why single-drug stocks swing so hard.",
-   "scenes": [
-    {
-     "k": "SUNDAY NIGHT",
-     "t": "Summit falls nearly 20% after hours",
-     "s": "The FDA declined to approve its lung cancer drug filing."
-    },
-    {
-     "k": "WHY SO BIG",
-     "t": "One drug can be most of the value",
-     "s": "Investors price in approval. A no erases that hope fast."
-    },
-    {
-     "k": "HOW IT WORKS",
-     "t": "The path to a yes",
-     "viz": {
-      "type": "flow",
-      "items": [
-       "Trials",
-       "Company files",
-       "FDA reviews",
-       "Approve or reject"
-      ]
-     }
-    },
-    {
-     "k": "BINARY EVENT",
-     "t": "Two outcomes, big gap between them",
-     "s": "Stocks can jump or crash on the decision date."
-    },
-    {
-     "k": "SPREAD IT OUT",
-     "t": "Funds hold dozens of drug makers",
-     "s": "One rejection hurts far less inside a broad biotech fund."
-    },
-    {
-     "k": "YOUR MOVE",
-     "t": "Know the date, size it small",
-     "s": "Check FDA decision dates and keep any single biotech a small slice."
-    }
-   ],
-   "ts": "2026-11-16T19:00:00Z"
-  },
-  {
-   "id": "midday-selloff-yield-2026111618",
-   "type": "news",
-   "cat": "markets",
-   "tags": [
-    "markets",
-    "ai"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T18:00:00Z",
-   "headline": "Selloff deepens at midday: Nasdaq down 2% as the 10-year yield hits 5.15%",
-   "caption": "Tech losses widened late Monday morning, a day before Nvidia reports. Higher bond yields added pressure, while Tyson bucked the trend.",
-   "visual": {
-    "type": "board",
-    "title": "Monday midday",
-    "rows": [
-     {
-      "k": "Nasdaq",
-      "v": "~24,630",
-      "ch": -2.0,
-      "tone": "loss"
-     },
-     {
-      "k": "S&P 500",
-      "v": "~7,455",
-      "ch": -1.4,
-      "tone": "loss"
-     },
-     {
-      "k": "Dow",
-      "v": "~51,916",
-      "ch": -0.8,
-      "tone": "loss"
-     },
-     {
-      "k": "10-yr Treasury",
-      "s": "yield",
-      "v": "5.15%",
-      "tone": "acc"
-     },
-     {
-      "k": "Gold",
-      "v": "$3,862.60",
-      "ch": -0.6,
-      "tone": "loss"
-     }
-    ],
-    "foot": "Figures as reported around midday ET"
-   },
-   "detail": [
-    "The selloff that began at the open got worse by midday. The Nasdaq was down about 2%, the S&P 500 about 1.4% and the Dow about 0.8%, based on Motley Fool quote data.",
-    "Chip stocks led the drop. Intel fell about 6% to 7% and Nvidia about 3.5%, with Amazon, Alphabet and Tesla each down around 3%. Strategy fell about 7% as bitcoin weakened and its exit from MSCI indexes nears.",
-    "Tyson Foods rose about 7% on its 2027 outlook. The 10-year Treasury yield climbed to 5.15%, which makes borrowing costlier across the economy."
-   ],
-   "money": [
-    "A 10-year yield above 5% tends to push mortgage and car loan rates up, so lock a rate sooner if you are close to buying.",
-    "High bond yields also mean Treasuries and CDs pay well; compare them with keeping cash in a low-rate account.",
-    "If you buy on dips, add in small, planned amounts rather than all at once before Nvidia's report."
-   ],
-   "risk": [
-    "Midday numbers can change sharply by the close.",
-    "Nvidia's results Tuesday could move the whole market either way."
-   ],
-   "sources": [
-    {
-     "t": "Stock Market Midday, Nov. 16: Nasdaq Tumbles as Wall Street Braces for Nvidia Earnings",
-     "d": "fool.com",
-     "u": "https://www.fool.com/coverage/stock-market-today/2026/11/16/stock-market-midday-nov-16-stocks-slide-as-tech-selling-intensifies-across-the-market/"
-    },
-    {
-     "t": "Stock market today: Dow, S&P 500, Nasdaq drop ahead of pivotal week for AI",
-     "d": "finance.yahoo.com",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html"
-    }
-   ]
-  },
-  {
-   "id": "nvidia-earnings-preview-2026111618",
-   "type": "news",
-   "cat": "markets",
-   "tags": [
-    "markets",
-    "ai"
-   ],
-   "date": "Tue Nov 17",
-   "ts": "2026-11-16T18:00:00Z",
-   "headline": "Nvidia reports Tuesday: Wall Street expects about $109B in sales, up 91%",
-   "caption": "It's Nvidia's first report under interim CEO Colette Kress. Analysts say next quarter's outlook matters more than this quarter's numbers.",
-   "visual": {
-    "type": "vs",
-    "title": "Q3 sales: guidance vs. expectations",
-    "a": [
-     "Nvidia guided",
-     "$108B",
-     0.97,
-     "acc"
-    ],
-    "b": [
-     "Analysts expect",
-     "$109.1B",
-     1,
-     "gain"
-    ],
-    "foot": "EPS seen near $2.47; results ~4:20pm ET Tuesday"
-   },
-   "detail": [
-    "Nvidia releases quarterly results after the close Tuesday, with a call at 5 p.m. New York time. Bloomberg consensus puts revenue near $109.1 billion, about 91% higher than a year ago, and adjusted earnings near $2.47 a share.",
-    "The company had guided to $108 billion, give or take 2%, and a 74% adjusted gross margin. It left China data center sales out of that outlook.",
-    "Saxo says the reported quarter came before the CEO change, so investors will focus on guidance, the Rubin chip ramp, China export questions and leadership plans."
-   ],
-   "money": [
-    "Many index funds hold a lot of Nvidia, so a big move Tuesday can swing your 401(k) even if you never bought the stock.",
-    "If you own Nvidia directly, decide your plan before the report, such as a price where you would trim.",
-    "Volatility around earnings can be a chance to rebalance back to your target mix."
-   ],
-   "risk": [
-    "Shares often move sharply after earnings even when results beat.",
-    "Leadership and China investigations remain unresolved."
-   ],
-   "sources": [
-    {
-     "t": "Nvidia earnings preview: The first big test after Jensen Huang's exit",
-     "d": "home.saxo",
-     "u": "https://www.home.saxo/content/articles/equities/nvidia-earnings-preview-the-first-big-test-after-jensen-huangs-exit-16112026"
-    }
-   ]
-  },
-  {
-   "id": "bessent-nvidia-10-days-2026111618",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "politics",
-    "markets"
-   ],
-   "date": "Sun Nov 15",
-   "ts": "2026-11-16T18:00:00Z",
-   "headline": "Bessent gives Nvidia's board 10 days on China sales and backs an outside CEO",
-   "caption": "The Treasury secretary asked whether suspect chip sales to China boosted Nvidia's revenue. He wants answers from the board and outside lawyers.",
-   "visual": {
-    "type": "timeline",
-    "title": "Nvidia's turbulent week",
-    "items": [
-     {
-      "d": "NOV 10",
-      "t": "Board hires Wachtell to investigate"
-     },
-     {
-      "d": "NOV 12",
-      "t": "Jensen Huang resigns as CEO"
-     },
-     {
-      "d": "NOV 15",
-      "t": "Bessent sets 10-day deadline",
-      "now": true
-     },
-     {
-      "d": "NOV 17",
-      "t": "Earnings under interim CEO Kress"
-     },
-     {
-      "d": "DEC 10",
-      "t": "Lutnick testifies to Senate Banking"
-     }
-    ]
-   },
-   "detail": [
-    "On Fox News Sunday Morning Futures, Treasury Secretary Scott Bessent said Nvidia's board should look outside the company for its next CEO. He asked for answers within 10 days on whether seemingly illicit chip sales to China were used to boost revenue.",
-    "He compared it to a bank compliance failure, saying regulators would already be removing executives. The Justice Department is probing whether Singapore's Megaspeed redirected restricted Nvidia chips to China.",
-    "Nvidia did not immediately comment. The stock fell 12.7% last week and has lost more than $1.2 trillion in value since late October."
-   ],
-   "money": [
-    "Political pressure on a single giant stock is a reminder to cap how much of your savings sits in any one company.",
-    "If you hold tech-heavy funds, check how much is in Nvidia; it can be a large slice.",
-    "Wait for facts from the board probe before making big buy or sell moves on headlines."
-   ],
-   "risk": [
-    "No findings of wrongdoing have been made.",
-    "More government action could hit chip stocks further."
-   ],
-   "sources": [
-    {
-     "t": "Bessent Presses Nvidia's Board for Answers on China Sales",
-     "d": "implicator.ai",
-     "u": "https://www.implicator.ai/bessent-nvidia-board-outside-ceo-china-sales/"
-    },
-    {
-     "t": "Bessent questions did Nvidia 'goose' earnings with suspect China chip sales",
-     "d": "axios.com",
-     "u": "https://www.axios.com/2026/11/15/bessent-nvidia-earnings-china-chip-sales-ceo"
-    }
-   ]
-  },
-  {
-   "id": "anthropic-ipo-retail-vanda-2026111618",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "markets"
-   ],
-   "date": "Thu Nov 19",
-   "ts": "2026-11-16T18:00:00Z",
-   "headline": "Anthropic IPO Thursday: retail buyers could pour in a record $250M on day one",
-   "caption": "Vanda Research says small investors may buy heavily, possibly selling other AI stocks to do it. The target valuation is about $1.4 trillion.",
-   "visual": {
-    "type": "stat",
-    "title": "Anthropic IPO, by the numbers",
-    "num": "$250M",
-    "tone": "acc",
-    "label": "Vanda's estimate of net retail buying on the first day",
-    "facts": [
-     [
-      "Expected date",
-      "Thu Nov 19",
-      ""
-     ],
-     [
-      "Target value",
-      "~$1.4T",
-      "reported"
-     ],
-     [
-      "Vs. SpaceX debut",
-      "2x+",
-      "June record"
-     ]
-    ]
-   },
-   "detail": [
-    "Vanda Research estimates retail investors could buy a net $250 million of Anthropic shares on the first trading day. That would be more than double the record set by SpaceX's June debut.",
-    "Vanda warned the buying could come at the expense of other AI stocks. Bullish options bets on Microsoft are at their lowest since December 2022, while call buying picked up in Amazon and Alphabet, which each own more than 5% of Anthropic.",
-    "Yahoo Finance reports the IPO is expected Thursday at a target valuation of about $1.4 trillion."
-   ],
-   "money": [
-    "Hot IPOs often open far above the offer price, so buying at the open can mean paying a big premium.",
-    "If you want exposure, funds holding Amazon or Alphabet already give you an indirect stake.",
-    "Set a limit price if you trade on day one so a spike doesn't fill your order at a bad price."
-   ],
-   "risk": [
-    "New stocks can swing wildly in their first weeks.",
-    "Selling other AI stocks to chase the IPO adds concentration risk."
-   ],
-   "sources": [
-    {
-     "t": "Stock market today: Dow, S&P 500, Nasdaq drop ahead of pivotal week for AI",
-     "d": "finance.yahoo.com",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html"
-    }
-   ]
-  },
-  {
-   "id": "openai-researcher-grants-2026111618",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T18:00:00Z",
-   "headline": "OpenAI adds 50,000 free ChatGPT Plus grants for researchers; applications open Nov. 23",
-   "caption": "Each grant covers a researcher plus two collaborators for 12 months. Spots go first-come, replacing the earlier lottery.",
-   "visual": {
-    "type": "board",
-    "title": "ChatGPT for Academic Researchers",
-    "rows": [
-     {
-      "k": "New grants",
-      "v": "50,000"
-     },
-     {
-      "k": "Seats per grant",
-      "s": "researcher + 2",
-      "v": "3"
-     },
-     {
-      "k": "Length",
-      "v": "12 months"
-     },
-     {
-      "k": "Applications open",
-      "v": "Nov 23",
-      "tone": "acc"
-     },
-     {
-      "k": "Program goal",
-      "v": "200,000 researchers"
-     }
-    ],
-    "foot": "Not available in China or Hong Kong"
-   },
-   "detail": [
-    "OpenAI is expanding its ChatGPT for Academic Researchers program with 50,000 new grants. Each gives Plus access to a researcher and up to two collaborators for 12 months.",
-    "About 20,000 researchers in 33 countries have joined since a July pilot. The goal is 200,000 researchers worldwide.",
-    "Research faculty and postdocs can apply starting Monday, Nov. 23, after identity and academic checks. API credits are not included."
-   ],
-   "money": [
-    "Eligible researchers could save the cost of three paid Plus subscriptions for a year.",
-    "Apply early, since spots go first-come.",
-    "Labs can redirect budget saved on AI tools to other needs."
-   ],
-   "risk": [
-    "Final eligibility rules for this round are still being confirmed."
-   ],
-   "sources": [
-    {
-     "t": "OpenAI expands free access to 200,000 researchers",
-     "d": "casrai.org",
-     "u": "https://casrai.org/news/openai-academic-researchers-200000-free-access-2026"
-    }
-   ]
-  },
-  {
-   "id": "vitalik-eip-8037-gas-2026111618",
-   "type": "news",
-   "cat": "crypto",
-   "tags": [
-    "crypto"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T18:00:00Z",
-   "headline": "Vitalik backs a plan to make new Ethereum accounts and storage far costlier",
-   "caption": "The proposal would raise gas for creating accounts and storing new data to slow the chain's growth. Ether trades near $1,813, down 15% in a week.",
-   "visual": {
-    "type": "board",
-    "title": "EIP-8037 gas changes",
-    "rows": [
-     {
-      "k": "Create account",
-      "s": "gas",
-      "v": "36,600 → 197,900",
-      "tone": "loss"
-     },
-     {
-      "k": "New storage slot",
-      "s": "gas",
-      "v": "22,100 → 110,020",
-      "tone": "loss"
-     },
-     {
-      "k": "Deploy 24 KiB contract",
-      "s": "gas",
-      "v": "~4.95M → ~37.8M",
-      "tone": "loss"
-     },
-     {
-      "k": "ETH price",
-      "s": "7-day",
-      "v": "~$1,813",
-      "ch": -15.3,
-      "tone": "loss"
-     }
-    ]
-   },
-   "detail": [
-    "Ethereum co-founder Vitalik Buterin said he supports EIP-8037, which would sharply raise gas costs for creating accounts, writing to unused storage and deploying contract code. Those costs would be metered apart from normal execution gas.",
-    "He estimates Ethereum adds about 110 GiB of state a year, and growth could near 1,100 GiB if the gas limit rose tenfold without changes.",
-    "The Glamsterdam upgrade has no new test date. Developers meet Nov. 19 to review audits."
-   ],
-   "money": [
-    "If you use Ethereum apps, actions that create new accounts or tokens could cost more after an upgrade.",
-    "Everyday transfers and swaps would be less affected than creating new on-chain data.",
-    "With ETH down 15% in a week, avoid buying more than you can hold through big swings."
-   ],
-   "risk": [
-    "Upgrade timing is unclear and plans can change.",
-    "The Ethereum Foundation flagged some deployed contracts that could break."
-   ],
-   "sources": [
-    {
-     "t": "Vitalik Buterin backs Ethereum gas overhaul, proposes changes to airdrops",
-     "d": "crypto.news",
-     "u": "https://crypto.news/vitalik-buterin-ethereum-eip-8037-gas-costs/"
-    }
-   ]
-  },
-  {
-   "id": "tariff-refunds-exec-bonuses-2026111618",
-   "type": "news",
-   "cat": "politics",
-   "tags": [
-    "politics",
-    "business"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T18:00:00Z",
-   "headline": "ProPublica: at least 9 companies used tariff refunds to pay executive bonuses",
-   "caption": "Over $100 billion has been refunded since the Supreme Court struck down the tariffs. Named firms include Stanley Black & Decker and TJ Maxx's owner.",
-   "visual": {
-    "type": "points",
-    "title": "Where tariff refunds went",
-    "items": [
-     "$100B+ refunded after the Supreme Court ruling",
-     "At least 9 firms tied refunds to executive bonuses",
-     "Named: Stanley Black & Decker, TJ Maxx, Marshalls, Titleist",
-     "Dozens of firms have said little about their plans",
-     "Democratic senators asked the FTC to investigate"
-    ]
-   },
-   "detail": [
-    "A ProPublica investigation published Monday found that at least nine companies used tariff refunds to fund executive bonuses, according to coverage by Common Dreams.",
-    "More than $100 billion in tariffs has been refunded since the Supreme Court ruled them illegal. Companies named include Stanley Black & Decker, TJ Maxx and Marshalls, and golf brand Titleist.",
-    "Dozens of other firms have not said how they will use the money. Last week Democratic senators asked the FTC to look into refund recipients."
-   ],
-   "money": [
-    "Refunds go to the importers who paid, not shoppers, so don't expect a check unless you imported goods yourself.",
-    "If you run a small business that imported goods, check whether you can still file a refund claim.",
-    "Watch for retailers that pass savings on through lower prices or sales."
-   ],
-   "risk": [
-    "How companies spend refunds is legal; investigations may not change outcomes."
-   ],
-   "sources": [
-    {
-     "t": "These Corporations Are Using Trump Tariff Refunds to Reward Executives",
-     "d": "commondreams.org",
-     "u": "https://www.commondreams.org/news/tariff-refunds-corporate-bonuses"
-    }
-   ]
-  },
-  {
-   "id": "ss-january-pay-dates-2026111618",
-   "type": "news",
-   "cat": "benefits",
-   "tags": [
-    "benefits"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T18:00:00Z",
-   "headline": "First checks with the 3.6% raise land Jan. 13, 20 and 27; some get paid Dec. 31",
-   "caption": "The average retiree gains about $75 a month. SSI recipients get January's payment early, on Dec. 31, because of the holiday.",
-   "visual": {
-    "type": "timeline",
-    "title": "When the 3.6% raise arrives",
-    "items": [
-     {
-      "d": "EARLY DEC",
-      "t": "Personal COLA notices mailed"
-     },
-     {
-      "d": "DEC 31",
-      "t": "SSI and pre-1997 recipients paid",
-      "now": true
-     },
-     {
-      "d": "JAN 13",
-      "t": "Birthdays on the 1st-10th"
-     },
-     {
-      "d": "JAN 20",
-      "t": "Birthdays on the 11th-20th"
-     },
-     {
-      "d": "JAN 27",
-      "t": "Birthdays on the 21st-31st"
-     }
-    ]
-   },
-   "detail": [
-    "Social Security's 3.6% raise for 2027 is the largest since 2023. The Motley Fool estimates the average retired worker, at $2,092 a month in October, gains roughly $75 a month.",
-    "Most people get the first raised check in January based on birth date: Jan. 13, 20 or 27. SSI recipients and people who started benefits before May 1997 are normally paid on the 3rd, so January's payment comes Dec. 31.",
-    "Personalized notices with exact amounts arrive in early December. Higher Medicare Part B premiums will eat part of the raise."
-   ],
-   "money": [
-    "Budget for the Dec. 31 payment to cover all of January, not the end of December.",
-    "Use your December notice to update your 2027 budget with the exact new amount.",
-    "If you're still working, check whether your raise changes your tax withholding needs."
-   ],
-   "risk": [
-    "Net raises will be smaller after Part B premiums.",
-    "The 2027 Part B amount is not yet final."
-   ],
-   "sources": [
-    {
-     "t": "3 Things Everyone Should Know About the 2027 Social Security COLA",
-     "d": "fool.com",
-     "u": "https://www.fool.com/retirement/2026/11/16/3-things-everyone-should-know-about-the-2027-social-security-cola/"
-    }
-   ]
   }
  ]
 }
