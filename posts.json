@@ -1,6 +1,973 @@
 {
- "updated": "2026-11-17T02:00:00Z",
+ "updated": "2026-11-17T03:00:00Z",
  "items": [
+  {
+   "id": "nvidia-earnings-day-2026111703",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets",
+    "ai"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T03:00:00Z",
+   "headline": "Nvidia reports today under an interim CEO; analysts slash targets, HSBC to $170",
+   "caption": "It is Nvidia's first report since Jensen Huang quit on Nov. 12. Several banks cut their price targets after the stock's worst week on record.",
+   "visual": {
+    "type": "board",
+    "title": "Nvidia into earnings",
+    "rows": [
+     {
+      "k": "Last close",
+      "s": "After a record weekly drop",
+      "v": "$162.85",
+      "ch": -12.8,
+      "tone": "loss"
+     },
+     {
+      "k": "HSBC target",
+      "s": "Was $365",
+      "v": "$170",
+      "tone": "loss"
+     },
+     {
+      "k": "UBS target",
+      "s": "Was $300",
+      "v": "$240",
+      "tone": "loss"
+     },
+     {
+      "k": "Mizuho target",
+      "s": "Was $250",
+      "v": "$220",
+      "tone": "loss"
+     },
+     {
+      "k": "UBS sales forecast",
+      "s": "Fiscal Q3",
+      "v": "$111-112B",
+      "tone": "acc"
+     }
+    ],
+    "foot": "Results due about 1:20 p.m. PT; call at 2 p.m. PT"
+   },
+   "detail": [
+    "Nvidia posts its fiscal third-quarter results today at about 1:20 p.m. Pacific, with a call at 2 p.m. It is the first report since Jensen Huang resigned on Nov. 12. CFO Colette Kress is interim CEO, and Harvey Jones became the company's first board chair.",
+    "Shares fell 12.8% last week to $162.85, the biggest weekly drop on record, and slipped below a $4 trillion market value. Banks have cut targets: HSBC to $170 from $365, UBS to $240 from $300 and Mizuho to $220 from $250. UBS still expects $111 to $112 billion in quarterly sales.",
+    "Investors want to know if AI demand is holding up, and who will lead the company long term. The board is weighing inside and outside CEO candidates."
+   ],
+   "money": [
+    "If you own Nvidia or a tech fund, expect a big move either way after the close.",
+    "Check how much of your index fund sits in Nvidia before deciding to add more.",
+    "Avoid market orders in after-hours trading; prices can gap sharply."
+   ],
+   "risk": [
+    "A weak outlook or CEO news could pull the whole AI trade lower again.",
+    "Price targets are opinions and change fast."
+   ],
+   "sources": [
+    {
+     "t": "NVIDIA Announces CEO Transition (Form 8-K)",
+     "d": "sec.gov",
+     "u": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm"
+    },
+    {
+     "t": "Key Overnight and Morning News (November 16-17)",
+     "d": "panews.io",
+     "u": "https://panews.io/articles/01a1e73b-86e1-7176-95a2-aad8a0f22460"
+    },
+    {
+     "t": "Crypto Enters a Hawkish, Liquidity-Thin Week Amid Fed Hike Bets",
+     "d": "blockhead.co",
+     "u": "https://www.blockhead.co/2026/11/17/crypto-enters-a-hawkish-liquidity-thin-week-amid-fed-hike-bets/"
+    }
+   ]
+  },
+  {
+   "id": "baidu-q3-2026111703",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets",
+    "ai",
+    "world"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T03:00:00Z",
+   "headline": "Baidu's sales slip 1% but its AI cloud grows 94%; GPU cloud revenue nearly triples",
+   "caption": "China's search giant is leaning on AI as old ad revenue shrinks. AI now makes up more than half of its main business.",
+   "visual": {
+    "type": "stat",
+    "title": "Baidu Q3 2026",
+    "num": "+94%",
+    "tone": "gain",
+    "label": "AI cloud infrastructure revenue growth, year over year",
+    "facts": [
+     [
+      "Total revenue",
+      "RMB30.8B",
+      "Down 1% y/y"
+     ],
+     [
+      "AI-powered business",
+      "RMB13.2B",
+      "Up 37%; 53% of core"
+     ],
+     [
+      "GPU cloud",
+      "+191%",
+      "Year over year"
+     ]
+    ]
+   },
+   "detail": [
+    "Baidu said total revenue was 30.8 billion yuan, about $4.6 billion, in the quarter ended Sept. 30. That is down 1% from a year ago. Its general business grew just 1%.",
+    "AI is the bright spot. AI-powered business rose 37% to 13.2 billion yuan, or 53% of general business revenue. AI cloud infrastructure revenue jumped 94% to 8.2 billion yuan, and GPU cloud revenue rose 191%.",
+    "Net income attributable to Baidu was 1.4 billion yuan. The company has bought back $373 million of stock since the start of 2026. Reports say the shares fell about 6%."
+   ],
+   "money": [
+    "The pattern matches many tech firms: AI cloud grows while legacy ads shrink. Look for that split in earnings.",
+    "China tech funds hold Baidu; check your exposure if you own one.",
+    "Buybacks support a stock but don't fix shrinking sales."
+   ],
+   "risk": [
+    "China's economy is slowing, which can hurt ad spending further.",
+    "US-China chip rules could limit Baidu's AI growth."
+   ],
+   "sources": [
+    {
+     "t": "Baidu, Inc. Q3 2026 results (Form 6-K)",
+     "d": "sec.gov",
+     "u": "https://www.sec.gov/Archives/edgar/data/0001329099/000119312526462286/d767848dex991.htm"
+    },
+    {
+     "t": "Key Overnight and Morning News (November 16-17)",
+     "d": "panews.io",
+     "u": "https://panews.io/articles/01a1e73b-86e1-7176-95a2-aad8a0f22460"
+    }
+   ]
+  },
+  {
+   "id": "big-banks-bullish-2026111703",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T03:00:00Z",
+   "headline": "Morgan Stanley goes 'max overweight' on global stocks; BlackRock adds to stocks too",
+   "caption": "Two big firms are buying the dip after weeks of selling. They say global stocks look cheap, but warn about the Fed and AI spending.",
+   "visual": {
+    "type": "board",
+    "title": "Who is turning bullish",
+    "rows": [
+     {
+      "k": "Morgan Stanley",
+      "s": "Global equities",
+      "v": "Max overweight",
+      "tone": "gain"
+     },
+     {
+      "k": "World stocks (ACWI)",
+      "s": "Forward P/E, lowest since 2023",
+      "v": "~15x",
+      "tone": "acc"
+     },
+     {
+      "k": "MS 2027 earnings view",
+      "s": "Global growth",
+      "v": "+13%",
+      "tone": "gain"
+     },
+     {
+      "k": "BlackRock models",
+      "s": "Stock overweight, $300B+ assets",
+      "v": "1% to 3%",
+      "tone": "gain"
+     }
+    ]
+   },
+   "detail": [
+    "Morgan Stanley raised global stocks to 'max overweight,' according to an overnight market roundup. It says the MSCI world index trades at about 15 times expected earnings, the lowest since 2023. It expects global earnings to grow 13% in 2027 and 8% in 2028.",
+    "The bank also upgraded European and Japanese stocks. It named two risks: inflation that forces the Fed to tighten more, and an earlier end to the AI spending boom.",
+    "BlackRock raised the stock overweight in its model portfolios from 1% to 3%, focused on large companies. Those models cover more than $300 billion. It also added longer-term government bonds."
+   ],
+   "money": [
+    "Selloffs can be a chance to rebalance back to your target mix, not to panic-sell.",
+    "Global and international funds may be cheaper than US tech right now.",
+    "Adding slowly over time lowers the risk of buying right before another drop."
+   ],
+   "risk": [
+    "Wall Street calls are often wrong on timing.",
+    "A bigger Fed hike in December could push stocks lower first."
+   ],
+   "sources": [
+    {
+     "t": "Key Overnight and Morning News (November 16-17)",
+     "d": "panews.io",
+     "u": "https://panews.io/articles/01a1e73b-86e1-7176-95a2-aad8a0f22460"
+    }
+   ]
+  },
+  {
+   "id": "athenahealth-layoffs-2026111703",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business",
+    "ai"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T03:00:00Z",
+   "headline": "Athenahealth cuts about 4% of jobs worldwide, citing AI and slow doctor visits",
+   "caption": "The Boston health-software firm is owned by Bain Capital and Hellman & Friedman. Its CEO says AI is changing how work gets done.",
+   "visual": {
+    "type": "points",
+    "title": "Athenahealth's cuts",
+    "items": [
+     "About 4% of positions worldwide",
+     "CEO cites AI changing how work is done",
+     "Provider visits stayed below plans",
+     "Too many layers of managers",
+     "Owners paid $17B for it in 2022"
+    ]
+   },
+   "detail": [
+    "Athenahealth, a Boston company that makes software for doctors' offices, is eliminating about 4% of its positions worldwide. A spokesperson couldn't say how many people or how many in Massachusetts would be affected.",
+    "In an email to staff, CEO Bob Segert gave three reasons. AI is changing how work gets done, visits to health providers have stayed below plan, and the company has too many layers of management.",
+    "Private equity firms Bain Capital and Hellman & Friedman bought Athenahealth in 2022 for $17 billion."
+   ],
+   "money": [
+    "If you work in health-tech admin, learning AI tools can make your role harder to cut.",
+    "Laid off? Ask about severance, COBRA costs and unused vacation payout before signing.",
+    "File for unemployment right away; waiting can delay your first check."
+   ],
+   "risk": [
+    "More firms are naming AI as a reason for cuts, which may spread to other back-office jobs."
+   ],
+   "sources": [
+    {
+     "t": "Athenahealth, Boston health care software company, announces layoffs",
+     "d": "bostonglobe.com",
+     "u": "https://www.bostonglobe.com/2026/11/16/business/athenahealth-layoff-4-percent-bain-capital/"
+    }
+   ]
+  },
+  {
+   "id": "diamondback-double-eagle-2026111703",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business",
+    "world"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T03:00:00Z",
+   "headline": "Diamondback buys Double Eagle's Midland Basin oil land for $2.15B cash plus stock",
+   "caption": "The Texas oil producer adds about 176,000 net acres. It expects the deal to close Dec. 21.",
+   "visual": {
+    "type": "deals",
+    "title": "Diamondback's Permian buy",
+    "items": [
+     {
+      "a": "Diamondback",
+      "b": "Double Eagle IV & V assets",
+      "amt": "$2.15B + 15.56M shares",
+      "st": "Close expected Dec. 21",
+      "c": "pend"
+     },
+     {
+      "a": "Land",
+      "b": "Core Midland Basin",
+      "amt": "176K net acres",
+      "st": "68% undeveloped",
+      "c": "ok"
+     },
+     {
+      "a": "2027 output",
+      "b": "Estimated",
+      "amt": "92 MBoe/d",
+      "st": "38% oil",
+      "c": "ok"
+     }
+    ]
+   },
+   "detail": [
+    "Diamondback Energy agreed to buy assets from Double Eagle IV and V for about $2.15 billion in cash plus about 15.56 million Diamondback shares. The deal covers about 176,000 net acres in the core of Texas's Midland Basin.",
+    "The land is expected to produce about 92,000 barrels of oil equivalent a day in 2027, 38% of it oil. About 68% is undeveloped, with more than 1,200 possible horizontal wells.",
+    "Diamondback values the deal at about 4 times 2027 cash earnings. It says the buy adds to free cash flow and won't raise its debt ratio. It plans to pay with cash, its credit line and possibly a term loan."
+   ],
+   "money": [
+    "Oil companies are buying cheap reserves while prices fall; energy funds hold these firms.",
+    "Deals paid partly in stock can dilute current owners; check the share count.",
+    "Lower oil prices help drivers at the pump even as producers consolidate."
+   ],
+   "risk": [
+    "Falling oil prices could make the deal look expensive later.",
+    "Closing depends on standard conditions."
+   ],
+   "sources": [
+    {
+     "t": "Diamondback Energy, Inc. Announces Core Midland Basin Acquisition",
+     "d": "globenewswire.com",
+     "u": "https://globenewswire.com/news-release/2026/11/16/3403319/22886/en/diamondback-energy-inc-announces-core-midland-basin-acquisition.html"
+    }
+   ]
+  },
+  {
+   "id": "ai-compute-deals-2026111703",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "markets"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T03:00:00Z",
+   "headline": "Reported: OpenAI lines up 457 MW of AMD chips; analyst firm cuts AI spending forecast 40%",
+   "caption": "Deals for AI computing power keep coming. But one research firm now sees far less AI chip spending by 2030.",
+   "visual": {
+    "type": "board",
+    "title": "AI compute: mixed signals",
+    "rows": [
+     {
+      "k": "AMD/TensorWave for OpenAI",
+      "s": "6-year deal, US sites",
+      "v": "457 MW",
+      "tone": "gain"
+     },
+     {
+      "k": "Corvex inference deal",
+      "s": "3 years, Blackwell",
+      "v": "$103M",
+      "tone": "gain"
+     },
+     {
+      "k": "SemiAnalysis 2030 capex",
+      "s": "Was $1.531T",
+      "v": "$923B",
+      "ch": -40,
+      "tone": "loss"
+     },
+     {
+      "k": "SemiAnalysis 2029 capex",
+      "s": "Forecast cut",
+      "v": "-41%",
+      "tone": "loss"
+     }
+    ]
+   },
+   "detail": [
+    "An industry newsletter reports that TensorWave signed a six-year deal to supply OpenAI with 457 megawatts of computing power built on AMD's newest Instinct chips. It is about 8% of a 6-gigawatt pipeline the parties outlined earlier. No price was given.",
+    "Separately, Corvex signed a three-year, $103 million take-or-pay deal with an AI inference customer, according to an overnight roundup.",
+    "But research firm SemiAnalysis reportedly cut its AI chip spending forecast: by 28% for 2028, 41% for 2029 and 40% for 2030. Its 2030 estimate fell to $923 billion from $1.531 trillion."
+   ],
+   "money": [
+    "AI deals still flow, but forecasts are cooling; diversify beyond chip stocks.",
+    "Watch Nvidia's outlook today for a read on the whole AI supply chain.",
+    "Cheaper AI computing over time can lower costs for AI apps you pay for."
+   ],
+   "risk": [
+    "Several figures come from newsletters and forecasts that may change.",
+    "Slower AI spending would hit chip and data center stocks hardest."
+   ],
+   "sources": [
+    {
+     "t": "456X Semi-AI Evening Brief, November 16, 2026",
+     "d": "456xresearch.substack.com",
+     "u": "https://456xresearch.substack.com/p/456x-semi-ai-evening-brief-november"
+    },
+    {
+     "t": "Key Overnight and Morning News (November 16-17)",
+     "d": "panews.io",
+     "u": "https://panews.io/articles/01a1e73b-86e1-7176-95a2-aad8a0f22460"
+    }
+   ]
+  },
+  {
+   "id": "oil-spr-low-2026111703",
+   "type": "news",
+   "cat": "world",
+   "tags": [
+    "world",
+    "markets"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T03:00:00Z",
+   "headline": "Oil slips again; US emergency oil reserve falls to its lowest since 1982",
+   "caption": "Brent dipped to about $92 early Tuesday as traders expect a supply glut. The US reserve is down to 276.4 million barrels.",
+   "visual": {
+    "type": "board",
+    "title": "Oil early Tuesday",
+    "rows": [
+     {
+      "k": "Brent",
+      "s": "1:02 a.m. GMT",
+      "v": "$92.00",
+      "ch": -0.5,
+      "tone": "loss"
+     },
+     {
+      "k": "US crude (WTI)",
+      "s": "1:02 a.m. GMT",
+      "v": "$85.28",
+      "ch": -0.5,
+      "tone": "loss"
+     },
+     {
+      "k": "US emergency reserve",
+      "s": "Lowest since Aug. 1982",
+      "v": "276.4M bbl",
+      "tone": "acc"
+     },
+     {
+      "k": "OPEC+ meeting",
+      "s": "Sets 2027 output",
+      "v": "Nov. 29",
+      "tone": "acc"
+     }
+    ]
+   },
+   "detail": [
+    "Oil fell for another session early Tuesday. Brent was down 44 cents at $92.00 a barrel and US crude was down 44 cents at $85.28. Traders expect more supply than demand as Middle East exports recover.",
+    "The International Energy Agency says the market returns to a surplus this quarter. One analyst said the war risk premium is taking a back seat, even as attacks on Gulf shipping go on.",
+    "US Strategic Petroleum Reserve stocks fell to 276.4 million barrels, the lowest since August 1982, as part of a plan to release 172 million barrels. The wider OPEC+ group meets Nov. 29 to set 2027 output."
+   ],
+   "money": [
+    "Falling crude usually reaches gas and diesel prices within a few weeks.",
+    "Heating oil users may want to wait before locking in a winter price.",
+    "Energy stocks and funds tend to fall when oil does; check your exposure."
+   ],
+   "risk": [
+    "A new Gulf attack or OPEC+ cut could send prices back up fast.",
+    "A low reserve leaves less cushion for future shocks."
+   ],
+   "sources": [
+    {
+     "t": "Oil slips on supply surplus outlook despite Gulf tensions",
+     "d": "asiaone.com",
+     "u": "https://www.asiaone.com/money/oil-slips-supply-surplus-outlook-despite-gulf-tensions"
+    }
+   ]
+  },
+  {
+   "id": "btc-fear-10-2026111703",
+   "type": "news",
+   "cat": "crypto",
+   "tags": [
+    "crypto",
+    "markets"
+   ],
+   "date": "This week",
+   "ts": "2026-11-17T03:00:00Z",
+   "headline": "Crypto fear gauge hits 10 as BlackRock's bitcoin ETF logs 11 straight days of outflows",
+   "caption": "Bitcoin sits near $65,000, about 48% below its record. A Fed hike and Nvidia's results add risk this week.",
+   "visual": {
+    "type": "board",
+    "title": "Crypto mood check",
+    "rows": [
+     {
+      "k": "Bitcoin",
+      "s": "Record was $126,080",
+      "v": "~$65,000",
+      "ch": -48,
+      "tone": "loss"
+     },
+     {
+      "k": "Fear & Greed Index",
+      "s": "0 = extreme fear",
+      "v": "10",
+      "tone": "loss"
+     },
+     {
+      "k": "Spot bitcoin ETFs",
+      "s": "Two weeks of flows",
+      "v": "-$2.35B",
+      "tone": "loss"
+     },
+     {
+      "k": "Spot ether ETFs",
+      "s": "7th straight weekly outflow",
+      "v": "-$399M",
+      "tone": "loss"
+     },
+     {
+      "k": "Stablecoin supply",
+      "s": "30 days, most since 2022",
+      "v": "-$14.2B",
+      "tone": "loss"
+     }
+    ]
+   },
+   "detail": [
+    "Bitcoin trades near $65,000, about 48% below its all-time high of $126,080. It hit $62,112 on Sunday, the lowest since July. The Crypto Fear & Greed Index fell to 10, deep in 'extreme fear.'",
+    "US spot bitcoin ETFs lost about $2.35 billion over two weeks. BlackRock's IBIT has had 11 straight sessions of outflows. Spot ether ETFs saw their seventh straight weekly outflow, and stablecoin supply shrank $14.2 billion in 30 days.",
+    "This week brings Nvidia's results Tuesday, Fed minutes Wednesday and Anthropic's expected Nasdaq debut Thursday. Strategy leaves MSCI's main indexes on Nov. 30."
+   ],
+   "money": [
+    "Extreme fear readings have come before some rebounds, but not always; don't bet the rent.",
+    "If you buy crypto, small regular buys spread out the risk of bad timing.",
+    "Sold at a loss? Crypto losses can offset gains on your taxes."
+   ],
+   "risk": [
+    "Prices could fall further if the Fed raises rates by half a point.",
+    "Leveraged crypto bets can be wiped out in hours."
+   ],
+   "sources": [
+    {
+     "t": "Crypto Enters a Hawkish, Liquidity-Thin Week Amid Fed Hike Bets",
+     "d": "blockhead.co",
+     "u": "https://www.blockhead.co/2026/11/17/crypto-enters-a-hawkish-liquidity-thin-week-amid-fed-hike-bets/"
+    }
+   ]
+  },
+  {
+   "id": "lighter-theft-2026111703",
+   "type": "news",
+   "cat": "crypto",
+   "tags": [
+    "crypto",
+    "business"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T03:00:00Z",
+   "headline": "Crypto exchange Lighter loses about $15.5M after a trader's leaked keys are abused",
+   "caption": "Lighter paused withdrawals, then reopened them. It says its smart contracts were not hacked; flawed signing code at a trader exposed keys.",
+   "visual": {
+    "type": "timeline",
+    "title": "How the Lighter theft unfolded",
+    "items": [
+     {
+      "d": "STEP 1",
+      "t": "About $10.4M USDC leaves the main contract",
+      "s": "Swapped to ETH"
+     },
+     {
+      "d": "STEP 2",
+      "t": "Lighter pauses withdrawals",
+      "s": "Says a trader's API key was compromised"
+     },
+     {
+      "d": "STEP 3",
+      "t": "Total loss put at about $15.5M",
+      "s": "Insecure code reused values and leaked keys"
+     },
+     {
+      "d": "NOW",
+      "t": "About $5M returned; withdrawals resume",
+      "now": true
+     }
+    ]
+   },
+   "detail": [
+    "Lighter, a crypto trading platform, paused withdrawals after about $10.4 million in USDC left its main contract and was swapped into ether. Later reports put the total taken at about $15.5 million, according to an overnight crypto roundup.",
+    "Lighter says a trader's API key was compromised. The affected accounts used insecure signing code that reused values, which let an attacker work out their keys. It says its official software and smart contracts were not affected.",
+    "About $5 million in USDC was returned to affected users, and withdrawals resumed."
+   ],
+   "money": [
+    "Keep only what you trade on an exchange; move the rest to a wallet you control.",
+    "Use exchange API keys with withdrawals turned off and IP limits on.",
+    "Never run trading bots or code you can't verify with real money."
+   ],
+   "risk": [
+    "Details and totals came from one roundup and may change.",
+    "Stolen crypto is rarely fully recovered."
+   ],
+   "sources": [
+    {
+     "t": "Key Overnight and Morning News (November 16-17)",
+     "d": "panews.io",
+     "u": "https://panews.io/articles/01a1e73b-86e1-7176-95a2-aad8a0f22460"
+    }
+   ]
+  },
+  {
+   "id": "snap-130-rule-2026111703",
+   "type": "news",
+   "cat": "benefits",
+   "tags": [
+    "benefits",
+    "politics"
+   ],
+   "date": "Filed Nov 10",
+   "ts": "2026-11-17T03:00:00Z",
+   "headline": "Proposed SNAP rule could cut off 6.3 million people by 2029, USDA projects",
+   "caption": "The plan would limit food aid for households earning over 130% of the poverty line. That's about $35,500 for a family of three.",
+   "visual": {
+    "type": "stat",
+    "title": "Proposed SNAP income limit",
+    "num": "6.3M",
+    "tone": "loss",
+    "label": "People USDA projects could lose SNAP by 2029 if the rule is final",
+    "facts": [
+     [
+      "Gross income cap",
+      "130% of poverty",
+      "About $35,500, family of 3"
+     ],
+     [
+      "Filed",
+      "Nov. 10, 2026",
+      "By the administration"
+     ],
+     [
+      "Also hits",
+      "Non-cash TANF link",
+      "Child care, job training"
+     ]
+    ]
+   },
+   "detail": [
+    "The Trump administration filed a proposed rule on Nov. 10 that would limit SNAP food benefits for households with gross income above 130% of the federal poverty line. The Center on Budget and Policy Priorities puts that at about $35,500 a year for a family of three.",
+    "Many states now let families above that line qualify if they get non-cash TANF help, like child care aid or job training. Under the proposal, that link would no longer qualify households over the income limit.",
+    "USDA projects that 6.3 million people could lose SNAP by 2029 if the rule is finalized. No final date has been set."
+   ],
+   "money": [
+    "If your income is near 130% of poverty, check your state's limit now and plan ahead.",
+    "Food banks, WIC and school meals can help fill a gap if SNAP is cut.",
+    "Keep paperwork current; many people lose benefits over missed forms, not income."
+   ],
+   "risk": [
+    "The rule is only proposed and could change or face lawsuits.",
+    "Some states may not be able to replace lost federal aid."
+   ],
+   "sources": [
+    {
+     "t": "Proposed changes to SNAP eligibility drop millions from benefits",
+     "d": "spectrumnews1.com",
+     "u": "https://spectrumnews1.com/ca/la/politics/2026/11/16/new-proposed-cuts-to-snap-eligibility-could-leave-millions-without-benefits-"
+    }
+   ]
+  },
+  {
+   "id": "montana-budget-2026111703",
+   "type": "news",
+   "cat": "states",
+   "tags": [
+    "states",
+    "taxes"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T03:00:00Z",
+   "headline": "Montana governor proposes a 4.7% flat income tax and $220M in permanent tax relief",
+   "caption": "Gov. Greg Gianforte's budget also adds $300 million to the rainy-day fund. Lawmakers take it up in 2027.",
+   "visual": {
+    "type": "board",
+    "title": "Gianforte's 2029 budget plan",
+    "rows": [
+     {
+      "k": "Income tax",
+      "s": "Single flat rate",
+      "v": "4.7%",
+      "tone": "gain"
+     },
+     {
+      "k": "Tax relief",
+      "s": "Permanent",
+      "v": "$220M",
+      "tone": "gain"
+     },
+     {
+      "k": "Rainy-day deposit",
+      "s": "Stabilization fund",
+      "v": "+$300M",
+      "tone": "acc"
+     },
+     {
+      "k": "Fund total after",
+      "v": "~$900M",
+      "tone": "acc"
+     }
+    ],
+    "foot": "Goes to the 2027 legislative session"
+   },
+   "detail": [
+    "Montana Gov. Greg Gianforte released his budget for the 2029 biennium on Monday. It proposes a 4.7% flat income tax rate and $220 million in permanent tax relief.",
+    "The plan adds $300 million to the state's budget stabilization fund, bringing it to nearly $900 million. Spending priorities include public schools, wildfire response, roads and bridges, and public safety.",
+    "The proposal now goes to the 2027 legislative session, where lawmakers will debate it. New Mexico floated a similar 4.7% single rate last week."
+   ],
+   "money": [
+    "Montana filers: a flat rate mostly helps if you're in the top bracket today; run your numbers.",
+    "Moving for taxes? Compare property, sales and income taxes together.",
+    "Don't change your withholding until a law actually passes."
+   ],
+   "risk": [
+    "Lawmakers may change or reject the plan.",
+    "Tax cuts can mean less money for services later."
+   ],
+   "sources": [
+    {
+     "t": "Gianforte proposes 2029 biennium budget",
+     "d": "nbcmontana.com",
+     "u": "https://nbcmontana.com/newsletter-daily/gianforte-proposes-2029-biennium-budget"
+    }
+   ]
+  },
+  {
+   "id": "states-decouple-2026111703",
+   "type": "news",
+   "cat": "taxes",
+   "tags": [
+    "taxes",
+    "states",
+    "business"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T03:00:00Z",
+   "headline": "States are quietly raising business taxes by rejecting federal write-offs",
+   "caption": "Instead of hiking rates, more states are 'decoupling' from 2025 federal tax breaks. Tax pros say it creates winners and losers.",
+   "visual": {
+    "type": "points",
+    "title": "What decoupling means",
+    "items": [
+     "States skip federal 100% bonus depreciation",
+     "Research costs written off more slowly",
+     "Some states now tax foreign profits (NCTI)",
+     "Texas matched federal bonus depreciation",
+     "Feds cut SNAP admin share to 25% in FY2027"
+    ]
+   },
+   "detail": [
+    "More states are 'decoupling' from parts of the 2025 federal tax law rather than raising income tax rates, according to Thomson Reuters' Checkpoint. That means they don't follow certain federal deductions when figuring state tax.",
+    "The most common change: spreading out write-offs for 100% bonus depreciation and domestic research costs over more years. Democratic-leaning states appear more likely to do this. Some states also tax a type of foreign profit, called NCTI, often without a foreign tax credit.",
+    "Budget pressure is part of the story. Starting in fiscal 2027, the federal share of SNAP administrative costs drops from 50% to 25%, shifting costs to states."
+   ],
+   "money": [
+    "Small business owners: your state write-off may differ from your federal one; ask your preparer.",
+    "Buying equipment before year-end? Check if your state allows the full deduction.",
+    "Keep separate depreciation records for federal and state returns."
+   ],
+   "risk": [
+    "Rules vary widely by state and can change in each session.",
+    "Double tracking adds tax prep costs."
+   ],
+   "sources": [
+    {
+     "t": "States decouple from tax breaks as foreign income rules create winners, losers, pros say",
+     "d": "tax.thomsonreuters.com",
+     "u": "https://tax.thomsonreuters.com/news/states-decouple-from-tax-breaks-as-foreign-income-rules-create-winners-losers-pros-say"
+    }
+   ]
+  },
+  {
+   "id": "appleton-ice-2026111703",
+   "type": "news",
+   "cat": "immigration",
+   "tags": [
+    "immigration",
+    "states"
+   ],
+   "date": "Sat Nov 14",
+   "ts": "2026-11-17T03:00:00Z",
+   "headline": "ICE opens a Minnesota detention center it bought for $495.6M; protesters seek answers",
+   "caption": "The former private prison in Appleton, Minn., opened Nov. 9. More than 100 people held a vigil Saturday as detainees arrived.",
+   "visual": {
+    "type": "timeline",
+    "title": "Appleton detention facility",
+    "items": [
+     {
+      "d": "2010",
+      "t": "Private prison closes",
+      "s": "Was owned by CoreCivic"
+     },
+     {
+      "d": "AUG",
+      "t": "ICE buys it",
+      "s": "$495.6M, per KARE 11; listed at $75M"
+     },
+     {
+      "d": "NOV 9",
+      "t": "DHS says it opened"
+     },
+     {
+      "d": "NOV 14",
+      "t": "100+ attend vigil and rally",
+      "s": "Organizers say 70+ held",
+      "now": true
+     }
+    ]
+   },
+   "detail": [
+    "A former private prison in Appleton, Minnesota, has opened as an ICE detention facility. DHS said it opened Nov. 9. The building, once owned by CoreCivic, sat empty from 2010 until ICE bought it in August.",
+    "KARE 11 reported the site was listed for $75 million and bought for $495.6 million. An attorney involved with organizers said it can hold up to 1,600 people, and organizers believe more than 70 are held now. Those figures were not independently confirmed.",
+    "More than 100 people held a prayer vigil Saturday, asking for transparency and humane conditions, including family and attorney access. DHS had not responded to MPR News' request for comment."
+   ],
+   "money": [
+    "Detention centers can bring local jobs and contracts; watch county hiring notices.",
+    "Families with a detained relative can face legal and travel costs; nonprofit legal aid may help.",
+    "Federal spending choices like this shape budgets for other programs."
+   ],
+   "risk": [
+    "Capacity and detainee counts are not confirmed by DHS."
+   ],
+   "sources": [
+    {
+     "t": "Appleton ICE detention facility draws dozens of protesters in first weekend of operation",
+     "d": "mprnews.org",
+     "u": "https://www.mprnews.org/story/2026/11/15/appleton-ice-detention-facility-draws-protests-in-first-weekend-of-operation"
+    }
+   ]
+  },
+  {
+   "id": "sd-ice-police-reports-2026111703",
+   "type": "news",
+   "cat": "california",
+   "tags": [
+    "california",
+    "immigration"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T03:00:00Z",
+   "headline": "San Diego will make police report each time they respond to a scene with ICE",
+   "caption": "The move follows a filmed Nov. 13 arrest in Oak Park. The family and DHS give very different accounts of what happened.",
+   "visual": {
+    "type": "points",
+    "title": "What San Diego agreed to",
+    "items": [
+     "Police report each ICE-scene response within 3 business days",
+     "Say why officers were there and what they did",
+     "Help families find relatives after ICE arrests",
+     "Chief pledges more updates to the council"
+    ]
+   },
+   "detail": [
+    "An ICE arrest in San Diego's Oak Park neighborhood on Friday, Nov. 13, was caught on a home camera. The man's 18-year-old daughter says an agent pushed her down, drew a gun and used a taser. DHS says the man drove into a government vehicle and the daughter attacked officers. She disputes that.",
+    "Councilmember Sean Elo-Rivera asked Mayor Todd Gloria to require police to publicly report, within three business days, each time they respond to a scene with federal immigration agents. He also wants police to help families find relatives after arrests. The mayor's staff committed to both at Monday's council meeting.",
+    "Police Chief Scott Wahl pledged more frequent reports to the council. Police said they responded to a reported crash and agents had left when they arrived."
+   ],
+   "money": [
+    "Families can save local legal aid and rapid-response numbers ahead of time.",
+    "Online fundraisers for legal fees vary; check who runs them before giving.",
+    "Know your city's rules on police and ICE cooperation."
+   ],
+   "risk": [
+    "Accounts of the arrest conflict, and facts may change."
+   ],
+   "sources": [
+    {
+     "t": "San Diego ICE arrest prompts calls for more police transparency during incidents with immigration agents",
+     "d": "kpbs.org",
+     "u": "https://www.kpbs.org/news/politics/2026/11/16/san-diego-ice-arrest-prompts-calls-for-more-police-transparency-during-incidents-with-immigration-agents"
+    }
+   ]
+  },
+  {
+   "id": "edu-spr-2026111703",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "world"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-17T03:00:00Z",
+   "headline": "The emergency oil reserve: what it is and why it matters",
+   "caption": "The US stockpile just hit its lowest level since 1982. Here's how it works.",
+   "scenes": [
+    {
+     "k": "TODAY'S NEWS",
+     "t": "US oil reserve hits a 44-year low",
+     "s": "It holds 276.4 million barrels, the least since 1982."
+    },
+    {
+     "k": "WHAT IT IS",
+     "t": "A giant stash of crude underground",
+     "s": "Oil sits in salt caverns along the Texas and Louisiana coast."
+    },
+    {
+     "k": "WHY IT EXISTS",
+     "t": "Built after the 1970s oil shocks",
+     "s": "It cushions the country when supply is suddenly cut."
+    },
+    {
+     "k": "HOW IT WORKS",
+     "t": "Release oil, cool prices",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "Supply shock",
+       "Government sells reserve oil",
+       "More oil on market",
+       "Pump prices ease"
+      ]
+     }
+    },
+    {
+     "k": "THE CATCH",
+     "t": "A smaller reserve is a thinner cushion",
+     "s": "Refilling it later means buying oil back, which can lift prices."
+    },
+    {
+     "k": "YOUR MOVE",
+     "t": "Don't count on prices staying low",
+     "s": "Budget for gas swings. General ideas, not advice."
+    }
+   ]
+  },
+  {
+   "id": "edu-snap-income-test-2026111703",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "benefits"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-17T03:00:00Z",
+   "headline": "SNAP's income test: what '130% of poverty' means",
+   "caption": "A proposed rule would enforce that line more strictly. Here's how the math works.",
+   "scenes": [
+    {
+     "k": "TODAY'S NEWS",
+     "t": "A SNAP rule could cut 6.3M people",
+     "s": "USDA projects that by 2029 if the rule is final."
+    },
+    {
+     "k": "THE LINE",
+     "t": "Gross income up to 130% of poverty",
+     "viz": {
+      "type": "split",
+      "items": [
+       [
+        "Test",
+        "130%"
+       ],
+       [
+        "Family of 3",
+        "~$35,500"
+       ],
+       [
+        "Counts pay before taxes",
+        "Gross income",
+        "wide"
+       ]
+      ]
+     },
+     "say": "The test is 130 percent of the poverty line. For a family of three that is about 35,500 dollars a year, before taxes."
+    },
+    {
+     "k": "THE WORKAROUND",
+     "t": "Many states go higher today",
+     "s": "Families tied to non-cash TANF help can qualify above the line."
+    },
+    {
+     "k": "THE CHANGE",
+     "t": "That link would stop counting",
+     "s": "Households over 130% couldn't qualify through it anymore."
+    },
+    {
+     "k": "WHO'S AT RISK",
+     "t": "Working families just over the line",
+     "s": "A raise or extra shifts could push them out."
+    },
+    {
+     "k": "YOUR MOVE",
+     "t": "Know your state's limit",
+     "s": "Check your income against it yearly. General ideas, not advice."
+    }
+   ]
+  },
   {
    "id": "ca-sues-openai-2026111702",
    "type": "news",
@@ -10956,1082 +11923,6 @@
      "t": "Gas Prices in California Today: Weekly Price Chart",
      "d": "kadoa.com",
      "u": "https://www.kadoa.com/energy-prices/fuel/gasoline/california"
-    }
-   ]
-  },
-  {
-   "id": "dram-antitrust-proceeds-2026111614",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business",
-    "ai",
-    "markets"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T14:20:00Z",
-   "headline": "Court lets DRAM price-fixing suit against Samsung, SK hynix and Micron move ahead",
-   "caption": "A federal court denied the chipmakers' bids to dismiss a memory price-fixing case. Plaintiffs point to a 697% DRAM price rise with no company breaking ranks.",
-   "visual": {
-    "type": "timeline",
-    "title": "US DRAM antitrust case",
-    "items": [
-     {
-      "d": "SEP 22",
-      "t": "Plaintiffs oppose dismissal"
-     },
-     {
-      "d": "NOV 16",
-      "t": "Dismissal denied, per reports",
-      "s": "Case proceeds",
-      "now": true
-     }
-    ]
-   },
-   "detail": [
-    "A federal court let an antitrust lawsuit against Samsung, SK hynix and Micron proceed, denying their motions to dismiss, according to a Monday market report. The suit accuses them of conspiring to limit DRAM memory supply and raise prices.",
-    "Plaintiffs argue smaller makers cut supply first and the market leader followed about two months later. They say the restraint lasted over three years through a 697% price increase. The companies have sought to have the claims thrown out."
-   ],
-   "money": [
-    "Memory prices feed into the cost of phones, PCs and servers, so a win for buyers could ease prices over time.",
-    "Legal risk adds to an already rough stretch for memory stocks; diversify rather than bet on one chipmaker.",
-    "Class actions take years; any payout to consumers is usually small and slow."
-   ],
-   "risk": [
-    "The companies deny wrongdoing; the case is far from decided."
-   ],
-   "sources": [
-    {
-     "t": "US Pre-Market: Nasdaq Futures Fall Over 1%, Nvidia Drops About 4%",
-     "d": "tradingkey.com",
-     "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262307008-us-nvda-nasdaq-futures-nvidia-jensen-huang-anthropic-ipo-tradingkey"
-    },
-    {
-     "t": "Plaintiffs defend US antitrust claims against Samsung, SK Hynix, Micron",
-     "d": "mlex.com",
-     "u": "https://www.mlex.com/mlex/articles/2529683"
-    }
-   ]
-  },
-  {
-   "id": "edu-standard-vs-itemize-2026111614",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "taxes"
-   ],
-   "date": "Explainer",
-   "ts": "2026-11-16T14:20:00Z",
-   "headline": "Standard deduction vs. itemizing: which saves more?",
-   "caption": "The 2027 standard deduction rises to $33,200 for couples. Here's how to tell if itemizing could beat it.",
-   "scenes": [
-    {
-     "k": "Today's news",
-     "t": "$33,200 for couples in 2027",
-     "s": "The standard deduction rises $1,000 for married couples."
-    },
-    {
-     "k": "The basics",
-     "t": "Two ways to cut taxable income",
-     "s": "Take a flat amount, or add up specific expenses. You pick the bigger one."
-    },
-    {
-     "k": "Itemizing adds up",
-     "t": "Mortgage interest, state taxes, gifts",
-     "viz": {
-      "type": "flow",
-      "items": [
-       "Mortgage interest",
-       "State and local taxes",
-       "Charity gifts",
-       "Big medical bills"
-      ]
-     }
-    },
-    {
-     "k": "The math",
-     "t": "Compare the totals",
-     "viz": {
-      "type": "split",
-      "items": [
-       [
-        "Your itemized total",
-        "$28,000"
-       ],
-       [
-        "2027 standard (couple)",
-        "$33,200"
-       ],
-       [
-        "Better choice",
-        "Standard",
-        "wide"
-       ]
-      ]
-     },
-     "say": "If your itemized costs come to twenty-eight thousand dollars, the thirty-three thousand two hundred dollar standard deduction wins."
-    },
-    {
-     "k": "A trick",
-     "t": "Bunch costs into one year",
-     "s": "Packing two years of gifts into one can push you over the line every other year."
-    },
-    {
-     "k": "Takeaway",
-     "t": "Run both numbers each year",
-     "s": "Tax software does it automatically. Just make sure every expense is entered."
-    }
-   ]
-  },
-  {
-   "id": "edu-defensive-stocks-2026111614",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "markets"
-   ],
-   "date": "Explainer",
-   "ts": "2026-11-16T14:20:00Z",
-   "headline": "Defensive stocks: why staples rise when tech falls",
-   "caption": "Staples and health care rose while tech slid before Monday's open. Here's why some stocks hold up in rough markets.",
-   "scenes": [
-    {
-     "k": "Today's news",
-     "t": "Tech -1.6%, health care +0.7%",
-     "s": "Investors moved money into steadier sectors before the bell."
-    },
-    {
-     "k": "The basics",
-     "t": "People still buy soap in a downturn",
-     "s": "Defensive companies sell things we need no matter what: food, medicine, power."
-    },
-    {
-     "k": "Who counts",
-     "t": "The usual defensive sectors",
-     "viz": {
-      "type": "flow",
-      "items": [
-       "Consumer staples",
-       "Health care",
-       "Utilities"
-      ]
-     }
-    },
-    {
-     "k": "The trade-off",
-     "t": "Steadier, but slower",
-     "viz": {
-      "type": "split",
-      "items": [
-       [
-        "Growth stocks",
-        "Big swings"
-       ],
-       [
-        "Defensive stocks",
-        "Smaller swings"
-       ],
-       [
-        "Mix of both",
-        "Smoother ride",
-        "wide"
-       ]
-      ]
-     },
-     "say": "Growth stocks swing big. Defensive stocks swing less. A mix of both gives a smoother ride."
-    },
-    {
-     "k": "Watch out",
-     "t": "Defense can lag in a rally",
-     "s": "If tech bounces after Nvidia's report, staples may trail behind."
-    },
-    {
-     "k": "Takeaway",
-     "t": "Own some before you need it",
-     "s": "Holding a balanced mix beats rushing into safety after a drop."
-    }
-   ]
-  },
-  {
-   "id": "tyson-q4-beat-dividend-2026111613",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business",
-    "markets"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T13:20:00Z",
-   "headline": "Tyson edges past estimates and lifts its dividend 2%, but sees 2027 sales falling",
-   "caption": "What's new: Tyson's numbers are out. Adjusted EPS of $0.61 edged past forecasts, beef lost $1.22B for the year, and 2027 sales are guided down 3.5% to 5.5%.",
-   "visual": {
-    "type": "board",
-    "title": "Tyson fiscal Q4 / FY2026",
-    "rows": [
-     {
-      "k": "Q4 sales",
-      "s": "vs. estimates",
-      "v": "$14.59B",
-      "ch": 5.3,
-      "tone": "gain"
-     },
-     {
-      "k": "Adj. EPS",
-      "s": "1 cent above forecasts",
-      "v": "$0.61",
-      "ch": -47,
-      "tone": "loss"
-     },
-     {
-      "k": "Beef, FY26",
-      "s": "operating result",
-      "v": "-$1.22B",
-      "tone": "loss"
-     },
-     {
-      "k": "Chicken, FY26",
-      "s": "operating income",
-      "v": "$1.75B",
-      "tone": "gain"
-     },
-     {
-      "k": "FY27 sales outlook",
-      "v": "-3.5% to -5.5%",
-      "tone": "acc"
-     }
-    ],
-    "foot": "Dividend raised 2%. Shares rose premarket."
-   },
-   "detail": [
-    "Tyson Foods reported fiscal fourth-quarter sales of $14.59 billion, up about 5% from a year ago and roughly $490 million above estimates. Adjusted earnings were $0.61 a share, one cent better than forecasts but down 47% from last year. Without an extra week and legal accruals, sales would have fallen 4%.",
-    "Beef remains the problem. The segment lost about $1.22 billion for the year as volumes fell and cattle costs jumped. Chicken earned about $1.75 billion and prepared foods about $1.33 billion. For 2027, Tyson guides beef between a $300 million loss and $100 million of profit, as cattle supplies are expected to improve.",
-    "The company raised its yearly dividend by 2% and expects $1.7 billion to $2.15 billion in adjusted operating income in 2027. Shares rose in premarket trading."
-   ],
-   "money": [
-    "A dividend payout ratio above 100% means profits don't fully cover the dividend yet; check that before buying for income.",
-    "High beef costs are hitting producers too; at the store, chicken and pork are often the cheaper protein.",
-    "Food stocks often get bought as a defensive move when tech swings; size any position with that in mind."
-   ],
-   "risk": [
-    "Tyson expects lower sales in 2027, and beef could stay in the red."
-   ],
-   "sources": [
-    {
-     "t": "Tyson Foods (TSN) Q4 Earnings Beat Estimates, Raises Dividend by 2%",
-     "d": "gurufocus.com",
-     "u": "https://www.gurufocus.com/news/9201323/tyson-foods-tsn-q4-earnings-beat-estimates-raises-dividend-by-2"
-    },
-    {
-     "t": "Tyson Foods gains as it battles through beef headwinds",
-     "d": "seekingalpha.com",
-     "u": "https://seekingalpha.com/news/4672959-tyson-foods-gains-as-it-battles-through-beef-headwinds?feed_item_type=news"
-    },
-    {
-     "t": "Tyson Foods (TSN) Q4 2026 Earnings: Beef Posts $1.22 Billion",
-     "d": "panabee.com",
-     "u": "https://www.panabee.com/news/tyson-foods-earnings-q4-2026"
-    }
-   ]
-  },
-  {
-   "id": "cnrl-buys-advantage-2026111613",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business",
-    "world"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T13:20:00Z",
-   "headline": "Canadian Natural agrees to buy Advantage Energy for C$2.53B in cash, a 25% premium",
-   "caption": "Canadian Natural Resources will pay C$13.55 a share for gas producer Advantage. The price is above anything Advantage stock has traded at in 18 years.",
-   "visual": {
-    "type": "deals",
-    "title": "Canada gas deal",
-    "items": [
-     {
-      "a": "Canadian Natural",
-      "b": "Advantage Energy",
-      "amt": "C$2.53B",
-      "st": "All cash, C$13.55/share, 25% premium",
-      "c": "pend"
-     }
-    ]
-   },
-   "detail": [
-    "Canadian Natural Resources agreed to buy Advantage Energy for C$13.55 per share in cash. That is a 25% premium to Advantage's Friday close and its 30-day average price. Including debt and convertible notes, the deal is worth about C$2.53 billion.",
-    "Advantage produced about 87,000 barrels of oil equivalent per day in the third quarter, mostly natural gas. Canadian Natural will also cover Advantage's 5% convertible debentures.",
-    "Advantage shareholders vote in January 2027. The deal also needs Canadian competition and Alberta court approval, with closing expected in the first quarter of 2027."
-   ],
-   "money": [
-    "Takeover premiums reward existing holders; buying after the news usually leaves only a small gap to the deal price.",
-    "Energy buyers paying cash for gas reserves signals they expect demand to hold up; gas-heavy funds may benefit.",
-    "If you own the target, compare the deal price with the market price to see how sure traders think the deal is."
-   ],
-   "risk": [
-    "Deals can fail on regulatory or shareholder votes, and the target's stock can drop back."
-   ],
-   "sources": [
-    {
-     "t": "Advantage Announces Agreement to be Acquired by Canadian Natural Resources Ltd.",
-     "d": "newswire.ca",
-     "u": "https://www.newswire.ca/news-releases/advantage-announces-agreement-to-be-acquired-by-canadian-natural-resources-ltd--818939118.html"
-    },
-    {
-     "t": "Canadian Natural Resources Limited Enters into Agreement to Acquire Advantage Energy Ltd.",
-     "d": "boereport.com",
-     "u": "https://boereport.com/2026/11/16/canadian-natural-resources-limited-enters-into-agreement-to-acquire-advantage-energy-ltd/"
-    }
-   ]
-  },
-  {
-   "id": "telkom-jumps-mtn-confirmed-2026111613",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business",
-    "world"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T13:20:00Z",
-   "headline": "Telkom stock jumps 15% to a 52-week high after confirming MTN takeover talks",
-   "caption": "What's new: Telkom confirmed MTN may bid for the whole company, and its shares surged. MTN fell 2.3% as investors weighed the cost.",
-   "visual": {
-    "type": "stat",
-    "title": "Johannesburg, Monday",
-    "num": "+15.1%",
-    "tone": "gain",
-    "label": "Telkom's jump after confirming early talks with MTN.",
-    "facts": [
-     [
-      "Telkom price",
-      "R71.35",
-      "from R62 Friday"
-     ],
-     [
-      "MTN",
-      "-2.3%",
-      "about R10B lost in value"
-     ],
-     [
-      "Gov't stake",
-      "40.5%",
-      "plus 11.1% pension fund"
-     ]
-    ]
-   },
-   "detail": [
-    "South Africa's Telkom confirmed it is in talks that could lead to an offer from MTN for all of its shares. Telkom stock jumped about 15% to R71.35 and hit a 52-week high of R73.30 during the day.",
-    "MTN shares fell 2.3%, cutting nearly R10 billion from its market value. Reports say MTN is weighing a cash offer with an option to take MTN shares. Both firms said talks are early and no deal is certain.",
-    "The government owns 40.5% of Telkom and its employee pension fund holds 11.1%, so together they will likely decide the outcome. Telkom reports interim results on Tuesday."
-   ],
-   "money": [
-    "Stocks often jump on talks alone; much of the potential premium may already be priced in.",
-    "Emerging-market funds may hold both companies; check your fund's top holdings.",
-    "A failed 2022 attempt shows deals between these two can stall; avoid betting big on a final offer."
-   ],
-   "risk": [
-    "If talks collapse, Telkom shares could give back much of Monday's gain."
-   ],
-   "sources": [
-    {
-     "t": "Telkom shares jump 15% as investors bet on an MTN offer",
-     "d": "techcentral.co.za",
-     "u": "https://techcentral.co.za/telkom-shares-jump-mtn-talks/288465/"
-    }
-   ]
-  },
-  {
-   "id": "bxdc-aws-datacenters-5b-2026111613",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "business",
-    "markets"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T13:20:00Z",
-   "headline": "Blackstone REIT buys 75% of 13 AWS data centers for ~$5B; Amazon leases them back",
-   "caption": "Blackstone Digital Infrastructure Trust is buying into two AWS campuses at a 7% starting yield. Amazon keeps 25% and signs leases of up to 32 years.",
-   "visual": {
-    "type": "board",
-    "title": "BXDC's AWS deal",
-    "rows": [
-     {
-      "k": "Price",
-      "v": "~$5B"
-     },
-     {
-      "k": "Stake",
-      "s": "AWS keeps 25%",
-      "v": "75%"
-     },
-     {
-      "k": "Buildings",
-      "s": "two AWS campuses",
-      "v": "13"
-     },
-     {
-      "k": "Starting yield",
-      "s": "cap rate",
-      "v": "7.0%",
-      "tone": "acc"
-     },
-     {
-      "k": "Lease",
-      "s": "triple net",
-      "v": "12-32 yrs"
-     }
-    ],
-    "foot": "Expected to close in Q4 2026"
-   },
-   "detail": [
-    "Blackstone Digital Infrastructure Trust, which trades as BXDC, agreed to buy a 75% stake in two joint ventures with Amazon Web Services. They own 13 newly built data center shells across two AWS campuses. AWS keeps the other 25%.",
-    "AWS leases back 100% of the space on triple-net terms, meaning the tenant pays taxes, insurance and upkeep. The first lease term is 12 years and can stretch to 32 years. The price of about $5 billion works out to a 7.0% initial cap rate.",
-    "The company said the deal puts its IPO money to work. It expects to close in the fourth quarter of 2026."
-   ],
-   "money": [
-    "A 7% cap rate means about $7 of yearly rent income per $100 paid; compare that with a 5.15% 10-year Treasury yield.",
-    "Data center REITs let regular investors own AI buildings for income; look at the tenant and lease length first.",
-    "Sale-leasebacks free up cash for Big Tech; watch whether more AI giants sell buildings to fund chips."
-   ],
-   "risk": [
-    "If AI demand cools, data center values could fall even with long leases.",
-    "REIT prices often drop when interest rates rise."
-   ],
-   "sources": [
-    {
-     "t": "Blackstone Digital Infrastructure Trust press release (Form 8-K exhibit)",
-     "d": "sec.gov",
-     "u": "https://www.sec.gov/Archives/edgar/data/0002100161/000119312526461954/d115778dex991.htm"
-    },
-    {
-     "t": "Blackstone Digital Infrastructure Trust agrees to US$5B deal",
-     "d": "mugglehead.com",
-     "u": "https://mugglehead.com/blackstone-digital-infrastructure-trust-data-centre-acquisition/"
-    }
-   ]
-  },
-  {
-   "id": "faa-router-cause-50b-2026111613",
-   "type": "news",
-   "cat": "politics",
-   "tags": [
-    "politics",
-    "business"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T13:20:00Z",
-   "headline": "FAA outage traced to a router chain reaction; Duffy now wants $50B for air traffic control",
-   "caption": "What's new: investigators say an Arkansas router swap set off a Texas router that flooded the network. Flights were mostly back Monday, with 284 cancellations by 7 a.m. ET.",
-   "visual": {
-    "type": "board",
-    "title": "Flight meltdown tally",
-    "rows": [
-     {
-      "k": "Canceled since Fri",
-      "v": "18,520",
-      "tone": "loss"
-     },
-     {
-      "k": "Delayed since Fri",
-      "v": "28,300+",
-      "tone": "loss"
-     },
-     {
-      "k": "Mon cancels, 7am ET",
-      "s": "American had 157",
-      "v": "284",
-      "tone": "acc"
-     },
-     {
-      "k": "Duffy's ask",
-      "s": "was $30B",
-      "v": "$50B"
-     },
-     {
-      "k": "Approved last year",
-      "v": "$12.5B"
-     }
-    ]
-   },
-   "detail": [
-    "Investigators are looking at network gear at FAA sites in El Dorado, Arkansas, and Amarillo, Texas. Replacing a router in Arkansas reportedly triggered a newly replaced router in Texas to send out too much data, which overwhelmed routers at other control centers. The FAA turned off that broadcast feature on about 60 more routers.",
-    "Transportation Secretary Sean Duffy said there is no sign of a cyberattack. He raised his request to modernize air traffic control to $50 billion, up from $30 billion. Congress approved $12.5 billion last year. Contractor L3Harris worked on the upgrades.",
-    "As of 7 a.m. ET Monday, FlightAware showed 284 canceled and 954 delayed U.S. flights. Since Friday, more than 18,500 flights were canceled."
-   ],
-   "money": [
-    "If your flight was canceled, U.S. rules generally entitle you to a cash refund if you decline rebooking; ask for it.",
-    "Before Thanksgiving, book nonstop flights where you can; fewer connections means fewer chances to get stranded.",
-    "Credit cards with trip-delay coverage can repay hotel and meal costs; check your card's benefits page."
-   ],
-   "risk": [
-    "The exact cause isn't confirmed, so more outages are possible during the busy holiday travel season."
-   ],
-   "sources": [
-    {
-     "t": "Monday air travel faces key test after FAA ground stop as possible cause emerges",
-     "d": "foxbusiness.com",
-     "u": "https://www.foxbusiness.com/fox-news-air-space/monday-air-travel-faces-key-test-faa-ground-stop-possible-cause-emerges"
-    },
-    {
-     "t": "Air travel, flights normalize after ground stop caused weekend disruption",
-     "d": "nbcnews.com",
-     "u": "https://www.nbcnews.com/news/us-news/flights-air-traffic-delays-groundstop-faa-duffy-rcna609545"
-    }
-   ]
-  },
-  {
-   "id": "btc-below-200-week-avg-2026111613",
-   "type": "news",
-   "cat": "crypto",
-   "tags": [
-    "crypto",
-    "markets"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T13:20:00Z",
-   "headline": "Bitcoin slips below its 200-week average near $68,200; ETFs have lost $2.1B in November",
-   "caption": "Bitcoin traded near $64,500 Monday, about $3,700 under a long-term line many traders watch. Ether sits about $750 under its own 200-week average.",
-   "visual": {
-    "type": "board",
-    "title": "Crypto vs. long-term trend",
-    "rows": [
-     {
-      "k": "Bitcoin",
-      "s": "200-wk avg $68,184",
-      "v": "$64,466",
-      "ch": -5.5,
-      "tone": "loss"
-     },
-     {
-      "k": "Ether",
-      "s": "200-wk avg $2,560",
-      "v": "$1,809",
-      "ch": -29.3,
-      "tone": "loss"
-     },
-     {
-      "k": "BTC ETF flows, Nov",
-      "s": "7 straight days out",
-      "v": "-$2.1B",
-      "tone": "loss"
-     },
-     {
-      "k": "Daily RSI",
-      "s": "under 30 = oversold",
-      "v": "24.3",
-      "tone": "acc"
-     }
-    ],
-    "foot": "Prices early Monday ET"
-   },
-   "detail": [
-    "Bitcoin was near $64,500 early Monday, about 7% below Friday morning and roughly $3,700 below its 200-week moving average of about $68,184. Many long-term traders treat that average as a floor. It hit a weekend low near $62,000.",
-    "Ether was around $1,809, far under its 200-week average of about $2,560, after a weekend low near $1,715. Bitcoin ETFs have seen about $2.1 billion in outflows in November, with a seven-day losing streak.",
-    "Momentum gauges show bitcoin as oversold, and the Fear and Greed Index reads extreme fear. Total crypto market value is about $2.18 trillion."
-   ],
-   "money": [
-    "If you buy crypto, small fixed buys over time can cut the risk of going all-in at the wrong moment.",
-    "Selling at a loss in a taxable account can offset other gains; ask a tax pro how it works for crypto.",
-    "Keep crypto to a slice of your money you can afford to see fall a lot more."
-   ],
-   "risk": [
-    "Breaking a long-term average can trigger more selling.",
-    "Oversold readings can stay oversold for weeks."
-   ],
-   "sources": [
-    {
-     "t": "The Day That Crypto Died: Bitcoin Breaks Its 200-Week SMA",
-     "d": "cestriancapitalresearch.com",
-     "u": "https://cestriancapitalresearch.com/the-day-that-crypto-died-cestrian-daily-market-review-monday-16-november"
-    },
-    {
-     "t": "Bitcoin Price Analysis on November 16, 2026",
-     "d": "cryptonomist.ch",
-     "u": "https://en.cryptonomist.ch/2026/11/16/bitcoin-price-faces-1b-november-etf-outflows-november-16-2026/"
-    }
-   ]
-  },
-  {
-   "id": "dems-100-day-health-snap-2026111613",
-   "type": "news",
-   "cat": "politics",
-   "tags": [
-    "politics",
-    "benefits"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T13:20:00Z",
-   "headline": "Democrats' 100-day plan: undo Medicaid cuts, extend ACA credits, restore SNAP. Who pays?",
-   "caption": "Jeffries wants to reverse Medicaid cuts and extend ACA tax credits early next year. Proposed taxes on millionaires and buybacks would cover ACA credits, but not the Medicaid reversal.",
-   "visual": {
-    "type": "board",
-    "title": "The price tags (CBO, 10 years)",
-    "rows": [
-     {
-      "k": "Medicaid cuts in GOP law",
-      "s": "~13M fewer enrolled",
-      "v": "$1.2T"
-     },
-     {
-      "k": "Permanent ACA credits",
-      "s": "3.8M more insured",
-      "v": "$350B",
-      "tone": "acc"
-     },
-     {
-      "k": "Millionaire surtax",
-      "s": "Van Hollen-Kelly",
-      "v": "+$264B",
-      "tone": "gain"
-     },
-     {
-      "k": "Buyback tax 1%→4%",
-      "s": "Wyden-Warren",
-      "v": "+$242-300B",
-      "tone": "gain"
-     }
-    ]
-   },
-   "detail": [
-    "After winning the midterms, House Democratic leader Hakeem Jeffries is calling for reversing Medicaid cuts within the first 100 days, extending Affordable Care Act tax credits and restoring SNAP funding. The CBO estimates the Republican law trims federal Medicaid spending by about $1.2 trillion through 2035, with about 13 million fewer people covered.",
-    "Making the larger ACA credits permanent would add about $350 billion to deficits over 10 years and help about 3.8 million more people get insurance, per the CBO. Other ideas include adding dental, vision and hearing to Medicare.",
-    "Proposed pay-fors include a surtax on incomes over $1 million, about $264 billion, and raising the stock buyback tax from 1% to 4%, about $242 billion to $300 billion. Critics, including the Cato Institute, doubt the plan adds up, and Trump could veto it."
-   ],
-   "money": [
-    "If you buy ACA coverage, enroll by Dec. 15 at today's prices; don't count on a subsidy fix arriving in time.",
-    "On Medicaid or SNAP? Keep your income and work records current so you don't lose benefits on paperwork.",
-    "A buyback tax hike could nudge companies toward dividends; income investors may want to watch."
-   ],
-   "risk": [
-    "None of this is law; a Trump veto or Senate math could block it.",
-    "Plans could change a lot before the new Congress starts."
-   ],
-   "sources": [
-    {
-     "t": "Democrats push Medicaid, ACA tax credits and SNAP in their agenda",
-     "d": "foxnews.com",
-     "u": "https://foxnews.com/politics/democrats-plot-massive-spending-spree-after-midterm-rout-trump-could-help-them-pull-off"
-    }
-   ]
-  },
-  {
-   "id": "iran-drones-bahrain-base-2026111613",
-   "type": "news",
-   "cat": "world",
-   "tags": [
-    "world",
-    "markets"
-   ],
-   "date": "Sun Nov 15",
-   "ts": "2026-11-16T13:20:00Z",
-   "headline": "Iran says it sent drones at a US-used base in Bahrain; Bahrain says it shot them down",
-   "caption": "Bahrain issued its first nationwide alerts since September. Oil stayed calm, with Brent near $94 to $96 as Hormuz traffic recovers.",
-   "visual": {
-    "type": "timeline",
-    "title": "Gulf weekend",
-    "items": [
-     {
-      "d": "NOV 15",
-      "t": "Bahrain sounds nationwide alerts",
-      "s": "First since September"
-     },
-     {
-      "d": "NOV 15",
-      "t": "IRGC: six drones aimed at Al Rifaa base radar",
-      "s": "Bahrain says attacks intercepted"
-     },
-     {
-      "d": "NOV 15",
-      "t": "Saudi Arabia downs Houthi missiles near Riyadh"
-     },
-     {
-      "d": "NOV 16",
-      "t": "Brent near $94-96",
-      "s": "IEA sees a supply surplus",
-      "now": true
-     }
-    ]
-   },
-   "detail": [
-    "Iran's Revolutionary Guard said it launched six drones at US air defense radar at the Al Rifaa helicopter base in Bahrain. It called the attack payback for US actions. Bahrain's military said it intercepted and destroyed several Iranian attacks. No damage or injuries were reported, and the US did not confirm a hit.",
-    "It was Bahrain's first nationwide alert since September and Iran's first strike on a Gulf state in weeks. Bahrain hosts the US Navy's Fifth Fleet. Saudi Arabia also said it intercepted two Houthi missiles aimed at Riyadh.",
-    "Oil barely reacted. Brent hovered between about $94 and $96 Monday as Hormuz shipping nears prewar levels and the IEA says supply now tops demand."
-   ],
-   "money": [
-    "Oil has held steady despite new attacks; gas prices could keep easing if supply stays strong.",
-    "Energy stocks can drop when oil glut fears grow; check how much of your portfolio sits in energy.",
-    "Geopolitical flare-ups can spark short swings; avoid panic selling on a single headline."
-   ],
-   "risk": [
-    "A wider Gulf conflict could send oil and gas prices back up fast."
-   ],
-   "sources": [
-    {
-     "t": "Bahrain intercepts Iranian attacks after first nationwide alert in months",
-     "d": "thenationalnews.com",
-     "u": "https://www.thenationalnews.com/news/gulf/2026/11/15/bahrain-issues-first-nationwide-alert-in-months-as-iran-claims-attack-on-base-hosting-us-helicopters/"
-    },
-    {
-     "t": "Iran claims drone attack on US military airbase in Bahrain",
-     "d": "france24.com",
-     "u": "https://www.france24.com/en/middle-east/20261115-iran-claims-attack-on-us-military-airbase-in-bahrain"
-    },
-    {
-     "t": "Stock market today: Dow, S&P 500, Nasdaq futures slip ahead of pivotal week for AI",
-     "d": "finance.yahoo.com",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html"
-    }
-   ]
-  },
-  {
-   "id": "ss-payments-nov18-2026111613",
-   "type": "news",
-   "cat": "benefits",
-   "tags": [
-    "benefits"
-   ],
-   "date": "Wed Nov 18",
-   "ts": "2026-11-16T13:20:00Z",
-   "headline": "Social Security pays Wed. for birthdays on the 11th-20th; the 3.6% raise starts in January",
-   "caption": "The Nov. 18 payments go to retirees born between the 11th and 20th. The 2027 COLA adds about $76 a month for the average retiree, starting with January checks.",
-   "visual": {
-    "type": "board",
-    "title": "Social Security, November",
-    "rows": [
-     {
-      "k": "Nov 18",
-      "s": "birthdays 11th-20th",
-      "v": "Paid",
-      "tone": "acc"
-     },
-     {
-      "k": "Nov 25",
-      "s": "birthdays 21st-31st",
-      "v": "Next"
-     },
-     {
-      "k": "Max at age 70",
-      "v": "$5,181"
-     },
-     {
-      "k": "Avg retiree",
-      "s": "after 3.6% COLA",
-      "v": "$2,094 → $2,170",
-      "tone": "gain"
-     }
-    ]
-   },
-   "detail": [
-    "Social Security's Wednesday, Nov. 18 payment goes to retirement beneficiaries born between the 11th and 20th of the month. Those born on the 21st to 31st get paid Nov. 25. People who began benefits before May 1997, or who also get SSI, are usually paid on the 3rd.",
-    "The top 2026 monthly benefit is $5,181 for someone who claimed at 70 after maxing out taxable earnings. It is $4,152 at full retirement age and $2,969 at 62.",
-    "The 3.6% cost-of-living raise is not in these checks. It shows up in January for nearly 72 million beneficiaries and Dec. 31 for about 7.3 million SSI recipients. For the average retiree, that's about $76 more a month."
-   ],
-   "money": [
-    "Don't budget the raise until January; November and December checks stay at 2026 amounts.",
-    "Check your my Social Security account for your exact 2027 amount, including any Medicare Part B change.",
-    "If a payment is late, wait three mail days before calling SSA, then contact them."
-   ],
-   "risk": [
-    "Higher Medicare Part B premiums could eat into the raise for some people."
-   ],
-   "sources": [
-    {
-     "t": "Social Security Payments Up to $5,181 Set To Arrive This Week",
-     "d": "newsweek.com",
-     "u": "https://newsweek.com/social-security-payments-up-to-5181-set-to-arrive-this-week-12718945"
-    }
-   ]
-  },
-  {
-   "id": "edu-cap-rate-2026111613",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "business",
-    "ai"
-   ],
-   "date": "Explainer",
-   "ts": "2026-11-16T13:20:00Z",
-   "headline": "Cap rate: how a $5B data center deal is priced",
-   "caption": "Blackstone's data center trust paid a 7% cap rate for AWS buildings. Here's what that number means for anyone weighing real estate income.",
-   "scenes": [
-    {
-     "k": "Today's news",
-     "t": "$5B for 13 AWS data centers",
-     "s": "Blackstone's trust bought 75% at a 7.0% cap rate."
-    },
-    {
-     "k": "The basics",
-     "t": "Cap rate = yearly income ÷ price",
-     "s": "It shows how much rent a property earns for each dollar paid."
-    },
-    {
-     "k": "The math",
-     "t": "7% means about $7 per $100",
-     "viz": {
-      "type": "split",
-      "items": [
-       [
-        "Price",
-        "$100"
-       ],
-       [
-        "Yearly net rent",
-        "$7"
-       ],
-       [
-        "Cap rate",
-        "7%",
-        "wide"
-       ]
-      ]
-     },
-     "say": "Pay one hundred dollars, collect about seven dollars of net rent a year. That's a seven percent cap rate."
-    },
-    {
-     "k": "Compare it",
-     "t": "Stack it against safe yields",
-     "s": "The 10-year Treasury pays about 5.15%. The extra 1.85 points pays for the risk."
-    },
-    {
-     "k": "What matters",
-     "t": "Tenant and lease length",
-     "viz": {
-      "type": "flow",
-      "items": [
-       "Who pays rent",
-       "How long the lease",
-       "Who pays costs",
-       "What rates do"
-      ]
-     }
-    },
-    {
-     "k": "Takeaway",
-     "t": "Higher cap rate, higher risk",
-     "s": "A rich yield can mean a shaky tenant. Check the lease before chasing it."
-    }
-   ]
-  },
-  {
-   "id": "edu-200-week-average-2026111613",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "crypto",
-    "markets"
-   ],
-   "date": "Explainer",
-   "ts": "2026-11-16T13:20:00Z",
-   "headline": "The 200-week average: why bitcoin breaking it matters",
-   "caption": "Bitcoin just fell below its 200-week moving average. Here's what that line is and how to use it without overreacting.",
-   "scenes": [
-    {
-     "k": "Today's news",
-     "t": "Bitcoin dips under its 200-week line",
-     "s": "About $64,500 vs. an average near $68,200."
-    },
-    {
-     "k": "The basics",
-     "t": "An average of four years of prices",
-     "s": "Add up 200 weekly closes and divide by 200. It moves slowly."
-    },
-    {
-     "k": "Why traders care",
-     "t": "It often acted as a floor",
-     "s": "In past crashes, bitcoin rarely stayed below it for long."
-    },
-    {
-     "k": "How it works",
-     "t": "Break, test, then decide",
-     "viz": {
-      "type": "flow",
-      "items": [
-       "Price falls below",
-       "Sellers pile on",
-       "Price retests line",
-       "Reclaim or reject"
-      ]
-     }
-    },
-    {
-     "k": "Steady buying",
-     "t": "Spread buys over time",
-     "viz": {
-      "type": "dca",
-      "cols": [
-       [
-        50,
-        "$68K"
-       ],
-       [
-        42,
-        "$64K"
-       ],
-       [
-        35,
-        "$60K"
-       ],
-       [
-        48,
-        "$66K"
-       ]
-      ]
-     },
-     "say": "Buying the same dollar amount at sixty-eight, sixty-four, sixty, and sixty-six thousand averages out your cost."
-    },
-    {
-     "k": "Takeaway",
-     "t": "A signal, not a guarantee",
-     "s": "Lines on a chart guide risk. They don't predict the bottom."
-    }
-   ]
-  },
-  {
-   "id": "huang-return-campaign-2026111612",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "markets"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T12:20:00Z",
-   "headline": "FT: Jensen Huang and allies weigh a campaign to win back the Nvidia CEO job",
-   "caption": "Ousted last week, Huang and his backers are reportedly talking about a push to be reinstated. Nvidia shares fell about 2% before the bell, a day before earnings.",
-   "visual": {
-    "type": "timeline",
-    "title": "Nvidia's turbulent week",
-    "items": [
-     {
-      "d": "LAST WEEK",
-      "t": "Huang resigns as CEO",
-      "s": "After reports about his personal life"
-     },
-     {
-      "d": "WEEKEND",
-      "t": "Investors urge the board to keep his return open"
-     },
-     {
-      "d": "NOV 16",
-      "t": "FT: Huang camp discusses a reinstatement push",
-      "s": "Stock about -2% premarket",
-      "now": true
-     },
-     {
-      "d": "NOV 17",
-      "t": "Q3 earnings",
-      "s": "Revenue seen near $108.9B"
-     }
-    ]
-   },
-   "detail": [
-    "The Financial Times reported that former Nvidia CEO Jensen Huang and people close to him are discussing a campaign to get him reinstated. He left the job last week after reports about his personal life.",
-    "This goes a step past a weekend letter from some investors, who only asked the board to keep the door open. Nvidia has not said it will change course.",
-    "Nvidia stock was down about 2% in premarket trading. The company reports third-quarter results on Tuesday, where analysts expect about $108.9 billion in revenue, up 91% from a year ago."
-   ],
-   "money": [
-    "Leadership fights can make a stock swing hard; if you own Nvidia, decide your max position size before Tuesday.",
-    "Many index funds hold a lot of Nvidia; check how much of your 401(k) rides on it.",
-    "Avoid chasing headlines with options right before earnings, when prices for options are highest."
-   ],
-   "risk": [
-    "A drawn-out boardroom fight could distract the company and weigh on the stock.",
-    "The FT report describes talks, not a formal move; nothing may come of it."
-   ],
-   "sources": [
-    {
-     "t": "Stock market today: Dow, S&P 500, Nasdaq futures little changed ahead of pivotal week for AI traders",
-     "d": "finance.yahoo.com",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html"
-    },
-    {
-     "t": "Stock Market Today, Nov. 16: U.S. Stocks Mixed Ahead of Nvidia Results and Anthropic IPO",
-     "d": "tipranks.com",
-     "u": "https://www.tipranks.com/news/stock-market-today-nov-16-u-s-stocks-mixed-ahead-of-nvidia-results-and-anthropic-ipo"
-    }
-   ]
-  },
-  {
-   "id": "anthropic-ipo-6x-demand-2026111612",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "markets"
-   ],
-   "date": "This week",
-   "ts": "2026-11-16T12:20:00Z",
-   "headline": "Anthropic's IPO is about 6 times oversubscribed; total raise could hit $90.4 billion",
-   "caption": "Orders far exceed the 825 million shares on offer at $70 to $78. Pricing is set for Wednesday, with Nasdaq trading under ANT on Thursday.",
-   "visual": {
-    "type": "ticker",
-    "sym": "ANT",
-    "ex": "NASDAQ",
-    "rows": [
-     {
-      "k": "Price range",
-      "s": "per share",
-      "v": "$70–$78"
-     },
-     {
-      "k": "Shares offered",
-      "s": "Class A",
-      "v": "825M"
-     },
-     {
-      "k": "Demand",
-      "s": "per Bloomberg",
-      "v": "~6x"
-     },
-     {
-      "k": "Total raise",
-      "s": "incl. $26B private placement",
-      "v": "up to $90.4B"
-     },
-     {
-      "k": "Valuation",
-      "s": "fully diluted",
-      "v": "~$1.4T"
-     },
-     {
-      "k": "Trading",
-      "s": "prices Nov 18",
-      "v": "Nov 19"
-     }
-    ]
-   },
-   "detail": [
-    "Anthropic's IPO order book is about six times larger than the shares available, according to a Bloomberg report. The company is offering 825 million shares at $70 to $78 each.",
-    "At the top of the range, the public sale raises up to $64.4 billion. A side deal with seven big cornerstone investors adds $26 billion, for up to $90.4 billion total. The full value would be about $1.4 trillion on a fully diluted basis.",
-    "Goldman Sachs and Morgan Stanley lead more than 20 banks. Pricing is expected Wednesday and trading Thursday on Nasdaq under ANT."
-   ],
-   "money": [
-    "Heavy demand often means small or no allocations for regular brokerage customers; don't count on getting shares at the IPO price.",
-    "If you buy on day one, use a limit order so a big opening pop doesn't fill you at a much higher price.",
-    "Index funds usually add new giants later, so long-term index investors may get exposure without chasing the debut."
-   ],
-   "risk": [
-    "Oversubscribed IPOs can still fall after the first day once early buyers sell.",
-    "A $1.4 trillion value leaves little room for error if growth slows."
-   ],
-   "sources": [
-    {
-     "t": "Anthropic IPO 6x Oversubscribed at $1.4T Valuation, Trading Nov 19",
-     "d": "opentools.ai",
-     "u": "https://opentools.ai/news/anthropic-ipo-6x-oversubscribed-1-4-trillion-valuation-nov-19"
-    },
-    {
-     "t": "The Day Ahead: 16 November 2026",
-     "d": "admisi.com",
-     "u": "https://admisi.com/macroeconomics-the-day-ahead-for-16-november-2026"
     }
    ]
   }
