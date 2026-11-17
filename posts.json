@@ -1,6 +1,1032 @@
 {
- "updated": "2026-11-17T17:00:00Z",
+ "updated": "2026-11-17T18:00:00Z",
  "items": [
+  {
+   "id": "software-selloff-crm-2026111718",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets",
+    "ai",
+    "business"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T18:00:00Z",
+   "headline": "Software stocks sink: Salesforce drops 8%, HubSpot 6.6%, DocuSign 5.7%",
+   "caption": "Big software names fell hard Tuesday as the broad market slid. Palo Alto Networks and Atlassian were also down 4% to 5%.",
+   "visual": {
+    "type": "stat",
+    "title": "Software losers, Tuesday",
+    "num": "-8.2%",
+    "tone": "loss",
+    "label": "Salesforce led a broad drop in software stocks.",
+    "rows": [
+     [
+      "Salesforce",
+      -8.23
+     ],
+     [
+      "HubSpot",
+      -6.58
+     ],
+     [
+      "DocuSign",
+      -5.7
+     ],
+     [
+      "Atlassian",
+      -4.98
+     ],
+     [
+      "Palo Alto",
+      -3.96
+     ]
+    ]
+   },
+   "detail": [
+    "Software stocks were some of Tuesday's worst large-company performers. Salesforce fell about 8%, after already being down 3.7% shortly after the open.",
+    "HubSpot, DocuSign and Atlassian each lost roughly 5% to 7%. Cybersecurity giant Palo Alto Networks slipped about 4%.",
+    "The report listing the moves gave no single company news behind most of them. The drops came as the whole market fell ahead of Nvidia's results tonight."
+   ],
+   "money": [
+    "If you own a tech fund, check how much is in software versus chips; they don't always move together.",
+    "Sharp group-wide drops can be a time to rebalance to your target mix rather than sell in a panic.",
+    "Buying a fallen stock is only worth it if you'd want it at full price too; set a limit and stick to it."
+   ],
+   "risk": [
+    "Selloffs can keep going for days; a cheap stock can get cheaper.",
+    "Without company news, the cause may be shifting mood, which is hard to predict."
+   ],
+   "sources": [
+    {
+     "t": "Palo Alto Networks, Salesforce among market cap stock movers on Tuesday",
+     "d": "investing.com",
+     "u": "https://ca.investing.com/news/stock-market-news/palo-alto-networks-salesforce-among-market-cap-stock-movers-on-tuesday-93CH-4964499"
+    },
+    {
+     "t": "S&P 500 Drops 1.3% at Midday as Selling Accelerates Across Markets",
+     "d": "247wallst.com",
+     "u": "https://247wallst.com/cards/the-selling-widened-through-lunchtime-with-the-dow-shedding-gspc-market-bell-01m7n7atq8q9dafm8zah4ham4n"
+    }
+   ]
+  },
+  {
+   "id": "market-1pm-update-2026111718",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T18:00:00Z",
+   "headline": "Update: Dow down about 770 points at 1 p.m.; S&P 500 trims its loss to 1.15%",
+   "caption": "The Dow was down about 1.5% just after 1 p.m. ET. The S&P 500 had pared its midday drop of 1.3% to 1.15%.",
+   "visual": {
+    "type": "board",
+    "title": "Markets, about 1 p.m. ET",
+    "rows": [
+     {
+      "k": "Dow",
+      "v": "50,839",
+      "ch": -1.49,
+      "tone": "loss"
+     },
+     {
+      "k": "S&P 500",
+      "v": "7,331",
+      "ch": -1.15,
+      "tone": "loss"
+     },
+     {
+      "k": "Nasdaq",
+      "v": "24,234",
+      "ch": -1.13,
+      "tone": "loss"
+     },
+     {
+      "k": "Russell 2000",
+      "v": "2,718",
+      "ch": -0.89,
+      "tone": "loss"
+     },
+     {
+      "k": "VIX",
+      "s": "fear gauge",
+      "v": "25.99",
+      "ch": 13.44,
+      "tone": "acc"
+     },
+     {
+      "k": "10-yr yield",
+      "v": "5.09%",
+      "s": "down 0.03"
+     }
+    ],
+    "foot": "Nvidia reports after the close."
+   },
+   "detail": [
+    "New since last hour: at about 1 p.m. ET the Dow was down roughly 770 points, or 1.5%. At noon it had been off about 880 points, or 1.7%.",
+    "The S&P 500 sat near 7,331, down 1.15%, after trimming some losses after lunch. The VIX fear gauge was near 26, up about 13%.",
+    "The 10-year Treasury yield eased slightly to 5.09%. Traders are waiting for Nvidia's results after the bell."
+   ],
+   "money": [
+    "Big swings on earnings days are normal; don't change a long-term plan over one session.",
+    "With 10-year yields near 5%, Treasuries and CDs pay well while you wait to invest.",
+    "If you buy stocks in steps, a down day just means your next buy costs less."
+   ],
+   "risk": [
+    "Nvidia's report could push stocks sharply either way tonight."
+   ],
+   "sources": [
+    {
+     "t": "Stock market today: Dow, S&P 500, Nasdaq losses pick up in countdown to Nvidia earnings",
+     "d": "finance.yahoo.com",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-17-dow-sp-500-nasdaq-nvidia-earnings-retail-sales-143848454.html"
+    },
+    {
+     "t": "S&P 500 Drops 1.3% at Midday as Selling Accelerates Across Markets",
+     "d": "247wallst.com",
+     "u": "https://247wallst.com/cards/the-selling-widened-through-lunchtime-with-the-dow-shedding-gspc-market-bell-01m7n7atq8q9dafm8zah4ham4n"
+    }
+   ]
+  },
+  {
+   "id": "homebuilder-sentiment-25-2026111718",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets",
+    "business"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T18:00:00Z",
+   "headline": "Homebuilder confidence falls to 25, its lowest since April 2012",
+   "caption": "A builder sentiment index dropped 4 points to 25 in November. Forecasters had expected 29.",
+   "visual": {
+    "type": "vs",
+    "title": "Builder sentiment, November",
+    "a": [
+     "Expected",
+     "29",
+     0.58,
+     "acc"
+    ],
+    "b": [
+     "Actual",
+     "25",
+     0.5,
+     "loss"
+    ],
+    "foot": "Down 4 points; lowest reading since April 2012."
+   },
+   "detail": [
+    "Homebuilder sentiment fell 4 points to 25 this month, the lowest level since April 2012. Economists had expected a reading of 29.",
+    "Readings under 50 mean more builders see poor conditions than good ones. The drop comes with the 10-year Treasury yield near 5%, which keeps mortgage rates high.",
+    "The report landed on a weak day for stocks, with the S&P 500 down more than 1%."
+   ],
+   "money": [
+    "Gloomy builders often offer deals: ask about rate buydowns or closing-cost help on new homes.",
+    "If you're house hunting, get quotes from several lenders; rate gaps can be big when rates are high.",
+    "Owners of homebuilder stocks should expect choppy prices while sentiment stays low."
+   ],
+   "risk": [
+    "Builder incentives can come with higher base prices; compare the total cost."
+   ],
+   "sources": [
+    {
+     "t": "Stock market today: Dow, S&P 500, Nasdaq losses pick up in countdown to Nvidia earnings",
+     "d": "finance.yahoo.com",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-17-dow-sp-500-nasdaq-nvidia-earnings-retail-sales-143848454.html"
+    }
+   ]
+  },
+  {
+   "id": "amer-unfi-movers-2026111718",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets",
+    "business"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T18:00:00Z",
+   "headline": "Bright spots: Amer Sports jumps 8.8% on a beat; UNFI climbs on a Goldman upgrade",
+   "caption": "A few stocks rose on a down day. Amer Sports raised its outlook, and United Natural Foods got a buy rating from Goldman.",
+   "visual": {
+    "type": "board",
+    "title": "Tuesday movers with news",
+    "rows": [
+     {
+      "k": "Amer Sports",
+      "s": "Q3 beat, raised outlook",
+      "v": "AS",
+      "ch": 8.75,
+      "tone": "gain"
+     },
+     {
+      "k": "United Natural Foods",
+      "s": "Goldman upgrade to buy",
+      "v": "UNFI",
+      "ch": 8.76,
+      "tone": "gain"
+     },
+     {
+      "k": "PureCycle",
+      "v": "PCT",
+      "ch": 8.93,
+      "tone": "gain"
+     },
+     {
+      "k": "CG Oncology",
+      "s": "RBC downgrade",
+      "v": "CGON",
+      "ch": -7.61,
+      "tone": "loss"
+     }
+    ]
+   },
+   "detail": [
+    "Amer Sports, which owns brands like Wilson, rose about 8.8% after beating third-quarter estimates and raising its full-year outlook.",
+    "Grocery distributor United Natural Foods gained about 8.8% after Goldman Sachs upgraded it to buy. Bill Holdings was up about 8.5% at midday.",
+    "On the downside, CG Oncology fell about 7.6% after RBC Capital downgraded it over concerns about its regulatory path."
+   ],
+   "money": [
+    "Raised guidance often matters more to a stock than one quarter's beat; read the outlook first.",
+    "Analyst upgrades can lift a stock fast, but the move can fade; don't chase a gap up.",
+    "Watching which stocks rise on red days can show where real company strength is."
+   ],
+   "risk": [
+    "Single-stock jumps on news can reverse in days."
+   ],
+   "sources": [
+    {
+     "t": "Palo Alto Networks, Salesforce among market cap stock movers on Tuesday",
+     "d": "investing.com",
+     "u": "https://ca.investing.com/news/stock-market-news/palo-alto-networks-salesforce-among-market-cap-stock-movers-on-tuesday-93CH-4964499"
+    },
+    {
+     "t": "S&P 500 Drops 1.3% at Midday as Selling Accelerates Across Markets",
+     "d": "247wallst.com",
+     "u": "https://247wallst.com/cards/the-selling-widened-through-lunchtime-with-the-dow-shedding-gspc-market-bell-01m7n7atq8q9dafm8zah4ham4n"
+    }
+   ]
+  },
+  {
+   "id": "nvidia-q3-consensus-2026111718",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "markets"
+   ],
+   "date": "Tonight",
+   "ts": "2026-11-17T18:00:00Z",
+   "headline": "Nvidia tonight: Wall Street expects $109 billion in sales, nearly double last year",
+   "caption": "Analysts look for about $109.15 billion in revenue and $2.47 a share. A year ago it was $57 billion and $1.30.",
+   "visual": {
+    "type": "vs",
+    "title": "Nvidia Q3 revenue",
+    "a": [
+     "Year ago",
+     "$57B",
+     0.52,
+     "acc"
+    ],
+    "b": [
+     "Expected",
+     "$109.15B",
+     1,
+     "gain"
+    ],
+    "foot": "Expected EPS $2.47 vs $1.30 a year ago."
+   },
+   "detail": [
+    "Nvidia reports third-quarter results after the closing bell. Analysts expect revenue of about $109.15 billion, up from $57 billion a year earlier.",
+    "Expected earnings are $2.47 a share, versus $1.30 last year. The stock was near $153.57 around 1 p.m., down about 1.7%.",
+    "Shares fell more than 3% early in the day before trimming losses. The broad market is down more than 1% heading into the report."
+   ],
+   "money": [
+    "Many index funds hold a lot of Nvidia, so tonight can move your 401(k) even if you don't own it directly.",
+    "Watch the forecast for next quarter; it often moves the stock more than the quarter itself.",
+    "Avoid big bets right before earnings; you can buy after the news with less guesswork."
+   ],
+   "risk": [
+    "Beating estimates doesn't guarantee a rise; high hopes can lead to a drop."
+   ],
+   "sources": [
+    {
+     "t": "Stock market today: Dow, S&P 500, Nasdaq losses pick up in countdown to Nvidia earnings",
+     "d": "finance.yahoo.com",
+     "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-17-dow-sp-500-nasdaq-nvidia-earnings-retail-sales-143848454.html"
+    }
+   ]
+  },
+  {
+   "id": "science-corp-400m-2026111718",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "business"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T18:00:00Z",
+   "headline": "Brain-chip maker Science Corp raises $400M, now valued at $3.5 billion",
+   "caption": "Science Corp's Series D will help it seek US access for PRIMA, a chip that helps some people with macular degeneration see again.",
+   "visual": {
+    "type": "stat",
+    "title": "Science Corp Series D",
+    "num": "$400M",
+    "tone": "gain",
+    "label": "New funding values the brain-tech startup at about $3.5 billion.",
+    "facts": [
+     [
+      "Valuation",
+      "$3.5B",
+      "per a person familiar"
+     ],
+     [
+      "Lead product",
+      "PRIMA",
+      "approved in Europe"
+     ],
+     [
+      "Backers",
+      "Khosla, YC",
+      "and others"
+     ]
+    ]
+   },
+   "detail": [
+    "Science Corp raised a $400 million Series D, it said Tuesday. A person familiar with the deal put its value at $3.5 billion.",
+    "Its PRIMA implant helps people with age-related macular degeneration regain some vision. It is approved in Europe and sold in Germany.",
+    "The money will help it seek US access through an FDA route for rare conditions. Investors include Khosla Ventures, Tenet Healthcare and Y Combinator."
+   ],
+   "money": [
+    "Brain-tech startups are private, but listed suppliers and hospital groups can benefit from the trend.",
+    "Big private rounds can signal future IPOs; watch for listings rather than buying hype stocks now.",
+    "If a family member has macular degeneration, ask a doctor about clinical trials, which can lower treatment costs."
+   ],
+   "risk": [
+    "Medical devices face long, uncertain approval paths."
+   ],
+   "sources": [
+    {
+     "t": "Science Corporation's brain tech is worth $3.5 billion after new funding",
+     "d": "techcrunch.com",
+     "u": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/"
+    }
+   ]
+  },
+  {
+   "id": "pedestal-ai-seed-2026111718",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "business"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T18:00:00Z",
+   "headline": "Pedestal AI raises $4.7M; its agents cut one retailer's missed deliveries by 20%",
+   "caption": "The supply-chain startup came out of stealth with an Eclipse-led seed round. Its AI calls customers before deliveries.",
+   "visual": {
+    "type": "points",
+    "title": "Pedestal AI at a glance",
+    "items": [
+     "$4.7M seed round, led by Eclipse",
+     "RRE, Converge VC and others joined",
+     "AI agents call customers 30 min before delivery",
+     "Texts if the call fails",
+     "Missed deliveries down 20% at a furniture firm"
+    ]
+   },
+   "detail": [
+    "Pedestal AI raised $4.7 million in seed money and came out of stealth. Eclipse led the round, with RRE and Converge VC joining.",
+    "Its AI agents handle shipping chores, like calling a customer 30 minutes before a delivery to get special instructions.",
+    "At one big furniture company, that cut missed deliveries by 20%, the company said."
+   ],
+   "money": [
+    "Fewer missed deliveries means lower costs for sellers, which can help keep shipping fees down.",
+    "Small businesses can try AI calling or texting tools to cut no-shows and re-delivery costs.",
+    "Logistics is a growing area for AI jobs; workers can build skills in these tools."
+   ],
+   "risk": [
+    "Early-stage claims come from the company and are not independently checked."
+   ],
+   "sources": [
+    {
+     "t": "Pedestal AI raises $4.7 million to agentify the supply chain",
+     "d": "techcrunch.com",
+     "u": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/"
+    }
+   ]
+  },
+  {
+   "id": "optimizely-crypto-swap-2026111718",
+   "type": "news",
+   "cat": "crypto",
+   "tags": [
+    "crypto",
+    "business"
+   ],
+   "date": "Nov 16-17",
+   "ts": "2026-11-17T18:00:00Z",
+   "headline": "New: Optimizely hack also swapped crypto wallet addresses on 186 websites",
+   "caption": "Researchers say the injected code replaced crypto addresses, even when copied. Ledger, Zoom, CNN and the BBC were among sites hit.",
+   "visual": {
+    "type": "board",
+    "title": "OPTIMJACK attack",
+    "rows": [
+     {
+      "k": "Infected sites",
+      "v": "186"
+     },
+     {
+      "k": "Bad script files",
+      "v": "188"
+     },
+     {
+      "k": "Coins targeted",
+      "v": "8",
+      "s": "incl. BTC, ETH, SOL"
+     },
+     {
+      "k": "Linked wallet value",
+      "v": "~$6,600",
+      "s": "not a confirmed theft total"
+     },
+     {
+      "k": "Still infected",
+      "v": "41 scripts",
+      "s": "as of late Nov. 16"
+     }
+    ]
+   },
+   "detail": [
+    "New details: a StepSecurity report Tuesday says the code planted through Optimizely also hunted for crypto addresses. Earlier reports focused on card skimming.",
+    "It swapped real addresses for the attackers' own across eight coins, and could change what users copied. A researcher counted 186 infected sites, including Ledger, Zoom, CNN and the BBC.",
+    "Researchers tied about $6,600 to four attacker wallets, but said that is not a confirmed theft total. Optimizely was cleaning files, with 41 of 188 still infected late Monday."
+   ],
+   "money": [
+    "Before sending crypto, check the full address in your wallet app, not just the first and last few characters.",
+    "Send a small test amount first when paying a new address.",
+    "Watch card statements this week if you shopped on big sites; dispute any charge you don't know."
+   ],
+   "risk": [
+    "Crypto sent to the wrong address usually can't be recovered."
+   ],
+   "sources": [
+    {
+     "t": "Optimizely supply chain attack targets crypto wallets across 186 websites",
+     "d": "crypto.news",
+     "u": "https://crypto.news/optimizely-supply-chain-attack-targets-crypto-wallets-across-186-websites/"
+    }
+   ]
+  },
+  {
+   "id": "btc-weekly-yields-2026111718",
+   "type": "news",
+   "cat": "crypto",
+   "tags": [
+    "crypto",
+    "markets"
+   ],
+   "date": "This week",
+   "ts": "2026-11-17T18:00:00Z",
+   "headline": "Bitcoin down 13% in a week as the 10-year yield jumps to 5.15%",
+   "caption": "A 30-point weekly rise in Treasury yields is pulling money from crypto. Bitcoin ETFs are now negative for 2026.",
+   "visual": {
+    "type": "board",
+    "title": "Crypto, past week",
+    "rows": [
+     {
+      "k": "Bitcoin",
+      "v": "$64,894",
+      "ch": -13.1,
+      "tone": "loss"
+     },
+     {
+      "k": "Ether",
+      "v": "$1,828",
+      "ch": -13.69,
+      "tone": "loss"
+     },
+     {
+      "k": "Solana",
+      "v": "$72.69",
+      "ch": -15.52,
+      "tone": "loss"
+     },
+     {
+      "k": "10-yr yield",
+      "s": "up ~30 bps in a week",
+      "v": "5.15%"
+     },
+     {
+      "k": "BTC ETF flows, 2026",
+      "v": "-$1.98B",
+      "tone": "loss"
+     },
+     {
+      "k": "Fear & Greed",
+      "v": "13",
+      "s": "extreme fear"
+     }
+    ]
+   },
+   "detail": [
+    "Bitcoin was near $64,894, down about 13% over seven days. Ether fell about 14% and Solana about 16%.",
+    "The 10-year Treasury yield rose about 30 basis points in a week to 5.15%. Futures traders see a 93.5% chance of a quarter-point Fed hike in December.",
+    "Spot bitcoin ETFs have lost money for most of the past two weeks, and their 2026 net flows are now about -$1.98 billion. A popular fear index sits at 13."
+   ],
+   "money": [
+    "Higher yields mean safe savings now pay more; compare crypto risk to a 5% Treasury.",
+    "If you hold crypto, size it so a 50% drop wouldn't hurt your bills or goals.",
+    "Tax-loss harvesting: selling at a loss can offset gains; check rules with a tax pro."
+   ],
+   "risk": [
+    "Crypto can fall further in extreme fear, and quick rebounds are not guaranteed."
+   ],
+   "sources": [
+    {
+     "t": "Crypto Market Analysis Today (November 17, 2026): Bitcoin Falls Below $65,000 as Treasury Yields Climb Back Above 5%",
+     "d": "pintu.co.id",
+     "u": "https://pintu.co.id/en/academy/post/crypto-market-analysis-today-november-17-2026"
+    }
+   ]
+  },
+  {
+   "id": "cms-work-req-delay-2026111718",
+   "type": "news",
+   "cat": "benefits",
+   "tags": [
+    "benefits",
+    "states"
+   ],
+   "date": "Dec 11 deadline",
+   "ts": "2026-11-17T18:00:00Z",
+   "headline": "States can delay cutting Medicaid over work rules until June 30; decisions due Dec. 11",
+   "caption": "CMS lets states check work rules from Jan. 1 without ending coverage for six months. Michigan hasn't said if it will opt in.",
+   "visual": {
+    "type": "timeline",
+    "title": "Medicaid work rules",
+    "items": [
+     {
+      "d": "DEC 11",
+      "t": "States tell CMS if they want the delay",
+      "now": true
+     },
+     {
+      "d": "JAN 1",
+      "t": "Work rules start; states begin checking"
+     },
+     {
+      "d": "JUN 30",
+      "t": "Last day of the optional grace period"
+     },
+     {
+      "d": "JUL",
+      "t": "Coverage can be cut for not meeting rules"
+     }
+    ]
+   },
+   "detail": [
+    "New federal guidance lets states take a six-month grace period on Medicaid work rules. They would still check work or exemptions starting Jan. 1, but not deny or end coverage over it until after June 30.",
+    "The rules mainly hit adults 19 to 64 covered by ACA Medicaid expansion. In Michigan, they would need 80 hours a month of work, school or volunteering.",
+    "States must tell the administration by Dec. 11. Connecticut has already said it will wait; Michigan has not decided. Florida, which never expanded Medicaid, is not affected."
+   ],
+   "money": [
+    "If you're on expansion Medicaid, start tracking work, school or volunteer hours now.",
+    "Check if you qualify for an exemption, and file the paperwork early.",
+    "Losing Medicaid can mean big medical bills; respond to every state notice quickly."
+   ],
+   "risk": [
+    "Rules and dates differ by state and could change in court."
+   ],
+   "sources": [
+    {
+     "t": "CMS says states can delay enforcing Medicaid work requirements until June 30",
+     "d": "wuwf.org",
+     "u": "https://www.wuwf.org/florida-news/2026-11-17/cms-says-states-can-delay-enforcing-medicaid-work-requirements-until-june-30"
+    },
+    {
+     "t": "Feds offer states option to delay Medicaid work requirements. Will Michigan take it?",
+     "d": "interlochenpublicradio.org",
+     "u": "https://www.interlochenpublicradio.org/ipr-news/2026-11-17/feds-offer-states-option-to-delay-medicaid-work-requirements-will-michigan-take-it"
+    }
+   ]
+  },
+  {
+   "id": "stay-nj-q4-2026111718",
+   "type": "news",
+   "cat": "states",
+   "tags": [
+    "states",
+    "benefits",
+    "taxes"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T18:00:00Z",
+   "headline": "New Jersey mails $150M+ in Stay NJ checks to over 467,000 seniors",
+   "caption": "Fourth-quarter Stay NJ property tax checks started going out Nov. 16. They go to seniors 65+ who applied through the PAS-1 form.",
+   "visual": {
+    "type": "stat",
+    "title": "Stay NJ, Q4 payments",
+    "num": "$150M+",
+    "tone": "gain",
+    "label": "More than 467,000 senior checks began going out Nov. 16.",
+    "facts": [
+     [
+      "Checks",
+      "467,000+",
+      "fourth quarter"
+     ],
+     [
+      "Who",
+      "Seniors 65+",
+      "applied via PAS-1"
+     ],
+     [
+      "Same form covers",
+      "ANCHOR, Senior Freeze",
+      "one application"
+     ]
+    ]
+   },
+   "detail": [
+    "New Jersey's Treasury said Tuesday it is sending more than $150 million in fourth-quarter Stay NJ payments. Over 467,000 checks began going out Nov. 16.",
+    "Stay NJ helps seniors 65 and older with property taxes. People apply through the combined PAS-1 form.",
+    "That same form also covers the ANCHOR and Senior Freeze programs."
+   ],
+   "money": [
+    "NJ seniors: watch your mail this week and deposit checks quickly.",
+    "If you didn't apply, the single PAS-1 form can get you up to three programs.",
+    "Use the check to pre-pay next quarter's property tax or build a cushion."
+   ],
+   "risk": [
+    "Scammers may pose as the state; NJ won't ask for fees to send your check."
+   ],
+   "sources": [
+    {
+     "t": "State distributes fourth-quarter Stay NJ benefit payments of more than $150M in relief for senior residents",
+     "d": "roi-nj.com",
+     "u": "https://roi-nj.com/2026/11/17/politics/state-distributes-fourth-quarter-stay-nj-benefit-payments-of-more-than-150m-in-relief-for-senior-residents"
+    }
+   ]
+  },
+  {
+   "id": "new-mexico-flat-tax-2026111718",
+   "type": "news",
+   "cat": "taxes",
+   "tags": [
+    "taxes",
+    "states"
+   ],
+   "date": "This week",
+   "ts": "2026-11-17T18:00:00Z",
+   "headline": "New Mexico plan: one 4.7% income tax rate, and about 266,000 filers would owe nothing",
+   "caption": "A key lawmaker's plan swaps six brackets for one rate plus a credit. It would cost about $729 million a year.",
+   "visual": {
+    "type": "board",
+    "title": "New Mexico tax proposal",
+    "rows": [
+     {
+      "k": "Today",
+      "s": "six brackets",
+      "v": "1.5%-5.9%"
+     },
+     {
+      "k": "Proposed",
+      "s": "single rate",
+      "v": "4.7%"
+     },
+     {
+      "k": "Credit cutoff",
+      "s": "single / married",
+      "v": "$175K / $350K"
+     },
+     {
+      "k": "Filers owing $0",
+      "v": "~266,000",
+      "tone": "gain"
+     },
+     {
+      "k": "Cost, 2029",
+      "v": "$729M",
+      "tone": "loss"
+     }
+    ],
+    "foot": "Session starts Jan. 19."
+   },
+   "detail": [
+    "Rep. Derrick Lente, who chairs the House tax committee, unveiled a plan to replace New Mexico's six income tax brackets with one 4.7% rate.",
+    "A credit for singles earning up to $175,000 and couples up to $350,000 would shrink as income rises. He says about 266,000 filers, nearly a quarter of returns, would owe no state income tax.",
+    "An analysis puts the cost at $729 million in the 2029 budget year. Lawmakers have about $924 million in new money, and the 60-day session starts Jan. 19."
+   ],
+   "money": [
+    "NM residents: if you earn under the cutoffs, your state tax could drop or vanish; plan withholding later.",
+    "Higher earners may see a smaller cut since the top rate falls from 5.9% to 4.7%.",
+    "Watch the bill in January before changing any money plans; it's only a proposal."
+   ],
+   "risk": [
+    "The plan could change a lot or fail in the session."
+   ],
+   "sources": [
+    {
+     "t": "New Mexico income tax overhaul proposal would cut taxes for most residents",
+     "d": "abqjournal.com",
+     "u": "https://abqjournal.com/news/tax-overhaul-proposal-unveiled-as-nm-lawmakers-look-for-ways-to-provide-financial-relief/3163565"
+    }
+   ]
+  },
+  {
+   "id": "doordash-instacart-doj-2026111718",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T18:00:00Z",
+   "headline": "DOJ to review DoorDash's $17 billion Instacart deal, report says",
+   "caption": "Reuters says the Justice Department wants a close look. DoorDash owes Instacart $1.25 billion if the deal fails review.",
+   "visual": {
+    "type": "deals",
+    "title": "DoorDash + Instacart",
+    "items": [
+     {
+      "a": "DoorDash",
+      "b": "Instacart",
+      "amt": "$17B",
+      "st": "DOJ review",
+      "c": "pend"
+     },
+     {
+      "a": "Breakup fee",
+      "b": "paid to Instacart",
+      "amt": "$1.25B",
+      "st": "if blocked",
+      "c": "bad"
+     }
+    ]
+   },
+   "detail": [
+    "The Justice Department wants to review DoorDash's $17 billion purchase of Instacart, Reuters reported Monday, citing two people familiar.",
+    "A DOJ spokesperson said the agency will focus on affordability and competition but did not comment on the deal itself.",
+    "DoorDash agreed to pay Instacart $1.25 billion if regulators block the deal. States like New York and California could also challenge it."
+   ],
+   "money": [
+    "If you use both apps, compare fees now; fewer rivals can mean higher prices later.",
+    "Delivery subscriptions often have free trials; rotate them to save.",
+    "Shareholders: breakup fees protect the target's owners if a deal falls apart."
+   ],
+   "risk": [
+    "Regulators could force changes or sue to block the deal."
+   ],
+   "sources": [
+    {
+     "t": "DoorDash's $17 Billion Instacart Deal Faces DOJ Review",
+     "d": "pymnts.com",
+     "u": "https://www.pymnts.com/news/acquiring/2026/doordashs-17-billion-instacart-deal-faces-doj-review/"
+    }
+   ]
+  },
+  {
+   "id": "lawyer-phone-ruling-2026111718",
+   "type": "news",
+   "cat": "immigration",
+   "tags": [
+    "immigration",
+    "politics"
+   ],
+   "date": "Last Friday",
+   "ts": "2026-11-17T18:00:00Z",
+   "headline": "Judge: CBP's seizure of a Boston immigration critic's phone looks retaliatory",
+   "caption": "A federal judge ordered officials to preserve the copied phone data without looking at it. The lawyer runs an immigrant rights Instagram account.",
+   "visual": {
+    "type": "points",
+    "title": "The case",
+    "items": [
+     "Phone seized at Boston Logan, Sept. 2025",
+     "Agents copied it without a warrant",
+     "Judge: likely First Amendment violation",
+     "Gov't says it was probing the firm's hiring",
+     "Data must be kept, not accessed"
+    ]
+   },
+   "detail": [
+    "U.S. District Judge Allison Burroughs found it likely that border agents retaliated against Massachusetts lawyer Andrew Lattarulo for criticizing immigration policy.",
+    "Agents seized his phone at Boston Logan Airport in September 2025, copied it without a warrant and returned it. The government says it was investigating whether his firm hired unauthorized workers.",
+    "The judge ordered officials to preserve the copied data without accessing it while the case continues."
+   ],
+   "money": [
+    "Border phone searches are legal in many cases; travel with less sensitive data if you're worried.",
+    "Small businesses should keep hiring paperwork like I-9 forms complete to avoid probes.",
+    "Professionals with client data may want separate travel devices."
+   ],
+   "risk": [
+    "This is an early ruling; the case is not decided."
+   ],
+   "sources": [
+    {
+     "t": "Immigration agents' seizure of lawyer's phone at airport appears retaliatory, judge finds",
+     "d": "abajournal.com",
+     "u": "https://abajournal.com/news/article/judge-finds-that-agents-seizure-of-lawyers-phone-at-airport-appears-retaliatory"
+    }
+   ]
+  },
+  {
+   "id": "ice-detention-growth-2026111718",
+   "type": "news",
+   "cat": "immigration",
+   "tags": [
+    "immigration",
+    "politics"
+   ],
+   "date": "This week",
+   "ts": "2026-11-17T18:00:00Z",
+   "headline": "Over 60 deaths in ICE detention this term as the system grows to 172 sites",
+   "caption": "About 67,000 people are detained, up 71%, after $45B+ in funding. Incoming Democrats plan probes in January.",
+   "visual": {
+    "type": "board",
+    "title": "ICE detention, by the numbers",
+    "rows": [
+     {
+      "k": "Deaths this term",
+      "v": "60+",
+      "tone": "loss"
+     },
+     {
+      "k": "Facilities",
+      "s": "April 2025 to a year later",
+      "v": "128 to 172"
+     },
+     {
+      "k": "People detained",
+      "v": "~67,000",
+      "ch": 71
+     },
+     {
+      "k": "Detention funding",
+      "s": "FY2025-26",
+      "v": "$45B+"
+     }
+    ]
+   },
+   "detail": [
+    "More than 60 people have died in immigration detention since the current term began, a new report says. The article gives no breakdown by cause.",
+    "ICE got over $45 billion for detention in fiscal 2025 and 2026. Its network grew from 128 sites in April 2025 to 172 a year later, holding about 67,000 people.",
+    "A GAO report found two of four inspection bodies cut back or stopped by June 2026. Democrats, who take Congress in January, plan hearings; Rep. Henry Cuellar opposes abolishing ICE."
+   ],
+   "money": [
+    "Detention spending is a big budget item; watch how Congress funds it in the Dec. 11 talks.",
+    "Private prison stocks depend on these contracts and can swing on policy news.",
+    "Families facing detention cases should seek low-cost legal aid early; lawyers change outcomes."
+   ],
+   "risk": [
+    "Numbers come from one report; official counts may differ."
+   ],
+   "sources": [
+    {
+     "t": "US Immigration Detention Faces Reckoning As Deaths Surpass 60",
+     "d": "colombiaone.com",
+     "u": "https://colombiaone.com/2026/11/17/us-immigration-system"
+    }
+   ]
+  },
+  {
+   "id": "edu-wallet-address-2026111718",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "crypto"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-17T18:00:00Z",
+   "headline": "Address swaps: how one paste can send crypto to a thief",
+   "caption": "The Optimizely attack swapped wallet addresses on big sites. Here's how to check before you send.",
+   "scenes": [
+    {
+     "k": "THE NEWS",
+     "t": "186 websites swapped crypto addresses",
+     "s": "Hidden code changed wallet addresses shown on pages."
+    },
+    {
+     "k": "HOW IT WORKS",
+     "t": "You copy one address, paste another",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "You copy a real address",
+       "Code swaps it",
+       "You paste the thief's",
+       "Coins are gone"
+      ]
+     }
+    },
+    {
+     "k": "WHY IT WORKS",
+     "t": "Fake addresses look valid",
+     "s": "The code only swapped addresses that pass each coin's format check."
+    },
+    {
+     "k": "NO UNDO",
+     "t": "Crypto sends are final",
+     "s": "Unlike a card, there's usually no chargeback."
+    },
+    {
+     "k": "YOUR DEFENSE",
+     "t": "Check the whole address",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "Compare every character",
+       "Use saved contacts",
+       "Send a small test",
+       "Then send the rest"
+      ]
+     }
+    },
+    {
+     "k": "TAKEAWAY",
+     "t": "Slow down before you hit send",
+     "s": "A 30-second check can save your whole balance."
+    }
+   ]
+  },
+  {
+   "id": "edu-breakup-fee-2026111718",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "business"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-17T18:00:00Z",
+   "headline": "Breakup fees: what DoorDash owes if the Instacart deal dies",
+   "caption": "A $1.25 billion breakup fee is riding on DOJ's review. Here's what that means.",
+   "scenes": [
+    {
+     "k": "THE NEWS",
+     "t": "DOJ is reviewing a $17B delivery deal",
+     "s": "DoorDash wants to buy Instacart."
+    },
+    {
+     "k": "THE PROMISE",
+     "t": "$1.25B if regulators block it",
+     "viz": {
+      "type": "split",
+      "items": [
+       [
+        "Deal price",
+        "$17B"
+       ],
+       [
+        "Breakup fee",
+        "$1.25B"
+       ],
+       [
+        "Fee share of price",
+        "about 7%",
+        "wide"
+       ]
+      ]
+     },
+     "say": "The fee is one point two five billion dollars, about seven percent of the price."
+    },
+    {
+     "k": "WHY IT EXISTS",
+     "t": "It protects the company being bought",
+     "s": "The target loses time and focus while waiting on approval."
+    },
+    {
+     "k": "HOW REVIEWS GO",
+     "t": "Most deals pass without changes",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "Review",
+       "Approve",
+       "Settle with sales",
+       "Or sue to block"
+      ]
+     }
+    },
+    {
+     "k": "FOR INVESTORS",
+     "t": "Fees cushion a failed deal",
+     "s": "Target shareholders get some value even if it falls apart."
+    },
+    {
+     "k": "TAKEAWAY",
+     "t": "Read the fine print on mergers",
+     "s": "Breakup fees show how sure buyers are of approval."
+    }
+   ]
+  },
   {
    "id": "unh-managed-care-slide-2026111717",
    "type": "news",
@@ -10805,983 +11831,6 @@
      "k": "Bottom line",
      "t": "A pop isn't a promise",
      "s": "Use limit orders and size positions you can hold through swings."
-    }
-   ]
-  },
-  {
-   "id": "min-wage-16-states-2026111706",
-   "type": "news",
-   "cat": "states",
-   "tags": [
-    "states",
-    "business"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-17T06:00:00Z",
-   "headline": "16 states raise their minimum wage on Jan. 1; Washington tops out at $17.73",
-   "caption": "Sixteen states will lift pay floors when 2027 starts. Michigan jumps $1.27 to $15, and Rhode Island hits $17.",
-   "visual": {
-    "type": "board",
-    "title": "Jan. 1, 2027 raises",
-    "rows": [
-     {
-      "k": "Washington",
-      "s": "highest statewide",
-      "v": "$17.73",
-      "tone": "gain"
-     },
-     {
-      "k": "Rhode Island",
-      "s": "+$1.00",
-      "v": "$17.00",
-      "tone": "gain"
-     },
-     {
-      "k": "Michigan",
-      "s": "+$1.27, biggest jump",
-      "v": "$15.00",
-      "tone": "gain"
-     },
-     {
-      "k": "Virginia",
-      "s": "+$0.98",
-      "v": "$13.75",
-      "tone": "gain"
-     },
-     {
-      "k": "Montana",
-      "s": "+$0.35, lowest of group",
-      "v": "$11.20",
-      "tone": "acc"
-     }
-    ],
-    "foot": "New York's general rate stays put on Jan. 1"
-   },
-   "detail": [
-    "Sixteen states will raise their minimum wage on January 1, 2027. The list includes Arizona, California, Colorado, Connecticut, Maine, Michigan, Minnesota, Montana, Nebraska, New Jersey, Ohio, Rhode Island, South Dakota, Vermont, Virginia and Washington.",
-    "Washington will have the highest statewide rate at $17.73. Michigan gets the biggest jump, $1.27, to reach $15. Montana's new rate of $11.20 is the lowest in the group.",
-    "New York is not on the list. Its rate stays at $17 in New York City, Long Island and Westchester and $16 elsewhere. Alaska goes from $14 to $15 later, on July 1, 2027."
-   ],
-   "money": [
-    "If you earn near the minimum, check your first January paycheck for the new rate.",
-    "Hourly workers in these states can plan a 2027 budget around the higher pay.",
-    "Small business owners should update payroll and price plans before Jan. 1."
-   ],
-   "risk": [
-    "Some employers may cut hours or raise prices to cover higher labor costs."
-   ],
-   "sources": [
-    {
-     "t": "Minimum Wage Will Increase In 16 States On January 1, 2027",
-     "d": "allwork.space",
-     "u": "https://allwork.space/2026/11/minimum-wage-will-increase-in-16-states-on-january-1-2027"
-    },
-    {
-     "t": "Washington's minimum wage rises to $17.73 an hour in 2027",
-     "d": "lni.wa.gov",
-     "u": "https://www.lni.wa.gov/news-events/article/26-17"
-    }
-   ]
-  },
-  {
-   "id": "maryland-deficit-plan-2026111706",
-   "type": "news",
-   "cat": "states",
-   "tags": [
-    "states",
-    "politics"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-17T06:00:00Z",
-   "headline": "Maryland faces a nearly $3B budget gap in 2028; leaders plan a four-year fix",
-   "caption": "Gov. Wes Moore and legislative leaders say they will stop patching the budget one year at a time. Some agencies were asked to model cuts of up to 10%.",
-   "visual": {
-    "type": "stat",
-    "title": "Maryland budget hole",
-    "num": "~$3B",
-    "tone": "loss",
-    "label": "Structural deficit expected in fiscal 2028, and bigger later.",
-    "facts": [
-     [
-      "June estimate",
-      "$2.6B",
-      "legislative analysts"
-     ],
-     [
-      "Agency cut scenarios",
-      "up to 10%",
-      "asked of some agencies"
-     ],
-     [
-      "County task force",
-      "Dec. 1",
-      "recommendations due"
-     ]
-    ]
-   },
-   "detail": [
-    "Maryland's structural deficit is nearing $3 billion for fiscal 2028. Legislative analysts put it at $2.6 billion in June. Newer budget office estimates are closer to $3 billion, and later years look worse.",
-    "Gov. Wes Moore, Senate President Bill Ferguson and House Speaker Joseline Pena-Melnyk agreed to build a four-year plan. It will review spending, efficiency and existing programs. No specific cuts or tax changes were named yet.",
-    "Rising school funding costs under the Blueprint plan are a key driver, along with federal cuts. A Republican leader warned against pushing costs onto counties, which could mean higher local property taxes."
-   ],
-   "money": [
-    "Marylanders who rely on state programs should watch the 2027 session for changes.",
-    "Homeowners may want to follow county budgets, since cost shifts can raise property taxes.",
-    "State contractors and grant users should plan for tighter budgets."
-   ],
-   "risk": [
-    "Cuts or new fees have not been decided, so the impact is still unknown."
-   ],
-   "sources": [
-    {
-     "t": "Moore, Legislative Leaders Seek Four-Year Plan Amid Growing Budget Deficits",
-     "d": "conduitstreet.mdcounties.org",
-     "u": "https://conduitstreet.mdcounties.org/2026/11/16/moore-legislative-leaders-seek-four-year-plan-amid-growing-budget-deficits/"
-    }
-   ]
-  },
-  {
-   "id": "cms-fraud-rules-2026111706",
-   "type": "news",
-   "cat": "benefits",
-   "tags": [
-    "benefits",
-    "politics"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-17T06:00:00Z",
-   "headline": "New federal rules target fraud in Medicare, Medicaid and ACA plans; $90B savings claimed",
-   "caption": "The administration proposed rules on how patients and providers enroll. CMS says the crackdown would save $90 billion over 10 years.",
-   "visual": {
-    "type": "points",
-    "title": "What the proposed rules do",
-    "items": [
-     "Cover Medicare, Medicaid and ACA exchanges",
-     "Tighten patient and provider enrollment",
-     "Expand power to penalize bad actors",
-     "Allow suspending payments to suspected fraudsters",
-     "CMS estimate: $90B saved over 10 years"
-    ]
-   },
-   "detail": [
-    "The Trump administration released proposed rules on Monday aimed at fraud in Medicare, Medicaid and the Affordable Care Act marketplaces. They focus on how patients and providers sign up.",
-    "The rules would make the most of HHS power to penalize and suspend payments to bad actors. The Centers for Medicare & Medicaid Services estimates savings of $90 billion over 10 years.",
-    "These are proposals, so they can change after public comments before becoming final."
-   ],
-   "money": [
-    "Keep your enrollment details current to avoid delays if checks get stricter.",
-    "Review your Medicare statements for services you never got, and report them.",
-    "Providers should prepare for more enrollment paperwork."
-   ],
-   "risk": [
-    "Stricter checks can sometimes delay coverage for eligible people.",
-    "Final rules may differ from the proposal."
-   ],
-   "sources": [
-    {
-     "t": "RFK Jr., Oz Release Rules on Fraud in Medicare, Medicaid, ACA",
-     "d": "news.bloomberglaw.com",
-     "u": "https://news.bloomberglaw.com/health-law-and-business/rfk-jr-oz-release-rules-on-fraud-in-medicare-medicaid-aca"
-    }
-   ]
-  },
-  {
-   "id": "ss-payments-nov18-2026111706",
-   "type": "news",
-   "cat": "benefits",
-   "tags": [
-    "benefits"
-   ],
-   "date": "Wed Nov 18",
-   "ts": "2026-11-17T06:00:00Z",
-   "headline": "Social Security pays birthdays 11th-20th on Wednesday; 3.6% raise starts in January",
-   "caption": "The next batch of retirement checks lands Nov. 18. The average retiree check should rise about $76 a month in 2027.",
-   "visual": {
-    "type": "timeline",
-    "title": "Social Security dates",
-    "items": [
-     {
-      "d": "NOV 18",
-      "t": "Birthdays 11th-20th paid",
-      "now": true
-     },
-     {
-      "d": "NOV 25",
-      "t": "Birthdays 21st-31st paid"
-     },
-     {
-      "d": "DEC 31",
-      "t": "SSI 3.6% raise starts",
-      "s": "about 7.3M people"
-     },
-     {
-      "d": "JAN 2027",
-      "t": "Social Security 3.6% raise",
-      "s": "about 72M people"
-     }
-    ]
-   },
-   "detail": [
-    "Retirees born on the 11th through the 20th get paid Wednesday, November 18. Those born on the 21st through the 31st get paid November 25. People who started before May 1997, or who get both Social Security and SSI, are paid on a different schedule.",
-    "The 2027 cost-of-living raise is 3.6%. The average retired worker's check should go from about $2,094 to about $2,170 a month. The raise is automatic.",
-    "The top possible benefit at age 70 is $5,181 a month, which takes maximum taxable earnings for many years."
-   ],
-   "money": [
-    "If a payment is late, wait three mailing days before calling SSA.",
-    "Use the $76 average raise to rebuild an emergency cushion or cover higher Medicare costs.",
-    "Waiting to claim, up to age 70, raises your lifetime monthly check."
-   ],
-   "risk": [
-    "Medicare premium changes can eat into part of the raise."
-   ],
-   "sources": [
-    {
-     "t": "Social security payments up to $5,181 set to arrive this week",
-     "d": "newsweek.com",
-     "u": "https://www.newsweek.com/social-security-payments-up-to-5181-set-to-arrive-this-week-12718945"
-    }
-   ]
-  },
-  {
-   "id": "irs-get-ready-2027-2026111706",
-   "type": "news",
-   "cat": "taxes",
-   "tags": [
-    "taxes"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-17T06:00:00Z",
-   "headline": "IRS kicks off 'Get Ready' for the 2027 filing season; paper refund checks are fading",
-   "caption": "The IRS says to gather W-2s, 1099s and crypto records now. New deductions for tips, overtime, car loan interest and seniors apply to 2026 returns.",
-   "visual": {
-    "type": "points",
-    "title": "Get ready now",
-    "items": [
-     "Collect W-2s from every job, including part-time",
-     "Save 1099s from banks, apps and online marketplaces",
-     "Keep records of crypto trades",
-     "Have bank routing and account numbers ready",
-     "New deductions: tips, overtime, car loan interest, seniors"
-    ]
-   },
-   "detail": [
-    "The IRS issued its first 'Get Ready' reminder for the 2027 filing season on November 16. It urges people to gather records now for their 2026 tax returns.",
-    "New provisions include deductions for qualified tips, qualified overtime, interest on qualified car loans, and a bigger deduction for seniors. The IRS is still writing guidance, so it says to check its Working Families Tax Cuts page often.",
-    "Paper refund checks are being phased out under an executive order. That means most filers will need to give bank details for direct deposit."
-   ],
-   "money": [
-    "Track tips and overtime pay now so you can claim the new deductions.",
-    "Save your car loan statements if you bought a qualifying vehicle.",
-    "Set up an IRS Online Account to see transcripts and get an identity PIN."
-   ],
-   "risk": [
-    "Guidance on new deductions is still coming, so rules could shift."
-   ],
-   "sources": [
-    {
-     "t": "IRS Urges Taxpayers to Start Preparing Now for 2027 Filing Season",
-     "d": "newsroomamerica.com",
-     "u": "https://newsroomamerica.com/a/XJ6qd7tZvTZh9aJHWyDjDS7Atf0/the_irs_is_urging_taxpayers_to_gather_records_and_organize_information_now_for_the_2027_filing_season_and_is_pointing_them_to_online_tools_and_new_tax_law_provisions.html"
-    }
-   ]
-  },
-  {
-   "id": "lilly-calytrix-2026111706",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business",
-    "markets"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-17T06:00:00Z",
-   "headline": "Eli Lilly agrees to buy blood-cancer startup Calytrix Bio for up to $1.5 billion",
-   "caption": "The deal adds a lab-made protein aimed at rare bone marrow cancers. Lilly's 2026 deals now total about $32 billion.",
-   "visual": {
-    "type": "deals",
-    "title": "Lilly's latest deal",
-    "items": [
-     {
-      "a": "Eli Lilly",
-      "b": "Calytrix Bio",
-      "amt": "up to $1.5B",
-      "st": "cash plus milestones",
-      "c": "pend"
-     },
-     {
-      "a": "Lilly 2026 total",
-      "b": "all acquisitions",
-      "amt": "~$32B",
-      "st": "a record by max value",
-      "c": "ok"
-     }
-    ]
-   },
-   "detail": [
-    "Eli Lilly agreed to buy Calytrix Bio, a private biotech founded in 2025. The total could reach $1.5 billion, made up of cash up front plus payments tied to clinical results.",
-    "Calytrix's lead drug targets gene mutations behind essential thrombocythemia and myelofibrosis. These are rare, chronic blood cancers that start in bone marrow. Lilly bought Ajax Therapeutics in the same area earlier this year.",
-    "Lilly shares rose 1.5% Monday morning. By Bloomberg's count of maximum deal values, Lilly's 2026 buying spree is the biggest on record."
-   ],
-   "money": [
-    "Milestone-based deals cap upfront risk, a sign Lilly is spreading its bets.",
-    "Biotech investors often watch big pharma buyers to spot hot research areas.",
-    "Index fund holders already own Lilly; no need to chase single deals."
-   ],
-   "risk": [
-    "Early-stage drugs often fail, so milestone money may never be paid."
-   ],
-   "sources": [
-    {
-     "t": "Lilly to buy Calytrix Bio for up to $1.5B",
-     "d": "briefs.co",
-     "u": "https://www.briefs.co/news/lilly-to-acquire-calytrix-bio-in-deal-valued-as-high-as-1-5/"
-    }
-   ]
-  },
-  {
-   "id": "optimizely-hack-2026111706",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business",
-    "crypto"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-17T06:00:00Z",
-   "headline": "Optimizely hack plants card-skimming code on 178+ big websites, including CNN and HSBC",
-   "caption": "Malicious code served through Optimizely's network tried to steal cards and swap crypto addresses. Check your statements if you paid on a big site Nov. 16.",
-   "visual": {
-    "type": "stat",
-    "title": "OPTIMJACK attack",
-    "num": "178+",
-    "tone": "loss",
-    "label": "Organizations whose sites served the malicious script.",
-    "facts": [
-     [
-      "Snippets infected",
-      "188 of 1,611",
-      "checked by Report URI"
-     ],
-     [
-      "Crypto stolen",
-      "~$7,040",
-      "by evening Nov. 16"
-     ],
-     [
-      "Fix for iPhones",
-      "iOS 18.7.3 / 26.3+",
-      "update now"
-     ]
-    ]
-   },
-   "detail": [
-    "Attackers slipped harmful JavaScript into Optimizely Web projects, so it loaded from Optimizely's servers on customer sites. Researchers counted at least 178 affected organizations, including the BBC, CNN, Zoom, Salesforce, IKEA, HSBC, Equifax and Peacock.",
-    "The script swapped copied crypto wallet addresses, skimmed card numbers typed into site forms, grabbed cookies and screenshots, and pushed some iPhone users toward exploits. About $7,040 in crypto reached the attacker by Monday evening. Card losses are unknown.",
-    "As of Tuesday, Optimizely had not commented on how the attackers got in."
-   ],
-   "money": [
-    "Watch card statements if you entered card details on a major site Nov. 16.",
-    "Update iPhones and iPads to iOS 18.7.3 or 26.3 or later.",
-    "Always double-check a pasted crypto address before you send."
-   ],
-   "risk": [
-    "The full list of affected sites is still growing."
-   ],
-   "sources": [
-    {
-     "t": "Optimizely Supply-Chain Attack Hits at Least 178 Organisations",
-     "d": "breachhistory.com",
-     "u": "https://breachhistory.com/blog/optimizely-optimjack-skimmer-november-2026"
-    },
-    {
-     "t": "Suspected Optimizely Supply-Chain Attack Hits at Least 186 Sites",
-     "d": "tokenpost.com",
-     "u": "https://www.tokenpost.com/news/technology/58901"
-    }
-   ]
-  },
-  {
-   "id": "childrens-place-gift-cards-2026111706",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-17T06:00:00Z",
-   "headline": "New: Children's Place and Gymboree gift cards stop working after Dec. 12",
-   "caption": "After its Chapter 11 filing, the kids' retailer set a deadline for gift cards and rewards. It plans some store closures and is seeking a buyer.",
-   "visual": {
-    "type": "timeline",
-    "title": "Children's Place bankruptcy",
-    "items": [
-     {
-      "d": "NOV 8",
-      "t": "Files Chapter 11"
-     },
-     {
-      "d": "NOV 16",
-      "t": "Sets gift card deadline",
-      "now": true
-     },
-     {
-      "d": "DEC 12",
-      "t": "Last day for gift cards and rewards",
-      "s": "no cash refunds"
-     }
-    ]
-   },
-   "detail": [
-    "The Children's Place filed for Chapter 11 bankruptcy on November 8. Stores and websites remain open for now, but the company says some closures will be needed. It has not said how many.",
-    "Children's Place and Gymboree gift cards can be used through December 12, 2026. After that they will not be accepted, and balances cannot be cashed out. My Place Rewards points also end that day.",
-    "The company is looking for a buyer to keep the business going under new owners."
-   ],
-   "money": [
-    "Spend any Children's Place or Gymboree gift cards before Dec. 12.",
-    "Use rewards points now; they expire the same day.",
-    "Compare clearance prices to other stores, since 'sale' tags aren't always the best deal."
-   ],
-   "risk": [
-    "Returns and exchanges may get stricter during a bankruptcy sale."
-   ],
-   "sources": [
-    {
-     "t": "The Children's Place plans store closures after bankruptcy filing, sets gift card deadline",
-     "d": "foxbusiness.com",
-     "u": "https://www.foxbusiness.com/retail/childrens-place-plans-store-closures-filing-bankruptcy-sets-gift-card-deadline"
-    }
-   ]
-  },
-  {
-   "id": "open-doors-students-2026111706",
-   "type": "news",
-   "cat": "immigration",
-   "tags": [
-    "immigration",
-    "business"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-17T06:00:00Z",
-   "headline": "New foreign student enrollment drops 18%; fall 2026 total down another 9%",
-   "caption": "The yearly Open Doors report shows the first total drop in five years. Master's students fell 22%, while India's grad numbers fell 34%.",
-   "visual": {
-    "type": "board",
-    "title": "Foreign students in the US",
-    "rows": [
-     {
-      "k": "New students, 2025-26",
-      "v": "-18%",
-      "ch": -18,
-      "tone": "loss"
-     },
-     {
-      "k": "Total, 2025-26",
-      "s": "1,146,163",
-      "v": "-3%",
-      "ch": -3,
-      "tone": "loss"
-     },
-     {
-      "k": "Master's students",
-      "v": "-22%",
-      "ch": -22,
-      "tone": "loss"
-     },
-     {
-      "k": "OPT work program",
-      "s": "335,785",
-      "v": "+14%",
-      "ch": 14,
-      "tone": "gain"
-     },
-     {
-      "k": "Fall 2026 total",
-      "s": "snapshot",
-      "v": "-9%",
-      "ch": -9,
-      "tone": "loss"
-     }
-    ],
-    "foot": "Foreign students added nearly $56B to the economy in 2025"
-   },
-   "detail": [
-    "The Open Doors report found new international enrollment fell 18% in the 2025-26 school year. Total enrollment fell 3% to 1,146,163. Graduate enrollment fell 13%, led by a 22% drop in master's students.",
-    "India stayed the top sender but fell 6%, with Indian graduate students down 34%. China was second, down 4%. A fall 2026 snapshot of 800+ schools shows total enrollment down another 9% and new students down 15%.",
-    "Reports tie the decline to visa policy changes and higher costs. Foreign students added nearly $56 billion to the US economy in 2025, per Commerce Department data."
-   ],
-   "money": [
-    "Colleges losing tuition revenue may offer more aid to domestic students.",
-    "Families shopping for grad school may find less competition for seats.",
-    "College towns' landlords and businesses may see softer demand."
-   ],
-   "risk": [
-    "Lower tuition revenue could push some schools to raise prices or cut programs."
-   ],
-   "sources": [
-    {
-     "t": "New International Student Enrollment In U.S. Plunges 18%",
-     "d": "forbes.com",
-     "u": "https://www.forbes.com/sites/annaesakismith/2026/11/16/new-international-student-enrollment-in-us-plunges-18/"
-    },
-    {
-     "t": "Open Doors 2026 press release",
-     "d": "opendoorsdata.org",
-     "u": "https://opendoorsdata.org/wp-content/uploads/2026/11/Open-Doors-Data-Press-Release_2026.pdf"
-    }
-   ]
-  },
-  {
-   "id": "nvidia-board-huang-2026111706",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "markets"
-   ],
-   "date": "Tue Nov 17",
-   "ts": "2026-11-17T06:00:00Z",
-   "headline": "Nvidia's board reportedly rules out Jensen Huang's return, despite a 180,000-name petition",
-   "caption": "Sources told Reuters the board isn't weighing bringing Huang back. Musk backs the petition, and Trump said he wouldn't mind a return.",
-   "visual": {
-    "type": "board",
-    "title": "Nvidia leadership fight",
-    "rows": [
-     {
-      "k": "Board stance",
-      "s": "per Reuters sources",
-      "v": "No return",
-      "tone": "loss"
-     },
-     {
-      "k": "Petition signatures",
-      "v": "180,200+",
-      "tone": "acc"
-     },
-     {
-      "k": "Shares moved to trust",
-      "s": "by Huang",
-      "v": "~59M",
-      "tone": "acc"
-     },
-     {
-      "k": "Last week's drop",
-      "s": "record weekly fall",
-      "v": "-12.8%",
-      "ch": -12.8,
-      "tone": "loss"
-     }
-    ],
-    "foot": "Nvidia reports earnings this week"
-   },
-   "detail": [
-    "Nvidia's board is not considering bringing back Jensen Huang as CEO, sources told Reuters early Tuesday. Huang resigned amid allegations involving employee affairs and suspected Chinese intelligence ties.",
-    "A petition for his return has passed 180,200 signatures, and Elon Musk supports it. Trump said he would not mind seeing Huang reinstated. Huang moved about 59 million Nvidia shares, worth over $10.5 billion, into a family trust.",
-    "Nvidia had its worst week on record, falling 12.8% to $162.85. Its $13 billion Hugging Face deal is still pending."
-   ],
-   "money": [
-    "Leadership chaos can mean big price swings; avoid oversized single-stock bets.",
-    "Broad index funds spread out Nvidia risk across hundreds of firms.",
-    "If you own Nvidia, decide your plan before earnings, not during the swing."
-   ],
-   "risk": [
-    "Reports are based on unnamed sources and could change.",
-    "Earnings could move the stock sharply either way."
-   ],
-   "sources": [
-    {
-     "t": "Nvidia board rules out Jensen Huang return amid growing petition and backlash: report",
-     "d": "seekingalpha.com",
-     "u": "https://seekingalpha.com/news/4673431-nvidia-board-rules-out-jensen-huang-return-amid-growing-petition-and-backlash-report"
-    },
-    {
-     "t": "Key Overnight and Morning News (November 16-17)",
-     "d": "panews.io",
-     "u": "https://panews.io/articles/01a1e73b-86e1-7176-95a2-aad8a0f22460"
-    }
-   ]
-  },
-  {
-   "id": "zelle-usd-solana-2026111706",
-   "type": "news",
-   "cat": "crypto",
-   "tags": [
-    "crypto",
-    "business"
-   ],
-   "date": "This week",
-   "ts": "2026-11-17T06:00:00Z",
-   "headline": "Zelle picks Solana for its ZelleUSD stablecoin; India is the first overseas route",
-   "caption": "The bank-owned payment app showed a $1.25 million private transfer on Solana. Zelle handled over $1.2 trillion in US payments in 2025.",
-   "visual": {
-    "type": "stat",
-    "title": "ZelleUSD",
-    "num": "$1.2T",
-    "tone": "acc",
-    "label": "US payments Zelle processed in 2025.",
-    "facts": [
-     [
-      "Blockchain",
-      "Solana",
-      "announced at Breakpoint"
-     ],
-     [
-      "Issuer",
-      "Anchorage Digital",
-      "federally chartered bank"
-     ],
-     [
-      "First route",
-      "India",
-      "targeted before end of 2026"
-     ]
-    ]
-   },
-   "detail": [
-    "Zelle, run by bank-owned Early Warning Services, will issue its ZelleUSD (ZLUSD) stablecoin on Solana. Anchorage Digital Bank is the issuer. The banks behind Zelle include JPMorgan Chase and Wells Fargo.",
-    "The coin is built for sending money abroad, starting with India. Early Warning had said it expects the India route to go live before the end of 2026. No exact date was given.",
-    "Zelle also demoed a $1.25 million confidential transfer that hides amounts on the public chain while letting banks see them for compliance."
-   ],
-   "money": [
-    "Cheaper cross-border transfers could cut fees for people who send money home.",
-    "Compare remittance fees now so you can judge if ZelleUSD saves you money.",
-    "Stablecoins aim to hold $1, but they are not the same as insured bank deposits."
-   ],
-   "risk": [
-    "Launch timing is not set, and rules for stablecoins are still evolving."
-   ],
-   "sources": [
-    {
-     "t": "Zelle Picks Solana for ZelleUSD International Payments",
-     "d": "coinmarketcap.com",
-     "u": "https://coinmarketcap.com/academy/article/zelle-solana-zelleusd-international-payments"
-    },
-    {
-     "t": "Zelle Demos $1.25M ZelleUSD Transfer Live on Solana",
-     "d": "ourcryptotalk.com",
-     "u": "https://ourcryptotalk.com/news/zelle-stablecoin-solana-confidential-transfer"
-    }
-   ]
-  },
-  {
-   "id": "buffett-thanksgiving-gift-2026111706",
-   "type": "news",
-   "cat": "markets",
-   "tags": [
-    "markets"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-17T06:00:00Z",
-   "headline": "Buffett gives about $5.4B of Berkshire stock to four family foundations",
-   "caption": "He converted 6,150 Class A shares into 9.2 million Class B shares to give away. He still holds Berkshire stock worth over $160 billion.",
-   "visual": {
-    "type": "board",
-    "title": "Buffett's Thanksgiving gift",
-    "rows": [
-     {
-      "k": "Susan Thompson Buffett Fdn.",
-      "v": "~$2.2B"
-     },
-     {
-      "k": "Sherwood Foundation",
-      "s": "led by Susan",
-      "v": "$1B+"
-     },
-     {
-      "k": "Howard G. Buffett Fdn.",
-      "s": "run by Howard",
-      "v": "$1B+"
-     },
-     {
-      "k": "NoVo Foundation",
-      "s": "run by Peter",
-      "v": "$1B+"
-     }
-    ],
-    "foot": "Total about $5.4B; all shares go to these four by 2034"
-   },
-   "detail": [
-    "Warren Buffett converted 6,150 Class A shares into 9,225,000 Class B shares and is giving them to four family foundations. The gift is worth about $5.4 billion at recent prices.",
-    "The Susan Thompson Buffett Foundation gets about $2.2 billion. Foundations run by his three children each get just over $1 billion. He gave about $6 billion to the same four in July.",
-    "Buffett still owns 182,140 Class A shares and 1,162 Class B shares, worth over $160 billion. He says all of it will go to the four foundations by December 31, 2034."
-   ],
-   "money": [
-    "Giving appreciated stock instead of cash can avoid capital gains tax.",
-    "A donor-advised fund lets regular investors use the same stock-gift idea.",
-    "Class B shares make Berkshire affordable for small investors."
-   ],
-   "risk": [
-    "Large gifts and share sales can add supply, but this one is small next to Berkshire's size."
-   ],
-   "sources": [
-    {
-     "t": "Warren Buffett is giving $5.4 billion to his family foundations for Thanksgiving",
-     "d": "fortune.com",
-     "u": "https://fortune.com/2026/11/16/warren-buffett-5-4-billion-thanksgiving-donation-family-foundations-benefactor/"
-    },
-    {
-     "t": "Warren Buffett announces $5.5 billion in donations to family foundations",
-     "d": "wowt.com",
-     "u": "https://www.wowt.com/2026/11/16/warren-buffett-announces-55-billion-donations-family-foundations/"
-    }
-   ]
-  },
-  {
-   "id": "waller-half-point-odds-2026111706",
-   "type": "news",
-   "cat": "markets",
-   "tags": [
-    "markets",
-    "crypto"
-   ],
-   "date": "Tue Nov 17",
-   "ts": "2026-11-17T06:00:00Z",
-   "headline": "Fed's Waller speaks today; traders see a 9% chance of a half-point December hike",
-   "caption": "Waller said a 50-point hike should be on the table if core inflation runs 0.3% or more. October core CPI hit exactly 0.3%.",
-   "visual": {
-    "type": "vs",
-    "title": "December Fed odds (CME)",
-    "a": [
-     "+0.25 pt",
-     "90.7%",
-     0.91,
-     "acc"
-    ],
-    "b": [
-     "+0.50 pt",
-     "9.3%",
-     0.09,
-     "loss"
-    ],
-    "foot": "Odds as of Monday evening"
-   },
-   "detail": [
-    "Fed Governor Christopher Waller speaks on payments today. On November 10 he said a half-point hike should be considered in December if core inflation was around 0.3% or higher. He warned a smaller move could hurt Fed credibility.",
-    "October core CPI rose 0.3%, meeting his bar. Headline CPI rose 0.4%, above the 0.3% expected. CME FedWatch shows about 90.7% odds of a quarter-point hike and 9.3% for a half point.",
-    "Bitcoin sat near $64,959 early Tuesday, about 13% lower than a week earlier. Fed minutes come out Wednesday."
-   ],
-   "money": [
-    "If rates rise, high-yield savings and CDs may pay more; shop for the best rate.",
-    "Pay down variable-rate debt like credit cards before hikes hit.",
-    "Lock a fixed rate on a loan you need soon, if the terms are good."
-   ],
-   "risk": [
-    "A bigger-than-expected hike could hit stocks and crypto hard."
-   ],
-   "sources": [
-    {
-     "t": "Bitcoin near $65,000: Waller and the December rate bet",
-     "d": "cryptoticker.io",
-     "u": "https://cryptoticker.io/en/bitcoin-price-waller-rate-hike-november-17-2026/"
-    }
-   ]
-  },
-  {
-   "id": "ukraine-drone-strikes-talks-2026111706",
-   "type": "news",
-   "cat": "world",
-   "tags": [
-    "world",
-    "politics"
-   ],
-   "date": "Tue Nov 17",
-   "ts": "2026-11-17T06:00:00Z",
-   "headline": "Ukraine launches its biggest drone attack on Russia since 2022 as peace talks continue",
-   "caption": "Ukraine hit a key bridge and oil refineries, Russia says. Kyiv's bridges were struck too, as US envoys and Europe talk about a Berlin meeting.",
-   "visual": {
-    "type": "points",
-    "title": "War and talks",
-    "items": [
-     "Russia calls it the biggest overnight drone attack since 2022",
-     "Ukraine struck oil refineries and a key bridge",
-     "Nearly 200 drones reportedly downed near Moscow",
-     "Kyiv's North and South bridges hit",
-     "EU weighing 113 new sanctions on Russia"
-    ]
-   },
-   "detail": [
-    "Russia's defense ministry called Ukraine's overnight strike the biggest drone attack on Russia since 2022. Ukraine hit a key bridge and oil refineries. Kyiv's mayor reported hits on two bridges across the Dnipro.",
-    "On Monday, Ukraine held online talks with US envoys Steve Witkoff and Jared Kushner plus officials from France, Germany, Britain, Italy and Poland. They agreed to meet in Berlin with supporting countries. Russia says it has not agreed to bring Europe into its talks.",
-    "The EU discussed 113 new sanctions on Russia. Trump said he would discuss the war with Xi Jinping and Putin in China."
-   ],
-   "money": [
-    "Refinery hits can tighten fuel supply and nudge diesel and gas prices.",
-    "Energy funds can swing on war news; keep them a small slice of a portfolio.",
-    "Watch for peace progress, which could lower oil and help inflation."
-   ],
-   "risk": [
-    "Escalation could reverse recent drops in oil prices."
-   ],
-   "sources": [
-    {
-     "t": "Ukraine holds peace talks with US, Europe as conflict escalates",
-     "d": "aljazeera.com",
-     "u": "https://www.aljazeera.com/news/2026/11/17/ukraine-holds-peace-talks-with-us-europe-as-conflict-escalates"
-    }
-   ]
-  },
-  {
-   "id": "dems-cftc-prediction-markets-2026111706",
-   "type": "news",
-   "cat": "politics",
-   "tags": [
-    "politics",
-    "crypto"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-17T06:00:00Z",
-   "headline": "Nine Democratic senators ask the CFTC to back off its push to control prediction markets",
-   "caption": "Senators including Adam Schiff and Amy Klobuchar wrote to the regulator. The fight is over whether states can ban sites like Kalshi and Polymarket.",
-   "visual": {
-    "type": "points",
-    "title": "The prediction market fight",
-    "items": [
-     "9 Democratic senators signed the letter",
-     "Includes Schiff (CA) and Klobuchar (MN)",
-     "They want CFTC to stop asserting authority",
-     "States have tried to ban these markets",
-     "Kalshi and Polymarket are at the center"
-    ]
-   },
-   "detail": [
-    "Nine Democratic senators asked the Commodity Futures Trading Commission to stop its efforts to assert authority over prediction markets. Signers include Adam Schiff of California and Amy Klobuchar of Minnesota.",
-    "The issue is whether federal rules override state bans on event-betting sites like Kalshi and Polymarket. States have been pushing to restrict them.",
-    "Kalshi recently announced plans to offer stock and ETF trading too, widening its reach."
-   ],
-   "money": [
-    "Treat prediction market bets like gambling money, not investments.",
-    "Rules may change by state, so access could disappear suddenly.",
-    "Any winnings are taxable; keep records."
-   ],
-   "risk": [
-    "Regulatory fights can freeze accounts or block access in some states."
-   ],
-   "sources": [
-    {
-     "t": "Democratic senators ask CFTC to halt efforts to fight state prediction market bans - report",
-     "d": "seekingalpha.com",
-     "u": "https://seekingalpha.com/news/4672942-democratic-senators-ask-cftc-to-halt-efforts-to-fight-state-prediction-market-bans---report"
-    }
-   ]
-  },
-  {
-   "id": "ca-min-wage-1740-2026111706",
-   "type": "news",
-   "cat": "california",
-   "tags": [
-    "california",
-    "business"
-   ],
-   "date": "This week",
-   "ts": "2026-11-17T06:00:00Z",
-   "headline": "California's minimum wage goes to $17.40 in six weeks; exempt workers need $72,384",
-   "caption": "California is one of 16 states with raises on Jan. 1. The higher wage also lifts the salary floor for overtime-exempt jobs.",
-   "visual": {
-    "type": "board",
-    "title": "California on Jan. 1, 2027",
-    "rows": [
-     {
-      "k": "State minimum wage",
-      "s": "+$0.50",
-      "v": "$17.40/hr",
-      "tone": "gain"
-     },
-     {
-      "k": "Exempt salary floor",
-      "s": "2x min wage, full time",
-      "v": "$72,384",
-      "tone": "acc"
-     },
-     {
-      "k": "Wage claim line",
-      "s": "8am-5pm weekdays",
-      "v": "833-526-4636"
-     }
-    ],
-    "foot": "Higher local minimums still apply"
-   },
-   "detail": [
-    "California's statewide minimum wage rises 50 cents to $17.40 an hour on January 1, 2027. It covers most workers, including piece-rate workers. Cities with higher local minimums keep them.",
-    "Salaried workers classified as exempt from overtime must earn at least $72,384 a year. That is twice the minimum wage for full-time hours. They must also meet job duty tests.",
-    "California is one of 16 states raising pay floors on New Year's Day."
-   ],
-   "money": [
-    "Salaried workers under $72,384 may be owed overtime starting Jan. 1.",
-    "Check your January pay stub; it must list your wage rate.",
-    "If underpaid, you can file a wage claim with the Labor Commissioner."
-   ],
-   "risk": [
-    "Some employers may cut hours to offset costs."
-   ],
-   "sources": [
-    {
-     "t": "California's minimum wage set to increase to $17.40 per hour on January 1, 2027",
-     "d": "dir.ca.gov",
-     "u": "https://www.dir.ca.gov/DIRNews/2026/2026-66.html"
-    },
-    {
-     "t": "Minimum Wage Will Increase In 16 States On January 1, 2027",
-     "d": "allwork.space",
-     "u": "https://allwork.space/2026/11/minimum-wage-will-increase-in-16-states-on-january-1-2027"
-    }
-   ]
-  },
-  {
-   "id": "edu-gift-cards-bankruptcy-2026111706",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "business"
-   ],
-   "date": "Explainer",
-   "ts": "2026-11-17T06:00:00Z",
-   "headline": "Gift cards in a bankruptcy: why you should spend them fast",
-   "caption": "When a store files Chapter 11, gift cards can lose value overnight. Here's how it works, using Children's Place as the example.",
-   "scenes": [
-    {
-     "k": "Today's news",
-     "t": "Children's Place cards end Dec. 12",
-     "s": "After that, balances can't be used or cashed out."
-    },
-    {
-     "k": "Why it happens",
-     "t": "A gift card is a store IOU",
-     "s": "In bankruptcy, the store owes many people at once."
-    },
-    {
-     "k": "Who gets paid",
-     "t": "Card holders are near the back of the line",
-     "viz": {
-      "type": "flow",
-      "items": [
-       "Secured lenders",
-       "Other creditors",
-       "Gift card holders"
-      ]
-     },
-     "say": "Secured lenders usually come first. Gift card holders are often near the back."
-    },
-    {
-     "k": "The deadline",
-     "t": "Courts often let stores set a cutoff",
-     "s": "After it, your card may be worth nothing."
-    },
-    {
-     "k": "What to do",
-     "t": "Spend it now, on things you need",
-     "viz": {
-      "type": "flow",
-      "items": [
-       "Check balance",
-       "Spend before cutoff",
-       "Use rewards too"
-      ]
-     }
-    },
-    {
-     "k": "Bottom line",
-     "t": "Don't sit on gift cards from shaky stores",
-     "s": "Use them early, or skip buying them for struggling chains."
     }
    ]
   }
