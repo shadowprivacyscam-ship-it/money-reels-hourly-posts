@@ -1,6 +1,869 @@
 {
- "updated": "2026-11-17T04:00:00Z",
+ "updated": "2026-11-17T05:00:00Z",
  "items": [
+  {
+   "id": "nikkei-below-60k-2026111705",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets",
+    "ai"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T05:00:00Z",
+   "headline": "New: Japan's Nikkei closes down 2.4%, back below 60,000; Advantest sinks 11%",
+   "caption": "Chip stocks dragged Tokyo lower ahead of Nvidia's results. Two names, Advantest and Tokyo Electron, caused most of the drop.",
+   "visual": {
+    "type": "stat",
+    "title": "Tokyo close, Tue Nov 17",
+    "num": "-2.4%",
+    "tone": "loss",
+    "label": "Nikkei 225 ends at 59,662, its first close under 60,000 in a week.",
+    "rows": [
+     [
+      "Advantest",
+      -11.1
+     ],
+     [
+      "Tokyo Electron",
+      -7.1
+     ],
+     [
+      "Topix",
+      -1.0
+     ]
+    ]
+   },
+   "detail": [
+    "Japan's Nikkei 225 fell 2.4%, or about 1,480 points, to 59,662. It was the index's first close below 60,000 in a week. The broader Topix fell only about 1%.",
+    "Two chip stocks did most of the damage. Advantest, which supplies Nvidia, fell 11.1%. Tokyo Electron fell 7.1%. Together they took about 1,072 points off the Nikkei.",
+    "Investors are nervous about turmoil at Nvidia before its earnings report later today. Anthropic's IPO is also set to price Wednesday and start trading Thursday."
+   ],
+   "money": [
+    "A price-weighted index like the Nikkei can swing on a few big stocks; check what your Japan fund actually holds.",
+    "If you own chip suppliers, Nvidia's report tonight is a big catalyst; decide your plan before the news, not after.",
+    "The broader Topix fell much less, a reminder that wide index funds can soften single-sector shocks."
+   ],
+   "risk": [
+    "Chip stocks can rebound or fall further fast depending on Nvidia's results.",
+    "A weak yen and slowing Japan economy add extra risk for foreign investors."
+   ],
+   "sources": [
+    {
+     "t": "Nikkei tumbles under weight of tech shares in big week for AI",
+     "d": "brecorder.com",
+     "u": "https://www.brecorder.com/news/40449267/nikkei-tumbles-under-weight-of-tech-shares-in-big-week-for-ai"
+    }
+   ]
+  },
+  {
+   "id": "retail-sales-preview-2026111705",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets",
+    "business"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T05:00:00Z",
+   "headline": "Today: October retail sales seen up just 0.2% as traders price a December Fed hike",
+   "caption": "Economists expect a slower gain after September's 0.8% jump. Prediction markets put the odds of a December rate hike near 89%.",
+   "visual": {
+    "type": "vs",
+    "title": "Retail sales, month over month",
+    "a": [
+     "Sept actual",
+     "+0.8%",
+     1,
+     "gain"
+    ],
+    "b": [
+     "Oct forecast",
+     "+0.2%",
+     0.25,
+     "acc"
+    ],
+    "foot": "Ex-autos forecast: +0.4%. Report due Tue morning ET."
+   },
+   "detail": [
+    "The US government releases October retail sales today. Economists expect a gain of about 0.2%, per a TradingKey preview. RBC expects just 0.1%, mostly from weaker car sales. Sales excluding autos are seen up about 0.4%.",
+    "September was strong: sales rose 0.8% to about $745 billion, and August was revised up to 1.3%. But October prices rose 0.4%, so part of any gain may just be inflation.",
+    "Rate-hike bets are high. Kalshi traders put the chance of a quarter-point hike in December at 89%. The dollar index is near 103.5, its highest since April 2025, and gold sits near a one-year low."
+   ],
+   "money": [
+    "If a hike comes, savings and money-market yields may tick up; make sure your cash earns a competitive rate.",
+    "Variable-rate debt like credit cards tends to rise after a hike; paying it down now locks in savings.",
+    "Retail stocks often move on this report; avoid big bets right before the release."
+   ],
+   "risk": [
+    "A strong number could push hike odds and bond yields even higher.",
+    "Forecasts and market odds can shift quickly after one data point."
+   ],
+   "sources": [
+    {
+     "t": "US October Retail Sales Preview",
+     "d": "tradingkey.com",
+     "u": "https://www.tradingkey.com/analysis/economic/indicators/262308131-us-october-retail-sales-preview-consumption-cool-fed-december-rate-hike-test-tradingkey"
+    },
+    {
+     "t": "Crypto News Nov 17: Bitcoin, Latest Hacks, Fed Rate Hike Odds and More",
+     "d": "coingabbar.com",
+     "u": "https://www.coingabbar.com/en/crypto-news-nov-17-bitcoin-eth-defi-fear-index-fed-rate-hike"
+    }
+   ]
+  },
+  {
+   "id": "bessent-chip-rule-2026111705",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "politics",
+    "markets"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T05:00:00Z",
+   "headline": "New: Report says Bessent pushed the AI chip rule over Commerce objections",
+   "caption": "Politico reports Treasury drove the new limits on chip access in five countries. The rule takes effect Thursday.",
+   "visual": {
+    "type": "board",
+    "title": "New AI chip license rule",
+    "rows": [
+     {
+      "k": "Countries",
+      "v": "5",
+      "s": "Malaysia, Singapore, Indonesia, Thailand, Brazil"
+     },
+     {
+      "k": "Announced",
+      "v": "Mon Nov 16"
+     },
+     {
+      "k": "Takes effect",
+      "v": "Thu Nov 19",
+      "tone": "acc"
+     },
+     {
+      "k": "Nvidia close Mon",
+      "v": "$156.14",
+      "ch": -4.1,
+      "tone": "loss"
+     }
+    ],
+    "foot": "Per Politico/Yahoo and Implicator"
+   },
+   "detail": [
+    "Treasury Secretary Scott Bessent pushed through the Commerce Department's new AI chip rule over Commerce objections, Politico reported, citing three anonymous sources. The rule aims to stop Chinese firms from renting advanced US chips in overseas data centers.",
+    "Licenses will now be needed for some advanced chip exports to Malaysia, Singapore, Indonesia, Thailand and Brazil. The trigger was Nvidia chips allegedly diverted to China through Singapore-based Megaspeed. Bessent told CNBC that Commerce 'has the pen.'",
+    "Nvidia fell 4.1% Monday to $156.14, its lowest close since July 2025. It reports earnings after the bell today."
+   ],
+   "money": [
+    "Export rules can cut chip makers' sales in some regions; check how much your holdings rely on Asia data centers.",
+    "Policy news can hit chip stocks all at once; spreading money across sectors lowers that risk.",
+    "Watch Nvidia's call tonight for comments on how the rule affects sales."
+   ],
+   "risk": [
+    "The report relies on anonymous sources.",
+    "Rules could be tightened or eased again with little warning."
+   ],
+   "sources": [
+    {
+     "t": "Bessent pushed new AI chips rule over Commerce objections",
+     "d": "yahoo.com",
+     "u": "https://www.yahoo.com/news/politics/articles/bessent-pushed-ai-chips-rule-030656470.html"
+    },
+    {
+     "t": "Nvidia Stock Sinks to 16-Month Low Before Q3 Earnings",
+     "d": "implicator.ai",
+     "u": "https://www.implicator.ai/nvidia-stock-16-month-low-q3-earnings/"
+    }
+   ]
+  },
+  {
+   "id": "crypto-security-hits-2026111705",
+   "type": "news",
+   "cat": "crypto",
+   "tags": [
+    "crypto"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T05:00:00Z",
+   "headline": "Crypto security: a Gnosis Safe wallet is drained of $6.45M; Trezor partner leaks orders",
+   "caption": "Attackers emptied one Safe wallet, and a breach at a Trezor partner exposed details from 27,000 orders. Both raise phishing risk.",
+   "visual": {
+    "type": "board",
+    "title": "Latest crypto security hits",
+    "rows": [
+     {
+      "k": "Gnosis Safe wallet",
+      "s": "drained",
+      "v": "$6.45M",
+      "tone": "loss"
+     },
+     {
+      "k": "Traced in USDC",
+      "v": "$4.3M"
+     },
+     {
+      "k": "Traced in syrupUSDC",
+      "v": "$1.7M"
+     },
+     {
+      "k": "Trezor partner orders exposed",
+      "s": "Aug 9 to Nov 7",
+      "v": "27,000",
+      "tone": "loss"
+     }
+    ]
+   },
+   "detail": [
+    "Attackers drained about $6.45 million from a Gnosis Safe wallet, according to a CoinGabbar roundup. Security firm Specter traced about $4.3 million in USDC and $1.7 million in syrupUSDC.",
+    "Separately, a breach at Skladon, a partner of hardware-wallet maker Trezor, exposed details from about 27,000 orders placed between August 9 and November 7. Trezor had earlier disclosed a different breach at shipper ShipMonk that grew to about 81,000 customers.",
+    "Order leaks don't expose coins directly, but scammers use names and addresses for fake emails, calls and letters."
+   ],
+   "money": [
+    "Never type your wallet recovery phrase anywhere a message asks you to; real companies never request it.",
+    "Consider a PO box or pickup point for hardware wallet orders to keep your home address private.",
+    "Review the permissions and modules on any multisig or smart wallet you use."
+   ],
+   "risk": [
+    "Details on the Gnosis Safe attack are still emerging.",
+    "Leaked customer data can be used for scams for years."
+   ],
+   "sources": [
+    {
+     "t": "Crypto News Nov 17: Bitcoin, Latest Hacks, Fed Rate Hike Odds and More",
+     "d": "coingabbar.com",
+     "u": "https://www.coingabbar.com/en/crypto-news-nov-17-bitcoin-eth-defi-fear-index-fed-rate-hike"
+    },
+    {
+     "t": "Trezor Supply Chain Breach Now Impacts 81,000 Customers",
+     "d": "infosecurity-magazine.com",
+     "u": "https://infosecurity-magazine.com/news/trezor-supply-chain-breach-impacts"
+    }
+   ]
+  },
+  {
+   "id": "401k-limits-2027-2026111705",
+   "type": "news",
+   "cat": "taxes",
+   "tags": [
+    "taxes",
+    "benefits"
+   ],
+   "date": "Last week",
+   "ts": "2026-11-17T05:00:00Z",
+   "headline": "2027 retirement limits: 401(k) rises $1,000 to $25,500; IRA limit stays $7,500",
+   "caption": "The IRS raised workplace plan limits for 2027. Savers 50 and older can put in up to $34,000; those 60 to 63 get a bigger catch-up.",
+   "visual": {
+    "type": "board",
+    "title": "2027 retirement contribution limits",
+    "rows": [
+     {
+      "k": "401(k)/403(b)/TSP",
+      "s": "was $24,500",
+      "v": "$25,500",
+      "tone": "gain"
+     },
+     {
+      "k": "Catch-up, 50+",
+      "s": "was $8,000",
+      "v": "$8,500",
+      "tone": "gain"
+     },
+     {
+      "k": "Super catch-up, 60-63",
+      "v": "$11,750"
+     },
+     {
+      "k": "IRA",
+      "s": "unchanged",
+      "v": "$7,500"
+     },
+     {
+      "k": "IRA catch-up, 50+",
+      "s": "unchanged",
+      "v": "$1,100"
+     }
+    ],
+    "foot": "Total for 50+ in most plans: $34,000"
+   },
+   "detail": [
+    "The IRS set 2027 limits for retirement savings. Workers can put up to $25,500 into a 401(k), 403(b), governmental 457 or Thrift Savings Plan, up $1,000 from 2026.",
+    "The catch-up for people 50 and older rises to $8,500, for a total of $34,000. People aged 60 to 63 get a larger catch-up of $11,750.",
+    "IRA limits did not change: $7,500, plus a $1,100 catch-up for those 50 and up. Income ranges for deductible IRAs, Roth IRAs and the Saver's Credit all went up."
+   ],
+   "money": [
+    "Update your payroll deferral in January so you can reach the new limit.",
+    "If you're 60 to 63, the super catch-up lets you shelter much more from taxes.",
+    "Higher Roth income ranges may let more people contribute directly in 2027."
+   ],
+   "risk": [
+    "Contributing more cuts take-home pay; keep an emergency fund first.",
+    "Plan rules vary; check what your employer's plan allows."
+   ],
+   "sources": [
+    {
+     "t": "IRS raises 401(k) contribution limit by $1,000 for 2027",
+     "d": "foxbusiness.com",
+     "u": "https://www.foxbusiness.com/personal-finance/irs-raises-401k-contribution-limit-1000-2027-retirement-savings-caps-increase"
+    },
+    {
+     "t": "Inflation adjustments to retirement account limits issued for 2027",
+     "d": "journalofaccountancy.com",
+     "u": "https://www.journalofaccountancy.com/news/2026/nov/inflation-adjustments-to-retirement-account-limits-issued-for-2027/"
+    }
+   ]
+  },
+  {
+   "id": "ice-acrobats-phoenix-2026111705",
+   "type": "news",
+   "cat": "immigration",
+   "tags": [
+    "immigration"
+   ],
+   "date": "Reported Mon Nov 16",
+   "ts": "2026-11-17T05:00:00Z",
+   "headline": "ICE detains two Argentine acrobats at Phoenix airport despite work permits to 2029",
+   "caption": "The married performers have pending asylum cases and no criminal records. ICE says a pending application doesn't give legal status.",
+   "visual": {
+    "type": "timeline",
+    "title": "Phoenix airport arrests",
+    "items": [
+     {
+      "d": "2021",
+      "t": "Authorized stays expire",
+      "s": "March and April 2021"
+     },
+     {
+      "d": "NOV 7",
+      "t": "Detained at Sky Harbor",
+      "s": "Arriving from Orlando"
+     },
+     {
+      "d": "NOV 16",
+      "t": "Held in Eloy and Florence",
+      "s": "Facing removal to Argentina",
+      "now": true
+     }
+    ]
+   },
+   "detail": [
+    "ICE agents detained Agustín Baccega, 42, and Gustavo Romanello, 34, a married couple of Argentine acrobats, at Phoenix Sky Harbor Airport on November 7. They were flying in from Orlando for a fellow performer's funeral, Latin Times reported Monday.",
+    "Both held US work permits valid through 2029 and had pending asylum claims. ICE classified them as visa overstays from 2021. Neither has a criminal record or a prior deportation order.",
+    "An ICE spokesperson said work authorization or a pending application does not grant legal status. Their lawyer criticized the arrests. The airport says it gets no advance notice and does not share passenger data with ICE."
+   ],
+   "money": [
+    "Immigrants with pending cases may want to talk with a lawyer before domestic travel.",
+    "Families facing detention often face sudden legal and bail costs; nonprofit legal aid can lower them.",
+    "Employers should know a valid work permit may not prevent detention of a worker."
+   ],
+   "risk": [
+    "Each case depends on individual facts and court outcomes.",
+    "Enforcement practices can change quickly."
+   ],
+   "sources": [
+    {
+     "t": "ICE detained a married Argentine acrobat couple at a Phoenix airport",
+     "d": "latintimes.com",
+     "u": "https://www.latintimes.com/argentine-acrobats-ice-arrest-phoenix-airport-601391"
+    }
+   ]
+  },
+  {
+   "id": "nyc-food-pantries-2026111705",
+   "type": "news",
+   "cat": "benefits",
+   "tags": [
+    "benefits",
+    "states"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T05:00:00Z",
+   "headline": "1.3 million New Yorkers now use food pantries as SNAP cuts loom, report finds",
+   "caption": "A Robin Hood and Columbia study says about 15% of NYC residents get free food. More than half of users work or live with someone who does.",
+   "visual": {
+    "type": "stat",
+    "title": "NYC food pantry use",
+    "num": "1.3M",
+    "tone": "acc",
+    "label": "About 15% of city residents rely on pantries or free food.",
+    "facts": [
+     [
+      "Lost SNAP Oct. 1",
+      "26,500",
+      "federal cuts"
+     ],
+     [
+      "Faced food hardship",
+      "2.6M+",
+      "in 2025"
+     ],
+     [
+      "Lifted out of poverty",
+      "51,000",
+      "by pantries"
+     ]
+    ]
+   },
+   "detail": [
+    "Nearly 1.3 million New Yorkers, about 15% of the city, relied on food pantries or other free food, according to a report from Robin Hood and Columbia University's Center on Poverty and Social Policy.",
+    "More than half of pantry users work or live with a working partner. Federal changes caused about 26,500 New Yorkers to lose SNAP on October 1. More than 2.6 million faced food hardship in 2025.",
+    "The report urges more pantry funding, tax credits for affected families and better EBT card security."
+   ],
+   "money": [
+    "If you lost SNAP, check whether you qualify again after a job or household change; rules vary.",
+    "Food pantries and community fridges can stretch a grocery budget while you sort out benefits.",
+    "Protect your EBT card PIN and check balances often to avoid skimming losses."
+   ],
+   "risk": [
+    "More SNAP cuts are proposed nationally, which could raise pantry demand.",
+    "Pantry supply can run short around holidays."
+   ],
+   "sources": [
+    {
+     "t": "More than 1 million NYC residents already rely on food pantries as impact of SNAP cutbacks looms",
+     "d": "yahoo.com",
+     "u": "https://yahoo.com/news/us/articles/more-1-million-nyc-residents-234500064.html"
+    }
+   ]
+  },
+  {
+   "id": "gop-budget-push-2026111705",
+   "type": "news",
+   "cat": "politics",
+   "tags": [
+    "politics",
+    "taxes",
+    "benefits"
+   ],
+   "date": "This week",
+   "ts": "2026-11-17T05:00:00Z",
+   "headline": "Senate GOP eyes a budget vote this week before Democrats take over Congress",
+   "caption": "Republicans want a party-line spending package before January. Democrats' 2027 wish list includes restoring bigger ACA subsidies.",
+   "visual": {
+    "type": "board",
+    "title": "Washington this week",
+    "rows": [
+     {
+      "k": "Senate budget resolution",
+      "v": "Vote hoped this week"
+     },
+     {
+      "k": "Government funding deadline",
+      "v": "Dec. 11",
+      "tone": "acc"
+     },
+     {
+      "k": "Next Senate",
+      "v": "55 D / 44 R",
+      "s": "Alaska undecided"
+     },
+     {
+      "k": "Next House (AP)",
+      "v": "256 D / 169 R",
+      "s": "10 undecided"
+     }
+    ]
+   },
+   "detail": [
+    "Senate Budget Chair Ron Johnson hopes to hold a vote this week on a budget resolution, the first step toward a final party-line Republican spending bill before Democrats take control. He called it a relatively simple package but gave no details.",
+    "Government funding runs out December 11, and there is no clear plan yet. The House returns Tuesday. Senate committees hold hearings on CFTC and SEC nominees this week.",
+    "For 2027, Democrats are discussing a bill to restore enhanced ACA tax credits, reverse some Medicaid and SNAP changes, and roll back some tariffs, EY reports. How to pay for it is unsettled."
+   ],
+   "money": [
+    "If you buy ACA coverage, enroll on time now; any subsidy changes would come later.",
+    "Shutdown risk around Dec. 11 could delay some federal services; keep a small cash cushion.",
+    "Tariff changes could affect prices on imported goods next year."
+   ],
+   "risk": [
+    "Plans in a lame-duck Congress often stall.",
+    "Party-line bills face procedural limits in the Senate."
+   ],
+   "sources": [
+    {
+     "t": "Johnson Hopes for 'Relatively Simple' GOP Spending Bill",
+     "d": "politicalwire.com",
+     "u": "https://politicalwire.com/2026/11/16/johnson-hopes-for-relatively-simple-gop-spending-bill/"
+    },
+    {
+     "t": "What to expect in Washington (November 16)",
+     "d": "taxnews.ey.com",
+     "u": "https://taxnews.ey.com/news/2026-2454-what-to-expect-in-washington-november-16"
+    }
+   ]
+  },
+  {
+   "id": "ca-gas-vs-texas-2026111705",
+   "type": "news",
+   "cat": "california",
+   "tags": [
+    "california",
+    "states"
+   ],
+   "date": "Sat Nov 14",
+   "ts": "2026-11-17T05:00:00Z",
+   "headline": "California gas averages $5.58, about 68% more than Texas at $3.32",
+   "caption": "AAA data show a $2.27-a-gallon gap between the two states. Prices fell after the election, but less in blue states.",
+   "visual": {
+    "type": "vs",
+    "title": "Regular gas, per gallon (Nov 14)",
+    "a": [
+     "Texas",
+     "$3.32",
+     0.59,
+     "gain"
+    ],
+    "b": [
+     "California",
+     "$5.58",
+     1,
+     "loss"
+    ],
+    "foot": "Gap: $2.27 a gallon (AAA via ZeroHedge)"
+   },
+   "detail": [
+    "California drivers paid an average of $5.583 a gallon for regular on November 14, versus $3.318 in Texas, according to AAA data cited by ZeroHedge. That is a gap of about $2.27, or 68%.",
+    "Gas prices fell in the 11 days after the election. The article says blue states saw smaller percentage drops than red states.",
+    "Oil prices have been sliding this week, with Brent near $92, though Middle East shipping risks remain."
+   ],
+   "money": [
+    "Gas apps can show price gaps of 50 cents or more within a few miles.",
+    "Warehouse club and grocery fuel rewards can cut costs per gallon.",
+    "Combining errands and keeping tires inflated stretch each tank."
+   ],
+   "risk": [
+    "Refinery outages can spike California prices quickly.",
+    "Oil could rebound if Gulf tensions escalate."
+   ],
+   "sources": [
+    {
+     "t": "Californians Pay 68% More At The Pump Than Texans",
+     "d": "zerohedge.com",
+     "u": "https://www.zerohedge.com/personal-finance/californians-pay-68-more-pump-texans-and-blue-states-got-smaller-post-election"
+    }
+   ]
+  },
+  {
+   "id": "senate-ukraine-750m-2026111705",
+   "type": "news",
+   "cat": "world",
+   "tags": [
+    "world",
+    "politics"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T05:00:00Z",
+   "headline": "Senate GOP Pentagon bill sets aside $750M in military aid for Ukraine",
+   "caption": "Senate appropriators posted a 2027 defense funding bill with Ukraine aid. Another $129M would go through the State Department.",
+   "visual": {
+    "type": "board",
+    "title": "Proposed Ukraine aid, FY2027",
+    "rows": [
+     {
+      "k": "Via Pentagon",
+      "v": "$750M"
+     },
+     {
+      "k": "Via State Dept.",
+      "v": "$129M"
+     },
+     {
+      "k": "Total",
+      "v": "$879M",
+      "tone": "acc"
+     }
+    ],
+    "foot": "Draft by Senate Appropriations Republicans"
+   },
+   "detail": [
+    "Republicans on the Senate Appropriations Committee proposed $750 million in military aid for Ukraine in fiscal 2027, TASS reported, citing a Pentagon funding bill posted on the committee's site.",
+    "A separate $129 million would go through the State Department for security help.",
+    "The proposal comes as Ukraine holds new peace talks with the US and Europe while fighting escalates."
+   ],
+   "money": [
+    "Defense stocks can move on aid and budget news; diversified funds limit single-headline risk.",
+    "War and peace news can swing oil and grain prices, which feed into gas and grocery bills.",
+    "Watch the Dec. 11 funding deadline, which could delay final spending bills."
+   ],
+   "risk": [
+    "This is a draft and could change before passage.",
+    "The source is Russian state media; details should be checked against the bill."
+   ],
+   "sources": [
+    {
+     "t": "US Senate Republicans propose allocating $750 million in military aid to Ukraine",
+     "d": "tass.com",
+     "u": "https://tass.com/world/2219289"
+    },
+    {
+     "t": "Ukraine holds peace talks with US, Europe as conflict escalates",
+     "d": "aljazeera.com",
+     "u": "https://www.aljazeera.com/news/2026/11/17/ukraine-holds-peace-talks-with-us-europe-as-conflict-escalates"
+    }
+   ]
+  },
+  {
+   "id": "wa-4b-shortfall-2026111705",
+   "type": "news",
+   "cat": "states",
+   "tags": [
+    "states",
+    "taxes"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-17T05:00:00Z",
+   "headline": "Washington state faces a $4B gap; Gov. Ferguson orders up to 15% agency cuts",
+   "caption": "The governor says he won't seek new or higher taxes to close it. A new high-earner income tax should help from 2028.",
+   "visual": {
+    "type": "board",
+    "title": "Washington budget outlook",
+    "rows": [
+     {
+      "k": "Projected shortfall",
+      "s": "first year of next budget",
+      "v": "~$4B",
+      "tone": "loss"
+     },
+     {
+      "k": "Agency cuts sought",
+      "s": "through mid-2028",
+      "v": "Up to 15%"
+     },
+     {
+      "k": "High-earner tax, year 2",
+      "v": "~$3.5B",
+      "tone": "gain"
+     },
+     {
+      "k": "Budget plan due",
+      "v": "Dec. 20"
+     }
+    ]
+   },
+   "detail": [
+    "Washington Gov. Bob Ferguson told agencies to find savings of up to 15% through mid-2028 as the state projects a roughly $4 billion shortfall. Options are due November 23, and hiring and travel freezes will be updated.",
+    "Ferguson says he won't pursue new or higher taxes to fix the gap. A state income tax on high earners, upheld by voters this month, is expected to raise about $3.5 billion in its second year.",
+    "The latest forecast shows $195 million more revenue this fiscal year but $75 million less for 2027-29. Ferguson will release budget plans by December 20."
+   ],
+   "money": [
+    "State cuts can hit services and grants; apply early for any state aid you rely on.",
+    "High earners in Washington should plan for the new income tax in their 2027 budgets.",
+    "State workers and contractors may want to watch for hiring freezes."
+   ],
+   "risk": [
+    "Actual cuts depend on the 2027 legislative session.",
+    "Revenue forecasts can swing with the economy."
+   ],
+   "sources": [
+    {
+     "t": "Governor looks to sharply pare spending in face of $4B budget shortfall",
+     "d": "chronline.com",
+     "u": "https://www.chronline.com/stories/governor-looks-to-sharply-pare-spending-in-face-of-4b-budget-shortfall,411929"
+    }
+   ]
+  },
+  {
+   "id": "layoff-survey-2027-2026111705",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business",
+    "ai"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-17T05:00:00Z",
+   "headline": "Survey: 56% of managers expect layoffs in early 2027; 41% cite AI",
+   "caption": "A poll of 1,000 US managers found tech firms most likely to cut. A weaker economy topped the reasons, with AI close behind.",
+   "visual": {
+    "type": "stat",
+    "title": "Layoff plans for H1 2027",
+    "num": "56%",
+    "tone": "loss",
+    "label": "Share of managers who say layoffs are likely in the first half of 2027.",
+    "rows": [
+     [
+      "Tech",
+      75
+     ],
+     [
+      "Prof. services",
+      68
+     ],
+     [
+      "Construction/real estate",
+      64
+     ],
+     [
+      "Transport/energy",
+      61
+     ]
+    ]
+   },
+   "detail": [
+    "A November survey of 1,000 US managers at companies with over 100 workers found 56% expect layoffs in the first half of 2027. 21% said definitely and 35% said probably. ResumeTemplates.com commissioned the poll.",
+    "Among firms planning cuts, 43% blamed lower sales or a downturn, and 41% cited AI or automation. Tariffs (29%) and higher interest rates (27%) were also named.",
+    "Technology firms were most likely to plan cuts at 75%. Of firms planning layoffs, 35% expect to cut more than 10% of staff."
+   ],
+   "money": [
+    "Build three to six months of expenses in savings if your industry is on this list.",
+    "Learning to use AI tools in your role can make you harder to replace.",
+    "Update your resume and network now, when you aren't under pressure."
+   ],
+   "risk": [
+    "A company-sponsored survey without a stated margin of error.",
+    "Plans often change with the economy."
+   ],
+   "sources": [
+    {
+     "t": "ResumeTemplates.com Survey: 6 in 10 Companies Plan Layoffs in Early 2027",
+     "d": "prnewswire.com",
+     "u": "https://prnewswire.com/news-releases/resumetemplatescom-survey-6-in-10-companies-plan-layoffs-in-early-2027-302941432.html"
+    }
+   ]
+  },
+  {
+   "id": "edu-catch-up-2026111705",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "taxes"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-17T05:00:00Z",
+   "headline": "Catch-up contributions: how older savers can put away more",
+   "caption": "The 2027 401(k) limit rises to $25,500, and savers 50+ can add more. Here's how catch-ups work.",
+   "scenes": [
+    {
+     "k": "TODAY'S NEWS",
+     "t": "401(k) limit rises to $25,500",
+     "s": "The IRS raised 2027 limits by $1,000."
+    },
+    {
+     "k": "THE IDEA",
+     "t": "Extra room once you turn 50",
+     "s": "Catch-ups let older workers save more before retirement."
+    },
+    {
+     "k": "2027 NUMBERS",
+     "t": "Three tiers of savings",
+     "viz": {
+      "type": "split",
+      "items": [
+       [
+        "Under 50",
+        "$25,500"
+       ],
+       [
+        "Age 50+",
+        "$34,000"
+       ],
+       [
+        "Ages 60-63",
+        "$37,250",
+        "wide"
+       ]
+      ]
+     },
+     "say": "Under fifty, twenty-five thousand five hundred. Fifty and up, thirty-four thousand. Sixty to sixty-three, about thirty-seven thousand two hundred fifty."
+    },
+    {
+     "k": "HOW IT WORKS",
+     "t": "Raise your deferral rate",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "Check your age",
+       "Find your limit",
+       "Divide by paychecks",
+       "Set new percent"
+      ]
+     }
+    },
+    {
+     "k": "IRAs TOO",
+     "t": "IRA catch-up: $1,100",
+     "s": "The base IRA limit stays $7,500 for 2027."
+    },
+    {
+     "k": "YOUR TAKE",
+     "t": "Start in January",
+     "s": "Spreading contributions across the year makes the max easier to reach."
+    }
+   ]
+  },
+  {
+   "id": "edu-retail-sales-2026111705",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "markets"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-17T05:00:00Z",
+   "headline": "Retail sales: the economy's monthly receipt",
+   "caption": "October retail sales come out today. Here's what the report measures and why the Fed cares.",
+   "scenes": [
+    {
+     "k": "TODAY'S NEWS",
+     "t": "October retail sales out today",
+     "s": "Forecast: about +0.2% after September's +0.8%."
+    },
+    {
+     "k": "THE IDEA",
+     "t": "What shoppers spent last month",
+     "s": "It tracks sales at stores, online sellers, gas stations and restaurants."
+    },
+    {
+     "k": "THE NUMBERS",
+     "t": "Headline vs. core",
+     "viz": {
+      "type": "split",
+      "items": [
+       [
+        "Sept",
+        "+0.8%"
+       ],
+       [
+        "Oct forecast",
+        "+0.2%"
+       ],
+       [
+        "Ex-autos forecast",
+        "+0.4%",
+        "wide"
+       ]
+      ]
+     },
+     "say": "September rose point eight percent. October is forecast up point two, or point four without autos."
+    },
+    {
+     "k": "THE CATCH",
+     "t": "Prices count too",
+     "s": "Sales are in dollars, so inflation can make spending look stronger."
+    },
+    {
+     "k": "WHY THE FED CARES",
+     "t": "Strong spending can mean hikes",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "Shoppers spend more",
+       "Prices stay high",
+       "Fed raises rates",
+       "Loans cost more"
+      ]
+     }
+    },
+    {
+     "k": "YOUR TAKE",
+     "t": "Watch the trend, not one month",
+     "s": "Single reports get revised; three months tell a clearer story."
+    }
+   ]
+  },
   {
    "id": "ai-national-champions-2026111704",
    "type": "news",
@@ -11096,832 +11959,6 @@
      "k": "AI TOOLS",
      "t": "Know what an agent can do",
      "s": "Before linking an AI app to your bank, limit its powers and turn on alerts."
-    }
-   ]
-  },
-  {
-   "id": "edu-cola-vs-partb-2026111616",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "benefits"
-   ],
-   "date": "Explainer",
-   "ts": "2026-11-16T16:20:00Z",
-   "headline": "Your 3.6% raise vs. Medicare: what you'll really net",
-   "caption": "Social Security's 2027 raise averages about $75 a month. A higher Part B premium takes a bite first.",
-   "scenes": [
-    {
-     "k": "THE RAISE",
-     "t": "Social Security rises 3.6% in 2027",
-     "s": "The biggest cost-of-living raise since 2023."
-    },
-    {
-     "k": "AVERAGE CHECK",
-     "t": "About $75 more a month",
-     "s": "The typical retired worker got $2,092 as of October 2026.",
-     "say": "The typical retiree check of about two thousand ninety-two dollars rises by roughly seventy-five dollars."
-    },
-    {
-     "k": "THE CATCH",
-     "t": "Part B comes out first",
-     "s": "Medicare premiums are taken from your check before it lands."
-    },
-    {
-     "k": "THE MATH",
-     "t": "Raise minus premium hike",
-     "viz": {
-      "type": "split",
-      "items": [
-       [
-        "COLA raise",
-        "+$75"
-       ],
-       [
-        "Part B hike (projected)",
-        "-$6.60"
-       ],
-       [
-        "Net gain (estimate)",
-        "about +$68",
-        "wide"
-       ]
-      ]
-     },
-     "say": "Seventy-five dollars minus a projected six dollars sixty cents leaves about sixty-eight dollars."
-    },
-    {
-     "k": "WATCH THE MAIL",
-     "t": "Your exact notice comes in December",
-     "s": "Social Security mails personalized COLA notices in early December."
-    },
-    {
-     "k": "PAY DAYS",
-     "t": "First bigger checks: Jan. 13, 20, 27",
-     "s": "SSI recipients get theirs Dec. 31. Use open enrollment, ending Dec. 7, to cut Part D costs."
-    }
-   ]
-  },
-  {
-   "id": "open-nasdaq-slides-2026111615",
-   "type": "news",
-   "cat": "markets",
-   "tags": [
-    "markets",
-    "ai"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T15:20:00Z",
-   "headline": "Nasdaq drops 1.3% early as tech slides a day before Nvidia; VIX tops 20",
-   "caption": "Stocks opened lower Monday, led by tech. The Nasdaq fell about 1.3% while the Dow held up better, down about 0.3%.",
-   "visual": {
-    "type": "board",
-    "title": "Early Monday trading",
-    "rows": [
-     {
-      "k": "Nasdaq",
-      "v": "24,800",
-      "ch": -1.34,
-      "tone": "loss"
-     },
-     {
-      "k": "S&P 500",
-      "v": "7,498",
-      "ch": -0.85,
-      "tone": "loss"
-     },
-     {
-      "k": "Dow",
-      "v": "52,219",
-      "ch": -0.25,
-      "tone": "loss"
-     },
-     {
-      "k": "VIX",
-      "s": "fear gauge",
-      "v": "20.48",
-      "ch": 6.11,
-      "tone": "acc"
-     },
-     {
-      "k": "10-yr yield",
-      "v": "5.13%"
-     },
-     {
-      "k": "Gold",
-      "v": "$3,869",
-      "ch": -0.45,
-      "tone": "loss"
-     }
-    ],
-    "foot": "Yahoo Finance, about 6:25 a.m. PT"
-   },
-   "detail": [
-    "Tech led Monday's early drop. The Nasdaq was down about 1.3% and the S&P 500 about 0.9%. The Dow slipped only about 0.3%.",
-    "Nvidia fell about 3% before the open and is down nearly 13% over five days. It reports Tuesday, its first report since Jensen Huang left. Crypto-linked stocks like Coinbase, Circle and Strategy fell 7% to 8% early.",
-    "The VIX fear gauge rose about 6% to around 20.5. The 10-year Treasury yield sat near 5.13%."
-   ],
-   "money": [
-    "A 10-year yield above 5% means high-yield savings, CDs and Treasuries still pay well for cash you don't need soon.",
-    "Big swings before one company's earnings are a reminder to check how much of your portfolio rides on a few tech names.",
-    "If you buy on a schedule, dips like this let the same dollars buy more shares."
-   ],
-   "risk": [
-    "Nvidia's report Tuesday could push the whole market sharply either way."
-   ],
-   "sources": [
-    {
-     "t": "Stock market today: Dow, S&P 500, Nasdaq slip ahead of pivotal week for AI",
-     "d": "finance.yahoo.com",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html"
-    }
-   ]
-  },
-  {
-   "id": "l3harris-airlines-345m-2026111615",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business",
-    "markets"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T15:20:00Z",
-   "headline": "L3Harris falls 4% after Duffy ties it to the FAA outage; airlines face a ~$345M hit",
-   "caption": "L3Harris shares slid after the Transportation Secretary questioned its air traffic work. Bernstein says the ground stop could cost the top four airlines about $345 million.",
-   "visual": {
-    "type": "board",
-    "title": "Fallout from Friday's ground stop",
-    "rows": [
-     {
-      "k": "L3Harris (LHX)",
-      "s": "premarket",
-      "v": "-4%",
-      "ch": -4,
-      "tone": "loss"
-     },
-     {
-      "k": "JetBlue",
-      "s": "premarket",
-      "v": "-4%",
-      "ch": -4,
-      "tone": "loss"
-     },
-     {
-      "k": "Big 4 airline hit",
-      "s": "Bernstein estimate",
-      "v": "~$345M",
-      "tone": "loss"
-     },
-     {
-      "k": "Flights canceled",
-      "s": "as of Mon. 8:47 a.m. ET",
-      "v": "18,500+"
-     },
-     {
-      "k": "JetBlue Sunday cancels",
-      "v": "28%"
-     },
-     {
-      "k": "American Sunday cancels",
-      "v": "22%"
-     }
-    ]
-   },
-   "detail": [
-    "L3Harris fell about 4% before the bell Monday. Transportation Secretary Sean Duffy said the company may have installed a defective router or was not doing good work. Early findings point to a router that flooded the network with connection attempts.",
-    "L3Harris says it is cooperating with the FAA probe. It has not accepted blame or said what the cost might be. Findings are still preliminary.",
-    "Bernstein estimates a combined pretax hit of about $345 million for American, Delta, United and Southwest, with a range of $270 million to $430 million. JetBlue canceled 28% of its Sunday schedule and American 22%, per BofA."
-   ],
-   "money": [
-    "If your flight was canceled, ask the airline for a refund in cash, not just a voucher, if you chose not to travel.",
-    "Check whether your credit card's travel coverage pays for hotels or meals from the delays.",
-    "Investors in airline or defense stocks: one-off disruptions can hit a quarter's profit without changing the long-term picture."
-   ],
-   "risk": [
-    "If a probe finds L3Harris at fault, it could face penalties or lose contract work."
-   ],
-   "sources": [
-    {
-     "t": "L3Harris Shares Fall 4% After US Transportation Secretary Links Contractor to Nationwide Aviation Disruption",
-     "d": "finance.yahoo.com",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/l3harris-shares-fall-4-us-135203180.html"
-    },
-    {
-     "t": "Top four US airlines face $345 million hit from FAA ground stop, Bernstein estimates",
-     "d": "investing.com",
-     "u": "https://www.investing.com/news/stock-market-news/top-four-us-airlines-face-345-million-hit-from-faa-ground-stop-bernstein-estimates-5030123"
-    }
-   ]
-  },
-  {
-   "id": "quebecor-telus-31b-2026111615",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T15:20:00Z",
-   "headline": "Quebecor goes public with a $31B bid for Telus; Telus board flags big regulatory risks",
-   "caption": "Quebecor made an unsolicited merger offer for Telus valued at about $31 billion. Telus says it's reviewing it but sees serious approval risks.",
-   "visual": {
-    "type": "deals",
-    "title": "Canada telecom showdown",
-    "items": [
-     {
-      "a": "Quebecor",
-      "b": "Telus",
-      "amt": "~$31B",
-      "st": "Unsolicited, under review",
-      "c": "pend"
-     }
-    ]
-   },
-   "detail": [
-    "Quebecor sent an unsolicited offer to merge with Telus, valued at about $31 billion. It is an enhanced version of a private proposal from June.",
-    "Telus confirmed the offer Monday and said a special committee is reviewing it. Board chair John Manley said Quebecor still hasn't explained how the deal could pass Canada's telecom rules, and that a review would be long and costly.",
-    "Telus says it will also look at other options to maximize value. Quebecor says it went public because the deal affects consumers and shareholders."
-   ],
-   "money": [
-    "Takeover fights can lift a target's stock, but the price can fall back fast if the bid fails.",
-    "Fewer big phone carriers can mean less price competition, so watch your wireless bill if consolidation happens.",
-    "If you own Telus, a board review often leads to a higher offer or a rival bid, but not always."
-   ],
-   "risk": [
-    "Regulators could block the deal, and the offer could be withdrawn."
-   ],
-   "sources": [
-    {
-     "t": "Telus conducting 'thorough review' of $31B takeover offer from Québecor",
-     "d": "globalnews.ca",
-     "u": "https://globalnews.ca/news/12152547/quebecor-telus-merger-proposal/"
-    }
-   ]
-  },
-  {
-   "id": "kuo-tpu-26m-2026111615",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "markets"
-   ],
-   "date": "Sun Nov 15",
-   "ts": "2026-11-16T15:20:00Z",
-   "headline": "Kuo: OpenAI and Anthropic could take about 26 million Google TPUs in 2028-29",
-   "caption": "Analyst Ming-Chi Kuo says new orders push Google's AI chip visibility out to 2029. Nvidia's mostly runs through 2027-early 2028, he says.",
-   "visual": {
-    "type": "board",
-    "title": "Kuo's Google TPU estimates",
-    "rows": [
-     {
-      "k": "Anthropic",
-      "s": "2028-29, lease + buy",
-      "v": "~14M"
-     },
-     {
-      "k": "OpenAI",
-      "s": "2028-29, buy outright",
-      "v": "~12M"
-     },
-     {
-      "k": "Google TPUs 2027",
-      "v": "8-9M"
-     },
-     {
-      "k": "Google TPUs 2028",
-      "v": "14-15M"
-     },
-     {
-      "k": "Google TPUs 2029",
-      "v": "16-18M"
-     }
-    ],
-    "foot": "Nvidia fell 12.8% last week"
-   },
-   "detail": [
-    "Ming-Chi Kuo wrote Sunday that new OpenAI and Anthropic orders extend Google TPU shipment visibility to 2029. He estimates OpenAI seeks about 12 million TPUs and Anthropic about 14 million across 2028 and 2029.",
-    "Kuo says Nvidia GPUs and other AI chips mostly have visibility through late 2027 to mid-2028. He says uncertainty over Nvidia's CEO succession gives Google an opening with customers.",
-    "Nvidia stock fell 12.8% last week, its worst week since March 2025."
-   ],
-   "money": [
-    "AI chip demand is spreading beyond Nvidia; broad tech funds catch more of that than single-stock bets.",
-    "Analyst estimates aren't orders. Treat them as one input, not a reason to trade.",
-    "If you hold Alphabet or Nvidia, know how much of your portfolio they make up before Tuesday's earnings."
-   ],
-   "risk": [
-    "These are one analyst's estimates, not confirmed contracts."
-   ],
-   "sources": [
-    {
-     "t": "More Pain For NVDA? Top Supply Chain Analyst Says New OpenAI, Anthropic Chip Orders Boost Google's TPU Outlook",
-     "d": "finance.yahoo.com",
-     "u": "https://finance.yahoo.com/technology/ai/articles/more-pain-nvda-top-supply-050330578.html"
-    }
-   ]
-  },
-  {
-   "id": "qwen4-max-price-2026111615",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T15:20:00Z",
-   "headline": "Alibaba launches Qwen4-Max at $1.50 per million input tokens, undercutting US rivals",
-   "caption": "Alibaba's new flagship AI model costs far less than top US models. It claims a 62% cut in cost per task versus its last model.",
-   "visual": {
-    "type": "board",
-    "title": "AI model prices per 1M tokens",
-    "rows": [
-     {
-      "k": "Qwen4-Max",
-      "s": "input / output",
-      "v": "$1.50 / $4.50",
-      "tone": "gain"
-     },
-     {
-      "k": "Claude Opus 5.5",
-      "s": "input / output",
-      "v": "$4 / $20"
-     },
-     {
-      "k": "Gemini 4 Argon/Carbon",
-      "s": "doubles Dec. 1",
-      "v": "$2 / $10",
-      "tone": "loss"
-     }
-    ],
-    "foot": "Per Digital Trends"
-   },
-   "detail": [
-    "Alibaba released Qwen4-Max, a 2.4-trillion-parameter model with a 1-million-token context window. It costs $1.50 per million input tokens and $4.50 per million output tokens on its API.",
-    "Alibaba says average cost per task on its own benchmark fell 62% from its previous model. Digital Trends notes Claude Opus 5.5 lists at $4 in and $20 out, and Gemini 4 prices are set to double Dec. 1.",
-    "Smaller open-source Qwen4 models are expected later. Alibaba's safety claims haven't been tested by an outside red team yet."
-   ],
-   "money": [
-    "If your business pays for AI by the token, price competition is a reason to compare providers every few months.",
-    "Gemini users: budget for the Dec. 1 price increase now.",
-    "Cheaper models can make AI tools affordable for side gigs and small businesses."
-   ],
-   "risk": [
-    "Benchmarks and savings figures come from Alibaba itself."
-   ],
-   "sources": [
-    {
-     "t": "Qwen4-Max is China's newest flagship AI model, and it makes GPT and Claude look expensive",
-     "d": "digitaltrends.com",
-     "u": "https://www.digitaltrends.com/computing/qwen-4-max-aliababas-latest-flagship-ai-model-announced/"
-    }
-   ]
-  },
-  {
-   "id": "zelleusd-solana-2026111615",
-   "type": "news",
-   "cat": "crypto",
-   "tags": [
-    "crypto",
-    "business"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T15:20:00Z",
-   "headline": "Zelle will launch its ZelleUSD stablecoin on Solana for international payments",
-   "caption": "The bank-owned payments network picked Solana for its dollar stablecoin. India is the first overseas corridor.",
-   "visual": {
-    "type": "stat",
-    "title": "Zelle goes onchain",
-    "num": "$1.2T+",
-    "tone": "acc",
-    "label": "US payments Zelle processed in 2025",
-    "facts": [
-     [
-      "First corridor",
-      "India",
-      "named June 2026"
-     ],
-     [
-      "Issuer",
-      "Anchorage Digital",
-      "bank"
-     ],
-     [
-      "Solana transfers",
-      "+82%",
-      "Oct. vs a year ago"
-     ]
-    ]
-   },
-   "detail": [
-    "Zelle, run by bank group Early Warning Services, said at Breakpoint 2026 it will launch ZelleUSD (ZLUSD) on Solana for international person-to-person payments. The banks behind it include JPMorgan and Wells Fargo.",
-    "India is the first remittance corridor. Earlier plans said it would be live by the end of 2026, but no launch date was given on stage.",
-    "Zelle and Solana will also test privacy features that hide transfers from the public chain while letting banks check them for compliance."
-   ],
-   "money": [
-    "Sending money abroad often costs several percent in fees; a bank-backed stablecoin route could cut that.",
-    "Until it launches, compare remittance fees and exchange rates before each transfer.",
-    "Stablecoins are only as safe as their issuer; stick with regulated, bank-backed options."
-   ],
-   "risk": [
-    "No launch date yet, and fees haven't been announced."
-   ],
-   "sources": [
-    {
-     "t": "Zelle Taps Solana for Stablecoin-Based International Expansion",
-     "d": "cointelegraph.com",
-     "u": "https://cointelegraph.com/news/zelle-solana-zelleusd-stablecoin-international-payments"
-    }
-   ]
-  },
-  {
-   "id": "xrp-below-1-2026111615",
-   "type": "news",
-   "cat": "crypto",
-   "tags": [
-    "crypto"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T15:20:00Z",
-   "headline": "XRP slips under $1, about 40% below October highs, as its ETFs see outflows",
-   "caption": "XRP traded near $0.96 Monday after breaking below $1. US spot XRP ETFs lost about $19 million over three sessions.",
-   "visual": {
-    "type": "stat",
-    "title": "XRP under pressure",
-    "num": "$0.96",
-    "tone": "loss",
-    "label": "Down about 40% from October highs near $1.60",
-    "facts": [
-     [
-      "Intraday low",
-      "$0.9495",
-      ""
-     ],
-     [
-      "ETF outflows",
-      "$19.1M",
-      "3 sessions"
-     ],
-     [
-      "ETF inflows since launch",
-      "$1.71B",
-      "net"
-     ]
-    ]
-   },
-   "detail": [
-    "XRP fell below $1 and traded near $0.96 Monday, down about 1.5% on the day. That is roughly 40% under its October highs near $1.60.",
-    "US spot XRP ETFs had about $19.1 million in net outflows across Nov. 9, 10 and 13. Total net inflows since launch a year ago are still about $1.71 billion.",
-    "The coin's RSI reading of about 26 signals oversold conditions, but that doesn't guarantee a bounce."
-   ],
-   "money": [
-    "Keep crypto to a small slice you could lose without changing your plans.",
-    "Selling at a loss in a taxable account can offset gains elsewhere on your 2026 taxes.",
-    "Avoid leverage in a falling market; liquidations can wipe out positions fast."
-   ],
-   "risk": [
-    "Prices could keep falling; analysts cite $0.80-$0.85 if $0.90 breaks."
-   ],
-   "sources": [
-    {
-     "t": "XRP Price Prediction: XRP Breaks Below $1 - Is a Bigger Crash Coming?",
-     "d": "coincentral.com",
-     "u": "https://coincentral.com/xrp-price-prediction-xrp-breaks-below-1-is-a-bigger-crash-coming"
-    }
-   ]
-  },
-  {
-   "id": "eu-sanctions-russia-banks-2026111615",
-   "type": "news",
-   "cat": "world",
-   "tags": [
-    "world"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T15:20:00Z",
-   "headline": "EU sanctions nearly 50 Russian banks and refinery operators; sends Ukraine ~$8.7B",
-   "caption": "EU ministers listed 101 entities and 12 people tied to Russia's war funding. The bloc also approved its biggest single payment to Ukraine.",
-   "visual": {
-    "type": "board",
-    "title": "EU moves Monday",
-    "rows": [
-     {
-      "k": "Entities sanctioned",
-      "v": "101"
-     },
-     {
-      "k": "Individuals",
-      "v": "12"
-     },
-     {
-      "k": "Banks & lenders",
-      "v": "~50"
-     },
-     {
-      "k": "Payment to Ukraine",
-      "s": "largest ever single",
-      "v": "~$8.7B"
-     },
-     {
-      "k": "Drone & air defense aid",
-      "v": "$1.88B"
-     }
-    ]
-   },
-   "detail": [
-    "EU foreign ministers sanctioned 12 people and 101 entities. The list includes nearly 50 Russian banks and financial firms, refinery operators and the St. Petersburg oil terminal.",
-    "Buyers of Russian oil products in the UAE, China, Seychelles and Oman were also listed, along with owners of sanctioned shadow-fleet ships. Owners tied to Wildberries and Ozon were named too.",
-    "The EU approved about $8.7 billion for Ukraine, its largest single payment, and Kyiv got $1.88 billion for drones and air defense. US-mediated talks in the UAE produced a prisoner swap but no breakthrough."
-   ],
-   "money": [
-    "Tighter sanctions on Russian refining can keep diesel and fuel prices firm; budget for higher heating and trucking costs.",
-    "Energy stocks tend to react to sanction news; broad funds smooth that out.",
-    "Defense makers may benefit from steady European aid spending."
-   ],
-   "risk": [
-    "Sanctions can be dodged through third countries, limiting their effect."
-   ],
-   "sources": [
-    {
-     "t": "EU ministers approve new sanctions to further restrict Russia's ability to finance its war",
-     "d": "sofiaglobe.com",
-     "u": "https://sofiaglobe.com/2026/11/16/eu-ministers-approve-new-sanctions-to-further-restrict-russias-ability-to-finance-its-war/"
-    },
-    {
-     "t": "Russian attacks kill three in Ukraine, EU accuses Moscow of prolonging war",
-     "d": "aljazeera.com",
-     "u": "https://www.aljazeera.com/news/2026/11/16/russian-attacks-kill-three-in-ukraine-eu-accuses-moscow-of-prolonging-war"
-    }
-   ]
-  },
-  {
-   "id": "trump-asia-trip-musk-2026111615",
-   "type": "news",
-   "cat": "world",
-   "tags": [
-    "world",
-    "politics",
-    "markets"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-16T15:20:00Z",
-   "headline": "Trump leaves for Asia today; Musk joins the China leg as trade and chips top the agenda",
-   "caption": "Trump heads to Manila, then Shenzhen for talks with Xi on Thursday. Elon Musk will join parts of the China trip.",
-   "visual": {
-    "type": "timeline",
-    "title": "Trump's Asia trip",
-    "items": [
-     {
-      "d": "NOV 16",
-      "t": "Leaves Washington",
-      "now": true
-     },
-     {
-      "d": "NOV 17",
-      "t": "Manila: Quad talks, Thailand trade deal"
-     },
-     {
-      "d": "NOV 18",
-      "t": "Marcos meeting, then Shenzhen for APEC"
-     },
-     {
-      "d": "NOV 19",
-      "t": "Xi meeting; Xi-Trump-Putin trilateral"
-     }
-    ]
-   },
-   "detail": [
-    "Trump departed Monday on his first overseas trip since the midterms. He arrives in Manila Tuesday for Quad talks and is expected to sign a trade deal with Thailand.",
-    "On Wednesday he meets Philippine President Marcos, then flies to Shenzhen for APEC. He meets Xi Jinping Thursday, followed by a first-ever meeting with Xi and Putin. Officials don't expect a concrete deal.",
-    "Elon Musk will join parts of the China travel. Trump and Xi plan to focus on carrying out their existing trade agreement."
-   ],
-   "money": [
-    "Trade headlines can move stocks with big China exposure; avoid chasing moves on rumors.",
-    "Tariff changes eventually show up in prices of imported goods, so big purchases may be worth timing around clear news.",
-    "Farm, chip and auto stocks are the most sensitive to US-China outcomes."
-   ],
-   "risk": [
-    "Talks could stall, and tariff threats elsewhere (like Mexico) add uncertainty."
-   ],
-   "sources": [
-    {
-     "t": "Trump heads to Asia for 2nd high-stakes meeting with Chinese President Xi",
-     "d": "yahoo.com",
-     "u": "https://www.yahoo.com/news/politics/articles/trump-heads-asia-2nd-high-100957586.html"
-    }
-   ]
-  },
-  {
-   "id": "congress-week-dec11-2026111615",
-   "type": "news",
-   "cat": "politics",
-   "tags": [
-    "politics",
-    "business"
-   ],
-   "date": "This week",
-   "ts": "2026-11-16T15:20:00Z",
-   "headline": "Congress this week: permitting bill test vote, judges, and a Dec. 11 shutdown deadline",
-   "caption": "The Senate takes a key vote on an energy permitting overhaul Monday evening. Lawmakers have four weeks left to avoid a shutdown.",
-   "visual": {
-    "type": "timeline",
-    "title": "Lame-duck to-do list",
-    "items": [
-     {
-      "d": "NOV 16",
-      "t": "Senate permitting bill test vote",
-      "s": "evening",
-      "now": true
-     },
-     {
-      "d": "NOV 17",
-      "t": "Navy secretary hearing"
-     },
-     {
-      "d": "DEC 11",
-      "t": "Government funding runs out"
-     }
-    ]
-   },
-   "detail": [
-    "The Senate's bipartisan energy permitting overhaul faces a vote Monday evening to limit debate on its latest version. Several judicial nominees are also lined up.",
-    "Government funding expires Dec. 11. Democrats say they'll back a spending bill only if it cuts off defense funds for the Iran war, which Republicans oppose.",
-    "The administration wants $50 billion for air traffic control after Friday's ground stop. Some Republicans also want a last party-line bill, with Trump seeking $350 billion for defense in it."
-   ],
-   "money": [
-    "Federal workers and contractors: build a cash cushion now in case of a December shutdown.",
-    "Faster permitting could speed power and transmission projects, which matters for future electric bills.",
-    "If you rely on a federal service, get paperwork done before Dec. 11."
-   ],
-   "risk": [
-    "A shutdown could delay some federal services and paychecks."
-   ],
-   "sources": [
-    {
-     "t": "This week: Permitting bill hits Senate floor amid aviation funding fight",
-     "d": "rollcall.com",
-     "u": "https://rollcall.com/2026/11/16/this-week-permitting-bill-hits-senate-floor-amid-aviation-funding-fight"
-    },
-    {
-     "t": "Republicans' final sprint: What will they get done while they're still in control?",
-     "d": "deseret.com",
-     "u": "https://www.deseret.com/politics/2026/11/16/republicans-final-sprint-in-majority/"
-    }
-   ]
-  },
-  {
-   "id": "liheap-new-england-3b-2026111615",
-   "type": "news",
-   "cat": "benefits",
-   "tags": [
-    "benefits",
-    "states"
-   ],
-   "date": "This week",
-   "ts": "2026-11-16T15:20:00Z",
-   "headline": "New England governors ask Congress for $3B more in heating aid as oil prices jump",
-   "caption": "Six governors want LIHEAP raised to $7 billion. They warn heating oil could cost about 50% more this winter.",
-   "visual": {
-    "type": "stat",
-    "title": "Winter heating squeeze",
-    "num": "+$3B",
-    "tone": "acc",
-    "label": "Extra LIHEAP money six governors requested",
-    "facts": [
-     [
-      "Total ask",
-      "$7B",
-      "LIHEAP"
-     ],
-     [
-      "MA heating oil",
-      "$5.94/gal",
-      "vs $3.74 a year ago"
-     ],
-     [
-      "Eligible who get help",
-      "~20%",
-      "each year"
-     ]
-    ]
-   },
-   "detail": [
-    "Governors of all six New England states, from both parties, asked appropriators for $3 billion more for the Low-Income Home Energy Assistance Program. That would bring it to $7 billion.",
-    "They cite estimates that heating oil could rise about 50% this winter, adding about $1.1 billion in costs for low-income Northeast households. Massachusetts heating oil averaged $5.94 a gallon, over $2 more than a year earlier.",
-    "Massachusetts' LIHEAP allocation this year is $142.3 million, down from last year after extra infrastructure-law money ran out. Only about 20% of eligible households get help each year."
-   ],
-   "money": [
-    "Apply for LIHEAP early; many states pay on a first-come basis until funds run out.",
-    "Ask your utility about budget billing to spread winter costs evenly.",
-    "Weatherizing drafts and lowering the thermostat a few degrees can trim a heating bill noticeably."
-   ],
-   "risk": [
-    "Congress may not approve extra money before cold weather hits."
-   ],
-   "sources": [
-    {
-     "t": "New England governors seek $3 billion more for winter heating aid",
-     "d": "wbur.org",
-     "u": "https://wbur.org/news/2026/11/10/new-england-governors-liheap-funding-increase"
-    }
-   ]
-  },
-  {
-   "id": "cms-hospice-freeze-2026111615",
-   "type": "news",
-   "cat": "benefits",
-   "tags": [
-    "benefits",
-    "business"
-   ],
-   "date": "This week",
-   "ts": "2026-11-16T15:20:00Z",
-   "headline": "Medicare extends its freeze on new home health and hospice providers through May 2027",
-   "caption": "CMS kept a nationwide pause on new home health and hospice enrollments for six more months, citing fraud. Existing providers can now add locations.",
-   "visual": {
-    "type": "points",
-    "title": "What the freeze means",
-    "items": [
-     "New home health agencies and hospices can't enroll in Medicare",
-     "Runs six more months, through May 12, 2027",
-     "Existing providers can now add new locations",
-     "Current patients and services are not affected",
-     "CMS cites ongoing fraud"
-    ]
-   },
-   "detail": [
-    "CMS extended its nationwide moratorium on new Medicare home health and hospice enrollments by six months. The freeze first started May 13, 2026.",
-    "Administrator Mehmet Oz said fraud in these areas persists. The pause blocks new agencies and some ownership changes that need new enrollment.",
-    "Unlike before, enrolled providers can now add practice locations. Critics say the freeze has delayed expansions and hurt access in underserved areas."
-   ],
-   "money": [
-    "If you or a parent uses home health or hospice, current Medicare coverage continues as before.",
-    "Check that any provider you choose is already Medicare-enrolled to avoid surprise bills.",
-    "Report suspicious billing on your Medicare Summary Notice; fraud raises costs for everyone."
-   ],
-   "risk": [
-    "Fewer new providers could mean longer waits in some areas."
-   ],
-   "sources": [
-    {
-     "t": "CMS Extends Medicare Home Health, Hospice Moratorium",
-     "d": "homehealthcarenews.com",
-     "u": "https://homehealthcarenews.com/2026/11/cms-extends-medicare-home-health-hospice-moratorium/"
-    },
-    {
-     "t": "Home Health and Hospice Enrollment Moratoria Extended Through May 12, 2027",
-     "d": "chapinc.org",
-     "u": "https://chapinc.org/blog-news/home-health-and-hospice-enrollment-moratoria-extended-through-may-12-2027/"
-    }
-   ]
-  },
-  {
-   "id": "irs-fire-shutdown-nov19-2026111615",
-   "type": "news",
-   "cat": "taxes",
-   "tags": [
-    "taxes",
-    "business"
-   ],
-   "date": "Thu Nov 19",
-   "ts": "2026-11-16T15:20:00Z",
-   "headline": "IRS shuts its old FIRE e-filing system for 1099s on Nov. 19; businesses move to IRIS",
-   "caption": "Businesses still filing information returns through FIRE must finish by 3 p.m. ET Thursday. The replacement, IRIS, opens in January 2027.",
-   "visual": {
-    "type": "timeline",
-    "title": "FIRE to IRIS switch",
-    "items": [
-     {
-      "d": "NOV 19",
-      "t": "FIRE final cutoff, 3 p.m. ET",
-      "now": true
-     },
-     {
-      "d": "JAN 2027",
-      "t": "IRIS becomes main system",
-      "s": "exact date TBA"
-     }
-    ]
-   },
-   "detail": [
-    "The IRS set Nov. 19, 2026 at 3 p.m. Eastern as the final cutoff for electronic filing through FIRE, its system for information returns like 1099s.",
-    "IRIS replaces it starting January 2027. FIRE credentials won't work in IRIS, so filers need a new IRIS TCC, and IRIS doesn't take FIRE-style .dat files.",
-    "Some foreign filers can use a separate system called IDES."
-   ],
-   "money": [
-    "Small businesses: apply for an IRIS TCC now so January 1099 filing isn't delayed.",
-    "Late or missing 1099s can bring IRS penalties; plan the switch early.",
-    "If you use a payroll or tax software provider, confirm it will file through IRIS for you."
-   ],
-   "risk": [
-    "Filers who wait may hit setup delays during the busy January season."
-   ],
-   "sources": [
-    {
-     "t": "IRS Sets November 19 FIRE Deadline as Information Return Filers Move to IRIS and IDES",
-     "d": "visaverge.com",
-     "u": "https://www.visaverge.com/travelrequirements/irs-sets-november-19-fire-deadline-as-information-return-filers-move-to-iris-and-ides/"
     }
    ]
   }
