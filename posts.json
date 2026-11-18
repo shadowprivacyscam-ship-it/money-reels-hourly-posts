@@ -1,6 +1,1089 @@
 {
- "updated": "2026-11-18T00:00:00Z",
+ "updated": "2026-11-18T01:00:00Z",
  "items": [
+  {
+   "id": "medicare-part-b-2027-official-2026111801",
+   "type": "news",
+   "cat": "benefits",
+   "tags": [
+    "benefits",
+    "taxes"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-18T01:00:00Z",
+   "headline": "Official: Medicare Part B rises to $209.40 a month in 2027; deductible goes to $292",
+   "caption": "CMS released the 2027 numbers on Tuesday. The premium rises $6.50, or 3.2%, which will eat part of the 3.6% Social Security raise.",
+   "visual": {
+    "type": "board",
+    "title": "Medicare Part B, 2027",
+    "rows": [
+     {
+      "k": "Standard premium",
+      "s": "from $202.90",
+      "v": "$209.40",
+      "ch": 3.2,
+      "tone": "loss"
+     },
+     {
+      "k": "Yearly deductible",
+      "s": "from $283",
+      "v": "$292",
+      "tone": "loss"
+     },
+     {
+      "k": "Income limit before surcharge",
+      "s": "single, 2025 income",
+      "v": "$112,000",
+      "tone": "acc"
+     },
+     {
+      "k": "Top total premium",
+      "s": "single $500K+",
+      "v": "$711.80",
+      "tone": "loss"
+     },
+     {
+      "k": "Social Security COLA",
+      "v": "+3.6%",
+      "tone": "gain"
+     }
+    ],
+    "foot": "FedSmith, Nov. 17"
+   },
+   "detail": [
+    "Medicare released its 2027 Part B figures on Nov. 17. The standard monthly premium will be $209.40, up $6.50 from $202.90 this year. That works out to $2,512.80 for the year. The yearly deductible rises $9 to $292.",
+    "Higher earners pay more through a surcharge called IRMAA. For 2027 it starts above $112,000 of 2025 income for singles and $224,000 for couples, up from $109,000 and $218,000. Totals run from $293.10 to $711.80 a month depending on income.",
+    "Most people have Part B taken right out of their Social Security check. The 3.6% cost-of-living raise for 2027 will be partly used up by the higher premium."
+   ],
+   "money": [
+    "If your income is just over an IRMAA line, a small cut in taxable income (like a bigger pre-tax 401(k) or HSA contribution) could keep you under it in a future year.",
+    "If your income dropped because you retired or lost work, you can ask Social Security to lower your surcharge with form SSA-44.",
+    "Budget with your new net check, not the raise alone. Your 2027 benefit notice will show both numbers."
+   ],
+   "risk": [
+    "IRMAA uses income from two years earlier, so a one-time spike like a home sale or a big Roth conversion can raise premiums later.",
+    "Medicare Advantage and Part D plan costs are separate and can change too."
+   ],
+   "sources": [
+    {
+     "t": "What Federal Retirees Will Pay For Medicare Part B In 2027",
+     "d": "fedsmith.com",
+     "u": "https://www.fedsmith.com/2026/11/17/what-federal-retirees-will-pay-for-medicare-part-b-in-2027/"
+    }
+   ]
+  },
+  {
+   "id": "irs-get-ready-2027-filing-2026111801",
+   "type": "news",
+   "cat": "taxes",
+   "tags": [
+    "taxes"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-18T01:00:00Z",
+   "headline": "IRS says start getting ready for 2027 tax season now, as paper refund checks phase out",
+   "caption": "The IRS kicked off its 'Get Ready' reminders for 2026 returns. It says most people will need bank routing and account numbers for refunds.",
+   "visual": {
+    "type": "points",
+    "title": "IRS checklist for 2026 returns",
+    "items": [
+     "Gather every W-2, including part-time jobs",
+     "Collect 1099s from banks, marketplaces and payment apps",
+     "Keep records of any crypto or digital asset trades",
+     "Have your bank routing and account numbers ready",
+     "New deductions: tips, overtime, car loan interest, seniors"
+    ]
+   },
+   "detail": [
+    "The IRS sent its first 'Get Ready' reminder for the 2027 filing season on Nov. 16. It wants people to start organizing records now for their 2026 tax returns.",
+    "The agency says it is phasing out paper refund checks. That means most filers will need to give bank routing and account numbers to get a refund by direct deposit. People without a bank account can look at FDIC-insured banks, credit unions, or some prepaid cards and apps.",
+    "The reminder also points to new deductions under the 2025 tax law: qualified tips, qualified overtime pay, interest on qualified car loans, and a bigger deduction for seniors. The IRS says it is still releasing details on these."
+   ],
+   "money": [
+    "If you earned tips or overtime in 2026, save pay stubs now. They may support the new deductions.",
+    "If you bought a new car with a loan in 2026, keep the loan papers. The interest may be deductible.",
+    "Set up an IRS Online Account to see last year's income, payment plans, and your identity PIN before the rush."
+   ],
+   "risk": [
+    "Filing before all your forms arrive can cause errors and slow your refund.",
+    "Scammers often pose as the IRS during tax season. The IRS won't ask for payment by gift card or text."
+   ],
+   "sources": [
+    {
+     "t": "IRS reminder: Take steps now to make tax filing in 2027 easier (IR-2026-140)",
+     "d": "irs.gov",
+     "u": "https://www.irs.gov/newsroom/irs-reminder-take-steps-now-to-make-tax-filing-in-2027-easier"
+    }
+   ]
+  },
+  {
+   "id": "florida-amendment3-local-budgets-2026111801",
+   "type": "news",
+   "cat": "states",
+   "tags": [
+    "states",
+    "taxes"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-18T01:00:00Z",
+   "headline": "Florida cities brace for homestead tax cut: Orlando sees a $30M hit, freezes hiring",
+   "caption": "Voters passed Amendment 3 with 62%, tripling homestead exemptions from 2027. Local governments are pausing projects and weighing fees.",
+   "visual": {
+    "type": "board",
+    "title": "Florida Amendment 3 fallout",
+    "rows": [
+     {
+      "k": "Yes vote",
+      "s": "60% needed",
+      "v": "62%",
+      "tone": "acc"
+     },
+     {
+      "k": "Homestead exemption",
+      "s": "starting 2027",
+      "v": "Tripled",
+      "tone": "gain"
+     },
+     {
+      "k": "Orlando revenue loss",
+      "s": "next fiscal year",
+      "v": "~$30M",
+      "tone": "loss"
+     },
+     {
+      "k": "Avg. household savings",
+      "s": "South Miami mayor",
+      "v": "~$4,000",
+      "tone": "gain"
+     },
+     {
+      "k": "Local property taxes",
+      "s": "2019 to 2026",
+      "v": "$32B to $60B"
+     }
+    ],
+    "foot": "Governing, Nov. 17"
+   },
+   "detail": [
+    "Florida voters approved Amendment 3 with 62% of the vote, above the 60% needed. It triples homestead property tax exemptions starting in 2027, grows them again in 2028, then ties them to inflation. School property taxes are not affected. Lawmakers are also supposed to set a schedule to end non-school homestead property taxes.",
+    "Local governments are already cutting back. Orlando expects to lose about $30 million next year and froze hiring outside public safety. Leon County says parks, libraries and other services could be cut. South Miami may delay infrastructure work by five to seven years.",
+    "Gov. Ron DeSantis wants a special session to set the details, help small rural governments, and block local tax hikes to make up the gap. Incoming Gov. Byron Donalds has said he hopes to repeal homestead property taxes entirely."
+   ],
+   "money": [
+    "Florida homeowners: make sure your homestead exemption is filed. The bigger savings only apply to homesteaded primary homes.",
+    "Watch for new local fees, like for trash, stormwater or permits, which may replace some lost tax money.",
+    "Home buyers may see more value in owner-occupied homes than rentals or second homes, which don't get the exemption."
+   ],
+   "risk": [
+    "Service cuts in parks, libraries or ambulances could affect quality of life and home values in some counties.",
+    "Details are not final until the Legislature acts."
+   ],
+   "sources": [
+    {
+     "t": "Local Governments Brace for Florida's Looming Property Tax Cut",
+     "d": "governing.com",
+     "u": "https://www.governing.com/politics/local-governments-brace-for-floridas-looming-property-tax-cut"
+    }
+   ]
+  },
+  {
+   "id": "san-mateo-ice-arrests-37-2026111801",
+   "type": "news",
+   "cat": "immigration",
+   "tags": [
+    "immigration",
+    "california"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-18T01:00:00Z",
+   "headline": "San Mateo County count of ICE arrests reaches 37 for November, local network says",
+   "caption": "A local rapid response network raised Monday's count from six to 12. South San Francisco says it did not help with the operations.",
+   "visual": {
+    "type": "board",
+    "title": "Monday's reported arrests",
+    "rows": [
+     {
+      "k": "South San Francisco",
+      "v": "6"
+     },
+     {
+      "k": "Redwood City",
+      "v": "2"
+     },
+     {
+      "k": "Daly City",
+      "v": "1"
+     },
+     {
+      "k": "Millbrae",
+      "v": "1"
+     },
+     {
+      "k": "Outside Redwood City jail",
+      "v": "1"
+     },
+     {
+      "k": "At an ICE check-in",
+      "v": "1"
+     }
+    ],
+    "foot": "November total: 37 (KRON4)"
+   },
+   "detail": [
+    "San Mateo County's Rapid Response Network updated its count of confirmed ICE arrests on Monday from six to 12. That brings the county's November total to 37. One of the 12 was arrested at a scheduled ICE check-in.",
+    "South San Francisco Councilmember Eddie Flores shared the numbers. He said no city resources were used and that the city does not assist with immigration enforcement. The report says the arrests are part of wider enforcement across the Bay Area, including Alameda and Contra Costa counties.",
+    "The report did not include a statement from ICE or the Department of Homeland Security."
+   ],
+   "money": [
+    "Employers in the area may see staffing gaps. Cross-training workers can reduce disruption.",
+    "Families with mixed immigration status may want to keep key documents and a plan for bills and child care in one place.",
+    "Use only licensed immigration attorneys or accredited representatives. Fake 'notarios' charge big fees."
+   ],
+   "risk": [
+    "Counts come from a community network and may change as cases are confirmed.",
+    "This is not legal advice; immigration cases depend on individual facts."
+   ],
+   "sources": [
+    {
+     "t": "UPDATE: ICE arrests 37 in San Mateo County throughout November",
+     "d": "yahoo.com",
+     "u": "https://www.yahoo.com/news/us/articles/ice-arrests-37-san-mateo-224836827.html"
+    }
+   ]
+  },
+  {
+   "id": "asia-selloff-kospi-taiex-2026111801",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets",
+    "world",
+    "ai"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-18T01:00:00Z",
+   "headline": "Asia chip slide: Kospi drops 2.6%, Taiwan 2.3%; SK Hynix down 13% since Huang quit",
+   "caption": "Tech-heavy Asian markets fell hard ahead of Nvidia's results. Futures pointed to a mixed open Wednesday, with Japan up and Hong Kong down.",
+   "visual": {
+    "type": "stat",
+    "title": "Asia on Tuesday",
+    "num": "-2.6%",
+    "tone": "loss",
+    "label": "South Korea's Kospi led losses as chip stocks sold off.",
+    "rows": [
+     [
+      "Kospi",
+      -2.6
+     ],
+     [
+      "Taiex",
+      -2.3
+     ],
+     [
+      "ASX 200",
+      -1.8
+     ],
+     [
+      "Nikkei 225",
+      -1.3
+     ],
+     [
+      "Hang Seng",
+      -1.0
+     ]
+    ]
+   },
+   "detail": [
+    "Asian stocks fell sharply Tuesday. MSCI's Asia index dropped 1.6%, led by Taiwan and South Korea. The Kospi lost 2.6% and Taiwan's Taiex fell 2.3%. Japan's Nikkei fell 1.3% and Australia's ASX 200 lost 1.8%.",
+    "Chipmakers have been hit since Jensen Huang stepped down as Nvidia CEO last week. TSMC is down 7%, Samsung 9% and SK Hynix 13% since then. China's CSI 300 hit its lowest since July 2025 and is down 14.1% this year. Hang Seng Tech is down almost 32% in 2026.",
+    "Projected opens for Wednesday showed the Nikkei up about 0.8% and the Hang Seng down about 1%. India has bucked the trend, with stocks up 11% in dollar terms this month."
+   ],
+   "money": [
+    "If you own international or emerging market funds, check how much is in Taiwan and Korea chip stocks. It's often a big slice.",
+    "Big drops can be a time to rebalance back to your target mix, not to make all-in bets.",
+    "Spreading money across regions helped this month: India rose while China and Korea fell."
+   ],
+   "risk": [
+    "Chip stocks can stay volatile while Nvidia's leadership change plays out.",
+    "Currency moves can add to or cut foreign stock returns."
+   ],
+   "sources": [
+    {
+     "t": "Peter's Asian Business & Finance Briefing, Nov. 18",
+     "d": "peterlewismoneytalk.substack.com",
+     "u": "https://peterlewismoneytalk.substack.com/p/peters-asian-business-and-finance-304"
+    }
+   ]
+  },
+  {
+   "id": "dollar-yen-160-watch-2026111801",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets",
+    "world"
+   ],
+   "date": "Wed Nov 18",
+   "ts": "2026-11-18T01:00:00Z",
+   "headline": "Dollar nears its highest since April 2025; yen at 159.33, close to the 160 danger line",
+   "caption": "The dollar index is up 1.7% this month as US rate hike bets climb. The New Zealand dollar slid to a six-year low.",
+   "visual": {
+    "type": "board",
+    "title": "Currencies and rates",
+    "rows": [
+     {
+      "k": "Dollar index",
+      "s": "up 1.7% in November",
+      "v": "103.33",
+      "tone": "gain"
+     },
+     {
+      "k": "Yen per dollar",
+      "s": "160 may trigger action",
+      "v": "159.33",
+      "tone": "loss"
+     },
+     {
+      "k": "NZ dollar",
+      "s": "six-year low",
+      "v": "54.84c",
+      "tone": "loss"
+     },
+     {
+      "k": "US 10-year yield",
+      "v": "5.10%",
+      "tone": "acc"
+     },
+     {
+      "k": "US 30-year yield",
+      "v": "5.46%",
+      "tone": "acc"
+     }
+    ],
+    "foot": "Briefing, Nov. 18"
+   },
+   "detail": [
+    "The US Dollar Index stood near 103.33 early Wednesday in Asia, close to its highest since April 2025. It is up 1.7% this month as traders bet on a Federal Reserve rate hike in December.",
+    "Japan's yen was about 159.33 per dollar. That is close to 160, a level analysts see as a possible trigger for government action to support the yen. The New Zealand dollar fell to a six-year low of 54.84 US cents.",
+    "US Treasury yields remain high. The 2-year was at 4.79%, the 10-year at 5.10% and the 30-year at 5.46%."
+   ],
+   "money": [
+    "A strong dollar makes travel to Japan and other countries cheaper for Americans right now.",
+    "High Treasury yields mean savers can lock in solid rates on Treasuries, CDs or money market funds.",
+    "US companies that sell a lot overseas can see profits squeezed by a strong dollar. Keep that in mind with earnings."
+   ],
+   "risk": [
+    "If Japan steps in, the yen can jump suddenly, which can swing global markets.",
+    "Higher yields also push up mortgage and loan rates."
+   ],
+   "sources": [
+    {
+     "t": "Peter's Asian Business & Finance Briefing, Nov. 18",
+     "d": "peterlewismoneytalk.substack.com",
+     "u": "https://peterlewismoneytalk.substack.com/p/peters-asian-business-and-finance-304"
+    }
+   ]
+  },
+  {
+   "id": "ai-national-champions-plan-2026111801",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "politics"
+   ],
+   "date": "This week",
+   "ts": "2026-11-18T01:00:00Z",
+   "headline": "White House plans to name 24+ AI 'national champions,' including Nvidia and OpenAI",
+   "caption": "The label could bring faster export licenses and federal financing, the WSJ reported. An announcement is expected within about a week.",
+   "visual": {
+    "type": "points",
+    "title": "What the 'champion' label offers",
+    "items": [
+     "Faster export license approvals for chips and tech",
+     "Government support for overseas work",
+     "Access to federal financing",
+     "Reported names: Nvidia, Amazon, Microsoft, OpenAI, Anthropic"
+    ]
+   },
+   "detail": [
+    "The Trump administration plans to name more than two dozen AI companies as US 'national champions,' according to the Wall Street Journal. Companies expected on the list include Nvidia, Amazon, Microsoft, OpenAI and Anthropic.",
+    "The Commerce Department program was first announced about a year ago, but no champions have been named yet. Benefits include faster approval of export licenses, government support for overseas work, and access to federal financing. The goal is to package US chips and AI models so foreign buyers pick them over Chinese rivals.",
+    "Commerce Secretary Howard Lutnick was expected to announce the plan. Sources said the date could slip, and the plan has not been officially confirmed."
+   ],
+   "money": [
+    "Companies on the list may win more overseas deals. That could support sales for big AI stock holdings in many index funds.",
+    "Don't chase a single stock on a report. Wait for the official list and details.",
+    "Broad tech or AI ETFs already hold most of the names reported."
+   ],
+   "risk": [
+    "The report is unconfirmed and the timing could change.",
+    "Export rules and trade talks with China can shift quickly."
+   ],
+   "sources": [
+    {
+     "t": "What the AI National Champion Label Offers Nvidia, Microsoft, Amazon, OpenAI and Anthropic",
+     "d": "coincentral.com",
+     "u": "https://coincentral.com/what-the-ai-national-champion-label-offers-nvidia-microsoft-amazon-openai-and-anthropic"
+    },
+    {
+     "t": "Everything That Happened in AI Today, Tuesday, November 17",
+     "d": "theneuron.ai",
+     "u": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-tuesday-november-17-2026/"
+    }
+   ]
+  },
+  {
+   "id": "openai-apollo-safety-pilot-2026111801",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-18T01:00:00Z",
+   "headline": "OpenAI embeds 6 outside Apollo Research testers for a 4-month AI safety pilot",
+   "caption": "They will test whether models undermine safeguards or hide suspicious behavior. OpenAI also signed deals with METR, Transluce and Goodfire.",
+   "visual": {
+    "type": "board",
+    "title": "OpenAI's outside testing",
+    "rows": [
+     {
+      "k": "Apollo evaluators",
+      "v": "6",
+      "tone": "acc"
+     },
+     {
+      "k": "Pilot length",
+      "v": "4 months"
+     },
+     {
+      "k": "Other partners",
+      "s": "new agreements",
+      "v": "METR, Transluce, Goodfire"
+     },
+     {
+      "k": "Apollo's access",
+      "s": "its own view",
+      "v": "Limited",
+      "tone": "loss"
+     }
+    ],
+    "foot": "The Neuron, Nov. 17"
+   },
+   "detail": [
+    "OpenAI is bringing six evaluators from Apollo Research inside the company for a four-month pilot. They will test whether OpenAI's models try to get around safeguards or hide suspicious behavior.",
+    "OpenAI also signed agreements with three other outside groups: METR, Transluce and Goodfire. Apollo said its access and its rights to disclose findings are limited.",
+    "The move comes a day after California's attorney general sued OpenAI over its safety practices, which OpenAI disputes."
+   ],
+   "money": [
+    "Businesses using AI tools can ask vendors what outside safety testing they do before signing contracts.",
+    "Safety and security problems can cost AI companies money and customers; that matters for investors in the AI boom.",
+    "Demand for AI safety and testing skills is growing, which could be a career path worth exploring."
+   ],
+   "risk": [
+    "Limited access means outside testers may not see everything.",
+    "Results may not be made public."
+   ],
+   "sources": [
+    {
+     "t": "Everything That Happened in AI Today, Tuesday, November 17",
+     "d": "theneuron.ai",
+     "u": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-tuesday-november-17-2026/"
+    }
+   ]
+  },
+  {
+   "id": "apple-siri-ai-usage-limits-2026111801",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "business"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-18T01:00:00Z",
+   "headline": "Apple tests daily limits on Siri's AI; bigger allowances tied to iCloud+ plans",
+   "caption": "Basic Siri commands stay free in the beta. Heavier cloud AI requests would come with daily allowances, with more for paying iCloud+ users.",
+   "visual": {
+    "type": "points",
+    "title": "Siri AI beta, as reported",
+    "items": [
+     "Daily usage allowances for complex requests",
+     "Basic commands stay free",
+     "Higher cloud AI limits with eligible iCloud+ plans",
+     "Still in beta testing"
+    ]
+   },
+   "detail": [
+    "Apple is beta testing daily usage allowances for Siri's more complex AI requests. Basic commands will stay free.",
+    "Higher limits for cloud-based AI would come with eligible iCloud+ subscription plans. That would tie Apple's AI features more closely to its paid services.",
+    "Many AI products already limit free use and sell higher tiers. Apple's test suggests it may follow a similar path."
+   ],
+   "money": [
+    "Check which iCloud+ plan you have. You may already pay for a tier that includes higher AI limits.",
+    "Before upgrading, track how often you actually hit the limit. Many people use basic commands only.",
+    "Apple's services revenue is a key profit driver; investors may watch whether AI boosts subscriptions."
+   ],
+   "risk": [
+    "Details could change before a public release.",
+    "Subscription costs add up across apps; review them once a year."
+   ],
+   "sources": [
+    {
+     "t": "Everything That Happened in AI Today, Tuesday, November 17",
+     "d": "theneuron.ai",
+     "u": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-tuesday-november-17-2026/"
+    }
+   ]
+  },
+  {
+   "id": "ai-deals-elevenlabs-kotoba-2026111801",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "business"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-18T01:00:00Z",
+   "headline": "AI deals: ElevenLabs buys Japan's Kotoba; Dreamteam raises $53M, Knit Health $35M",
+   "caption": "ElevenLabs wants voice agents that handle Japanese well. Startups for AI sales software and patient routing also landed new money.",
+   "visual": {
+    "type": "deals",
+    "title": "Tuesday's AI deals",
+    "items": [
+     {
+      "a": "ElevenLabs",
+      "b": "Kotoba (Japan voice AI)",
+      "amt": "Undisclosed",
+      "st": "Close expected later in Q4",
+      "c": "pend"
+     },
+     {
+      "a": "Dreamteam",
+      "b": "AI-native CRM",
+      "amt": "$53M",
+      "st": "Seed + Series A",
+      "c": "ok"
+     },
+     {
+      "a": "Knit Health",
+      "b": "AI patient routing",
+      "amt": "$35M",
+      "st": "Series A",
+      "c": "ok"
+     }
+    ]
+   },
+   "detail": [
+    "Voice AI company ElevenLabs agreed to acquire Kotoba, a Japanese voice AI company. It plans conversational agents that handle the nuances of Japanese. The deal is expected to close later in the fourth quarter, subject to conditions.",
+    "Dreamteam raised $53 million in seed and Series A funding for an AI-native CRM, software that tracks sales and customers. It was founded by former Freshworks executives and reports more than 100 customers in 13 countries.",
+    "Knit Health raised $35 million in a Series A for AI that predicts patient care needs and sends patients to the right services."
+   ],
+   "money": [
+    "Small businesses: new AI sales tools are crowding in; ask for free trials and compare costs against your current CRM.",
+    "Patients may see more AI routing in health systems. Ask how to reach a human if needed.",
+    "Most of these companies are private; public investors get exposure mostly through big tech and AI funds."
+   ],
+   "risk": [
+    "Many AI startups won't last; avoid prepaying long contracts with new vendors.",
+    "Acquisitions can fail to close."
+   ],
+   "sources": [
+    {
+     "t": "Everything That Happened in AI Today, Tuesday, November 17",
+     "d": "theneuron.ai",
+     "u": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-tuesday-november-17-2026/"
+    }
+   ]
+  },
+  {
+   "id": "deutsche-bank-leak-shares-fall-2026111801",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business",
+    "world"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-18T01:00:00Z",
+   "headline": "Deutsche Bank falls as much as 6.4% after a big leak on Epstein and Russia dealings",
+   "caption": "Reports from a 200+ journalist group cite $582M in Epstein-linked transfers flagged in 2019. The bank says these are old matters.",
+   "visual": {
+    "type": "board",
+    "title": "Deutsche Bank leak",
+    "rows": [
+     {
+      "k": "Stock drop",
+      "s": "intraday, Tuesday",
+      "v": "-6.4%",
+      "ch": -6.4
+     },
+     {
+      "k": "Epstein-linked transfers",
+      "s": "flagged in 2019, per FT",
+      "v": "$582M",
+      "tone": "loss"
+     },
+     {
+      "k": "Past Epstein fines",
+      "v": "$200M+",
+      "tone": "loss"
+     },
+     {
+      "k": "Past Russia fines",
+      "s": "UK and US",
+      "v": "$670M+",
+      "tone": "loss"
+     }
+    ],
+    "foot": "Business Standard, Nov. 17"
+   },
+   "detail": [
+    "Deutsche Bank shares fell as much as 6.4% on Tuesday after several media groups published stories based on leaked internal documents. The investigation involved more than 200 journalists, including Der Spiegel and Le Monde.",
+    "The Financial Times said the bank flagged $582 million in transfers tied to Jeffrey Epstein in 2019 reports. The New York Times reported the board voted in 2021 to grow carefully in Russia. Another report said the bank mistakenly sent tax statements for 1,586 accounts, including President Trump's, to a client's accountant in 2017.",
+    "CFO Raja Akram said the stories repeat past headlines and should have little or no financial impact. The chairman backed CEO Christian Sewing. Germany's finance minister called for full transparency."
+   ],
+   "money": [
+    "If you own European bank funds, check your Deutsche Bank weight; scandals can hit one stock hard.",
+    "Headline-driven drops sometimes fade if no new fines follow. Watch for regulator responses before acting.",
+    "Banks with strong controls can be worth a premium; reputation risk is real money."
+   ],
+   "risk": [
+    "Regulators could still open new probes or seek fines.",
+    "Leadership changes could follow if pressure builds."
+   ],
+   "sources": [
+    {
+     "t": "Deutsche Bank shares fall 6.4% after leak revives scrutiny of past dealings",
+     "d": "business-standard.com",
+     "u": "https://www.business-standard.com/amp/world-news/deutsche-bank-shares-fall-6-4-after-leak-revives-scrutiny-of-past-dealings-126111701078_1.html"
+    }
+   ]
+  },
+  {
+   "id": "quebecor-telus-31b-bid-2026111801",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business",
+    "world"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-18T01:00:00Z",
+   "headline": "Quebecor makes a $31 billion bid for Telus; analysts see a tough regulatory road",
+   "caption": "The cash-and-stock offer would merge two Canadian telecoms. Telus has raised 'serious concerns' and is still reviewing it.",
+   "visual": {
+    "type": "deals",
+    "title": "Canada telecom bid",
+    "items": [
+     {
+      "a": "Quebecor",
+      "b": "Telus",
+      "amt": "$31B",
+      "st": "Telus reviewing, has concerns",
+      "c": "pend"
+     },
+     {
+      "a": "Regulators",
+      "b": "Competition Bureau, CRTC, ISED",
+      "amt": "Review",
+      "st": "Minister promises rigorous review",
+      "c": "pend"
+     }
+    ]
+   },
+   "detail": [
+    "Quebecor proposed a $31 billion cash-and-stock takeover of Telus on Monday. It would combine two of Canada's big telecom companies.",
+    "Telus has not accepted the offer. It said it has serious concerns, including how the deal would fare with regulators. Any deal would likely go to the Competition Bureau, the CRTC and Canada's industry department. Industry Minister Mélanie Joly said it will be rigorously reviewed.",
+    "RBC's Drew McReynolds sees a low chance the deal happens under current rules. Desjardins said the deal makes long-term sense but faces a challenging approval path."
+   ],
+   "money": [
+    "Fewer phone companies often means less price competition. Canadian customers may want to lock in good plans now.",
+    "Takeover bids can lift a target's stock, but deals that fail can send it back down.",
+    "Telecom stocks are often held for dividends. Check how a deal could change payouts."
+   ],
+   "risk": [
+    "Regulators may block the deal or demand big changes.",
+    "Telus could reject the bid outright."
+   ],
+   "sources": [
+    {
+     "t": "Quebecor's proposed Telus takeover faces challenging road ahead: analysts",
+     "d": "bnnbloomberg.ca",
+     "u": "https://www.bnnbloomberg.ca/business/company-news/2026/11/17/quebecors-proposed-telus-takeover-faces-challenging-road-ahead-analysts/"
+    }
+   ]
+  },
+  {
+   "id": "world-bank-usdc-circle-citi-2026111801",
+   "type": "news",
+   "cat": "crypto",
+   "tags": [
+    "crypto",
+    "world"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-18T01:00:00Z",
+   "headline": "World Bank to test Circle's USDC stablecoin with Citi to send development funds",
+   "caption": "The aim is faster, cheaper and more transparent payments than the bank-to-bank chain. It starts only in countries that allow digital assets.",
+   "visual": {
+    "type": "board",
+    "title": "World Bank stablecoin test",
+    "rows": [
+     {
+      "k": "Stablecoin",
+      "v": "USDC",
+      "tone": "acc"
+     },
+     {
+      "k": "Partners",
+      "v": "Circle + Citi"
+     },
+     {
+      "k": "Existing tracking tool",
+      "s": "FundsChain",
+      "v": "350+ projects"
+     },
+     {
+      "k": "Countries tracked",
+      "v": "96"
+     }
+    ],
+    "foot": "Decrypt, Nov. 17"
+   },
+   "detail": [
+    "The World Bank Group said it will explore using Circle's USDC stablecoin and blockchain payment rails to move development money. It wants payments that are faster, cheaper and more transparent than the current chain of banks.",
+    "Circle will handle minting and settling funds in USDC. Citi will connect the system to traditional banking. The test is limited to borrower countries where digital assets are allowed, and other banks may join later.",
+    "It builds on FundsChain, a World Bank blockchain platform that already tracks payments across more than 350 projects in 96 countries."
+   ],
+   "money": [
+    "Stablecoins are moving into mainstream finance. If you send money abroad, compare stablecoin-based apps against bank wire fees.",
+    "Circle's stock and USDC usage could benefit if big institutions adopt it.",
+    "Only use regulated stablecoins and well-known apps; avoid unknown tokens that claim to be 'stable.'"
+   ],
+   "risk": [
+    "No dollar amount or pilot countries were announced.",
+    "Stablecoins carry issuer and regulatory risk."
+   ],
+   "sources": [
+    {
+     "t": "World Bank Taps Circle and Citi to Test Stablecoins for Development Payments",
+     "d": "decrypt.co",
+     "u": "https://decrypt.co/383485/world-bank-circle-citi-test-stablecoins-development-payments"
+    }
+   ]
+  },
+  {
+   "id": "tether-invests-stables-payments-2026111801",
+   "type": "news",
+   "cat": "crypto",
+   "tags": [
+    "crypto",
+    "business"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-18T01:00:00Z",
+   "headline": "Tether invests in Stables to push USDT payments for businesses in Asia and the Middle East",
+   "caption": "Stables says it moves over $2 billion a year in USDT across 160+ markets. The investment amount was not disclosed.",
+   "visual": {
+    "type": "board",
+    "title": "Tether + Stables",
+    "rows": [
+     {
+      "k": "Investor",
+      "v": "Tether Capital"
+     },
+     {
+      "k": "Amount",
+      "v": "Not disclosed",
+      "tone": "acc"
+     },
+     {
+      "k": "Markets served",
+      "v": "160+"
+     },
+     {
+      "k": "Yearly USDT volume",
+      "v": "$2B+",
+      "tone": "gain"
+     }
+    ],
+    "foot": "The Coin Republic, Nov. 17"
+   },
+   "detail": [
+    "Tether Capital, the investment arm of the USDT stablecoin issuer, invested in payments company Stables. Neither side disclosed the amount.",
+    "Stables lets businesses collect payments, convert currencies and send money in USDT through one connection. It links local banks and payment systems with USDT transfers. It says it operates in more than 160 markets and handles over $2 billion a year in USDT.",
+    "Tether says the goal is to make cross-border business payments faster, with fewer middlemen, and to grow USDT use for everyday payments instead of mainly trading."
+   ],
+   "money": [
+    "Small importers and exporters may find stablecoin rails cheaper than wires. Compare total costs, including conversion fees.",
+    "Keep records of every crypto payment; they can matter at tax time.",
+    "Payment use is a growing reason stablecoin supply could rise over time."
+   ],
+   "risk": [
+    "USDT is not FDIC insured and has faced past questions about its reserves.",
+    "Rules on stablecoins differ by country."
+   ],
+   "sources": [
+    {
+     "t": "Stablecoin News: Tether Invests in Stables to Expand Payment Capabilities",
+     "d": "thecoinrepublic.com",
+     "u": "https://www.thecoinrepublic.com/2026/11/17/tether-invests-in-stables-to-expand-payment-capabilities/"
+    }
+   ]
+  },
+  {
+   "id": "singapore-exports-record-79pct-2026111801",
+   "type": "news",
+   "cat": "world",
+   "tags": [
+    "world",
+    "markets",
+    "ai"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-18T01:00:00Z",
+   "headline": "Singapore exports jump a record 79.8% in October; shipments to the US up 214.6%",
+   "caption": "It was the 24th straight month of growth. AI-related electronics and pharmaceuticals led the surge.",
+   "visual": {
+    "type": "board",
+    "title": "Singapore NODX, October",
+    "rows": [
+     {
+      "k": "Total, year over year",
+      "v": "+79.8%",
+      "ch": 79.8
+     },
+     {
+      "k": "Electronics",
+      "s": "from 107.6% in Sept.",
+      "v": "+73.9%",
+      "ch": 73.9
+     },
+     {
+      "k": "Pharmaceuticals",
+      "v": "+253.1%",
+      "ch": 253.1
+     },
+     {
+      "k": "To the US",
+      "v": "+214.6%",
+      "ch": 214.6
+     },
+     {
+      "k": "To India",
+      "v": "-35.8%",
+      "ch": -35.8
+     }
+    ],
+    "foot": "Trading Economics, Nov. 17"
+   },
+   "detail": [
+    "Singapore's non-oil domestic exports rose 79.8% from a year earlier in October. It was the strongest growth on record and the 24th straight month of gains. September's figure was revised to 68.3%.",
+    "Electronics exports grew 73.9%, led by disk media products, PCs and chips. Pharmaceuticals jumped 253.1% and specialized machinery rose 57.3%.",
+    "Exports to the US surged 214.6% and to China 144.9%. Shipments to India fell 35.8% and to Indonesia 19%."
+   ],
+   "money": [
+    "Strong Asian electronics exports point to ongoing AI hardware demand, which supports chip supply chain companies.",
+    "Singapore and Asia funds may benefit from the export boom; check fees and concentration before buying.",
+    "Watch for price pressure in electronics if demand keeps outrunning supply."
+   ],
+   "risk": [
+    "Export swings can reverse fast if AI spending slows.",
+    "Some big moves come from one-time shipments."
+   ],
+   "sources": [
+    {
+     "t": "Singapore NODX Growth Hits Record High",
+     "d": "tradingeconomics.com",
+     "u": "https://tradingeconomics.com/singapore/domestic-exports-of-non-oil-nodx-pctyoy/news/592548"
+    },
+    {
+     "t": "Peter's Asian Business & Finance Briefing, Nov. 18",
+     "d": "peterlewismoneytalk.substack.com",
+     "u": "https://peterlewismoneytalk.substack.com/p/peters-asian-business-and-finance-304"
+    }
+   ]
+  },
+  {
+   "id": "hormuz-mines-third-carrier-2026111801",
+   "type": "news",
+   "cat": "world",
+   "tags": [
+    "world",
+    "markets"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-18T01:00:00Z",
+   "headline": "Iran's navy says 4 tankers hit mines in Hormuz as a third US carrier reaches the Gulf",
+   "caption": "Iran says the strait stays shut until its conditions are met. The USS Theodore Roosevelt joined two other US carriers.",
+   "visual": {
+    "type": "timeline",
+    "title": "Hormuz, past few days",
+    "items": [
+     {
+      "d": "NOV 15",
+      "t": "Iran says it sent 6 drones at a US radar in Bahrain",
+      "s": "Bahrain says it intercepted attacks"
+     },
+     {
+      "d": "NOV 15",
+      "t": "USS Theodore Roosevelt arrives in Gulf region",
+      "s": "Joins Bush and Washington"
+     },
+     {
+      "d": "NOV 17",
+      "t": "UKMTO: tanker hit by projectile, catches fire"
+     },
+     {
+      "d": "NOV 17",
+      "t": "Iran navy: 4 tankers struck mines in 24 hours",
+      "now": true
+     }
+    ]
+   },
+   "detail": [
+    "Iran's navy said four oil tankers struck mines and caught fire in the eastern Strait of Hormuz over 24 hours. Separately, the UK Maritime Trade Operations said a tanker was hit by an unidentified projectile on Tuesday and caught fire. It did not say who was responsible.",
+    "The USS Theodore Roosevelt arrived in the Gulf region on Sunday, joining the USS George H.W. Bush and USS George Washington. Iran's Revolutionary Guards Navy warned ships away from the US-backed southern route, and an army spokesperson said the strait will stay closed until Iran's conditions are accepted.",
+    "In Asian trading Tuesday, Brent was about $91.8 and WTI about $85.1 before oil later settled higher. The conflict began in late February."
+   ],
+   "money": [
+    "Gas prices can jump on Gulf news. Filling up before big headlines settle can save a little.",
+    "Energy stocks and funds tend to rise with tension, but can drop fast on any deal news.",
+    "If you sell or buy goods by sea, ask suppliers about shipping and insurance surcharges."
+   ],
+   "risk": [
+    "Claims from both sides are hard to verify.",
+    "Any ceasefire could send oil prices sharply lower."
+   ],
+   "sources": [
+    {
+     "t": "Iran escalates threats as third U.S. carrier arrives in Middle East, tanker struck in Hormuz",
+     "d": "cnbcafrica.com",
+     "u": "https://www.cnbcafrica.com/2026/iran-escalates-threats-as-third-u-s-carrier-arrives-in-middle-east-tanker-struck-in-hormuz"
+    }
+   ]
+  },
+  {
+   "id": "edu-irmaa-two-year-lookback-2026111801",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "benefits"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-18T01:00:00Z",
+   "headline": "IRMAA: how your income from 2 years ago sets your Medicare bill",
+   "caption": "The 2027 Part B premium is $209.40, but higher earners pay more. Here's how the surcharge works.",
+   "scenes": [
+    {
+     "k": "Today's news",
+     "t": "Part B is $209.40 in 2027",
+     "s": "Medicare released the new numbers on Nov. 17."
+    },
+    {
+     "k": "The surcharge",
+     "t": "Higher income pays more",
+     "s": "It's called IRMAA, and it adds to your monthly premium."
+    },
+    {
+     "k": "The lookback",
+     "t": "2027 uses your 2025 income",
+     "s": "Medicare looks at your tax return from two years earlier."
+    },
+    {
+     "k": "The lines",
+     "t": "Where it starts in 2027",
+     "viz": {
+      "type": "split",
+      "items": [
+       [
+        "Single",
+        "$112,000"
+       ],
+       [
+        "Couple",
+        "$224,000"
+       ],
+       [
+        "Top total premium",
+        "$711.80 a month",
+        "wide"
+       ]
+      ]
+     },
+     "say": "In 2027 the surcharge starts above 112,000 dollars for singles and 224,000 for couples. The top total premium is 711 dollars and 80 cents a month."
+    },
+    {
+     "k": "Watch out",
+     "t": "One big year can cost you",
+     "s": "A home sale or large Roth conversion can push you over a line later."
+    },
+    {
+     "k": "Takeaway",
+     "t": "Life changed? Ask for a redo",
+     "s": "After retirement or job loss, form SSA-44 can lower the surcharge."
+    }
+   ]
+  },
+  {
+   "id": "edu-homestead-exemption-2026111801",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "states",
+    "taxes"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-18T01:00:00Z",
+   "headline": "Homestead exemption: the property tax break for your main home",
+   "caption": "Florida just voted to triple it. Here's how a homestead exemption lowers your bill.",
+   "scenes": [
+    {
+     "k": "Today's news",
+     "t": "Florida triples homestead breaks",
+     "s": "Voters passed Amendment 3 with 62% of the vote."
+    },
+    {
+     "k": "The idea",
+     "t": "Part of your home isn't taxed",
+     "s": "An exemption cuts the value that property tax is charged on."
+    },
+    {
+     "k": "How it works",
+     "t": "Smaller taxable value, smaller bill",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "Home value",
+       "Minus exemption",
+       "Taxable value",
+       "Times tax rate",
+       "Your bill"
+      ]
+     }
+    },
+    {
+     "k": "Who gets it",
+     "t": "Only your main home",
+     "s": "Rentals and second homes usually don't qualify."
+    },
+    {
+     "k": "The catch",
+     "t": "Local budgets feel the cut",
+     "s": "Cities may add fees or trim services to make up lost money."
+    },
+    {
+     "k": "Takeaway",
+     "t": "File for it, it's not automatic",
+     "s": "Most states make you apply with the county once."
+    }
+   ]
+  },
   {
    "id": "futures-jump-nvidia-guide-2026111800",
    "type": "news",
@@ -10929,1053 +12012,6 @@
      "t": "Stock Futures Fall 0.45% Ahead of Nvidia Q3 Earnings",
      "d": "tradingandinvestmentnews.co.uk",
      "u": "https://www.tradingandinvestmentnews.co.uk/stock-futures-fall-nvidia-earnings/"
-    }
-   ]
-  },
-  {
-   "id": "tyson-beat-2026111713",
-   "type": "news",
-   "cat": "markets",
-   "tags": [
-    "markets",
-    "business"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-17T13:00:00Z",
-   "headline": "Tyson jumps 7.5% on a sales beat, even as beef losses and a weak 2027 outlook loom",
-   "caption": "Tyson posted $14.59B in quarterly sales, above forecasts. But it expects 2027 sales to fall 3.5% to 5.5%.",
-   "visual": {
-    "type": "board",
-    "title": "Tyson Foods Q4",
-    "rows": [
-     {
-      "k": "Stock",
-      "v": "$63.21",
-      "ch": 7.46,
-      "tone": "gain"
-     },
-     {
-      "k": "Revenue",
-      "s": "vs. $14.1B expected",
-      "v": "$14.59B",
-      "tone": "gain"
-     },
-     {
-      "k": "Adjusted EPS",
-      "s": "vs. $0.60",
-      "v": "$0.61",
-      "tone": "gain"
-     },
-     {
-      "k": "Beef segment",
-      "v": "-$171M",
-      "tone": "loss"
-     },
-     {
-      "k": "2027 sales outlook",
-      "v": "-3.5% to -5.5%",
-      "tone": "loss"
-     }
-    ]
-   },
-   "detail": [
-    "Tyson Foods reported fourth-quarter revenue of $14.59 billion, beating the $14.1 billion forecast. Adjusted earnings were 61 cents a share, a penny above estimates. Shares rose about 7.5% on Monday.",
-    "Profit still fell sharply. Adjusted operating income dropped about 41% to $361 million, and the beef business lost $171 million. Chicken earned $389 million.",
-    "For fiscal 2027, Tyson expects sales to fall 3.5% to 5.5%. It sees adjusted operating income of $1.7 billion to $2.15 billion."
-   ],
-   "money": [
-    "Beef losses at packers reflect tight cattle supply; expect high beef prices at the store for a while.",
-    "Chicken is still profitable for Tyson; swapping beef for chicken can trim your grocery bill.",
-    "A stock jumping on a beat with a weak outlook can fade; give it time before buying."
-   ],
-   "risk": [
-    "Tyson's beef unit could lose up to $300 million next year, by its own range."
-   ],
-   "sources": [
-    {
-     "t": "Tyson Jumps 7.46% On Earnings Beat",
-     "d": "hdfcsky.com",
-     "u": "https://hdfcsky.com/news/tyson-jumps-7-46percent-on-earnings-beat-virtuix-plunges-17percent-microbot-sinks-34percent-as-stocks-react-to-q3-results"
-    }
-   ]
-  },
-  {
-   "id": "vulcan-amazon-leo-fail-2026111713",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business",
-    "ai"
-   ],
-   "date": "Sun Nov 15",
-   "ts": "2026-11-17T13:00:00Z",
-   "headline": "ULA rocket fails with 40 Amazon internet satellites on board",
-   "caption": "The Vulcan launch failed about 10 minutes after liftoff. It was the first of 38 ULA launches planned for Amazon's Leo network.",
-   "visual": {
-    "type": "stat",
-    "title": "Amazon Leo setback",
-    "num": "40",
-    "tone": "loss",
-    "label": "Satellites lost when the ULA rocket failed after liftoff.",
-    "facts": [
-     [
-      "ULA launches planned",
-      "38",
-      "this was #1"
-     ],
-     [
-      "First-gen satellites needed",
-      "3,232",
-      "for the network"
-     ],
-     [
-      "Deadline",
-      "Jul 30, 2029",
-      "to deploy them all"
-     ]
-    ]
-   },
-   "detail": [
-    "A United Launch Alliance rocket carrying 40 Amazon Leo broadband satellites failed about 10 minutes after liftoff from Cape Canaveral on Sunday. ULA has not named the cause and is reviewing data.",
-    "The mission was the first of 38 launches ULA had planned for Amazon. Amazon wants more than 3,000 satellites to bring internet to areas without good service.",
-    "Amazon must deploy all 3,232 first-generation satellites by July 30, 2029. Losing a full batch adds pressure to an already tight schedule."
-   ],
-   "money": [
-    "Satellite internet is getting more competition; compare plans before locking into a long contract.",
-    "Rural households may get more options as Leo rolls out, which can push prices down.",
-    "Space stocks can swing on one launch; spread bets across several companies."
-   ],
-   "risk": [
-    "More delays could push back Amazon Leo service and add costs."
-   ],
-   "sources": [
-    {
-     "t": "ULA rocket carrying 40 Amazon satellites fails minutes after liftoff",
-     "d": "fox13news.com",
-     "u": "https://www.fox13news.com/news/ula-rocket-carrying-40-amazon-satellites-fails-minutes-after-liftoff"
-    },
-    {
-     "t": "Stock Futures Fall 0.45% Ahead of Nvidia Q3 Earnings",
-     "d": "tradingandinvestmentnews.co.uk",
-     "u": "https://www.tradingandinvestmentnews.co.uk/stock-futures-fall-nvidia-earnings/"
-    }
-   ]
-  },
-  {
-   "id": "mayne-richter-takeover-2026111713",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business",
-    "world",
-    "markets"
-   ],
-   "date": "Tue Nov 17",
-   "ts": "2026-11-17T13:00:00Z",
-   "headline": "Mayne Pharma nearly doubles on a $407 million cash takeover offer",
-   "caption": "Hungary's Gedeon Richter offered A$6.40 a share, a 99.4% premium. Mayne's board backs the deal.",
-   "visual": {
-    "type": "deals",
-    "title": "Pharma takeover",
-    "items": [
-     {
-      "a": "Gedeon Richter",
-      "b": "Mayne Pharma",
-      "amt": "US$407M",
-      "st": "Board backs it; vote late Jan.",
-      "c": "pend"
-     }
-    ]
-   },
-   "detail": [
-    "Hungarian drugmaker Gedeon Richter agreed to buy Australia's Mayne Pharma for A$604 million, about US$407 million, in cash. The price is A$6.40 a share.",
-    "That is a 99.4% premium to Mayne's last close. Mayne shares jumped as much as 86% to A$5.98. The board unanimously recommends the deal.",
-    "Shareholders are expected to vote in late January 2027, with closing targeted for March. Richter says the deal grows its US business, especially in women's health."
-   ],
-   "money": [
-    "When a stock trades below the offer price, the gap reflects the risk the deal falls apart.",
-    "Takeover jumps are hard to predict; diversified funds catch some of them automatically.",
-    "Health care deals often come with regulatory reviews; patience is part of the trade."
-   ],
-   "risk": [
-    "The deal needs regulatory, shareholder and court approval and could still fail."
-   ],
-   "sources": [
-    {
-     "t": "Mayne Pharma shares surge on $407 mln takeover offer from Gedeon Richter",
-     "d": "investing.com",
-     "u": "https://ca.investing.com/news/stock-market-news/mayne-pharma-shares-surge-on-407-mln-takeover-offer-from-gedeon-richter-4962503"
-    }
-   ]
-  },
-  {
-   "id": "cotality-weather-home-values-2026111713",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business",
-    "california",
-    "states"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-17T13:00:00Z",
-   "headline": "Report: insurance drops and disaster risk are dragging down home values",
-   "caption": "A Cotality study links rising disaster risk to policy cancellations and weaker prices. California home prices have slipped in 2026.",
-   "visual": {
-    "type": "points",
-    "title": "Weather vs. home values",
-    "items": [
-     "Naples, FL price growth fell 8.3%",
-     "Dare County, NC: 13% of policies not renewed",
-     "California home prices negative in 2026",
-     "Lake County, CA nonrenewals hit 7.6%",
-     "9.5M Midwest homes face higher storm risk by 2040"
-    ]
-   },
-   "detail": [
-    "Data firm Cotality says growing disaster risk is making insurance harder to get and is weighing on home values in the US and Australia.",
-    "In Dare County, North Carolina, 13% of policies were not renewed in 2023 and home values later fell about 10%. The report notes it can't prove the nonrenewals caused the drop. Miami's market has flattened and Naples' price growth fell 8.3%.",
-    "California has seen negative home-price growth in 2026. Lake County's nonrenewal rate hit 7.6% in 2023, and Nevada County faces projected wildfire losses of $54 million a year."
-   ],
-   "money": [
-    "Before buying a home, get insurance quotes first; a huge premium can wreck the budget.",
-    "Wildfire or flood mitigation work can earn insurance discounts in some states.",
-    "Shop your policy every year; rates vary widely between insurers."
-   ],
-   "risk": [
-    "Areas with rising risk could see more cancellations and slower price growth."
-   ],
-   "sources": [
-    {
-     "t": "Report: Rising Disaster Risks Threaten Insurance Availability, Home Values",
-     "d": "claimsjournal.com",
-     "u": "https://www.claimsjournal.com/news/national/2026/11/16/341299.htm"
-    }
-   ]
-  },
-  {
-   "id": "fed-survey-ai-risk-2026111713",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "markets"
-   ],
-   "date": "Fri Nov 13",
-   "ts": "2026-11-17T13:00:00Z",
-   "headline": "Fed survey: 87% of market contacts now call AI the top risk to the financial system",
-   "caption": "That's up from 50% in the spring. The Fed also flagged over $680 billion in AI data center debt.",
-   "visual": {
-    "type": "vs",
-    "title": "Contacts naming AI the top risk",
-    "a": [
-     "Spring",
-     "50%",
-     0.57,
-     "acc"
-    ],
-    "b": [
-     "Now",
-     "87%",
-     1,
-     "loss"
-    ],
-    "foot": "Fed Financial Stability Report, Nov 13"
-   },
-   "detail": [
-    "The Federal Reserve's latest Financial Stability Report says 87% of 23 surveyed market contacts named AI as the biggest risk to the US financial system. In the spring, it was 50%.",
-    "Other top worries were a drop in risky assets (52%), higher long-term rates (48%), cyberattacks (43%) and government debt (43%). The Fed said stock prices look high, partly on AI excitement.",
-    "Debt raised for AI computing topped $680 billion by October, up from $130 billion in all of 2023. The biggest US banks have close to $1 trillion of exposure to tech, data centers and related utilities."
-   ],
-   "money": [
-    "If AI stocks dominate your portfolio, rebalancing can lower your risk.",
-    "An emergency fund keeps you from selling stocks in a downturn.",
-    "Bond funds and cash can cushion a stock pullback."
-   ],
-   "risk": [
-    "The Fed said the system is broadly stable outside AI, so this is a warning, not a crisis call."
-   ],
-   "sources": [
-    {
-     "t": "AI tops the risks to the financial system in the Fed's survey",
-     "d": "stockanalysis.com",
-     "u": "https://stockanalysis.com/news/fed-financial-stability-report-ai-risk-november-2026/"
-    }
-   ]
-  },
-  {
-   "id": "sierra-poppy-agents-2026111713",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "business"
-   ],
-   "date": "Fri Nov 13",
-   "ts": "2026-11-17T13:00:00Z",
-   "headline": "Every Shopify store now tells AI agents what they can do, via Sierra's Poppy",
-   "caption": "Sierra released Poppy 1.0, a standard for personal AI agents to work with businesses. More than 100 companies have signed on.",
-   "visual": {
-    "type": "points",
-    "title": "Poppy 1.0",
-    "items": [
-     "A rulebook for AI agents dealing with companies",
-     "On for every Shopify merchant",
-     "Meta's Muse agent checks it first on every site",
-     "100+ design partners, incl. Walmart and Stripe",
-     "Customers control agent access via OAuth"
-    ]
-   },
-   "detail": [
-    "Sierra released version 1.0 of Poppy, its Personal Agent Protocol. It tells personal AI agents what actions a business allows and how to connect.",
-    "Shopify turned it on for every merchant, so each store now publishes a Poppy file. Meta's Muse agent checks for Poppy first on every site it visits.",
-    "More than 100 companies are design partners, including Walmart, Stripe and Genesys. Mercury, Synchrony and Turkish Airlines are going live."
-   ],
-   "money": [
-    "AI shopping agents may soon compare prices for you; still check final totals before you approve.",
-    "Small sellers on Shopify get agent access automatically, which could bring new sales.",
-    "Use spending limits and approvals when you let an agent buy things."
-   ],
-   "risk": [
-    "Agent standards are new; mistakes or misuse could cost shoppers money."
-   ],
-   "sources": [
-    {
-     "t": "Releasing Poppy",
-     "d": "sierra.ai",
-     "u": "https://sierra.ai/blog/releasing-poppy"
-    },
-    {
-     "t": "Sierra releases Poppy 1.0 as Shopify and Meta's Muse sign on",
-     "d": "thenextweb.com",
-     "u": "https://thenextweb.com/news/sierra-poppy-1-0-shopify-meta-muse-personal-agents"
-    }
-   ]
-  },
-  {
-   "id": "faa-smart-ai-nationwide-2026111713",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "business"
-   ],
-   "date": "Last week",
-   "ts": "2026-11-17T13:00:00Z",
-   "headline": "FAA's $875M AI route advisor is now running at all 22 air traffic centers",
-   "caption": "The SMART tool suggests reroutes and humans decide. The FAA says it saved about 10 minutes and 80 gallons of fuel per rerouted flight.",
-   "visual": {
-    "type": "board",
-    "title": "FAA SMART so far",
-    "rows": [
-     {
-      "k": "Contract",
-      "s": "12 years",
-      "v": "$875M"
-     },
-     {
-      "k": "Traffic centers",
-      "v": "All 22",
-      "tone": "acc"
-     },
-     {
-      "k": "Flights rerouted",
-      "v": "180"
-     },
-     {
-      "k": "Time saved per flight",
-      "v": "~10 min",
-      "tone": "gain"
-     },
-     {
-      "k": "Fuel saved per flight",
-      "v": "~80 gal",
-      "tone": "gain"
-     }
-    ]
-   },
-   "detail": [
-    "The FAA has switched on SMART, an AI routing advisor built by Air Space Intelligence, at all 22 US air route traffic control centers. It pulls in more than 200 data streams.",
-    "The FAA says it has helped reroute 180 flights, saving about 10 minutes and nearly 80 gallons of fuel per flight. Managers at each center accept or reject every suggestion.",
-    "The air traffic controllers' union says it had no role in the design or testing. House Democrats asked the GAO to review the rollout."
-   ],
-   "money": [
-    "Fewer delays mean fewer missed connections; still book longer layovers in winter.",
-    "Airline fuel savings can help keep fares in check over time.",
-    "Travel insurance or a card with delay coverage can repay surprise hotel costs."
-   ],
-   "risk": [
-    "Critics question the pace of testing; problems could disrupt flights."
-   ],
-   "sources": [
-    {
-     "t": "FAA switches on $875M SMART AI advisor at all 22 traffic centers",
-     "d": "aiweekly.co",
-     "u": "https://aiweekly.co/alerts/faa-switches-on-875m-smart-ai-advisor-at-all-22-traffic-centers"
-    }
-   ]
-  },
-  {
-   "id": "btc-etf-outflow-streak-ends-2026111713",
-   "type": "news",
-   "cat": "crypto",
-   "tags": [
-    "crypto",
-    "markets"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-17T13:00:00Z",
-   "headline": "Bitcoin ETFs snap a 7-day outflow streak with a small $7.9M inflow",
-   "caption": "Spot bitcoin funds had lost about $1.91 billion over seven sessions. BlackRock's IBIT was the only fund to take in money Monday.",
-   "visual": {
-    "type": "vs",
-    "title": "Spot bitcoin ETF flows",
-    "a": [
-     "Prior 7 days",
-     "-$1.91B",
-     1,
-     "loss"
-    ],
-    "b": [
-     "Monday",
-     "+$7.9M",
-     0.05,
-     "gain"
-    ],
-    "foot": "Bitcoin near $64,800"
-   },
-   "detail": [
-    "US spot bitcoin ETFs took in a net $7.9 million on Monday, ending a seven-session run of outflows. That streak had pulled out about $1.91 billion.",
-    "BlackRock's IBIT was the only fund with an inflow on the day. Bitcoin traded near $64,800.",
-    "A tiny inflow doesn't mean the selling is over, but it is the first positive day in more than a week."
-   ],
-   "money": [
-    "If you buy crypto, small regular buys can reduce the risk of bad timing.",
-    "Low-fee ETFs are a simple way to hold bitcoin in a brokerage or IRA.",
-    "Only invest what you could see drop by half without panic."
-   ],
-   "risk": [
-    "Flows could flip negative again quickly, especially around the Fed and Nvidia news."
-   ],
-   "sources": [
-    {
-     "t": "Bitcoin Holds Near $64,800 as ETF Outflow Streak Ends",
-     "d": "thedefiant.io",
-     "u": "https://thedefiant.io/news/markets/bitcoin-holds-near-64-800-as-etf-outflow-streak-ends"
-    }
-   ]
-  },
-  {
-   "id": "ny-comedy-club-tax-2026111713",
-   "type": "news",
-   "cat": "taxes",
-   "tags": [
-    "taxes",
-    "states"
-   ],
-   "date": "Tue Nov 17",
-   "ts": "2026-11-17T13:00:00Z",
-   "headline": "New York comedy clubs press Hochul to sign a bill ending sales tax on tickets",
-   "caption": "Lawmakers passed it unanimously in June. Broadway, concerts and bowling alleys already get the exemption.",
-   "visual": {
-    "type": "points",
-    "title": "The comedy tax fight",
-    "items": [
-     "Bill passed the Legislature unanimously in June",
-     "Exempts comedy shows from state admissions sales tax",
-     "Broadway and concert halls are already exempt",
-     "Some clubs were audited for tax they never collected",
-     "Hochul's office: the governor will review it"
-    ]
-   },
-   "detail": [
-    "New York lawmakers and comedians, including Jim Gaffigan, are urging Gov. Kathy Hochul to sign a bill that would stop charging state sales tax on comedy club admissions.",
-    "The bill passed both chambers unanimously in June. Broadway theaters, concert halls and bowling alleys already have the exemption.",
-    "Club owners say some venues were audited and billed for tax they never collected. Hochul's office says she will review the bill. Supporters want it signed before year end."
-   ],
-   "money": [
-    "If signed, comedy tickets in New York could get a bit cheaper.",
-    "Small businesses should check which sales taxes apply to them to avoid surprise audit bills.",
-    "Watch for year-end bill signings; state tax breaks often land in December."
-   ],
-   "risk": [
-    "The governor could still veto it or ask for changes."
-   ],
-   "sources": [
-    {
-     "t": "Jim Gaffigan, New York lawmakers push Gov Hochul to axe 'unnecessary tax' hitting comedy clubs",
-     "d": "foxnews.com",
-     "u": "https://www.foxnews.com/media/jim-gaffigan-new-york-lawmakers-push-gov-hochul-axe-unnecessary-tax-hitting-comedy-clubs"
-    }
-   ]
-  },
-  {
-   "id": "ice-love-field-resume-2026111713",
-   "type": "news",
-   "cat": "immigration",
-   "tags": [
-    "immigration",
-    "states"
-   ],
-   "date": "This week",
-   "ts": "2026-11-17T13:00:00Z",
-   "headline": "ICE flights are back at Dallas Love Field about a month after they stopped",
-   "caption": "The private operator says the pause was for procedural changes. The city says it has no authority over the flights.",
-   "visual": {
-    "type": "timeline",
-    "title": "Love Field ICE flights",
-    "items": [
-     {
-      "d": "2026",
-      "t": "Activists count 215 ICE flights",
-      "s": "through September"
-     },
-     {
-      "d": "OCT 1",
-      "t": "Operator says flights will end"
-     },
-     {
-      "d": "NOV",
-      "t": "Flights resume",
-      "now": true
-     }
-    ]
-   },
-   "detail": [
-    "Immigration enforcement flights have resumed at Dallas Love Field, about a month after Signature Aviation said they would end on Oct. 1.",
-    "A city aviation spokesperson said the decision was Signature's and that Dallas does not approve or oversee federal immigration operations at private terminals. Signature said the pause was for routine procedural adjustments and that federal law requires it to serve government flights.",
-    "ICE did not answer questions about why flights stopped and restarted. Activists had counted 215 ICE flights at Love Field in 2026 through September."
-   ],
-   "money": [
-    "Families facing immigration cases can often find free or low-cost legal help through nonprofit groups.",
-    "Keep copies of key documents in a safe place to avoid costly delays.",
-    "Employers in Texas may see staffing changes; plan for possible labor shortages."
-   ],
-   "risk": [
-    "Rules and flight operations can change quickly with little notice."
-   ],
-   "sources": [
-    {
-     "t": "ICE flights resume at Dallas Love Field after monthlong pause",
-     "d": "yahoo.com",
-     "u": "https://www.yahoo.com/news/us/articles/ice-flights-resume-dallas-love-230130683.html"
-    },
-    {
-     "t": "ICE flights resume at Dallas Love Field Airport",
-     "d": "kera.org",
-     "u": "https://www.kera.org/2026/11/17/ice-immigration-flights-resume-dallas-love-field-airport/"
-    },
-    {
-     "t": "ICE Deportation Flights Leave Dallas Love Field for Fort Worth Alliance Airport",
-     "d": "visaverge.com",
-     "u": "https://www.visaverge.com/legal/ice-deportation-flights-leave-dallas-love-field-for-fort-worth-alliance-airport/"
-    }
-   ]
-  },
-  {
-   "id": "eu-autumn-forecast-2026111713",
-   "type": "news",
-   "cat": "world",
-   "tags": [
-    "world",
-    "markets"
-   ],
-   "date": "Tue Nov 17",
-   "ts": "2026-11-17T13:00:00Z",
-   "headline": "EU sees inflation peaking above 4% this winter as the Hormuz disruption drags on",
-   "caption": "The European Commission expects 1.4% growth and 3.3% inflation in 2026. Diesel prices have roughly doubled in a year.",
-   "visual": {
-    "type": "board",
-    "title": "EU autumn forecast",
-    "rows": [
-     {
-      "k": "EU growth 2026",
-      "v": "1.4%"
-     },
-     {
-      "k": "EU growth 2027",
-      "v": "1.4%"
-     },
-     {
-      "k": "EU inflation 2026",
-      "v": "3.3%",
-      "tone": "loss"
-     },
-     {
-      "k": "EU inflation 2028",
-      "v": "2.3%",
-      "tone": "gain"
-     },
-     {
-      "k": "Euro area energy prices",
-      "s": "year over year",
-      "v": "+21%",
-      "tone": "loss"
-     }
-    ]
-   },
-   "detail": [
-    "The European Commission's autumn forecast sees EU growth of 1.4% in 2026 and 2027, and 1.5% in 2028. Inflation is seen at 3.3% this year, 3.2% next year and 2.3% in 2028.",
-    "Energy flows through the Strait of Hormuz remain badly disrupted. Euro area energy prices are up almost 21% from a year ago, and diesel has roughly doubled.",
-    "EU headline inflation is expected to peak above 4% around the turn of the year before easing. The ECB raised rates in June and September."
-   ],
-   "money": [
-    "Higher rates abroad can strengthen foreign currencies; watch exchange rates before booking European travel.",
-    "International funds face energy-driven inflation; keep them as one slice, not the whole pie.",
-    "High-yield savings accounts benefit when central banks keep rates up."
-   ],
-   "risk": [
-    "If Hormuz flows stay disrupted, inflation could run hotter than forecast."
-   ],
-   "sources": [
-    {
-     "t": "Autumn 2026 Economic Forecast shows continued growth amid higher inflation",
-     "d": "economy-finance.ec.europa.eu",
-     "u": "https://economy-finance.ec.europa.eu/economic-forecast-and-surveys/economic-forecasts/autumn-2026-economic-forecast-shows-continued-growth-amid-higher-inflation_en"
-    }
-   ]
-  },
-  {
-   "id": "edu-13f-filings-2026111713",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "markets"
-   ],
-   "date": "Explainer",
-   "ts": "2026-11-17T13:00:00Z",
-   "headline": "13F filings: how to peek at what big investors own",
-   "caption": "Nvidia's filing showed SpaceX as its top holding. Here's what these reports can and can't tell you.",
-   "scenes": [
-    {
-     "k": "Today's news",
-     "t": "Nvidia's top holding: SpaceX",
-     "s": "Worth $19.68B, just ahead of Intel."
-    },
-    {
-     "k": "What it is",
-     "t": "A quarterly list of stock holdings",
-     "s": "Big money managers file it with the SEC."
-    },
-    {
-     "k": "How it works",
-     "t": "From trade to public report",
-     "viz": {
-      "type": "flow",
-      "items": [
-       "Quarter ends",
-       "Up to 45 days pass",
-       "13F filed",
-       "Public can read it"
-      ]
-     }
-    },
-    {
-     "k": "The catch",
-     "t": "The data is weeks old",
-     "s": "They may have sold since the quarter ended."
-    },
-    {
-     "k": "What's missing",
-     "t": "Shorts and cash aren't shown",
-     "s": "You see only part of the picture."
-    },
-    {
-     "k": "Takeaway",
-     "t": "Use it for ideas, not copy trades",
-     "s": "Do your own homework before buying."
-    }
-   ]
-  },
-  {
-   "id": "edu-takeover-premium-2026111713",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "business"
-   ],
-   "date": "Explainer",
-   "ts": "2026-11-17T13:00:00Z",
-   "headline": "Takeover premiums: why Mayne Pharma nearly doubled overnight",
-   "caption": "A buyer offered 99.4% above the last price. Here's how deal premiums and the 'spread' work.",
-   "scenes": [
-    {
-     "k": "Today's news",
-     "t": "Offer: A$6.40 a share",
-     "s": "A 99.4% premium to Mayne's last close."
-    },
-    {
-     "k": "Why a premium",
-     "t": "Buyers pay extra for control",
-     "s": "Owners won't sell at the market price."
-    },
-    {
-     "k": "The spread",
-     "t": "Price stays below the offer",
-     "viz": {
-      "type": "split",
-      "items": [
-       [
-        "Offer price",
-        "A$6.40"
-       ],
-       [
-        "Peak trade",
-        "A$5.98"
-       ],
-       [
-        "Gap left",
-        "about A$0.42",
-        "wide"
-       ]
-      ]
-     },
-     "say": "The offer is 6.40 Australian dollars, shares peaked near 5.98, leaving a gap of about 42 cents."
-    },
-    {
-     "k": "What the gap means",
-     "t": "It prices the risk of failure",
-     "s": "Approvals or a vote could sink the deal."
-    },
-    {
-     "k": "Steps to close",
-     "t": "Deals take months",
-     "viz": {
-      "type": "flow",
-      "items": [
-       "Offer agreed",
-       "Regulators review",
-       "Shareholders vote",
-       "Deal closes"
-      ]
-     }
-    },
-    {
-     "k": "Takeaway",
-     "t": "Chasing takeovers is a gamble",
-     "s": "Diversified funds catch some jumps for you."
-    }
-   ]
-  },
-  {
-   "id": "disney-q4-beat-dividend-2026111712",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business",
-    "markets"
-   ],
-   "date": "Tue Nov 17",
-   "ts": "2026-11-17T12:00:00Z",
-   "headline": "Disney beats with $25.9B in sales and raises its dividend 33% to $2 a year",
-   "caption": "Disney's revenue rose 16% and adjusted profit of $1.77 a share topped the $1.67 forecast. The stock rose about 2% before the open.",
-   "visual": {
-    "type": "board",
-    "title": "Disney fiscal Q4 2026",
-    "rows": [
-     {
-      "k": "Revenue",
-      "v": "$25.9B",
-      "ch": 16,
-      "tone": "gain"
-     },
-     {
-      "k": "Adjusted EPS",
-      "s": "forecast $1.67",
-      "v": "$1.77",
-      "tone": "gain"
-     },
-     {
-      "k": "Annual dividend",
-      "s": "two $1 payments",
-      "v": "$2.00",
-      "ch": 33,
-      "tone": "gain"
-     },
-     {
-      "k": "Streaming profit",
-      "s": "Disney+ and Hulu",
-      "v": "$824M",
-      "tone": "gain"
-     },
-     {
-      "k": "Premarket stock",
-      "s": "closed at $118.70",
-      "v": "$121.25",
-      "ch": 2.15,
-      "tone": "gain"
-     }
-    ],
-    "foot": "Dividend paid in January and July"
-   },
-   "detail": [
-    "Disney reported fiscal fourth-quarter revenue of $25.9 billion, up 16%. Adjusted earnings were $1.77 a share, ahead of the $1.67 analysts expected.",
-    "The company raised its annual dividend by a third, to $2 a share, paid as two $1 checks in January and July. Shares rose about 2.15% to $121.25 in early trading.",
-    "Streaming did well. Disney+ and Hulu earned $824 million, more than double a year ago, on revenue up 19% to $6.05 billion."
-   ],
-   "money": [
-    "A bigger dividend means more cash for shareholders, but check the yield before buying just for income.",
-    "If you own Disney through an index fund, a beat like this helps your fund a little, not a lot.",
-    "Streaming profits rising can mean fewer price cuts on Disney+ plans; compare bundles before renewing."
-   ],
-   "risk": [
-    "Premarket moves can fade once regular trading starts, especially on a shaky market day."
-   ],
-   "sources": [
-    {
-     "t": "Disney (DIS) Stock Pops as Dividend Jumps 33% After Q4 Beat",
-     "d": "coincentral.com",
-     "u": "https://coincentral.com/disney-dis-stock-pops-as-dividend-jumps-33-after-q4-beat"
-    },
-    {
-     "t": "Disney+ and Hulu's Combined Q4 Profit Climbs to $824 Million",
-     "d": "thewrap.com",
-     "u": "https://www.thewrap.com/industry-news/business/disney-earnings-q4-2026/"
-    }
-   ]
-  },
-  {
-   "id": "disney-3b-savings-parks-2026111712",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business",
-    "markets"
-   ],
-   "date": "Tue Nov 17",
-   "ts": "2026-11-17T12:00:00Z",
-   "headline": "Disney targets $3B in cost savings by 2029 as parks profit jumps 20%",
-   "caption": "Disney plans about $9B in buybacks next quarter and expects double-digit profit growth in 2027. Reports say more job cuts are being weighed.",
-   "visual": {
-    "type": "stat",
-    "title": "Disney parks & outlook",
-    "num": "+20%",
-    "tone": "gain",
-    "label": "Experiences profit rose to $2.25B in the quarter.",
-    "facts": [
-     [
-      "Cost savings goal",
-      "$3B",
-      "by fiscal 2029"
-     ],
-     [
-      "Q1 buybacks",
-      "~$9B",
-      "expected"
-     ],
-     [
-      "2027 free cash flow",
-      "~$11B",
-      "company view"
-     ]
-    ]
-   },
-   "detail": [
-    "Disney's parks and experiences unit grew revenue 15% to $10.1 billion and profit 20% to $2.25 billion. Global guests rose 11%, though Hong Kong and Shanghai stayed weak.",
-    "The company said it expects about $3 billion in savings by fiscal 2029. Some managers have been asked to aim for 20% yearly cost cuts, and the company is weighing thousands more job cuts, TheWrap reported.",
-    "For fiscal 2027, Disney guided to about 8% operating income growth, double-digit adjusted EPS growth and about $11 billion in free cash flow. It expects roughly $9 billion of buybacks in the first quarter."
-   ],
-   "money": [
-    "Strong park demand often means higher ticket prices; book trips early and watch for off-peak deals.",
-    "Big buybacks reduce share count, which can lift earnings per share for long-term holders.",
-    "If you work in media or entertainment, cost cuts like these are a reason to keep an emergency fund ready."
-   ],
-   "risk": [
-    "Cost cutting can hurt quality or morale, and guidance can change if the economy slows."
-   ],
-   "sources": [
-    {
-     "t": "Disney+ and Hulu's Combined Q4 Profit Climbs to $824 Million",
-     "d": "thewrap.com",
-     "u": "https://www.thewrap.com/industry-news/business/disney-earnings-q4-2026/"
-    }
-   ]
-  },
-  {
-   "id": "chip-curbs-five-countries-2026111712",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "world",
-    "markets"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-17T12:00:00Z",
-   "headline": "US requires licenses for top AI chips in 5 countries, from Malaysia to Brazil",
-   "caption": "A new rule bans remote access to certain AI chips in Indonesia, Malaysia, Singapore, Thailand and Brazil. The goal is to stop Chinese firms renting that power.",
-   "visual": {
-    "type": "points",
-    "title": "The new chip rule",
-    "items": [
-     "Covers Indonesia, Malaysia, Singapore, Thailand, Brazil",
-     "License needed to sell top AI chips and servers there",
-     "Bans remote access to certain GPUs in those data centers",
-     "Exempts shopping and social media recommender systems",
-     "Issued as an interim final rule by Commerce"
-    ]
-   },
-   "detail": [
-    "The Commerce Department's Bureau of Industry and Security now requires a license to sell the most advanced AI chips and servers into five countries: Indonesia, Malaysia, Singapore, Thailand and Brazil.",
-    "The rule also bans remote access to certain GPUs and servers in data centers there. US officials say Chinese tech firms had been renting computing power in these hubs to train AI models. Systems used for retail and social media recommendations are exempt.",
-    "An analyst told The Register the rule may shift the compliance burden onto data center and cloud operators. Separately, the US confirmed a criminal probe into Singapore's Megaspeed."
-   ],
-   "money": [
-    "Chip stocks can swing on export news; avoid piling into one chipmaker before Nvidia's results.",
-    "Broad index funds spread export-rule risk across many companies.",
-    "Cloud firms with US-only data centers may gain if rentals shift away from these hubs."
-   ],
-   "risk": [
-    "More rules could follow, and markets in Asia and Europe already fell on the news."
-   ],
-   "sources": [
-    {
-     "t": "US extends chip sale restrictions to more Asian countries",
-     "d": "theregister.com",
-     "u": "https://www.theregister.com/off-prem/2026/11/17/us-extends-chip-sale-restrictions-to-more-asian-countries-to-reduce-risk-of-diversion-to-china/5310307"
-    },
-    {
-     "t": "U.S. closes loophole that let Chinese companies use top AI chips",
-     "d": "nbcnews.com",
-     "u": "https://www.nbcnews.com/tech/tech-news/us-closes-loophole-let-chinese-companies-use-top-ai-chips-rcna609634"
-    }
-   ]
-  },
-  {
-   "id": "europe-falls-chip-curbs-2026111712",
-   "type": "news",
-   "cat": "markets",
-   "tags": [
-    "markets",
-    "world",
-    "ai"
-   ],
-   "date": "Tue Nov 17",
-   "ts": "2026-11-17T12:00:00Z",
-   "headline": "European stocks fall as new US chip curbs hit ASML and other chipmakers",
-   "caption": "The STOXX 600 slipped 0.5% and Germany's DAX lost 0.9%. Chip stocks like ASML and STMicro fell about 1.2% before Nvidia's results.",
-   "visual": {
-    "type": "stat",
-    "title": "Europe Tuesday morning",
-    "num": "-0.5%",
-    "tone": "loss",
-    "label": "STOXX 600 slips as chip curbs revive AI worries.",
-    "rows": [
-     [
-      "DAX",
-      -0.9
-     ],
-     [
-      "FTSE 100",
-      -0.8
-     ],
-     [
-      "CAC 40",
-      -0.5
-     ],
-     [
-      "ASML",
-      -1.2
-     ],
-     [
-      "Prosus",
-      -1.8
-     ]
-    ]
-   },
-   "detail": [
-    "European shares eased on Tuesday after Washington announced new curbs on advanced AI chip shipments to data centers in Southeast Asia.",
-    "The STOXX 600 fell 0.5%, the DAX 0.9%, the CAC 40 0.5% and London's FTSE 100 0.8%. Chip names ASML, STMicroelectronics and Soitec each fell about 1.2%, and Prosus lost 1.8%.",
-    "Investors are also bracing for Nvidia's results after the US close, its first report under an interim CEO."
-   ],
-   "money": [
-    "International funds hold big chip names like ASML; check how much of your fund is in tech.",
-    "Rough days before big earnings can offer better entry prices for long-term buyers who invest steadily.",
-    "Keep cash you need soon out of stocks during volatile weeks like this one."
-   ],
-   "risk": [
-    "Nvidia's report could move global markets sharply either way tonight."
-   ],
-   "sources": [
-    {
-     "t": "European shares slip on fresh U.S. chip curbs",
-     "d": "finance.yahoo.com",
-     "u": "https://finance.yahoo.com/technology/articles/european-shares-slip-fresh-u-083821310.html"
-    },
-    {
-     "t": "European Stocks Fall as US Chip Curbs Ignite Fresh AI Selloff",
-     "d": "bloomberg.com",
-     "u": "https://www.bloomberg.com/news/articles/2026-11-17/european-stocks-fall-as-us-chip-curbs-ignite-fresh-ai-selloff"
-    }
-   ]
-  },
-  {
-   "id": "sp500-10pct-year-math-2026111712",
-   "type": "news",
-   "cat": "markets",
-   "tags": [
-    "markets"
-   ],
-   "date": "Tue Nov 17",
-   "ts": "2026-11-17T12:00:00Z",
-   "headline": "S&P 500 is up about 8% this year; a 10% finish needs roughly 7,530",
-   "caption": "Futures dipped about 0.4% before a heavy day of data and Nvidia's report. Four straight double-digit years would be the first since the 1990s.",
-   "visual": {
-    "type": "board",
-    "title": "Tuesday before the open",
-    "rows": [
-     {
-      "k": "S&P 500 futures",
-      "v": "7,417.75",
-      "ch": -0.29,
-      "tone": "loss"
-     },
-     {
-      "k": "Dow futures",
-      "v": "51,448",
-      "ch": -0.43,
-      "tone": "loss"
-     },
-     {
-      "k": "VIX",
-      "s": "fear gauge",
-      "v": "23.54",
-      "ch": 2.75,
-      "tone": "acc"
-     },
-     {
-      "k": "10-year yield",
-      "v": "5.12%",
-      "tone": "acc"
-     },
-     {
-      "k": "Level for +10% in 2026",
-      "v": "~7,530",
-      "tone": "acc"
-     }
-    ],
-    "foot": "Due today: retail sales, industrial production, import prices, NAHB"
-   },
-   "detail": [
-    "The S&P 500 closed Monday up about 8% for 2026. It needs to reach roughly 7,530 to end the year up 10%, about 110 points higher. It closed above that level as recently as last Friday.",
-    "A fourth straight year of double-digit gains would be the first since the 1990s. BofA's Michael Hartnett counts only three such streaks since 1871.",
-    "Before the open, futures slipped. Traders get October retail sales (seen up 0.2%), industrial production, import prices and the NAHB builder index, plus Nvidia after the bell."
-   ],
-   "money": [
-    "Year-end targets are noise for long-term savers; stick to a set monthly investing plan.",
-    "If you are rebalancing, a strong multi-year run may mean your stock share has grown past your target.",
-    "With 10-year yields near 5.1%, high-yield savings and Treasurys still pay well for short-term cash."
-   ],
-   "risk": [
-    "A weak Nvidia report or hot data could push stocks further from that 10% mark."
-   ],
-   "sources": [
-    {
-     "t": "Stock market today: Dow, S&P 500 futures slip in countdown to Nvidia earnings",
-     "d": "finance.yahoo.com",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-17-dow-sp-500-nasdaq-nvidia-earnings-091546152.html"
     }
    ]
   }
