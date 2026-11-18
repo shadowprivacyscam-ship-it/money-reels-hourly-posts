@@ -1,6 +1,822 @@
 {
- "updated": "2026-11-18T02:00:00Z",
+ "updated": "2026-11-18T03:00:00Z",
  "items": [
+  {
+   "id": "openai-gpt-62-astra-sol-2026111803",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "markets"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-18T03:00:00Z",
+   "headline": "OpenAI launches GPT-6.2 Astra and Sol; Astra's API price drops 20% to $8 per 1M tokens",
+   "caption": "OpenAI released two new models for work tasks and coding. Early reviews from power users were mixed to harsh.",
+   "visual": {
+    "type": "board",
+    "title": "GPT-6.2 API prices (per 1M tokens)",
+    "rows": [
+     {
+      "k": "Astra input",
+      "s": "was $10 on GPT-6 Astra",
+      "v": "$8",
+      "ch": -20,
+      "tone": "gain"
+     },
+     {
+      "k": "Astra output",
+      "s": "was $50",
+      "v": "$40",
+      "ch": -20,
+      "tone": "gain"
+     },
+     {
+      "k": "Sol input",
+      "s": "unchanged",
+      "v": "$2",
+      "tone": "acc"
+     },
+     {
+      "k": "Sol output",
+      "s": "unchanged",
+      "v": "$10",
+      "tone": "acc"
+     },
+     {
+      "k": "Context window",
+      "v": "1.05M tokens",
+      "tone": "acc"
+     }
+    ],
+    "foot": "VentureBeat, Nov. 17"
+   },
+   "detail": [
+    "OpenAI released GPT-6.2 Astra and GPT-6.2 Sol on Tuesday. Astra is built for big jobs like changing large codebases and building web apps. Sol is the cheaper model for routine coding, writing and multi-step work. Both are in ChatGPT Work and Codex for paid plans, and in the API.",
+    "Astra costs $8 per million input tokens and $40 per million output tokens, 20% less than the older GPT-6 Astra. Sol stays at $2 and $10. OpenAI's own charts show Astra beating its predecessor on all nine tests it published, and one outside index ranks it second, behind Anthropic's Claude Fable 5.2.",
+    "Some well-known testers were unhappy. Several said Astra stopped tasks early or was hard to steer, while others praised it for video and motion graphics work. OpenAI says both models hit its top cybersecurity risk level and ship with tighter controls."
+   ],
+   "money": [
+    "If you pay for AI by the token, a 20% price cut can lower your bill. Test whether the cheaper Sol model is good enough for routine jobs.",
+    "Don't switch your whole workflow on launch day. Run the same task on two or three models and compare results and cost.",
+    "If you invest in AI through index funds, price wars can squeeze margins even as usage grows."
+   ],
+   "risk": [
+    "Early reviews are mixed, so real-world quality may differ from the benchmarks.",
+    "Prices for some fast modes are set to rise in March 2027."
+   ],
+   "sources": [
+    {
+     "t": "'Essentially unusable': OpenAI launches GPT-6.2 Astra and Sol to negative reception from AI power users",
+     "d": "venturebeat.com",
+     "u": "https://venturebeat.com/technology/essentially-unusable-openai-launches-gpt-6-2-astra-and-sol-to-negative-reception-from-ai-power-users"
+    }
+   ]
+  },
+  {
+   "id": "overton-fda-nomination-pulled-2026111803",
+   "type": "news",
+   "cat": "politics",
+   "tags": [
+    "politics",
+    "benefits",
+    "business"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-18T03:00:00Z",
+   "headline": "New: White House pulls Heidi Overton's FDA nomination hours before a Senate panel vote",
+   "caption": "The FDA has had no permanent chief since May. Republicans held only a one-seat edge on the panel, and support was slipping.",
+   "visual": {
+    "type": "timeline",
+    "title": "The FDA leadership gap",
+    "items": [
+     {
+      "d": "MAY",
+      "t": "Makary leaves FDA",
+      "s": "Kyle Diamantas becomes acting chief"
+     },
+     {
+      "d": "AUG 19",
+      "t": "Trump nominates Overton"
+     },
+     {
+      "d": "SEPT",
+      "t": "Senate hearing",
+      "s": "Democrats raise concerns"
+     },
+     {
+      "d": "NOV 17",
+      "t": "Nomination withdrawn",
+      "s": "vote was set for Nov. 18",
+      "now": true
+     },
+     {
+      "d": "NEXT",
+      "t": "New pick or acting chief",
+      "s": "Sen. Roger Marshall floated"
+     }
+    ]
+   },
+   "detail": [
+    "The White House withdrew Heidi Overton's nomination to lead the Food and Drug Administration on Tuesday evening. The Senate health committee had planned to vote on Wednesday. A senior official said she lacked enough support in Congress.",
+    "Outgoing committee chair Bill Cassidy had questioned her lack of management experience and her support for splitting up combination vaccines like MMR. Some abortion opponents and some backers of Health Secretary Robert F. Kennedy Jr. also opposed her.",
+    "Kyle Diamantas has run the FDA as acting commissioner since May. Reports say the White House is weighing new options, including Sen. Roger Marshall of Kansas, who lost his reelection race this month. The agency has lost about 20% of its staff this term."
+   ],
+   "money": [
+    "Drug and medical device approvals depend on a stable FDA. If you own biotech or pharma funds, leadership gaps can add uncertainty.",
+    "Watch for delays or policy shifts on drug approvals that could affect prices for new medicines.",
+    "Broad health care funds spread out the risk of any one FDA decision."
+   ],
+   "risk": [
+    "A long stretch without a confirmed leader could slow some FDA decisions.",
+    "A new nominee may bring different policies on vaccines and drugs."
+   ],
+   "sources": [
+    {
+     "t": "White House yanks Overton nomination hours before committee vote",
+     "d": "biospace.com",
+     "u": "https://www.biospace.com/fda/white-house-yanks-overton-nomination-hours-before-committee-vote"
+    },
+    {
+     "t": "White House withdraws Heidi Overton's FDA nomination on eve of Senate committee vote",
+     "d": "medicaleconomics.com",
+     "u": "https://www.medicaleconomics.com/view/white-house-withdraws-heidi-overton-fda-nomination-on-eve-of-senate-committee-vote"
+    }
+   ]
+  },
+  {
+   "id": "jeffries-lower-medicare-age-2026111803",
+   "type": "news",
+   "cat": "benefits",
+   "tags": [
+    "benefits",
+    "politics"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-18T03:00:00Z",
+   "headline": "Jeffries backs lowering the Medicare age and adding dental, vision and hearing coverage",
+   "caption": "The likely next House Speaker gave no target age. Democrats say their first moves would undo Medicaid cuts and restore ACA subsidies.",
+   "visual": {
+    "type": "points",
+    "title": "What Jeffries called for",
+    "items": [
+     "Lower the Medicare eligibility age (no age named)",
+     "Add vision, hearing and dental to Medicare",
+     "Cover all children in the US",
+     "First: reverse HR 1 Medicaid cuts",
+     "First: restore ACA subsidies that ended in 2025"
+    ]
+   },
+   "detail": [
+    "House Democratic leader Hakeem Jeffries said on Tuesday that the Medicare eligibility age should be lowered. Medicare now starts at 65. He did not say what age he would support.",
+    "He also called for adding vision, hearing and dental coverage to Medicare and covering every child in the country. Jeffries is widely expected to become Speaker on Jan. 3.",
+    "Democrats say their first steps next year would be reversing Medicaid cuts in the HR 1 law and bringing back the bigger ACA premium subsidies that expired at the end of 2025. Sen. Tammy Baldwin introduced a Medicare at 50 bill earlier this month, and House Democrats filed a similar one in October. No costs were given."
+   ],
+   "money": [
+    "If you are in your 50s or early 60s and buy your own insurance, follow these bills. A lower Medicare age could change what you pay.",
+    "For 2027, plan with today's rules: Medicare at 65 and ACA plans without the extra subsidies.",
+    "If you need dental, vision or hearing care, check Medicare Advantage or separate plans now. Any expansion would take time."
+   ],
+   "risk": [
+    "These are proposals. They need to pass both chambers and get signed, and the president can veto.",
+    "No cost or funding plan has been released."
+   ],
+   "sources": [
+    {
+     "t": "Jeffries backs lowering Medicare age, universal coverage for children",
+     "d": "beckerspayer.com",
+     "u": "https://www.beckerspayer.com/policy-updates/jeffries-backs-lowering-medicare-age-universal-coverage-for-children/"
+    }
+   ]
+  },
+  {
+   "id": "japan-exports-record-october-2026111803",
+   "type": "news",
+   "cat": "world",
+   "tags": [
+    "world",
+    "markets",
+    "ai"
+   ],
+   "date": "Wed Nov 18",
+   "ts": "2026-11-18T03:00:00Z",
+   "headline": "Japan's exports hit a record ¥11.8 trillion in October, up 20.5% on AI chip demand",
+   "caption": "Shipments to the US rose 23.9%. Imports climbed even faster on oil costs, so Japan still ran a trade deficit.",
+   "visual": {
+    "type": "board",
+    "title": "Japan trade, October vs. a year ago",
+    "rows": [
+     {
+      "k": "Exports",
+      "s": "forecast +20%",
+      "v": "+20.5%",
+      "ch": 20.5,
+      "tone": "gain"
+     },
+     {
+      "k": "Exports to US",
+      "v": "+23.9%",
+      "ch": 23.9,
+      "tone": "gain"
+     },
+     {
+      "k": "Exports to China",
+      "v": "+13.3%",
+      "ch": 13.3,
+      "tone": "gain"
+     },
+     {
+      "k": "Imports",
+      "s": "forecast +25.8%",
+      "v": "+21.6%",
+      "ch": 21.6,
+      "tone": "loss"
+     },
+     {
+      "k": "Trade balance",
+      "s": "forecast -¥956B",
+      "v": "-¥476.5B",
+      "tone": "loss"
+     }
+    ],
+    "foot": "Reuters, Nov. 18"
+   },
+   "detail": [
+    "Japan's exports rose 20.5% in October from a year earlier, a bit above forecasts. The total, 11.8 trillion yen (about $74 billion), was the highest for any month on record. It was the 14th straight month of growth.",
+    "Chips and chipmaking equipment led the gains, driven by AI spending. Exports to the US rose 23.9% and to China 13.3%. Higher prices also lifted the value of shipments.",
+    "Imports rose 21.6% to a record, mostly from pricier oil and shipping tied to Middle East fighting. That left a deficit of 476.5 billion yen, about half what economists expected. Japan's economy shrank last quarter as shoppers pulled back."
+   ],
+   "money": [
+    "AI demand is lifting chip equipment makers worldwide. A broad international fund gives you some exposure without picking one stock.",
+    "A weak yen near 159 per dollar makes Japan trips cheaper for Americans.",
+    "High oil import costs hurt Japanese households. Energy prices are a key risk to watch in any Japan investment."
+   ],
+   "risk": [
+    "Chip stocks can swing hard if AI spending slows.",
+    "A sudden yen jump could hurt Japanese exporters' profits."
+   ],
+   "sources": [
+    {
+     "t": "Japan exports set record in October on strong chip-related demand",
+     "d": "1049thewolf.com",
+     "u": "https://www.1049thewolf.com/2026/11/17/japan-exports-set-record-in-october-on-strong-chip-related-demand/"
+    }
+   ]
+  },
+  {
+   "id": "australia-wages-jump-q3-2026111803",
+   "type": "news",
+   "cat": "world",
+   "tags": [
+    "world",
+    "markets"
+   ],
+   "date": "Wed Nov 18",
+   "ts": "2026-11-18T03:00:00Z",
+   "headline": "Australia's wages jump 1.1% in a quarter, the fastest pace since late 2023",
+   "caption": "Yearly pay growth rose to 3.5%. A 4.75% award wage rise and raises for nurses and police drove the gain.",
+   "visual": {
+    "type": "vs",
+    "title": "Australia quarterly wage growth",
+    "a": [
+     "June qtr",
+     "0.7%",
+     0.64,
+     "acc"
+    ],
+    "b": [
+     "Sept qtr",
+     "1.1%",
+     1,
+     "gain"
+    ],
+    "foot": "ABS Wage Price Index, Nov. 18"
+   },
+   "detail": [
+    "Australian wages rose 1.1% in the September quarter, the Australian Bureau of Statistics said Wednesday. That is the strongest quarterly gain since the end of 2023, up from 0.7% in the June quarter.",
+    "Over the year, wages grew 3.5%. Private sector pay rose 3.4% and public sector pay 3.9%. Public pay has outpaced private pay for seven quarters in a row.",
+    "The ABS said a 4.75% increase to award wages from the Fair Work Commission drove private pay. In the public sector, new deals for nurses, midwives and police lifted wages."
+   ],
+   "money": [
+    "Faster wage growth can keep inflation sticky, which can keep interest rates higher. That matters for bond and savings yields.",
+    "If you hold Australian stocks or the Aussie dollar, central bank moves after data like this can shift prices.",
+    "Global wage trends are a reminder to ask for a raise that at least keeps up with inflation."
+   ],
+   "risk": [
+    "One strong quarter may not repeat.",
+    "Rate hike fears can weigh on stocks."
+   ],
+   "sources": [
+    {
+     "t": "Highest quarterly wage growth since December quarter 2023",
+     "d": "abs.gov.au",
+     "u": "https://www.abs.gov.au/media-centre/media-releases/highest-quarterly-wage-growth-december-quarter-2023"
+    }
+   ]
+  },
+  {
+   "id": "oil-dips-api-build-houthis-2026111803",
+   "type": "news",
+   "cat": "world",
+   "tags": [
+    "world",
+    "markets"
+   ],
+   "date": "Wed Nov 18",
+   "ts": "2026-11-18T03:00:00Z",
+   "headline": "Oil slips as US crude stocks jump 5.3M barrels; Houthis target a Saudi bypass pipeline",
+   "caption": "Brent dipped to about $93 and WTI to $85.45 in early Asia trade. Fighting near Hormuz kept losses small.",
+   "visual": {
+    "type": "board",
+    "title": "Oil and US stockpiles",
+    "rows": [
+     {
+      "k": "Brent",
+      "s": "0149 GMT Wed",
+      "v": "$92.98",
+      "ch": -0.17,
+      "tone": "loss"
+     },
+     {
+      "k": "WTI",
+      "v": "$85.45",
+      "ch": -0.65,
+      "tone": "loss"
+     },
+     {
+      "k": "US crude stocks",
+      "s": "API, week to Nov 13",
+      "v": "+5.28M bbl",
+      "tone": "acc"
+     },
+     {
+      "k": "Gasoline stocks",
+      "v": "+5.12M bbl",
+      "tone": "acc"
+     },
+     {
+      "k": "Distillates",
+      "v": "+351K bbl",
+      "tone": "acc"
+     }
+    ],
+    "foot": "Reuters via Yahoo Finance"
+   },
+   "detail": [
+    "Oil prices edged down early Wednesday after an industry report showed big gains in US stockpiles. The American Petroleum Institute said crude stocks rose 5.28 million barrels last week and gasoline rose 5.12 million barrels. Official government data comes later Wednesday.",
+    "Brent fell 16 cents to $92.98 a barrel, and US crude fell 56 cents to $85.45. Both had closed higher Tuesday.",
+    "The Middle East kept prices from falling far. Bahrain said it intercepted more Iranian attacks, and Yemen's Houthis said they sent drones at pumping stations on Saudi Arabia's East-West pipeline. Saudi Arabia uses that line to send oil around the Strait of Hormuz."
+   ],
+   "money": [
+    "Bigger gasoline stockpiles can ease pump prices over time. Don't prepay for fuel at a high price.",
+    "Energy funds swing with headlines from the Gulf. Keep any energy bet small.",
+    "If oil stays near $90, airline and shipping costs may stay high. Book holiday travel early."
+   ],
+   "risk": [
+    "A strike that closes the Saudi pipeline could send prices sharply higher.",
+    "Industry data can differ from government figures."
+   ],
+   "sources": [
+    {
+     "t": "Oil prices fall as higher US crude stocks temper supply risks",
+     "d": "finance.yahoo.com",
+     "u": "https://finance.yahoo.com/energy/articles/oil-prices-fall-higher-us-021611633.html"
+    }
+   ]
+  },
+  {
+   "id": "scotus-ice-no-bond-detention-2026111803",
+   "type": "news",
+   "cat": "immigration",
+   "tags": [
+    "immigration",
+    "politics"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-18T03:00:00Z",
+   "headline": "Supreme Court will decide if ICE can hold immigrants without bond during deportation cases",
+   "caption": "Federal appeals courts are split 6-2 against the government. Arguments are expected next year.",
+   "visual": {
+    "type": "stat",
+    "title": "Split in the appeals courts",
+    "num": "6–2",
+    "tone": "acc",
+    "label": "Circuits ruling against vs. for mandatory detention without bond",
+    "facts": [
+     [
+      "Against the government",
+      "6 circuits",
+      "found detention unjustified in many cases"
+     ],
+     [
+      "For the government",
+      "8th and 5th",
+      "allowed detention without bond"
+     ],
+     [
+      "Minnesota petitions",
+      "1,000+",
+      "habeas cases from Operation Metro Surge"
+     ]
+    ]
+   },
+   "detail": [
+    "The Supreme Court agreed to decide whether immigration authorities can hold people without a bond hearing while their deportation cases move forward. Arguments are expected next year.",
+    "Lower courts disagree. The 8th and 5th Circuits sided with the government, while six other circuits ruled that mandatory detention was not justified in many cases.",
+    "In Minnesota, Operation Metro Surge led to more than 1,000 court petitions from people who said they were wrongly held. Judges there often ordered releases or bond hearings. The Justice Department has called those rulings wrong."
+   ],
+   "money": [
+    "Families facing immigration cases should talk to a licensed immigration lawyer early. Bond rules may change by mid-2027.",
+    "Bond money can be large. Ask about payment options and get receipts for any bond posted.",
+    "Beware of scams that promise quick release for a fee."
+   ],
+   "risk": [
+    "Until the ruling, rules depend on which circuit a person is held in.",
+    "This is general information, not legal advice."
+   ],
+   "sources": [
+    {
+     "t": "Can ICE hold detainees indefinitely? Supreme Court will decide",
+     "d": "fox9.com",
+     "u": "https://www.fox9.com/news/can-ice-hold-detainees-indefinitely-supreme-court-will-decide"
+    }
+   ]
+  },
+  {
+   "id": "small-biz-tariff-refunds-lag-2026111803",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business",
+    "politics"
+   ],
+   "date": "This week",
+   "ts": "2026-11-18T03:00:00Z",
+   "headline": "Small firms are getting back far less in tariff refunds; one spice shop got $12.56",
+   "caption": "Massachusetts small businesses paid about $151,000 on average and got roughly $53,000 back. A class action seeks automatic refunds.",
+   "visual": {
+    "type": "vs",
+    "title": "Mass. small business tariff refunds",
+    "a": [
+     "Paid (avg)",
+     "$151K",
+     1,
+     "loss"
+    ],
+    "b": [
+     "Refunded (avg)",
+     "$53K",
+     0.35,
+     "acc"
+    ],
+    "foot": "Center for American Progress via GBH"
+   },
+   "detail": [
+    "Many small businesses are struggling to get back tariffs that the Supreme Court struck down. To claim a refund, importers must find each shipment's entry number and file through a special portal. Owners say the process is slow and confusing.",
+    "Cambridge's Curio Spices paid about $14,000 in tariffs and asked for $10,000, but received $12.56. A Center for American Progress report found Massachusetts small firms paid $151,000 on average and got about $53,000 back. Small businesses make up 97% of US importers.",
+    "A class action in the Court of International Trade asks for automatic refunds for more than 330,000 importers. About $166 billion is at stake. The Justice Department must respond to that request by Dec. 9."
+   ],
+   "money": [
+    "If your business paid these tariffs, gather your entry numbers and customs records now.",
+    "If you used a third-party importer or broker, ask them in writing about your refund status.",
+    "Track the class action. If it wins, refunds could arrive without each firm filing alone."
+   ],
+   "risk": [
+    "The administration is appealing the universal refund order, so timing is uncertain.",
+    "Interest paid on loans to cover tariffs is generally not refunded."
+   ],
+   "sources": [
+    {
+     "t": "These Mass. businesses are waiting on tariff refunds. Others aren't holding their breath.",
+     "d": "wgbh.org",
+     "u": "https://www.wgbh.org/news/local/2026-11-16/these-mass-businesses-are-waiting-on-tariff-refunds-others-arent-holding-their-breath"
+    },
+    {
+     "t": "American importers are one step closer to receiving $166 billion in universal rebates",
+     "d": "fortune.com",
+     "u": "https://fortune.com/2026/11/12/tariff-refund-class-action-lawsuit-universal-tariff-refunds-trump-administration/"
+    }
+   ]
+  },
+  {
+   "id": "accor-ennismore-buyout-2026111803",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-18T03:00:00Z",
+   "headline": "Accor to pay about $1.76B to buy out partners in Ennismore, owner of Hoxton and Mondrian",
+   "caption": "The deal values the lifestyle hotel group at about $4.07 billion. Accor is shelving an IPO for now.",
+   "visual": {
+    "type": "deals",
+    "title": "Accor's Ennismore buyout",
+    "items": [
+     {
+      "a": "Accor",
+      "b": "25.4% of Ennismore",
+      "amt": "by Jan 2027",
+      "st": "first stage",
+      "c": "pend"
+     },
+     {
+      "a": "Accor",
+      "b": "6.3% more",
+      "amt": "by Jul 2027",
+      "st": "second stage",
+      "c": "pend"
+     },
+     {
+      "a": "Accor",
+      "b": "12.6% more",
+      "amt": "by Jan 2028",
+      "st": "final stage",
+      "c": "pend"
+     },
+     {
+      "a": "Total",
+      "b": "44.3% stake",
+      "amt": "€1.6B",
+      "st": "values Ennismore at €3.7B",
+      "c": "ok"
+     }
+    ]
+   },
+   "detail": [
+    "French hotel giant Accor will pay about €1.6 billion ($1.76 billion) to buy out minority owners of Ennismore, including its co-founder. The deal values Ennismore at about €3.7 billion, roughly 18 times expected 2027 earnings.",
+    "Ennismore runs nearly 200 hotels and more than 800 restaurants and bars in 40 countries. Its brands include The Hoxton, Mama Shelter, SLS, Mondrian, Rixos and Faena. It is about 5% of Accor's rooms but roughly 20% of its recurring earnings.",
+    "Accor will buy the 44.3% stake in three steps through January 2028. It plans to pay with asset sales, a new credit line and possibly shares. It says there is no IPO for now."
+   ],
+   "money": [
+    "Lifestyle hotel brands earn more per room. That is why big chains pay up for them.",
+    "If you collect hotel points, check how Accor's loyalty program covers these brands before booking.",
+    "Watch for Accor asset sales, which could change who runs some hotels."
+   ],
+   "risk": [
+    "Accor is taking on more debt to fund the deal.",
+    "Travel demand can drop fast in a downturn."
+   ],
+   "sources": [
+    {
+     "t": "Accor to Buy Out Ennismore Partners for $1.8 Billion — No IPO for Now",
+     "d": "skift.com",
+     "u": "https://skift.com/2026/11/17/accor-to-buy-out-ennismore-partners-for-1-8-billion-no-ipo-for-now/"
+    }
+   ]
+  },
+  {
+   "id": "cftc-nominees-prediction-markets-2026111803",
+   "type": "news",
+   "cat": "crypto",
+   "tags": [
+    "crypto",
+    "politics"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-18T03:00:00Z",
+   "headline": "CFTC nominees face sports betting questions as states fight it over prediction markets",
+   "caption": "Trump's picks, Democrat Matthew Rowland and Republican Nathan Anonick, faced the Senate Agriculture panel. Time is short before the new Congress.",
+   "visual": {
+    "type": "points",
+    "title": "The prediction market fight",
+    "items": [
+     "Nominees: Matthew Rowland (D), Nathan Anonick (R)",
+     "CFTC claims exclusive power over event contracts",
+     "States say platforms run illegal gambling",
+     "Nearly a dozen states and the CFTC are suing each other",
+     "Nominations likely restart in January if not confirmed"
+    ]
+   },
+   "detail": [
+    "The Senate Agriculture Committee held a hearing Tuesday on two CFTC nominees: Democrat Matthew Rowland and Republican Nathan Anonick. Senators focused on prediction markets and sports bets.",
+    "Sen. Tina Smith argued that states and tribes control sports gambling. Rowland pointed to a CFTC rule that bars some event contracts, such as those on gaming, war and terrorism, and said he would work with states. Anonick said the agency can decide whether a contract is against the public interest.",
+    "Under Chair Michael Selig, now the only commissioner, the CFTC claims exclusive power over event contracts. Nearly a dozen states and the agency have sued each other, and courts have split. The fight could reach the Supreme Court."
+   ],
+   "money": [
+    "If you use prediction market apps, know that rules could change by state. Don't keep large balances on any one platform.",
+    "Treat event contracts like bets. Only use money you can afford to lose.",
+    "Winnings may be taxable. Keep records of deposits, withdrawals and results."
+   ],
+   "risk": [
+    "Court rulings could force some platforms to block users in certain states.",
+    "A short-handed commission may move slowly on new rules."
+   ],
+   "sources": [
+    {
+     "t": "Trump's CFTC picks face Senate scrutiny as prediction market turf war heats up",
+     "d": "theblock.co",
+     "u": "https://www.theblock.co/news/regulation/2026-11-17-trumps-cftc-picks-face-senate-scrutiny-as-prediction-market-turf-war-heats-up-442909"
+    }
+   ]
+  },
+  {
+   "id": "crypto-stablecoin-exodus-eth-1800-2026111803",
+   "type": "news",
+   "cat": "crypto",
+   "tags": [
+    "crypto",
+    "markets"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-18T03:00:00Z",
+   "headline": "Ether dips under $1,800 as stablecoin cash exits crypto at the fastest pace since 2022",
+   "caption": "Bitcoin ended Tuesday near $63,990, down 13% in a week. Stablecoin supply fell about $15.6 billion in 30 days.",
+   "visual": {
+    "type": "stat",
+    "title": "Crypto, Tuesday evening",
+    "num": "-13%",
+    "tone": "loss",
+    "label": "Bitcoin's drop over the past 7 days",
+    "rows": [
+     [
+      "Bitcoin (24h)",
+      -1.29
+     ],
+     [
+      "Ether (24h)",
+      -1.22
+     ],
+     [
+      "Solana (24h)",
+      2.15
+     ],
+     [
+      "BNB (7d)",
+      -12.8
+     ]
+    ]
+   },
+   "detail": [
+    "Bitcoin fell 1.29% to about $63,990 Tuesday evening and is down about 13% over the past week. Ether dropped 1.22% to $1,796.92, below the $1,800 mark. Solana bucked the trend with a 2.15% gain.",
+    "CoinDesk data cited by The Motley Fool shows money leaving crypto through stablecoins at the fastest pace since 2022. Stablecoin supply was about $287.1 billion on Nov. 16, down $15.6 billion in 30 days.",
+    "Spot bitcoin ETFs lost about $1.9 billion over seven straight days through Nov. 13. That streak has ended, but analysts say a lasting return of big buyers has not shown up yet. Some warn bitcoin could test $60,000."
+   ],
+   "money": [
+    "Shrinking stablecoin supply means less cash on the sidelines to buy. Be patient before adding money.",
+    "If you buy, use small fixed amounts over time instead of one big purchase.",
+    "Selling at a loss can offset gains on your taxes. Check the rules with a tax pro."
+   ],
+   "risk": [
+    "Prices could fall further if the Fed raises rates.",
+    "Crypto has no deposit insurance."
+   ],
+   "sources": [
+    {
+     "t": "Crypto Market Today, Nov. 17: A Warning Sign Not Seen Since 2022 Is Flashing Across Cryptocurrency Markets",
+     "d": "fool.com",
+     "u": "https://www.fool.com/coverage/stock-market-today/2026/11/17/crypto-market-today-nov-17-a-warning-sign-not-seen-since-2022-is-flashing-across-cryptocurrency-markets/"
+    },
+    {
+     "t": "Capital flows: Bitcoin ETFs post seven days of outflows as funding turns positive and open interest falls",
+     "d": "goodman-macro.com",
+     "u": "https://www.goodman-macro.com/en/articles/20261117-crypto-flows/"
+    }
+   ]
+  },
+  {
+   "id": "edu-trade-deficit-record-exports-2026111803",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "world"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-18T03:00:00Z",
+   "headline": "Record exports, still a deficit: how Japan did both",
+   "caption": "Japan sold more than ever in October and still ran a trade deficit. Here's how the math works.",
+   "scenes": [
+    {
+     "k": "TODAY'S NEWS",
+     "t": "Japan's exports hit a record",
+     "s": "October exports reached ¥11.8 trillion, up 20.5%."
+    },
+    {
+     "k": "THE TWIST",
+     "t": "It still ran a trade deficit",
+     "s": "Imports were even bigger, at a record ¥12.2 trillion."
+    },
+    {
+     "k": "THE FORMULA",
+     "t": "Exports minus imports",
+     "viz": {
+      "type": "split",
+      "items": [
+       [
+        "Exports",
+        "¥11.8T"
+       ],
+       [
+        "Imports",
+        "¥12.2T"
+       ],
+       [
+        "Balance",
+        "-¥476.5B",
+        "wide"
+       ]
+      ]
+     },
+     "say": "Exports of 11.8 trillion yen minus imports of 12.2 trillion yen left a deficit of about 476 billion yen."
+    },
+    {
+     "k": "WHY IMPORTS ROSE",
+     "t": "Oil got more expensive",
+     "s": "Pricier crude and shipping tied to Middle East fighting raised the import bill."
+    },
+    {
+     "k": "WHAT IT MEANS",
+     "t": "A deficit isn't always bad",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "Strong demand abroad",
+       "Exports rise",
+       "Energy costs rise faster",
+       "Deficit shrinks or grows"
+      ]
+     },
+     "s": "It often reflects prices, not weak sales."
+    },
+    {
+     "k": "YOUR TAKEAWAY",
+     "t": "Watch energy costs",
+     "s": "For countries that import oil, energy prices can decide the trade balance and household budgets."
+    }
+   ]
+  },
+  {
+   "id": "edu-event-contracts-prediction-markets-2026111803",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "crypto"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-18T03:00:00Z",
+   "headline": "Prediction markets: how a $1 event contract works",
+   "caption": "The CFTC fight is about event contracts. Here's what you're actually buying.",
+   "scenes": [
+    {
+     "k": "TODAY'S NEWS",
+     "t": "The prediction market fight",
+     "s": "CFTC nominees faced questions on sports bets as states and the agency clash."
+    },
+    {
+     "k": "THE BASICS",
+     "t": "A yes-or-no contract",
+     "s": "Each contract pays $1 if an event happens and $0 if it doesn't."
+    },
+    {
+     "k": "THE PRICE",
+     "t": "Price is the crowd's odds",
+     "viz": {
+      "type": "split",
+      "items": [
+       [
+        "Price",
+        "$0.30"
+       ],
+       [
+        "Pays if yes",
+        "$1.00"
+       ],
+       [
+        "Implied odds",
+        "about 30%",
+        "wide"
+       ]
+      ]
+     },
+     "say": "If a yes contract costs 30 cents and pays a dollar, the market is saying about a 30 percent chance."
+    },
+    {
+     "k": "HOW YOU WIN",
+     "t": "Buy low, be right",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "Buy yes at $0.30",
+       "Event happens",
+       "Collect $1.00",
+       "Profit $0.70 before fees"
+      ]
+     }
+    },
+    {
+     "k": "HOW YOU LOSE",
+     "t": "Wrong means $0",
+     "s": "If the event doesn't happen, the whole $0.30 is gone. Fees cut into wins too."
+    },
+    {
+     "k": "YOUR TAKEAWAY",
+     "t": "Treat it like a bet",
+     "s": "Use only money you can lose, keep records for taxes, and check your state's rules."
+    }
+   ]
+  },
   {
    "id": "asia-rebounds-nvidia-beat-2026111802",
    "type": "news",
@@ -11181,805 +11997,6 @@
      "t": "NIKE, Inc. Investor Day release (Form 8-K exhibit)",
      "d": "sec.gov",
      "u": "https://www.sec.gov/Archives/edgar/data/0000320187/000032018726000207/q2fy27exhibit991investorday.htm"
-    }
-   ]
-  },
-  {
-   "id": "jpm-new-cfo-2026111715",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business",
-    "markets"
-   ],
-   "date": "Tue Nov 17",
-   "ts": "2026-11-17T15:00:00Z",
-   "headline": "JPMorgan names Bregje de Best its next CFO; Jeremy Barnum becomes vice chairman",
-   "caption": "De Best, now finance chief of JPMorgan's investment bank, takes over after first-quarter 2027 results. The stock dipped about 1.2%.",
-   "visual": {
-    "type": "timeline",
-    "title": "JPMorgan CFO handoff",
-    "items": [
-     {
-      "d": "NOV 17",
-      "t": "Succession announced",
-      "now": true
-     },
-     {
-      "d": "JAN 2027",
-      "t": "Barnum leads Q4 earnings"
-     },
-     {
-      "d": "FEB 2027",
-      "t": "Investor Day, led by Barnum"
-     },
-     {
-      "d": "APR 2027",
-      "t": "De Best takes over after Q1 report"
-     }
-    ]
-   },
-   "detail": [
-    "JPMorgan Chase said Bregje de Best, CFO of its Commercial & Investment Bank, will become the firm's chief financial officer. She will join the bank's Operating Committee.",
-    "Jeremy Barnum, CFO since 2021, will become a vice chairman and stay until early 2028 to advise CEO Jamie Dimon. He will still lead the January and April 2027 earnings calls and the February Investor Day.",
-    "The stock slipped about 1.2% early Tuesday. Leadership moves at JPMorgan get close attention because investors are watching who could eventually succeed Dimon."
-   ],
-   "money": [
-    "Big bank stocks often pay steady dividends; leadership news rarely changes that, so don't overreact to a 1% dip.",
-    "If you bank with Chase, nothing changes for your accounts.",
-    "Watch the February Investor Day for updated profit targets that can move bank stocks."
-   ],
-   "risk": [
-    "Executive changes can signal strategy shifts.",
-    "Bank stocks are sensitive to rate moves."
-   ],
-   "sources": [
-    {
-     "t": "JPMorgan Chase press release, Nov. 17, 2026 (Form 8-K)",
-     "d": "sec.gov",
-     "u": "https://www.sec.gov/Archives/edgar/data/0000019617/000001961726000407/jpmcpressrelease11172026.htm"
-    },
-    {
-     "t": "Nasdaq slips as Wall Street awaits Nvidia earnings and Anthropic IPO",
-     "d": "finwire.io",
-     "u": "https://finwire.io/news/stock-markets-news/nasdaq-slips-as-wall-street-awaits-nvidia-earnings-and-anthropic-ipo"
-    }
-   ]
-  },
-  {
-   "id": "ul-worldly-350m-2026111715",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business",
-    "california"
-   ],
-   "date": "Tue Nov 17",
-   "ts": "2026-11-17T15:00:00Z",
-   "headline": "UL Solutions agrees to buy California supply-chain data firm Worldly for $350 million",
-   "caption": "Worldly tracks carbon, water, chemicals and labor data for consumer brands. The deal is set to close in early 2027.",
-   "visual": {
-    "type": "deals",
-    "title": "UL Solutions buys Worldly",
-    "items": [
-     {
-      "a": "UL Solutions",
-      "b": "Worldly",
-      "amt": "$350M",
-      "st": "Close expected Q1 2027",
-      "c": "pend"
-     }
-    ]
-   },
-   "detail": [
-    "UL Solutions, a safety science company, agreed to acquire Worldly at an enterprise value of $350 million. Worldly is a California-based platform for supply chain sustainability data.",
-    "Worldly launched in 2019 to host the Higg Index used by apparel brands. It now tracks carbon, water, chemicals and labor data across products, factories and supply chains.",
-    "Worldly will join UL's risk and compliance software business. UL says the deal supports its push to grow software sales."
-   ],
-   "money": [
-    "Supply-chain compliance software is a growing niche; small firms with that skill set can be takeover targets.",
-    "Brands that track sourcing data can face fewer costly recalls and fines, which matters for long-term holders.",
-    "Workers with ESG data or compliance skills are in demand; it can be a good area to upskill."
-   ],
-   "risk": [
-    "Deals can still fail to close.",
-    "ESG rules may loosen, cutting demand for such tools."
-   ],
-   "sources": [
-    {
-     "t": "UL Solutions to Acquire Supply Chain Sustainability Data Platform Worldly for $350 Million",
-     "d": "esgtoday.com",
-     "u": "https://esgtoday.com/ul-solutions-to-acquire-supply-chain-sustainability-data-platform-worldly-for-350-million"
-    }
-   ]
-  },
-  {
-   "id": "texas-data-center-tax-breaks-2026111715",
-   "type": "news",
-   "cat": "states",
-   "tags": [
-    "states",
-    "taxes",
-    "ai"
-   ],
-   "date": "Tue Nov 17",
-   "ts": "2026-11-17T15:00:00Z",
-   "headline": "Texas towns give up $1 billion+ in taxes to data centers for just 465 promised jobs",
-   "caption": "A Texas Tribune review found 53 tax deals for 34 data centers. About half require no jobs at all.",
-   "visual": {
-    "type": "board",
-    "title": "Biggest Texas data center deals",
-    "rows": [
-     {
-      "k": "Meta, El Paso",
-      "s": "~80% waived, 35 yrs",
-      "v": "$550M",
-      "tone": "loss"
-     },
-     {
-      "k": "Meta, Fort Worth",
-      "s": "rebate over 20 yrs",
-      "v": "$271M+",
-      "tone": "loss"
-     },
-     {
-      "k": "Google, Red Oak",
-      "s": "up to 85% abated",
-      "v": "40 jobs",
-      "tone": "acc"
-     },
-     {
-      "k": "All deals",
-      "s": "53 agreements",
-      "v": "465 jobs",
-      "tone": "acc"
-     }
-    ],
-    "foot": "Source: Texas Tribune analysis"
-   },
-   "detail": [
-    "Texas cities and counties are giving up at least $1 billion in local property taxes to data centers, a Texas Tribune analysis found. It counted 53 agreements covering 34 data centers, likely an undercount since the state doesn't track them.",
-    "The deals guarantee 465 jobs in total, and roughly half have no job requirement. Meta's El Paso deal waives about 80% of taxes over 35 years, worth about $550 million, for 50 jobs.",
-    "Most deals use state laws that let them last indefinitely. Lawmakers have filed bills for the 2027 session to end data center incentives or require public disclosure."
-   ],
-   "money": [
-    "Local tax breaks can shift costs onto homeowners; check your county's budget hearings and protest your appraisal if it rises.",
-    "Data center growth can raise power demand and bills; compare electricity plans if you live in Texas' deregulated market.",
-    "Construction and electrician jobs near new data centers can pay well, even if permanent jobs are few."
-   ],
-   "risk": [
-    "The true cost may be higher; many deals use shell names.",
-    "Lawmakers could change incentives in 2027."
-   ],
-   "sources": [
-    {
-     "t": "Texas cities and counties forgo $1 billion in local taxes to data centers in exchange for minimal job guarantees",
-     "d": "click2houston.com",
-     "u": "https://www.click2houston.com/news/texas/2026/11/17/texas-cities-and-counties-forgo-1-billion-in-local-taxes-to-data-centers-in-exchange-for-minimal-job-guarantees/"
-    },
-    {
-     "t": "Texas cities and counties forgo $1 billion in local taxes to data centers",
-     "d": "ksat.com",
-     "u": "https://www.ksat.com/news/texas/2026/11/17/texas-cities-and-counties-forgo-1-billion-in-local-taxes-to-data-centers-in-exchange-for-minimal-job-guarantees/"
-    }
-   ]
-  },
-  {
-   "id": "illinois-aca-2027-2026111715",
-   "type": "news",
-   "cat": "benefits",
-   "tags": [
-    "benefits",
-    "states"
-   ],
-   "date": "Tue Nov 17",
-   "ts": "2026-11-17T15:00:00Z",
-   "headline": "Illinois ACA plans jump 10% to 14% for 2027 as Cigna and Molina leave the market",
-   "caption": "A 21-year-old in Cook County will pay $322.60 a month for the cheapest bronze plan before subsidies. Sign up by Dec. 15 for Jan. 1 coverage.",
-   "visual": {
-    "type": "board",
-    "title": "Cook County, age 21, lowest-cost plans",
-    "rows": [
-     {
-      "k": "Bronze",
-      "s": "was $291.94",
-      "v": "$322.60",
-      "ch": 10.5,
-      "tone": "loss"
-     },
-     {
-      "k": "Silver",
-      "s": "was $388.75",
-      "v": "$440.08",
-      "ch": 13.2,
-      "tone": "loss"
-     },
-     {
-      "k": "Deadline",
-      "s": "for Jan. 1 coverage",
-      "v": "Dec 15",
-      "tone": "acc"
-     }
-    ],
-    "foot": "Monthly prices before subsidies"
-   },
-   "detail": [
-    "Average monthly premiums for the cheapest bronze, silver and gold plans in Illinois are 10% to 14% higher for 2027, the state Department of Insurance says. Nationally, mid-level plans are up about 13%, per KFF.",
-    "Cigna and Molina will stop selling exchange plans in Illinois after this year. Cook County gains a few plans from Oscar, UnitedHealthcare and Celtic, but several collar counties will have fewer choices.",
-    "Enhanced federal subsidies ended after 2025, so fewer people qualify and many get less help. Illinois now runs its own site, GetCovered.Illinois.gov. Enroll by Dec. 15 for Jan. 1 coverage or by Jan. 15 for Feb. 1."
-   ],
-   "money": [
-    "If your Cigna or Molina plan is ending, pick a new plan by Dec. 15 to avoid a coverage gap.",
-    "Compare bronze and silver: if you qualify for cost-sharing help, a silver plan can cut your deductible a lot.",
-    "Don't auto-renew; prices and networks changed, so shop again to avoid overpaying."
-   ],
-   "risk": [
-    "Subsidy rules could change if Congress acts, but maybe not in time for this enrollment.",
-    "Cheaper plans often have higher deductibles."
-   ],
-   "sources": [
-    {
-     "t": "Illinois consumers see higher prices and fewer choices for Obamacare health insurance",
-     "d": "dailyherald.com",
-     "u": "https://dailyherald.com/20261117/health-care/illinois-consumers-see-higher-prices-and-fewer-choices-for-obamacare-health-insurance"
-    }
-   ]
-  },
-  {
-   "id": "bia-10-day-appeals-2026111715",
-   "type": "news",
-   "cat": "immigration",
-   "tags": [
-    "immigration",
-    "politics"
-   ],
-   "date": "Tue Nov 17",
-   "ts": "2026-11-17T15:00:00Z",
-   "headline": "DOJ finalizes a rule cutting most immigration appeal deadlines from 30 days to 10",
-   "caption": "The rule revives parts of a policy a federal judge blocked in March. It takes effect about 30 days after publication and covers new cases only.",
-   "visual": {
-    "type": "timeline",
-    "title": "The appeal deadline rule",
-    "items": [
-     {
-      "d": "FEB 6",
-      "t": "DOJ issues interim rule"
-     },
-     {
-      "d": "MAR 8",
-      "t": "Judge sets parts aside",
-      "s": "Skipped public comment"
-     },
-     {
-      "d": "NOV 17",
-      "t": "Final rule published",
-      "now": true
-     },
-     {
-      "d": "~DEC",
-      "t": "Takes effect for new cases",
-      "s": "About 30 days later"
-     }
-    ]
-   },
-   "detail": [
-    "The Justice Department's final rule cuts the deadline to appeal many immigration judge decisions to the Board of Immigration Appeals from 30 days to 10. Some asylum cases keep 30 days. Appeal notices must also list the issues being raised.",
-    "A federal judge set aside parts of an earlier version in March because DOJ skipped the notice-and-comment process. The new final rule is set for publication Nov. 17 and applies to cases filed after it takes effect; pending cases keep the longer window.",
-    "DOJ points to a backlog that grew from 35,837 pending appeals in fiscal 2017 to 325,774 in fiscal 2026. Critics say 10 days may be too short for detained or unrepresented people. More legal challenges are expected."
-   ],
-   "money": [
-    "Anyone in immigration court should line up a lawyer or accredited representative before a decision comes, not after.",
-    "Free or low-cost legal help exists through nonprofit legal aid groups; contact them early to avoid missing the shorter deadline.",
-    "Employers with immigrant workers may want to review how case outcomes could affect staffing plans."
-   ],
-   "risk": [
-    "The rule may be challenged in court again.",
-    "Missing a deadline can end an appeal."
-   ],
-   "sources": [
-    {
-     "t": "Immigrants Face 10-Day Deportation Appeal Deadline After Court Block",
-     "d": "newsweek.com",
-     "u": "https://www.newsweek.com/immigrants-10-day-deportation-appeal-deadline-after-court-block-12723646"
-    },
-    {
-     "t": "Appellate Procedures for the Board of Immigration Appeals",
-     "d": "federalregister.gov",
-     "u": "https://www.federalregister.gov/documents/2026/11/17/2026-23320/appellate-procedures-for-the-board-of-immigration-appeals"
-    }
-   ]
-  },
-  {
-   "id": "diesel-below-6-2026111715",
-   "type": "news",
-   "cat": "world",
-   "tags": [
-    "world",
-    "markets"
-   ],
-   "date": "Tue Nov 17",
-   "ts": "2026-11-17T15:00:00Z",
-   "headline": "Diesel falls below $6 for the first time since September as oil eases",
-   "caption": "Brent slipped to about $92.93 as supply looks ample. US gasoline is at its lowest since March.",
-   "visual": {
-    "type": "board",
-    "title": "Energy prices, Tuesday",
-    "rows": [
-     {
-      "k": "Brent crude",
-      "s": "per barrel",
-      "v": "$92.93",
-      "tone": "gain"
-     },
-     {
-      "k": "US crude",
-      "s": "per barrel",
-      "v": "$86.23",
-      "tone": "gain"
-     },
-     {
-      "k": "Diesel",
-      "s": "first time since early Sept.",
-      "v": "< $6/gal",
-      "tone": "gain"
-     },
-     {
-      "k": "IEA surplus",
-      "s": "this quarter",
-      "v": "~2M bbl/day",
-      "tone": "acc"
-     }
-    ]
-   },
-   "detail": [
-    "Brent crude fell 49 cents to $92.93 early Tuesday and US crude slid to $86.23. Brent is still up more than 50% this year but sits near its lowest level since August.",
-    "Strong Middle East supply and a forecast surplus of about 2 million barrels a day from the IEA are weighing on prices. Ships were again attacked around the Strait of Hormuz, and a third US carrier group reached the region.",
-    "US gasoline prices are at their lowest since March. Average diesel fell below $6 a gallon for the first time since early September."
-   ],
-   "money": [
-    "Lower diesel can ease trucking costs and, over time, grocery and shipping prices.",
-    "If you heat with oil, consider locking in a price while it's falling, but watch for a rebound.",
-    "Use gas price apps to fill up at the cheapest station; prices are dropping unevenly."
-   ],
-   "risk": [
-    "Any big Hormuz escalation could send prices back up quickly.",
-    "Energy stocks can fall as oil drops."
-   ],
-   "sources": [
-    {
-     "t": "Oil prices swing as vessel attacks reported around Hormuz",
-     "d": "ttnews.com",
-     "u": "https://www.ttnews.com/articles/oil-prices-vessel-attacks"
-    }
-   ]
-  },
-  {
-   "id": "roth-catchup-155k-2026111715",
-   "type": "news",
-   "cat": "taxes",
-   "tags": [
-    "taxes",
-    "benefits"
-   ],
-   "date": "Tue Nov 17",
-   "ts": "2026-11-17T15:00:00Z",
-   "headline": "High earners 50+: the Roth catch-up wage line rises to $155,000 for 2027",
-   "caption": "If your 2026 pay tops $155,000, your 2027 401(k) catch-up must go in as Roth. Plans without a Roth option may block catch-ups entirely.",
-   "visual": {
-    "type": "board",
-    "title": "2027 catch-up rules",
-    "rows": [
-     {
-      "k": "Roth-only wage line",
-      "s": "based on 2026 FICA wages",
-      "v": "$155,000",
-      "tone": "acc"
-     },
-     {
-      "k": "Catch-up, 50+",
-      "s": "was $8,000",
-      "v": "$8,500",
-      "tone": "gain"
-     },
-     {
-      "k": "Super catch-up, 60-63",
-      "s": "was $11,250",
-      "v": "$11,750",
-      "tone": "gain"
-     },
-     {
-      "k": "401(k) limit",
-      "s": "was $24,500",
-      "v": "$25,500",
-      "tone": "gain"
-     }
-    ]
-   },
-   "detail": [
-    "Under SECURE 2.0, workers 50 and older who earn above a set wage line must make 401(k) catch-up contributions as Roth, after tax. The IRS raised that line from $150,000 to $155,000 for 2027.",
-    "The test uses the Social Security wages your employer paid you in 2026, not your 2027 pay. If your plan offers no Roth option, you may not be able to make catch-up contributions at all.",
-    "The 2027 catch-up rises to $8,500, and the 'super catch-up' for ages 60 to 63 rises to $11,750. The IRS announced the figures Nov. 12."
-   ],
-   "money": [
-    "Check your 2026 W-2 wages, including bonuses; if you'll top $155,000, ask HR whether your plan has a Roth option.",
-    "You can still max your 2026 401(k) before Dec. 31; unused room doesn't carry over.",
-    "Roth catch-ups cost more in tax now but grow tax-free; that can pay off if you expect higher taxes in retirement."
-   ],
-   "risk": [
-    "Paying tax upfront means a smaller take-home check.",
-    "Plan rules vary; confirm details with your employer."
-   ],
-   "sources": [
-    {
-     "t": "IRS issues critical 2027 retirement changes: New Roth rules, higher limits",
-     "d": "finance.yahoo.com",
-     "u": "https://finance.yahoo.com/markets/options/articles/irs-issues-critical-2027-retirement-121500244.html"
-    }
-   ]
-  },
-  {
-   "id": "ca-el-nino-flood-gap-2026111715",
-   "type": "news",
-   "cat": "california",
-   "tags": [
-    "california",
-    "benefits"
-   ],
-   "date": "This week",
-   "ts": "2026-11-17T15:00:00Z",
-   "headline": "Strong El Niño ahead, but just 1.4% of California homeowners have flood insurance",
-   "caption": "NOAA sees about a 60% chance of a record-strength El Niño. Most new flood policies need 30 days to start.",
-   "visual": {
-    "type": "stat",
-    "title": "California flood insurance gap",
-    "num": "1.4%",
-    "tone": "loss",
-    "label": "Share of California homeowners with flood insurance.",
-    "facts": [
-     [
-      "High-risk homes",
-      "~183,000",
-      "in FEMA flood zones"
-     ],
-     [
-      "Of those uninsured",
-      "65%",
-      "no federal coverage"
-     ],
-     [
-      "Wait time",
-      "30 days",
-      "for most new policies"
-     ]
-    ]
-   },
-   "detail": [
-    "NOAA expects a very strong El Niño this winter, with roughly a 60% chance it beats every one since 1950. That usually brings wetter weather to California, peaking from December through March.",
-    "Only 1.4% of California homeowners carry flood insurance, per a Neptune Flood analysis, versus about 4% nationally. About 183,000 homes sit in FEMA high-risk flood zones, and 65% of those have no federal flood coverage, Insurify found.",
-    "West Coast El Niño winters average about 19% more intense storms. Regular homeowners policies don't cover flooding, and most new flood policies have a 30-day waiting period."
-   ],
-   "money": [
-    "Buy flood insurance now if you need it; the 30-day wait means waiting for a storm is too late.",
-    "Check FEMA's flood map for your address; renters can buy cheap contents-only flood coverage.",
-    "Clear gutters and drains and photograph your belongings now to speed up any claim."
-   ],
-   "risk": [
-    "Forecasts can change, and El Niño impacts vary by region.",
-    "Flood policies have limits; big homes may need extra coverage."
-   ],
-   "sources": [
-    {
-     "t": "Why California Homeowners Face Escalating Risk From 'Historic' El Niño",
-     "d": "newsweek.com",
-     "u": "https://www.newsweek.com/why-california-homeowners-face-escalating-risk-from-historic-el-nino-12725542"
-    }
-   ]
-  },
-  {
-   "id": "stablecoin-supply-drain-2026111715",
-   "type": "news",
-   "cat": "crypto",
-   "tags": [
-    "crypto",
-    "markets"
-   ],
-   "date": "Tue Nov 17",
-   "ts": "2026-11-17T15:00:00Z",
-   "headline": "Stablecoin supply drops 5.3% in a month, the steepest fall since the 2022 Terra crash",
-   "caption": "Total stablecoins fell to about $284 billion as traders cash out of crypto. Bitcoin hovers near $65,000.",
-   "visual": {
-    "type": "stat",
-    "title": "Stablecoin supply, 30 days",
-    "num": "-5.3%",
-    "tone": "loss",
-    "label": "Total supply fell to about $284.2 billion, per DefiLlama.",
-    "facts": [
-     [
-      "USDT + USDC",
-      "-$11.6B",
-      "to $244.5B"
-     ],
-     [
-      "Bitcoin",
-      "~$64,989",
-      "+0.9% today"
-     ],
-     [
-      "Solana",
-      "~$73.75",
-      "+4.2% today"
-     ]
-    ]
-   },
-   "detail": [
-    "Stablecoins work like casino chips in crypto: people swap dollars for them to trade. When supply shrinks, more tokens are being cashed out than created, a sign money is leaving the market.",
-    "Total stablecoin supply fell 5.3% over 30 days to about $284.2 billion, per DefiLlama, the steepest drop since the Terra collapse in 2022. Tether and USDC together shrank about $11.6 billion.",
-    "CryptoQuant said stablecoin growth funded every rally this cycle. Bitcoin traded near $65,000 Tuesday, while Solana rose about 4%."
-   ],
-   "money": [
-    "Shrinking stablecoin supply often means less buying power for rallies; avoid using leverage now.",
-    "If you buy crypto, small regular purchases reduce the risk of buying at a bad moment.",
-    "Holding stablecoins? Stick to large, well-audited ones and know they aren't FDIC insured."
-   ],
-   "risk": [
-    "Crypto can fall much further in a cash drain.",
-    "Data sources measure supply differently."
-   ],
-   "sources": [
-    {
-     "t": "Crypto's Casino Chips Are Disappearing, Adding to Pain From Spot ETF Outflows",
-     "d": "coindesk.com",
-     "u": "https://www.coindesk.com/daybook-us/2026/11/17/crypto-s-casino-chips-are-disappearing-adding-to-pain-from-spot-etf-outflows"
-    }
-   ]
-  },
-  {
-   "id": "codex-stablecoin-30m-2026111715",
-   "type": "news",
-   "cat": "crypto",
-   "tags": [
-    "crypto",
-    "business"
-   ],
-   "date": "Tue Nov 17",
-   "ts": "2026-11-17T15:00:00Z",
-   "headline": "Stablecoin payments startup Codex raises $30M from Pantera and Coinbase Ventures",
-   "caption": "Codex helps businesses send cross-border payments using stablecoins without prefunding accounts. It's now valued at $130 million.",
-   "visual": {
-    "type": "stat",
-    "title": "Codex Series A",
-    "num": "$30M",
-    "tone": "acc",
-    "label": "Led by Pantera Capital at a $130M post-money value.",
-    "facts": [
-     [
-      "Investors",
-      "Pantera, Dragonfly",
-      "plus Coinbase Ventures"
-     ],
-     [
-      "Staff",
-      "35",
-      "5 offices"
-     ],
-     [
-      "Stablecoin payments",
-      "$401B+",
-      "first 8 months of 2026"
-     ]
-    ]
-   },
-   "detail": [
-    "Codex raised $30 million in a Series A round led by Pantera Capital, with Dragonfly and Coinbase Ventures joining. The round values it at $130 million after the money.",
-    "Founded in 2024, Codex lets businesses move money across borders and swap currencies with stablecoins, without parking cash in advance. It focuses on Asia with links to Latin America and Africa.",
-    "Stablecoin payments hit at least $401 billion in the first eight months of 2026, up 42% from a year earlier, per Alvarez & Marsal. Codex plans to automate its currency platform with AI agents."
-   ],
-   "money": [
-    "If you send money abroad, compare stablecoin-based apps with banks; fees can be much lower.",
-    "Small businesses paying overseas suppliers can ask about faster, cheaper settlement options.",
-    "Payment use, not just trading, is a growing part of crypto; diversified fintech funds give broad exposure."
-   ],
-   "risk": [
-    "Startups can fail, and stablecoin rules differ by country.",
-    "Stablecoins aren't government insured."
-   ],
-   "sources": [
-    {
-     "t": "Pantera-backed Codex raises $30 million to link Asia to global markets with stablecoins",
-     "d": "fortune.com",
-     "u": "https://fortune.com/2026/11/17/pantera-backed-codex-30-million-asia-global-markets-stablecoins/"
-    }
-   ]
-  },
-  {
-   "id": "thailand-zero-tariffs-2026111715",
-   "type": "news",
-   "cat": "politics",
-   "tags": [
-    "politics",
-    "world",
-    "markets"
-   ],
-   "date": "Tue Nov 17",
-   "ts": "2026-11-17T15:00:00Z",
-   "headline": "Update: Trump signs trade statement as Thailand vows to end all tariffs on US goods",
-   "caption": "New since Trump landed in Manila: he and Thai PM Anutin signed a joint statement on reciprocal trade. A final deal is expected soon.",
-   "visual": {
-    "type": "points",
-    "title": "From Manila today",
-    "items": [
-     "Thailand to end all tariffs on US exports",
-     "Big non-tariff barriers also to go",
-     "US buys 24% of Thailand's exports",
-     "Quad launches a new AI accelerator"
-    ]
-   },
-   "detail": [
-    "President Trump signed a joint statement on reciprocal trade with Thai Prime Minister Anutin Charnvirakul in Manila. Thailand will eliminate all tariffs on US exports and remove major non-tariff barriers under a deal expected to be finalized soon.",
-    "The US is Thailand's largest export market, taking 24% of its shipments this year. Trump also met leaders of India, Japan and Australia at the first Quad meeting in two years and announced a new Quad AI accelerator.",
-    "Trump meets Philippine President Marcos on Wednesday, then heads to Shenzhen. A US-China-Russia meeting is set for Thursday around the APEC gathering hosted by Xi Jinping."
-   ],
-   "money": [
-    "US farm and auto exporters could win new Thai sales; companies selling into Southeast Asia may benefit.",
-    "Lower trade barriers can cut costs over time, but don't expect store prices to move quickly.",
-    "Big trade summits can swing markets; avoid making big moves on headlines alone."
-   ],
-   "risk": [
-    "The deal isn't final, and terms could change.",
-    "The China meeting could bring new tensions."
-   ],
-   "sources": [
-    {
-     "t": "Trump meets regional allies in Manila ahead of China visit; Thailand will eliminate tariffs on US exports",
-     "d": "thestar.com.my",
-     "u": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/17/trump-meets-regional-allies-in-manila-ahead-of-china-visit-thailand-will-eliminate-tariffs-on-us-exports-under-deal-to-be-signed-soon"
-    },
-    {
-     "t": "Trump says US trade deal with Thailand to be signed soon",
-     "d": "marketscreener.com",
-     "u": "https://www.marketscreener.com/news/trump-says-us-trade-deal-with-thailand-to-be-signed-soon-ce785edcd881ff25"
-    }
-   ]
-  },
-  {
-   "id": "edu-roth-catchup-2026111715",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "taxes"
-   ],
-   "date": "Explainer",
-   "ts": "2026-11-17T15:00:00Z",
-   "headline": "Roth vs. pre-tax: the catch-up rule for high earners",
-   "caption": "The Roth catch-up wage line rises to $155,000 in 2027. Here's what Roth means and how it changes your tax bill.",
-   "scenes": [
-    {
-     "k": "TWO BUCKETS",
-     "t": "401(k) money goes in two ways",
-     "s": "Pre-tax cuts your tax now. Roth is taxed now but grows tax-free."
-    },
-    {
-     "k": "THE RULE",
-     "t": "High earners 50+ must use Roth",
-     "s": "It applies to catch-up dollars only, not your regular contributions."
-    },
-    {
-     "k": "THE LINE",
-     "t": "Over $155,000? You're in",
-     "viz": {
-      "type": "split",
-      "items": [
-       [
-        "2026 line",
-        "$150K"
-       ],
-       [
-        "2027 line",
-        "$155K"
-       ],
-       [
-        "Based on",
-        "Last year's FICA wages",
-        "wide"
-       ]
-      ]
-     },
-     "say": "The wage line moves from 150 thousand to 155 thousand dollars, based on last year's Social Security wages."
-    },
-    {
-     "k": "HOW IT WORKS",
-     "t": "Taxes now, none later",
-     "viz": {
-      "type": "flow",
-      "items": [
-       "Earn pay",
-       "Pay tax today",
-       "Money grows",
-       "Tax-free withdrawals"
-      ]
-     }
-    },
-    {
-     "k": "THE CATCH",
-     "t": "No Roth option? No catch-up",
-     "s": "If your plan lacks Roth, you may not be able to make catch-ups at all."
-    },
-    {
-     "k": "YOUR MOVE",
-     "t": "Ask HR before January",
-     "s": "Check your wages and whether your plan has Roth. Max 2026 by Dec. 31."
-    }
-   ]
-  },
-  {
-   "id": "edu-flood-insurance-2026111715",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "california"
-   ],
-   "date": "Explainer",
-   "ts": "2026-11-17T15:00:00Z",
-   "headline": "Flood insurance: why waiting for the storm is too late",
-   "caption": "A strong El Niño could soak California, but few homes have flood coverage. Here's how flood insurance works.",
-   "scenes": [
-    {
-     "k": "THE GAP",
-     "t": "Home insurance skips floods",
-     "s": "Standard homeowners and renters policies don't pay for flood damage."
-    },
-    {
-     "k": "THE NUMBERS",
-     "t": "Few Californians are covered",
-     "viz": {
-      "type": "split",
-      "items": [
-       [
-        "California",
-        "1.4%"
-       ],
-       [
-        "US",
-        "~4%"
-       ],
-       [
-        "High-risk CA homes uninsured",
-        "65%",
-        "wide"
-       ]
-      ]
-     },
-     "say": "Only 1.4 percent of California homeowners have flood insurance, versus about 4 percent nationally."
-    },
-    {
-     "k": "THE WAIT",
-     "t": "Most policies take 30 days",
-     "s": "Buying when the rain starts usually means no coverage for that storm."
-    },
-    {
-     "k": "HOW TO BUY",
-     "t": "Four quick steps",
-     "viz": {
-      "type": "flow",
-      "items": [
-       "Check flood map",
-       "Get quotes",
-       "Pick limits",
-       "Wait 30 days"
-      ]
-     }
-    },
-    {
-     "k": "RENTERS TOO",
-     "t": "Cover your stuff",
-     "s": "Renters can buy contents-only flood coverage, often for a low price."
-    },
-    {
-     "k": "YOUR MOVE",
-     "t": "Act before December",
-     "s": "El Niño impacts usually peak December to March. Get quotes this week."
     }
    ]
   }
