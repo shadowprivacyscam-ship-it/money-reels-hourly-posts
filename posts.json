@@ -1,6 +1,1000 @@
 {
- "updated": "2026-11-18T01:00:00Z",
+ "updated": "2026-11-18T02:00:00Z",
  "items": [
+  {
+   "id": "asia-rebounds-nvidia-beat-2026111802",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets",
+    "ai"
+   ],
+   "date": "Wed Nov 18",
+   "ts": "2026-11-18T02:00:00Z",
+   "headline": "Asia bounces back on Nvidia: Kospi up as much as 3.3%, Nvidia up 4.7% after hours",
+   "caption": "Asian stocks are set to end a losing streak after Nvidia's beat. US futures rose too, but the 10-year yield climbed to 5.12%.",
+   "visual": {
+    "type": "board",
+    "title": "Wednesday morning in Asia",
+    "rows": [
+     {
+      "k": "Kospi (South Korea)",
+      "s": "intraday high",
+      "v": "+3.3%",
+      "ch": 3.3,
+      "tone": "gain"
+     },
+     {
+      "k": "MSCI Asia ex-Japan",
+      "v": "+0.9%",
+      "ch": 0.9,
+      "tone": "gain"
+     },
+     {
+      "k": "Nikkei 225",
+      "v": "+0.6%",
+      "ch": 0.6,
+      "tone": "gain"
+     },
+     {
+      "k": "Nvidia after hours",
+      "v": "+4.7%",
+      "ch": 4.7,
+      "tone": "gain"
+     },
+     {
+      "k": "S&P 500 futures",
+      "v": "+0.5%",
+      "ch": 0.5,
+      "tone": "gain"
+     },
+     {
+      "k": "10-year Treasury yield",
+      "s": "up 2.2 basis points",
+      "v": "5.123%",
+      "tone": "loss"
+     }
+    ],
+    "foot": "Reuters via Yahoo Finance, Nov. 18"
+   },
+   "detail": [
+    "Asian markets turned higher early Wednesday after Nvidia's sales beat forecasts. South Korea's Kospi rose as much as 3.3%, a sharp turn after Tuesday's chip selloff. Japan's Nikkei gained 0.6%, and a broad Asia index outside Japan rose 0.9%.",
+    "Nvidia shares rose 4.7% in after-hours trading, and S&P 500 futures were up 0.5%. Brent oil slipped 0.2% to $93 a barrel.",
+    "Not everything looked calm. The 10-year Treasury yield rose to 5.123%, and the yen weakened to 159.49 per dollar. Anthropic's IPO is expected to price Wednesday, which traders are also watching."
+   ],
+   "money": [
+    "A one-day bounce after a big drop is common. If you buy chip stocks, think in months, not hours.",
+    "Treasury yields above 5% mean savings accounts, CDs and T-bills still pay well for cash you don't want at risk.",
+    "If you hold a broad index fund, you already own Nvidia and Asian chipmakers. You may not need to add more."
+   ],
+   "risk": [
+    "After-hours and futures moves can fade by the opening bell.",
+    "Rising yields can still pull stock prices down."
+   ],
+   "sources": [
+    {
+     "t": "Asia stocks set to snap losing streak on Nvidia beat as Anthropic looms",
+     "d": "finance.yahoo.com",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/asia-stocks-set-snap-losing-014340794.html"
+    }
+   ]
+  },
+  {
+   "id": "nvidia-analyst-target-backlog-2026111802",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "markets"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-18T02:00:00Z",
+   "headline": "After Nvidia's beat, Dan Ives keeps a $225 target; cloud backlog hits $2.5 trillion",
+   "caption": "Nvidia raised its fiscal 2028 growth outlook to 75%. Ives says the strong quarter helps, but questions about leadership are not settled.",
+   "visual": {
+    "type": "board",
+    "title": "Nvidia: what analysts are watching",
+    "rows": [
+     {
+      "k": "Ives price target",
+      "s": "Outperform",
+      "v": "$225",
+      "tone": "acc"
+     },
+     {
+      "k": "Street average target",
+      "s": "26 Buy, 12 Hold, 1 Sell",
+      "v": "$232.33",
+      "tone": "acc"
+     },
+     {
+      "k": "Cloud industry backlog",
+      "s": "was $2T 3 months ago",
+      "v": "$2.5T",
+      "tone": "gain"
+     },
+     {
+      "k": "FY2028 growth outlook",
+      "s": "raised from 70%",
+      "v": "75%",
+      "tone": "gain"
+     },
+     {
+      "k": "Q4 sales forecast",
+      "s": "Street expected $125.2B",
+      "v": "$130B",
+      "tone": "gain"
+     }
+    ],
+    "foot": "TipRanks, Nov. 17"
+   },
+   "detail": [
+    "Nvidia's results Tuesday beat forecasts, and the company raised its growth outlook for fiscal 2028 to 75% from 70%. It also said the cloud industry's order backlog reached $2.5 trillion, up from $2 trillion three months ago.",
+    "Analyst Dan Ives kept an Outperform rating and a $225 price target. That implies about 45% upside from Tuesday's close. The average Wall Street target is $232.33.",
+    "Ives said a clean quarter does not end the questions around the company. Jensen Huang was removed as CEO for reasons not disclosed, Colette Kress is interim CEO, and a search firm is looking for a permanent leader. Ives pointed to possible activist investors and a US export probe."
+   ],
+   "money": [
+    "Price targets are opinions, not promises. Use them as one input, not a reason to buy.",
+    "If Nvidia is a big part of your portfolio, a leadership fight is a reason to check how much you hold.",
+    "Index funds spread your bet across many AI winners instead of one company."
+   ],
+   "risk": [
+    "A CEO search, activist fight or export probe could hit the stock.",
+    "High targets can be cut quickly if demand slows."
+   ],
+   "sources": [
+    {
+     "t": "'The Question Isn't Settled,' Says Top Analyst as Nvidia Stock Surges Overnight After Earnings",
+     "d": "tipranks.com",
+     "u": "https://www.tipranks.com/news/article/the-question-isnt-settled-says-top-analyst-as-nvidia-stock-surges-overnight-after-earnings"
+    }
+   ]
+  },
+  {
+   "id": "copilotforce-microsoft-salesforce-2026111802",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "business"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-18T02:00:00Z",
+   "headline": "Microsoft and Salesforce launch 'Copilotforce' to put sales data inside Copilot",
+   "caption": "A new plugin brings 38+ Salesforce sales skills into Microsoft Copilot. It went into public preview Tuesday, the same day Salesforce stock fell 9.6%.",
+   "visual": {
+    "type": "points",
+    "title": "What Copilotforce does",
+    "items": [
+     "Salesforce in Copilot: 38+ sales skills, public preview from Nov. 17",
+     "Sales Cloud in Teams: deal alerts inside chats, pilot now",
+     "Two-way data link between Salesforce Data 360 and Microsoft Fabric",
+     "Accenture is the launch partner and first big user",
+     "No pricing announced yet"
+    ]
+   },
+   "detail": [
+    "Microsoft and Salesforce announced Copilotforce at Microsoft's Ignite conference on Tuesday. It brings Salesforce customer records and actions into Copilot, Teams and Microsoft's data tools, while keeping each user's permissions.",
+    "The Copilot plugin includes more than 38 ready-made sales skills, such as pipeline review and renewal alerts. It started a public preview on Nov. 17. A Teams version is in a pilot with big customers, with an open beta planned later.",
+    "The deal comes as software stocks are under pressure. Salesforce ended Tuesday down 9.6% as investors worried AI tools could cut demand for traditional software."
+   ],
+   "money": [
+    "If you work in sales, learning AI tools inside your CRM could make you faster and more valuable.",
+    "Small businesses should ask vendors about AI add-on pricing before signing yearly contracts.",
+    "Investors: partnerships can help software firms, but watch whether they turn into paid revenue."
+   ],
+   "risk": [
+    "No pricing yet, so the money impact for Salesforce and Microsoft is unclear."
+   ],
+   "sources": [
+    {
+     "t": "Microsoft and Salesforce Announce Copilotforce",
+     "d": "news.microsoft.com",
+     "u": "https://news.microsoft.com/source/2026/11/17/microsoft-and-salesforce-announce-copilotforce-bringing-trusted-customer-context-and-action-into-microsoft-ai-experiences"
+    }
+   ]
+  },
+  {
+   "id": "microsoft-ai-transparency-initiative-2026111802",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "business"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-18T02:00:00Z",
+   "headline": "Microsoft starts an AI transparency group with 40+ firms, including Mastercard and Volvo",
+   "caption": "The goal is shared rules so companies can check what AI agents actually did. Satya Nadella announced it at Ignite on Tuesday.",
+   "visual": {
+    "type": "points",
+    "title": "See, verify, control",
+    "items": [
+     "See: log what an AI agent was allowed to do and what it did",
+     "Verify: check the model's own reports against outside records",
+     "Control: block risky actions before they happen",
+     "40+ partners, including Accenture, Adobe, KPMG, Mastercard, Volvo",
+     "Microsoft will deepen work with the US standards agency NIST"
+    ]
+   },
+   "detail": [
+    "Microsoft launched an AI Transparency Initiative on Tuesday. It is meant to create open, shared ways to track and audit AI models and agents, no matter which company built them.",
+    "More than 40 organizations are working with Microsoft on the standards, including Accenture, Adobe, KPMG, Mastercard and Volvo Cars. Microsoft also said it will expand its role in a federal standards effort run by NIST.",
+    "The idea is simple: as AI agents do more on their own, businesses need records of what they did. Microsoft plans to build the tools into Copilot and its Foundry developer platform."
+   ],
+   "money": [
+    "If your job touches compliance or IT, AI auditing is a fast-growing skill worth learning.",
+    "Businesses using AI agents should keep logs now. It can save money in disputes or audits later.",
+    "Consumers: ask banks and apps how their AI decisions can be reviewed if something goes wrong."
+   ],
+   "risk": [
+    "Voluntary standards only work if companies actually adopt them."
+   ],
+   "sources": [
+    {
+     "t": "Microsoft and organizations across industries launch AI Transparency Initiative",
+     "d": "news.microsoft.com",
+     "u": "https://news.microsoft.com/source/2026/11/17/microsoft-and-organizations-across-industries-launch-ai-transparency-initiative-to-strengthen-enterprise-trust-in-ai-models-and-agents/"
+    }
+   ]
+  },
+  {
+   "id": "home-depot-q3-2026-2026111802",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business",
+    "markets"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-18T02:00:00Z",
+   "headline": "Home Depot sales rise 4.9% to $43.4B; it now sees about 2% profit growth this year",
+   "caption": "Same-store sales grew 2.2% and adjusted profit beat estimates by 2 cents. The company now expects full-year comparable sales up about 1.4%.",
+   "visual": {
+    "type": "board",
+    "title": "Home Depot, Q3 fiscal 2026",
+    "rows": [
+     {
+      "k": "Sales",
+      "v": "$43.4B",
+      "ch": 4.9,
+      "tone": "gain"
+     },
+     {
+      "k": "Comparable sales",
+      "v": "+2.2%",
+      "ch": 2.2,
+      "tone": "gain"
+     },
+     {
+      "k": "Adjusted EPS",
+      "s": "from $3.74",
+      "v": "$3.86",
+      "ch": 3.2,
+      "tone": "gain"
+     },
+     {
+      "k": "Full-year comp sales",
+      "s": "new outlook",
+      "v": "~+1.4%",
+      "tone": "acc"
+     },
+     {
+      "k": "Full-year adj. EPS growth",
+      "s": "from $14.69",
+      "v": "~+2.0%",
+      "tone": "acc"
+     }
+    ],
+    "foot": "Home Depot release, Nov. 17"
+   },
+   "detail": [
+    "Home Depot reported third-quarter sales of $43.4 billion, up 4.9% from a year ago. Sales at stores open at least a year rose 2.2%. Adjusted earnings were $3.86 a share, up 3.2% and 2 cents above estimates.",
+    "For the full year, the company now expects total sales up about 4.5% and comparable sales up about 1.4%. It sees adjusted earnings per share growing about 2% from $14.69.",
+    "Incoming CEO Richard McPhail said the quarter beat the company's own plan and that it gained market share. Lowe's reports its results on Wednesday."
+   ],
+   "money": [
+    "Slow comp growth means stores may push holiday and year-end deals. Compare prices before big tool or appliance buys.",
+    "Planning a home project? Ask about pro pricing or volume discounts on large orders.",
+    "Investors: Home Depot's results are a read on the housing market. Lowe's numbers Wednesday will add to the picture."
+   ],
+   "risk": [
+    "Profit growth of about 2% is slow, and high mortgage rates still weigh on remodeling."
+   ],
+   "sources": [
+    {
+     "t": "The Home Depot Announces Third Quarter Fiscal 2026 Results; Updates Fiscal 2026 Guidance",
+     "d": "ir.homedepot.com",
+     "u": "https://ir.homedepot.com/news-releases/2026/11-17-2026-110221331"
+    },
+    {
+     "t": "Home Depot (NYSE:HD) Releases Quarterly Earnings Results, Beats Estimates By $0.02 EPS",
+     "d": "marketbeat.com",
+     "u": "https://www.marketbeat.com/instant-alerts/earnings-home-depot-nyse-hd-releases-quarterly-earnings-results-beats-estimates-by-002-eps-2026-11-17/"
+    }
+   ]
+  },
+  {
+   "id": "ups-buys-smartways-logistics-2026111802",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-18T02:00:00Z",
+   "headline": "UPS agrees to buy Smartways, a medical delivery firm in Australia and New Zealand",
+   "caption": "UPS keeps growing its health care shipping unit, which has topped $3 billion in quarterly revenue three quarters in a row. The price was not disclosed.",
+   "visual": {
+    "type": "deals",
+    "title": "UPS Healthcare deal",
+    "items": [
+     {
+      "a": "UPS",
+      "b": "Smartways Logistics",
+      "amt": "Undisclosed",
+      "st": "Close expected 1st half 2027",
+      "c": "pend"
+     },
+     {
+      "a": "UPS Healthcare",
+      "b": "Quarterly revenue",
+      "amt": "$3B",
+      "st": "3rd quarter in a row",
+      "c": "ok"
+     }
+    ]
+   },
+   "detail": [
+    "UPS said Tuesday after the market closed that it will buy Smartways Logistics. Smartways moves urgent medical shipments in Australia and New Zealand, such as clinical trial supplies, medical devices and radioactive drugs used in scans.",
+    "Smartways has more than 350 drivers. UPS did not share the price. The deal is expected to close in the first half of 2027 after regulators sign off.",
+    "Health care is a key growth area for UPS. The unit's revenue hit $3 billion for the third straight quarter in Q3. UPS had $88.7 billion in total revenue in 2025."
+   ],
+   "money": [
+    "Health care logistics is growing. Drivers and warehouse workers with medical handling skills may find better pay.",
+    "Investors: UPS is shifting toward higher-margin shipping like health care, which could steady profits.",
+    "Small medical firms can compare specialty couriers; more competition can mean better rates."
+   ],
+   "risk": [
+    "Regulators still need to approve the deal."
+   ],
+   "sources": [
+    {
+     "t": "UPS Announces Agreement to Acquire Smartways Logistics",
+     "d": "investors.ups.com",
+     "u": "https://investors.ups.com/news-events/press-releases/detail/2175/ups-announces-agreement-to-acquire-smartways-logistics"
+    }
+   ]
+  },
+  {
+   "id": "jnj-ollin-biosciences-deal-2026111802",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business",
+    "markets"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-18T02:00:00Z",
+   "headline": "J&J to buy eye-drug maker Ollin for $2.2 billion upfront, up to $3.3 billion total",
+   "caption": "Ollin is testing a new shot for wet macular degeneration. Blackstone will pay J&J $750 million to fund the final trials.",
+   "visual": {
+    "type": "deals",
+    "title": "J&J + Ollin Biosciences",
+    "items": [
+     {
+      "a": "Johnson & Johnson",
+      "b": "Ollin (upfront)",
+      "amt": "$2.2B",
+      "st": "Close expected by end of 2026",
+      "c": "pend"
+     },
+     {
+      "a": "Ollin holders",
+      "b": "Milestone payments",
+      "amt": "up to $1.125B",
+      "st": "If goals are met",
+      "c": "pend"
+     },
+     {
+      "a": "Blackstone Life Sciences",
+      "b": "Phase 3 funding to J&J",
+      "amt": "$750M",
+      "st": "Only if deal closes",
+      "c": "pend"
+     }
+    ]
+   },
+   "detail": [
+    "Johnson & Johnson agreed to buy Ollin Biosciences, an Austin, Texas, biotech. J&J will pay $2.2 billion upfront. Ollin's owners could get about $1.125 billion more if the drug hits approval and sales goals, for a total near $3.3 billion.",
+    "Ollin's lead drug, OLN324, is an experimental antibody shot for wet age-related macular degeneration and diabetic eye swelling, two common causes of vision loss.",
+    "In a side deal, Blackstone Life Sciences will pay J&J $750 million over several years to cover late-stage trials. In return it gets milestone payments and small royalties. The deal is expected to close before the end of 2026."
+   ],
+   "money": [
+    "Drug deals with milestone payments shift risk. Investors in small biotechs should know the upfront price is the only sure part.",
+    "Big pharma keeps buying late-stage drugs. Health care funds can give you exposure without picking one company.",
+    "If you have eye disease, new treatments may add competition and could pressure prices over time."
+   ],
+   "risk": [
+    "The drug still has to pass phase 3 trials and get approved."
+   ],
+   "sources": [
+    {
+     "t": "Johnson & Johnson to acquire Ollin Biosciences in deal worth up to $3.3 billion",
+     "d": "ophthalmologytimes.com",
+     "u": "https://www.ophthalmologytimes.com/view/johnson-johnson-to-acquire-ollin-biosciences-in-deal-worth-up-to-3-3-billion"
+    }
+   ]
+  },
+  {
+   "id": "virginia-skips-federal-scholarship-credit-2026111802",
+   "type": "news",
+   "cat": "taxes",
+   "tags": [
+    "taxes",
+    "states"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-18T02:00:00Z",
+   "headline": "Virginia will sit out the new federal school scholarship tax credit worth up to $1,700",
+   "caption": "Gov. Spanberger won't finish sign-up for the 2027 program. Virginians can still claim the credit by giving to groups in other states.",
+   "visual": {
+    "type": "board",
+    "title": "Federal scholarship tax credit",
+    "rows": [
+     {
+      "k": "Max federal credit",
+      "s": "per eligible taxpayer",
+      "v": "$1,700",
+      "tone": "acc"
+     },
+     {
+      "k": "Donations count from",
+      "v": "Jan. 1, 2027",
+      "tone": "acc"
+     },
+     {
+      "k": "State list deadline",
+      "s": "to take part in 2027",
+      "v": "Feb. 15",
+      "tone": "acc"
+     },
+     {
+      "k": "Virginia",
+      "s": "governor opting out",
+      "v": "Out",
+      "tone": "loss"
+     }
+    ],
+    "foot": "Potomac Local, Nov. 17"
+   },
+   "detail": [
+    "Virginia Gov. Abigail Spanberger's office said Monday she will not finish signing the state up for a new federal scholarship program that begins in 2027. Former Gov. Glenn Youngkin had started the process. Without a list of approved groups by Feb. 15, no Virginia group would qualify that year.",
+    "Under federal law, taxpayers can get a federal income tax credit of up to $1,700 for cash gifts to approved scholarship groups, starting Jan. 1. The scholarships can pay for K-12 costs like tuition and tutoring, including for public school students.",
+    "Treasury Secretary Scott Bessent said Virginia is required to finish the process. Treasury and the IRS say a state can opt out by not sending its list. Virginia Republicans criticized the move; the governor's office said public money should go to public schools."
+   ],
+   "money": [
+    "A tax credit cuts your tax bill dollar for dollar. Up to $1,700 is worth far more than a deduction of the same size.",
+    "Virginia residents can still give to approved groups in other participating states and claim the credit.",
+    "Families: if your state takes part, check whether scholarships can cover tutoring or supplies, not just private tuition."
+   ],
+   "risk": [
+    "Rules are new and could change, so wait for final IRS guidance before planning a gift.",
+    "Legal fights over opt-outs are possible."
+   ],
+   "sources": [
+    {
+     "t": "Virginia plans to sit out federal scholarship program",
+     "d": "potomaclocal.com",
+     "u": "https://www.potomaclocal.com/2026/11/17/virginia-plans-to-sit-out-federal-scholarship-program/"
+    }
+   ]
+  },
+  {
+   "id": "kuwait-drones-us-strikes-qeshm-2026111802",
+   "type": "news",
+   "cat": "world",
+   "tags": [
+    "world",
+    "markets"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-18T02:00:00Z",
+   "headline": "Kuwait fights off drones as the US strikes Iran's Qeshm Island after an attack on Bahrain",
+   "caption": "Iran has now targeted Bahrain three times in five days. Oil is holding near $93 as traders watch Hormuz.",
+   "visual": {
+    "type": "timeline",
+    "title": "Gulf flare-up, Nov. 17",
+    "items": [
+     {
+      "d": "NOV 16",
+      "t": "Tankers hit off Oman",
+      "s": "One Indian sailor missing"
+     },
+     {
+      "d": "NOV 17",
+      "t": "Iran drones target US radar in Bahrain",
+      "s": "US says all intercepted"
+     },
+     {
+      "d": "NOV 17",
+      "t": "US hits missile site on Qeshm Island",
+      "s": "Iran reports 5-6 blasts"
+     },
+     {
+      "d": "NOV 17",
+      "t": "Kuwait air defenses respond to drones",
+      "s": "No damage reported",
+      "now": true
+     },
+     {
+      "d": "NOV 19",
+      "t": "Trump, Xi and Putin meet in China",
+      "s": "Iran war on the agenda"
+     }
+    ]
+   },
+   "detail": [
+    "Kuwait's military said Tuesday night its air defenses were responding to drone attacks. It did not say where the drones came from and reported no damage or injuries.",
+    "Earlier, Iran's Revolutionary Guards said drones hit a US radar at a base in Bahrain; US Central Command said the drones were shot down. Hours later, the US struck a missile launch site on Iran's Qeshm Island. It was the third Iranian drone attack on Bahrain in five days.",
+    "Iran has restricted traffic through the Strait of Hormuz, which normally carries about a fifth of world oil, since the war began Feb. 28. Brent crude was about $93 early Wednesday."
+   ],
+   "money": [
+    "Gas prices follow oil. Filling up when prices dip and using price apps can save money during spikes.",
+    "Energy stocks and funds tend to rise when Gulf risk rises, but they can drop fast on peace news.",
+    "Booking travel? Fuel costs can push fares up, so locking in prices early may help."
+   ],
+   "risk": [
+    "A wider Gulf war could send oil and prices sharply higher.",
+    "Reports from both sides are hard to verify."
+   ],
+   "sources": [
+    {
+     "t": "Kuwait reports drone attacks as Iran, US trade attacks on Qeshm and Bahrain",
+     "d": "aljazeera.com",
+     "u": "https://www.aljazeera.com/news/2026/11/17/kuwait-reports-drone-attacks-as-iran-us-trade-attacks-on-qeshm-and-bahrain"
+    },
+    {
+     "t": "Asia stocks set to snap losing streak on Nvidia beat as Anthropic looms",
+     "d": "finance.yahoo.com",
+     "u": "https://finance.yahoo.com/markets/stocks/articles/asia-stocks-set-snap-losing-014340794.html"
+    }
+   ]
+  },
+  {
+   "id": "haitian-boy-released-ice-2026111802",
+   "type": "news",
+   "cat": "immigration",
+   "tags": [
+    "immigration"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-18T02:00:00Z",
+   "headline": "Haitian boy, 8, freed after 11 days in federal custody once his uncle proves guardianship",
+   "caption": "ICE took the third grader at a routine check-in, saying it couldn't confirm his uncle was his guardian. DHS says he is now back with his uncle.",
+   "visual": {
+    "type": "stat",
+    "title": "The case",
+    "num": "11 days",
+    "tone": "acc",
+    "label": "Time the boy spent in government custody before release.",
+    "facts": [
+     [
+      "Age",
+      "8",
+      "third grader"
+     ],
+     [
+      "Held by",
+      "Refugee office",
+      "after ICE check-in"
+     ],
+     [
+      "Released",
+      "Mon Nov 16",
+      "to his uncle"
+     ]
+    ]
+   },
+   "detail": [
+    "An 8-year-old Haitian boy was released to his uncle, a Haitian advocacy group announced Monday evening. ICE had detained him earlier in November during a routine immigration check-in.",
+    "ICE said it could not confirm the uncle's legal guardianship, so it placed the boy with the federal Office of Refugee Resettlement. DHS said he was returned after the uncle established guardianship under a federal anti-trafficking law. The boy's father was deported to Mexico last year.",
+    "The boy is among tens of thousands of Haitians who lost Temporary Protected Status this year. Democratic lawmakers had raised concerns about the detention."
+   ],
+   "money": [
+    "Families with mixed status may want guardianship papers drawn up ahead of time; legal aid groups often help for free.",
+    "Keep copies of key documents, like birth records and custody papers, in a safe, easy-to-reach place.",
+    "Check for low-cost immigration legal help through nonprofit or bar association directories before paying private fees."
+   ],
+   "risk": [
+    "Immigration rules and enforcement practices are changing fast; get advice from a qualified lawyer."
+   ],
+   "sources": [
+    {
+     "t": "8-year-old Haitian boy who was detained by ICE is released from custody",
+     "d": "abcnews.com",
+     "u": "https://abcnews.com/US/8-year-haitian-boy-detained-ice-released-custody/story?id=138213648"
+    }
+   ]
+  },
+  {
+   "id": "homan-record-deportations-2027-2026111802",
+   "type": "news",
+   "cat": "immigration",
+   "tags": [
+    "immigration",
+    "politics"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-18T02:00:00Z",
+   "headline": "Homan says ICE aims for another deportation record in 2027 despite ~100,000 court cases",
+   "caption": "The border czar said ICE beat its records this year and still needs to hire a couple thousand agents. He cited a wave of lawsuits seeking releases.",
+   "visual": {
+    "type": "points",
+    "title": "What Homan said",
+    "items": [
+     "ICE plans to push deportations higher in fiscal 2027",
+     "Says ICE beat its fiscal 2025 record this year",
+     "Over 100 nationwide court orders against the agency",
+     "Close to 100,000 habeas cases seeking releases",
+     "Still needs a couple of thousand more agents"
+    ]
+   },
+   "detail": [
+    "White House border czar Tom Homan said Monday on Fox News that ICE is preparing to set another deportation record in fiscal 2027. He said the agency already broke earlier arrest and deportation records, even after a 2.5-month shutdown.",
+    "Homan said ICE faces more than 100 nationwide injunctions and close to 100,000 habeas cases, which are court petitions asking for people to be released. He gave different figures for those cases at different points, from 85,000 to 97,000.",
+    "He also said ICE still has a couple of thousand agents left to hire. A post from his account claimed more than 5,000 commercial truck drivers were arrested; that figure was not independently verified."
+   ],
+   "money": [
+    "Employers in trucking, farming and construction should plan for worker shortages, which can raise labor costs.",
+    "Workers: keep your work authorization papers current and copies on hand.",
+    "Consumers may see higher prices in labor-heavy industries if staffing gets tighter."
+   ],
+   "risk": [
+    "Several of the figures are claims and were not independently checked."
+   ],
+   "sources": [
+    {
+     "t": "Trump border czar Tom Homan predicts record ICE deportations in 2027",
+     "d": "rsbnetwork.com",
+     "u": "https://www.rsbnetwork.com/news/trump-border-czar-tom-homan-predicts-record-ice-deportations-in-2027/"
+    }
+   ]
+  },
+  {
+   "id": "senate-permitting-bill-cloture-2026111802",
+   "type": "news",
+   "cat": "politics",
+   "tags": [
+    "politics",
+    "ai",
+    "business"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-18T02:00:00Z",
+   "headline": "Senate advances permitting bill with 21 Democrats; it would speed data centers and energy",
+   "caption": "A cloture vote sets up final passage of the Bipartisan American Affordability and Jobs Act. Supporters include tech firms and unions; environmental groups oppose it.",
+   "visual": {
+    "type": "points",
+    "title": "The permitting bill",
+    "items": [
+     "Speeds federal approvals for energy projects and data centers",
+     "Adds federal power over new transmission lines",
+     "21 Senate Democrats voted to end debate",
+     "Backers: tech firms, oil groups, White House, big unions",
+     "Next: final Senate vote, then the House"
+    ]
+   },
+   "detail": [
+    "The Senate voted late Monday to end debate on a permitting reform bill, setting up a final vote. Twenty-one Democrats joined Republicans to move it forward.",
+    "The bill would speed federal approval of energy projects, including oil and gas pipelines and data centers, and give Washington more power to approve transmission lines. Critics, including the Congressional Progressive Caucus, say it would weaken several environmental laws.",
+    "If it passes the Senate, it goes to the House. Sen. Catherine Cortez Masto said she would oppose final passage unless historic preservation changes are removed. Some environmental groups want a delay until Democrats take control of Congress in January."
+   ],
+   "money": [
+    "Faster permits for power lines and plants could ease electric bills over time if supply grows.",
+    "Construction, electrical and energy workers could see more job openings if projects speed up.",
+    "Investors: utilities and grid companies could benefit from faster approvals."
+   ],
+   "risk": [
+    "The bill could still change or stall in the House."
+   ],
+   "sources": [
+    {
+     "t": "21 Dem Senators Join GOP to Move Forward Bill to Speed Up Data Center Permits",
+     "d": "truthout.org",
+     "u": "https://truthout.org/articles/21-dem-senators-join-gop-to-move-forward-bill-to-speed-up-data-center-permits/"
+    }
+   ]
+  },
+  {
+   "id": "va-cola-36-passes-congress-2026111802",
+   "type": "news",
+   "cat": "benefits",
+   "tags": [
+    "benefits"
+   ],
+   "date": "This week",
+   "ts": "2026-11-18T02:00:00Z",
+   "headline": "Congress passes a 3.6% raise for VA disability pay; it heads to the president",
+   "caption": "The bill matches Social Security's 3.6% COLA and takes effect Dec. 1. It covers veterans, their dependents and surviving families.",
+   "visual": {
+    "type": "stat",
+    "title": "VA compensation COLA",
+    "num": "+3.6%",
+    "tone": "gain",
+    "label": "Raise for VA disability and survivor benefits starting Dec. 1, 2026.",
+    "facts": [
+     [
+      "Effective",
+      "Dec. 1, 2026",
+      "shows in January pay"
+     ],
+     [
+      "Passed",
+      "Unanimous",
+      "Senate, on Veterans Day"
+     ],
+     [
+      "Next",
+      "President's desk",
+      "needs signature"
+     ]
+    ]
+   },
+   "detail": [
+    "The Veterans' Compensation Cost-of-Living Adjustment Act of 2026 passed Congress and now goes to the president. Senate sponsors Jerry Moran and Richard Blumenthal announced it Monday; the Senate cleared it by unanimous consent on Veterans Day.",
+    "The bill raises VA disability compensation and related benefits by 3.6%, the same as Social Security's cost-of-living raise. It covers veterans, their dependents and surviving spouses and families.",
+    "The raise takes effect Dec. 1, 2026. Benefits are paid in arrears, so the higher amount usually shows up in the payment that arrives in early January."
+   ],
+   "money": [
+    "Expect about $36 more per month for every $1,000 in VA benefits.",
+    "Update your budget for January, when the higher payment usually lands.",
+    "If your rating has gotten worse, ask a free veterans service officer whether you qualify for a higher rating."
+   ],
+   "risk": [
+    "The raise isn't final until signed into law."
+   ],
+   "sources": [
+    {
+     "t": "PASSED: Sens. Moran, Blumenthal Bipartisan Legislation to Deliver Cost-of-Living Increase for Veterans",
+     "d": "veterans.senate.gov",
+     "u": "https://www.veterans.senate.gov/2026/11/passed-sens-moran-blumenthal-bipartisan-legislation-to-deliver-cost-of-living-increase-for-veterans"
+    }
+   ]
+  },
+  {
+   "id": "va-housed-49k-veterans-fy2026-2026111802",
+   "type": "news",
+   "cat": "benefits",
+   "tags": [
+    "benefits",
+    "california"
+   ],
+   "date": "Tue Nov 17",
+   "ts": "2026-11-18T02:00:00Z",
+   "headline": "VA housed 48,968 homeless veterans in fiscal 2026; 20,900 housing vouchers sit unused",
+   "caption": "Placements dipped from 51,936 the year before. Senators want looser rules so more veterans can use HUD-VASH vouchers.",
+   "visual": {
+    "type": "board",
+    "title": "Veteran housing, by the numbers",
+    "rows": [
+     {
+      "k": "Veterans housed, FY2026",
+      "s": "about 4,000 a month",
+      "v": "48,968",
+      "tone": "acc"
+     },
+     {
+      "k": "Veterans housed, FY2025",
+      "v": "51,936"
+     },
+     {
+      "k": "Homeless veterans, Jan. 2025",
+      "s": "down ~32% since 2016",
+      "v": "32,495",
+      "tone": "gain"
+     },
+     {
+      "k": "Unused HUD-VASH vouchers",
+      "s": "of ~116,000 funded",
+      "v": "20,900",
+      "tone": "loss"
+     },
+     {
+      "k": "VA grants to nonprofits",
+      "s": "since Jan. 2025",
+      "v": "$2B+",
+      "tone": "acc"
+     }
+    ],
+    "foot": "Air Force Times, Nov. 17; Military.com"
+   },
+   "detail": [
+    "The VA placed 48,968 veterans in permanent housing in fiscal 2026, about 4,000 a month. That's down from 51,936 a year earlier but the second-highest total since 2019. The one-night count in January 2025 found 32,495 homeless veterans, with California having the most.",
+    "The VA says it has given more than $2 billion in grants to nonprofits since January 2025. It also started a Partial Claims Program in June to help veterans behind on VA home loans avoid foreclosure.",
+    "Meanwhile, about 20,900 of nearly 116,000 HUD-VASH rental vouchers were unused as of July. A Senate bill would open them to veterans at risk of homelessness and stop aid from being cut for refusing case management."
+   ],
+   "money": [
+    "Veterans at risk of losing housing can call the VA's homeless hotline at 877-424-3838 for help.",
+    "Behind on a VA home loan? Ask your servicer about the Partial Claims Program before foreclosure starts.",
+    "Landlords: HUD-VASH tenants come with steady rent support, which can lower vacancy risk."
+   ],
+   "risk": [
+    "The voucher bill has not passed, and case manager shortages slow placements."
+   ],
+   "sources": [
+    {
+     "t": "VA works to provide stable housing for homeless veterans as overall numbers decline",
+     "d": "airforcetimes.com",
+     "u": "https://www.airforcetimes.com/veterans/2026/11/17/va-works-to-provide-stable-housing-for-homeless-veterans-as-overall-numbers-decline/"
+    },
+    {
+     "t": "20,900 Veteran Housing Vouchers Are Going Unused. Senators Want to Loosen Rules for Getting One",
+     "d": "yahoo.com",
+     "u": "https://www.yahoo.com/news/politics/articles/20-900-veteran-housing-vouchers-152133964.html"
+    }
+   ]
+  },
+  {
+   "id": "health-net-mp18-fire-help-2026111802",
+   "type": "news",
+   "cat": "california",
+   "tags": [
+    "california",
+    "benefits"
+   ],
+   "date": "Mon Nov 16",
+   "ts": "2026-11-18T02:00:00Z",
+   "headline": "Humboldt MP18 fire: Health Net lifts refill limits and waives prior approvals for members",
+   "caption": "The insurer acted after Gov. Newsom declared a state of emergency. Medi-Cal and other members can refill prescriptions at out-of-network pharmacies.",
+   "visual": {
+    "type": "points",
+    "title": "Help for Health Net members",
+    "items": [
+     "Refill limits lifted; out-of-network pharmacies allowed",
+     "Free video doctor visits if you can't reach your doctor",
+     "24/7 crisis support: 1-800-400-8987 (TTY 711)",
+     "Prior authorization waived for affected providers",
+     "Shelter, food and money help: dial 2-1-1"
+    ]
+   },
+   "detail": [
+    "Health Net said Monday it is offering special help to members and providers affected by the MP18 fire in Humboldt County. Gov. Gavin Newsom declared a state of emergency for the area.",
+    "Members whose pharmacy is closed can call 1-800-400-8987 to fill prescriptions out of network, with refill limits lifted. Free telehealth visits and 24/7 mental health support are also available. For shelter, food and financial aid, people can dial 2-1-1.",
+    "For doctors and hospitals in the area, Health Net waived prior authorization and extended notice deadlines. It will also cover out-of-network care if an in-network provider is unavailable."
+   ],
+   "money": [
+    "If you were evacuated, use the refill exception so you don't pay full price for replacement medicine.",
+    "Keep receipts for emergency costs. Insurance and disaster aid may pay you back.",
+    "Check if your own health plan offers similar disaster rules; many insurers do after an emergency declaration."
+   ],
+   "risk": [
+    "The help lasts only during the declared emergency."
+   ],
+   "sources": [
+    {
+     "t": "Health Net Providing Special Assistance to Members and Providers Affected by MP18 Fire in Humboldt",
+     "d": "prnewswire.com",
+     "u": "https://prnewswire.com/news-releases/health-net-providing-special-assistance-to-members-and-providers-affected-by-mp18-fire-in-humboldt-302941317.html"
+    }
+   ]
+  },
+  {
+   "id": "edu-tax-credit-vs-deduction-2026111802",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "taxes"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-18T02:00:00Z",
+   "headline": "Tax credit vs. deduction: why $1,700 can mean very different things",
+   "caption": "Virginia is skipping a new federal credit worth up to $1,700. Here's why credits beat deductions of the same size.",
+   "scenes": [
+    {
+     "k": "Today's news",
+     "t": "A new $1,700 federal tax credit",
+     "s": "It's for gifts to school scholarship groups, starting in 2027."
+    },
+    {
+     "k": "The deduction",
+     "t": "Deductions lower taxable income",
+     "s": "You save only your tax rate times the amount."
+    },
+    {
+     "k": "The credit",
+     "t": "Credits cut your tax bill directly",
+     "s": "Each dollar of credit is a dollar less tax you owe."
+    },
+    {
+     "k": "Side by side",
+     "t": "$1,700 at a 22% tax rate",
+     "viz": {
+      "type": "split",
+      "items": [
+       [
+        "Deduction saves",
+        "$374"
+       ],
+       [
+        "Credit saves",
+        "$1,700"
+       ],
+       [
+        "Difference",
+        "$1,326 more with the credit",
+        "wide"
+       ]
+      ]
+     },
+     "say": "At a 22 percent tax rate, a 1,700 dollar deduction saves about 374 dollars. A 1,700 dollar credit saves the full 1,700, or 1,326 dollars more."
+    },
+    {
+     "k": "Watch out",
+     "t": "Rules decide who qualifies",
+     "s": "Some credits need your state to opt in, like this one."
+    },
+    {
+     "k": "Takeaway",
+     "t": "Always ask: credit or deduction?",
+     "s": "It tells you how much a tax break is really worth to you."
+    }
+   ]
+  },
+  {
+   "id": "edu-analyst-price-targets-2026111802",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "markets"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-18T02:00:00Z",
+   "headline": "Analyst price targets: what a $225 Nvidia target really means",
+   "caption": "After Nvidia's beat, analysts posted targets far above the stock price. Here's how to read them.",
+   "scenes": [
+    {
+     "k": "Today's news",
+     "t": "Nvidia gets a $225 target",
+     "s": "Analyst Dan Ives kept his target after Tuesday's earnings beat."
+    },
+    {
+     "k": "The basics",
+     "t": "A target is a 12-month guess",
+     "s": "It's where an analyst thinks the stock could trade in a year."
+    },
+    {
+     "k": "How it's built",
+     "t": "Forecasts times a valuation",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "Estimate future sales",
+       "Estimate profit",
+       "Pick a fair multiple",
+       "Get a target price"
+      ]
+     }
+    },
+    {
+     "k": "Upside math",
+     "t": "Target vs. today's price",
+     "s": "Ives' target implied about 45% upside from Tuesday's close."
+    },
+    {
+     "k": "Watch out",
+     "t": "Targets change fast",
+     "s": "Analysts often raise targets after rallies and cut them after drops."
+    },
+    {
+     "k": "Takeaway",
+     "t": "One clue, not a buy signal",
+     "s": "Look at the business, your goals and your risk before acting."
+    }
+   ]
+  },
   {
    "id": "medicare-part-b-2027-official-2026111801",
    "type": "news",
@@ -10986,1032 +11980,6 @@
      "k": "YOUR MOVE",
      "t": "Act before December",
      "s": "El Niño impacts usually peak December to March. Get quotes this week."
-    }
-   ]
-  },
-  {
-   "id": "retail-sales-oct-2026111714",
-   "type": "news",
-   "cat": "markets",
-   "tags": [
-    "markets",
-    "business"
-   ],
-   "date": "Tue Nov 17",
-   "ts": "2026-11-17T14:00:00Z",
-   "headline": "October retail sales rise 0.2%, but the core 'control group' beats with 0.6%",
-   "caption": "Shoppers spent $748.2 billion in October, up 0.2% from September. Car and furniture sales fell, but core sales grew faster than expected.",
-   "visual": {
-    "type": "vs",
-    "title": "Control group sales, October",
-    "a": [
-     "Expected",
-     "+0.3%",
-     0.5,
-     "acc"
-    ],
-    "b": [
-     "Actual",
-     "+0.6%",
-     1,
-     "gain"
-    ],
-    "foot": "Headline sales +0.2% vs +0.8% in September"
-   },
-   "detail": [
-    "The Census Bureau's early estimate shows retail and food sales of $748.2 billion in October. That is 0.2% more than September and 6.8% more than a year ago. September's gain stayed at 0.8%.",
-    "Car dealers fell 1.6% and furniture stores fell 2.3%. Clothing slipped 0.7%. Online stores rose 1.2% and are up 11.8% from a year ago. Sales without cars rose 0.6%.",
-    "The 'control group', which feeds into GDP, rose 0.6% versus about 0.3% expected, per CoinDesk. The Census Bureau notes the 0.2% headline is within its margin of error."
-   ],
-   "money": [
-    "Online sellers keep gaining share; compare prices online before buying in stores this holiday season.",
-    "Falling car and furniture sales can mean more dealer discounts; ask for year-end deals.",
-    "Solid core spending can push the Fed toward hikes, so lock in high savings or CD rates while they last."
-   ],
-   "risk": [
-    "Early estimates often get revised next month.",
-    "Strong spending can keep interest rates high for borrowers."
-   ],
-   "sources": [
-    {
-     "t": "US retail sales growth slows to 0.2% in October from 0.8% in September",
-     "d": "tribuneindia.com",
-     "u": "https://tribuneindia.com/news/business/us-retail-sales-growth-slows-to-0-2-in-october-from-0-8-in-september-auto-furniture-sales-decline"
-    },
-    {
-     "t": "Headline retail sales rise, as expected, in October; core sales beat",
-     "d": "seekingalpha.com",
-     "u": "https://seekingalpha.com/news/4673619-headline-retail-sales-rise-as-expected-in-october-core-sales-beat-on-the-upside"
-    },
-    {
-     "t": "Live updates: Bitcoin holds near $64,000 ahead of Nvidia earnings",
-     "d": "coindesk.com",
-     "u": "https://www.coindesk.com/business/2026/11/17/live-updates-bitcoin-holds-near-usd64-000-as-tech-slides-ahead-of-nvidia-earnings"
-    }
-   ]
-  },
-  {
-   "id": "musalem-hikes-2026111714",
-   "type": "news",
-   "cat": "markets",
-   "tags": [
-    "markets",
-    "politics"
-   ],
-   "date": "Tue Nov 17",
-   "ts": "2026-11-17T14:00:00Z",
-   "headline": "Fed's Musalem says the economy likely needs several rate hikes before spring 2027",
-   "caption": "St. Louis Fed President Alberto Musalem says more hikes are likely coming. He says tighter financial markets don't worry him much.",
-   "visual": {
-    "type": "points",
-    "title": "Fed hike talk heats up",
-    "items": [
-     "Musalem: several hikes likely before spring 2027",
-     "He is 'not overly concerned' about tighter markets",
-     "Economist Robin Brooks: real rates are the highest in 20+ years",
-     "Fed meeting minutes come out Wednesday"
-    ]
-   },
-   "detail": [
-    "St. Louis Fed President Alberto Musalem said Tuesday the US economy will likely need several interest rate increases before the spring of 2027.",
-    "He said he is not overly worried that financial conditions have tightened. Stocks have slid in recent days and the 10-year Treasury yield is above 5%.",
-    "Not everyone agrees. Economist Robin Brooks called Fed policy a mistake, saying inflation-adjusted rates are at their highest in more than 20 years and could cause a recession."
-   ],
-   "money": [
-    "If hikes come, variable-rate debt like credit cards and HELOCs gets pricier; pay down balances now.",
-    "Savers can lock in today's high CD and Treasury yields before any shift.",
-    "Consider fixed rates over adjustable ones if you're taking out a loan soon."
-   ],
-   "risk": [
-    "Fed officials disagree; hikes are not certain.",
-    "Higher rates can hurt stock and home prices."
-   ],
-   "sources": [
-    {
-     "t": "Live updates: Bitcoin holds near $64,000 ahead of Nvidia earnings",
-     "d": "coindesk.com",
-     "u": "https://www.coindesk.com/business/2026/11/17/live-updates-bitcoin-holds-near-usd64-000-as-tech-slides-ahead-of-nvidia-earnings"
-    },
-    {
-     "t": "Stock market today: Dow and S&P 500 futures slip, Nasdaq futures rise",
-     "d": "finance.yahoo.com",
-     "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-17-dow-sp-500-nasdaq-nvidia-earnings-091546152.html"
-    }
-   ]
-  },
-  {
-   "id": "anthropic-ipo-top-2026111714",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "markets"
-   ],
-   "date": "Tue Nov 17",
-   "ts": "2026-11-17T14:00:00Z",
-   "headline": "New: Anthropic guides its IPO price at or above the top of its $70-$78 range",
-   "caption": "Anthropic's order books close at 4 p.m. ET today, per Bloomberg. Pricing is set for Wednesday and trading on Nasdaq for Thursday under ANT.",
-   "visual": {
-    "type": "ticker",
-    "sym": "ANT",
-    "ex": "NASDAQ",
-    "rows": [
-     {
-      "k": "Price range",
-      "s": "guiding at or above top",
-      "v": "$70-$78"
-     },
-     {
-      "k": "Shares offered",
-      "s": "Class A",
-      "v": "825M"
-     },
-     {
-      "k": "Value at $78",
-      "s": "approx.",
-      "v": "$1.4T"
-     },
-     {
-      "k": "Pricing / listing",
-      "s": "Wed / Thu",
-      "v": "Nov 18 / 19"
-     }
-    ]
-   },
-   "detail": [
-    "What's new: Bloomberg reports Anthropic is guiding to a price at or above the top of its $70 to $78 range. That signals strong demand from big investors.",
-    "Anthropic is selling 825 million Class A shares. At $78, the company would be worth about $1.4 trillion and the raise would top $90 billion.",
-    "Order books close at 4 p.m. ET Tuesday. Pricing is set for Nov. 18 and the stock is due to list on Nasdaq on Nov. 19 under the ticker ANT."
-   ],
-   "money": [
-    "Hot IPOs often swing wildly on day one; setting a limit order can stop you paying far above your target.",
-    "Index funds may add ANT later, so you could gain exposure without buying on day one.",
-    "Check whether your broker offers IPO share access; small investors sometimes get allocations."
-   ],
-   "risk": [
-    "Pricing above range can mean a richer valuation and less room to rise.",
-    "New listings can fall below the IPO price."
-   ],
-   "sources": [
-    {
-     "t": "Live updates: Bitcoin holds near $64,000 ahead of Nvidia earnings",
-     "d": "coindesk.com",
-     "u": "https://www.coindesk.com/business/2026/11/17/live-updates-bitcoin-holds-near-usd64-000-as-tech-slides-ahead-of-nvidia-earnings"
-    },
-    {
-     "t": "US Pre-Market: Nvidia rises nearly 1% ahead of earnings",
-     "d": "tradingkey.com",
-     "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262308986-nvidia-earnings-ai-chip-remote-access-restrictions-tradingkey"
-    }
-   ]
-  },
-  {
-   "id": "nvidia-export-committee-2026111714",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "world",
-    "markets"
-   ],
-   "date": "Tue Nov 17",
-   "ts": "2026-11-17T14:00:00Z",
-   "headline": "Nvidia sets up a board export-control committee as China slams a new US chip rule",
-   "caption": "Nvidia's board now has a committee on national security and export controls. Beijing says it opposes a new US rule on remote access to AI chips.",
-   "visual": {
-    "type": "timeline",
-    "title": "Chip rules, this week",
-    "items": [
-     {
-      "d": "NOV 16",
-      "t": "US rule limits remote access to AI chips",
-      "s": "via third-country data centers"
-     },
-     {
-      "d": "NOV 17",
-      "t": "China says it opposes the rule",
-      "s": "vows to protect its firms"
-     },
-     {
-      "d": "NOV 17",
-      "t": "Nvidia board adds export committee",
-      "s": "meets at least quarterly"
-     },
-     {
-      "d": "NOV 17",
-      "t": "Nvidia earnings after the close",
-      "now": true
-     }
-    ]
-   },
-   "detail": [
-    "Nvidia formed a new board committee on national security and export controls. It is chaired by Suzanne Nora Johnson, with directors Stephen Neal and John Dabiri, and will meet at least every quarter.",
-    "The move comes a day after the Commerce Department issued a rule that limits firms in restricted countries from using advanced US AI chips remotely through data centers in other countries. Some overseas data centers may now need licenses.",
-    "China's Foreign Ministry said Tuesday it opposes what it called abuse of export controls. Nvidia shares were up about 1% before the open, ahead of earnings after the bell."
-   ],
-   "money": [
-    "Export rules can add costs for chip and cloud firms; watch for comments on this in Nvidia's earnings call.",
-    "If you own chip stocks, check how much of their sales come from China or Asia.",
-    "Broad index funds spread out the risk of any one company's rule fight."
-   ],
-   "risk": [
-    "China could retaliate against US companies.",
-    "Compliance costs could squeeze profits."
-   ],
-   "sources": [
-    {
-     "t": "Live updates: Bitcoin holds near $64,000 ahead of Nvidia earnings",
-     "d": "coindesk.com",
-     "u": "https://www.coindesk.com/business/2026/11/17/live-updates-bitcoin-holds-near-usd64-000-as-tech-slides-ahead-of-nvidia-earnings"
-    },
-    {
-     "t": "US Pre-Market: Nvidia rises nearly 1% as US tightens AI chip remote access",
-     "d": "tradingkey.com",
-     "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262308986-nvidia-earnings-ai-chip-remote-access-restrictions-tradingkey"
-    }
-   ]
-  },
-  {
-   "id": "bitwise-sol-2031-2026111714",
-   "type": "news",
-   "cat": "crypto",
-   "tags": [
-    "crypto"
-   ],
-   "date": "Tue Nov 17",
-   "ts": "2026-11-17T14:00:00Z",
-   "headline": "Bitwise's bull case sees Solana at $1,100 by 2031; its bear case is $80",
-   "caption": "Bitwise laid out three price paths for Solana. The bull case needs huge growth in tokenized stocks and payments.",
-   "visual": {
-    "type": "board",
-    "title": "Bitwise SOL targets for 2031",
-    "rows": [
-     {
-      "k": "Bull case",
-      "v": "$1,100",
-      "tone": "gain"
-     },
-     {
-      "k": "Base case",
-      "v": "$385",
-      "tone": "acc"
-     },
-     {
-      "k": "Bear case",
-      "v": "$80",
-      "tone": "loss"
-     },
-     {
-      "k": "SOL last week",
-      "s": "weekly change",
-      "v": "-19.7%",
-      "ch": -19.7,
-      "tone": "loss"
-     }
-    ],
-    "foot": "Forecasts, not promises"
-   },
-   "detail": [
-    "Asset manager Bitwise projects Solana could reach $1,100 by 2031 in its best case, $385 in its base case and $80 in its worst case.",
-    "The bull case assumes 5% of global stocks become tokenized, with Solana handling most of that trading. It would also need about 23 times today's transaction volume.",
-    "The forecast lands after a rough week: Solana fell 19.7%, bitcoin 14.2% and ether 18.2%."
-   ],
-   "money": [
-    "Long-range forecasts vary widely; size any crypto bet so a big drop won't hurt your budget.",
-    "Dollar-cost averaging can smooth out buying during big swings.",
-    "Compare fees on crypto apps and ETFs before buying."
-   ],
-   "risk": [
-    "Crypto can lose most of its value fast.",
-    "Bull cases depend on big assumptions that may not happen."
-   ],
-   "sources": [
-    {
-     "t": "CZ denies Binance sold crypto, Bitwise sees Solana at $1,100 by 2031, and more",
-     "d": "theblock.co",
-     "u": "https://www.theblock.co/newsletters/the-daily/2026-11-17-cz-binance-bitwise-solana-more-crypto-news-441584"
-    }
-   ]
-  },
-  {
-   "id": "crypto-alt-bounce-2026111714",
-   "type": "news",
-   "cat": "crypto",
-   "tags": [
-    "crypto",
-    "markets"
-   ],
-   "date": "Tue Nov 17",
-   "ts": "2026-11-17T14:00:00Z",
-   "headline": "Zcash jumps 5% and Hyperliquid 4% as bitcoin steadies near $64,000-$65,000",
-   "caption": "Some smaller coins bounced Tuesday after last week's rout. Ether stayed just under $1,800.",
-   "visual": {
-    "type": "stat",
-    "title": "Tuesday crypto moves",
-    "num": "+5%",
-    "tone": "gain",
-    "label": "Zcash led a small bounce in altcoins.",
-    "rows": [
-     [
-      "ZEC (~$927)",
-      5.0
-     ],
-     [
-      "HYPE",
-      4.0
-     ],
-     [
-      "SOL",
-      3.0
-     ]
-    ]
-   },
-   "detail": [
-    "Bitcoin held near $64,000 to $65,000 early Tuesday after sliding to about $62,000 over the weekend, its lowest since July.",
-    "Zcash rose about 5% to roughly $927, Hyperliquid's HYPE gained 4% and Solana nearly 3%. Ether was just under $1,800.",
-    "Analysts are watching bitcoin's 200-week moving average near $68,000 as a key level."
-   ],
-   "money": [
-    "Bounces after big drops can fade; set a plan before you buy.",
-    "Use limit orders to avoid overpaying in fast moves.",
-    "Track your cost basis for taxes if you trade often."
-   ],
-   "risk": [
-    "Smaller coins swing much more than bitcoin."
-   ],
-   "sources": [
-    {
-     "t": "Live updates: Bitcoin holds near $64,000 ahead of Nvidia earnings",
-     "d": "coindesk.com",
-     "u": "https://www.coindesk.com/business/2026/11/17/live-updates-bitcoin-holds-near-usd64-000-as-tech-slides-ahead-of-nvidia-earnings"
-    }
-   ]
-  },
-  {
-   "id": "nebraska-sgo-2026111714",
-   "type": "news",
-   "cat": "states",
-   "tags": [
-    "states",
-    "taxes"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-17T14:00:00Z",
-   "headline": "Nebraska opens sign-ups for groups in the new $1,700 federal school tax credit",
-   "caption": "Nebraska is now taking applications from scholarship groups for the federal tax credit program. Groups must apply by Jan. 15, 2027.",
-   "visual": {
-    "type": "points",
-    "title": "Nebraska's school tax credit step",
-    "items": [
-     "Scholarship groups can apply now",
-     "Deadline: Jan. 15, 2027",
-     "Donors get up to a $1,700 federal tax credit",
-     "Students under 300% of area median income qualify"
-    ]
-   },
-   "detail": [
-    "Gov. Jim Pillen announced Monday that Nebraska is accepting applications from Scholarship-Granting Organizations. The state Department of Revenue will review them.",
-    "The program comes from the 2025 federal tax law. Donors anywhere can get a federal income tax credit of up to $1,700 for qualifying gifts.",
-    "Public, private and homeschool students in Nebraska can get scholarships if their household income is under 300% of the area median. Groups must apply by Jan. 15, 2027."
-   ],
-   "money": [
-    "A tax credit cuts your tax bill dollar for dollar, so a $1,700 gift could cost you close to nothing.",
-    "Families under the income limit should watch for approved groups offering scholarships.",
-    "Check if your own state has opted in, since that decides where you can give."
-   ],
-   "risk": [
-    "Rules on donations and timing are still being set.",
-    "Not every state is joining the program."
-   ],
-   "sources": [
-    {
-     "t": "Pillen Announces First Step in Federal School Choice Scholarship Program",
-     "d": "plains-sentinel.com",
-     "u": "https://plains-sentinel.com/p/pillen-announces-first-step-in-federal"
-    }
-   ]
-  },
-  {
-   "id": "medicare-status-letters-2026111714",
-   "type": "news",
-   "cat": "benefits",
-   "tags": [
-    "benefits",
-    "immigration"
-   ],
-   "date": "This week",
-   "ts": "2026-11-17T14:00:00Z",
-   "headline": "About 32,000 could lose Medicare Feb. 1 if they can't prove an eligible status",
-   "caption": "Social Security is mailing notices to people whose immigration status it can't confirm. Coverage may end Feb. 1, 2027, without proof.",
-   "visual": {
-    "type": "timeline",
-    "title": "Medicare status check",
-    "items": [
-     {
-      "d": "NOV 10",
-      "t": "Social Security sends notices"
-     },
-     {
-      "d": "DEC",
-      "t": "Medicare mails pink notices",
-      "s": "to those who must respond"
-     },
-     {
-      "d": "BY LETTER DATE",
-      "t": "Send proof of status",
-      "now": true
-     },
-     {
-      "d": "FEB 1",
-      "t": "Coverage may end",
-      "s": "if not confirmed"
-     }
-    ]
-   },
-   "detail": [
-    "CMS estimates about 32,000 people could lose Medicare. They enrolled before July 4, 2025, and their immigration status can't be confirmed.",
-    "A 2025 law removed refugees, asylees, TPS holders and some others from Medicare eligibility. US citizens, green card holders, Cuban-Haitian entrants and some Pacific island migrants still qualify. Social Security benefits are not changing.",
-    "People can upload documents in their my Social Security account or bring them to a local office. Social Security's help line is 1-844-507-7131."
-   ],
-   "money": [
-    "If you or a parent gets a notice, respond early to avoid a gap in coverage.",
-    "If coverage ends, check employer, spouse or state programs; CMS says those losing Medicare this way won't get Marketplace premium help.",
-    "Watch for scams: only send documents to Social Security, never a third party."
-   ],
-   "risk": [
-    "Missing the deadline could mean losing coverage on Feb. 1.",
-    "Losing Medicare can bring large medical bills."
-   ],
-   "sources": [
-    {
-     "t": "32,000 To Lose Medicare As 2027 Deadline Approaches",
-     "d": "newsweek.com",
-     "u": "https://www.newsweek.com/32000-lose-medicare-2027-deadline-approaches-12705589"
-    },
-    {
-     "t": "Social Security Letters Say Medicare May End February 1",
-     "d": "medicaremonopoly.substack.com",
-     "u": "https://medicaremonopoly.substack.com/p/community-chest-social-security-medicare-letters-nov-16-2026"
-    }
-   ]
-  },
-  {
-   "id": "aon-usi-close-2026111714",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-17T14:00:00Z",
-   "headline": "Aon completes its $17 billion purchase of insurance broker USI",
-   "caption": "Aon closed its deal for USI, the 10th-largest US insurance broker. USI brings about $3 billion in yearly revenue.",
-   "visual": {
-    "type": "deals",
-    "title": "Insurance broker deal",
-    "items": [
-     {
-      "a": "Aon",
-      "b": "USI Insurance Services",
-      "amt": "$17B",
-      "st": "Completed Nov. 16",
-      "c": "ok"
-     }
-    ]
-   },
-   "detail": [
-    "Aon said it completed its $17 billion acquisition of USI on Nov. 16. USI has about $3 billion in annual revenue, more than 10,500 workers and nearly 200 US offices.",
-    "USI will operate as 'USI, an Aon company.' Mike Sicard becomes president of Aon and leads its mid-market business.",
-    "Aon expects about $395 million in yearly cost savings and other gains, and will update its 2027 outlook in early 2027."
-   ],
-   "money": [
-    "If your business uses USI, review your policies at renewal and compare quotes.",
-    "Broker mergers can change service teams; ask who your new contact is.",
-    "Insurance broker stocks can be steady earners; compare them in a diversified portfolio."
-   ],
-   "risk": [
-    "Big mergers can bring job cuts and service changes."
-   ],
-   "sources": [
-    {
-     "t": "Aon completes acquisition of USI (press release, Form 8-K)",
-     "d": "sec.gov",
-     "u": "https://www.sec.gov/Archives/edgar/data/0000315293/000119312526463733/d181018dex991.htm"
-    }
-   ]
-  },
-  {
-   "id": "thanksgiving-travel-2026111714",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business"
-   ],
-   "date": "This week",
-   "ts": "2026-11-17T14:00:00Z",
-   "headline": "81.5 million to travel for Thanksgiving as domestic airfares jump 39%",
-   "caption": "AAA expects about 81.5 million travelers next week, slightly fewer than last year. Hopper says Thanksgiving fares are the highest in at least 10 years.",
-   "visual": {
-    "type": "board",
-    "title": "Thanksgiving travel 2026",
-    "rows": [
-     {
-      "k": "Total travelers",
-      "s": "Nov 24-30, AAA",
-      "v": "81.5M"
-     },
-     {
-      "k": "By car",
-      "v": "~73M"
-     },
-     {
-      "k": "Flying",
-      "v": "~6M"
-     },
-     {
-      "k": "Domestic fares",
-      "s": "vs 2025, Hopper",
-      "v": "+39%",
-      "ch": 39,
-      "tone": "loss"
-     },
-     {
-      "k": "Sunday Nov 29 return",
-      "s": "avg round trip",
-      "v": "~$604"
-     }
-    ]
-   },
-   "detail": [
-    "AAA forecasts about 81.5 million people will travel from Nov. 24 to Nov. 30. That's down slightly from 81.6 million last year. Nearly 73 million will drive and almost 6 million will fly.",
-    "Hopper data shows domestic round-trip fares up 39% from 2025. Sunday, Nov. 29, is expected to be the busiest flying day.",
-    "Hopper earlier found returning Sunday costs about $604, versus roughly $350 for a Monday or Tuesday return."
-   ],
-   "money": [
-    "Flying home Monday or Tuesday instead of Sunday could save about $250 a ticket.",
-    "Leaving on Thanksgiving Day itself has been one of the cheaper departure days.",
-    "Book Amtrak early; it is adding extra trains on the DC-New York route."
-   ],
-   "risk": [
-    "Fares and gas prices can still rise.",
-    "FAA staffing problems may cause delays."
-   ],
-   "sources": [
-    {
-     "t": "Thanksgiving travel forecast: Record number of travelers expected",
-     "d": "abc30.com",
-     "u": "https://abc30.com/story/thanksgiving-travel-record-number-travelers-expected-fly-take-trains-drive-holiday/20032744/"
-    },
-    {
-     "t": "Holiday travelers face decade-high airfare",
-     "d": "foxweather.com",
-     "u": "https://www.foxweather.com/lifestyle/holiday-travel-costliest-decade-thanksgiving-christmas"
-    }
-   ]
-  },
-  {
-   "id": "vance-iran-tanker-2026111714",
-   "type": "news",
-   "cat": "world",
-   "tags": [
-    "world",
-    "markets"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-17T14:00:00Z",
-   "headline": "Vance rules out a 'forever war' as a third US carrier heads to the Middle East",
-   "caption": "Vice President Vance said Trump won't let the Iran conflict drag on, without setting a timeline. A gas tanker was hit near Oman late Monday.",
-   "visual": {
-    "type": "points",
-    "title": "Gulf tensions, latest",
-    "items": [
-     "Vance: no 'forever war,' no 'artificial timeline'",
-     "A third US aircraft carrier is headed to the region",
-     "LPG tanker Tara Gas hit near Khasab, Oman",
-     "Crew of 25 reported safe by India"
-    ]
-   },
-   "detail": [
-    "Vice President JD Vance said Trump will not let the conflict with Iran become a forever war, even as the US sends a third aircraft carrier to the region. He said he would not set an artificial timeline.",
-    "The Panama-flagged gas tanker Tara Gas was hit about 7 nautical miles north of Khasab, Oman, on Monday evening, starting an engine room fire. India said all 25 crew were safe.",
-    "Iran's Revolutionary Guards also said they fired drones at a US radar at a Bahrain air base. Bahrain later gave an all-clear."
-   ],
-   "money": [
-    "Shipping attacks can lift oil and gas prices; fill up when local prices dip.",
-    "Energy and defense stocks often move on Gulf news; keep any bets small.",
-    "Higher fuel costs feed into airfares and shipping, so budget extra for the holidays."
-   ],
-   "risk": [
-    "Escalation could spike oil prices quickly.",
-    "Markets can swing on headlines."
-   ],
-   "sources": [
-    {
-     "t": "US-Iran tensions: tanker incident near Hormuz as Vance rules out forever war",
-     "d": "gulfnews.com",
-     "u": "https://gulfnews.com/world/mena/middle-east-conflict-tanker-incident-near-hormuz-as-vance-rules-out-forever-war-1.500749924"
-    },
-    {
-     "t": "US, Israel, Iran war live updates, November 17",
-     "d": "khaleejtimes.com",
-     "u": "https://www.khaleejtimes.com/world/mena/us-israel-iran-saudi-arabia-yemen-war-live-updates-november-17-2026"
-    }
-   ]
-  },
-  {
-   "id": "disney-more-layoffs-2026111714",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business"
-   ],
-   "date": "Tue Nov 17",
-   "ts": "2026-11-17T14:00:00Z",
-   "headline": "Disney's CFO says more layoffs are coming as it funds $26 billion in content",
-   "caption": "CFO Hugh Johnston told CNBC Disney expects more job cuts. They help fund a projected $26 billion content budget for fiscal 2027.",
-   "visual": {
-    "type": "timeline",
-    "title": "Disney job cuts in 2026",
-    "items": [
-     {
-      "d": "APR",
-      "t": "1,000 jobs",
-      "s": "TV and film"
-     },
-     {
-      "d": "JUL",
-      "t": "100+ jobs",
-      "s": "Pixar"
-     },
-     {
-      "d": "SEP",
-      "t": "Hundreds of jobs",
-      "s": "HR and tech"
-     },
-     {
-      "d": "NOV 17",
-      "t": "CFO: more layoffs expected",
-      "now": true
-     }
-    ]
-   },
-   "detail": [
-    "Disney CFO Hugh Johnston told CNBC the company expects more layoffs. Disney has not said which divisions or how many jobs.",
-    "The cuts are part of a plan to save about $3 billion by fiscal 2029 and help pay for an expected $26 billion in content spending in fiscal 2027.",
-    "Disney has already cut 1,000 TV and film jobs in April, more than 100 at Pixar in July and hundreds in HR and tech in September."
-   ],
-   "money": [
-    "If you work in media, update your resume and build an emergency fund now.",
-    "Disney shareholders get a higher dividend; consider reinvesting it.",
-    "Laid-off workers should check state unemployment and COBRA or ACA options quickly."
-   ],
-   "risk": [
-    "Job cuts may hit more media and entertainment workers.",
-    "Cost cuts don't guarantee higher profits."
-   ],
-   "sources": [
-    {
-     "t": "Disney says more layoffs are on the way",
-     "d": "fastcompany.com",
-     "u": "https://www.fastcompany.com/91643954/disney-layoffs-update-more-job-cuts-expected-revenue-soars?partner=rss"
-    }
-   ]
-  },
-  {
-   "id": "edu-ipo-pricing-2026111714",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "ai",
-    "markets"
-   ],
-   "date": "Explainer",
-   "ts": "2026-11-17T14:00:00Z",
-   "headline": "IPO pricing: what 'top of the range' really means",
-   "caption": "Anthropic is guiding its IPO at or above its range. Here's how IPO prices get set and what it means for you.",
-   "scenes": [
-    {
-     "k": "THE SETUP",
-     "t": "Companies set a price range first",
-     "s": "Anthropic picked $70 to $78 a share."
-    },
-    {
-     "k": "BOOK BUILDING",
-     "t": "Big investors place orders",
-     "s": "Banks collect orders to see how much demand there is.",
-     "viz": {
-      "type": "flow",
-      "items": [
-       "Set range",
-       "Collect orders",
-       "Close books",
-       "Set final price",
-       "Trading starts"
-      ]
-     }
-    },
-    {
-     "k": "STRONG DEMAND",
-     "t": "Hot demand pushes price up",
-     "s": "Pricing at or above the top means orders beat supply."
-    },
-    {
-     "k": "THE MATH",
-     "t": "Higher price, bigger valuation",
-     "viz": {
-      "type": "split",
-      "items": [
-       [
-        "Shares",
-        "825M"
-       ],
-       [
-        "Top price",
-        "$78"
-       ],
-       [
-        "Value",
-        "~$1.4T",
-        "wide"
-       ]
-      ]
-     },
-     "say": "825 million shares at 78 dollars helps value Anthropic at about 1.4 trillion dollars."
-    },
-    {
-     "k": "DAY ONE",
-     "t": "First trades can swing wildly",
-     "s": "Most small investors buy only when trading opens, often above the IPO price."
-    },
-    {
-     "k": "YOUR MOVE",
-     "t": "Use limits, keep it small",
-     "s": "A limit order caps what you pay. Don't put money you need into one new stock."
-    }
-   ]
-  },
-  {
-   "id": "edu-airfare-timing-2026111714",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "business"
-   ],
-   "date": "Explainer",
-   "ts": "2026-11-17T14:00:00Z",
-   "headline": "Holiday airfare: why the day you fly changes the price",
-   "caption": "Thanksgiving fares are up 39%. Moving your flight by a day can save hundreds.",
-   "scenes": [
-    {
-     "k": "THE PROBLEM",
-     "t": "Thanksgiving fares are up 39%",
-     "s": "Hopper says they're the highest in at least 10 years."
-    },
-    {
-     "k": "WHY",
-     "t": "Airlines price by demand",
-     "s": "When everyone wants the same day, prices climb."
-    },
-    {
-     "k": "THE PEAK",
-     "t": "Sunday is the priciest return",
-     "s": "Nov. 29 is expected to be the busiest flying day."
-    },
-    {
-     "k": "THE GAP",
-     "t": "Shift one day, save big",
-     "viz": {
-      "type": "split",
-      "items": [
-       [
-        "Sunday return",
-        "~$604"
-       ],
-       [
-        "Mon/Tue return",
-        "~$350"
-       ],
-       [
-        "Possible savings",
-        "~$250",
-        "wide"
-       ]
-      ]
-     },
-     "say": "Returning Sunday averages about 604 dollars, versus about 350 for Monday or Tuesday."
-    },
-    {
-     "k": "CHEAP DAYS",
-     "t": "Fly on the holiday itself",
-     "s": "Leaving on Thanksgiving Day has been one of the cheaper options."
-    },
-    {
-     "k": "YOUR MOVE",
-     "t": "Be flexible, track prices",
-     "s": "Set fare alerts and compare nearby airports before you book."
-    }
-   ]
-  },
-  {
-   "id": "klarna-q3-2026111713",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business",
-    "markets"
-   ],
-   "date": "Tue Nov 17",
-   "ts": "2026-11-17T13:00:00Z",
-   "headline": "Klarna's sales rise 12% to $1.01B as its loss shrinks to $65 million",
-   "caption": "The buy now, pay later firm grew revenue 12% and narrowed its loss by $30 million. It now has 122 million active shoppers.",
-   "visual": {
-    "type": "board",
-    "title": "Klarna Q3 2026",
-    "rows": [
-     {
-      "k": "Revenue",
-      "v": "$1.01B",
-      "ch": 12,
-      "tone": "gain"
-     },
-     {
-      "k": "Spending through Klarna",
-      "s": "GMV",
-      "v": "$36.1B",
-      "ch": 10,
-      "tone": "gain"
-     },
-     {
-      "k": "Net loss",
-      "v": "-$65M",
-      "s": "$30M smaller",
-      "tone": "loss"
-     },
-     {
-      "k": "Adjusted operating income",
-      "v": "$21M",
-      "tone": "gain"
-     },
-     {
-      "k": "Active shoppers",
-      "v": "122M",
-      "ch": 7,
-      "tone": "gain"
-     }
-    ],
-    "foot": "2026 revenue guide: $4.08B to $4.16B"
-   },
-   "detail": [
-    "Klarna reported third-quarter revenue of about $1.01 billion, up 12% from a year ago. Total spending through its app and cards rose 10% to $36.1 billion.",
-    "It still lost money: a net loss of $65 million, which is $30 million smaller than last year. On an adjusted basis it made $21 million in operating income. Merchants using Klarna jumped 59% to 1.35 million.",
-    "For all of 2026 the company expects $4.08 billion to $4.16 billion in revenue and $280 million to $300 million in adjusted operating income. That implies a much bigger fourth quarter."
-   ],
-   "money": [
-    "Pay-later plans are interest-free only if you pay on time; set autopay so you never miss one.",
-    "Count all your open pay-later plans before holiday shopping so the payments don't stack up.",
-    "Klarna stock may swing on Q4 holiday results; a fund spreads that risk."
-   ],
-   "risk": [
-    "Klarna still loses money on a reported basis, and its outlook relies on a strong holiday quarter."
-   ],
-   "sources": [
-    {
-     "t": "Klarna Q3 Revenue Up 12% as Adjusted Operating Income Hits US$21 Million",
-     "d": "securities.io",
-     "u": "https://www.securities.io/klarna-q3-revenue-up-12-as-adjusted-operating-income-hits-us-21-million/"
-    },
-    {
-     "t": "Klarna Reports Third Quarter 2026 Results",
-     "d": "financialcontent.com",
-     "u": "https://www.financialcontent.com/article/bizwire-2026-11-17-klarna-reports-third-quarter-2026-results"
-    }
-   ]
-  },
-  {
-   "id": "red-cat-plunge-2026111713",
-   "type": "news",
-   "cat": "markets",
-   "tags": [
-    "markets",
-    "business"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-17T13:00:00Z",
-   "headline": "Drone maker Red Cat sinks 25% after a big sales miss and pulling its 2026 target",
-   "caption": "Red Cat's Q3 revenue came in at $11.77 million, about $28.9 million below estimates. The company also withdrew its 2026 revenue goal.",
-   "visual": {
-    "type": "stat",
-    "title": "Red Cat (RCAT) after hours",
-    "num": "-25%",
-    "tone": "loss",
-    "label": "Shares fell in extended trading Monday after the report.",
-    "facts": [
-     [
-      "Q3 revenue",
-      "$11.77M",
-      "actual"
-     ],
-     [
-      "Miss vs. estimates",
-      "$28.9M",
-      "below forecast"
-     ],
-     [
-      "2026 revenue target",
-      "Withdrawn",
-      "no new number"
-     ]
-    ]
-   },
-   "detail": [
-    "Red Cat Holdings, which makes military drones, said third-quarter revenue was $11.77 million. Analysts had expected about $28.9 million more than that.",
-    "The company also pulled its revenue target for 2026. Its shares fell 25% in extended trading on Monday.",
-    "Small defense-tech stocks have been very volatile this year, and a missed quarter can erase months of gains quickly."
-   ],
-   "money": [
-    "Small, hot stocks can drop 25% overnight; keep any single bet to a small slice of your money.",
-    "Withdrawn guidance is a red flag; wait for a new forecast before buying the dip.",
-    "Broad funds hold defense names without the single-stock swings."
-   ],
-   "risk": [
-    "The stock could fall further when regular trading opens, or bounce if buyers step in."
-   ],
-   "sources": [
-    {
-     "t": "Stock Futures Fall 0.45% Ahead of Nvidia Q3 Earnings",
-     "d": "tradingandinvestmentnews.co.uk",
-     "u": "https://www.tradingandinvestmentnews.co.uk/stock-futures-fall-nvidia-earnings/"
-    }
-   ]
-  },
-  {
-   "id": "nvidia-13f-spacex-intel-2026111713",
-   "type": "news",
-   "cat": "markets",
-   "tags": [
-    "markets",
-    "ai"
-   ],
-   "date": "Tue Nov 17",
-   "ts": "2026-11-17T13:00:00Z",
-   "headline": "Nvidia's filing shows SpaceX is now its top holding; Intel falls 3.3% on a stake cut",
-   "caption": "Nvidia's Q3 holdings report shows a $19.68B SpaceX stake, edging out Intel. Nvidia cut its Intel stake by 25%, and Intel slid premarket.",
-   "visual": {
-    "type": "board",
-    "title": "Nvidia's biggest stock holdings (Q3)",
-    "rows": [
-     {
-      "k": "SpaceX",
-      "s": "now #1",
-      "v": "$19.68B",
-      "tone": "acc"
-     },
-     {
-      "k": "Intel",
-      "s": "stake cut 25%",
-      "v": "$19.37B",
-      "tone": "loss"
-     },
-     {
-      "k": "Intel premarket",
-      "v": "-3.3%",
-      "ch": -3.3,
-      "tone": "loss"
-     },
-     {
-      "k": "Nvidia, past month",
-      "v": "about -28%",
-      "ch": -28,
-      "tone": "loss"
-     }
-    ],
-    "foot": "Nvidia reports earnings after today's close"
-   },
-   "detail": [
-    "Nvidia's latest quarterly filing of its stock investments shows SpaceX became its largest holding in the third quarter, worth $19.68 billion. Its Intel stake was worth $19.37 billion.",
-    "Nvidia also cut its Intel stake by 25%. Intel shares fell 3.3% before the opening bell on Tuesday.",
-    "Nvidia itself reports results after Tuesday's close under interim CEO Colette Kress. Its shares are down roughly 28% over the past month."
-   ],
-   "money": [
-    "13F filings show what big investors bought and sold, but they're weeks old; don't copy trades blindly.",
-    "If you own Intel or Nvidia, check how much of your portfolio sits in chip stocks.",
-    "Big earnings nights can move whole sectors; avoid buying right before the report if you can't handle a swing."
-   ],
-   "risk": [
-    "Chip stocks are swinging hard on earnings, export rules and Nvidia's leadership news."
-   ],
-   "sources": [
-    {
-     "t": "US Stock Futures Edge Lower After Tech Sell-Off",
-     "d": "finance.yahoo.com",
-     "u": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-edge-lower-102414813.html"
-    },
-    {
-     "t": "Stock Futures Fall 0.45% Ahead of Nvidia Q3 Earnings",
-     "d": "tradingandinvestmentnews.co.uk",
-     "u": "https://www.tradingandinvestmentnews.co.uk/stock-futures-fall-nvidia-earnings/"
     }
    ]
   }
