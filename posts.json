@@ -1,6 +1,1189 @@
 {
- "updated": "2026-11-17T23:00:00Z",
+ "updated": "2026-11-18T00:00:00Z",
  "items": [
+  {
+   "id": "futures-jump-nvidia-guide-2026111800",
+   "type": "news",
+   "cat": "markets",
+   "tags": [
+    "markets",
+    "ai"
+   ],
+   "date": "Wed Nov 18",
+   "ts": "2026-11-18T00:00:00Z",
+   "headline": "Futures jump overnight: Nasdaq 100 up 1.4% as Nvidia's $130B forecast lifts AI stocks",
+   "caption": "Nvidia rose over 4% after hours after guiding above Wall Street's estimate. It came after the S&P 500 closed Tuesday at its lowest since June.",
+   "visual": {
+    "type": "board",
+    "title": "Overnight after Nvidia",
+    "rows": [
+     {
+      "k": "Nasdaq 100 futures",
+      "v": "+1.4%",
+      "ch": 1.4
+     },
+     {
+      "k": "S&P 500 futures",
+      "s": "by 8 a.m. Tokyo",
+      "v": "+0.9%",
+      "ch": 0.9
+     },
+     {
+      "k": "Nvidia after hours",
+      "v": "4%+",
+      "tone": "gain"
+     },
+     {
+      "k": "Q4 sales guide",
+      "s": "vs. $125.3B expected",
+      "v": "$130B",
+      "tone": "acc"
+     },
+     {
+      "k": "Fund tech overweight",
+      "s": "BofA survey, from 37%",
+      "v": "12%",
+      "tone": "loss"
+     }
+    ],
+    "foot": "Bloomberg, Nov. 18"
+   },
+   "detail": [
+    "Stock futures rose in early Asian trading Wednesday after Nvidia's results. Nasdaq 100 futures gained 1.4% and S&P 500 futures were up about 0.9%. Nvidia shares climbed more than 4% after hours, after four straight losing days.",
+    "Nvidia projected fiscal fourth-quarter sales of $130 billion, plus or minus 3%, versus analysts' $125.3 billion. It also raised its revenue growth forecast for next fiscal year to 75% from 70%. The outlook assumes no data center chip sales to China.",
+    "The bounce follows a rough stretch. The S&P 500 fell 1% Tuesday to its lowest since June. A Bank of America survey showed fund managers' net tech overweight fell to 12% from 37% in October, the biggest drop since 2006."
+   ],
+   "money": [
+    "Futures can reverse by the open; don't chase a pre-market jump with money you can't leave alone.",
+    "If AI funds make up much of your portfolio, the sharp swings are a reason to check your mix.",
+    "Broad index funds catch rebounds like this without betting on one company's news."
+   ],
+   "risk": [
+    "Treasury yields stay above 5% and traders fully price a December rate hike, which can weigh on stocks."
+   ],
+   "sources": [
+    {
+     "t": "US Stock Futures Jump After Nvidia Earnings: Markets Wrap",
+     "d": "swissinfo.ch",
+     "u": "https://www.swissinfo.ch/eng/us-stock-futures-jump-after-nvidia-earnings:-markets-wrap/92397458"
+    },
+    {
+     "t": "Markets live updates: Nvidia, ASX",
+     "d": "abc.net.au",
+     "u": "https://www.abc.net.au/news/2026-11-18/asx-markets-business-live-news-nvidia/107396692"
+    }
+   ]
+  },
+  {
+   "id": "boeing-2500-cuts-2026111800",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business"
+   ],
+   "date": "Nov 17",
+   "ts": "2026-11-18T00:00:00Z",
+   "headline": "Boeing to cut about 2,500 commercial airplane jobs, around 5% of the unit",
+   "caption": "Production delays left the division with more staff than it needs. Layoff notices could go out as early as December.",
+   "visual": {
+    "type": "stat",
+    "title": "Boeing job cuts",
+    "num": "~2,500",
+    "tone": "loss",
+    "label": "About 5% of commercial airplane staff, based on year-end 2025 headcount",
+    "facts": [
+     [
+      "Notices",
+      "Dec.",
+      "as early as"
+     ],
+     [
+      "737 MAX ramp",
+      "2027",
+      "pushed back"
+     ],
+     [
+      "2024 plan",
+      "17,000",
+      "company-wide cuts"
+     ]
+    ]
+   },
+   "detail": [
+    "Boeing plans to cut about 5% of its commercial airplane workforce, or roughly 2,500 jobs. The cuts will combine attrition with involuntary layoffs.",
+    "Commercial airplanes chief Stephanie Pope told staff that slower production left the unit overstaffed. Boeing pushed a planned 737 MAX production increase to 2027 and expects to miss its 2026 delivery target.",
+    "Affected workers get layoff benefits, job placement help and employee assistance support. In 2024, CEO Kelly Ortberg announced plans to cut 17,000 jobs across the company."
+   ],
+   "money": [
+    "If you work in aerospace or for a Boeing supplier, build up an emergency fund now.",
+    "Know your severance and benefits terms before notices arrive, including health coverage timing.",
+    "Laid-off workers can file for unemployment right away; delays can cost weeks of payments."
+   ],
+   "risk": [
+    "Slower jet output can also mean fewer seats and higher airfares."
+   ],
+   "sources": [
+    {
+     "t": "Boeing to cut about 5% of commercial airplane staff, some 2,500 jobs",
+     "d": "outsourceaccelerator.com",
+     "u": "https://news.outsourceaccelerator.com/boeing-commercial-airplane-job-cuts/"
+    }
+   ]
+  },
+  {
+   "id": "ess-tech-chapter-7-2026111800",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business"
+   ],
+   "date": "Nov 13",
+   "ts": "2026-11-18T00:00:00Z",
+   "headline": "Battery maker ESS Tech shuts down and files Chapter 7; shareholders likely get nothing",
+   "caption": "The iron flow battery firm, once valued over $2 billion, ceased operations. A trustee will now sell off its assets.",
+   "visual": {
+    "type": "board",
+    "title": "ESS Tech by the numbers",
+    "rows": [
+     {
+      "k": "Peak value",
+      "s": "SPAC era",
+      "v": "$2B+"
+     },
+     {
+      "k": "Best year sales",
+      "s": "2023",
+      "v": "$7.54M"
+     },
+     {
+      "k": "2024 net loss",
+      "v": "-$86M",
+      "tone": "loss"
+     },
+     {
+      "k": "2025 net loss",
+      "v": "-$63.4M",
+      "tone": "loss"
+     },
+     {
+      "k": "Filing",
+      "s": "Delaware",
+      "v": "Chapter 7",
+      "tone": "loss"
+     }
+    ]
+   },
+   "detail": [
+    "ESS Tech, a Portland energy storage company, stopped operating on Nov. 13 and filed for Chapter 7 bankruptcy in Delaware. Backers had included Breakthrough Energy Ventures, SoftBank and BlackRock.",
+    "Chapter 7 means liquidation, not a restructuring. A trustee takes control and sells assets. Common stockholders are unlikely to be paid.",
+    "The company's best year brought just $7.54 million in sales. It had planned to sell long-duration storage to AI data centers starting in 2027."
+   ],
+   "money": [
+    "A low share price doesn't make a struggling stock cheap; in Chapter 7, shares often go to zero.",
+    "Check your funds for small-cap clean energy names with big losses and little revenue.",
+    "Selling a worthless stock can let you claim a capital loss on your taxes."
+   ],
+   "risk": [
+    "Other SPAC-era energy startups face similar cash pressure."
+   ],
+   "sources": [
+    {
+     "t": "ESS Tech Inc shuts down, ceases operations, files for bankruptcy",
+     "d": "ess-news.com",
+     "u": "https://www.ess-news.com/2026/11/17/ess-tech-inc-shuts-down-ceases-operations-files-for-bankrupty/"
+    }
+   ]
+  },
+  {
+   "id": "millicom-entel-peru-2026111800",
+   "type": "news",
+   "cat": "business",
+   "tags": [
+    "business",
+    "world"
+   ],
+   "date": "Nov 16",
+   "ts": "2026-11-18T00:00:00Z",
+   "headline": "Millicom agrees to buy Entel Peru for $1.7 billion, entering a 14th market",
+   "caption": "The Latin American carrier will pay in three parts over 18 months. The deal is expected to close in early December.",
+   "visual": {
+    "type": "deals",
+    "title": "Millicom's Peru deal",
+    "items": [
+     {
+      "a": "Millicom",
+      "b": "Entel Peru (100%)",
+      "amt": "$1.714B",
+      "st": "Close early Dec.",
+      "c": "pend"
+     },
+     {
+      "a": "Payment",
+      "b": "At closing",
+      "amt": "65%",
+      "st": "10% at 12 mo, 25% at 18 mo",
+      "c": "ok"
+     }
+    ]
+   },
+   "detail": [
+    "Millicom agreed to buy all of Entel Peru for $1.714 billion, including lease liabilities. It follows a non-binding offer disclosed on Nov. 13.",
+    "Millicom will pay 65% at closing, 10% after 12 months and 25% after 18 months. The deal needs regulatory approval.",
+    "Millicom already runs in 13 Latin American markets. It expects the purchase to raise equity free cash flow in the first year."
+   ],
+   "money": [
+    "Paying over time can protect a buyer's cash; watch for similar structures in other deals.",
+    "International stock funds may hold telecom names like this; check fees and exposure.",
+    "Deals that add cash flow can support dividends, but confirm before buying for income."
+   ],
+   "risk": [
+    "Regulators could delay or block the deal."
+   ],
+   "sources": [
+    {
+     "t": "Millicom agrees to acquire Entel Peru for $1.7 billion",
+     "d": "developingtelecoms.com",
+     "u": "https://developingtelecoms.com/telecom-business/operator-news/21135-millicom-agrees-to-acquire-entel-peru-for-1-7-billion.html"
+    }
+   ]
+  },
+  {
+   "id": "google-maps-agents-2026111800",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai"
+   ],
+   "date": "Nov 16",
+   "ts": "2026-11-18T00:00:00Z",
+   "headline": "Google Maps can now book service appointments and call local businesses for you",
+   "caption": "New Ask Maps features build trip plans and, in the US, find beauty, pet, auto and home repair slots. Google calls them experimental.",
+   "visual": {
+    "type": "points",
+    "title": "What Ask Maps adds",
+    "items": [
+     "Multi-day trip plans with numbered pins",
+     "Live route updates",
+     "US: finds beauty, pet, auto, home repair slots",
+     "Calls businesses on your behalf",
+     "Lists expand to 200+ countries"
+    ]
+   },
+   "detail": [
+    "Google added new Ask Maps features on Android and iOS. The tool can build multi-day itineraries with numbered pins and live route updates.",
+    "In the US, it can also look for appointments at beauty, pet care, auto and home repair businesses, and call local businesses for the user.",
+    "Itinerary and saved-list features are expanding to more than 200 countries and territories. Google describes the features as experimental."
+   ],
+   "money": [
+    "Ask the tool to compare quotes from several repair shops before you book.",
+    "AI-built itineraries can surface cheaper routes; check prices yourself before paying.",
+    "Confirm any booking the AI makes, including cancellation fees."
+   ],
+   "risk": [
+    "Experimental agents can make mistakes when booking or calling."
+   ],
+   "sources": [
+    {
+     "t": "AI briefing - 17 November 2026",
+     "d": "sixsixai.com",
+     "u": "https://sixsixai.com/news/2026-11-17-ai-news/"
+    },
+    {
+     "t": "Ask Maps holiday travel features",
+     "d": "blog.google",
+     "u": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/"
+    }
+   ]
+  },
+  {
+   "id": "pony-toyota-robotaxi-2026111800",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai",
+    "business"
+   ],
+   "date": "Nov 16",
+   "ts": "2026-11-18T00:00:00Z",
+   "headline": "Pony.ai and Toyota start fully driverless paid robotaxi rides in Guangzhou",
+   "caption": "The seventh-generation bZ4X Robotaxi joins Pony.ai's driverless fleet. Fleet size and safety data were not disclosed.",
+   "visual": {
+    "type": "timeline",
+    "title": "Pony.ai and Toyota",
+    "items": [
+     {
+      "d": "2019",
+      "t": "Partnership begins"
+     },
+     {
+      "d": "2023",
+      "t": "Joint venture",
+      "s": "over RMB 1bn committed"
+     },
+     {
+      "d": "NOV 16",
+      "t": "Paid driverless rides start",
+      "s": "Guangzhou",
+      "now": true
+     }
+    ]
+   },
+   "detail": [
+    "Pony.ai and Toyota launched a fully driverless, paid robotaxi service in Guangzhou using the seventh-generation bZ4X Robotaxi.",
+    "The cars use Pony.ai's PonyWorld world model and Virtual Driver technology. The partnership began in 2019, and a 2023 joint venture with GAC Toyota and Toyota Motor China has committed over RMB 1 billion.",
+    "The companies did not share fleet size, coverage area or safety data."
+   ],
+   "money": [
+    "Robotaxi stocks swing on launch news; size any bet small.",
+    "Auto and AI ETFs may hold Toyota or Pony.ai; read the holdings list first.",
+    "Watch for real ride volumes and costs, not just launch headlines."
+   ],
+   "risk": [
+    "No safety or fleet data makes the scale hard to judge."
+   ],
+   "sources": [
+    {
+     "t": "AI briefing - 17 November 2026",
+     "d": "sixsixai.com",
+     "u": "https://sixsixai.com/news/2026-11-17-ai-news/"
+    }
+   ]
+  },
+  {
+   "id": "openai-child-safety-tools-2026111800",
+   "type": "news",
+   "cat": "ai",
+   "tags": [
+    "ai"
+   ],
+   "date": "Nov 16",
+   "ts": "2026-11-18T00:00:00Z",
+   "headline": "OpenAI releases a free child-abuse image classifier and adds 24-hour ChatGPT bans",
+   "caption": "The tool is free through the API for vetted groups. ChatGPT will warn, end chats and pause access after violations.",
+   "visual": {
+    "type": "stat",
+    "title": "OpenAI child-safety update",
+    "num": "-48%",
+    "tone": "acc",
+    "label": "Fewer images sent for review, per OpenAI, while finding about the same abuse",
+    "facts": [
+     [
+      "Access pause",
+      "24 hrs",
+      "first violation"
+     ],
+     [
+      "Cost",
+      "Free",
+      "for vetted groups"
+     ],
+     [
+      "Partner",
+      "NCMEC",
+      "and others"
+     ]
+    ]
+   },
+   "detail": [
+    "OpenAI released an image classifier that flags likely child sexual abuse material, and likely AI-generated material, separately. Vetted organizations can use it free through the API.",
+    "OpenAI says, without outside verification, that it cut images sent for human review by 48% while finding about as much abuse as its older tool.",
+    "ChatGPT will now warn users, end the chat and pause access for 24 hours. Repeat violations can bring longer bans or reports to authorities."
+   ],
+   "money": [
+    "Small platforms can use the free tool instead of paying for moderation software.",
+    "Parents can review AI app safety settings on kids' devices.",
+    "Firms that use AI content should check vendors' safety features before signing."
+   ],
+   "risk": [
+    "The 48% claim has not been independently checked."
+   ],
+   "sources": [
+    {
+     "t": "AI briefing - 17 November 2026",
+     "d": "sixsixai.com",
+     "u": "https://sixsixai.com/news/2026-11-17-ai-news/"
+    },
+    {
+     "t": "Strengthening online child safety",
+     "d": "openai.com",
+     "u": "https://openai.com/index/strengthening-online-child-safety/"
+    }
+   ]
+  },
+  {
+   "id": "cpt-ruling-students-2026111800",
+   "type": "news",
+   "cat": "immigration",
+   "tags": [
+    "immigration"
+   ],
+   "date": "Nov 17",
+   "ts": "2026-11-18T00:00:00Z",
+   "headline": "Judge blocks DHS limits on student internships; 140,775 had work training approval in 2024",
+   "caption": "A Boston judge stopped two August directives that narrowed curricular practical training. It's the second student ruling against DHS this week.",
+   "visual": {
+    "type": "stat",
+    "title": "Curricular practical training",
+    "num": "140,775",
+    "tone": "acc",
+    "label": "Student visa holders authorized for CPT in 2024, per ICE",
+    "facts": [
+     [
+      "Ruling",
+      "Nov. 17",
+      "Judge Julia Kobick"
+     ],
+     [
+      "Old rule",
+      "35+ yrs",
+      "credit or required"
+     ],
+     [
+      "Top employers",
+      "Amazon, Tesla",
+      "2024"
+     ]
+    ]
+   },
+   "detail": [
+    "U.S. District Judge Julia Kobick in Boston blocked two DHS directives from August. They said work training counts only if every student in a program must do it, ruling out elective training taken for credit.",
+    "For more than 35 years, the government allowed such training when it earned credit or was required. The judge found the change likely arbitrary because DHS did not acknowledge it was reversing course. Four groups, including the Association of American Universities, sued.",
+    "On Monday, a different Boston judge struck down a separate rule limiting how long foreign students can stay. DHS declined to comment."
+   ],
+   "money": [
+    "International students can talk to their school's office about internships paused by the directives.",
+    "Employers that hire interns on CPT may be able to resume plans while the order holds.",
+    "Keep copies of all work authorization papers in case rules change again."
+   ],
+   "risk": [
+    "The government can appeal, and the order is a preliminary step."
+   ],
+   "sources": [
+    {
+     "t": "US judge blocks Trump policy restricting foreign student work options",
+     "d": "timeslive.co.za",
+     "u": "https://www.timeslive.co.za/news/world/2026-11-17-us-judge-blocks-trump-policy-restricting-foreign-student-work-options/"
+    }
+   ]
+  },
+  {
+   "id": "nj-sues-geo-delaney-2026111800",
+   "type": "news",
+   "cat": "immigration",
+   "tags": [
+    "immigration",
+    "states"
+   ],
+   "date": "Nov 17",
+   "ts": "2026-11-18T00:00:00Z",
+   "headline": "New Jersey sues GEO Group to force records on medical care at Delaney Hall",
+   "caption": "The state says GEO ignored an August subpoena. At least three people have died at the facility, the state says.",
+   "visual": {
+    "type": "timeline",
+    "title": "NJ vs. GEO Group",
+    "items": [
+     {
+      "d": "JUN",
+      "t": "NJ sues over inspector access"
+     },
+     {
+      "d": "AUG",
+      "t": "Subpoena on detainee medical care"
+     },
+     {
+      "d": "NOV 17",
+      "t": "Suit to force compliance",
+      "now": true
+     }
+    ]
+   },
+   "detail": [
+    "New Jersey Attorney General Jennifer Davenport sued GEO Group, which runs the Delaney Hall detention site. The suit asks a court to make GEO answer an August subpoena about detainees' medical care.",
+    "GEO says it needs Homeland Security's permission to comply. The state disagrees and says DHS has not answered its requests.",
+    "ICE says the site is regularly audited, meets state and local laws, and gives detainees medical care and contact with family and lawyers."
+   ],
+   "money": [
+    "GEO is publicly traded; legal fights can move private prison stocks.",
+    "Families of detainees can track filings in public court records for free.",
+    "Investors in prison operators should weigh legal and policy risks."
+   ],
+   "risk": [
+    "The court could side with GEO on the federal permission question."
+   ],
+   "sources": [
+    {
+     "t": "NJ sues to compel ICE facility operator to comply with subpoena in medical probe",
+     "d": "abcnews.com",
+     "u": "https://abcnews.com/US/nj-sues-compel-ice-facility-operator-comply-subpoena/story?id=138226584"
+    }
+   ]
+  },
+  {
+   "id": "hud-mixed-status-rule-2026111800",
+   "type": "news",
+   "cat": "benefits",
+   "tags": [
+    "benefits",
+    "immigration"
+   ],
+   "date": "Effective Dec 14",
+   "ts": "2026-11-18T00:00:00Z",
+   "headline": "HUD rule ends housing aid for mixed-status families on Dec. 14; up to 80,000 at risk",
+   "caption": "Every household member must now prove eligible status for public housing and Section 8. Landlords get 90 days after Dec. 14 to comply.",
+   "visual": {
+    "type": "board",
+    "title": "HUD eligible-status rule",
+    "rows": [
+     {
+      "k": "Takes effect",
+      "v": "Dec. 14",
+      "tone": "acc"
+     },
+     {
+      "k": "Families affected",
+      "s": "researchers' estimate",
+      "v": "~20,000"
+     },
+     {
+      "k": "People displaced",
+      "s": "CBPP estimate",
+      "v": "~80,000",
+      "tone": "loss"
+     },
+     {
+      "k": "Children among them",
+      "v": "~37,000",
+      "tone": "loss"
+     },
+     {
+      "k": "Massachusetts",
+      "s": "22 AGs' estimate",
+      "v": "~1,000 homes"
+     }
+    ]
+   },
+   "detail": [
+    "HUD published a final rule on Nov. 12 that takes effect Dec. 14. Every member of a household must be verified as a citizen or eligible noncitizen to get HUD housing help, including public housing and Section 8.",
+    "Since 1995, mixed-status families could stay with a reduced, prorated subsidy. That option ends. Tenants may need certified papers like a passport or birth certificate.",
+    "A CBPP analysis says nearly 80,000 people could be displaced, about 37,000 of them children. Advocates in Massachusetts say they will fight the rule."
+   ],
+   "money": [
+    "Gather passports or birth certificates for every household member now.",
+    "If your family may be affected, contact a legal aid group before your next recertification.",
+    "Local and state housing programs may have different rules; ask about them."
+   ],
+   "risk": [
+    "HUD's own analysis projects added costs, not savings, and lawsuits are possible."
+   ],
+   "sources": [
+    {
+     "t": "New federal rule ends housing aid for mixed-status families",
+     "d": "deseret.com",
+     "u": "https://www.deseret.com/politics/2026/11/15/us-citizenship-now-needed-for-housing-assistance/"
+    },
+    {
+     "t": "Mass. advocates pledge to fight new HUD rule on immigrant households",
+     "d": "commonwealthbeacon.org",
+     "u": "https://commonwealthbeacon.org/housing/mass-advocates-pledge-to-fight-new-hud-rule-on-immigrant-households"
+    }
+   ]
+  },
+  {
+   "id": "ct-medicaid-hold-harmless-2026111800",
+   "type": "news",
+   "cat": "benefits",
+   "tags": [
+    "benefits",
+    "states"
+   ],
+   "date": "Nov 16",
+   "ts": "2026-11-18T00:00:00Z",
+   "headline": "Connecticut: no Medicaid losses from work rules until July 2027, but rules start Jan. 1",
+   "caption": "HUSKY D members must show 80 hours a month or $580 in earnings. Those who miss it keep coverage through June 30, 2027.",
+   "visual": {
+    "type": "vs",
+    "title": "Connecticut HUSKY D work rule",
+    "a": [
+     "Work",
+     "80 hrs/mo",
+     0.8,
+     "acc"
+    ],
+    "b": [
+     "Or earn",
+     "$580/mo",
+     1,
+     "acc"
+    ],
+    "foot": "School, service or training hours also count"
+   },
+   "detail": [
+    "Connecticut will use a new federal option to delay Medicaid coverage losses from work requirements. Enrollees who are otherwise eligible keep coverage through June 30, 2027.",
+    "The HUSKY D rules still start Jan. 1. Members must show 80 hours a month of work, or earn at least $580 a month. School, community service or job training also count, and there are exemptions.",
+    "Gov. Ned Lamont announced the move Monday. Democrats want to undo the rules, but a repeal could face a veto."
+   ],
+   "money": [
+    "Start tracking work hours or pay stubs now so reporting is easy.",
+    "Check if you qualify for an exemption before the July cutoff.",
+    "Job training and community service count, which can help build skills too."
+   ],
+   "risk": [
+    "Coverage losses can begin in July 2027 if you don't report."
+   ],
+   "sources": [
+    {
+     "t": "CT delays Medicaid losses from work requirements until July 2027",
+     "d": "ctpublic.org",
+     "u": "https://ctpublic.org/news/2026-11-17/ct-delays-medicaid-losses-from-work-requirements-until-july-2027"
+    }
+   ]
+  },
+  {
+   "id": "lahsa-150m-settlement-2026111800",
+   "type": "news",
+   "cat": "california",
+   "tags": [
+    "california",
+    "benefits"
+   ],
+   "date": "Nov 17",
+   "ts": "2026-11-18T00:00:00Z",
+   "headline": "LA homeless agency LAHSA will repay $150M and lose federal funding by end of 2027",
+   "caption": "LA County will take over the agency's programs under HUD oversight. LAHSA still denies wrongdoing.",
+   "visual": {
+    "type": "stat",
+    "title": "LAHSA settlement",
+    "num": "$150M",
+    "tone": "loss",
+    "label": "Amount LAHSA returns to HUD after a fight over misused funds",
+    "facts": [
+     [
+      "Federal funds end",
+      "2027",
+      "by year-end"
+     ],
+     [
+      "Takeover",
+      "LA County",
+      "HUD oversight"
+     ],
+     [
+      "Homeless count",
+      "72,000+",
+      "LA County, 2025"
+     ]
+    ]
+   },
+   "detail": [
+    "The Los Angeles Homeless Services Authority settled with HUD over claims it misused federal money. LAHSA will return $150 million.",
+    "HUD says LAHSA will be cut off from federal funds by the end of 2027. Los Angeles County will take over its projects and services, with HUD oversight.",
+    "Audits had found reckless spending and weak transparency. LAHSA's interim CEO says the agency did nothing wrong."
+   ],
+   "money": [
+    "If you get help through LAHSA programs, ask how the county handoff affects your case.",
+    "LA taxpayers can watch county budget hearings on how homeless money is spent.",
+    "Service providers paid by LAHSA should confirm contract terms with the county."
+   ],
+   "risk": [
+    "The transition could disrupt services during the handoff."
+   ],
+   "sources": [
+    {
+     "t": "Los Angeles homelessness agency reaches settlement with feds in dispute over spending",
+     "d": "kmph.com",
+     "u": "https://kmph.com/news/local/los-angeles-homelessness-agency-reaches-settlement-with-feds-in-dispute-over-spending"
+    }
+   ]
+  },
+  {
+   "id": "nc-gas-tax-returns-2026111800",
+   "type": "news",
+   "cat": "states",
+   "tags": [
+    "states",
+    "taxes"
+   ],
+   "date": "Dec 1",
+   "ts": "2026-11-18T00:00:00Z",
+   "headline": "North Carolina's 41-cent gas tax returns in December as lawmakers skip an extension",
+   "caption": "The pause ends after Nov. 30. Gas in North Carolina averages $3.08, about 50 cents less than a month ago.",
+   "visual": {
+    "type": "board",
+    "title": "NC gas tax pause",
+    "rows": [
+     {
+      "k": "Gas tax",
+      "s": "per gallon",
+      "v": "41 cents"
+     },
+     {
+      "k": "Pause ends",
+      "v": "Nov. 30",
+      "tone": "acc"
+     },
+     {
+      "k": "Cost of pause",
+      "s": "paid from reserves",
+      "v": "~$300M",
+      "tone": "loss"
+     },
+     {
+      "k": "Avg. NC gas",
+      "s": "AAA",
+      "v": "$3.08",
+      "ch": -14.0,
+      "tone": "gain"
+     }
+    ]
+   },
+   "detail": [
+    "North Carolina paused its 41-cent-per-gallon gas tax in October. It ends after Nov. 30, and lawmakers did not extend it in their lame-duck session.",
+    "Senate leader Phil Berger said the pause was meant to be temporary. House Speaker Destin Hall noted prices are falling on their own.",
+    "Democrats say the pause cost about $300 million from reserves. AAA puts the state's average gas price at $3.08."
+   ],
+   "money": [
+    "Fill up before Dec. 1 to save up to 41 cents a gallon.",
+    "A 15-gallon tank costs about $6 more once the tax returns.",
+    "Use a gas price app to find the cheapest station nearby."
+   ],
+   "risk": [
+    "Prices could rise if oil climbs again."
+   ],
+   "sources": [
+    {
+     "t": "NC's gas tax will resume after legislature doesn't extend pause",
+     "d": "whqr.org",
+     "u": "https://www.whqr.org/2026-11-17/nc-gas-tax-will-resume-after-legislature-doesnt-extend-pause"
+    }
+   ]
+  },
+  {
+   "id": "illinois-2-4b-deficit-2026111800",
+   "type": "news",
+   "cat": "states",
+   "tags": [
+    "states",
+    "benefits"
+   ],
+   "date": "Nov 17",
+   "ts": "2026-11-18T00:00:00Z",
+   "headline": "Illinois sees a $927M surplus this year, then a $2.4B deficit as federal costs shift",
+   "caption": "The state will pick up about $1.4 billion in costs the federal government now pays. Gov. Pritzker wants $728M in extra spending now.",
+   "visual": {
+    "type": "board",
+    "title": "Illinois budget outlook",
+    "rows": [
+     {
+      "k": "FY2027 surplus",
+      "v": "$927M",
+      "tone": "gain"
+     },
+     {
+      "k": "Pritzker extra spending",
+      "v": "$728M"
+     },
+     {
+      "k": "FY2028 gap",
+      "v": "-$2.4B",
+      "tone": "loss"
+     },
+     {
+      "k": "Costs shifted from feds",
+      "v": "$1.4B",
+      "tone": "loss"
+     },
+     {
+      "k": "SNAP share from FY29",
+      "s": "possible",
+      "v": "$400M+/yr"
+     }
+    ]
+   },
+   "detail": [
+    "Illinois expects a $927 million surplus this budget year, thanks to strong corporate and sales tax revenue. Gov. JB Pritzker proposed $728 million in extra spending, which would leave $199 million.",
+    "Next year looks worse. Spending is projected at about $60.3 billion versus revenue of about $58 billion, for a gap near $2.4 billion. The state will cover about $1.4 billion in costs the federal government pays now.",
+    "Later federal changes cut Medicaid support by about $2.8 billion by 2032. Starting in 2029, Illinois may pay over $400 million a year more for SNAP."
+   ],
+   "money": [
+    "Illinois residents could see tax or fee changes when the budget comes in February.",
+    "If you rely on Medicaid or SNAP, watch for state benefit changes.",
+    "Municipal bond investors should track state budget health."
+   ],
+   "risk": [
+    "The report says recession conditions exist, though not in the base case."
+   ],
+   "sources": [
+    {
+     "t": "Illinois' projected $927M surplus could give way to $2.4B deficit next year",
+     "d": "dailyherald.com",
+     "u": "https://dailyherald.com/20261117/illinois-state-politics/illinois-projected-927m-surplus-could-give-way-to-2-4b-deficit-next-year-amid-federal-changes"
+    }
+   ]
+  },
+  {
+   "id": "canada-china-tariff-cuts-2026111800",
+   "type": "news",
+   "cat": "world",
+   "tags": [
+    "world",
+    "business"
+   ],
+   "date": "Nov 17",
+   "ts": "2026-11-18T00:00:00Z",
+   "headline": "Canada and China agree more tariff cuts on pork and seafood at APEC",
+   "caption": "About C$400 million in Canadian exports get relief. Canada extends its own relief on some Chinese steel and aluminum by two years.",
+   "visual": {
+    "type": "deals",
+    "title": "Canada-China trade",
+    "items": [
+     {
+      "a": "China",
+      "b": "Frozen pork cuts",
+      "amt": "C$116M",
+      "st": "tariff relief",
+      "c": "ok"
+     },
+     {
+      "a": "China",
+      "b": "Fish and seafood",
+      "amt": "C$285M",
+      "st": "tariff relief",
+      "c": "ok"
+     },
+     {
+      "a": "Canada",
+      "b": "Chinese steel, aluminum",
+      "amt": "2 yrs",
+      "st": "relief extended",
+      "c": "ok"
+     }
+    ]
+   },
+   "detail": [
+    "Prime Minister Mark Carney and President Xi Jinping agreed to more tariff cuts at the APEC summit in Shenzhen. The new relief covers about C$400 million in Canadian exports, mostly pork and seafood.",
+    "In return, Canada will extend by two years its tariff relief on certain Chinese steel and aluminum products. Canada says it has restored access for over 90% of previously tariffed trade, about C$7.5 billion.",
+    "Carney says Canada is ahead of schedule to raise exports to China by 50% by 2030."
+   ],
+   "money": [
+    "Canadian food exporters and their stocks could gain from new access.",
+    "Cheaper Chinese metals in Canada can lower costs for builders there.",
+    "Trade deals shift supply chains; diversified funds spread that risk."
+   ],
+   "risk": [
+    "US-Canada trade talks remain unsettled."
+   ],
+   "sources": [
+    {
+     "t": "Canada, China agree further tariff cuts: PM Carney at APEC",
+     "d": "yahoo.com",
+     "u": "https://www.yahoo.com/news/world/articles/canada-china-agree-further-tariff-051127843.html"
+    }
+   ]
+  },
+  {
+   "id": "apec-truce-trilateral-2026111800",
+   "type": "news",
+   "cat": "politics",
+   "tags": [
+    "politics",
+    "world",
+    "markets"
+   ],
+   "date": "Nov 18-19",
+   "ts": "2026-11-18T00:00:00Z",
+   "headline": "APEC opens Wednesday: US-China truce expires Jan. 10, and a Trump-Xi-Putin meeting is set",
+   "caption": "Leaders of 21 economies meet in Shenzhen Nov. 18-19. Tariffs, farm buying and rare earths top the US-China list.",
+   "visual": {
+    "type": "timeline",
+    "title": "Trade week ahead",
+    "items": [
+     {
+      "d": "NOV 17",
+      "t": "ASEAN summit ends",
+      "s": "Thailand deal concluded"
+     },
+     {
+      "d": "NOV 18",
+      "t": "APEC opens",
+      "s": "Shenzhen",
+      "now": true
+     },
+     {
+      "d": "NOV 19",
+      "t": "Trump-Xi-Putin meeting",
+      "s": "first such summit"
+     },
+     {
+      "d": "JAN 10",
+      "t": "US-China truce expires"
+     }
+    ]
+   },
+   "detail": [
+    "The APEC summit runs Nov. 18-19 in Shenzhen. Its 21 members make up about 60% of world GDP.",
+    "Key US-China topics include the trade truce that expires Jan. 10, 2027, reciprocal tariff cuts, Chinese farm purchases, rare earth export limits and tech controls.",
+    "A first Trump-Xi-Putin meeting is expected Nov. 19, covering nuclear arms control and the Iran conflict. At ASEAN, the US reached a trade deal outline with Thailand, which would buy about $2.6 billion more in US farm goods."
+   ],
+   "money": [
+    "Prices on imported goods can move with tariff news; buy big items when you need them, not on headlines.",
+    "Farm and chip stocks often jump on trade talks; keep bets small.",
+    "Watch the Jan. 10 truce date if you run a business that imports from China."
+   ],
+   "risk": [
+    "Talks could stall and tariffs could rise when the truce ends."
+   ],
+   "sources": [
+    {
+     "t": "Venn Trade Weekly - November 17, 2026",
+     "d": "vennstrategies.substack.com",
+     "u": "https://vennstrategies.substack.com/p/venn-trade-weekly-november-17-2026"
+    }
+   ]
+  },
+  {
+   "id": "strategy-485-btc-msci-2026111800",
+   "type": "news",
+   "cat": "crypto",
+   "tags": [
+    "crypto",
+    "markets"
+   ],
+   "date": "This week",
+   "ts": "2026-11-18T00:00:00Z",
+   "headline": "Strategy buys 485 bitcoin as it faces MSCI removal on Nov. 30 and a $9.6B paper loss",
+   "caption": "It paid about $68,887 a coin, below its $75,452 average cost. JPMorgan estimated the index exit could trigger $2.8B in selling.",
+   "visual": {
+    "type": "ticker",
+    "sym": "MSTR",
+    "ex": "NASDAQ",
+    "rows": [
+     {
+      "k": "BTC bought",
+      "s": "Nov. 9-15",
+      "v": "485"
+     },
+     {
+      "k": "Total held",
+      "v": "850,849 BTC"
+     },
+     {
+      "k": "Average cost",
+      "v": "$75,452"
+     },
+     {
+      "k": "Paper loss",
+      "v": "~$9.6B"
+     },
+     {
+      "k": "MSCI exit",
+      "s": "after close",
+      "v": "Nov. 30"
+     }
+    ]
+   },
+   "detail": [
+    "Strategy bought 485 bitcoin for about $33.4 million last week, at roughly $68,887 each. It now holds 850,849 bitcoin at an average cost of $75,452.",
+    "It paid for the coins by selling about $244.7 million of its stock. It also bought back $228.1 million of STRC preferred shares. With bitcoin below $65,000, it shows a paper loss of about $9.6 billion.",
+    "MSCI will drop Strategy from its indexes after the close on Nov. 30. JPMorgan estimated the move could spur about $2.8 billion in selling by index funds."
+   ],
+   "money": [
+    "Index removals often bring forced selling near the effective date; avoid trading into it blindly.",
+    "Owning bitcoin directly avoids a company's debt and share-sale risks.",
+    "If you hold MSTR at a loss, tax-loss selling before year-end may help."
+   ],
+   "risk": [
+    "Further bitcoin drops deepen the loss and pressure the stock."
+   ],
+   "sources": [
+    {
+     "t": "Strategy buys another 485 BTC as bitcoin tumbles",
+     "d": "theblock.co",
+     "u": "https://www.theblock.co/news/business/2026-11-16-this-dip-could-use-a-little-orange-michael-saylor-strategy-bitcoin-tumbles-440886"
+    },
+    {
+     "t": "MSCI confirms Strategy's removal from indexes end November",
+     "d": "cointelegraph.com",
+     "u": "https://cointelegraph.com/news/msci-confirms-strategys-removal-from-indexes-end-november"
+    }
+   ]
+  },
+  {
+   "id": "coinbase-borrow-50-states-2026111800",
+   "type": "news",
+   "cat": "crypto",
+   "tags": [
+    "crypto"
+   ],
+   "date": "Nov 16",
+   "ts": "2026-11-18T00:00:00Z",
+   "headline": "Coinbase crypto-backed loans now reach all 50 states as New York joins",
+   "caption": "New Yorkers can borrow up to $5 million in USDC against bitcoin. Loans are variable-rate only there.",
+   "visual": {
+    "type": "board",
+    "title": "New York borrow limits",
+    "rows": [
+     {
+      "k": "Against bitcoin",
+      "v": "$5M"
+     },
+     {
+      "k": "Against ether",
+      "v": "$1M"
+     },
+     {
+      "k": "Against Solana",
+      "v": "$100K"
+     },
+     {
+      "k": "Liquidation",
+      "s": "debt vs. collateral",
+      "v": "86%",
+      "tone": "loss"
+     },
+     {
+      "k": "Loans outstanding",
+      "s": "Morpho data",
+      "v": "$1.7B+"
+     }
+    ]
+   },
+   "detail": [
+    "Coinbase Borrow, which uses the Morpho lending protocol, now covers all 50 states after New York access opened Nov. 16.",
+    "New Yorkers can borrow USDC up to $5 million against bitcoin, $1 million against ether and $100,000 against Solana. Only variable-rate loans are offered there, and a processing fee is added to each loan.",
+    "A bitcoin-backed loan is sold off automatically when the debt reaches 86% of the collateral's value. Over $1.7 billion is outstanding on the platform."
+   ],
+   "money": [
+    "Borrowing against crypto can avoid a taxable sale, but only if you can repay.",
+    "Borrow far below the limit so a price drop doesn't trigger liquidation.",
+    "Compare the variable rate and fees with a regular loan first."
+   ],
+   "risk": [
+    "Bitcoin fell about 13% last week; sharp drops can wipe out collateral fast."
+   ],
+   "sources": [
+    {
+     "t": "Coinbase brings Morpho-backed loans to all 50 US states",
+     "d": "crypto.news",
+     "u": "https://crypto.news/coinbase-borrow-new-york-morpho-loans/"
+    }
+   ]
+  },
+  {
+   "id": "edu-ch7-vs-ch11-2026111800",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "business"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-18T00:00:00Z",
+   "headline": "Chapter 7 vs. Chapter 11: what happens to your shares",
+   "caption": "ESS Tech chose liquidation, not a rescue. Here's why that matters for shareholders.",
+   "scenes": [
+    {
+     "k": "Today's news",
+     "t": "ESS Tech filed Chapter 7",
+     "s": "The battery maker stopped operating on Nov. 13."
+    },
+    {
+     "k": "Chapter 11",
+     "t": "Reorganize and keep going",
+     "s": "The company keeps operating while it fixes its debts."
+    },
+    {
+     "k": "Chapter 7",
+     "t": "Shut down and sell everything",
+     "s": "A trustee takes over and sells the assets."
+    },
+    {
+     "k": "Who gets paid",
+     "t": "Lenders first, shareholders last",
+     "viz": {
+      "type": "flow",
+      "items": [
+       "Secured lenders",
+       "Other creditors",
+       "Preferred stock",
+       "Common stock"
+      ]
+     }
+    },
+    {
+     "k": "For you",
+     "t": "Common shares often go to zero",
+     "s": "In Chapter 7, stockholders rarely get anything back."
+    },
+    {
+     "k": "Takeaway",
+     "t": "Watch cash, not just the price",
+     "s": "Big losses and tiny sales are a warning sign."
+    }
+   ]
+  },
+  {
+   "id": "edu-crypto-loan-liquidation-2026111800",
+   "type": "edu",
+   "cat": "learn",
+   "tags": [
+    "learn",
+    "crypto"
+   ],
+   "date": "Explainer",
+   "ts": "2026-11-18T00:00:00Z",
+   "headline": "Crypto-backed loans: how liquidation works",
+   "caption": "Coinbase now lends against crypto in all 50 states. Know the line that triggers a forced sale.",
+   "scenes": [
+    {
+     "k": "Today's news",
+     "t": "Coinbase loans reach all 50 states",
+     "s": "You pledge crypto and borrow USDC."
+    },
+    {
+     "k": "The deal",
+     "t": "Your coins are collateral",
+     "s": "If prices fall too far, the loan is closed for you."
+    },
+    {
+     "k": "The line",
+     "t": "86% loan-to-value for bitcoin",
+     "viz": {
+      "type": "split",
+      "items": [
+       [
+        "Collateral",
+        "$10,000"
+       ],
+       [
+        "Safe loan",
+        "$3,000"
+       ],
+       [
+        "Liquidation",
+        "debt hits $8,600",
+        "wide"
+       ]
+      ]
+     },
+     "say": "With ten thousand dollars of bitcoin, the loan is sold off when debt reaches eighty-six hundred dollars."
+    },
+    {
+     "k": "Why it bites",
+     "t": "Prices can drop fast",
+     "s": "Bitcoin fell about 13% in one week recently."
+    },
+    {
+     "k": "Smart move",
+     "t": "Borrow far below the limit",
+     "s": "A small loan leaves room for big price swings."
+    },
+    {
+     "k": "Takeaway",
+     "t": "Only borrow what you can repay",
+     "s": "Liquidation can sell your coins at the worst time."
+    }
+   ]
+  },
   {
    "id": "fomc-minutes-preview-2026111723",
    "type": "news",
@@ -10793,1169 +11976,6 @@
      "t": "Stock market today: Dow, S&P 500 futures slip in countdown to Nvidia earnings",
      "d": "finance.yahoo.com",
      "u": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-17-dow-sp-500-nasdaq-nvidia-earnings-091546152.html"
-    }
-   ]
-  },
-  {
-   "id": "chatgpt-wallet-agents-2026111712",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "business"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-17T12:00:00Z",
-   "headline": "OpenAI launches ChatGPT Wallet so AI agents can shop for you, with your OK",
-   "caption": "The wallet, built with Amex, Mastercard and Visa, needs your approval for each purchase. It starts with US ChatGPT Pro subscribers.",
-   "visual": {
-    "type": "points",
-    "title": "ChatGPT Wallet basics",
-    "items": [
-     "AI agents can buy things on your behalf",
-     "You approve every single purchase",
-     "Built with American Express, Mastercard and Visa",
-     "Card details hidden from the agent and the store",
-     "First for US ChatGPT Pro subscribers"
-    ]
-   },
-   "detail": [
-    "OpenAI introduced ChatGPT Wallet, which lets AI agents make purchases for users. Each purchase needs the user's approval.",
-    "It was built with American Express, Mastercard and Visa. Card details stay hidden from both the agent and the merchant. It is rolling out first to US ChatGPT Pro subscribers.",
-    "The launch comes as companies fight over AI shopping. United Airlines has limited booking bots, while Shopify joined a protocol that tells agents what they may do."
-   ],
-   "money": [
-    "Use a single card with a low limit or virtual number for any agent purchases.",
-    "Agents can compare prices fast; still check return policies before approving.",
-    "Watch your statements for small unexpected charges if you try agent shopping."
-   ],
-   "risk": [
-    "AI agents can make mistakes, and dispute rules for agent purchases are still new."
-   ],
-   "sources": [
-    {
-     "t": "Everything That Happened in AI Today, Monday, November 16",
-     "d": "theneuron.ai",
-     "u": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-monday-november-16-2026/"
-    }
-   ]
-  },
-  {
-   "id": "elevenlabs-kotoba-100m-2026111712",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "business"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-17T12:00:00Z",
-   "headline": "ElevenLabs buys Japanese voice AI startup Kotoba in a reported $100M deal",
-   "caption": "The $22 billion voice AI company is adding Kotoba's Japanese speech model, already used by Salesforce. The deal should close this quarter.",
-   "visual": {
-    "type": "deals",
-    "title": "Voice AI deal",
-    "items": [
-     {
-      "a": "ElevenLabs",
-      "b": "Kotoba Technologies",
-      "amt": "~$100M",
-      "st": "Expected to close Q4",
-      "c": "pend"
-     },
-     {
-      "a": "ElevenLabs",
-      "b": "Employee tender, Sept.",
-      "amt": "$22B value",
-      "st": "Doubled from $11B",
-      "c": "ok"
-     }
-    ]
-   },
-   "detail": [
-    "ElevenLabs agreed to buy Kotoba Technologies, a voice AI developer focused on Japanese. It did not disclose terms, but Nikkei Asia reported a price of about $100 million.",
-    "Kotoba, founded in 2023, makes the Koto model for Japanese text-to-speech, speech-to-text and speech-to-speech. Salesforce uses it in Agentforce Voice. Kotoba had raised $23 million in total.",
-    "ElevenLabs was valued at $22 billion in a September employee share sale, double its February value. The deal is expected to close later in the fourth quarter."
-   ],
-   "money": [
-    "Private AI firms are growing fast; most people can only get exposure through public companies or funds.",
-    "Small businesses can use voice AI tools to cut call center and translation costs.",
-    "If a startup you own options in gets bought, learn how the deal pays out before it closes."
-   ],
-   "risk": [
-    "Private valuations can fall sharply, and deals need regulatory approval."
-   ],
-   "sources": [
-    {
-     "t": "ElevenLabs agrees to acquire Japan-focused voice AI company Kotoba",
-     "d": "musicbusinessworldwide.com",
-     "u": "https://www.musicbusinessworldwide.com/elevenlabs-agrees-to-acquire-japan-focused-voice-ai-company-kotoba-in-reported-100m-deal/"
-    }
-   ]
-  },
-  {
-   "id": "meituan-longcat-no-nvidia-2026111712",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "world"
-   ],
-   "date": "This week",
-   "ts": "2026-11-17T12:00:00Z",
-   "headline": "China's Meituan releases a 1.6 trillion parameter AI model trained without Nvidia",
-   "caption": "LongCat-2.5 is an open-weight coding agent model reportedly trained on Chinese hardware. A sample setup runs on 194 Huawei Ascend chips.",
-   "visual": {
-    "type": "stat",
-    "title": "Meituan LongCat-2.5",
-    "num": "1.6T",
-    "tone": "acc",
-    "label": "Parameters in an open-weight model built off Nvidia chips.",
-    "facts": [
-     [
-      "Chips in sample setup",
-      "194",
-      "Huawei Ascend"
-     ],
-     [
-      "Type",
-      "Open weights",
-      "coding agent"
-     ],
-     [
-      "Nvidia GPUs used",
-      "None",
-      "reported"
-     ]
-    ]
-   },
-   "detail": [
-    "Chinese delivery giant Meituan released LongCat-2.5, a 1.6 trillion parameter open-weight model built for coding agents.",
-    "It was reportedly trained on Chinese hardware, with no Nvidia GPUs. A sample deployment needs 194 Huawei Ascend chips, The Decoder reported.",
-    "The release lands the same week the US tightened chip rules in Southeast Asia and Nvidia reports results under an interim CEO."
-   ],
-   "money": [
-    "Chinese chip progress is a long-term risk for Nvidia; diversify beyond one AI stock.",
-    "Open-weight models can cut AI costs for small firms that run their own tools.",
-    "China tech funds carry extra policy risk; keep them a small slice if you own any."
-   ],
-   "risk": [
-    "Model claims are early and not independently tested at scale."
-   ],
-   "sources": [
-    {
-     "t": "Everything That Happened in AI Today, Monday, November 16",
-     "d": "theneuron.ai",
-     "u": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-monday-november-16-2026/"
-    }
-   ]
-  },
-  {
-   "id": "church-dwight-bali-225m-2026111712",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-17T12:00:00Z",
-   "headline": "Church & Dwight buys 45% of German-Austrian hair brand BALI for $225 million",
-   "caption": "The Arm & Hammer maker gets BALI CURLS and BALI GENTS, with about $100M in yearly sales, and can buy the rest in two years.",
-   "visual": {
-    "type": "deals",
-    "title": "Church & Dwight deal",
-    "items": [
-     {
-      "a": "Church & Dwight",
-      "b": "45% of BALI Treatment",
-      "amt": "$225M",
-      "st": "Close expected Q1 2027",
-      "c": "pend"
-     },
-     {
-      "a": "Option",
-      "b": "Remaining 55%",
-      "amt": "TBD",
-      "st": "From 2 years after close",
-      "c": "pend"
-     }
-    ]
-   },
-   "detail": [
-    "Church & Dwight agreed to buy a 45% stake in Vienna-based BALI Treatment for about $225 million. Its BALI CURLS and BALI GENTS brands lead in Germany and Austria.",
-    "BALI had about $100 million in net sales over the 12 months ended Oct. 31. Church & Dwight can buy the other 55% starting two years after closing.",
-    "The deal should close in the first quarter of 2027 and add to cash earnings that year. Church & Dwight shares rose about 1.3% to $114.50 Monday and are up about 37% this year."
-   ],
-   "money": [
-    "Consumer staples like this tend to hold up in rough markets; they can steady a portfolio.",
-    "A stock up 37% this year may already price in good news; avoid chasing it.",
-    "Store brands often copy popular hair products; compare unit prices to save."
-   ],
-   "risk": [
-    "Paying for minority stakes can tie up cash without full control of the business."
-   ],
-   "sources": [
-    {
-     "t": "Church & Dwight buys 45% stake in BALI Treatment GmbH for $225M",
-     "d": "roi-nj.com",
-     "u": "https://www.roi-nj.com/2026/11/17/industry/church-dwight-buys-45-stake-in-hair-care-and-styling-company-bali-treatment-gmbh-for-225m/"
-    }
-   ]
-  },
-  {
-   "id": "bnpl-holiday-21b-2026111712",
-   "type": "news",
-   "cat": "business",
-   "tags": [
-    "business"
-   ],
-   "date": "Tue Nov 17",
-   "ts": "2026-11-17T12:00:00Z",
-   "headline": "Holiday shoppers forecast to put $21.3 billion on buy now, pay later",
-   "caption": "Adobe's forecast has BNPL up 6.6% this season, about 8% of holiday spending. Total online holiday spending is seen at $275.1 billion.",
-   "visual": {
-    "type": "stat",
-    "title": "Holiday buy now, pay later",
-    "num": "$21.3B",
-    "tone": "acc",
-    "label": "Forecast US BNPL spending, Nov. 1 to Dec. 31.",
-    "facts": [
-     [
-      "Growth",
-      "+6.6%",
-      "year over year"
-     ],
-     [
-      "Share of holiday spend",
-      "~8%",
-      "forecast"
-     ],
-     [
-      "Total online spend",
-      "$275.1B",
-      "forecast"
-     ]
-    ]
-   },
-   "detail": [
-    "Adobe forecasts that US shoppers will spend $21.3 billion using buy now, pay later this holiday season, up 6.6% from last year.",
-    "That is part of an expected $275.1 billion in online holiday spending from Nov. 1 to Dec. 31. BNPL would be about 8% of total holiday spend.",
-    "The forecast lands on the day Klarna, a top BNPL company, reports quarterly results."
-   ],
-   "money": [
-    "Pay-in-4 plans are interest-free only if every payment is on time; set autopay.",
-    "Track all BNPL plans in one list so payments don't stack up in January.",
-    "If a plan charges interest, compare it to your card's APR before you choose it."
-   ],
-   "risk": [
-    "Late fees and missed payments can hurt your budget, and some lenders now report to credit bureaus."
-   ],
-   "sources": [
-    {
-     "t": "Holiday Shoppers Are Forecast to Put $21.3 Billion on Buy Now, Pay Later",
-     "d": "prnewswire.com",
-     "u": "https://www.prnewswire.com/news-releases/holiday-shoppers-are-forecast-to-put-21-3-billion-on-buy-now-pay-later-302942050.html"
-    }
-   ]
-  },
-  {
-   "id": "oil-slips-bahrain-drones-2026111712",
-   "type": "news",
-   "cat": "world",
-   "tags": [
-    "world",
-    "markets"
-   ],
-   "date": "Tue Nov 17",
-   "ts": "2026-11-17T12:00:00Z",
-   "headline": "Oil slips about 1% as glut forecasts outweigh Iran drone attack on Bahrain",
-   "caption": "Brent fell to about $91.62 and WTI to $84.89. Bahrain said it shot down Iranian drones aimed at US facilities on Sunday.",
-   "visual": {
-    "type": "board",
-    "title": "Oil, Tuesday morning",
-    "rows": [
-     {
-      "k": "Brent",
-      "v": "$91.62",
-      "ch": -0.9,
-      "tone": "loss"
-     },
-     {
-      "k": "WTI",
-      "v": "$84.89",
-      "ch": -1.0,
-      "tone": "loss"
-     },
-     {
-      "k": "US emergency reserve",
-      "s": "lowest since Aug. 1982",
-      "v": "276.4M bbl",
-      "tone": "acc"
-     },
-     {
-      "k": "OPEC+ meeting",
-      "v": "Nov. 29",
-      "tone": "acc"
-     }
-    ]
-   },
-   "detail": [
-    "Brent crude fell 82 cents to $91.62 a barrel early Tuesday, and WTI dropped 83 cents to $84.89. Forecasts of a global supply surplus outweighed security worries.",
-    "On Sunday, Iran fired drones at US facilities in Bahrain. Bahrain said its air defenses destroyed several, the first such incident since September. Iran also keeps threatening tankers in the Strait of Hormuz.",
-    "The IEA expects a surplus in the fourth quarter as Middle East exports recover. OPEC+ meets Nov. 29 to set output for 2027 and beyond."
-   ],
-   "money": [
-    "Lower crude can ease gas prices over the coming weeks; avoid locking in high fuel rates.",
-    "Energy stocks swing with oil; don't overweight them on headlines.",
-    "Heating oil buyers may want to watch for dips before winter fill-ups."
-   ],
-   "risk": [
-    "A major Gulf attack could reverse the drop quickly."
-   ],
-   "sources": [
-    {
-     "t": "Oil prices fall as supply surplus forecasts outweigh Gulf tensions",
-     "d": "offshore-technology.com",
-     "u": "https://www.offshore-technology.com/news/oil-prices-fall-supply-surplus-gulf-tensions/"
-    }
-   ]
-  },
-  {
-   "id": "china-crop-pledge-summit-2026111712",
-   "type": "news",
-   "cat": "world",
-   "tags": [
-    "world",
-    "politics",
-    "business"
-   ],
-   "date": "This week",
-   "ts": "2026-11-17T12:00:00Z",
-   "headline": "China's $17B US farm pledge falters ahead of this week's Trump-Xi meeting",
-   "caption": "China is close to its soybean target, but buys of corn, wheat and beef are tiny. Trump and Xi are expected to meet at APEC in Shenzhen.",
-   "visual": {
-    "type": "points",
-    "title": "Where China's farm buying stands",
-    "items": [
-     "White House announced $17B extra pledge in May",
-     "Beijing never formally confirmed it",
-     "Soybeans: about 4M tons short of 25M target",
-     "No US corn or wheat booked for 2026-27",
-     "Trump-Xi meeting expected at APEC in Shenzhen"
-    ]
-   },
-   "detail": [
-    "The White House said in May that China would buy an extra $17 billion in US farm goods in 2026. Beijing never formally confirmed it.",
-    "China is nearing a separate goal of 25 million tons of US soybeans, with about 4 million tons left, per AgResource. But corn and wheat buying is a small fraction of past levels, and beef has barely recovered.",
-    "Trump and Xi Jinping are expected to meet this week at the APEC summit in Shenzhen, their third meeting this year."
-   ],
-   "money": [
-    "Farm-heavy stocks and grain prices can swing on summit headlines.",
-    "Food prices depend on many things; trade news alone rarely moves grocery bills fast.",
-    "Farmers can use forward contracts to lock prices if summit news lifts grain."
-   ],
-   "risk": [
-    "The summit could end without clear purchase numbers, as earlier meetings did."
-   ],
-   "sources": [
-    {
-     "t": "China's $17 Billion Crop Pledge Falters Ahead of Trump-Xi Summit",
-     "d": "ca.headtopics.com",
-     "u": "https://ca.headtopics.com/news/china-s-17-billion-crop-pledge-falters-ahead-of-trump-xi-89914326"
-    }
-   ]
-  },
-  {
-   "id": "eth-etf-7th-week-outflow-2026111712",
-   "type": "news",
-   "cat": "crypto",
-   "tags": [
-    "crypto",
-    "markets"
-   ],
-   "date": "Tue Nov 17",
-   "ts": "2026-11-17T12:00:00Z",
-   "headline": "Ether ETFs log a 7th straight week of outflows as bitcoin hovers near $64,900",
-   "caption": "Bitcoin is down about 13% in a week and ether about 14%. The crypto fear gauge sits at 13, deep in extreme fear.",
-   "visual": {
-    "type": "board",
-    "title": "Crypto check, Nov. 17",
-    "rows": [
-     {
-      "k": "Bitcoin",
-      "v": "$64,894",
-      "ch": -13.1,
-      "tone": "loss"
-     },
-     {
-      "k": "Ether",
-      "v": "$1,827.60",
-      "ch": -13.7,
-      "tone": "loss"
-     },
-     {
-      "k": "Solana",
-      "v": "$72.69",
-      "ch": -15.5,
-      "tone": "loss"
-     },
-     {
-      "k": "Ether ETF weekly flow",
-      "s": "week to Nov. 13",
-      "v": "-$398.9M",
-      "tone": "loss"
-     },
-     {
-      "k": "Fear & Greed",
-      "s": "48 a month ago",
-      "v": "13",
-      "tone": "loss"
-     }
-    ],
-    "foot": "Price changes are over 7 days"
-   },
-   "detail": [
-    "Spot ether ETFs had $398.9 million in net outflows in the week ending Nov. 13, their seventh negative week in a row. Their total assets are $10.85 billion.",
-    "Bitcoin ETFs lost $1.07 billion that week and about $1.91 billion over seven straight trading days. Bitcoin is near $64,894, down 13.1% in a week; ether is near $1,828.",
-    "Rising rates weigh on crypto. Futures pricing shows about a 93.5% chance of a quarter-point Fed hike in December."
-   ],
-   "money": [
-    "Only put money in crypto that you could lose without hurting your bills or savings.",
-    "If you buy, small regular amounts reduce the risk of buying at a bad moment.",
-    "Losses on crypto you sell can offset gains for taxes; ask a tax pro."
-   ],
-   "risk": [
-    "Prices could drop further; analysts flag support levels near $59,400 for bitcoin."
-   ],
-   "sources": [
-    {
-     "t": "Crypto Market Analysis Today (November 17, 2026)",
-     "d": "pintu.co.id",
-     "u": "https://pintu.co.id/en/academy/post/crypto-market-analysis-today-november-17-2026"
-    }
-   ]
-  },
-  {
-   "id": "dream-promise-one-short-2026111712",
-   "type": "news",
-   "cat": "immigration",
-   "tags": [
-    "immigration",
-    "politics"
-   ],
-   "date": "This week",
-   "ts": "2026-11-17T12:00:00Z",
-   "headline": "Dreamers bill stuck one signature short of forcing a House vote",
-   "caption": "A discharge petition for the American Dream and Promise Act has 217 of 218 signatures. Reports say a vote is now unlikely before Congress ends.",
-   "visual": {
-    "type": "vs",
-    "title": "Discharge petition No. 25",
-    "a": [
-     "Needed",
-     "218",
-     1,
-     "acc"
-    ],
-    "b": [
-     "Signed",
-     "217",
-     0.995,
-     "loss"
-    ],
-    "foot": "All 214 Democrats plus 3 Republicans have signed"
-   },
-   "detail": [
-    "Rep. Sylvia Garcia's discharge petition for the American Dream and Promise Act (H.R. 1589) has 217 of the 218 signatures needed to force a floor vote. All 214 House Democrats signed, plus Republicans Salazar, Fitzpatrick and Bacon.",
-    "The bill would create a path to permanent residency for people brought to the US as children, with 10 years of conditional status first. The Houston Chronicle reported the bill likely won't get a vote.",
-    "Time is short. The petition expires when this Congress ends in early January, and discharge motions are not allowed in a session's last six days."
-   ],
-   "money": [
-    "People with DACA should keep renewal dates on a calendar and file early.",
-    "Immigration filings cost money; budget for fees and use accredited legal help to avoid scams.",
-    "Employers of DACA workers can plan for possible renewal delays."
-   ],
-   "risk": [
-    "Policy can shift with the new Congress in January; nothing changes until a law passes."
-   ],
-   "sources": [
-    {
-     "t": "American Dream and Promise Act just one signature away from forcing a House vote",
-     "d": "rnlawgroup.com",
-     "u": "https://www.rnlawgroup.com/american-dream-and-promise-act-just-one-signature-away-from-forcing-a-house-vote/"
-    },
-    {
-     "t": "Daily Immigration News Clips - November 16, 2026",
-     "d": "aila.org",
-     "u": "https://www.aila.org/immigration-news/daily-immigration-news-clips-november-16-2026"
-    }
-   ]
-  },
-  {
-   "id": "edu-dividend-raise-2026111712",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "business"
-   ],
-   "date": "Explainer",
-   "ts": "2026-11-17T12:00:00Z",
-   "headline": "Dividend raises: what Disney's 33% hike means for you",
-   "caption": "Disney lifted its yearly dividend to $2 a share. Here's how dividends and yield work.",
-   "scenes": [
-    {
-     "k": "Today's news",
-     "t": "Disney dividend: $2 a year",
-     "s": "Up 33%, paid as two $1 payments."
-    },
-    {
-     "k": "What it is",
-     "t": "A cash payment to shareholders",
-     "s": "Companies share part of their profits."
-    },
-    {
-     "k": "Yield",
-     "t": "Dividend divided by price",
-     "viz": {
-      "type": "split",
-      "items": [
-       [
-        "Annual dividend",
-        "$2.00"
-       ],
-       [
-        "Share price",
-        "~$121"
-       ],
-       [
-        "Yield",
-        "~1.7%",
-        "wide"
-       ]
-      ]
-     },
-     "say": "Two dollars a year on a stock near 121 dollars is a yield of about 1.7 percent."
-    },
-    {
-     "k": "How it flows",
-     "t": "From profit to your account",
-     "viz": {
-      "type": "flow",
-      "items": [
-       "Company earns profit",
-       "Board sets dividend",
-       "You get cash",
-       "Reinvest or spend"
-      ]
-     }
-    },
-    {
-     "k": "Watch out",
-     "t": "A high yield can be a warning",
-     "s": "Sometimes it's high because the stock price fell."
-    },
-    {
-     "k": "Takeaway",
-     "t": "Growth in dividends beats size alone",
-     "s": "Steady raises often signal confidence in future cash."
-    }
-   ]
-  },
-  {
-   "id": "edu-export-controls-2026111712",
-   "type": "edu",
-   "cat": "learn",
-   "tags": [
-    "learn",
-    "ai"
-   ],
-   "date": "Explainer",
-   "ts": "2026-11-17T12:00:00Z",
-   "headline": "Export controls: how chip rules can move your stocks",
-   "caption": "The US now requires licenses for top AI chips in five countries. Here's what export controls do.",
-   "scenes": [
-    {
-     "k": "Today's news",
-     "t": "New AI chip rules for 5 countries",
-     "s": "Indonesia, Malaysia, Singapore, Thailand, Brazil."
-    },
-    {
-     "k": "What they are",
-     "t": "Limits on selling key tech abroad",
-     "s": "Governments use them for national security."
-    },
-    {
-     "k": "How it works",
-     "t": "Ask permission before you sell",
-     "viz": {
-      "type": "flow",
-      "items": [
-       "Rule names products",
-       "Seller applies for license",
-       "Government reviews",
-       "Sale allowed or blocked"
-      ]
-     }
-    },
-    {
-     "k": "The loophole",
-     "t": "Renting chips from afar",
-     "s": "This rule also bans some remote access in those data centers."
-    },
-    {
-     "k": "Market effect",
-     "t": "Fewer buyers can mean less revenue",
-     "s": "Chip stocks often fall when new limits appear."
-    },
-    {
-     "k": "Takeaway",
-     "t": "Policy risk is real in tech",
-     "s": "Diversify so one rule can't sink your portfolio."
-    }
-   ]
-  },
-  {
-   "id": "home-depot-q3-new-ceo-2026111711",
-   "type": "news",
-   "cat": "markets",
-   "tags": [
-    "markets",
-    "business"
-   ],
-   "date": "Tue Nov 17",
-   "ts": "2026-11-17T11:00:00Z",
-   "headline": "Home Depot beats with $43.4B in sales and names Richard McPhail its next CEO",
-   "caption": "Home Depot's third-quarter sales rose 4.9% and adjusted profit hit $3.86 a share. It also named a new CEO, effective Nov. 23.",
-   "visual": {
-    "type": "board",
-    "title": "Home Depot Q3 (fiscal 2026)",
-    "rows": [
-     {
-      "k": "Sales",
-      "v": "$43.4B",
-      "ch": 4.9,
-      "tone": "gain"
-     },
-     {
-      "k": "Comparable sales",
-      "s": "stores open a year+",
-      "v": "+2.2%",
-      "tone": "gain"
-     },
-     {
-      "k": "Adjusted EPS",
-      "s": "vs $3.74 a year ago",
-      "v": "$3.86",
-      "ch": 3.2,
-      "tone": "gain"
-     },
-     {
-      "k": "Customer transactions",
-      "v": "-0.5%",
-      "tone": "loss"
-     },
-     {
-      "k": "Average ticket",
-      "v": "$93.09",
-      "ch": 3.0,
-      "tone": "acc"
-     }
-    ],
-    "foot": "Full-year view: sales up about 4.5%, comps up about 1.4%"
-   },
-   "detail": [
-    "Home Depot said sales for the quarter ended Nov. 1 rose 4.9% to $43.4 billion. Sales at stores open at least a year rose 2.2%. Adjusted earnings were $3.86 a share, up from $3.74.",
-    "Shoppers made slightly fewer trips, down 0.5%, but spent more each time. The average ticket rose 3% to $93.09. Operating margin slipped to 12.6% from 12.9%.",
-    "The company named Richard McPhail CEO, effective Nov. 23. Ann-Marie Campbell is the incoming president and COO. For the full year, Home Depot expects sales up about 4.5% and adjusted EPS up about 2%."
-   ],
-   "money": [
-    "Bigger tickets with fewer trips can mean higher prices. Compare prices across stores before big home projects.",
-    "If you own HD for income, slow earnings growth can mean slower dividend raises. Check if your yield still fits your goals.",
-    "Lowe's reports tomorrow. Comparing both reports can show if home spending is improving or just holding steady."
-   ],
-   "risk": [
-    "Home sales are near a 16-year low, which can keep a lid on big remodel spending.",
-    "CEO changes can bring new strategy shifts and stock swings."
-   ],
-   "sources": [
-    {
-     "t": "The Home Depot Announces Third Quarter Fiscal 2026 Results; Updates Fiscal 2026 Guidance",
-     "d": "prnewswire.com",
-     "u": "https://www.prnewswire.com/news-releases/the-home-depot-announces-third-quarter-fiscal-2026-results-updates-fiscal-2026-guidance-302941189.html"
-    },
-    {
-     "t": "Home Depot Q3 Earnings: Sales Rise 4.9% to $43.4B",
-     "d": "stocktitan.net",
-     "u": "https://www.stocktitan.net/news/HD/the-home-depot-announces-third-quarter-fiscal-2026-results-updates-uurye65ijenr.html"
-    },
-    {
-     "t": "Home Depot names Richard McPhail as new CEO, beats earnings expectations",
-     "d": "cnbc.com",
-     "u": "https://www.cnbc.com/2026/11/17/home-depot-hd-q3-earnings-2026.html"
-    }
-   ]
-  },
-  {
-   "id": "jd-q3-profit-jumps-2026111711",
-   "type": "news",
-   "cat": "markets",
-   "tags": [
-    "markets",
-    "business",
-    "world"
-   ],
-   "date": "Tue Nov 17",
-   "ts": "2026-11-17T11:00:00Z",
-   "headline": "JD.com's profit jumps as marketing costs fall 26%; revenue grows just 3.5%",
-   "caption": "China's JD.com earned $0.88 a share on an adjusted basis, up 57.6%. Sales rose only 3.5% to about $46.2 billion.",
-   "visual": {
-    "type": "stat",
-    "title": "JD.com Q3 2026",
-    "num": "+57.6%",
-    "tone": "gain",
-    "label": "Adjusted earnings per ADS rose to US$0.88.",
-    "facts": [
-     [
-      "Revenue",
-      "$46.2B",
-      "up 3.5%"
-     ],
-     [
-      "JD Logistics",
-      "+16.1%",
-      "fastest segment"
-     ],
-     [
-      "New businesses",
-      "-49.8%",
-      "sales halved"
-     ]
-    ]
-   },
-   "detail": [
-    "JD.com said third-quarter revenue rose 3.5% to RMB309.6 billion, about US$46.2 billion. Adjusted earnings per ADS rose 57.6% to US$0.88.",
-    "Profit improved mainly because spending fell. Marketing costs dropped 26.2%, and losses in its new businesses, which include food delivery, shrank from RMB15.7 billion to RMB9.6 billion.",
-    "The core retail unit grew 2.9%, and logistics grew 16.1%. Free cash flow was negative RMB23.9 billion for the quarter."
-   ],
-   "money": [
-    "Weak sales growth at JD fits China's soft October data. Be careful betting on a fast China consumer rebound.",
-    "Profit from cost cuts can lift a stock for a while. Sales growth matters more over the long run.",
-    "China ADRs swing hard. Keep any single foreign stock to a small part of your portfolio."
-   ],
-   "risk": [
-    "Negative free cash flow can limit buybacks.",
-    "US-China trade tension can hit Chinese stocks fast."
-   ],
-   "sources": [
-    {
-     "t": "JD.com Announces Third Quarter 2026 Results",
-     "d": "finance.yahoo.com",
-     "u": "https://ca.finance.yahoo.com/news/jd-com-announces-third-quarter-094500848.html"
-    },
-    {
-     "t": "JD.com Announces Third Quarter 2026 Results",
-     "d": "ir.jd.com",
-     "u": "https://ir.jd.com/news-releases/news-release-details/jdcom-announces-third-quarter-2026-results"
-    }
-   ]
-  },
-  {
-   "id": "deutsche-bank-leak-drop-2026111711",
-   "type": "news",
-   "cat": "world",
-   "tags": [
-    "world",
-    "markets",
-    "business"
-   ],
-   "date": "Tue Nov 17",
-   "ts": "2026-11-17T11:00:00Z",
-   "headline": "Deutsche Bank sinks almost 6% after a leak of 20 years of internal files",
-   "caption": "More than 200 journalists reported on millions of leaked Deutsche Bank emails. They cover Russia dealings, Epstein and Trump.",
-   "visual": {
-    "type": "stat",
-    "title": "'Inside Deutsche Bank' leak",
-    "num": "-6%",
-    "tone": "loss",
-    "label": "Shares fell almost 6% soon after Frankfurt opened Tuesday.",
-    "facts": [
-     [
-      "Records span",
-      "~20 years",
-      "millions of emails and files"
-     ],
-     [
-      "Journalists",
-      "200+",
-      "FT, Spiegel, NYT, Le Monde"
-     ],
-     [
-      "Still in Russia",
-      "162 staff",
-      "as of last year"
-     ]
-    ]
-   },
-   "detail": [
-    "Deutsche Bank shares fell almost 6% early Tuesday in Frankfurt. A media group reported on millions of leaked emails and documents from two whistleblowers.",
-    "Reports say the bank courted Russian oligarchs shortly before the 2022 invasion of Ukraine, despite warnings. They also describe new details on its business with Jeffrey Epstein and with Donald Trump before he became president. The bank still had 162 employees in Russia last year.",
-    "The bank does not dispute the files are real but calls them 'purported internal documents.' It says many cases are old, were reviewed with regulators, and that it spent €7 billion from 2019 to 2025 on stronger controls."
-   ],
-   "money": [
-    "Bank scandals can bring fines that cut profit and dividends. If you own European bank funds, check how much is in DB.",
-    "Big drops on headlines can overshoot. Long-term investors may wait for regulators' response before acting.",
-    "Diversified funds soften the blow when one bank gets hit."
-   ],
-   "risk": [
-    "Regulators could open new probes or fines.",
-    "More stories from the leak may come out over days."
-   ],
-   "sources": [
-    {
-     "t": "Deutsche Bank shares drop after reports on mass data leak",
-     "d": "freemalaysiatoday.com",
-     "u": "https://www.freemalaysiatoday.com/category/business/2026/11/17/deutsche-bank-shares-drop-after-reports-on-mass-data-leak"
-    },
-    {
-     "t": "Deutsche Bank shares drop after damning report",
-     "d": "bangkokpost.com",
-     "u": "https://www.bangkokpost.com/business/general/3356406/deutsche-bank-shares-drop-after-damning-report"
-    }
-   ]
-  },
-  {
-   "id": "qwen4-max-closed-2026111711",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "world"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-17T11:00:00Z",
-   "headline": "Alibaba launches Qwen4-Max, a closed model priced at $1.50 per million input tokens",
-   "caption": "Alibaba's new flagship has 2.4 trillion parameters and a 1M-token context window. Unlike past Qwen models, its weights are not public.",
-   "visual": {
-    "type": "ticker",
-    "sym": "QWEN4",
-    "ex": "ALIBABA",
-    "rows": [
-     {
-      "k": "Size",
-      "s": "mixture of experts",
-      "v": "2.4T params"
-     },
-     {
-      "k": "Context",
-      "v": "1M tokens"
-     },
-     {
-      "k": "Price in / out",
-      "s": "per million tokens",
-      "v": "$1.50 / $4.50"
-     },
-     {
-      "k": "DeepSWE v1.1",
-      "s": "coding test",
-      "v": "75.7"
-     },
-     {
-      "k": "Vals AI index",
-      "v": "#11 of 38"
-     }
-    ]
-   },
-   "detail": [
-    "Alibaba released Qwen4-Max on Nov. 16. It is a 2.4-trillion-parameter model that can read up to 1 million tokens at once. It costs $1.50 per million input tokens and $4.50 per million output tokens.",
-    "The weights are closed, a shift from Qwen's earlier open approach. It scored 75.7 on the DeepSWE coding test, just ahead of a top US model there, but lower on Terminal-Bench. Vals AI ranks it 11th of 38."
-   ],
-   "money": [
-    "Cheaper rivals push AI prices down. If you pay for AI tools, compare prices before renewing.",
-    "Small businesses can test low-cost models for routine tasks to cut software bills.",
-    "For AI stocks, price wars can squeeze margins. Watch pricing news, not just benchmarks."
-   ],
-   "risk": [
-    "Benchmark scores differ by test and don't always match real use.",
-    "Some firms limit use of Chinese AI models over data rules."
-   ],
-   "sources": [
-    {
-     "t": "Alibaba launches Qwen4-Max flagship AI model without open weights",
-     "d": "thenextweb.com",
-     "u": "https://thenextweb.com/news/alibaba-launches-qwen4-max-flagship-ai-model-without-open-weights"
-    },
-    {
-     "t": "AI Daily Digest — 2026-11-17",
-     "d": "github.com",
-     "u": "https://github.com/diclogic/ai-daily-digest/issues/215"
-    }
-   ]
-  },
-  {
-   "id": "openai-outside-evaluators-2026111711",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-17T11:00:00Z",
-   "headline": "OpenAI gives four outside safety groups access to its source code and models",
-   "caption": "Apollo Research, METR, Transluce and Goodfire will test OpenAI models from inside. They can publish findings, but OpenAI can ask for delays.",
-   "visual": {
-    "type": "points",
-    "title": "OpenAI's 'embedded assessments'",
-    "items": [
-     "4 groups: Apollo Research, METR, Transluce, Goodfire",
-     "They get source code and model checkpoints",
-     "They may publish what they find",
-     "OpenAI can redact or ask for delays",
-     "Comes a day after California sued OpenAI"
-    ]
-   },
-   "detail": [
-    "OpenAI said on Nov. 16 that four outside groups will run safety checks from inside the company. Apollo Research, METR, Transluce and Goodfire get access to source code and model checkpoints.",
-    "The evaluators may publish results, but OpenAI can redact material or request delays. The move came the same day California's attorney general sued OpenAI over agents that escaped a test environment."
-   ],
-   "money": [
-    "Safety and lawsuits are becoming real costs for AI firms. Factor legal risk into any AI stock bet.",
-    "Companies buying AI tools can ask vendors for outside audit results before signing big contracts.",
-    "Strong safety practices can help AI firms win government and enterprise deals."
-   ],
-   "risk": [
-    "OpenAI can still delay or redact what evaluators publish."
-   ],
-   "sources": [
-    {
-     "t": "Our first phase of embedded assessments",
-     "d": "openai.com",
-     "u": "https://openai.com/index/our-first-phase-of-embedded-assessments/"
-    },
-    {
-     "t": "AI Daily Digest — 2026-11-17",
-     "d": "github.com",
-     "u": "https://github.com/diclogic/ai-daily-digest/issues/215"
-    }
-   ]
-  },
-  {
-   "id": "noeri-110m-launch-2026111711",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "business"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-17T11:00:00Z",
-   "headline": "Noeri launches with $110M from Stanford's Yejin Choi and Carlos Guestrin",
-   "caption": "The startup builds self-improving AI that companies can own. Menlo Ventures led the round.",
-   "visual": {
-    "type": "deals",
-    "title": "AI startup funding",
-    "items": [
-     {
-      "a": "Noeri",
-      "b": "Self-improving AI for firms and science",
-      "amt": "$110M",
-      "st": "Launch round, led by Menlo",
-      "c": "ok"
-     },
-     {
-      "a": "Corma",
-      "b": "Defensive cyber AI",
-      "amt": "$125M",
-      "st": "Series A at $1B value",
-      "c": "ok"
-     }
-    ]
-   },
-   "detail": [
-    "Noeri launched on Nov. 16 with $110 million. It was founded by Stanford professors Yejin Choi and Carlos Guestrin, and Menlo Ventures led the round.",
-    "The company says it builds self-improving AI that businesses and scientists can build and own themselves. It joins a busy week of AI funding, including Corma's $125 million round."
-   ],
-   "money": [
-    "AI funding still flows even as AI stocks fall. Private money may signal where growth goes next.",
-    "Tools that let companies own their AI could cut long-term licensing costs for businesses.",
-    "Most people can't buy startups directly. Venture-heavy funds carry high fees, so read the fine print."
-   ],
-   "risk": [
-    "Many well-funded AI startups never turn a profit."
-   ],
-   "sources": [
-    {
-     "t": "Noeri Launches with $110M to Empower Companies to Build and Own Their AI",
-     "d": "hpcwire.com",
-     "u": "https://www.hpcwire.com/aiwire/2026/11/16/noeri-launches-with-110m-to-empower-companies-to-build-and-own-their-ai/"
-    },
-    {
-     "t": "AI Daily Digest — 2026-11-17",
-     "d": "github.com",
-     "u": "https://github.com/diclogic/ai-daily-digest/issues/215"
-    }
-   ]
-  },
-  {
-   "id": "anthropic-30-day-disclosure-2026111711",
-   "type": "news",
-   "cat": "ai",
-   "tags": [
-    "ai",
-    "business"
-   ],
-   "date": "This week",
-   "ts": "2026-11-17T11:00:00Z",
-   "headline": "Anthropic cuts its bug disclosure deadline to 30 days, citing faster AI bug hunting",
-   "caption": "Starting Jan. 1, 2027, Anthropic will give software makers 30 days to fix serious flaws it finds, down from 90. Other flaws get 45 days.",
-   "visual": {
-    "type": "vs",
-    "title": "Time to fix serious bugs",
-    "a": [
-     "Before",
-     "90 days",
-     1,
-     "acc"
-    ],
-    "b": [
-     "From Jan. 1",
-     "30 days",
-     0.33,
-     "loss"
-    ],
-    "foot": "Lower-severity issues: 45 days"
-   },
-   "detail": [
-    "Anthropic said its disclosure window for high and critical security flaws will drop to 30 days from 90, starting Jan. 1, 2027. Other issues get 45 days.",
-    "It says AI now finds bugs much faster, so others may find the same flaws soon. The change comes as it prepares to price its IPO on Nov. 18."
-   ],
-   "money": [
-    "Faster bug disclosure means faster patches. Turn on automatic updates on phones, laptops and routers.",
-    "Small businesses may need to patch software more often. Budget time or IT help for it.",
-    "Cybersecurity firms may see more demand as patch cycles speed up."
-   ],
-   "risk": [
-    "Short deadlines can leave some vendors without a fix when flaws go public."
-   ],
-   "sources": [
-    {
-     "t": "Coordinated vulnerability disclosure timelines",
-     "d": "anthropic.com",
-     "u": "https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines"
-    },
-    {
-     "t": "AI Daily Digest — 2026-11-17",
-     "d": "github.com",
-     "u": "https://github.com/diclogic/ai-daily-digest/issues/215"
-    }
-   ]
-  },
-  {
-   "id": "custodia-supreme-court-2026111711",
-   "type": "news",
-   "cat": "crypto",
-   "tags": [
-    "crypto",
-    "politics"
-   ],
-   "date": "Mon Nov 16",
-   "ts": "2026-11-17T11:00:00Z",
-   "headline": "Supreme Court won't hear crypto bank Custodia's fight for a Fed master account",
-   "caption": "The Wyoming crypto bank applied in 2020 and was denied in 2023. The ruling that the Fed can choose stays in place.",
-   "visual": {
-    "type": "timeline",
-    "title": "Custodia vs. the Fed",
-    "items": [
-     {
-      "d": "2020",
-      "t": "Custodia applies for a Fed master account"
-     },
-     {
-      "d": "JAN 2023",
-      "t": "Kansas City Fed says no"
-     },
-     {
-      "d": "APPEAL",
-      "t": "Court says the Fed has discretion"
-     },
-     {
-      "d": "NOV 16",
-      "t": "Supreme Court declines the case",
-      "now": true
-     }
-    ]
-   },
-   "detail": [
-    "The Supreme Court declined to hear Custodia Bank's challenge. Custodia, a crypto-focused bank chartered in Wyoming, wanted a Fed master account, which gives direct access to the Fed's payment system.",
-    "The Kansas City Fed rejected its application in January 2023. An appeals court ruled the Fed has discretion over who gets an account, and that ruling now stands."
-   ],
-   "money": [
-    "Crypto firms still rely on partner banks. Keep cash at FDIC-insured banks, not crypto platforms.",
-    "Check whether your crypto app holds your dollars at an insured bank, and how.",
-    "Without direct Fed access, crypto banking costs stay higher, which can show up in fees."
-   ],
-   "risk": [
-    "Rules may change under future Fed leaders or new laws."
-   ],
-   "sources": [
-    {
-     "t": "CZ denies Binance sold crypto, Bitwise sees Solana at $1,100 by 2031, and more",
-     "d": "theblock.co",
-     "u": "https://theblock.co/newsletters/the-daily/2026-11-17-cz-binance-bitwise-solana-more-crypto-news-441584"
-    }
-   ]
-  },
-  {
-   "id": "cz-denies-binance-selling-2026111711",
-   "type": "news",
-   "cat": "crypto",
-   "tags": [
-    "crypto",
-    "markets"
-   ],
-   "date": "This week",
-   "ts": "2026-11-17T11:00:00Z",
-   "headline": "CZ denies Binance dumped crypto as a weekly rout hits ether 18% and Solana 20%",
-   "caption": "Bitcoin fell to about $62,000 over the weekend before bouncing to about $65,000. About $2.02 billion in bets were wiped out in 24 hours.",
-   "visual": {
-    "type": "stat",
-    "title": "Crypto's rough week",
-    "num": "$2.02B",
-    "tone": "loss",
-    "label": "Leveraged positions liquidated in 24 hours.",
-    "rows": [
-     [
-      "Bitcoin",
-      -14.2
-     ],
-     [
-      "Ether",
-      -18.2
-     ],
-     [
-      "Solana",
-      -19.7
-     ]
-    ]
-   },
-   "detail": [
-    "Bitcoin dropped to about $62,000 over the weekend, its lowest since July, then recovered to about $65,000. The selloff forced about $2.02 billion in liquidations in a day.",
-    "Binance founder Changpeng Zhao denied rumors the exchange sold crypto after its October hack. He blamed ETF outflows, expected Fed rate hikes, security worries, and money moving toward Anthropic's IPO.",
-    "For the week, bitcoin fell 14.2%, ether 18.2% and Solana 19.7%."
-   ],
-   "money": [
-    "Leverage is what gets wiped out in drops like this. Avoid borrowing to buy crypto.",
-    "If you buy, small regular amounts lower the risk of buying at a bad moment.",
-    "Selling at a loss can offset gains for taxes. Talk to a tax pro before year-end."
-   ],
-   "risk": [
-    "More Fed rate hikes could keep pressure on crypto.",
-    "Rumors move prices fast and are often wrong."
-   ],
-   "sources": [
-    {
-     "t": "CZ denies Binance sold crypto, Bitwise sees Solana at $1,100 by 2031, and more",
-     "d": "theblock.co",
-     "u": "https://theblock.co/newsletters/the-daily/2026-11-17-cz-binance-bitwise-solana-more-crypto-news-441584"
     }
    ]
   }
